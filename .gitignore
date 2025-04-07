@@ -1,13 +1,12 @@
 miniconda3/
-momask-codes/
 
-s1/s1.1-1.5B
-s1/s1.1-32B
-s1/s1.1-7B
+s1_baseline/s1.1-1.5B
+s1_baseline/s1.1-32B
+s1_baseline/s1.1-7B
 
-distill/DeepSeek-R1-Distill-Qwen-32B
-distill/DeepSeek-R1-Distill-Qwen-7B
+deepseek_baseline/DeepSeek-R1-Distill-Qwen-32B
+deepseek_baseline/DeepSeek-R1-Distill-Qwen-7B
 
-batchdata/rawvideos/*
-batchdata/transcripts/*
-batchdata/.git
+video_processing/rawvideos/*
+video_processing/transcripts/*
+video_processing/.git

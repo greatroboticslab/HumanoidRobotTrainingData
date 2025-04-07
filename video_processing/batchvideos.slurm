@@ -10,7 +10,7 @@
 set -x
 cd ${PROJECT}
 
-cd PSCCode/batchdata/rawvideos/
+cd PSCCode/video_processing/rawvideos/
 conda run -n whisper yt-dlp -a ../videos.txt -x --audio-format mp3 -k
 cd ..
 conda run -n whisper python masswhisper.py
