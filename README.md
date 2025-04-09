@@ -6,6 +6,7 @@ This repo contains the code we execute on the PSC server to obtain animation dat
 
 ### Setup
 
+### For Whisper
 You should create a conda environment called whisper. This is optional, but the SLURM batch jobs provided use this environment.
 
 	conda create -n whisper python=3.12
@@ -20,6 +21,10 @@ You will also need whisper, which will convert audio to transcripts:
 	pip install -U openai-whisper
 
 There is a text file called videos.txt in the video_processing folder. Paste YouTube links separated by a newline into this text folder for videos you wish to download.
+
+
+### For S1 Scallinglaw
+
 
 ### Running the Job
 
