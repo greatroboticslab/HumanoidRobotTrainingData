@@ -1,20 +1,114 @@
 + cd /ocean/projects/cis240145p/byler
 + cd PSCCode/s1_baseline/
 + conda run -n s1 python s1.py
-2025-04-21 11:33:34,297	INFO worker.py:1852 -- Started a local Ray instance.
-Traceback (most recent call last):
-  File "/ocean/projects/cis240145p/byler/PSCCode/s1_baseline/s1.py", line 14, in <module>
-    model = LLM(
-  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/utils.py", line 1028, in inner
-    return fn(*args, **kwargs)
-  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/entrypoints/llm.py", line 210, in __init__
-    self.llm_engine = self.engine_class.from_engine_args(
-  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/engine/llm_engine.py", line 583, in from_engine_args
-    executor_class = cls._get_executor_cls(engine_config)
-  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/engine/llm_engine.py", line 558, in _get_executor_cls
-    initialize_ray_cluster(engine_config.parallel_config)
-  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/executor/ray_utils.py", line 281, in initialize_ray_cluster
-    raise ValueError(
-ValueError: The number of required GPUs exceeds the total number of available GPUs in the placement group.
 
-ERROR conda.cli.main_run:execute(125): `conda run python s1.py` failed. (See above for error)
+Loading safetensors checkpoint shards:   0% Completed | 0/7 [00:00<?, ?it/s]
+
+Loading safetensors checkpoint shards:  14% Completed | 1/7 [00:46<04:39, 46.50s/it]
+
+Loading safetensors checkpoint shards:  29% Completed | 2/7 [01:20<03:14, 38.95s/it]
+
+Loading safetensors checkpoint shards:  43% Completed | 3/7 [02:03<02:44, 41.10s/it]
+
+Loading safetensors checkpoint shards:  57% Completed | 4/7 [02:36<01:53, 37.68s/it]
+
+Loading safetensors checkpoint shards:  71% Completed | 5/7 [03:08<01:11, 35.76s/it]
+
+Loading safetensors checkpoint shards:  86% Completed | 6/7 [03:36<00:32, 32.94s/it]
+
+Loading safetensors checkpoint shards: 100% Completed | 7/7 [04:01<00:00, 30.43s/it]
+
+Loading safetensors checkpoint shards: 100% Completed | 7/7 [04:01<00:00, 34.48s/it]
+
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.33it/s, est. speed input: 476.99 toks/s, output: 85.27 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.33it/s, est. speed input: 476.99 toks/s, output: 85.27 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.37s/it, est. speed input: 17.55 toks/s, output: 99.71 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.37s/it, est. speed input: 17.55 toks/s, output: 99.71 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.29s/it, est. speed input: 889.79 toks/s, output: 93.78 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.29s/it, est. speed input: 889.79 toks/s, output: 93.78 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.35it/s, est. speed input: 508.82 toks/s, output: 96.08 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.35it/s, est. speed input: 508.82 toks/s, output: 96.08 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:02<00:00,  2.06s/it, est. speed input: 319.18 toks/s, output: 97.35 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:02<00:00,  2.06s/it, est. speed input: 319.18 toks/s, output: 97.35 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.99s/it, est. speed input: 579.65 toks/s, output: 96.02 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.99s/it, est. speed input: 579.65 toks/s, output: 96.02 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.89s/it, est. speed input: 703.37 toks/s, output: 95.26 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.89s/it, est. speed input: 703.37 toks/s, output: 95.26 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.85it/s, est. speed input: 1243.84 toks/s, output: 90.42 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.84it/s, est. speed input: 1243.84 toks/s, output: 90.42 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.57s/it, est. speed input: 79.87 toks/s, output: 99.27 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.57s/it, est. speed input: 79.87 toks/s, output: 99.27 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s, est. speed input: 3177.19 toks/s, output: 79.92 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s, est. speed input: 3177.19 toks/s, output: 79.92 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:26<00:00, 26.51s/it, est. speed input: 14.14 toks/s, output: 99.65 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:26<00:00, 26.51s/it, est. speed input: 14.14 toks/s, output: 99.65 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.13s/it, est. speed input: 449.35 toks/s, output: 96.23 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.13s/it, est. speed input: 449.35 toks/s, output: 96.23 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.12s/it, est. speed input: 2000.94 toks/s, output: 87.11 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.13s/it, est. speed input: 2000.94 toks/s, output: 87.11 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.99s/it, est. speed input: 280.89 toks/s, output: 97.66 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.99s/it, est. speed input: 280.89 toks/s, output: 97.66 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.52it/s, est. speed input: 2316.26 toks/s, output: 85.05 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.52it/s, est. speed input: 2316.26 toks/s, output: 85.05 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:02<00:00,  2.92s/it, est. speed input: 883.46 toks/s, output: 94.24 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:02<00:00,  2.92s/it, est. speed input: 883.46 toks/s, output: 94.24 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.56s/it, est. speed input: 798.78 toks/s, output: 94.73 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.56s/it, est. speed input: 798.78 toks/s, output: 94.73 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:02<00:00,  2.09s/it, est. speed input: 566.73 toks/s, output: 96.29 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:02<00:00,  2.09s/it, est. speed input: 566.73 toks/s, output: 96.29 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [10:58<00:00, 658.10s/it, est. speed input: 1.21 toks/s, output: 48.59 toks/s]
+Processed prompts: 100%|██████████| 1/1 [10:58<00:00, 658.10s/it, est. speed input: 1.21 toks/s, output: 48.59 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.11it/s, est. speed input: 544.16 toks/s, output: 95.70 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.11it/s, est. speed input: 544.16 toks/s, output: 95.70 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.41s/it, est. speed input: 18.94 toks/s, output: 99.94 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.41s/it, est. speed input: 18.94 toks/s, output: 99.94 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:04<00:00,  4.70s/it, est. speed input: 36.80 toks/s, output: 99.97 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:04<00:00,  4.70s/it, est. speed input: 36.80 toks/s, output: 99.97 toks/s]
+[rank0]:[W421 12:11:31.323706400 ProcessGroupNCCL.cpp:1250] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())
+/jet/home/byler/miniconda3/envs/s1/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked shared_memory objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+

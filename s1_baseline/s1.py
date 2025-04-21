@@ -9,6 +9,11 @@ def ExtractTask(line):
         return line
     return "null"
 
+def TaskToMoMask(line):
+    if ':' in line:
+        return line.split(':', 1)[1].strip()
+    return line.strip()
+
 tasks = []
 
 model = LLM(
@@ -57,7 +62,9 @@ for file in onlyfiles:
                 task = ExtractTask(l)
                 if task != "null":
                     print(l)
-                    tasks.append(l)
+                    motion = TaskToMoMask(task)
+                    motion += "#NA"
+                    tasks.append(motion)
         except:
             print("File IO error, skipping...")
 
