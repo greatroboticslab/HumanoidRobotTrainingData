@@ -1,0 +1,91 @@
+Collecting git+https://github.com/openai/CLIP.git
+  Cloning https://github.com/openai/CLIP.git to /var/tmp/pip-req-build-8h1vbtlc
+  Resolved https://github.com/openai/CLIP.git to commit dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: ftfy in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from clip==1.0) (6.3.1)
+Requirement already satisfied: packaging in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from clip==1.0) (24.2)
+Requirement already satisfied: regex in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from clip==1.0) (2024.11.6)
+Requirement already satisfied: tqdm in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from clip==1.0) (4.66.5)
+Requirement already satisfied: torch in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from clip==1.0) (2.6.0)
+Requirement already satisfied: torchvision in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from clip==1.0) (0.21.0)
+Requirement already satisfied: wcwidth in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from ftfy->clip==1.0) (0.2.13)
+Requirement already satisfied: filelock in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (3.17.0)
+Requirement already satisfied: typing-extensions>=4.10.0 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (4.12.2)
+Requirement already satisfied: networkx in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (3.4.2)
+Requirement already satisfied: jinja2 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (3.1.5)
+Requirement already satisfied: fsspec in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (2025.2.0)
+Requirement already satisfied: nvidia-cuda-nvrtc-cu12==12.4.127 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (12.4.127)
+Requirement already satisfied: nvidia-cuda-runtime-cu12==12.4.127 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (12.4.127)
+Requirement already satisfied: nvidia-cuda-cupti-cu12==12.4.127 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (12.4.127)
+Requirement already satisfied: nvidia-cudnn-cu12==9.1.0.70 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (9.1.0.70)
+Requirement already satisfied: nvidia-cublas-cu12==12.4.5.8 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (12.4.5.8)
+Requirement already satisfied: nvidia-cufft-cu12==11.2.1.3 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (11.2.1.3)
+Requirement already satisfied: nvidia-curand-cu12==10.3.5.147 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (10.3.5.147)
+Requirement already satisfied: nvidia-cusolver-cu12==11.6.1.9 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (11.6.1.9)
+Requirement already satisfied: nvidia-cusparse-cu12==12.3.1.170 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (12.3.1.170)
+Requirement already satisfied: nvidia-cusparselt-cu12==0.6.2 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (0.6.2)
+Requirement already satisfied: nvidia-nccl-cu12==2.21.5 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (2.21.5)
+Requirement already satisfied: nvidia-nvtx-cu12==12.4.127 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (12.4.127)
+Requirement already satisfied: nvidia-nvjitlink-cu12==12.4.127 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (12.4.127)
+Requirement already satisfied: triton==3.2.0 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (3.2.0)
+Requirement already satisfied: setuptools in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (75.8.0)
+Requirement already satisfied: sympy==1.13.1 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torch->clip==1.0) (1.13.1)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from sympy==1.13.1->torch->clip==1.0) (1.3.0)
+Requirement already satisfied: numpy in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torchvision->clip==1.0) (2.2.2)
+Requirement already satisfied: pillow!=8.3.*,>=5.3.0 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from torchvision->clip==1.0) (11.1.0)
+Requirement already satisfied: MarkupSafe>=2.0 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from jinja2->torch->clip==1.0) (3.0.2)
+Requirement already satisfied: gdown in /jet/home/byler/miniconda3/lib/python3.12/site-packages (5.2.0)
+Requirement already satisfied: beautifulsoup4 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from gdown) (4.13.3)
+Requirement already satisfied: filelock in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from gdown) (3.17.0)
+Requirement already satisfied: requests[socks] in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from gdown) (2.32.3)
+Requirement already satisfied: tqdm in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from gdown) (4.66.5)
+Requirement already satisfied: soupsieve>1.2 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from beautifulsoup4->gdown) (2.6)
+Requirement already satisfied: typing-extensions>=4.0.0 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from beautifulsoup4->gdown) (4.12.2)
+Requirement already satisfied: charset-normalizer<4,>=2 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from requests[socks]->gdown) (3.3.2)
+Requirement already satisfied: idna<4,>=2.5 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from requests[socks]->gdown) (3.7)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from requests[socks]->gdown) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from requests[socks]->gdown) (2024.12.14)
+Requirement already satisfied: PySocks!=1.5.7,>=1.5.6 in /jet/home/byler/miniconda3/lib/python3.12/site-packages (from requests[socks]->gdown) (1.7.1)
+Downloading pretrained models for HumanML3D dataset
+Unzipping humanml3d_models.zip
+Archive:  humanml3d_models.zip
+   creating: length_estimator/
+   creating: length_estimator/model/
+  inflating: length_estimator/model/finest.tar  
+   creating: rvq_nq6_dc512_nc512_noshare_qdp0.2/
+   creating: rvq_nq6_dc512_nc512_noshare_qdp0.2/meta/
+   creating: rvq_nq6_dc512_nc512_noshare_qdp0.2/model/
+  inflating: rvq_nq6_dc512_nc512_noshare_qdp0.2/opt.txt  
+  inflating: rvq_nq6_dc512_nc512_noshare_qdp0.2/meta/mean.npy  
+  inflating: rvq_nq6_dc512_nc512_noshare_qdp0.2/meta/std.npy  
+  inflating: rvq_nq6_dc512_nc512_noshare_qdp0.2/model/net_best_fid.tar  
+   creating: t2m_nlayer8_nhead6_ld384_ff1024_cdp0.1_rvq6ns/
+   creating: t2m_nlayer8_nhead6_ld384_ff1024_cdp0.1_rvq6ns/model/
+  inflating: t2m_nlayer8_nhead6_ld384_ff1024_cdp0.1_rvq6ns/opt.txt  
+  inflating: t2m_nlayer8_nhead6_ld384_ff1024_cdp0.1_rvq6ns/model/latest.tar  
+   creating: tres_nlayer8_ld384_ff1024_rvq6ns_cdp0.2_sw/
+   creating: tres_nlayer8_ld384_ff1024_rvq6ns_cdp0.2_sw/model/
+  inflating: tres_nlayer8_ld384_ff1024_rvq6ns_cdp0.2_sw/opt.txt  
+  inflating: tres_nlayer8_ld384_ff1024_rvq6ns_cdp0.2_sw/model/net_best_fid.tar  
+Cleaning humanml3d_models.zip
+Downloading pretrained models for KIT-ML dataset
+Unzipping kit_models.zip
+Archive:  kit_models.zip
+   creating: rvq_nq6_dc512_nc512_noshare_qdp0.2_k/
+   creating: rvq_nq6_dc512_nc512_noshare_qdp0.2_k/meta/
+   creating: rvq_nq6_dc512_nc512_noshare_qdp0.2_k/model/
+  inflating: rvq_nq6_dc512_nc512_noshare_qdp0.2_k/opt.txt  
+  inflating: rvq_nq6_dc512_nc512_noshare_qdp0.2_k/meta/mean.npy  
+  inflating: rvq_nq6_dc512_nc512_noshare_qdp0.2_k/meta/std.npy  
+  inflating: rvq_nq6_dc512_nc512_noshare_qdp0.2_k/model/net_best_fid.tar  
+   creating: t2m_nlayer8_nhead6_ld384_ff1024_cdp0.1_rvq6ns_k/
+   creating: t2m_nlayer8_nhead6_ld384_ff1024_cdp0.1_rvq6ns_k/model/
+  inflating: t2m_nlayer8_nhead6_ld384_ff1024_cdp0.1_rvq6ns_k/opt.txt  
+  inflating: t2m_nlayer8_nhead6_ld384_ff1024_cdp0.1_rvq6ns_k/model/latest.tar  
+   creating: tres_nlayer8_ld384_ff1024_rvq6ns_cdp0.2_sw_k/
+   creating: tres_nlayer8_ld384_ff1024_rvq6ns_cdp0.2_sw_k/model/
+  inflating: tres_nlayer8_ld384_ff1024_rvq6ns_cdp0.2_sw_k/opt.txt  
+  inflating: tres_nlayer8_ld384_ff1024_rvq6ns_cdp0.2_sw_k/model/net_best_fid.tar  
+Cleaning kit_models.zip
+Downloading done!

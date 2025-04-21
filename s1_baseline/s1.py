@@ -15,6 +15,7 @@ def TaskToMoMask(line):
     return line.strip()
 
 tasks = []
+filenames = []
 
 model = LLM(
     "s1.1-7B",
@@ -65,12 +66,20 @@ for file in onlyfiles:
                     motion = TaskToMoMask(task)
                     motion += "#NA"
                     tasks.append(motion)
+            filenames.append(str(file))
         except:
             print("File IO error, skipping...")
 
-outputFile = open("output.txt", "w", encoding="ascii", errors="ignore")
+outputFile = open("output/output.txt", "w", encoding="ascii", errors="ignore")
+outputInfoFile = open("output/output_info.txt", "w", encoding="ascii", errors="ignore")
+outputInfoString = "id, filename, task\n"
 outputString = ""
 for t in tasks:
     outputString += t + '\n'
+
+for i in range(len(tasks)):
+    outputInfoString += str(i) + ", " + filenames[i] + ", " + tasks[i] + "\n"
+
 outputFile.write(outputString)
 outputFile.close()
+outputInfoFile.close()

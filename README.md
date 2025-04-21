@@ -20,6 +20,10 @@ You will also need whisper, which will convert audio to transcripts:
 
 	pip install -U openai-whisper
 
+Finally, you will need PyTube:
+
+	pip install pytube
+
 There is a text file called videos.txt in the video_processing folder. Paste YouTube links separated by a newline into this text folder for videos you wish to download.
 
 
