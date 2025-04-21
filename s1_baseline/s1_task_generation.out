@@ -1,0 +1,4 @@
+INFO 04-21 11:33:10 config.py:1861] Downcasting torch.float32 to torch.float16.
+INFO 04-21 11:33:27 config.py:350] This model supports multiple tasks: {'generate', 'embedding'}. Defaulting to 'generate'.
+INFO 04-21 11:33:27 config.py:1020] Defaulting to use ray for distributed inference
+

@@ -1,0 +1,20 @@
++ cd /ocean/projects/cis240145p/byler
++ cd PSCCode/s1_baseline/
++ conda run -n s1 python s1.py
+2025-04-21 11:33:34,297	INFO worker.py:1852 -- Started a local Ray instance.
+Traceback (most recent call last):
+  File "/ocean/projects/cis240145p/byler/PSCCode/s1_baseline/s1.py", line 14, in <module>
+    model = LLM(
+  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/utils.py", line 1028, in inner
+    return fn(*args, **kwargs)
+  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/entrypoints/llm.py", line 210, in __init__
+    self.llm_engine = self.engine_class.from_engine_args(
+  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/engine/llm_engine.py", line 583, in from_engine_args
+    executor_class = cls._get_executor_cls(engine_config)
+  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/engine/llm_engine.py", line 558, in _get_executor_cls
+    initialize_ray_cluster(engine_config.parallel_config)
+  File "/jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/vllm/executor/ray_utils.py", line 281, in initialize_ray_cluster
+    raise ValueError(
+ValueError: The number of required GPUs exceeds the total number of available GPUs in the placement group.
+
+ERROR conda.cli.main_run:execute(125): `conda run python s1.py` failed. (See above for error)

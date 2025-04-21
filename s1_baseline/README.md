@@ -17,3 +17,7 @@ When the requirements are finished installing, you can run the s1.py script:
 	python s1.py
 
 This script will create a list of tasks for MoMask to animate.
+
+Alternatively, you can run a Slurm job:
+
+	sbatch generate_tasks.slurm

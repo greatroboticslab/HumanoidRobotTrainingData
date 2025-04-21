@@ -1,8 +1,0 @@
-#!/bin/bash
-#SBATCH -p EM
-#SBATCH -N 1
-#SBATCH --ntasks-per-node=96
-#SBATCH --mem=1T
-#SBATCH --time=01:00:00
-
-conda run -n s1 python ${PROJECT}/s1/s1.py
