@@ -16,5 +16,5 @@ pip install --upgrade --no-cache-dir gdown
 
 bash prepare/download_models.sh
 
-conda run -n momask python gen_t2m.py --gpu_id 1 --ext batch_motions --text_path ../s1_baseline/output.txt
+conda run -n momask python gen_t2m.py --gpu_id 0 --ext batch_motions --text_path ../s1_baseline/output.txt
 
