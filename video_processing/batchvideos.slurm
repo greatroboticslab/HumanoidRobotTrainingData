@@ -12,5 +12,6 @@ cd ${PROJECT}
 
 cd PSCCode/video_processing/rawvideos/
 conda run -n whisper yt-dlp -a ../videos.txt -x --audio-format mp3 -k --cookies ../cookies.txt
+conda run -n whisper yt-dlp -a ../videos_s1.txt -x --audio-format mp3 -k --cookies ../cookies.txt
 cd ..
 conda run -n whisper python masswhisper.py
