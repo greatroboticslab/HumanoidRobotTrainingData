@@ -67,4 +67,6 @@ echo "🎉 Script complete. Total videos downloaded: $TOTAL_DOWNLOADED"
 echo "Beginning transcription..."
 
 cd ..
+conda run -n whisper python identify_videos.py
+
 conda run -n whisper python masswhisper.py
