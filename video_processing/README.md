@@ -24,7 +24,7 @@ You can put a list of searches into search_terms.txt, and run youtube_search.py 
 
 	youtube_search.py --input_file <name of input file, usually search_terms.txt>  --api_key <a Google API key that can use the YouTube V3 API> --max_results <how many videos the script will try to pull per search>
 
-After search, it will generated video_s1.txt file. In this file, it include video URLS, name, and indexes of the videos. Then, you need to run the following to donwload the videos.
+After search, it will generate video_s1.txt file. In this file, it includes video URLS, name, and indexes of the videos. Then, you need to run the following to download the videos.
 
 	sbatch batchvideos.slurm
 
@@ -34,6 +34,12 @@ Example:
 	python youtube_search.py --input_file search_terms.txt --api_key 1234567890REMOVEDOURAPIASIKEYTSPRIVATEINFO0987654321 --max_results 3
 
 There is a script in the s1_baseline/ folder that generates a list of search terms, and outputs it to search_terms.txt.
+
+### Identification
+
+identify_videos.py can be called to generate a .csv list of videos, ids, and urls. This is useful for finding out what video belongs to what url and vice-versa.
+
+	python identify_videos.py
 
 ### Local Download
 

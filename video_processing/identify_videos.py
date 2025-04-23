@@ -36,3 +36,15 @@ if __name__ == "__main__":
     csvFile = open("rawvideos/videos.csv", "w")
     csvFile.write(csv_text)
     csvFile.close()
+
+    #Do S1 Videos
+    _urls = []
+    titles = []
+    file_path = "videos_s1.txt"
+    print_youtube_titles(file_path)
+    csv_text = "id, url, name\n"
+    for i in range(len(_urls)):
+        csv_text += str(i) + ", " + _urls[i] + ", " + titles[i] + "\n"
+    csvFile = open("rawvideos/videos_s1.csv", "w")
+    csvFile.write(csv_text)
+    csvFile.close()
