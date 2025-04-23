@@ -12,6 +12,8 @@ Run the command:
 
 This will download all the videos, and then transcribe them into the transcripts/ folder.
 
+You may also need cookies.txt in this directory. Create the file, and use a cookies extraction extension to paste them into this file. This is due to YouTube blocking mass downloads of videos.
+
 ## Videos
 
 YouTube videos are defined in videos.txt. You should paste the URLs of all the YouTube videos you wish to download, seperated by a newline.
