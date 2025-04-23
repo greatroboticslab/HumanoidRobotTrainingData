@@ -37,3 +37,8 @@ Once you have the dependencies installed, you can run batchvideos.slurm in the v
 	sbatch batchvideos.slurm
 
 This will submit a job that will download the YouTube videos (stored in rawvideos), extract the audio, and then generate text transcripts of the videos (stored in transcripts).
+
+## Workflow
+
+START -> batch video download (video_id.mp3) -> Whisper transcription -> S1 Analysis (tasks/reject) -> MoMask Motion Generation -> END
+S1 Analysis -> Generate a text file of urls that were not rejected for being irrelevant.
