@@ -4,6 +4,8 @@ This repo contains the code we execute on the PSC server to obtain animation dat
 
 ## Quick Start
 
+![Flowchart](PSC_flowchart.png)
+
 ### Setup
 
 ### For Whisper
