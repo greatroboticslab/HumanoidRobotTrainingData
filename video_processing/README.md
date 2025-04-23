@@ -16,6 +16,18 @@ This will download all the videos, and then transcribe them into the transcripts
 
 YouTube videos are defined in videos.txt. You should paste the URLs of all the YouTube videos you wish to download, seperated by a newline.
 
+### Search Terms
+
+You can put a list of searches into search_terms.txt, and run youtube_search.py to get the URLS of Creative Commons videos that show up when that search is used. The usage of youtube_search.py is as follows:
+
+	youtube_search.py --input_file <name of input file, usually search_terms.txt>  --api_key <a Google API key that can use the YouTube V3 API> --max_results <how many videos the script will try to pull per search>
+
+Example:
+
+	python youtube_search.py --input_file search_terms.txt --api_key 1234567890REMOVEDOURAPIASIKEYTSPRIVATEINFO0987654321 --max_results 3
+
+There is a script in the s1_baseline/ folder that generates a list of search terms, and outputs it to search_terms.txt.
+
 ### Local Download
 
 You can use this command:

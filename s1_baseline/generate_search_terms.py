@@ -32,11 +32,24 @@ prompt += "<|im_end|>\n"
 prompt += "<|im_start|>user\nGive a search phrase related to farming:<|im_end|>\n"
 prompt += "<|im_start|>assistant\nFinal Answer:\n"
 
+searches = []
+
 o = model.generate(prompt, sampling_params=sampling_params)
 print(o[0].outputs[0].text)
+
+searches.append(str(o[0].outputs[0].text))
 
 for i in range(args.searches - 1):
     prompt = "<|im_start|>user\nGive another search phrase related to farming:<|im_end|>\n"
     prompt += "<|im_start|>assistant\nFinal Answer:\n" 
     o = model.generate(prompt, sampling_params=sampling_params)
     print(o[0].outputs[0].text)
+    searches.append(str(o[0].outputs[0].text))
+
+outString = ""
+for s in searches:
+    outString += s + "\n"
+
+outFile = open("../video_processing/search_terms.txt")
+outFile.write(outString)
+outFile.close()
