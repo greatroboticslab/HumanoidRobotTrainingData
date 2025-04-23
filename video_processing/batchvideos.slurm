@@ -46,7 +46,7 @@ for URL_LIST in "${FILES[@]}"; do
 
         head -n "$CURRENT_BATCH_SIZE" temp_remaining_"$BASENAME".txt > current_batch_"$BASENAME".txt
 
-        conda run -n "$ENV_NAME" yt-dlp -o "%(id)s.%(ext)s" -a current_batch_"$BASENAME".txt
+        conda run -n "$ENV_NAME" yt-dlp --cookies cookies.txt -o "%(id)s.%(ext)s" -a current_batch_"$BASENAME".txt
 
         cat current_batch_"$BASENAME".txt >> "$LOG_FILE"
         sed -i "1,${CURRENT_BATCH_SIZE}d" temp_remaining_"$BASENAME".txt
