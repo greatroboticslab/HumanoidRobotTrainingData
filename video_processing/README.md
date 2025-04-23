@@ -24,6 +24,12 @@ You can put a list of searches into search_terms.txt, and run youtube_search.py 
 
 	youtube_search.py --input_file <name of input file, usually search_terms.txt>  --api_key <a Google API key that can use the YouTube V3 API> --max_results <how many videos the script will try to pull per search>
 
+After search, you need to run the following to donwload videos.
+
+	sbatch batchvideos.slurm
+
+ 
+
 Example:
 
 	python youtube_search.py --input_file search_terms.txt --api_key 1234567890REMOVEDOURAPIASIKEYTSPRIVATEINFO0987654321 --max_results 3
