@@ -1,50 +1,39 @@
-import yt_dlp
+import os
+import csv
+import subprocess
+import json
 
-titles = []
-_urls = []
+RAW_DIR = "rawvideos"
+OUTPUT_CSV = "video_data.csv"
+YOUTUBE_PREFIX = "https://www.youtube.com/watch?v="
 
-def print_youtube_titles(file_path, cookies_file='cookies.txt'):
+def get_video_title(video_id):
     try:
-        with open(file_path, 'r') as f:
-            urls = [line.strip() for line in f if line.strip()]
+        # Use yt-dlp to get video metadata in JSON format
+        result = subprocess.run(
+            ["yt-dlp", f"https://www.youtube.com/watch?v={video_id}", "--skip-download", "--print", "%j"],
+            capture_output=True, text=True, check=True
+        )
+        metadata = json.loads(result.stdout.strip())
+        title = metadata.get("title", "Unknown Title")
+        return title.replace(",", "")  # Remove commas
+    except Exception as e:
+        print(f"Error fetching metadata for video ID {video_id}: {e}")
+        return "Unknown Title"
 
-        ydl_opts = {
-            'quiet': True,
-            'cookiefile': cookies_file,
-        }
+def main():
+    mp3_files = [f for f in os.listdir(RAW_DIR) if f.endswith(".mp3")]
+    video_ids = [os.path.splitext(f)[0] for f in mp3_files]
 
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            for url in urls:
-                try:
-                    info = ydl.extract_info(url, download=False)
-                    #print(f"Title: {info.get('title', 'N/A')}")
-                    titles.append(str(info.get('title', 'N/A')))
-                    _urls.append(url)
-                except Exception as e:
-                    print(f"Failed to fetch title for {url}: {e}")
+    with open(OUTPUT_CSV, "w", newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["NUMBER", "URL", "video title"])
 
-    except FileNotFoundError:
-        print(f"File not found: {file_path}")
+        for index, video_id in enumerate(video_ids, start=1):
+            url = f"{YOUTUBE_PREFIX}{video_id}"
+            title = get_video_title(video_id)
+            writer.writerow([index, url, title])
+            print(f"[{index}] {video_id} → {title}")
 
-# Example usage
 if __name__ == "__main__":
-    file_path = "videos.txt"  # update as needed
-    print_youtube_titles(file_path)
-    csv_text = "id, url, name\n"
-    for i in range(len(_urls)):
-        csv_text += str(i) + ", " + _urls[i] + ", " + titles[i] + "\n"
-    csvFile = open("rawvideos/videos.csv", "w")
-    csvFile.write(csv_text)
-    csvFile.close()
-
-    #Do S1 Videos
-    _urls = []
-    titles = []
-    file_path = "videos_s1.txt"
-    print_youtube_titles(file_path)
-    csv_text = "id, url, name\n"
-    for i in range(len(_urls)):
-        csv_text += str(i) + ", " + _urls[i] + ", " + titles[i] + "\n"
-    csvFile = open("rawvideos/videos_s1.csv", "w")
-    csvFile.write(csv_text)
-    csvFile.close()
+    main()
