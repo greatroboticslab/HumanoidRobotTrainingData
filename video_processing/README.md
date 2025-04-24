@@ -21,7 +21,9 @@ Essenetially, we need to do this. YouTube rotates account cookies frequently on 
 One way to do this is through a private browsing/incognito window:
 
 Open a new private browsing/incognito window and log into YouTube
+
 Open a new tab and close the YouTube tab
+
 Export youtube.com cookies from the browser then close the private browsing/incognito window so the session is never opened in the browser again.
 
 
