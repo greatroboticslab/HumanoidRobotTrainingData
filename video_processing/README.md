@@ -16,6 +16,17 @@ This will download all the videos, and then transcribe them into the transcripts
 
 You may also need cookies.txt in this directory. Create the file, and use a cookies extraction extension to paste them into this file. This is due to YouTube blocking mass downloads of videos. [Here is a link describing how to get the cookies file from the yt-dlp repo.](https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies)
 
+Essenetially, we need to do this. YouTube rotates account cookies frequently on open YouTube browser tabs as a security measure. To export cookies that will remain working with yt-dlp, you will need to export cookies in such a way that they are never rotated.
+
+One way to do this is through a private browsing/incognito window:
+
+Open a new private browsing/incognito window and log into YouTube
+Open a new tab and close the YouTube tab
+Export youtube.com cookies from the browser then close the private browsing/incognito window so the session is never opened in the browser again.
+
+
+
+
 ## Videos
 
 YouTube videos are defined in videos.txt. You should paste the URLs of all the YouTube videos you wish to download, seperated by a newline.
