@@ -32,7 +32,7 @@ id = 1
 model = whisper.load_model("turbo")
 
 for file in onlyfiles:
-	if(file[-3:] == "mp3"):
+	if(file[-3:] == "mp4"):
 		
                 _url = get_video_csv_info(file, 1)
                 _vname = get_video_csv_info(file, 2)
