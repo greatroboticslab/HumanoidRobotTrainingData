@@ -12,7 +12,9 @@ Run the command:
 
 This will download all the videos, and then transcribe them into the transcripts/ folder. You can edit the .slurm file to change parameters, as currently it will download only 100 videos, 15 at a time, seperated by 5 minute intervals.
 
-You may also need cookies.txt in this directory. Create the file, and use a cookies extraction extension to paste them into this file. This is due to YouTube blocking mass downloads of videos.
+### Cookies
+
+You may also need cookies.txt in this directory. Create the file, and use a cookies extraction extension to paste them into this file. This is due to YouTube blocking mass downloads of videos. [Here is a link describing how to get the cookies file from the yt-dlp repo.](https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies)
 
 ## Videos
 
