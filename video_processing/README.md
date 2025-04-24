@@ -24,6 +24,7 @@ Open a new private browsing/incognito window and log into YouTube
 
 Open a new tab and close the YouTube tab
 
+You need an extension for a browser, such as for firefox cookie management extenion (Get cookies.txt LOCALLY)
 ![Getting cookies from extension](get_cookies.png)
 
 Export youtube.com cookies from the browser then close the private browsing/incognito window so the session is never opened in the browser again.
