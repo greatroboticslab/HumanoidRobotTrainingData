@@ -10,7 +10,7 @@ Run the command:
 
 	sbatch batchvideos.slurm
 
-This will download all the videos, and then transcribe them into the transcripts/ folder. You can edit the .slurm file to change parameters, as currently it will download only 100 videos, 15 at a time, seperated by 5 minute intervals.
+This will download all the videos using both videos.txt (handcrafted dataset) and videos_s1.txt (automatatically generated), and then transcribe them into the transcripts/ folder. You can edit the .slurm file to change parameters, as currently it will download only 100 videos, 15 at a time, seperated by 5 minute intervals.
 
 ### Cookies
 
