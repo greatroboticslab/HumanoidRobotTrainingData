@@ -4,7 +4,7 @@ import csv
 import os
 import whisper
 
-def get_video_csv_info(mp3_filename, column_index, csv_file="rawvideos/video_data.csv"):
+def get_video_csv_info(mp3_filename, column_index, csv_file="video_data.csv"):
     # Strip the extension to get the video ID
     video_id = os.path.splitext(mp3_filename)[0]
     target_url = f"https://www.youtube.com/watch?v={video_id}"
@@ -33,15 +33,15 @@ model = whisper.load_model("turbo")
 
 for file in onlyfiles:
 	if(file[-3:] == "mp4"):
-		
+                print("Transcribing file: " + file)
                 _url = get_video_csv_info(file, 1)
                 _vname = get_video_csv_info(file, 2)
                 result = ""
                 result += _vname + "\n"
                 result += _url + "\n"
-                result += str(model.transcribe(mypath + file))
+                result += str(model.transcribe(mypath + file)["text"])
                 file = open("transcripts/" + str(id) + ".txt", "w")
-                file.write(result["text"])
+                file.write(result)
                 file.close()
 
                 id += 1

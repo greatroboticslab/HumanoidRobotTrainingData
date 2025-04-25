@@ -22,7 +22,7 @@ def get_video_title(video_id):
         return "Unknown Title"
 
 def main():
-    mp3_files = [f for f in os.listdir(RAW_DIR) if f.endswith(".mp3")]
+    mp3_files = [f for f in os.listdir(RAW_DIR) if f.endswith(".mp4")]
     video_ids = [os.path.splitext(f)[0] for f in mp3_files]
 
     with open(OUTPUT_CSV, "w", newline='', encoding='utf-8') as csvfile:

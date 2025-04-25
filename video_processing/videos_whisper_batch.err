@@ -45,8 +45,3 @@
 + cd ..
 + conda run -n whisper python identify_videos.py
 + conda run -n whisper python masswhisper.py
-  File "/ocean/projects/cis240145p/byler/PSCCode/video_processing/masswhisper.py", line 43
-    file = open("transcripts/" + str(id) + ".txt", "w")
-TabError: inconsistent use of tabs and spaces in indentation
-
-ERROR conda.cli.main_run:execute(125): `conda run python masswhisper.py` failed. (See above for error)
