@@ -53,11 +53,14 @@ Example:
 
 There is a script in the s1_baseline/ folder that generates a list of search terms, and outputs it to search_terms.txt.
 
+         After the command run, it will generate video_s1.text. 
+
 ### Identification
 
 identify_videos.py can be called to generate a .csv list of videos, ids, and urls. This is useful for finding out what video belongs to what url and vice-versa.
 
 	python identify_videos.py
+ 
 
 ### Local Download
 
