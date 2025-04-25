@@ -36,12 +36,12 @@ for file in onlyfiles:
 		
                 _url = get_video_csv_info(file, 1)
                 _vname = get_video_csv_info(file, 2)
-		result = ""
+                result = ""
                 result += _vname + "\n"
                 result += _url + "\n"
                 result += str(model.transcribe(mypath + file))
-		file = open("transcripts/" + str(id) + ".txt", "w")
-		file.write(result["text"])
-		file.close()
+                file = open("transcripts/" + str(id) + ".txt", "w")
+                file.write(result["text"])
+                file.close()
 
-		id += 1
+                id += 1

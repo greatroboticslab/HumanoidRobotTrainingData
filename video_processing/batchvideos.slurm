@@ -3,7 +3,7 @@
 #SBATCH --partition=GPU-shared # Partition (queue) name
 #SBATCH --gres=gpu:v100-16:2 # Request 2 A100 GPU
 #SBATCH -N 1
-#SBATCH --time=02:00:00 # Time limit (hh:mm:ss)
+#SBATCH --time=01:00:00 # Time limit (hh:mm:ss)
 #SBATCH --output=videos_whisper_batch.out # Standard output
 #SBATCH --error=videos_whisper_batch.err # Standard error
 
@@ -12,7 +12,7 @@ ENV_NAME="whisper"
 FILES=("../videos.txt" "../videos_s1.txt")   # Add paths to your .txt files here
 BATCH_SIZE=15
 SLEEP_BETWEEN_BATCHES=300                   # Seconds between batches
-MAX_DOWNLOADS=100                      # <-- Set your max video downloads here
+MAX_DOWNLOADS=3                      # <-- Set your max video downloads here
 
 set -x
 cd ${PROJECT}/PSCCode
@@ -46,7 +46,7 @@ for URL_LIST in "${FILES[@]}"; do
 
         head -n "$CURRENT_BATCH_SIZE" temp_remaining_"$BASENAME".txt > current_batch_"$BASENAME".txt
 
-        conda run -n "$ENV_NAME" yt-dlp --merge-output-format mp4 --cookies cookies.txt -o "%(id)s.%(ext)s" -a current_batch_"$BASENAME".txt
+        conda run -n "$ENV_NAME" yt-dlp --merge-output-format mp4 --cookies "../cookies.txt" -o "%(id)s.%(ext)s" -a current_batch_"$BASENAME".txt
 
         cat current_batch_"$BASENAME".txt >> "$LOG_FILE"
         sed -i "1,${CURRENT_BATCH_SIZE}d" temp_remaining_"$BASENAME".txt
