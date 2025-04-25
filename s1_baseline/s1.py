@@ -4,7 +4,12 @@ from transformers import AutoTokenizer
 from os import listdir
 from os.path import isfile, join
 
+irrelevantToken = "!IRRELEVANT!"
+YOUTUBE_PREFIX = "https://www.youtube.com/watch?v="
+
 def ExtractTask(line):
+    if irrelevantToken in line:
+        return irrelevantToken
     if "TASK" in line:
         return line
     return "null"
@@ -14,8 +19,9 @@ def TaskToMoMask(line):
         return line.split(':', 1)[1].strip()
     return line.strip()
 
-tasks = []
+
 filenames = []
+blacklist = ""
 
 model = LLM(
     "s1.1-7B",
@@ -39,9 +45,19 @@ for file in onlyfiles:
 
     if(str(file[0]) != '.'):
         try:
+            tasks = []
             print(str(file[0]))
             print(str(file))
             fi = open(mypath + file, "r")
+
+            vID = os.path.splitext(file)[0]
+            url = YOUTUBE_PREFIX + vID
+
+            transcriptLines = fi.readlines()
+            videoTitle = transcriptLines[0]
+            transcript = ""
+            for i in range(2, len(transcriptLines):
+                transcript += transcriptLines[i] + "\n"
 
             prompt = "<|im_start|>system\nYou are Qwen, a helful assistant. "
             prompt += "You will be given a video transcript and asked to generate a series of tasks "
@@ -50,36 +66,48 @@ for file in onlyfiles:
             prompt += "Give tasks and only tasks, do not discuss or talk about anything else. "
             prompt += "Do not go into detail on how you made each task, just give the tasks. "
             prompt += "Only include tasks that are related to farming, agriculture, or operating farming equiptment."
+            prompt += "However, if you feel that the transcript has nothing to do with the tasks of performing physical farming tasks, then simply say " + irrelevantToken + " all caps, exclamation points surrounding it."
             prompt += "<|im_end|>\n"
             prompt += "<|im_start|>user\nGiven this transcript, please generate a list of physical tasks a person would have to perform with their body in relation to the transcript. Separate the tasks by a new line character:"
-            prompt += fi.read() # .encode('ascii','ignore')
+            
+            prompt += transcript
+
             prompt += "<|im_end|>\n<|im_start|>assistant\nFinal Answer:\n"
             #prompt = "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\n" + prompt + "<|im_end|>\n<|im_start|>assistant\n"
 
             o = model.generate(prompt, sampling_params=sampling_params)
             #print(o[0].outputs[0].text)
             lines = o[0].outputs[0].text.splitlines()
+            
+            relevant = True
+
             for l in lines:
                 task = ExtractTask(l)
                 if task != "null":
-                    print(l)
-                    motion = TaskToMoMask(task)
-                    motion += "#NA"
-                    tasks.append(motion)
-            filenames.append(str(file))
+                    if task == irrelevantToken:
+                        # Reject
+                        relevant = False
+                    else:
+                        # Accept
+                        
+                        print(l)
+                        motion = TaskToMoMask(task)
+                        motion += "#NA"
+                        tasks.append(motion)
+            if relevant:
+                print("Relevant video, saving tasks...")
+                outputFile = open("output/output.txt", "w", encoding="ascii", errors="ignore")
+                outputString = ""
+                for t in tasks:
+                    outputString += t + '\n'
+                outputFile.write(outputString)
+                outputFile.close()
+            else:
+                print("Irrelevant video, blacklisting...")
+                blacklist += url + "\n"
         except:
             print("File IO error, skipping...")
 
-outputFile = open("output/output.txt", "w", encoding="ascii", errors="ignore")
-outputInfoFile = open("output/output_info.txt", "w", encoding="ascii", errors="ignore")
-outputInfoString = "id, filename, task\n"
-outputString = ""
-for t in tasks:
-    outputString += t + '\n'
-
-for i in range(len(tasks)):
-    outputInfoString += str(i) + ", " + filenames[i] + ", " + tasks[i] + "\n"
-
-outputFile.write(outputString)
-outputFile.close()
-outputInfoFile.close()
+blacklistFile = open("blacklist.txt", "w")
+blacklistFile.write(blacklist)
+blacklistFile.close()
