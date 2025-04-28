@@ -32,16 +32,17 @@ id = 1
 model = whisper.load_model("turbo")
 
 for file in onlyfiles:
-	if(file[-3:] == "mp4"):
-                print("Transcribing file: " + file)
-                _url = get_video_csv_info(file, 1)
-                _vname = get_video_csv_info(file, 2)
-                result = ""
-                result += _vname + "\n"
-                result += _url + "\n"
-                result += str(model.transcribe(mypath + file)["text"])
-                file = open("transcripts/" + str(id) + ".txt", "w")
-                file.write(result)
-                file.close()
+    if(file[-3:] == "mp4"):
+        v_id = os.path.splitext(file)[0]
+        print("Transcribing file: " + file)
+        _url = get_video_csv_info(file, 1)
+        _vname = get_video_csv_info(file, 2)
+        result = ""
+        result += _vname + "\n"
+        result += _url + "\n"
+        result += str(model.transcribe(mypath + file)["text"])
+        file = open("transcripts/" + str(v_id) + ".txt", "w")
+        file.write(result)
+        file.close()
 
-                id += 1
+        id += 1
