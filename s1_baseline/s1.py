@@ -1,6 +1,7 @@
 import argparse
 from vllm import LLM, SamplingParams
 from transformers import AutoTokenizer
+import shutil
 
 import os
 import json
@@ -60,6 +61,7 @@ allTasks = []
 allSubtasks = []
 relevantCount = 0
 irrelevantCount = 0
+whitelist = []
 
 for file in onlyfiles:
 
@@ -138,6 +140,7 @@ for file in onlyfiles:
 
             if relevant:
                 print(str(file) + ": relevant video, saving tasks...")
+                whitelist.append(vID)
                 relevantCount += 1
                 for t in tasks:
                     for s in t:
@@ -183,3 +186,8 @@ blacklistFile.close()
 
 print("Saved output from " + str(relevantCount) + " videos.")
 print("Ignoring " + str(irrelevantCount) + " irrelevant videos.")
+
+# Copy over videos
+print("Copying relevant videos to relevant_videos/")
+for w in whitelist:
+    shutil.copy("../video_processing/rawvideos/" + w + ".mp4", "relevant_videos/"+w+".mp4")
