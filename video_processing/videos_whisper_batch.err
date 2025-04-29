@@ -24,24 +24,22 @@
 + touch videos_s1_downloaded.log
 + grep -vxFf videos_s1_downloaded.log ../videos_s1.txt
 + '[' -s temp_remaining_videos_s1.txt ']'
-+ '[' 0 -ge 3 ']'
++ '[' 0 -ge 150 ']'
 + echo 'Starting new batch for ../videos_s1.txt...'
-+ REMAINING=3
-+ CURRENT_BATCH_SIZE=3
-+ head -n 3 temp_remaining_videos_s1.txt
++ REMAINING=150
++ CURRENT_BATCH_SIZE=15
++ head -n 15 temp_remaining_videos_s1.txt
 + conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
 + cat current_batch_videos_s1.txt
-+ sed -i 1,3d temp_remaining_videos_s1.txt
-+ TOTAL_DOWNLOADED=3
-+ echo 'Batch complete (3 / 3 downloaded).'
++ sed -i 1,15d temp_remaining_videos_s1.txt
++ TOTAL_DOWNLOADED=15
++ echo 'Batch complete (15 / 150 downloaded).'
 + sleep 300
 + '[' -s temp_remaining_videos_s1.txt ']'
-+ '[' 3 -ge 3 ']'
-+ echo '🚫 Reached max download limit of 3 videos. Stopping.'
-+ break 2
-+ echo ''
-+ echo '🎉 Script complete. Total videos downloaded: 3'
-+ echo 'Beginning transcription...'
-+ cd ..
-+ conda run -n whisper python identify_videos.py
-+ conda run -n whisper python masswhisper.py
++ '[' 15 -ge 150 ']'
++ echo 'Starting new batch for ../videos_s1.txt...'
++ REMAINING=135
++ CURRENT_BATCH_SIZE=15
++ head -n 15 temp_remaining_videos_s1.txt
++ conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
+slurmstepd: error: *** JOB 30928028 ON v030 CANCELLED AT 2025-04-29T14:32:17 DUE TO TIME LIMIT ***
