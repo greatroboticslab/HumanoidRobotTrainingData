@@ -173,14 +173,14 @@ jsonFile = open("output/output.json", "w")
 json.dump(jsonData, jsonFile, indent=4)
 jsonFile.close()
 
-outputFile = open("output/momask_tasks.txt", "w", encoding="ascii", errors="ignore")
-outputString = ""
-for t in allTasks:
-    outputString += t + '#NA\n'
-outputFile.write(outputString)
-outputFile.close()
+# outputFile = open("output/momask_tasks.txt", "w", encoding="ascii", errors="ignore")
+# outputString = ""
+# for t in allTasks:
+#     outputString += t + '#NA\n'
+# outputFile.write(outputString)
+# outputFile.close()
 
-blacklistFile = open("blacklist.txt", "w")
+blacklistFile = open("../video_processing/blacklist.txt", "w")
 blacklistFile.write(blacklist)
 blacklistFile.close()
 
