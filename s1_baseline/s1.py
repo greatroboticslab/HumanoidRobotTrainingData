@@ -10,8 +10,12 @@ from os.path import isfile, join
 
 parser = argparse.ArgumentParser(description="Parse model argument")
 parser.add_argument('--model', type=str, default="s1.1-7B", help='Name or path of the model')
+parser.add_argument('--gpus', type=int, default=4, help='Number of GPUs to use.')
+parser.add_argument('--tokens', type=int, default=32768, help='Max number of tokens.')
 args = parser.parse_args()
 model_name = args.model
+_token_count
+gpu_count = args.gpus
 
 irrelevantToken = "!IRRELEVANT!"
 YOUTUBE_PREFIX = "https://www.youtube.com/watch?v="
@@ -41,7 +45,8 @@ blacklist = ""
 
 model = LLM(
     model_name,
-    tensor_parallel_size=4,
+    max_model_len=_token_count,
+    tensor_parallel_size=gpu_count,
     disable_custom_all_reduce=True
 )
 tok = AutoTokenizer.from_pretrained(model_name)
