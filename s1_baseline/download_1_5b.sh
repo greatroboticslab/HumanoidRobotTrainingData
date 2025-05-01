@@ -1,30 +1,41 @@
 #!/bin/bash
 
-# Target directory
-TARGET_DIR="s1.1-1.5B"
-mkdir -p "$TARGET_DIR"
-cd "$TARGET_DIR" || exit 1
+# Create target directory
+MODEL_DIR="s1.1-1.5B"
+mkdir -p $MODEL_DIR
+
+# Base URL for raw files
+BASE_URL="https://huggingface.co/simplescaling/s1.1-1.5B/resolve/main"
 
 # List of files to download
 FILES=(
     "config.json"
     "generation_config.json"
-    "model-00001-of-00002.safetensors"
-    "model-00002-of-00002.safetensors"
     "model.safetensors.index.json"
-    "special_tokens_map.json"
-    "tokenizer.model"
+    "tokenizer.json"
     "tokenizer_config.json"
+    "special_tokens_map.json"
+    "vocab.json"
 )
 
-# Base URL for raw files
-BASE_URL="https://huggingface.co/simplescaling/s1.1-1.5B/resolve/main"
-
 # Download each file
-for FILE in "${FILES[@]}"; do
-    echo "Downloading $FILE..."
-    curl -LO "$BASE_URL/$FILE"
+for file in "${FILES[@]}"; do
+    echo "Downloading $file..."
+    wget -q --show-progress "${BASE_URL}/${file}" -O "${MODEL_DIR}/${file}"
 done
 
-echo "Download complete. Files saved to $TARGET_DIR/"
+# Download model shard(s)
+# NOTE: Large model shards (.safetensors) must be downloaded explicitly by name
+# Adjust these names if more shards exist
 
+SHARDS=(
+    "model-00001-of-00002.safetensors"
+    "model-00002-of-00002.safetensors"
+)
+
+for shard in "${SHARDS[@]}"; do
+    echo "Downloading $shard..."
+    wget -q --show-progress "${BASE_URL}/${shard}" -O "${MODEL_DIR}/${shard}"
+done
+
+echo "Download complete. Files saved to '${MODEL_DIR}/'"

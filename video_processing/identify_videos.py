@@ -4,7 +4,7 @@ import subprocess
 import json
 
 RAW_DIR = "rawvideos"
-OUTPUT_CSV = "video_data.csv"
+OUTPUT_CSV = "output/video_data.csv"
 YOUTUBE_PREFIX = "https://www.youtube.com/watch?v="
 
 def get_video_data(video_id):
@@ -23,7 +23,7 @@ def get_video_data(video_id):
 
     except Exception as e:
         print(f"Error fetching metadata for video ID {video_id}: {e}")
-        return "Unknown Title"
+        return ["Unknown Title", "Unknown Category"]
 
 def main():
     mp3_files = [f for f in os.listdir(RAW_DIR) if f.endswith(".mp4")]
