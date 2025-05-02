@@ -14,7 +14,7 @@ parser.add_argument('--gpus', type=int, default=4, help='Number of GPUs to use.'
 parser.add_argument('--tokens', type=int, default=32768, help='Max number of tokens.')
 args = parser.parse_args()
 model_name = args.model
-_token_count
+_token_count = args.tokens
 gpu_count = args.gpus
 
 irrelevantToken = "!IRRELEVANT!"
