@@ -4,7 +4,7 @@ import csv
 import os
 import whisper
 
-def get_video_csv_info(mp3_filename, column_index, csv_file="video_data.csv"):
+def get_video_csv_info(mp3_filename, column_index, csv_file="output/video_data.csv"):
     # Strip the extension to get the video ID
     video_id = os.path.splitext(mp3_filename)[0]
     target_url = f"https://www.youtube.com/watch?v={video_id}"
