@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=my_job # Job name
-#SBATCH --partition=a100 # Partition (queue) name
-#SBATCH --gres=gpu:A100:4 # Request 1 A100 GPU
+#SBATCH --partition=research # Partition (queue) name
+#SBATCH --gres=gpu:2080Ti:1 # Request 1 A100 GPU
 #SBATCH --nodes=1 # Number of nodes
 #SBATCH --ntasks=1 # Number of tasks (usually 1 for GPU jobs)
 #SBATCH --time=02:00:00 # Time limit (hh:mm:ss)
@@ -12,4 +12,4 @@ set -x
 
 cd ..
 cd s1_baseline/
-conda run -n s1 python s1.py
+conda run -n s1 python s1.py --model s1.1-1.5B --tokens 4096 --gpus 1

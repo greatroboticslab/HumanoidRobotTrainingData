@@ -1,0 +1,23 @@
+INFO 05-02 10:11:05 config.py:1861] Downcasting torch.float32 to torch.float16.
+INFO 05-02 10:11:10 config.py:350] This model supports multiple tasks: {'embedding', 'generate'}. Defaulting to 'generate'.
+INFO 05-02 10:11:10 llm_engine.py:249] Initializing an LLM engine (v0.6.4.post1) with config: model='s1.1-1.5B', speculative_config=None, tokenizer='s1.1-1.5B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, override_neuron_config=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.float16, max_seq_len=4096, download_dir=None, load_format=LoadFormat.AUTO, tensor_parallel_size=1, pipeline_parallel_size=1, disable_custom_all_reduce=True, quantization=None, enforce_eager=False, kv_cache_dtype=auto, quantization_param_path=None, device_config=cuda, decoding_config=DecodingConfig(guided_decoding_backend='outlines'), observability_config=ObservabilityConfig(otlp_traces_endpoint=None, collect_model_forward_time=False, collect_model_execute_time=False), seed=0, served_model_name=s1.1-1.5B, num_scheduler_steps=1, chunked_prefill_enabled=False multi_step_stream_outputs=True, enable_prefix_caching=False, use_async_output_proc=True, use_cached_outputs=False, chat_template_text_format=string, mm_processor_kwargs=None, pooler_config=None)
+INFO 05-02 10:11:10 selector.py:261] Cannot use FlashAttention-2 backend for Volta and Turing GPUs.
+INFO 05-02 10:11:10 selector.py:144] Using XFormers backend.
+INFO 05-02 10:11:11 model_runner.py:1072] Starting to load model s1.1-1.5B...
+INFO 05-02 10:11:12 model_runner.py:1077] Loading model weights took 2.8875 GB
+INFO 05-02 10:11:13 worker.py:232] Memory profiling results: total_gpu_memory=10.57GiB initial_memory_usage=3.20GiB peak_torch_memory=4.28GiB memory_usage_post_profile=3.26GiB non_torch_memory=0.36GiB kv_cache_size=4.87GiB gpu_memory_utilization=0.90
+INFO 05-02 10:11:13 gpu_executor.py:113] # GPU blocks: 11391, # CPU blocks: 9362
+INFO 05-02 10:11:13 gpu_executor.py:117] Maximum concurrency for 4096 tokens per request: 44.50x
+INFO 05-02 10:11:14 model_runner.py:1400] Capturing cudagraphs for decoding. This may lead to unexpected consequences if the model is not static. To run the model in eager mode, set 'enforce_eager=True' or use '--enforce-eager' in the CLI.
+INFO 05-02 10:11:14 model_runner.py:1404] If out-of-memory error occurs during cudagraph capture, consider decreasing `gpu_memory_utilization` or switching to eager mode. You can also reduce the `max_num_seqs` as needed to decrease memory usage.
+INFO 05-02 10:11:24 model_runner.py:1518] Graph capturing finished in 10 secs, took 0.20 GiB
+0T61OtYydXc.txt: relevant video, saving tasks...
+DJ4iN6RTGDc.txt: irrelevant video, blacklisting...
+MW2ELdljsgo.txt: relevant video, saving tasks...
+VHA_E3YTfDk.txt: irrelevant video, blacklisting...
+e7CmKcfrqzQ.txt: irrelevant video, blacklisting...
+fomDWeV8i2Q.txt: relevant video, saving tasks...
+Saved output from 3 videos.
+Ignoring 3 irrelevant videos.
+Copying relevant videos to relevant_videos/
+

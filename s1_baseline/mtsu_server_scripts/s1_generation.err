@@ -1,0 +1,40 @@
++ cd ../..
++ cd s1_baseline/
++ conda run -n s1 python s1.py --model s1.1-1.5B --tokens 4096 --gpus 1
+Loading safetensors checkpoint shards:   0% Completed | 0/2 [00:00<?, ?it/s]
+Loading safetensors checkpoint shards:  50% Completed | 1/2 [00:00<00:00,  1.05it/s]
+Loading safetensors checkpoint shards: 100% Completed | 2/2 [00:01<00:00,  1.74it/s]
+Loading safetensors checkpoint shards: 100% Completed | 2/2 [00:01<00:00,  1.58it/s]
+
+Exception in thread Thread-2 (_report_usage_worker):
+Traceback (most recent call last):
+  File "/home/sab2ab/.conda/envs/s1/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/sab2ab/.conda/envs/s1/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/sab2ab/.conda/envs/s1/lib/python3.10/site-packages/vllm/usage/usage_lib.py", line 148, in _report_usage_worker
+    self._report_usage_once(model_architecture, usage_context, extra_kvs)
+  File "/home/sab2ab/.conda/envs/s1/lib/python3.10/site-packages/vllm/usage/usage_lib.py", line 187, in _report_usage_once
+    self._write_to_file(data)
+  File "/home/sab2ab/.conda/envs/s1/lib/python3.10/site-packages/vllm/usage/usage_lib.py", line 216, in _write_to_file
+    os.makedirs(os.path.dirname(_USAGE_STATS_JSON_PATH), exist_ok=True)
+  File "/home/sab2ab/.conda/envs/s1/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 122] Disk quota exceeded: '/home/sab2ab/.config/vllm'
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.81s/it, est. speed input: 221.09 toks/s, output: 130.44 toks/s]Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.81s/it, est. speed input: 221.09 toks/s, output: 130.44 toks/s]
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.66s/it, est. speed input: 38.84 toks/s, output: 133.96 toks/s]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.66s/it, est. speed input: 38.84 toks/s, output: 133.96 toks/s]
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:06<00:00,  6.98s/it, est. speed input: 458.59 toks/s, output: 128.55 toks/s]Processed prompts: 100%|██████████| 1/1 [00:06<00:00,  6.98s/it, est. speed input: 458.59 toks/s, output: 128.55 toks/s]
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.01it/s, est. speed input: 963.38 toks/s, output: 125.61 toks/s]Processed prompts: 100%|██████████| 1/1 [00:00<00:00,  1.01it/s, est. speed input: 963.38 toks/s, output: 125.61 toks/s]
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.70s/it, est. speed input: 179.51 toks/s, output: 133.60 toks/s]Processed prompts: 100%|██████████| 1/1 [00:01<00:00,  1.70s/it, est. speed input: 179.51 toks/s, output: 133.60 toks/s]
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts: 100%|██████████| 1/1 [00:27<00:00, 27.61s/it, est. speed input: 14.92 toks/s, output: 133.45 toks/s]Processed prompts: 100%|██████████| 1/1 [00:27<00:00, 27.61s/it, est. speed input: 14.92 toks/s, output: 133.45 toks/s]
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/projects/sean/PSCserverCode/s1_baseline/s1.py", line 198, in <module>
+[rank0]:     shutil.copy("../video_processing/rawvideos/" + w + ".mp4", "relevant_videos/"+w+".mp4")
+[rank0]:   File "/home/sab2ab/.conda/envs/s1/lib/python3.10/shutil.py", line 417, in copy
+[rank0]:     copyfile(src, dst, follow_symlinks=follow_symlinks)
+[rank0]:   File "/home/sab2ab/.conda/envs/s1/lib/python3.10/shutil.py", line 254, in copyfile
+[rank0]:     with open(src, 'rb') as fsrc:
+[rank0]: FileNotFoundError: [Errno 2] No such file or directory: '../video_processing/rawvideos/0T61OtYydXc.mp4'
+[rank0]:[W502 10:12:15.144939802 ProcessGroupNCCL.cpp:1250] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())
+
+ERROR conda.cli.main_run:execute(47): `conda run python s1.py --model s1.1-1.5B --tokens 4096 --gpus 1` failed. (See above for error)
