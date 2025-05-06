@@ -38,6 +38,8 @@ for file in onlyfiles:
         _url = get_video_csv_info(file, 1)
         _vname = get_video_csv_info(file, 2)
         _category = get_video_csv_info(file, 3)
+        if len(_category) < 3:
+            _category = "Unknown Category"
         result = ""
         result += _vname + "\n"
         result += _url + "\n"
