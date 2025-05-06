@@ -11,9 +11,11 @@ def get_video_data(video_id):
     try:
         # Use yt-dlp to get video metadata in JSON format
         result = subprocess.run(
-            ["yt-dlp", f"https://www.youtube.com/watch?v={video_id}", "--skip-download", "--print", "%j", "--cookies", "cookies.txt"],
+            ["yt-dlp", f"https://www.youtube.com/watch?v={video_id}", "--skip-download", "--print-json", "--cookies", "cookies.txt"],
             capture_output=True, text=True, check=True
         )
+        print("YT-DLP OUTPUT:", result.stdout)
+        print("YT-DLP ERROR:", result.stderr)
         metadata = json.loads(result.stdout.strip())
         title = metadata.get("title", "Unknown Title")
         category = metadata.get("category") or (

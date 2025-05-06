@@ -42,4 +42,15 @@
 + CURRENT_BATCH_SIZE=15
 + head -n 15 temp_remaining_videos_s1.txt
 + conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
-slurmstepd: error: *** JOB 30928028 ON v030 CANCELLED AT 2025-04-29T14:32:17 DUE TO TIME LIMIT ***
++ cat current_batch_videos_s1.txt
++ sed -i 1,15d temp_remaining_videos_s1.txt
++ TOTAL_DOWNLOADED=30
++ echo 'Batch complete (30 / 150 downloaded).'
++ sleep 300
++ '[' -s temp_remaining_videos_s1.txt ']'
++ '[' 30 -ge 150 ']'
++ echo 'Starting new batch for ../videos_s1.txt...'
++ REMAINING=120
++ CURRENT_BATCH_SIZE=15
++ head -n 15 temp_remaining_videos_s1.txt
++ conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt

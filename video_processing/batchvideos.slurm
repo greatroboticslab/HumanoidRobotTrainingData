@@ -3,7 +3,7 @@
 #SBATCH --partition=GPU-shared # Partition (queue) name
 #SBATCH --gres=gpu:v100-16:2 # Request 2 A100 GPU
 #SBATCH -N 1
-#SBATCH --time=01:00:00 # Time limit (hh:mm:ss)
+#SBATCH --time=05:00:00 # Time limit (hh:mm:ss)
 #SBATCH --output=videos_whisper_batch.out # Standard output
 #SBATCH --error=videos_whisper_batch.err # Standard error
 
