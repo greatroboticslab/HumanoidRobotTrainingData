@@ -17,7 +17,7 @@ model_name = args.model
 _token_count = args.tokens
 gpu_count = args.gpus
 
-irrelevantToken = "!IRRELEVANT!"
+irrelevantToken = "!!!TRANSCRIPT_IRRELEVANT:"
 YOUTUBE_PREFIX = "https://www.youtube.com/watch?v="
 
 def IsSubtask(line):
@@ -33,6 +33,11 @@ def ExtractTask(line):
     if "SUBTASK" in line:
         return line
     return "null"
+
+def GetIrrelevantReason(line):
+    if irrelevantToken in line:
+        return line.split(identifier, 1)[1].strip()
+    return ""
 
 def TaskToMoMask(line):
     if ':' in line:
@@ -81,6 +86,7 @@ for file in onlyfiles:
             url = YOUTUBE_PREFIX + vID
             videoTitle = "Unknown Title"
             videoCategory = "Unknown Category"
+            rejectionReason = "Scripting error."
             relevant = True
             transcriptLines = []
             try:
@@ -103,8 +109,9 @@ for file in onlyfiles:
                 prompt += "Give only tasks and subtasks, do not discuss or talk about anything else. "
                 prompt += "Do not go into detail on how you made each task, just give the tasks. "
                 prompt += "Only include tasks and subtasks that are related to farming, agriculture, or operating farming equiptment."
-                prompt += "However, if you feel that the transcript has nothing to do with the tasks of performing physical farming, husbandry, or agricultural tasks, then simply say " + irrelevantToken + " all caps, exclamation points surrounding it. "
-                prompt += "The entire transcript must be irrelevant. If it is still somewhat relevant, just save the tasks of the relevant actions."
+                prompt += "However, if you feel that the transcript has nothing to do with the tasks of performing physical farming, husbandry, or agricultural tasks, then simply say " + irrelevantToken + " all caps, with 3 exclamation points at the beginning, followed by the reason for the video being irrelevant. "
+                prompt += "Do not forget to include the reason after the colon if the video transcript is irrelevant. "
+                prompt += "The entire transcript must be irrelevant. Otherwise, if it is still somewhat relevant, just save the tasks of the relevant actions, and do not write " + irrelevantToken + "."
                 prompt += "<|im_end|>\n"
                 prompt += "<|im_start|>user\nGiven this transcript, please generate a list of physical tasks a person would have to perform with their body in relation to the transcript. Separate the tasks by a new line character:"
             
@@ -124,6 +131,7 @@ for file in onlyfiles:
                         if task == irrelevantToken:
                             # Reject
                             relevant = False
+                            rejectionReason = GetIrrelevantReason(l)
                         else:
                             # Accept
                         
@@ -173,7 +181,7 @@ for file in onlyfiles:
                 jsonData.append(entry)
 
             else:
-                print(str(file) + ": irrelevant video, blacklisting...")
+                print(str(file) + ": irrelevant video (" + rejectionReason + "), blacklisting...")
                 irrelevantCount += 1
                 blacklist += url + "\n"
 
