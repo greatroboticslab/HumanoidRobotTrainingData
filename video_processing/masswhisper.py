@@ -37,9 +37,11 @@ for file in onlyfiles:
         print("Transcribing file: " + file)
         _url = get_video_csv_info(file, 1)
         _vname = get_video_csv_info(file, 2)
+        _category = get_video_csv_info(file, 3)
         result = ""
         result += _vname + "\n"
         result += _url + "\n"
+        result += _category + "\n"
         result += str(model.transcribe(mypath + file)["text"])
         file = open("transcripts/" + str(v_id) + ".txt", "w")
         file.write(result)

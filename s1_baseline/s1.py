@@ -80,13 +80,15 @@ for file in onlyfiles:
             vID = os.path.splitext(file)[0]
             url = YOUTUBE_PREFIX + vID
             videoTitle = "Unknown Title"
+            videoCategory = "Unknown Category"
             relevant = True
             transcriptLines = []
             try:
                 transcriptLines = fi.readlines()
                 videoTitle = transcriptLines[0]
+                videoCategory = transcriptLines[2]
                 transcript = ""
-                for i in range(2, len(transcriptLines)):
+                for i in range(3, len(transcriptLines)):
                     transcript += transcriptLines[i] + "\n"
 
                 prompt = "<|im_start|>system\nYou are Qwen, a helful assistant. "
@@ -165,6 +167,7 @@ for file in onlyfiles:
                     "index": vID,
                     "title": videoTitle,
                     "url": url,
+                    "category": videoCategory,
                     "tasks": jTasks
                 }
                 jsonData.append(entry)
