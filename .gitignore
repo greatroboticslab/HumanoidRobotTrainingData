@@ -10,10 +10,11 @@ deepseek_baseline/DeepSeek-R1-Distill-Qwen-7B
 video_processing/rawvideos/*
 !video_processing/rawvideos/.gitkeep
 !video_processing/rawvideos/videos.csv
+video_processing/relevant_videos/*
+!video_processing/relevant_videos/.gitkeep
 video_processing/.git/
 video_processing/cookies.txt
-video_processing/local_server_script/sean
-video_processing/cluster_server_script/sean
+video_processing/local_server_script/
+video_processing/cluster_server_script/
 s1_baseline/relevant_videos/*
 !s1_baseline/relevant_videos/.gitkeep
-
