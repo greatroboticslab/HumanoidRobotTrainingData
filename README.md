@@ -83,7 +83,7 @@ The outputs are stored in momask_baseline/generation/batch_motions/
 START -> batch video download (video_id.mp3) -> Whisper transcription -> S1 Analysis (tasks/reject) -> MoMask Motion Generation -> END
 S1 Analysis -> Generate a text file of urls that were not rejected for being irrelevant.
 
-## Import File Creation/Generation Process
+## Important File Creation/Generation Process
 
 PSCserverCode/s1_baseline/output/Output.Json
 
