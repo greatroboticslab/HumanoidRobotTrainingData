@@ -58,15 +58,10 @@ This will submit a job that will download the YouTube videos (stored in rawvideo
 
 On Local Server, you can do the following to download videos.
 
-     XXXX
+	bash local_server_script/batchvideos.sh
 
- The downloaded videos will be saved to XXXX
-
- After downloading, you need execute XXXX script to identify the relavant videos.
-
- Once the relavant videos are identified, you need to execute XXXX to populate relavant video folder which is under video processing folder. 
-
- XXX
+The downloaded videos will be saved to video_processing/rawvideos/
+The script will then attempt to identify and transcribe the videos. If this fails, the videos will still be saved.
 
 
 ### Generating Tasks
