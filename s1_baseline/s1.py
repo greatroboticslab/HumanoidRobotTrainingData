@@ -18,6 +18,7 @@ _token_count = args.tokens
 gpu_count = args.gpus
 
 irrelevantToken = "!!!TRANSCRIPT_IRRELEVANT:"
+relevantToken = ">>>ACCEPT:"
 YOUTUBE_PREFIX = "https://www.youtube.com/watch?v="
 
 def IsSubtask(line):
@@ -28,15 +29,22 @@ def IsSubtask(line):
 def ExtractTask(line):
     if irrelevantToken in line:
         return irrelevantToken
+    if relevantToken in line:
+        return relevantToken
     if "MAINTASK" in line:
         return line
     if "SUBTASK" in line:
         return line
     return "null"
 
+def GetRelevantReason(line):
+    if relevantToken in line:
+        return line.split(relevantToken, 1)[1].strip()
+    return ""
+
 def GetIrrelevantReason(line):
     if irrelevantToken in line:
-        return line.split(identifier, 1)[1].strip()
+        return line.split(irrelevantToken, 1)[1].strip()
     return ""
 
 def TaskToMoMask(line):
@@ -72,6 +80,9 @@ allSubtasks = []
 relevantCount = 0
 irrelevantCount = 0
 whitelist = []
+whitelist_titles = []
+whitelist_categories = []
+whitelist_reasons = []
 
 for file in onlyfiles:
 
@@ -86,13 +97,14 @@ for file in onlyfiles:
             url = YOUTUBE_PREFIX + vID
             videoTitle = "Unknown Title"
             videoCategory = "Unknown Category"
+            reason = "Video is relevant to farming and agriculture."
             rejectionReason = "Scripting error."
             relevant = True
             transcriptLines = []
             try:
                 transcriptLines = fi.readlines()
-                videoTitle = transcriptLines[0]
-                videoCategory = transcriptLines[2]
+                videoTitle = transcriptLines[0].replace('\n', '').replace('\r', '')
+                videoCategory = transcriptLines[2].replace('\n', '').replace('\r', '')
                 transcript = ""
                 for i in range(3, len(transcriptLines)):
                     transcript += transcriptLines[i] + "\n"
@@ -111,7 +123,8 @@ for file in onlyfiles:
                 prompt += "Only include tasks and subtasks that are related to farming, agriculture, or operating farming equiptment."
                 prompt += "However, if you feel that the transcript has nothing to do with the tasks of performing physical farming, husbandry, or agricultural tasks, then simply say " + irrelevantToken + " all caps, with 3 exclamation points at the beginning, followed by the reason for the video being irrelevant. "
                 prompt += "Do not forget to include the reason after the colon if the video transcript is irrelevant. "
-                prompt += "The entire transcript must be irrelevant. Otherwise, if it is still somewhat relevant, just save the tasks of the relevant actions, and do not write " + irrelevantToken + "."
+                prompt += "The entire transcript must be irrelevant. Otherwise, if it is still somewhat relevant, just save the tasks of the relevant actions, and do not write " + irrelevantToken + ". "
+                prompt += "At the end, if the video transcript is relevant (you have not said " + irrelevantToken + "), put " + relevantToken + " followed by the reason the video is relevant."
                 prompt += "<|im_end|>\n"
                 prompt += "<|im_start|>user\nGiven this transcript, please generate a list of physical tasks a person would have to perform with their body in relation to the transcript. Separate the tasks by a new line character:"
             
@@ -131,21 +144,25 @@ for file in onlyfiles:
                         if task == irrelevantToken:
                             # Reject
                             relevant = False
-                            rejectionReason = GetIrrelevantReason(l)
+                            rejectionReason = GetIrrelevantReason(l).replace(',', '')
                         else:
-                            # Accept
-                        
-                            # print(l)
-                            motion = TaskToMoMask(task)
-                            if IsSubtask(l):
-                                if len(tasks) > 0:
-                                    tasks[curTask].append(motion)
+                            if task == relevantToken:
+                                reason = GetRelevantReason(l).replace(',', '')
+                                
                             else:
-                                newTask = [motion]
-                                tasks.append(newTask)
-                                curTask += 1
-                            
-                            # tasks.append(motion)
+                                # Accept
+                        
+                                # print(l)
+                                motion = TaskToMoMask(task)
+                                if IsSubtask(l):
+                                    if len(tasks) > 0:
+                                        tasks[curTask].append(motion)
+                                else:
+                                    newTask = [motion]
+                                    tasks.append(newTask)
+                                    curTask += 1
+                                
+                                # tasks.append(motion)
                             
                 
             except Exception as e:
@@ -154,8 +171,11 @@ for file in onlyfiles:
                 
 
             if relevant:
-                print(str(file) + ": relevant video, saving tasks...")
+                print(str(file) + ": relevant video (" + reason + "), saving tasks...")
                 whitelist.append(vID)
+                whitelist_titles.append(videoTitle)
+                whitelist_categories.append(videoCategory)
+                whitelist_reasons.append(reason)
                 relevantCount += 1
                 for t in tasks:
                     for s in t:
@@ -183,7 +203,7 @@ for file in onlyfiles:
             else:
                 print(str(file) + ": irrelevant video (" + rejectionReason + "), blacklisting...")
                 irrelevantCount += 1
-                blacklist += url + "\n"
+                blacklist += url + ", " + rejectionReason + "\n"
 
 jsonFile = open("output/output.json", "w")
 json.dump(jsonData, jsonFile, indent=4)
@@ -206,4 +226,12 @@ print("Ignoring " + str(irrelevantCount) + " irrelevant videos.")
 # Copy over videos
 print("Copying relevant videos to relevant_videos/")
 for w in whitelist:
-    shutil.copy("../video_processing/rawvideos/" + w + ".mp4", "relevant_videos/"+w+".mp4")
+    shutil.copy("../video_processing/rawvideos/" + w + ".mp4", "../video_processing/relevant_videos/"+w+".mp4")
+
+# Save CSV File
+csvFile = open("../video_processing/relevant_videos/video_data.csv", "w")
+cLines = "index, url, video title, category, reason\n"
+for i in range(len(whitelist)):
+    cLines += str(whitelist[i]) + ", https://www.youtube.com/watch?v=" + whitelist[i] + ", " + whitelist_titles[i] + ", " + whitelist_categories[i] + ", " + whitelist_reasons[i] + "\n"
+csvFile.write(cLines)
+csvFile.close()

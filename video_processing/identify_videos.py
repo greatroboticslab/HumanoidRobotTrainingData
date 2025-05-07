@@ -14,8 +14,6 @@ def get_video_data(video_id):
             ["yt-dlp", f"https://www.youtube.com/watch?v={video_id}", "--skip-download", "--print-json", "--cookies", "cookies.txt"],
             capture_output=True, text=True, check=True
         )
-        print("YT-DLP OUTPUT:", result.stdout)
-        print("YT-DLP ERROR:", result.stderr)
         metadata = json.loads(result.stdout.strip())
         title = metadata.get("title", "Unknown Title")
         category = metadata.get("category") or (
@@ -33,12 +31,12 @@ def main():
 
     with open(OUTPUT_CSV, "w", newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["number", "url", "video title", "category"])
+        writer.writerow(["index", "url", "video title", "category"])
 
         for index, video_id in enumerate(video_ids, start=1):
             url = f"{YOUTUBE_PREFIX}{video_id}"
             title, category = get_video_data(video_id)
-            writer.writerow([index, url, title, category])
+            writer.writerow([video_id, url, title, category])
             print(f"[{index}] {video_id} → {title}")
 
 if __name__ == "__main__":
