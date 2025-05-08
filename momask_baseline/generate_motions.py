@@ -28,21 +28,27 @@ with open('../s1_baseline/output/output.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Extract tasks
-tasks = []
+
 for item in data:
+    tasks = []
+    category = item.get("category")
+    index = item.get("index")
+    curFolder = str(category) + "/" + index + "/"
     for task_block in item.get("tasks", []):
         task_description = task_block.get("task")
         subtasks = task_block.get("subtasks", [])
         tasks.append([task_description] + subtasks)
 
-for t in tasks:
-    folderName = sanitize_folder_name(t[0])
-    _subtasks = t[1:]
-    for st in _subtasks:
-        try:
-            result = subprocess.run(["conda", "run", "-n", "momask", "python", "gen_t2m.py", "--gpu_id", "0", "--ext", f"batch_motions/{folderName}", "--text_prompt", st],capture_output=True, text=True, check=True)
-        except subprocess.CalledProcessError as e:
-            print("Command failed:")
-            print("STDOUT:", e.stdout)
-            print("STDERR:", e.stderr)
-            raise
+    for t in tasks:
+        #folderName = sanitize_folder_name(t[0])
+        folderName = curFolder + sanitize_folder_name(t[0])
+        _subtasks = t[1:]
+        for st in _subtasks:
+            try:
+                print("+-> Generating subtask: " + folderName + "/" + st)
+                result = subprocess.run(["conda", "run", "-n", "momask", "python", "gen_t2m.py", "--gpu_id", "0", "--ext", f"batch_motions/{folderName}", "--text_prompt", st],capture_output=True, text=True, check=True)
+            except subprocess.CalledProcessError as e:
+                print("Command failed:")
+                print("STDOUT:", e.stdout)
+                print("STDERR:", e.stderr)
+                raise
