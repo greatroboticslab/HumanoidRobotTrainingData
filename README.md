@@ -8,14 +8,19 @@ This repo contains the code we execute on the PSC server to obtain animation dat
 
 
 ### Main Scripts.
-This section show you the scripts that you need run to get 3D postures generated. 
 
+There are two scrips in the root of the repo:
 
+	generate_motions.slurm
+	setup.sh
+
+Running setup.sh will set up all the conda environments and dependencies. Running generate_motions.slurm will then run the entire workflow of transcribing videos, accepting transcripts, and generating motion files. You need to download videos first into video_processing/rawvideos/ first. See the section getting datasets.
 
 
 ### Setup
 
 ### For Whisper
+
 You should create a conda environment called whisper. This is optional, but the SLURM batch jobs provided use this environment.
 
 	conda create -n whisper python=3.12
