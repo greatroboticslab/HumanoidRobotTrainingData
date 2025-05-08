@@ -111,4 +111,25 @@ List of rejected video urls, followed by a comma and the reason the video was re
 
 ## Interactive Session on PSC Cluster and MTSU Cluster
 
+Interactive sessions allow the user to use GPU resources in real time, akin to just using terminal on a computer that has gpus and CUDA installed.
+
+### PSC Cluster
+
+To run an interactive session:
+
+	interact -p <partition> --gres=gpu:<gpu name>:<gpu count> -t <time in HH:MM:SS>
+
+For example, to run 4 gpus each with 32G of VRAM for 1 hour:
+
+	interact -p GPU-shared --gres=gpu:v100-32:4 -t 01:00:00
+
+### MTSU Cluster
+
+To run an interative session:
+
+	srun --partition interactive --gres=gpu:<gpu name>:<gpu count> --ntasks=1 --time <time in HH:MM:SS> --pty bash
+
+For example, to run a 2080Ti for 1 hour:
+
+	srun --partition interactive --gres=gpu:2080Ti:1 --ntasks=1 --time 01:00:00 --pty bash
 

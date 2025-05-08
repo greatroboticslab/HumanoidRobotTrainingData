@@ -12,7 +12,7 @@ ENV_NAME="whisper"
 FILES=("../videos.txt" "../videos_s1.txt")   # Add paths to your .txt files here
 BATCH_SIZE=15
 SLEEP_BETWEEN_BATCHES=300                   # Seconds between batches
-MAX_DOWNLOADS=150                      # <-- Set your max video downloads here
+MAX_DOWNLOADS=1000                     # <-- Set your max video downloads here
 
 set -x
 cd ${PROJECT}/PSCCode
