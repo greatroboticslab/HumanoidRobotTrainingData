@@ -6,6 +6,12 @@ This repo contains the code we execute on the PSC server to obtain animation dat
 
 ![Flowchart](PSC_flowchart.png)
 
+
+### Main Scripts. This section show you the scripts that you need run to get 3D postures generated 
+
+
+
+
 ### Setup
 
 ### For Whisper
