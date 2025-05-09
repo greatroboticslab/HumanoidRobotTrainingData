@@ -30,3 +30,75 @@
 + CURRENT_BATCH_SIZE=15
 + head -n 15 temp_remaining_videos_s1.txt
 + conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
++ cat current_batch_videos_s1.txt
++ sed -i 1,15d temp_remaining_videos_s1.txt
++ TOTAL_DOWNLOADED=15
++ echo 'Batch complete (15 / 1000 downloaded).'
++ sleep 300
++ '[' -s temp_remaining_videos_s1.txt ']'
++ '[' 15 -ge 1000 ']'
++ echo 'Starting new batch for ../videos_s1.txt...'
++ REMAINING=985
++ CURRENT_BATCH_SIZE=15
++ head -n 15 temp_remaining_videos_s1.txt
++ conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
++ cat current_batch_videos_s1.txt
++ sed -i 1,15d temp_remaining_videos_s1.txt
++ TOTAL_DOWNLOADED=30
++ echo 'Batch complete (30 / 1000 downloaded).'
++ sleep 300
++ '[' -s temp_remaining_videos_s1.txt ']'
++ '[' 30 -ge 1000 ']'
++ echo 'Starting new batch for ../videos_s1.txt...'
++ REMAINING=970
++ CURRENT_BATCH_SIZE=15
++ head -n 15 temp_remaining_videos_s1.txt
++ conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
++ cat current_batch_videos_s1.txt
++ sed -i 1,15d temp_remaining_videos_s1.txt
++ TOTAL_DOWNLOADED=45
++ echo 'Batch complete (45 / 1000 downloaded).'
++ sleep 300
++ '[' -s temp_remaining_videos_s1.txt ']'
++ '[' 45 -ge 1000 ']'
++ echo 'Starting new batch for ../videos_s1.txt...'
++ REMAINING=955
++ CURRENT_BATCH_SIZE=15
++ head -n 15 temp_remaining_videos_s1.txt
++ conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
++ cat current_batch_videos_s1.txt
++ sed -i 1,15d temp_remaining_videos_s1.txt
++ TOTAL_DOWNLOADED=60
++ echo 'Batch complete (60 / 1000 downloaded).'
++ sleep 300
++ '[' -s temp_remaining_videos_s1.txt ']'
++ '[' 60 -ge 1000 ']'
++ echo 'Starting new batch for ../videos_s1.txt...'
++ REMAINING=940
++ CURRENT_BATCH_SIZE=15
++ head -n 15 temp_remaining_videos_s1.txt
++ conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
++ cat current_batch_videos_s1.txt
++ sed -i 1,15d temp_remaining_videos_s1.txt
++ TOTAL_DOWNLOADED=75
++ echo 'Batch complete (75 / 1000 downloaded).'
++ sleep 300
++ '[' -s temp_remaining_videos_s1.txt ']'
++ '[' 75 -ge 1000 ']'
++ echo 'Starting new batch for ../videos_s1.txt...'
++ REMAINING=925
++ CURRENT_BATCH_SIZE=15
++ head -n 15 temp_remaining_videos_s1.txt
++ conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
++ cat current_batch_videos_s1.txt
++ sed -i 1,15d temp_remaining_videos_s1.txt
++ TOTAL_DOWNLOADED=90
++ echo 'Batch complete (90 / 1000 downloaded).'
++ sleep 300
++ '[' -s temp_remaining_videos_s1.txt ']'
++ '[' 90 -ge 1000 ']'
++ echo 'Starting new batch for ../videos_s1.txt...'
++ REMAINING=910
++ CURRENT_BATCH_SIZE=15
++ head -n 15 temp_remaining_videos_s1.txt
++ conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1.txt
