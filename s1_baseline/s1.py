@@ -216,7 +216,7 @@ jsonFile.close()
 # outputFile.write(outputString)
 # outputFile.close()
 
-blacklistFile = open("../video_processing/blacklist.txt", "w")
+blacklistFile = open("../video_processing/blacklist.txt", "w", encoding="ascii", errors="ignore")
 blacklistFile.write(blacklist)
 blacklistFile.close()
 
@@ -229,7 +229,7 @@ for w in whitelist:
     shutil.copy("../video_processing/rawvideos/" + w + ".mp4", "../video_processing/relevant_videos/"+w+".mp4")
 
 # Save CSV File
-csvFile = open("../video_processing/relevant_videos/video_data.csv", "w")
+csvFile = open("../video_processing/relevant_videos/video_data.csv", "w", encoding="ascii", errors="ignore")
 cLines = "index, url, video title, category, reason\n"
 for i in range(len(whitelist)):
     cLines += str(whitelist[i]) + ", https://www.youtube.com/watch?v=" + whitelist[i] + ", " + whitelist_titles[i] + ", " + whitelist_categories[i] + ", " + whitelist_reasons[i] + "\n"
