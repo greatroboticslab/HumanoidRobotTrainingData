@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=final_motion_generation # Job name
 #SBATCH --partition=interactive # Partition (queue) name
-#SBATCH --gres=gpu:v100-gpu:2080Ti:4 # Request 2 A100 GPU
+#SBATCH --gres=gpu:2080Ti:1 # Request 2 A100 GPU
 #SBATCH -N 1
 #SBATCH --time=02:00:00 # Time limit (hh:mm:ss)
 #SBATCH --output=motion_gen.out # Standard output
@@ -19,7 +19,7 @@ conda run -n whisper python masswhisper.py
 cd ../s1_baseline
 
 echo "Generating tasks..."
-conda run -n s1 python s1.py
+conda run -n s1 python s1.py --model s1.1-1.5B --gpus 1 --tokens 4096
 
 cd ../momask_baseline
 
