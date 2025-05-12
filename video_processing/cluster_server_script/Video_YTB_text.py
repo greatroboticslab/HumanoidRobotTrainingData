@@ -114,7 +114,7 @@ def main():
     #os.makedirs("Video_input", exist_ok=True)
     #os.makedirs("Video_output", exist_ok=True)
 
-    _videos = [f for f in os.listdir("rawvideos/") if f.lower().endswith('.mp4')]
+    _videos = [f for f in os.listdir("../rawvideos/") if f.lower().endswith('.mp4')]
 
     if not _videos:
         print("No videos found to process.")
