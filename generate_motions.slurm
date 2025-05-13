@@ -3,9 +3,9 @@
 #SBATCH --partition=GPU-shared # Partition (queue) name
 #SBATCH --gres=gpu:v100-32:4 # Request 2 A100 GPU
 #SBATCH -N 1
-#SBATCH --time=24:00:00 # Time limit (hh:mm:ss)
-#SBATCH --output=motion_gen.out # Standard output
-#SBATCH --error=motion_gen.err # Standard error
+#SBATCH --time=02:00:00 # Time limit (hh:mm:ss)
+#SBATCH --output=logs/motion_gen.out # Standard output
+#SBATCH --error=logs/motion_gen.err # Standard error
 
 set -x
 cd ${PROJECT}/PSCCode/video_processing
