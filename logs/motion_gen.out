@@ -649,3 +649,64 @@ Video ID '-H_yOuOWTRk' not found in CSV.
 Video ID '-H_yOuOWTRk' not found in CSV.
 
 Generating tasks...
+INFO 05-13 11:54:54 config.py:1861] Downcasting torch.float32 to torch.float16.
+INFO 05-13 11:55:16 config.py:350] This model supports multiple tasks: {'embedding', 'generate'}. Defaulting to 'generate'.
+INFO 05-13 11:55:16 config.py:1020] Defaulting to use mp for distributed inference
+INFO 05-13 11:55:17 llm_engine.py:249] Initializing an LLM engine (v0.6.4.post1) with config: model='s1.1-7B', speculative_config=None, tokenizer='s1.1-7B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, override_neuron_config=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.float16, max_seq_len=32768, download_dir=None, load_format=LoadFormat.AUTO, tensor_parallel_size=4, pipeline_parallel_size=1, disable_custom_all_reduce=True, quantization=None, enforce_eager=False, kv_cache_dtype=auto, quantization_param_path=None, device_config=cuda, decoding_config=DecodingConfig(guided_decoding_backend='outlines'), observability_config=ObservabilityConfig(otlp_traces_endpoint=None, collect_model_forward_time=False, collect_model_execute_time=False), seed=0, served_model_name=s1.1-7B, num_scheduler_steps=1, chunked_prefill_enabled=False multi_step_stream_outputs=True, enable_prefix_caching=False, use_async_output_proc=True, use_cached_outputs=False, chat_template_text_format=string, mm_processor_kwargs=None, pooler_config=None)
+WARNING 05-13 11:55:19 multiproc_gpu_executor.py:56] Reducing Torch parallelism from 20 threads to 1 to avoid unnecessary CPU contention. Set OMP_NUM_THREADS in the external environment to tune this value as needed.
+INFO 05-13 11:55:19 custom_cache_manager.py:17] Setting Triton cache manager to: vllm.triton_utils.custom_cache_manager:CustomCacheManager
+INFO 05-13 11:55:21 selector.py:261] Cannot use FlashAttention-2 backend for Volta and Turing GPUs.
+INFO 05-13 11:55:21 selector.py:144] Using XFormers backend.
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 11:55:21 selector.py:261] Cannot use FlashAttention-2 backend for Volta and Turing GPUs.
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 11:55:21 selector.py:144] Using XFormers backend.
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 11:55:21 selector.py:261] Cannot use FlashAttention-2 backend for Volta and Turing GPUs.
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 11:55:21 selector.py:144] Using XFormers backend.
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 11:55:21 selector.py:261] Cannot use FlashAttention-2 backend for Volta and Turing GPUs.
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 11:55:21 selector.py:144] Using XFormers backend.
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 11:55:24 multiproc_worker_utils.py:215] Worker ready; awaiting tasks
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 11:55:24 multiproc_worker_utils.py:215] Worker ready; awaiting tasks
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 11:55:24 multiproc_worker_utils.py:215] Worker ready; awaiting tasks
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 11:55:28 utils.py:961] Found nccl from library libnccl.so.2
+INFO 05-13 11:55:28 utils.py:961] Found nccl from library libnccl.so.2
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 11:55:28 utils.py:961] Found nccl from library libnccl.so.2
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 11:55:28 utils.py:961] Found nccl from library libnccl.so.2
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 11:55:28 pynccl.py:69] vLLM is using nccl==2.21.5
+INFO 05-13 11:55:28 pynccl.py:69] vLLM is using nccl==2.21.5
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 11:55:28 pynccl.py:69] vLLM is using nccl==2.21.5
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 11:55:28 pynccl.py:69] vLLM is using nccl==2.21.5
+INFO 05-13 11:55:31 shm_broadcast.py:236] vLLM message queue communication handle: Handle(connect_ip='127.0.0.1', local_reader_ranks=[1, 2, 3], buffer=<vllm.distributed.device_communicators.shm_broadcast.ShmRingBuffer object at 0x14b0182fbd30>, local_subscribe_port=55153, remote_subscribe_port=None)
+INFO 05-13 11:55:32 model_runner.py:1072] Starting to load model s1.1-7B...
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 11:55:32 model_runner.py:1072] Starting to load model s1.1-7B...
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 11:55:32 model_runner.py:1072] Starting to load model s1.1-7B...
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 11:55:32 model_runner.py:1072] Starting to load model s1.1-7B...
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 12:00:35 model_runner.py:1077] Loading model weights took 3.5546 GB
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 12:00:35 model_runner.py:1077] Loading model weights took 3.5546 GB
+INFO 05-13 12:00:35 model_runner.py:1077] Loading model weights took 3.5546 GB
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 12:00:36 model_runner.py:1077] Loading model weights took 3.5546 GB
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 12:00:46 worker.py:232] Memory profiling results: total_gpu_memory=31.73GiB initial_memory_usage=4.30GiB peak_torch_memory=5.31GiB memory_usage_post_profile=4.37GiB non_torch_memory=0.81GiB kv_cache_size=22.45GiB gpu_memory_utilization=0.90
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 12:00:46 worker.py:232] Memory profiling results: total_gpu_memory=31.73GiB initial_memory_usage=4.28GiB peak_torch_memory=5.31GiB memory_usage_post_profile=4.34GiB non_torch_memory=0.78GiB kv_cache_size=22.47GiB gpu_memory_utilization=0.90
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 12:00:46 worker.py:232] Memory profiling results: total_gpu_memory=31.73GiB initial_memory_usage=4.29GiB peak_torch_memory=5.31GiB memory_usage_post_profile=4.36GiB non_torch_memory=0.80GiB kv_cache_size=22.45GiB gpu_memory_utilization=0.90
+INFO 05-13 12:00:47 worker.py:232] Memory profiling results: total_gpu_memory=31.73GiB initial_memory_usage=4.31GiB peak_torch_memory=5.31GiB memory_usage_post_profile=4.44GiB non_torch_memory=0.87GiB kv_cache_size=22.38GiB gpu_memory_utilization=0.90
+INFO 05-13 12:00:47 distributed_gpu_executor.py:57] # GPU blocks: 104760, # CPU blocks: 18724
+INFO 05-13 12:00:47 distributed_gpu_executor.py:61] Maximum concurrency for 32768 tokens per request: 51.15x
+INFO 05-13 12:00:52 model_runner.py:1400] Capturing cudagraphs for decoding. This may lead to unexpected consequences if the model is not static. To run the model in eager mode, set 'enforce_eager=True' or use '--enforce-eager' in the CLI.
+INFO 05-13 12:00:52 model_runner.py:1404] If out-of-memory error occurs during cudagraph capture, consider decreasing `gpu_memory_utilization` or switching to eager mode. You can also reduce the `max_num_seqs` as needed to decrease memory usage.
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 12:00:52 model_runner.py:1400] Capturing cudagraphs for decoding. This may lead to unexpected consequences if the model is not static. To run the model in eager mode, set 'enforce_eager=True' or use '--enforce-eager' in the CLI.
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 12:00:52 model_runner.py:1404] If out-of-memory error occurs during cudagraph capture, consider decreasing `gpu_memory_utilization` or switching to eager mode. You can also reduce the `max_num_seqs` as needed to decrease memory usage.
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 12:00:52 model_runner.py:1400] Capturing cudagraphs for decoding. This may lead to unexpected consequences if the model is not static. To run the model in eager mode, set 'enforce_eager=True' or use '--enforce-eager' in the CLI.
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 12:00:52 model_runner.py:1404] If out-of-memory error occurs during cudagraph capture, consider decreasing `gpu_memory_utilization` or switching to eager mode. You can also reduce the `max_num_seqs` as needed to decrease memory usage.
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 12:00:52 model_runner.py:1400] Capturing cudagraphs for decoding. This may lead to unexpected consequences if the model is not static. To run the model in eager mode, set 'enforce_eager=True' or use '--enforce-eager' in the CLI.
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 12:00:52 model_runner.py:1404] If out-of-memory error occurs during cudagraph capture, consider decreasing `gpu_memory_utilization` or switching to eager mode. You can also reduce the `max_num_seqs` as needed to decrease memory usage.
+[1;36m(VllmWorkerProcess pid=12266)[0;0m INFO 05-13 12:01:17 model_runner.py:1518] Graph capturing finished in 26 secs, took 0.41 GiB
+INFO 05-13 12:01:17 model_runner.py:1518] Graph capturing finished in 26 secs, took 0.40 GiB
+[1;36m(VllmWorkerProcess pid=12267)[0;0m INFO 05-13 12:01:17 model_runner.py:1518] Graph capturing finished in 26 secs, took 0.41 GiB
+[1;36m(VllmWorkerProcess pid=12265)[0;0m INFO 05-13 12:01:17 model_runner.py:1518] Graph capturing finished in 26 secs, took 0.40 GiB
+A1iITpffUgU.txt: relevant video (The transcript describes tasks related to physical farming specifically fence repair and maintenance; three-point turns on a UTV; and cleanup. The response accurately extracts and lists tasks and subtasks from the given transcript.), saving tasks...
+Kxw6kgNXgho.txt: relevant video (Video is relevant to farming and agriculture.), saving tasks...
+QWzaZ5QRJwo.txt: relevant video (Video is relevant to farming and agriculture.), saving tasks...
+bq2hrWcrY6g.txt: irrelevant video (The transcript is about a person returning opening and handling fish waiting for a login and engorging on rice—none of which are agricultural tasks.), blacklisting...
+qKkdL5XRvbE.txt: irrelevant video (The transcript does not mention any physical farming agriculture or operating farming equipment related tasks. It just states "existe noting Ana Dios OFF" which is likely from a recording or broadcast indicating Ana Dios has signed off but provides no information about actions. Therefore there are no relevant tasks to derive from this transcript.), blacklisting...
+nsR0PEPiLEc.txt: irrelevant video (The transcript primarily consists of social media commentary interaction and personal remarks with no clear indica...), blacklisting...
+
+Generating motions...
+Finished generating motions.

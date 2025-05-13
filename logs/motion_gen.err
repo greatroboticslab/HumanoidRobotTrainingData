@@ -12,3 +12,122 @@ ERROR conda.cli.main_run:execute(125): `conda run python masswhisper.py` failed.
 + cd /ocean/projects/cis240145p/byler/PSCCode/s1_baseline
 + echo 'Generating tasks...'
 + conda run -n s1 python s1.py
+
+Loading safetensors checkpoint shards:   0% Completed | 0/7 [00:00<?, ?it/s]
+
+Loading safetensors checkpoint shards:  14% Completed | 1/7 [00:35<03:35, 35.98s/it]
+
+Loading safetensors checkpoint shards:  29% Completed | 2/7 [01:23<03:32, 42.48s/it]
+
+Loading safetensors checkpoint shards:  43% Completed | 3/7 [02:24<03:25, 51.34s/it]
+
+Loading safetensors checkpoint shards:  57% Completed | 4/7 [03:29<02:50, 56.73s/it]
+
+Loading safetensors checkpoint shards:  71% Completed | 5/7 [04:04<01:37, 48.68s/it]
+
+Loading safetensors checkpoint shards:  86% Completed | 6/7 [04:37<00:43, 43.33s/it]
+
+Loading safetensors checkpoint shards: 100% Completed | 7/7 [05:01<00:00, 37.04s/it]
+
+Loading safetensors checkpoint shards: 100% Completed | 7/7 [05:01<00:00, 43.05s/it]
+
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.01s/it, est. speed input: 436.50 toks/s, output: 83.12 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.02s/it, est. speed input: 436.50 toks/s, output: 83.12 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:04<00:00,  4.14s/it, est. speed input: 891.85 toks/s, output: 79.67 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:04<00:00,  4.14s/it, est. speed input: 891.85 toks/s, output: 79.67 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [01:14<00:00, 74.79s/it, est. speed input: 268.58 toks/s, output: 39.60 toks/s]
+Processed prompts: 100%|██████████| 1/1 [01:14<00:00, 74.79s/it, est. speed input: 268.58 toks/s, output: 39.60 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [10:16<00:00, 616.38s/it, est. speed input: 0.96 toks/s, output: 52.20 toks/s]
+Processed prompts: 100%|██████████| 1/1 [10:16<00:00, 616.42s/it, est. speed input: 0.96 toks/s, output: 52.20 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:03<00:00,  3.05s/it, est. speed input: 130.94 toks/s, output: 77.78 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:03<00:00,  3.05s/it, est. speed input: 130.94 toks/s, output: 77.78 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [01:21<00:00, 81.72s/it, est. speed input: 7.32 toks/s, output: 90.42 toks/s]
+Processed prompts: 100%|██████████| 1/1 [01:21<00:00, 81.72s/it, est. speed input: 7.32 toks/s, output: 90.42 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s][rank0]:[E513 12:24:38.247964990 ProcessGroupNCCL.cpp:616] [Rank 0] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=2011869, OpType=ALLREDUCE, NumelIn=4698624, NumelOut=4698624, Timeout(ms)=600000) ran for 600037 milliseconds before timing out.
+[rank3]:[E513 12:24:38.251959489 ProcessGroupNCCL.cpp:616] [Rank 3] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=2011869, OpType=ALLREDUCE, NumelIn=4698624, NumelOut=4698624, Timeout(ms)=600000) ran for 600042 milliseconds before timing out.
+[rank1]:[E513 12:24:38.266819217 ProcessGroupNCCL.cpp:616] [Rank 1] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=2011869, OpType=ALLREDUCE, NumelIn=4698624, NumelOut=4698624, Timeout(ms)=600000) ran for 600057 milliseconds before timing out.
+[rank2]:[E513 12:24:38.296967563 ProcessGroupNCCL.cpp:616] [Rank 2] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=2011869, OpType=ALLREDUCE, NumelIn=4698624, NumelOut=4698624, Timeout(ms)=600000) ran for 600087 milliseconds before timing out.
+[rank3]:[E513 12:24:39.224301894 ProcessGroupNCCL.cpp:1785] [PG ID 2 PG GUID 3 Rank 3] Exception (either an error or timeout) detected by watchdog at work: 2011869, last enqueued NCCL work: 2011869, last completed NCCL work: 2011868.
+[rank3]:[E513 12:24:39.224322262 ProcessGroupNCCL.cpp:1834] [PG ID 2 PG GUID 3 Rank 3] Timeout at NCCL work: 2011869, last enqueued NCCL work: 2011869, last completed NCCL work: 2011868.
+[rank1]:[E513 12:24:39.224313895 ProcessGroupNCCL.cpp:1785] [PG ID 2 PG GUID 3 Rank 1] Exception (either an error or timeout) detected by watchdog at work: 2011869, last enqueued NCCL work: 2011869, last completed NCCL work: 2011868.
+[rank3]:[E513 12:24:39.224329008 ProcessGroupNCCL.cpp:630] [Rank 3] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank1]:[E513 12:24:39.224328216 ProcessGroupNCCL.cpp:1834] [PG ID 2 PG GUID 3 Rank 1] Timeout at NCCL work: 2011869, last enqueued NCCL work: 2011869, last completed NCCL work: 2011868.
+[rank3]:[E513 12:24:39.224332971 ProcessGroupNCCL.cpp:636] [Rank 3] To avoid data inconsistency, we are taking the entire process down.
+[rank1]:[E513 12:24:39.224334593 ProcessGroupNCCL.cpp:630] [Rank 1] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank1]:[E513 12:24:39.224338164 ProcessGroupNCCL.cpp:636] [Rank 1] To avoid data inconsistency, we are taking the entire process down.
+[rank2]:[E513 12:24:39.224318586 ProcessGroupNCCL.cpp:1785] [PG ID 2 PG GUID 3 Rank 2] Exception (either an error or timeout) detected by watchdog at work: 2011869, last enqueued NCCL work: 2011869, last completed NCCL work: 2011868.
+[rank2]:[E513 12:24:39.224356122 ProcessGroupNCCL.cpp:1834] [PG ID 2 PG GUID 3 Rank 2] Timeout at NCCL work: 2011869, last enqueued NCCL work: 2011869, last completed NCCL work: 2011868.
+[rank0]:[E513 12:24:39.224342386 ProcessGroupNCCL.cpp:1785] [PG ID 2 PG GUID 3 Rank 0] Exception (either an error or timeout) detected by watchdog at work: 2011869, last enqueued NCCL work: 2011869, last completed NCCL work: 2011868.
+[rank0]:[E513 12:24:39.224364310 ProcessGroupNCCL.cpp:1834] [PG ID 2 PG GUID 3 Rank 0] Timeout at NCCL work: 2011869, last enqueued NCCL work: 2011869, last completed NCCL work: 2011868.
+[rank2]:[E513 12:24:39.224363707 ProcessGroupNCCL.cpp:630] [Rank 2] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank2]:[E513 12:24:39.224379239 ProcessGroupNCCL.cpp:636] [Rank 2] To avoid data inconsistency, we are taking the entire process down.
+[rank0]:[E513 12:24:39.224378921 ProcessGroupNCCL.cpp:630] [Rank 0] Some NCCL operations have failed or timed out. Due to the asynchronous nature of CUDA kernels, subsequent GPU operations might run on corrupted/incomplete data.
+[rank0]:[E513 12:24:39.224383586 ProcessGroupNCCL.cpp:636] [Rank 0] To avoid data inconsistency, we are taking the entire process down.
+[rank0]:[E513 12:24:39.306954725 ProcessGroupNCCL.cpp:1595] [PG ID 2 PG GUID 3 Rank 0] Process group watchdog thread terminated with exception: [Rank 0] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=2011869, OpType=ALLREDUCE, NumelIn=4698624, NumelOut=4698624, Timeout(ms)=600000) ran for 600037 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x14b0e4157446 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x14b0e546a772 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x14b0e5471bb3 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x14b0e547361d in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x14b12ddf45c0 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x81ca (0x14b13da3d1ca in /lib64/libpthread.so.0)
+frame #6: clone + 0x43 (0x14b13cf0e8d3 in /lib64/libc.so.6)
+
+[rank2]:[E513 12:24:39.307159820 ProcessGroupNCCL.cpp:1595] [PG ID 2 PG GUID 3 Rank 2] Process group watchdog thread terminated with exception: [Rank 2] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=2011869, OpType=ALLREDUCE, NumelIn=4698624, NumelOut=4698624, Timeout(ms)=600000) ran for 600087 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x14b0e4157446 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x14b0e546a772 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x14b0e5471bb3 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x14b0e547361d in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x14b12ddf45c0 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x81ca (0x14b13da3d1ca in /lib64/libpthread.so.0)
+frame #6: clone + 0x43 (0x14b13cf0e8d3 in /lib64/libc.so.6)
+
+[rank3]:[E513 12:24:39.307272366 ProcessGroupNCCL.cpp:1595] [PG ID 2 PG GUID 3 Rank 3] Process group watchdog thread terminated with exception: [Rank 3] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=2011869, OpType=ALLREDUCE, NumelIn=4698624, NumelOut=4698624, Timeout(ms)=600000) ran for 600042 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x14b0e4157446 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x14b0e546a772 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x14b0e5471bb3 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x14b0e547361d in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x14b12ddf45c0 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x81ca (0x14b13da3d1ca in /lib64/libpthread.so.0)
+frame #6: clone + 0x43 (0x14b13cf0e8d3 in /lib64/libc.so.6)
+
+[rank1]:[E513 12:24:39.307281180 ProcessGroupNCCL.cpp:1595] [PG ID 2 PG GUID 3 Rank 1] Process group watchdog thread terminated with exception: [Rank 1] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=2011869, OpType=ALLREDUCE, NumelIn=4698624, NumelOut=4698624, Timeout(ms)=600000) ran for 600057 milliseconds before timing out.
+Exception raised from checkTimeout at ../torch/csrc/distributed/c10d/ProcessGroupNCCL.cpp:618 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::string) + 0x96 (0x14b0e4157446 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libc10.so)
+frame #1: c10d::ProcessGroupNCCL::WorkNCCL::checkTimeout(std::optional<std::chrono::duration<long, std::ratio<1l, 1000l> > >) + 0x282 (0x14b0e546a772 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #2: c10d::ProcessGroupNCCL::watchdogHandler() + 0x233 (0x14b0e5471bb3 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #3: c10d::ProcessGroupNCCL::ncclCommWatchdog() + 0x14d (0x14b0e547361d in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0x145c0 (0x14b12ddf45c0 in /jet/home/byler/miniconda3/envs/s1/lib/python3.10/site-packages/torch/lib/libtorch.so)
+frame #5: <unknown function> + 0x81ca (0x14b13da3d1ca in /lib64/libpthread.so.0)
+frame #6: clone + 0x43 (0x14b13cf0e8d3 in /lib64/libc.so.6)
+
+/jet/home/byler/miniconda3/envs/s1/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked shared_memory objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/var/tmp/tmpt9glf5do: line 3: 10671 Aborted                 (core dumped) python s1.py
+
+ERROR conda.cli.main_run:execute(125): `conda run python s1.py` failed. (See above for error)
++ cd /ocean/projects/cis240145p/byler/PSCCode/momask_baseline
++ echo 'Generating motions...'
++ conda run -n momask python generate_motions.py
+  File "generate_motions.py", line 54
+    if len(st) > 3:
+    ^
+IndentationError: unexpected indent
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate_motions.py` failed. (See above for error)
++ echo 'Finished generating motions.'
