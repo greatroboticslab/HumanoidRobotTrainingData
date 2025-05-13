@@ -13,7 +13,7 @@ import matplotlib
 
 def create_folder(folder_name):
     safe_name = re.sub(r'[\\/*?:"<>|]', '', folder_name)
-    filename = "../../frames/" + safe_name
+    filename = "../video_processing/frames/" + safe_name
     os.makedirs(filename, exist_ok=True)
     return filename
 
@@ -114,7 +114,7 @@ def main():
     #os.makedirs("Video_input", exist_ok=True)
     #os.makedirs("Video_output", exist_ok=True)
 
-    _videos = [f for f in os.listdir("../../rawvideos/") if f.lower().endswith('.mp4')]
+    _videos = [f for f in os.listdir("../video_processing/rawvideos/") if f.lower().endswith('.mp4')]
 
     if not _videos:
         print("No videos found to process.")
@@ -137,7 +137,7 @@ def main():
             os.makedirs(depth_dir, exist_ok=True)
 
             print(frames_dir)
-            frame_paths = video_to_frames("../../rawvideos", frames_dir, video, skip_frames=5)
+            frame_paths = video_to_frames("../video_processing/rawvideos", frames_dir, video, skip_frames=5)
 
             if frame_paths:
                 print("Running DepthAnythingV2 on extracted frames...")
