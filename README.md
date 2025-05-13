@@ -62,7 +62,13 @@ Finally, create an environment for MoMask.
 
 ### Getting Dataset
 
-Once you have the dependencies installed, you can run batchvideos.slurm in the video_processing folder:
+In order to gettting the dataset ready, we need to start from downloading creative commons videos from Youtube. 
+
+Through this process, we need to execute the generation of search terms.
+
+python s1_baseline/generate_search_terms.py
+
+After generation of search times, you can run batchvideos.slurm in the video_processing folder (note, this one will use both generated search terms and hardcoded links):
 
 	sbatch batchvideos.slurm
 
