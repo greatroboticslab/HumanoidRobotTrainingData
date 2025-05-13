@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH --job-name=depth_generation # Job name
+#SBATCH --partition=GPU-shared # Partition (queue) name
+#SBATCH --gres=gpu:v100-16:1 # Request 2 A100 GPU
+#SBATCH -N 1
+#SBATCH --time=16:00:00 # Time limit (hh:mm:ss)
+#SBATCH --output=depth_frames.out # Standard output
+#SBATCH --error=depth_frames.err # Standard error
+
+set -x
+cd ${PROJECT}/PSCCode/depth_anything_baseline/scripts
+
+echo "Generating depth frames..."
+conda run -n whisper python Video_YTB_text.py

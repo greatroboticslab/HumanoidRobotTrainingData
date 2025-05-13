@@ -11,9 +11,11 @@ from tqdm import tqdm
 import numpy as np
 import matplotlib
 
-def create_folder(folder_name):
+def create_folder(folder_name, depthDir):
     safe_name = re.sub(r'[\\/*?:"<>|]', '', folder_name)
-    filename = "../video_processing/frames/" + safe_name
+    filename = "../../video_processing/frames/" + safe_name
+    if depthDir:
+        filename = "../output/" + safe_name
     os.makedirs(filename, exist_ok=True)
     return filename
 
@@ -108,13 +110,13 @@ def main():
 
     encoder = "vitl"
     model = DepthAnythingV2(**model_configs[encoder])
-    model.load_state_dict(torch.load(f'checkpoints/depth_anything_v2_{encoder}.pth', map_location='cpu'))
+    model.load_state_dict(torch.load(f'../checkpoints/depth_anything_v2_{encoder}.pth', map_location='cpu'))
     model = model.to(device).eval()
 
     #os.makedirs("Video_input", exist_ok=True)
     #os.makedirs("Video_output", exist_ok=True)
 
-    _videos = [f for f in os.listdir("../video_processing/rawvideos/") if f.lower().endswith('.mp4')]
+    _videos = [f for f in os.listdir("../../video_processing/relevant_videos/") if f.lower().endswith('.mp4')]
 
     if not _videos:
         print("No videos found to process.")
@@ -129,15 +131,16 @@ def main():
         # original_video_name = download_youtube_video(url, "Video_input")
         
         if video:
-            safe_folder_name = create_folder(videoIndex)
+            safe_folder_name = create_folder(videoIndex, False)
+            depth_folder_name = create_folder(videoIndex, True)
             frames_dir = os.path.join(safe_folder_name, "raw_frames")
-            depth_dir = os.path.join(safe_folder_name, "depth_maps")
+            depth_dir = os.path.join(depth_folder_name, "depth_maps")
 
             os.makedirs(frames_dir, exist_ok=True)
             os.makedirs(depth_dir, exist_ok=True)
 
             print(frames_dir)
-            frame_paths = video_to_frames("../video_processing/rawvideos", frames_dir, video, skip_frames=5)
+            frame_paths = video_to_frames("../../video_processing/relevant_videos", frames_dir, video, skip_frames=5)
 
             if frame_paths:
                 print("Running DepthAnythingV2 on extracted frames...")
