@@ -62,11 +62,13 @@ Finally, create an environment for MoMask.
 
 ### Getting Dataset
 
+Step 1: Video Downloading: 
+
 In order to gettting the dataset ready, we need to start from downloading creative commons videos from Youtube. 
 
-Through this process, we need to execute the generation of search terms.
+Through this process, we need to execute the generation of search terms:
 
-python s1_baseline/generate_search_terms.py
+	python s1_baseline/generate_search_terms.py
 
 After generation of search times, you can run batchvideos.slurm in the video_processing folder (note, this one will use both generated search terms and hardcoded links):
 
@@ -80,6 +82,16 @@ On Local Server, you can do the following to download videos.
 
 The downloaded videos will be saved to video_processing/rawvideos/
 The script will then attempt to identify and transcribe the videos. If this fails, the videos will still be saved.
+
+
+
+Step 2: Depth-anythingv2 data generation 
+
+         
+
+
+      
+
 
 
 ### Generating Tasks
