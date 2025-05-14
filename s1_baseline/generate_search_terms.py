@@ -50,6 +50,6 @@ outString = ""
 for s in searches:
     outString += s + "\n"
 
-outFile = open("../video_processing/search_terms.txt")
+outFile = open("../video_processing/search_terms.txt", "w")
 outFile.write(outString)
 outFile.close()

@@ -60,6 +60,15 @@ Finally, create an environment for MoMask.
 	pip install git+https://github.com/openai/CLIP.git
 	bash prepare/download_models.sh	
 
+### For Depth Anything
+
+You can also generate depth frames (pictures of 3d depth) from the relevant videos. Set up the environment:
+
+	cd depth_anything_baseline/
+	conda create -n depthanything
+	conda activate depthanything
+	pip install -r requirements.txt
+
 ### Getting Dataset
 
 Step 1: Video Downloading: 
@@ -87,12 +96,14 @@ The script will then attempt to identify and transcribe the videos. If this fail
 
 Step 2: Depth-anythingv2 data generation 
 
-         
+You can now generate depth frames from the videos. Navigate to depth_anything_baseline/scripts/ and run either:
 
+	sbatch generate_depths.slurm
 
-      
+for PSC, or
 
-
+	conda activate depthanything
+	python Video_YTB_text.py
 
 ### Generating Tasks
 
