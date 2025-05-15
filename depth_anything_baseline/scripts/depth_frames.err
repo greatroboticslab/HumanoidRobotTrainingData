@@ -1,4 +1,9 @@
 + cd /ocean/projects/cis240145p/byler/PSCCode/depth_anything_baseline/scripts
 + echo 'Generating depth frames...'
-+ conda run -n whisper python Video_YTB_text.py
-/var/spool/slurm/d/job31211651/slurm_script: line 14: conda: command not found
++ conda run -n depthanything python Video_YTB_text.py
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n depthanything python Video_YTB_text.py
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n depthanything python Video_YTB_text.py
+slurmstepd: error: *** JOB 31220339 ON v026 CANCELLED AT 2025-05-15T06:10:18 DUE TO TIME LIMIT ***

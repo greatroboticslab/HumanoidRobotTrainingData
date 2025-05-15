@@ -7,8 +7,10 @@
 #SBATCH --output=depth_frames.out # Standard output
 #SBATCH --error=depth_frames.err # Standard error
 
+source ${PROJECT}/miniconda3/etc/profile.d/conda.sh
+
 set -x
 cd ${PROJECT}/PSCCode/depth_anything_baseline/scripts
 
 echo "Generating depth frames..."
-conda run -n whisper python Video_YTB_text.py
+conda run -n depthanything python Video_YTB_text.py

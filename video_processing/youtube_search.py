@@ -58,7 +58,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    outputFile = open("videos_s1.txt", "w")
+    outputFile = open("output/video_downloading/videos_s1.txt", "w")
     outString = ""
     for url in final_urls:
         outString += url + "\n"

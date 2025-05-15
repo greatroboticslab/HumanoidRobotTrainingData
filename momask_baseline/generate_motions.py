@@ -51,9 +51,9 @@ for item in data:
         for st in _subtasks:
             try:
                 _folderName = folderName + "/" + sanitize_folder_name(st)
-                    if len(st) > 3:
-                        print("\t+-> Generating subtask: " + _folderName)
-                        result = subprocess.run(["conda", "run", "-n", "momask", "python", "gen_t2m.py", "--gpu_id", "0", "--ext", f"batch_motions/{_folderName}", "--text_prompt", st],capture_output=True, text=True, check=True)
+                if len(st) > 3:
+                    print("\t+-> Generating subtask: " + _folderName)
+                    result = subprocess.run(["conda", "run", "-n", "momask", "python", "gen_t2m.py", "--gpu_id", "0", "--ext", f"batch_motions/{_folderName}", "--text_prompt", st],capture_output=True, text=True, check=True)
             except subprocess.CalledProcessError as e:
                 print("Command failed:")
                 print("STDOUT:", e.stdout)
