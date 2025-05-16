@@ -1,0 +1,3 @@
++ cd /ocean/projects/cis240145p/byler/PSCCode/video_processing
++ echo 'Identifying videos...'
++ conda run -n whisper python identify_videos.py

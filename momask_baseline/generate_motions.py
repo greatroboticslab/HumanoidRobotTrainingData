@@ -1,6 +1,14 @@
+from os import listdir
+from os.path import isfile, join
+import argparse
 import json
 import subprocess
 import re
+
+parser = argparse.ArgumentParser(description="Parse model argument")
+parser.add_argument('--start', type=int, default=0, help='Start from this file #')
+parser.add_argument('--end', type=int, default=-1, help='Stop processing at this file, set to -1 for all files from start.')
+args = parser.parse_args()
 
 def sanitize_folder_name(name: str) -> str:
     # Strip leading/trailing whitespace
@@ -23,13 +31,32 @@ def sanitize_folder_name(name: str) -> str:
 
     return name
 
-# Load the JSON file
-with open('../s1_baseline/output/output.json', 'r', encoding='utf-8') as f:
-    data = json.load(f)
+
 
 # Extract tasks
 
-for item in data:
+mypath = "../s1_baseline/output/"
+onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+
+_from = args.start
+if _from > len(onlyfiles):
+    _from = len(onlyfiles)
+_to = args.end
+if _to > len(onlyfiles):
+    _to = len(onlyfiles)
+
+onlyfiles = onlyfiles[_from:_to]
+
+for vid in onlyfiles:
+
+    data = None
+
+    # Load the JSON file
+    print("Loading " + str(vid) + "...")
+    with open("../s1_baseline/output/" + str(vid), 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    item = data
     tasks = []
     category = item.get("category")
     index = item.get("index")

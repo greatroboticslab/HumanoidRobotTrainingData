@@ -12,6 +12,9 @@ parser = argparse.ArgumentParser(description="Parse model argument")
 parser.add_argument('--model', type=str, default="s1.1-7B", help='Name or path of the model')
 parser.add_argument('--gpus', type=int, default=4, help='Number of GPUs to use.')
 parser.add_argument('--tokens', type=int, default=32768, help='Max number of tokens.')
+parser.add_argument('--start', type=int, default=0, help='Start from this file #')
+parser.add_argument('--end', type=int, default=-1, help='Stop processing at this file, set to -1 for all files from start.')
+
 args = parser.parse_args()
 model_name = args.model
 _token_count = args.tokens
@@ -74,6 +77,13 @@ sampling_params = SamplingParams(
 
 mypath = "../video_processing/transcripts/"
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+_from = args.start
+if _from > len(onlyfiles):
+    _from = len(onlyfiles)
+_to = args.end
+if _to > len(onlyfiles):
+    _to = len(onlyfiles)
+onlyfiles = onlyfiles[_from:_to]
 jsonData = []
 allTasks = []
 allSubtasks = []
@@ -198,16 +208,20 @@ for file in onlyfiles:
                     "category": videoCategory,
                     "tasks": jTasks
                 }
-                jsonData.append(entry)
+                # jsonData.append(entry)
+                # Generate a .json for this video
+                jsonFile = open("output/" + str(vID) + ".json", "w")
+                json.dump(entry, jsonFile, indent=4)
+                jsonFile.close()
 
             else:
                 print(str(file) + ": irrelevant video (" + rejectionReason + "), blacklisting...")
                 irrelevantCount += 1
                 blacklist += url + ", " + rejectionReason + "\n"
 
-jsonFile = open("output/output.json", "w")
-json.dump(jsonData, jsonFile, indent=4)
-jsonFile.close()
+#jsonFile = open("output/output.json", "w")
+#json.dump(jsonData, jsonFile, indent=4)
+#jsonFile.close()
 
 # outputFile = open("output/momask_tasks.txt", "w", encoding="ascii", errors="ignore")
 # outputString = ""
@@ -228,10 +242,12 @@ print("Copying relevant videos to relevant_videos/")
 for w in whitelist:
     shutil.copy("../video_processing/rawvideos/" + w + ".mp4", "../video_processing/relevant_videos/"+w+".mp4")
 
-# Save CSV File
-csvFile = open("../video_processing/relevant_videos/video_data.csv", "w", encoding="ascii", errors="ignore")
-cLines = "index, url, video title, category, reason\n"
+os.makedirs("../video_processing/relevant_videos/data/", exist_ok=True)
+
+# Save CSV Files
 for i in range(len(whitelist)):
+    csvFile = open("../video_processing/relevant_videos/data/"+str(whitelist[i])+".csv", "w", encoding="ascii", errors="ignore")
+    cLines = "index, url, video title, category, reason\n"
     cLines += str(whitelist[i]) + ", https://www.youtube.com/watch?v=" + whitelist[i] + ", " + whitelist_titles[i] + ", " + whitelist_categories[i] + ", " + whitelist_reasons[i] + "\n"
 csvFile.write(cLines)
 csvFile.close()
