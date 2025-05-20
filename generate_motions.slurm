@@ -24,6 +24,6 @@ conda run -n s1 python s1.py --start $1 --end $2
 cd ${PROJECT}/PSCCode/momask_baseline
 
 echo "Generating motions..."
-conda run -n momask python generate_motions.py --start $1 --end $3
+conda run -n momask python generate_motions.py --start $1 --end $2
 
 echo "Finished generating motions."

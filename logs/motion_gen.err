@@ -1,3 +1,47 @@
 + cd /ocean/projects/cis240145p/byler/PSCCode/video_processing
 + echo 'Identifying videos...'
 + conda run -n whisper python identify_videos.py
++ echo 'Transcribing videos...'
++ conda run -n whisper python masswhisper.py
++ cd /ocean/projects/cis240145p/byler/PSCCode/s1_baseline
++ echo 'Generating tasks...'
++ conda run -n s1 python s1.py --start 0 --end 3
+
+Loading safetensors checkpoint shards:   0% Completed | 0/7 [00:00<?, ?it/s]
+
+Loading safetensors checkpoint shards:  14% Completed | 1/7 [00:39<03:55, 39.20s/it]
+
+Loading safetensors checkpoint shards:  29% Completed | 2/7 [01:17<03:13, 38.67s/it]
+
+Loading safetensors checkpoint shards:  43% Completed | 3/7 [01:56<02:35, 38.86s/it]
+
+Loading safetensors checkpoint shards:  57% Completed | 4/7 [02:56<02:21, 47.17s/it]
+
+Loading safetensors checkpoint shards:  71% Completed | 5/7 [03:19<01:16, 38.28s/it]
+
+Loading safetensors checkpoint shards:  86% Completed | 6/7 [03:47<00:35, 35.03s/it]
+
+Loading safetensors checkpoint shards: 100% Completed | 7/7 [04:08<00:00, 30.47s/it]
+
+Loading safetensors checkpoint shards: 100% Completed | 7/7 [04:08<00:00, 35.55s/it]
+
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.98s/it, est. speed input: 437.37 toks/s, output: 83.28 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.01s/it, est. speed input: 437.37 toks/s, output: 83.28 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:04<00:00,  4.12s/it, est. speed input: 896.95 toks/s, output: 80.13 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:04<00:00,  4.12s/it, est. speed input: 896.95 toks/s, output: 80.13 toks/s]
+
+Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.48s/it, est. speed input: 1926.09 toks/s, output: 33.41 toks/s]
+Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.48s/it, est. speed input: 1926.09 toks/s, output: 33.41 toks/s]
+[rank0]:[W519 14:30:06.505345120 ProcessGroupNCCL.cpp:1250] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())
+/jet/home/byler/miniconda3/envs/s1/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked shared_memory objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+
++ cd /ocean/projects/cis240145p/byler/PSCCode/momask_baseline
++ echo 'Generating motions...'
++ conda run -n momask python generate_motions.py --start 0 --end 3
++ echo 'Finished generating motions.'

@@ -10,6 +10,12 @@ import torchvision.transforms as T
 from tqdm import tqdm
 import numpy as np
 import matplotlib
+import argparse
+
+parser = argparse.ArgumentParser(description="Parse model argument")
+parser.add_argument('--start', type=int, default=0, help='Start from this file #')
+parser.add_argument('--end', type=int, default=-1, help='Stop processing at this file, set to -1 for all files from start.')
+args = parser.parse_args()
 
 def create_folder(folder_name, depthDir):
     safe_name = re.sub(r'[\\/*?:"<>|]', '', folder_name)
@@ -117,6 +123,8 @@ def main():
     #os.makedirs("Video_output", exist_ok=True)
 
     _videos = [f for f in os.listdir("../../video_processing/relevant_videos/") if f.lower().endswith('.mp4')]
+
+    _videos = _videos[args.start:args.end]
 
     if not _videos:
         print("No videos found to process.")

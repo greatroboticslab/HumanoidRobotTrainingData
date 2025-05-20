@@ -98,12 +98,16 @@ Step 2: Depth-anythingv2 data generation
 
 You can now generate depth frames from the videos. Navigate to depth_anything_baseline/scripts/ and run either:
 
-	sbatch generate_depths.slurm
+	bash generate_all.sh
+or
+	sbatch generate_depths.slurm <start> <end>
 
 for PSC, or
 
 	conda activate depthanything
-	python Video_YTB_text.py
+	python Video_YTB_text.py --start <start> --end <end>
+
+The <start> and <end> parameters determine the range of files to process. For instance, 0 and 100 will process the first 100 files.
 
 ### Generating Tasks
 
