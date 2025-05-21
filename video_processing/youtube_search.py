@@ -10,9 +10,13 @@ indexList = []  # Track unique video IDs
 final_urls = []
 urlCount = 0
 maxUrls = 0
+downloadedVideos = 0
+lastTermLine = 0
 
 def get_unique_youtube_results(api_key, query, target_count=10):
-    urlCount = 0
+    global urlCount
+    global downloadedVideos
+    global lastTermLine
     unique_urls = []
     page_token = None
 
@@ -42,14 +46,18 @@ def get_unique_youtube_results(api_key, query, target_count=10):
 
         for item in items:
             video_id = item['id']['videoId']
-            if maxUrls < 0 or (urlCount < maxUrls):
+            if maxUrls <= 0 or (urlCount < maxUrls):
                 if video_id not in indexList:
                     indexList.append(video_id)
                     url = f"https://www.youtube.com/watch?v={video_id}"
                     unique_urls.append(url)
                     urlCount += 1
+                    downloadedVideos += 1
+                    print("Added url #" + str(urlCount))
                 else:
                     print("Skipping duplicate: " + video_id + "...")
+            else:
+                break
 
             if len(unique_urls) >= target_count:
                 break
@@ -59,17 +67,22 @@ def get_unique_youtube_results(api_key, query, target_count=10):
             break
 
         # Respect API rate limits
-        time.sleep(0.5)
+        time.sleep(1.5)
 
     return unique_urls
 
 def main():
+    
+    global maxUrls
+    global urlCount
+    global lastTermLine
 
     parser = argparse.ArgumentParser(description="Search YouTube for Creative Commons videos based on search phrases from a text file.")
     parser.add_argument("--input_file", help="Path to the input file with search phrases (one per line)")
     parser.add_argument("--api_key", help="YouTube Data API v3 key")
     parser.add_argument("--files", type=int, default=1, help="Number of files to split the output to.")
     parser.add_argument("--max_urls", type=int, default=0, help="Maximum number of URLs to gather, set to 0 for no limit.")
+    parser.add_argument("--start", type=int, default=0, help="What line in the search term file to start from. Useful for continuing from where you left off.")
 
     args = parser.parse_args()
     maxUrls = args.max_urls
@@ -87,15 +100,21 @@ def main():
     with open(args.input_file, "r", encoding="utf-8") as f:
         search_phrases = [line.strip() for line in f if line.strip()]
 
+    search_phrases = search_phrases[args.start:]
+
     for phrase in search_phrases:
-        print(f"\n🔍 Search: {phrase}")
-        urls = get_unique_youtube_results(args.api_key, phrase, target_count=10)
-        if urls:
-            for url in urls:
-                print(url)
-                final_urls.append(url)
+        if maxUrls <= 0 or (urlCount < maxUrls):
+            print(f"\n🔍 Search: {phrase}")
+            urls = get_unique_youtube_results(args.api_key, phrase, target_count=10)
+            lastTermLine += 1
+            if urls:
+                for url in urls:
+                    print(url)
+                    final_urls.append(url)
+            else:
+                print("No Creative Commons videos found.")
         else:
-            print("No Creative Commons videos found.")
+            break
 
     os.makedirs("output/video_downloading", exist_ok=True)
 
@@ -120,6 +139,9 @@ def main():
         outputFile = open("output/video_downloading/videos_s1_"+str(f)+".txt", "w")
         outputFile.write("\n".join(split_urls[f]))
         outputFile.close()
+
+    # Print info
+    print("Last line: " + str(lastTermLine) + " (" + str(search_phrases[lastTermLine]) + ")")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,26 @@
+{
+    "index": "Yx-PW4qYEHY",
+    "title": "How Monsters Spawn in R.E.P.O. (Guide and Code deep dive)",
+    "url": "https://www.youtube.com/watch?v=Yx-PW4qYEHY",
+    "category": "Entertainment",
+    "tasks": [
+        {
+            "task": "Understanding the spawn mechanics of game enemies and level structures during gameplay.",
+            "subtasks": [
+                "Identifying three levels of entities (Level 1, 2, 3) and their respective monsters.",
+                "Noting the probability of different monster levels spawning.",
+                "Determining the impact of a 4.6656% chance for lower-level entities to replace level 3 entities.",
+                "Recognizing the presence of monster spawn sets (e.g., 3 Animals, 3 Bowties) and their limitations.",
+                "Understanding how game level affects monster compositions (e.g., game levels 1-2 have 1 Level 1 and 1 Level 3 monster).",
+                "Examing the spawning behavior of entities after 2-5 seconds away from the truck.",
+                "Knowing the idle times for different levels (highest at Level 1 with 2-3 minutes, decreasing as level increases).",
+                "Understanding the despawn mechanism (20-40 second timer) and its impact on respawn timers.",
+                "Knowing that monsters killed by players have their respawn timer multiplied by 3 for the first 10 minutes.",
+                "Recognizing the rapid respawning of monsters (1-second timer) during the final extraction.",
+                "Understanding the strategic paths monsters take after respawning during the final extraction.",
+                "Noting the presence of a tryharding strategy involving sending a player back early.",
+                "Acknowledging the value of Shibu in providing information from the game's code."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "index": "HkbWdRTSLno",
+    "title": "Unknown Title",
+    "url": "https://www.youtube.com/watch?v=HkbWdRTSLno",
+    "category": "Unknown Category",
+    "tasks": [
+        {
+            "task": "Create a data query for agricultural analysis",
+            "subtasks": [
+                "Select 250 meter resolution crop planting map from the US Department of Agriculture",
+                "Choose daily maximum temperature from the PRISM historical weather data",
+                "Define geographic area for analysis (Midwestern US)",
+                "Set time window for crop planting data (January 1, 2017)",
+                "Set time window for temperature data (June 2017)",
+                "Submit the query"
+            ]
+        },
+        {
+            "task": "Analyze the data results",
+            "subtasks": [
+                "Examine the categorized crop types and their numerical codes",
+                "Integrate and visualize temperature data time series for a selected point",
+                "Create an animation of temperature changes during the specified time window"
+            ]
+        },
+        {
+            "task": "So the main tasks are creating the query and then analyzing the results. For each, there are specific steps. Let me list them as MAINTASKs followed by their subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Create a data query for agricultural analysis",
+            "subtasks": [
+                "Select 250 meter resolution crop planting map from the US Department of Agriculture",
+                "Choose daily maximum temperature from the PRISM historical weather data",
+                "Define geographic area for analysis (Midwestern US)",
+                "Set time window for crop planting data (January 1, 2017)",
+                "Set time window for temperature data (June 2017)",
+                "Submit the query"
+            ]
+        },
+        {
+            "task": "Analyze the data results",
+            "subtasks": [
+                "Examine the categorized crop types and their numerical codes",
+                "Integrate and visualize temperature data time series for a selected point",
+                "Create an animation of temperature changes during the specified time window"
+            ]
+        }
+    ]
+}

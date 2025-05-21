@@ -1,0 +1,62 @@
++ cd /ocean/projects/cis240145p/byler/PSCCode/depth_anything_baseline/scripts
++ cd /ocean/projects/cis240145p/byler/PSCCode/depth_anything_baseline/scripts
++ cd /ocean/projects/cis240145p/byler/PSCCode/depth_anything_baseline/scripts
++ cd /ocean/projects/cis240145p/byler/PSCCode/depth_anything_baseline/scripts
++ echo 'Generating depth frames...'
++ echo 'Generating depth frames...'
++ echo 'Generating depth frames...'
++ echo 'Generating depth frames...'
++ conda run -n depthanything python Video_YTB_text.py --start 200 --end 299
++ conda run -n depthanything python Video_YTB_text.py --start 400 --end 499
++ local cmd=run
++ local cmd=run
++ case "$cmd" in
++ case "$cmd" in
++ __conda_exe run -n depthanything python Video_YTB_text.py --start 200 --end 299
++ __conda_exe run -n depthanything python Video_YTB_text.py --start 400 --end 499
++ conda run -n depthanything python Video_YTB_text.py --start 500 --end 599
++ conda run -n depthanything python Video_YTB_text.py --start 300 --end 399
++ local cmd=run
++ local cmd=run
++ case "$cmd" in
++ case "$cmd" in
++ __conda_exe run -n depthanything python Video_YTB_text.py --start 500 --end 599
++ __conda_exe run -n depthanything python Video_YTB_text.py --start 300 --end 399
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n depthanything python Video_YTB_text.py --start 200 --end 299
++ '[' -n '' ']'
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n depthanything python Video_YTB_text.py --start 400 --end 499
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n depthanything python Video_YTB_text.py --start 300 --end 399
++ /jet/home/byler/miniconda3/bin/conda run -n depthanything python Video_YTB_text.py --start 500 --end 599
+WARNING conda.exception_handler:print_unexpected_error_report(168): KeyError('active_prefix_name')
+Traceback (most recent call last):
+  File "/jet/home/byler/miniconda3/lib/python3.12/site-packages/conda/exception_handler.py", line 18, in __call__
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/jet/home/byler/miniconda3/lib/python3.12/site-packages/conda/cli/main.py", line 61, in main_subshell
+    exit_code = do_call(args, parser)
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "/jet/home/byler/miniconda3/lib/python3.12/site-packages/conda/cli/conda_argparse.py", line 205, in do_call
+    result = getattr(module, func_name)(args, parser)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/jet/home/byler/miniconda3/lib/python3.12/site-packages/conda/cli/main_run.py", line 120, in execute
+    print(response.stderr, file=sys.stderr)
+OSError: [Errno 122] Disk quota exceeded
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/jet/home/byler/miniconda3/lib/python3.12/site-packages/conda/exception_handler.py", line 165, in print_unexpected_error_report
+    get_main_info_str(error_report["conda_info"])
+  File "/jet/home/byler/miniconda3/lib/python3.12/site-packages/conda/cli/main_info.py", line 400, in get_main_info_str
+    display_info = get_main_info_display(info_dict)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/jet/home/byler/miniconda3/lib/python3.12/site-packages/conda/cli/main_info.py", line 390, in get_main_info_display
+    return {key: value for key, value in builder()}
+                                         ^^^^^^^^^
+  File "/jet/home/byler/miniconda3/lib/python3.12/site-packages/conda/cli/main_info.py", line 350, in builder
+    if info_dict["active_prefix_name"]:
+       ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'active_prefix_name'
