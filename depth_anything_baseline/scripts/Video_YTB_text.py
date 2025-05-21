@@ -39,7 +39,7 @@ def download_youtube_video(url, video_path):
         print(f"Error while downloading: {e}")
         return None
 
-def video_to_frames(video_path, output_dir, video_name, skip_frames=5):
+def video_to_frames(video_path, output_dir, video_name, skip_frames=100):
     safe_video_name = re.sub(r'[\\/*?:"<>|]', '', video_name)
     video_name_path = os.path.join(video_path, safe_video_name)
     video_capture = cv2.VideoCapture(video_name_path)
@@ -148,7 +148,7 @@ def main():
             os.makedirs(depth_dir, exist_ok=True)
 
             print(frames_dir)
-            frame_paths = video_to_frames("../../video_processing/relevant_videos", frames_dir, video, skip_frames=5)
+            frame_paths = video_to_frames("../../video_processing/relevant_videos", frames_dir, video, skip_frames=100)
 
             if frame_paths:
                 print("Running DepthAnythingV2 on extracted frames...")

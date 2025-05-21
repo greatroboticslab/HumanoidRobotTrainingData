@@ -141,7 +141,12 @@ def main():
         outputFile.close()
 
     # Print info
-    print("Last line: " + str(lastTermLine) + " (" + str(search_phrases[lastTermLine]) + ")")
+    os.makedirs("logs", exist_ok=True)
+    outputLine = "Last line: " + str(lastTermLine) + " (" + str(search_phrases[lastTermLine]) + ")"
+    print(outputLine)
+    infoFile = open("logs/lastline.txt", "w")
+    infoFile.write(outputLine)
+    infoFile.close()
 
 if __name__ == "__main__":
     main()
