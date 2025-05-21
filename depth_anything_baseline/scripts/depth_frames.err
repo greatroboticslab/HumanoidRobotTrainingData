@@ -1,8 +1,16 @@
 + cd /ocean/projects/cis240145p/byler/PSCCode/depth_anything_baseline/scripts
 + echo 'Generating depth frames...'
-+ conda run -n depthanything python Video_YTB_text.py --start 0 --end 99
++ cd /ocean/projects/cis240145p/byler/PSCCode/depth_anything_baseline/scripts
++ echo 'Generating depth frames...'
++ conda run -n depthanything python Video_YTB_text.py --start 400 --end 499
++ conda run -n depthanything python Video_YTB_text.py --start 500 --end 599
++ local cmd=run
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n depthanything python Video_YTB_text.py --start 0 --end 99
++ case "$cmd" in
++ __conda_exe run -n depthanything python Video_YTB_text.py --start 400 --end 499
++ __conda_exe run -n depthanything python Video_YTB_text.py --start 500 --end 599
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n depthanything python Video_YTB_text.py --start 0 --end 99
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n depthanything python Video_YTB_text.py --start 400 --end 499
++ /jet/home/byler/miniconda3/bin/conda run -n depthanything python Video_YTB_text.py --start 500 --end 599
