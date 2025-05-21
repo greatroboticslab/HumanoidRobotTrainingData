@@ -9,7 +9,7 @@
 
 # CONFIGURATION
 ENV_NAME="whisper"
-FILES=("../output/video_downloading/videos.txt" "../output/video_downloading/videos_s1.txt")   # Add paths to your .txt files here
+FILES=(../output/video_downloading/videos.txt ../output/video_downloading/videos_s1*.txt)   # Add paths to your .txt files here
 BATCH_SIZE=15
 SLEEP_BETWEEN_BATCHES=300                   # Seconds between batches
 MAX_DOWNLOADS=100                      # <-- Set your max video downloads here

@@ -142,7 +142,7 @@ def main():
 
     # Print info
     os.makedirs("logs", exist_ok=True)
-    outputLine = "Last line: " + str(lastTermLine) + " (" + str(search_phrases[lastTermLine]) + ")"
+    outputLine = "Last line: " + str(lastTermLine) + "/" + str(len(search_phrases))
     print(outputLine)
     infoFile = open("logs/lastline.txt", "w")
     infoFile.write(outputLine)
