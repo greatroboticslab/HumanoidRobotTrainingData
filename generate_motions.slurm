@@ -10,20 +10,17 @@
 set -x
 cd ${PROJECT}/PSCCode/video_processing
 
-echo "Identifying videos..."
-conda run -n whisper python identify_videos.py
-
 echo "Transcribing videos..."
-conda run -n whisper python masswhisper.py
+conda run -n whisper python masswhisper.py > logs/masswhisper.log
 
 cd ${PROJECT}/PSCCode/s1_baseline
 
 echo "Generating tasks..."
-conda run -n s1 python s1.py --start $1 --end $2
+conda run -n s1 python s1.py --start $1 --end $2 > logs/s1_task_generation.log
 
 cd ${PROJECT}/PSCCode/momask_baseline
 
 echo "Generating motions..."
-conda run -n momask python generate_motions.py --start $1 --end $2
+conda run -n momask python generate_motions.py --start $1 --end $2 > logs/generate_momasks.log
 
 echo "Finished generating motions."
