@@ -1,0 +1,3 @@
++ cd /ocean/projects/cis240145p/byler
++ cd PSCCode/s1_baseline/
++ conda run -n s1 python generate_search_terms.py --gpus 4 --searches 50000

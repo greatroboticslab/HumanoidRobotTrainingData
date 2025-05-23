@@ -77,7 +77,7 @@ In order to gettting the dataset ready, we need to start from downloading creati
 
 Through this process, we need to execute the generation of search terms:
 
-	python s1_baseline/generate_search_terms.py
+	python s1_baseline/generate_search_terms.py --model <model_folder_name> --gpus <gpu_count> --searches <amount_of_searches_to_generate> --tokens <token_count>
 
 Next we will need to get URLs from these search terms:
 

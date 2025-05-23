@@ -11,4 +11,4 @@ set -x
 cd ${PROJECT}
 
 cd PSCCode/s1_baseline/
-conda run -n s1 python s1.py
+conda run -n s1 python s1.py --gpus 4
