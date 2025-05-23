@@ -28,10 +28,12 @@ parser.add_argument('--searches', type=int, help='How many search terms to gener
 parser.add_argument('--model', type=str, default="s1.1-7B", help='Name or path of the model')
 parser.add_argument('--gpus', type=int, default=4, help='Number of GPUs to use.')
 parser.add_argument('--tokens', type=int, default=4096, help='Max number of tokens.')
+parser.add_argument('--save_interval', type=int, default=150, help='Save the progress every save_interval generations.')
 args = parser.parse_args()
 model_name = args.model
 _token_count = args.tokens
 gpu_count = args.gpus
+saveEveryXVideos = args.save_interval
 
 model = LLM(
     model_name,
@@ -68,6 +70,14 @@ print("==============")
 
 searches.append(str(extract_search_text(o[0].outputs[0].text)))
 
+def SaveFile(_s):
+    outString = ""
+    for s in _s:
+        outString += s + "\n"
+    outFile = open("../video_processing/output/video_downloading/search_terms.txt", "w")
+    outFile.write(outString.encode('ascii', 'ignore').decode('ascii'))
+    outFile.close()
+
 for i in range(args.searches - 1):
     prompt = "<|im_start|>user\nGive another search phrase related to farming. "
     prompt += "Be sure to include the SEARCH: and the search phrase after at the end of your answer.<|im_end|>\n"
@@ -77,10 +87,7 @@ for i in range(args.searches - 1):
     print("==============")
     searches.append(str(extract_search_text(o[0].outputs[0].text)))
 
-outString = ""
-for s in searches:
-    outString += s + "\n"
+    if (i + 1) % saveEveryXVideos == 0:
+        SaveFile(searches)
 
-outFile = open("../video_processing/output/video_downloading/search_terms.txt", "w")
-outFile.write(outString.encode('ascii', 'ignore').decode('ascii'))
-outFile.close()
+SaveFile(searches)
