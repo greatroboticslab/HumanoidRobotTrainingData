@@ -9,13 +9,22 @@ This repo contains the code we execute on the PSC server to obtain animation dat
 
 ### Main Scripts.
 
-There are two scrips in the root of the repo:
+To run the motion generation jobs, run:
+
+	bash generate_all.sh
+
+There are also two scrips in the root of the repo:
 
 	generate_motions.slurm
 	setup.sh
 
-Running setup.sh will set up all the conda environments and dependencies. Running generate_motions.slurm will then run the entire workflow of transcribing videos, accepting transcripts, and generating motion files. You need to download videos first into video_processing/rawvideos/ first. See the section getting datasets.
+Running setup.sh will set up all the conda environments and dependencies. Running generate_motions.slurm will then run the entire workflow of transcribing videos, accepting transcripts, and generating motion files. You need to download videos first into video_processing/rawvideos/ first. See the section getting datasets. To run just one job of generate_motions:
 
+	sbatch generate_motions.slurm <start> <end>
+
+Where start is the number to start from and end is to the number to end at in terms of the amount of videos in video_processing/rawvideos. To run all the videos simply do:
+
+	sbatch generate_motions.slurm 0 -1
 
 ### Setup
 
