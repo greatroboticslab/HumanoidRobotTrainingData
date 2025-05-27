@@ -1,3 +1,4 @@
 + cd /ocean/projects/cis240145p/byler
 + cd PSCCode/s1_baseline/
 + conda run -n s1 python generate_search_terms.py --gpus 4 --searches 50000
+slurmstepd: error: *** JOB 32484169 ON v002 CANCELLED AT 2025-05-25T11:13:13 DUE TO TIME LIMIT ***

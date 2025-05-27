@@ -93,7 +93,7 @@ Next we will need to get URLs from these search terms:
 	cd video_processing
 	python youtube_search.py --input_file output/video_downloading/search_terms.txt --api_key <youtube_v3_api_key> --files <split_into_how_many_files> --max_urls <max_grabbed_urls>
 
-This will generate text files containing a list of URLs in the video_processing/output/video_downloading/ folder, names videos_s1_<id>.txt.
+This will generate text files containing a list of URLs in the video_processing/output/video_downloading/ folder, names videos_s1_<id>.txt. You will need a YouTube V3 API key. If you are part of Great Robotics Lab then we already have one. Keep in mind you only get about 1,000 video searches in the API quota, including checking for duplicate videos.
 After generation of these files, you can run batchvideos.slurm in the video_processing folder (note, this one will use both generated search terms and hardcoded links):
 
 	sbatch batchvideos.slurm <url_file_number>
