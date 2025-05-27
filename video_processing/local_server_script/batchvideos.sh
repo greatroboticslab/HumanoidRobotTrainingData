@@ -6,9 +6,7 @@ SLEEP_BETWEEN_BATCHES=300                   # Seconds between batches
 MAX_DOWNLOADS=100                      # <-- Set your max video downloads here
 
 set -x
-cd ${PROJECT}/PSCCode
-cd video_processing
-cd rawvideos
+cd ../rawvideos
 
 echo "YT-DLP LOG" > ../output/ytdlp_output.txt
 
