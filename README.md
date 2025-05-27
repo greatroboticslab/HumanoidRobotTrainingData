@@ -94,7 +94,26 @@ Next we will need to get URLs from these search terms:
 	python youtube_search.py --input_file output/video_downloading/search_terms.txt --api_key <youtube_v3_api_key> --files <split_into_how_many_files> --max_urls <max_grabbed_urls>
 
 This will generate text files containing a list of URLs in the video_processing/output/video_downloading/ folder, names videos_s1_<id>.txt. You will need a YouTube V3 API key. If you are part of Great Robotics Lab then we already have one. Keep in mind you only get about 1,000 video searches in the API quota, including checking for duplicate videos.
-After generation of these files, you can run batchvideos.slurm in the video_processing folder (note, this one will use both generated search terms and hardcoded links):
+Next you will need to download the videos. It recommended to create a cookies.txt file in the video_processing/ directory. Then you will need to pass cookies to it.
+
+Use a cookies extraction extension to paste them into this file. This is due to YouTube blocking mass downloads of videos. [Here is a link describing how to get the cookies file from the yt-dlp repo.](https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies)
+
+Essenetially, we need to do this. YouTube rotates account cookies frequently on open YouTube browser tabs as a security measure. To export cookies that will remain working with yt-dlp, you will need to export cookies in such a way that they are never rotated.
+
+One way to do this is through a private browsing/incognito window:
+
+Open a new private browsing/incognito window and log into YouTube
+
+Open a new tab and close the YouTube tab
+
+You need an extension for a browser, such as for firefox cookie management extenion (Get cookies.txt LOCALLY)
+![Getting cookies from extension](video_processing/get_cookies.png)
+
+Export youtube.com cookies from the browser then close the private browsing/incognito window so the session is never opened in the browser again.
+
+The cookies file needs to be under the video_processing folder.
+
+After generation of these cookies, you can run batchvideos.slurm in the video_processing folder (note, this one will use both generated search terms and hardcoded links):
 
 	sbatch batchvideos.slurm <url_file_number>
 
