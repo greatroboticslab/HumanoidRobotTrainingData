@@ -124,7 +124,7 @@ for PSC, or
 	conda activate depthanything
 	python Video_YTB_text.py --start <start> --end <end>
 
-The <start> and <end> parameters determine the range of files to process. For instance, 0 and 100 will process the first 100 files.
+The <start> and <end> parameters determine the range of files to process. For instance, 0 and 100 will process the first 100 files. The raw frames will be saved in video_processing/output/ and the depth frames will be saved in depth_anything_baseline/output/
 
 ### Generating Tasks
 
