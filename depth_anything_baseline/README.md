@@ -1,3 +1,7 @@
+# Output
+
+After running the Depth Anything job, the raw frames will be saved in ../video_processing/frames, and the depth frames will be saved in depth_anything_baseline/output/
+
 ---
 title: Depth Anything V2
 emoji: 🌖
