@@ -31,10 +31,9 @@
 + CURRENT_BATCH_SIZE=15
 + head -n 15 temp_remaining_videos_s1_1.txt
 + conda run -n whisper yt-dlp --merge-output-format mp4 --cookies ../cookies.txt -o '%(id)s.%(ext)s' -a current_batch_videos_s1_1.txt
-/var/spool/slurm/d/job32596639/slurm_script: line 51: conda: command not found
 + cat current_batch_videos_s1_1.txt
 + sed -i 1,15d temp_remaining_videos_s1_1.txt
 + TOTAL_DOWNLOADED=15
 + echo 'Batch complete (15 / 500 downloaded).'
 + sleep 300
-slurmstepd: error: *** JOB 32596639 ON v030 CANCELLED AT 2025-05-28T15:11:30 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 32619587 ON v030 CANCELLED AT 2025-05-29T11:01:24 DUE TO TIME LIMIT ***

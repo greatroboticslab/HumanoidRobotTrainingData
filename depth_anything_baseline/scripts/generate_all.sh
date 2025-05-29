@@ -4,3 +4,6 @@ sbatch generate_depths.slurm 200 299
 sbatch generate_depths.slurm 300 399
 sbatch generate_depths.slurm 400 499
 sbatch generate_depths.slurm 500 599
+sbatch generate_depths.slurm 600 699
+sbatch generate_depths.slurm 700 799
+sbatch generate_depths.slurm 800 899

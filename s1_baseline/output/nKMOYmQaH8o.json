@@ -5,114 +5,411 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Operating a Rice Paddy Planting and Transplanting Machine",
+            "task": "Feed the pigs",
             "subtasks": [
-                "Entering the machine platform and securing position",
-                "Preparing the machine for operation",
-                "Navigating the machine through the rice paddy",
-                "Transplanting rice seedlings into the paddy",
-                "Managing forward motion while operating machine",
-                "Handling machine at the end of the field"
+                "Open the door to the pig pen",
+                "Approach the feeding trough",
+                "Scoop feed into the trough"
             ]
         },
         {
-            "task": "Placing Rice Seedlings into the Paddy by Hand",
+            "task": "Check the potatoes",
             "subtasks": [
-                "Gathering rice seedlings from nursery",
-                "Walking through the paddy with seedlings",
-                "Selecting a planting site",
-                "Dipping seedlings in water or solution",
-                "Inserting seedlings into the paddy",
-                "Walking through the paddy and placing seedlings"
+                "Walk to the potato field",
+                "Inspect potato plants for health",
+                "Note any issues or pests"
             ]
         },
         {
-            "task": "Irrigating the Rice Paddy",
+            "task": "Maintain the soil",
             "subtasks": [
-                "Opening floodgates to control water level",
-                "Flood filling the paddy field",
-                "Flushing out excess water"
+                "Examine soil for moisture and texture",
+                "Remove weeds by hand",
+                "Add compost to the soil"
             ]
         },
         {
-            "task": "Operating a Rice Transplanter Machine",
+            "task": "Wrestle with the chickens",
             "subtasks": [
-                "Entering and positioning on the machine",
-                "Pre-operation checks and engine start",
-                "Machine operation in the paddy",
-                "Post-operation maintenance"
+                "Approach the chicken coop",
+                "Gather eggs from the nesting boxes",
+                "Secure the eggs in a basket",
+                "Shoo chickens back into the coop"
             ]
         },
         {
-            "task": "\u624b\u52d5\u79fb\u690d\u6c34\u7a3b\u79e7\u82d7 into Chinese",
-            "subtasks": []
-        },
-        {
-            "task": "Manual Rice Transplanting",
+            "task": "Gather chicken feed",
             "subtasks": [
-                "Collecting and conditioning seedlings",
-                "Walking through the paddy",
-                "Proper insertion technique"
+                "Access the feed storage area",
+                "Pour feed from the bag into the feeder",
+                "Clean the feeder after refilling"
             ]
         },
         {
-            "task": "- **MAINTASK** defines the primary activity.",
+            "task": "Repair a broken tool",
             "subtasks": [
-                "- **SUBTASK** items break down the main task into essential components."
+                "Locate the maintenance area",
+                "Identify the broken tool",
+                "Gather replacement parts or tools",
+                "Disassemble the tool to fix",
+                "Apply necessary repairs",
+                "Test functionality and reassemble",
+                "Return tool to service"
             ]
         },
         {
-            "task": "\u64cd\u4f5c\u63d2\u79e7\u673a",
+            "task": "Service fencing posts",
             "subtasks": [
-                "\u8fdb\u5165\u673a\u5668\u5e76\u5b9a\u4f4d",
-                "\u68c0\u67e5\u71c3\u6599\u5e76\u542f\u52a8\u673a\u5668",
-                "\u5728\u7530\u95f4\u64cd\u4f5c\u673a\u5668",
-                "\u8c03\u8282\u64ad\u79cd\u548c\u6df1\u5ea6\u5e76\u76d1\u63a7",
-                "\u704c\u6c34\u7ed3\u675f\u64cd\u4f5c"
+                "Identify damaged or inadequate fencing",
+                "Prepare posts for re-embedding or replacement",
+                "Drive posts into the ground properly",
+                "Secure wire or fencing material"
             ]
         },
         {
-            "task": "\u63d2\u79e7\uff0c\u7531\u4eba\u529b\u5b8c\u6210",
+            "task": "Clean the chicken coop",
             "subtasks": [
-                "\u6536\u96c6\u6c34\u7a3b\u79e7\u82d7",
-                "\u786e\u4fdd\u79e7\u82d7\u9002\u5b9c\u79fb\u690d"
+                "Remove manure and debris",
+                "Rinse the floors and walls",
+                "Check for structural issues",
+                "Apply bedding material"
             ]
         },
         {
-            "task": "\u64cd\u4f5c\u6c34\u7a3b\u79fb\u683d\u673a\\n\\n\");",
+            "task": "Tend to the sheep",
             "subtasks": [
-                "\u8fdb\u5165\u673a\u5668\u5e76\u5b89\u5168\u5c31\u4f4d\\n\");",
-                "\u71c3\u6599\u68c0\u67e5\u548c\u542f\u52a8\u53d1\u52a8\u673a\\n\");",
-                "\u64cd\u7eb5\u901a\u8fc7\u7a3b\u7530\\n\");",
-                "\u8c03\u6574\u79cd\u690d\u6df1\u5ea6\u548c\u95f4\u8ddd\\n\");",
-                "\u4f5c\u4e1a\u7ed3\u675f\u7684\u5b89\u5168\u63aa\u65bd\\n\");"
+                "Approach the sheepfold",
+                "Check for any injured or sick sheep",
+                "Ensure sufficient water and food",
+                "Gather fleece if necessary"
             ]
         },
         {
-            "task": "Operating a Rice Transplanter Machine",
+            "task": "Milk the goats",
             "subtasks": [
-                "Enter machine and adjust position",
-                "Prepare the machine",
-                "Navigate through rows",
-                "Planting adjustments",
-                "Proper termination"
+                "Prepare the milking area",
+                "Restrain the goat securely",
+                "Attach milking equipment",
+                "Hand-milk the goat",
+                "Clean the equipment after milking",
+                "Store milk safely"
             ]
         },
         {
-            "task": "Manual Rice Transplanting",
+            "task": "Grow watermelon",
             "subtasks": [
-                "Collect and prepare seedlings",
-                "Transfer to the paddy",
-                "Irrigation"
+                "Sow watermelon seeds in prepared beds",
+                "Water the plants regularly",
+                "Stake the vines to support growth",
+                "Monitor for disease or pests"
             ]
         },
         {
-            "task": "Operate EDGE-Type Rice Transplanter in the Paddy Field",
+            "task": "Drain a muddy area",
             "subtasks": [
-                "Enter the Machine",
-                "Machine Preparation",
-                "Field Operation",
-                "Post-Operation"
+                "Clear the area of excess vegetation",
+                "Excavate with a shovel or other tool",
+                "Construct a drainage system (e.g., tiles or ditches)",
+                "Tamp down the area to prevent future mud"
+            ]
+        },
+        {
+            "task": "Plant a hayfield",
+            "subtasks": [
+                "Prepare the soil by tilling",
+                "Roughly plant the hay seeds or haylage",
+                "Roll the field to firm the seeds",
+                "Contour for drainage"
+            ]
+        },
+        {
+            "task": "Weed the vegetable garden",
+            "subtasks": [
+                "Identify weeds by type",
+                "Manually pull weeds",
+                "Trim overgrown plants",
+                "Apply pre-emergent herbicides if necessary"
+            ]
+        },
+        {
+            "task": "Insert fencing posts",
+            "subtasks": [
+                "Measure posts to required lengths",
+                "Align posts with corners or boundaries",
+                "Drive posts into the ground using a sledgehammer or post-hole digger"
+            ]
+        },
+        {
+            "task": "Transport a feeder",
+            "subtasks": [
+                "Unload the feeder from a cart or vehicle",
+                "Assemble the feeder if necessary",
+                "Fill the feeder with grain or hay",
+                "Position it in the pasture or field"
+            ]
+        },
+        {
+            "task": "Maintenance of irrigation system",
+            "subtasks": [
+                "Inspect sprinklers or drip lines",
+                "Check for blockages or leaks",
+                "Adjust or replace faulty components",
+                "Clean filters and maintenance covers"
+            ]
+        },
+        {
+            "task": "Gather drainage tiles",
+            "subtasks": [
+                "Transport tiles from storage to field",
+                "Align tiles with planned drainage paths",
+                "Cover and connect tiles with soil"
+            ]
+        },
+        {
+            "task": "Attach guardrails to a fence",
+            "subtasks": [
+                "Measure needed lengths for guardrails",
+                "Cut guardrails to fit posts",
+                "Secure guardrails to posts using brackets or fasteners"
+            ]
+        },
+        {
+            "task": "Repair a broken stall door",
+            "subtasks": [
+                "Assess the damage to the door",
+                "Obtain replacement materials if necessary",
+                "Reattach hinges, replace latch, or mend panels",
+                "Test the door\u2019s functionality"
+            ]
+        },
+        {
+            "task": "Remove debris from a pond",
+            "subtasks": [
+                "Deploy net or scoop to catch debris",
+                "Transfer debris to shore",
+                "Screen out any useful materials (e.g., compost)",
+                "Dispose of remaining debris appropriately"
+            ]
+        },
+        {
+            "task": "Cut firewood",
+            "subtasks": [
+                "Located fallen trees or branches",
+                "Use chainsaw or axe to cut wood into manageable lengths",
+                "Stack wood in a dry area"
+            ]
+        },
+        {
+            "task": "Collect materials for compost",
+            "subtasks": [
+                "Identify suitable yard waste, kitchen scraps, etc.",
+                "Gather materials in a cart or wheelbarrow",
+                "Distribute the collected materials into the compost pile",
+                "Cover the pile with a tarp or soil to retain heat and moisture"
+            ]
+        },
+        {
+            "task": "Feed the pigs**",
+            "subtasks": [
+                "** Open the door to the pig pen",
+                "** Approach the feeding trough",
+                "** Scoop feed into the trough"
+            ]
+        },
+        {
+            "task": "Check the potatoes**",
+            "subtasks": [
+                "** Walk to the potato field",
+                "** Inspect potato plants for health",
+                "** Note any issues or pests"
+            ]
+        },
+        {
+            "task": "Maintain the soil**",
+            "subtasks": [
+                "** Examine soil for moisture and texture",
+                "** Remove weeds by hand",
+                "** Add compost to the soil"
+            ]
+        },
+        {
+            "task": "Wrestle with the chickens**",
+            "subtasks": [
+                "** Approach the chicken coop",
+                "** Gather eggs from the nesting boxes",
+                "** Secure the eggs in a basket",
+                "** Shoo chickens back into the coop"
+            ]
+        },
+        {
+            "task": "Gather chicken feed**",
+            "subtasks": [
+                "** Access the feed storage area",
+                "** Pour feed from the bag into the feeder",
+                "** Clean the feeder after refilling"
+            ]
+        },
+        {
+            "task": "Repair a broken tool**",
+            "subtasks": [
+                "** Locate the maintenance area",
+                "** Identify the broken tool",
+                "** Gather replacement parts or tools",
+                "** Disassemble the tool to fix",
+                "** Apply necessary repairs",
+                "** Test functionality and reassemble",
+                "** Return tool to service"
+            ]
+        },
+        {
+            "task": "Service fencing posts**",
+            "subtasks": [
+                "** Identify damaged or inadequate fencing",
+                "** Prepare posts for re-embedding or replacement",
+                "** Drive posts into the ground properly",
+                "** Secure wire or fencing material"
+            ]
+        },
+        {
+            "task": "Clean the chicken coop**",
+            "subtasks": [
+                "** Remove manure and debris",
+                "** Rinse the floors and walls",
+                "** Check for structural issues",
+                "** Apply bedding material"
+            ]
+        },
+        {
+            "task": "Tend to the sheep**",
+            "subtasks": [
+                "** Approach the sheepfold",
+                "** Check for any injured or sick sheep",
+                "** Ensure sufficient water and food",
+                "** Gather fleece if necessary"
+            ]
+        },
+        {
+            "task": "Milk the goats**",
+            "subtasks": [
+                "** Prepare the milking area",
+                "** Restrain the goat securely",
+                "** Attach milking equipment",
+                "** Hand-milk the goat",
+                "** Clean the equipment after milking",
+                "** Store milk safely"
+            ]
+        },
+        {
+            "task": "Grow watermelon**",
+            "subtasks": [
+                "** Sow watermelon seeds in prepared beds",
+                "** Water the plants regularly",
+                "** Stake the vines to support growth",
+                "** Monitor for disease or pests"
+            ]
+        },
+        {
+            "task": "Drain a muddy area**",
+            "subtasks": [
+                "** Clear the area of excess vegetation",
+                "** Excavate with a shovel or other tool",
+                "** Construct a drainage system (e.g., tiles or ditches)",
+                "** Tamp down the area to prevent future mud"
+            ]
+        },
+        {
+            "task": "Plant a hayfield**",
+            "subtasks": [
+                "** Prepare the soil by tilling",
+                "** Roughly plant the hay seeds or haylage",
+                "** Roll the field to firm the seeds",
+                "** Contour for drainage"
+            ]
+        },
+        {
+            "task": "Weed the vegetable garden**",
+            "subtasks": [
+                "** Identify weeds by type",
+                "** Manually pull weeds",
+                "** Trim overgrown plants",
+                "** Apply pre-emergent herbicides if necessary"
+            ]
+        },
+        {
+            "task": "Insert fencing posts**",
+            "subtasks": [
+                "** Measure posts to required lengths",
+                "** Align posts with corners or boundaries",
+                "** Drive posts into the ground using a sledgehammer or post-hole digger"
+            ]
+        },
+        {
+            "task": "Transport a feeder**",
+            "subtasks": [
+                "** Unload the feeder from a cart or vehicle",
+                "** Assemble the feeder if necessary",
+                "** Fill the feeder with grain or hay",
+                "** Position it in the pasture or field"
+            ]
+        },
+        {
+            "task": "Maintenance of irrigation system**",
+            "subtasks": [
+                "** Inspect sprinklers or drip lines",
+                "** Check for blockages or leaks",
+                "** Adjust or replace faulty components",
+                "** Clean filters and maintenance covers"
+            ]
+        },
+        {
+            "task": "Gather drainage tiles**",
+            "subtasks": [
+                "** Transport tiles from storage to field",
+                "** Align tiles with planned drainage paths",
+                "** Cover and connect tiles with soil"
+            ]
+        },
+        {
+            "task": "Attach guardrails to a fence**",
+            "subtasks": [
+                "** Measure needed lengths for guardrails",
+                "** Cut guardrails to fit posts",
+                "** Secure guardrails to posts using brackets or fasteners"
+            ]
+        },
+        {
+            "task": "Repair a broken stall door**",
+            "subtasks": [
+                "** Assess the damage to the door",
+                "** Obtain replacement materials if necessary",
+                "** Reattach hinges, replace latch, or mend panels",
+                "** Test the door\u2019s functionality"
+            ]
+        },
+        {
+            "task": "Remove debris from a pond**",
+            "subtasks": [
+                "** Deploy net or scoop to catch debris",
+                "** Transfer debris to shore",
+                "** Screen out any useful materials (e.g., compost)",
+                "** Dispose of remaining debris appropriately"
+            ]
+        },
+        {
+            "task": "Cut firewood**",
+            "subtasks": [
+                "** Located fallen trees or branches",
+                "** Use chainsaw or axe to cut wood into manageable lengths",
+                "** Stack wood in a dry area"
+            ]
+        },
+        {
+            "task": "Collect materials for compost**",
+            "subtasks": [
+                "** Identify suitable yard waste, kitchen scraps, etc.",
+                "** Gather materials in a cart or wheelbarrow",
+                "** Distribute the collected materials into the compost pile",
+                "** Cover the pile with a tarp or soil to retain heat and moisture"
             ]
         }
     ]

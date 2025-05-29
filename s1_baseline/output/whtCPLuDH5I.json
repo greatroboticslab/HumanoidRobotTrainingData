@@ -1,0 +1,23 @@
+{
+    "index": "whtCPLuDH5I",
+    "title": "DIY watering automation system build #2",
+    "url": "https://www.youtube.com/watch?v=whtCPLuDH5I",
+    "category": "Science & Technology",
+    "tasks": [
+        {
+            "task": "Setting up an automatic gardening system with a valve pack, water intake, flow rate sensor, and Raspberry Pi controller.",
+            "subtasks": [
+                "Assembling the valve pack and connecting it to the irrigation zones.",
+                "Installing the house water selector valve and intake for the tank.",
+                "Configuring the flow rate sensor to monitor water usage.",
+                "Setting up the Raspberry Pi controller with a web interface for system monitoring.",
+                "Integrating a rain delay mechanism to prevent watering during precipitation.",
+                "Implementing an interrupt system to track water flow rates and update the interface every five seconds.",
+                "Developing a user interface to control and monitor the irrigation system's status.",
+                "Configuring the system to prevent sensor activation during rain delays.",
+                "Enhancing the system's functionality by adding external API integration for environmental sensors.",
+                "Setting up alarms for potential issues like valve malfunctions or leaks."
+            ]
+        }
+    ]
+}
