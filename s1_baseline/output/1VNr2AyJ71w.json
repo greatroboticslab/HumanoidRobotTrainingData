@@ -5,48 +5,40 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Reviewing top farm equipment for efficiency.",
+            "task": "Inspect and maintain a tractor",
             "subtasks": [
-                "Identifying the tractor's role in farming.",
-                "Considering tractor size and maintenance.",
-                "Evaluating combine harvesters for grain processing.",
-                "Assessing plow types for soil preparation.",
-                "Selecting fertilizer spreaders for nutrient distribution.",
-                "Installing and using irrigation systems.",
-                "Installing moisture sensors for water management."
+                "Check tire pressure",
+                "Check oil levels"
             ]
         },
         {
-            "task": "Selecting essential farm equipment.",
+            "task": "Operate a combine harvester",
             "subtasks": [
-                "Choosing between different tractor models.",
-                "Checking tire pressure and oil levels.",
-                "Using combines for harvesting.",
-                "Adjusting plow depth according to crop needs.",
-                "Applicating fertilizer evenly with spreaders.",
-                "Managing water distribution with irrigation systems.",
-                "Monitoring soil moisture levels."
+                "Navigate around crops",
+                "Monitor yield with yield monitor",
+                "Adjust harvest rate (e.g., 30 acres per hour)"
             ]
         },
         {
-            "task": "Understanding the benefits of modern farm equipment.",
+            "task": "Use a plow for soil preparation",
             "subtasks": [
-                "Increasing farming efficiency.",
-                "Saving time through automation.",
-                "Boosting productivity with specialized machines."
+                "Select appropriate plow type (moldboard or chisel)",
+                "Adjust plowing depth according to crop needs"
             ]
         },
         {
-            "task": "Getting farming tips.",
+            "task": "Apply fertilizer using a spreader",
             "subtasks": [
-                "Subscribing to farming channels.",
-                "Activating notifications for new content."
+                "Choose between broadcast or drop spreader",
+                "Calibrate spreader for even distribution"
             ]
         },
         {
-            "task": "Bragging about farm equipment usage.",
+            "task": "Install and operate an irrigation system",
             "subtasks": [
-                "Sharing experience with equipment in comments."
+                "Set up drip irrigation",
+                "Set up pivot irrigation",
+                "Install moisture sensors (if using pivot)"
             ]
         }
     ]

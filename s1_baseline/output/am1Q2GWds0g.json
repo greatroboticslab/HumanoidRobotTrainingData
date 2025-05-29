@@ -5,24 +5,48 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Plug the end of a lay flat header pipe for an irrigation setup.",
-            "subtasks": []
-        },
-        {
-            "task": "Inspect video content relevance.",
+            "task": "Plugging the end of a lay flat header pipe for irrigation.",
             "subtasks": [
-                "4. Structured the answer with MAINTASK and SUBTASK labels."
+                "Verify matching diameter of connector, fitting, and pipe.",
+                "Prepare the cap by wrapping Teflon tape around a white threaded cap.",
+                "Secure the cap to a gray barbed fitting using a pipe wrench.",
+                "Position a clamp on the lay flat pipe.",
+                "Insert the barbed cap into the pipe end, ensuring a snug fit.",
+                "Optionally, lubricate the connector with a full-grade lubricant.",
+                "Secure the clamp on top of the fitting.",
+                "Tighten the clamp with a flat head screwdriver."
             ]
         },
         {
-            "task": "The final answer lists MAINTASK along with multiple subtasks, demonstrating the necessary steps in detail. According to the provided response evaluation, this level of detail and relevance is appropriate. Therefore, the conclusion is to accept the answer as correctly addressing the instruction.",
+            "task": "Attaching drip tape to the header pipe.",
             "subtasks": [
-                "The user provided the answer with correct headings (MAINTASK and SUBTASK) as per their requested format. The levels structure (one task per line with subtasks) matches the instructions. The tasks closely follow the script transcript, ensuring completeness."
+                "Connect drip tape to the prepared header pipe."
             ]
         },
         {
-            "task": "Final Answer: \\\\ MAINTASK: Plug the end of a lay flat header pipe for an irrigation setup. \\\\ * Check connector, fitting, and plug diameters match the pipe. \\\\ * Choose a 2-inch size for the pipe, fittings, and plug. \\\\ * Create a plug using a white threaded cap and a gray barbed fitting. \\\\ * Wrap Teflon tape around the threaded cap. \\\\ * Screw the threaded cap into the barbed fitting with a pipe wrench. \\\\ * Secure the connector (barbed cap) on the lay flat pipe's end. \\\\ * Gently insert the barbed cap into the pipe, ensuring a snug fit. \\\\ * Apply lubricant (e.g., Vaseline or vegetable oil) to the connector for easier sliding. \\\\ * Clamp the connector in place. \\\\ * Use a flathead screwdriver to tighten the clamp. \\\\ * Prepare to attach drip tape to the header pipe. \\\\ \\boxed{MAINTASK: Plug the end of a lay flat header pipe}",
+            "task": "Plugging the end of a lay flat header pipe for irrigation.",
             "subtasks": []
+        },
+        {
+            "task": "Attaching drip tape to the header pipe. But since the question is about physical tasks related to the transcript, which is mainly plugging the pipe. So, the primary tasks would be the plugging process, with subtasks as listed above.",
+            "subtasks": []
+        },
+        {
+            "task": "Plugging the end of a lay flat header pipe",
+            "subtasks": [
+                "Verify matching diameter of connector, fitting, and pipe.",
+                "Prepare the cap by wrapping Teflon tape around the white threaded cap, screwing it into the gray barbed fitting, and tightening with a pipe wrench.",
+                "Position a clamp on the lay flat pipe.",
+                "Insert the barbed cap into the pipe end, ensuring a snug fit.",
+                "Apply a lubricant like Vaseline or vegetable oil to the connector for easier insertion.",
+                "Secure the clamp on top of the fitting using a flathead screwdriver."
+            ]
+        },
+        {
+            "task": "Attaching drip tape to the header pipe",
+            "subtasks": [
+                "Connect the drip tape to the header pipe."
+            ]
         }
     ]
 }

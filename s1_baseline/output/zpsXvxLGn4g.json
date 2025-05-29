@@ -5,21 +5,42 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Converting a sprinkler system to a drip irrigation system.",
+            "task": "Converting a sprinkler system into a drip irrigation system on a garden bed",
             "subtasks": [
-                "Close all sprinkler heads on the target station.",
-                "Remove the sprinkler head and replace it with a cap.",
-                "Convert the nearest sprinkler head to connect PVC piping to drip irrigation tubing.",
-                "Dig a trench for laying drip irrigation tubing.",
-                "Assemble the drip irrigation tubing using T-adapters and elbows.",
-                "Attach emitter tubing with 12-inch spacing and staggered positions.",
-                "Secure tubing in place using ground staples.",
-                "Create a looped system with T-adapters and connect only some lines at the end.",
-                "Install a filter and optional pressure regulator at the valve.",
-                "Flush the system to remove debris.",
-                "Turn on water and verify proper functionality.",
-                "Address any necessary maintenance after installation."
+                "Closing off all sprinklers in the station to be converted",
+                "Removing sprinkler heads and replacing them with caps",
+                "Attaching an elbow and adapter to the remaining sprinkler head",
+                "Installing backbones tubing (half-inch blank irrigation tubing) using a T-adapter and elbows",
+                "Cutting and inserting emitter tubing (with emitters every 12 inches) into the backbone tubing",
+                "Staggering emitters between lines for even coverage",
+                "Pinning tubing in place with ground staples to keep it in position",
+                "Installing a filter at the valve connection to prevent clogging",
+                "Connecting the final lines and flushing the system to remove debris"
             ]
+        },
+        {
+            "task": "Okay, let's try to tackle this video transcript. So, the person is showing how to convert a sprinkler system into a drip system. Hmm, okay, so the main task here would be converting the system, right? So the MAINTASK should be related to converting a sprinkler to a drip system. Then I need to break that down into subtasks. Let me think.",
+            "subtasks": []
+        },
+        {
+            "task": "Then the next step is converting the closest sprinkler head to the garden bed to an adapter that allows moving from PVC piping to the drip tubing. That's another main task. So the next MAINTASK would be installing the drip system's initial connections.",
+            "subtasks": []
+        },
+        {
+            "task": "After that, they start installing the backbone tubing. Another MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "So the final MAINTASK could be \"Connect all system components and test operation,\" with subtasks like connecting tubing, turning on water, flushing, checking for leaks, and adjusting as necessary.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Converting a sprinkler system into a drip irrigation system on a garden bed",
+            "subtasks": []
         }
     ]
 }

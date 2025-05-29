@@ -5,42 +5,261 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Install a solar panel system on a roof.",
+            "task": "Construct and install a microinverter solar panel system on a roof.",
             "subtasks": [
-                "Layout and measure roof spaces for solar panels.",
-                "Drill holes and create a grid for mounting solar panel racks.",
-                "Assemble and install solar panel racks.",
-                "Connect microinverters for each panel.",
-                "Route DC and AC wires, using conduit for protection.",
-                "Install junction boxes at both ends of wire runs.",
-                "Connect wires to the combiner box and AC disconnect.",
-                "Mount the performance meter and ensure all components are secure.",
-                "Verify electrical connections are safe and properly wired."
+                "Assemble system components including solar panels, microinverters, performance meter, AC disconnect, and combiner.",
+                "Measure roof layout to ensure proper orientation and spacing for optimal solar panel placement.",
+                "Install mounting rails and fasteners for solar panels, ensuring a secure and stable setup.",
+                "Connect solar panels to microinverters using daisy chain wiring for maximum efficiency, bypassing traditional central inverters.",
+                "Route AC daisy chain wires through conduits and junction boxes to properly connect to the combiner and AC disconnect.",
+                "Monitor system performance using the performance meter and make adjustments for optimal energy output.",
+                "Ensure all electrical connections are safely capped and insulated to prevent shock hazards.",
+                "Verify proper operation of the system by closing AC disconnect and combiner box, and observing power generation."
             ]
         },
         {
-            "task": "Work on roof installations.",
+            "task": "Install and configure system for optimal solar power generation.",
             "subtasks": [
-                "Safely set up and use power tools (e.g., drill, hammer) for mounting.",
-                "Handle and install heavy solar panels.",
-                "Secure panels with fasteners and spacers."
+                "Plan solar panel placement considering roof structure and shading to maximize sun exposure.",
+                "Cut and lay out mounting rails, ensuring correct spacing to accommodate the number of panels and their orientation.",
+                "Align and attach solar panels to rails using fasteners, ensuring correct polarity for the microinverters.",
+                "Connect microinverters to solar panels and to each other in the specified daisy chain configuration.",
+                "Connect the entire system to the combiner box and AC disconnect, verifying proper wiring and connections.",
+                "Test and calibrate the performance meter to track energy production and catch any errors or inefficiencies."
             ]
         },
         {
-            "task": "Electrical work and wire installation.",
+            "task": "Ensure safe and legal installation of the solar power system.",
             "subtasks": [
-                "Properly wire microinverters and solar panels.",
-                "Manage DC and AC wire connections, adhering to code requirements.",
-                "Route conduit and run wires through it, ensuring proper termination."
+                "Follow all local electrical codes and zoning regulations when installing the solar system.",
+                "Verify compliance with utility company requirements, including installation of a performance meter and AC disconnect.",
+                "Document the installation process for potential future updates or maintenance."
             ]
         },
         {
-            "task": "System integration and safety checks.",
+            "task": "Operate and maintain the solar power system.",
             "subtasks": [
-                "Install AC disconnect for easy system shutdown.",
-                "Connect performance meter and ensure data is transmitted.",
-                "Test the entire system for functionality and safety."
+                "Regularly check connections and wiring for any signs of wear or damage.",
+                "Clean solar panels periodically to maintain maximum efficiency.",
+                "Monitor system performance and make necessary adjustments as energy needs or roof conditions change."
             ]
+        },
+        {
+            "task": "- **MAINTASK**",
+            "subtasks": [
+                "Purchase and prepare all necessary components (e.g., solar panels, microinverters, performance meter, AC disconnect, ductwork, and conduits).",
+                "Ensure tools are available for assembly (e.g., drill, measuring tools, hammer, etc.)."
+            ]
+        },
+        {
+            "task": "Properly prepare the roof for solar panel installation.",
+            "subtasks": [
+                "Conduct thorough roof inspection to assess structural integrity and identify any necessary repairs.",
+                "Gather and organize roofing materials for safe work practices."
+            ]
+        },
+        {
+            "task": "Install solar panels following best practices.",
+            "subtasks": [
+                "Measure and mark the roof for panel placement.",
+                "Assemble and attach mounting structures securely.",
+                "Carefully position and affix solar panels, ensuring correct orientation for maximum sun exposure."
+            ]
+        },
+        {
+            "task": "Connect electrical components for the solar system.",
+            "subtasks": [
+                "Wire microinverters to solar panels in a daisy chain configuration, adhering to safety and efficiency standards.",
+                "Route AC wiring through conduits and junction boxes, ensuring proper connections and insulation."
+            ]
+        },
+        {
+            "task": "Assemble the system, connect to the AC disconnect and performance meter, and test operation.",
+            "subtasks": [
+                "Install and configure the performance meter for tracking energy production.",
+                "Close electrical connections and verify system functionality."
+            ]
+        },
+        {
+            "task": "Adhere to safety and legal requirements.",
+            "subtasks": [
+                "Follow all local electrical codes and zoning regulations.",
+                "Ensure compliance with utility company requirements and obtain necessary permits."
+            ]
+        },
+        {
+            "task": "- Assembling components (MAINTASK)",
+            "subtasks": [
+                "using tools and mounting structures)",
+                "working with wires, sockets)",
+                "checking meters, ensuring all components function)"
+            ]
+        },
+        {
+            "task": "\\boxed{MAINTASK: Construct and install a microinverter solar panel system on a roof.}",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Set up and wire a microinverter solar panel system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "**MAINTASK**: Assemble and install a microinverter solar system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Install solar power system.**",
+            "subtasks": []
+        },
+        {
+            "task": "Set up solar rack system)",
+            "subtasks": []
+        },
+        {
+            "task": "\\boxed{MAINTASK: Install a solar power system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Construct and install a microinverter solar panel system on a roof.}",
+            "subtasks": []
+        },
+        {
+            "task": "The video is about **MAINTASK**: Construct and install a microinverter solar system.",
+            "subtasks": []
+        },
+        {
+            "task": "\\boxed{MAINTASK: Install a microinverter solar system on a roof.}",
+            "subtasks": []
+        },
+        {
+            "task": "\\boxed{MAINTASK: Set up a microinverter solar system on a roof.}",
+            "subtasks": []
+        },
+        {
+            "task": "The main task described in the video transcript is the **installation of a solar power system** (MAINTASK). This task involves the following subtasks:",
+            "subtasks": []
+        },
+        {
+            "task": "Install a solar power system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Install a 24-panel solar power system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Construct and install a solar panel system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up a solar power system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Install a solar power system on a flat roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Install a solar energy system on a sloped roof.",
+            "subtasks": []
+        },
+        {
+            "task": "** Construct a microinverter-based solar power system.",
+            "subtasks": []
+        },
+        {
+            "task": "Install a solar power system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Install a microinverter solar system on a roof.**",
+            "subtasks": []
+        },
+        {
+            "task": "Install a microinverter solar system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "\\boxed{MAINTASK: Wire and connect a microinverter solar system.}",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Set up a microinverter-based solar panel system on a residential roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Construct and install a large-scale microinverter solar system.",
+            "subtasks": []
+        },
+        {
+            "task": "Install a home solar power system.",
+            "subtasks": []
+        },
+        {
+            "task": "Install a solar power system.",
+            "subtasks": []
+        },
+        {
+            "task": "Install a microinverter-based solar system on a roof.**",
+            "subtasks": []
+        },
+        {
+            "task": "Construct a solar power system on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "**MAINTASK**: Set up a solar power system.",
+            "subtasks": []
+        },
+        {
+            "task": "Assemble and install a solar power system. Subtasks include:",
+            "subtasks": []
+        },
+        {
+            "task": "Setup a solar power system** on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "**MAINTASK Install a microinverter-based solar system on a residential roof**",
+            "subtasks": []
+        },
+        {
+            "task": "** Commence the setup of a microinverter solar panel system.",
+            "subtasks": []
+        },
+        {
+            "task": "** Implement a microinvertor-based solar array on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "Install a microinverter-based solar system on a roof. This task involves physical components like mounting structures, wiring, and testing\u2014demonstrating significant manual labor. The key subtasks include precise measurements, heavy lifting, connecting electrical components, and verifying system performance, making the video transcript **relevant**.",
+            "subtasks": []
+        },
+        {
+            "task": "Final Answer: YES, the transcript describes physical tasks related to setting up solar panels and connecting electrical systems. These tasks are directly observable and include lifting and securing panels, connecting components, and testing performance. Even though the system is not agricultural, the physical nature of the work is relevant. The answer **MAINTASK: Build a small-scale solar power system** meets the requirement with subtasks around assembly, wiring, and testing. This is applicable physical work which can be included in an assessment.",
+            "subtasks": []
+        },
+        {
+            "task": "Invalid (as it is a flat solar energy installation, not agricultural).",
+            "subtasks": [
+                "Invalid (such as laying out solar panels, attaching microinverters, etc. are not agricultural tasks)."
+            ]
+        },
+        {
+            "task": "The video transcript is ultimately about setting up a solar power system, which while involving physical labor like mounting panels and running wires, is unrelated to farming. Therefore, **the final answer is** MAINTASK: \\boxed{No}",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Construct and install a solar power system on a rooftop.",
+            "subtasks": []
+        },
+        {
+            "task": "Solar panel system setup on a roof.",
+            "subtasks": []
+        },
+        {
+            "task": "After careful analysis, the video Needs MAINTASK: Install a solar power system on a roof. The emphasis is on physical tasks like installing brackets, wiring components, and verification. Since these are construction/technical tasks and not agricultural, the evaluation is invalid.",
+            "subtasks": []
         }
     ]
 }

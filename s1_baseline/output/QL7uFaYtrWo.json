@@ -5,52 +5,53 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Building a no-till garden",
+            "task": "Build a no-till garden",
             "subtasks": [
-                "Learning about no-till methods from Daniel Mays (Farmers Market, Instagram)",
-                "Clearing previous garden beds using tarps to kill grass and weeds",
-                "Preparing new garden beds with compost and mulch",
-                "Covering beds with silage tarps to kill remaining weeds",
-                "Planting cover crops (winter rye grass) and crimping down the mulch",
-                "Applying rye grass seed and using pallets to crimp down for mulch",
-                "Adding compost to beds and building walkways with wood chips"
+                "Plan ahead for two years",
+                "Cover garden area with tarps in the fall",
+                "Broadcast rye grass seed in the fall",
+                "Crimp the rye grass in the spring",
+                "Apply compost to the beds",
+                "Cover the garden with tarps to kill weeds",
+                "Plant crops in the crimped rye grass mulch"
             ]
         },
         {
-            "task": "Maintaining the garden during rainy weather",
+            "task": "Operate farm equipment",
             "subtasks": [
-                "Preparing the garden for planting during a downpour",
-                "Crimping the edges of the mulch mat to prevent shifting",
-                "Pulling silage tarps over the crimped mulch mat for protection"
+                "Drive a pickup truck to transport compost",
+                "Use a pallet to crimp the rye grass"
             ]
         },
         {
-            "task": "General preparation for planting",
+            "task": "Harvest crops",
             "subtasks": [
-                "Measuring and marking garden beds for efficiency",
-                "Planning and organizing tools and materials for planting",
-                "Adjusting planting timing based on weather and resource availability"
+                "Identify weeds (e.g., onion grass)",
+                "Dig up weeds with a fork"
             ]
         },
         {
-            "task": "MAINTASK: Establishing a no-till garden",
+            "task": "Prepare garden beds",
             "subtasks": [
-                "Clearing existing vegetation using tarps",
-                "Mixing compost into the soil",
-                "Planting cover crops (e.g., rye grass)",
-                "Building raised beds and walkways with wood chips",
-                "Crimping mulch to suppress weeds and retain moisture"
+                "Measure and mark 30-inch beds and 14-inch walkways",
+                "Build raised garden beds",
+                "Apply wood chips to walkways"
             ]
         },
         {
-            "task": "Managing the garden in rainy conditions",
-            "subtasks": [
-                "Sowing seeds during rain for natural irrigation",
-                "Adjusting planting strategies for wet soil"
-            ]
+            "task": "Build a No-Till Garden",
+            "subtasks": []
         },
         {
-            "task": "** The transcript provides detailed instructions on no-till gardening techniques, which are essential physical farming tasks. Answer: The heart of the video is about building a no-till garden, which involves several physical tasks such as creating raised beds, adding compost, planting cover crops, and managing moisture. These are integral to agricultural practices and directly contribute to successful farming outcomes. Hence, the transcript is relevant for anyone interested in practical, no-till gardening methods. Answer: The tasks described in the transcript are all related to farming and garden maintenance. The main ones are clearing land with tarps, preparing compost beds, planting cover crops, constructing raised garden beds, and managing the garden during rainy conditions. These are all critical steps in farming and agriculture. Answer: Relevant. The transcript details the setup of a no-till garden, including preparing raised beds, tarping to kill weeds, adding compost, planting cover crops, and managing the garden with mulch during rainy weather. These are all key agricultural tasks. Answer: MAINTASK: No-till garden construction",
+            "task": "Operate Farm Equipment",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest Crops (though not directly relevant)",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare Garden Beds",
             "subtasks": []
         }
     ]

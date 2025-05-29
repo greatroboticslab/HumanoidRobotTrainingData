@@ -5,242 +5,140 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Farming Pigs",
+            "task": "Processing two 300-pound pigs for harvest and storage.",
             "subtasks": [
-                "Monitoring pig growth and readiness for harvest",
-                "Transporting pigs to processing facility",
-                "Harvesting pigs (slaughtering)",
-                "Skinning the carcasses",
-                "Processing pork (evisceration)",
-                "Grinding sausage",
-                "Packaging and freezing pork and sausage",
-                "Preparing lard and bones for bone broth",
-                "Hmm, so the main tasks here should relate to farming (raising pigs), slaughtering, processing (skinning, evisceration, grinding sausage), and storage (freezing). Each of these would be a separate task. Let me start by writing MAINTASKs and then breaking them down into SUBTASKs."
+                "Preparing the pigs for processing by hanging them in the cooler.",
+                "Confirming the weight of each pig to check if they met the desired size.",
+                "Deciding not to scald and scrape the pigs, opting instead for a simpler skinning process.",
+                "Processing the two pigs, noting they hung evenly with one's hind leg having an issue due to a previous mistake."
             ]
         },
         {
-            "task": "Farming Pigs. Under this, the subtasks would include monitoring their growth (since they discuss the pigs reaching 300 pounds), transporting them to the processing facility, and harvesting them (slaughtering). Then processing tasks like skinning, evisceration, grinding sausage. Finally, storage\u2014freezing the pork and packaging.",
-            "subtasks": []
-        },
-        {
-            "task": "Slaughtering the pigs (harvesting)",
+            "task": "Grinding sausage from the processed pigs.",
             "subtasks": [
-                "Weighing the pigs (they mention both being 300 pounds)",
-                "Transporting pigs to processing area (but if they have their own facility, maybe this is already included)",
-                "Preparing the pigs for slaughter (maybe stunning or using a slaughter method)",
-                "Carrying out the slaughter (knocking the pigs unconscious)"
+                "Grinding the meat twice for a finer consistency and better seasoning."
             ]
         },
         {
-            "task": "Farming Pigs (raising them), which is a separate task. Then MAINTASK: Harvesting Pigs (slaughtering), followed by Processing and Packing the meat. Hmm.",
-            "subtasks": []
-        },
-        {
-            "task": "Harvesting (Slaughtering) Pigs",
+            "task": "Storing the processed meat and sausage in freezers.",
             "subtasks": [
-                "Confirming pig weights (both 300 pounds)",
-                "Moving pigs to processing area",
-                "Slaughtering the pigs",
-                "Processing the carcasses (skinning, but they say they don't scald, just skin)"
+                "Freezing the majority of the meat from the two pigs in a 7.1 cubic foot freezer."
             ]
         },
         {
-            "task": "Processing the Meat",
+            "task": "Considering the storage of additional products.",
             "subtasks": [
-                "Skinning the carcasses",
-                "Evisceration (removing innards)"
+                "Planning to use bones for making bone broth in addition to lard."
             ]
         },
         {
-            "task": "Making Sausage",
+            "task": "Preparing for pig harvest.",
+            "subtasks": []
+        },
+        {
+            "task": "Checking the pigs' weight when they're harvested. Then, \"Getting ready to go over and harvest them both.\" So subtask: Actually performing the harvest. Next, \"We'll head over to my friends with them here and we have our own processing facility that we have built...\" So moving them to the processing facility\u2014MAINTASK: Transporting pigs to processing facility. Then, \"so go ahead and get them taken care of.\" Got to processing them.",
+            "subtasks": []
+        },
+        {
+            "task": "Processing the hogs by skinning instead of scalding.",
+            "subtasks": []
+        },
+        {
+            "task": "Making sausage from the pigs.",
+            "subtasks": []
+        },
+        {
+            "task": "Storing processed meat in freezer.",
+            "subtasks": []
+        },
+        {
+            "task": "Collecting bones for bone broth.",
+            "subtasks": []
+        },
+        {
+            "task": "1. Harvesting/transporting pigs to processing facility (MAINTASK)",
             "subtasks": [
-                "Grinding sausage (twice for a finer consistency)"
+                "2. Processing hogs by skinning (SUBTASK of main task)",
+                "3. Weighing pigs before processing (SUBTASK)",
+                "4. Properly hanging pigs for butchering (SUBTASK, from mistake mentioned)"
             ]
         },
         {
-            "task": "Storing the Meat",
+            "task": "5. Making sausage (MAINTASK)",
             "subtasks": [
-                "Freezing the pork",
-                "Packaging the sausage"
+                "6. Grinding meat twice (SUBTASK)"
             ]
         },
         {
-            "task": "Processing the Carcasses",
-            "subtasks": [
-                "Skinning the carcasses (as they don't scald and scrape)",
-                "Evisceration (though it might be done separately)"
-            ]
-        },
-        {
-            "task": "Making Sausage",
-            "subtasks": [
-                "Grind the meat into sausage (twice for finer consistency)"
-            ]
-        },
-        {
-            "task": "Storing the Products",
-            "subtasks": [
-                "Freeze the pork and sausage"
-            ]
-        },
-        {
-            "task": "",
+            "task": "7. Storing meat and sausage in freezer (MAINTASK)",
             "subtasks": []
         },
         {
-            "task": "Alternatively, the processing MAINTASK could include skinning as part of the process, but the transcript mentions they just skin them without scalding and scraping.",
+            "task": "8. Collecting bones for bone broth (MAINTASK)",
             "subtasks": []
         },
         {
-            "task": "Prepare for Harvesting and Processing",
+            "task": "Processing two 300-pound pigs for harvest and storage.",
             "subtasks": []
         },
         {
-            "task": "Harvest/Slaughter the Pigs",
+            "task": "Processing two 300-pound pigs for harvest and storage.",
             "subtasks": []
         },
         {
-            "task": "Process the Carcasses",
+            "task": "Processing two 300-pound pigs.",
             "subtasks": []
         },
         {
-            "task": "Make Sausage",
+            "task": "Processing two pig carcasses into meat and other products.",
             "subtasks": []
         },
         {
-            "task": "Store the Products",
+            "task": "Processing two 300-pound pigs into meat and products.",
             "subtasks": []
         },
         {
-            "task": "Farming Pigs",
+            "task": "Processing two 300-pound pigs into meat and other products.",
             "subtasks": []
         },
         {
-            "task": "Transporting/Harvesting/Processing",
+            "task": "Processing two 300-pound pigs for harvest and storage.",
             "subtasks": []
         },
         {
-            "task": "Making Sausage",
+            "task": "Processing two 300-pound pigs into meat.",
             "subtasks": []
         },
         {
-            "task": "Storing the Products",
+            "task": "Processing two 300-pound pigs into other products.",
             "subtasks": []
         },
         {
-            "task": "Raising and Harvesting Pigs",
-            "subtasks": [
-                "Confirming pig weights (both 300 pounds)",
-                "Leading pigs to processing area (though with their facility, may not need to move them)",
-                "Slaughtering the pigs"
-            ]
-        },
-        {
-            "task": "Processing the Carcasses",
-            "subtasks": [
-                "Skin the carcasses (no scalding)"
-            ]
-        },
-        {
-            "task": "Making Sausage",
-            "subtasks": [
-                "Grinding meat twice into sausage"
-            ]
-        },
-        {
-            "task": "Storing the Meat",
-            "subtasks": [
-                "Place meat and sausages in freezer"
-            ]
-        },
-        {
-            "task": "Farming and Rearing Pigs",
+            "task": "Processing two pigs for harvest.",
             "subtasks": []
         },
         {
-            "task": "Harvesting and Processing",
+            "task": "Processing two 300-pound hogs for harvest and storage.",
             "subtasks": []
         },
         {
-            "task": "Making Sausage",
+            "task": "Processing two 300-pound pigs for storage.",
             "subtasks": []
         },
         {
-            "task": "Storing Processed Products",
+            "task": "Processing two 300-pound pigs into meat and products with a freezer capacity of 7.1 cubic feet.",
             "subtasks": []
         },
         {
-            "task": "Slaughtering and Processing the Pigs",
+            "task": "Process two 300-pound pigs for harvest and storage.",
             "subtasks": []
         },
         {
-            "task": "Harvesting the Pigs (Slaughtering)",
-            "subtasks": [
-                "Confirming weights (both 300 pounds)",
-                "Processing the Carcasses (removing skin and possibly eviscerate)"
-            ]
-        },
-        {
-            "task": "Making Sausage",
-            "subtasks": [
-                "Grinding meat twice for consistency"
-            ]
-        },
-        {
-            "task": "Storing Products",
-            "subtasks": [
-                "Freezing meat and sausage"
-            ]
-        },
-        {
-            "task": "Processing the Carcasses",
+            "task": "Processing two 300-pound pigs for harvest and storage.",
             "subtasks": []
         },
         {
-            "task": "Storing the Processed Products",
-            "subtasks": []
-        },
-        {
-            "task": "Preparing for Next Steps",
-            "subtasks": []
-        },
-        {
-            "task": "Harvesting Pigs (Slaughtering)**",
-            "subtasks": []
-        },
-        {
-            "task": "Processing Carcasses**",
-            "subtasks": []
-        },
-        {
-            "task": "Making Sausage**",
-            "subtasks": []
-        },
-        {
-            "task": "Storing Meat and Products**",
-            "subtasks": []
-        },
-        {
-            "task": "Processing the Carcasses**",
-            "subtasks": []
-        },
-        {
-            "task": "Processing involves Slaughter and Butchering. Then after that, if there is a separate process for removing entrails and making sausage, but it's not the main focus.",
-            "subtasks": []
-        },
-        {
-            "task": "Farming Pigs",
-            "subtasks": [
-                "Monitoring pig growth and readiness for harvest",
-                "Transporting pigs to processing facility",
-                "Harvesting pigs (slaughtering)",
-                "Processing the carcasses (skinning, evisceration)",
-                "Making sausage",
-                "Storing the processed meat and products (freezing, lard/bones preparation)"
-            ]
-        },
-        {
-            "task": "Farming Pigs**",
+            "task": "Processing two 300-pound pigs for harvest and storage.",
             "subtasks": []
         }
     ]

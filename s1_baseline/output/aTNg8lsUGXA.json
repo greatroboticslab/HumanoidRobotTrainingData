@@ -5,125 +5,217 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Drive a combine harvester",
+            "task": "Ride the tractor and adjust the combine setting for threshing wheat",
             "subtasks": [
-                "Enter the cabin of the combine harvester",
-                "Start the engine of the combine harvester",
-                "Operate the steering wheel to navigate the combine harvester through the field",
-                "Use the control levers to adjust the combine's concave andlevator to appropriate settings",
-                "Monitor the crop being harvested and adjust the machine as necessary",
-                "Utilize the controls to manage the threshing process",
-                "Engage the conveyor belt to transfer grain into the grain tank",
-                "Manage the grain tank's capacity by periodically unloading grain into a storage bin",
-                "Perform basic maintenance tasks during harvesting, such as checking oil and water levels"
+                "Sit on the tractor seat and steer it",
+                "Look out the front of the tractor to monitor the wheat",
+                "Apply pressure to the pedals to control speed and functions",
+                "Use the control levers to adjust the combine settings",
+                "Check the combine's grain tank level periodically",
+                "Stop the machine periodically for maintenance checks",
+                "Observe surroundings for any obstructions or hazards"
             ]
         },
         {
-            "task": "Clamp a replacement rOWER to the combine harvester",
+            "task": "Operate the grain auger to unload wheat",
             "subtasks": [
-                "Identify the correct rOWER replacement part",
-                "Loosen the securing bolts on the existing rOWER",
-                "Lift and remove the old rOWER",
-                "Align the new rOWER with the mounting points",
-                "Secure the new rOWER in place using bolts",
-                "Tighten the bolts with appropriate torque"
+                "Approach the combine with the grain auger",
+                "Align the auger with the unloader flap",
+                "Start the auger and monitor for proper operation",
+                "Manage the grain flow as it's being unloaded",
+                "Check for any blockages or issues during operation",
+                "Stop the auger when the bin is full"
             ]
         },
         {
-            "task": "Engage the elevator to lift grain into the grain tank",
+            "task": "Unload the grain bin onto a truck",
             "subtasks": [
-                "Locate the elevator control lever on the combine harvester",
-                "Press the lever to initiate elevator operation",
-                "Monitor the grain flow into the tank and adjust speed as necessary"
+                "Position the truck near the grain bin",
+                "Open the truck bed and secure the tarp if necessary",
+                "Operate the grain auger to load the grain into the truck",
+                "Monitor the loading process to prevent overfilling",
+                "Close the truck bed and secure the tarp when done"
             ]
         },
         {
-            "task": "Unload grain from the combine harvester onto a grain truck",
+            "task": "Surround the combine with the grain auger",
             "subtasks": [
-                "Position the grain tank spout over the grain truck's hopper",
-                "Activate the unloading mechanism, such as the auger or hydraulic suction",
-                "Monitor the unloading process for any issues",
-                "Once unloaded, disconnect the grain tank from the combine harvester"
+                "Position the auger near the unloader of the combine",
+                "Extend the auger as needed to reach the combine",
+                "Operate the auger controls to position the auger correctly",
+                "Maintain a safe distance from the combine while operating the auger"
             ]
         },
         {
-            "task": "Recognize a picker head needing adjustment and make the necessary corrections",
+            "task": "Transfer wheat from the combine to the truck using the grain auger",
             "subtasks": [
-                "Inspect the picker head for clogs or damage",
-                "Use tools to open the picker head and clear any blockages",
-                "Adjust the fingers or bars of the picker head to the correct spacing",
-                "Reassemble the picker head once adjustments are made"
+                "Ensure the grain auger is properly connected to both machines",
+                "Start the auger and adjust the flow rate as needed",
+                "Monitor the transfer to catch any spills or issues",
+                "Stop the auger when the desired amount is transferred"
             ]
         },
         {
-            "task": "Insert a replacement center buckle into the combine harvester's deck plate",
+            "task": "Adjust the combine's corn header for harvesting corn",
             "subtasks": [
-                "Locate the damaged or broken center buckle on the deck plate",
-                "Remove the old buckle using appropriate tools",
-                "Prepare the new center buckle, ensuring it is the correct size and type",
-                "Insert the new buckle into the deck plate fixture",
-                "Secure the new buckle in place with screws or fasteners"
+                "Locate the corn header attachment on the combine",
+                "Remove the current header and replace it with a corn header",
+                "Secure the new header to the combine and ensure a proper fit",
+                "Check the header for any loose or damaged parts",
+                "Calibrate the header settings according to the crop type",
+                "Test the header operation before starting the harvest"
             ]
         },
         {
-            "task": "Drive a grain truck to transport harvested grain from the combine harvester",
+            "task": "Operate the combine to harvest corn",
             "subtasks": [
-                "Enter the grain truck\u2019s cab",
-                "Start the grain truck\u2019s engine",
-                "Check the grain tank for available space before traveling",
-                "Drive the grain truck to the combine harvester's location",
-                "Connect the grain tank to the combine harvester for unloading",
-                "After unloading, drive the grain truck to the storage facility or processing plant",
-                "Unload the grain truck at the designated location",
-                "Return the grain truck to the field for reloading"
+                "Drive the combine through the corn field",
+                "Adjust the combine's speed to optimize harvest efficiency",
+                "Monitor the corn being cut and collected",
+                "Stop periodically to check the grain tank and empty if needed",
+                "Check for any engine or mechanical issues during operation"
             ]
         },
         {
-            "task": "Align the combine harvester\u2019s header with the row of crops to be harvested",
+            "task": "Load the combine onto a trailer",
             "subtasks": [
-                "Adjust the combine harvester\u2019s front wheels using the steering mechanism",
-                "Engage the header height control to set the proper cutting height",
-                "Ensure proper overlap between the header and crop rows"
+                "Position the combine on a flatbed trailer",
+                "Tie down the combine securely to the trailer with straps",
+                "Jack up the trailer to attach rubber skid plates if necessary",
+                "Connect the trailer to the tow vehicle and check for any leaks"
             ]
         },
         {
-            "task": "Operate the combine harvester\u2019s fan to manage airflow for threshing",
+            "task": "Transport the combine to a different field",
             "subtasks": [
-                "Check the fan speed using the control panel",
-                "Adjust fan settings based on crop type and moisture content",
-                "Monitor the separation efficiency and make adjustments as needed"
+                "Drive the combine and trailer combination to the new field",
+                "Align the trailer with the entry point of the field",
+                "Engage the brakes and wedge the trailer in place if necessary",
+                "Disconnect the combine from the trailer once at the field"
             ]
         },
         {
-            "task": "Adjust the concave setting on the combine harvester to optimize threshing and grain quality",
+            "task": "Remove the corn header from the combine",
             "subtasks": [
-                "Refer to the operator manual for appropriate concave gaps",
-                "Loosen the concave retaining bolts using a wrench or socket set",
-                "Modify the concave position for the desired distance from the stecator",
-                "Retighten the bolts securely"
+                "Locate the corn header on the combine",
+                "Disconnect the header from the combine's harvest system",
+                "Lift the header off the combine and place it safely",
+                "Store the header properly for next use"
             ]
         },
         {
-            "task": "Clear tangled vines from the combine harvester\u2019s header",
+            "task": "Inspect the combine for necessary maintenance before next use",
             "subtasks": [
-                "Stop the combine harvester to safely access the header area",
-                "Use tools such as a pole or rake to separate tangled vines",
-                "Manually remove or cut loose any stuck vegetation",
-                "Inspect the header for any further damage or wear"
+                "Check filters, oil levels, and hydraulic fluid",
+                "Lubricate moving parts and check for any damages",
+                "Test all functions of the combine including lights and alarms"
             ]
         },
         {
-            "task": "Drive a combine harvester",
+            "task": "Ride the tractor and adjust the combine setting for threshing wheat",
             "subtasks": [
-                "Enter the cabin of the combine harvester",
-                "Start the engine of the combine harvester",
-                "Operate the steering wheel to navigate the combine harvester through the field",
-                "Use the control levers to adjust the combine's concave and elevator to appropriate settings",
-                "Monitor the crop being harvested and adjust the machine as necessary",
-                "Utilize the controls to manage the threshing process",
-                "Engage the conveyor belt to transfer grain into the grain tank",
-                "Manage the grain tank's capacity by periodically unloading grain into a storage bin",
-                "Perform basic maintenance tasks during harvesting, such as checking oil and water levels"
+                "** Sit on the tractor seat and steer it",
+                "** Look out the front of the tractor to monitor the wheat",
+                "** Apply pressure to the pedals to control speed and functions",
+                "** Use control levers to adjust the combine settings",
+                "** Check the combine's grain tank level periodically",
+                "** Stop the machine periodically for maintenance checks",
+                "** Observe surroundings for any obstructions or hazards"
+            ]
+        },
+        {
+            "task": "Operate the grain auger to unload wheat",
+            "subtasks": [
+                "** Approach the combine with the grain auger",
+                "** Align the auger with the unloader flap",
+                "** Start the auger and monitor its operation",
+                "** Manage the grain flow during unloading",
+                "** Check for blockages or issues",
+                "** Stop the auger when the bin is full"
+            ]
+        },
+        {
+            "task": "Unload the grain bin onto a truck",
+            "subtasks": [
+                "** Position the truck near the grain bin",
+                "** Open the truck bed and secure the tarp if necessary",
+                "** Operate the grain auger to load the grain into the truck",
+                "** Monitor the loading process",
+                "** Close the truck bed and secure the tarp when finished"
+            ]
+        },
+        {
+            "task": "Surround the combine with the grain auger",
+            "subtasks": [
+                "** Position the auger near the combine's unloader",
+                "** Extend the auger as needed",
+                "** Operate the auger controls for correct positioning",
+                "** Maintain a safe distance from the combine"
+            ]
+        },
+        {
+            "task": "Transfer wheat from the combine to the truck using the grain auger",
+            "subtasks": [
+                "** Ensure the grain auger is properly connected",
+                "** Start the auger and adjust the flow rate",
+                "** Monitor the grain transfer",
+                "** Stop the auger when desired amount is transferred"
+            ]
+        },
+        {
+            "task": "Adjust the combine's corn header for harvesting corn",
+            "subtasks": [
+                "** Locate the corn header on the combine",
+                "** Remove the current header and replace it with a corn header",
+                "** Secure the new header to the combine",
+                "** Check the header for loose or damaged parts",
+                "** Calibrate the header settings",
+                "** Test the header operation"
+            ]
+        },
+        {
+            "task": "Operate the combine to harvest corn",
+            "subtasks": [
+                "** Drive the combine through the corn field",
+                "** Adjust the combine's speed",
+                "** Monitor the corn being cut and collected",
+                "** Stop periodically to check the grain tank",
+                "** Check for engine or mechanical issues"
+            ]
+        },
+        {
+            "task": "Load the combine onto a trailer",
+            "subtasks": [
+                "** Position the combine on the trailer",
+                "** Tie down the combine securely with straps",
+                "** Jack up the trailer to attach rubber skid plates if needed",
+                "** Connect the trailer to the tow vehicle and check connections"
+            ]
+        },
+        {
+            "task": "Transport the combine to a different field",
+            "subtasks": [
+                "** Drive the combine and trailer to the new field",
+                "** Align the trailer with the entry point",
+                "** Engage brakes and wedge the trailer in place",
+                "** Disconnect the combine from the trailer upon arrival"
+            ]
+        },
+        {
+            "task": "Remove the corn header from the combine",
+            "subtasks": [
+                "** Locate the corn header",
+                "** Disconnect the header from the combine",
+                "** Lift and place the header safely",
+                "** Store the header properly"
+            ]
+        },
+        {
+            "task": "Inspect the combine for maintenance before next use",
+            "subtasks": [
+                "** Check filters, oil levels, and hydraulic fluid",
+                "** Lubricate moving parts and check for damages",
+                "** Test all combine functions (e.g., lights, alarms)"
             ]
         }
     ]

@@ -5,18 +5,45 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Assessing a used tractor for purchase.",
+            "task": "Evaluate a used tractor and its components for purchase.",
             "subtasks": [
-                "Checking the condition of engine oil.",
-                "Examining tires for wear and fluid leaks.",
-                "Testing steering responsiveness and mechanical components.",
-                "Verifying functionality and condition of power takeoff (PTO).",
-                "Ensuring compatibility of hydraulic systems.",
-                "Evaluating appropriate horsepower for land size.",
-                "Checking for signs of fluid leaks in hydraulics.",
-                "Testing hydraulic lift speed and response.",
-                "Understanding the differences between PTO shaft RPMs.",
-                "Considering specific needs for larger acreages."
+                "Check engine oil condition.",
+                "Inspect tires for wear and damage.",
+                "Assess steering play.",
+                "Consider hydraulic system integrity and functionality.",
+                "Evaluate power takeoff (PTO) system.",
+                "Confirm compatibility between tractor and agricultural implements.",
+                "Assess overall condition and suitability for intended use."
+            ]
+        },
+        {
+            "task": "Consider factors affecting tractor purchase for small farm operations.",
+            "subtasks": [
+                "Determine appropriate horsepower for land size.",
+                "Weigh costs against benefits of used versus new tractors.",
+                "Evaluate resale value and potential future investment.",
+                "Assess compatibility of tractor features with local farming practices."
+            ]
+        },
+        {
+            "task": "MAINTASK: Evaluate a used tractor and its components for purchase.",
+            "subtasks": [
+                "Check engine oil condition.",
+                "Inspect tires for wear and damage.",
+                "Assess steering play.",
+                "Consider hydraulic system integrity and functionality.",
+                "Evaluate power takeoff (PTO) system.",
+                "Confirm compatibility between tractor and agricultural implements.",
+                "Assess overall condition and suitability for intended use."
+            ]
+        },
+        {
+            "task": "Consider factors affecting tractor purchase for small farm operations.",
+            "subtasks": [
+                "Determine appropriate horsepower for land size.",
+                "Weigh costs against benefits of used versus new tractors.",
+                "Evaluate resale value and potential future investment.",
+                "Assess compatibility of tractor features with local farming practices."
             ]
         }
     ]

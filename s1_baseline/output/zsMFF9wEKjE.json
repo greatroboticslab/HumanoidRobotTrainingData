@@ -5,145 +5,18 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Building and controlling a garden watering system.",
+            "task": "Set up and operate a garden watering control system",
             "subtasks": [
-                "SSHing into a Raspberry Pi.",
-                "Using a relay control board to manage valves.",
-                "Activating a zone via a command line interface.",
-                "Monitoring valve states through a Node.js application.",
-                "Testing water zone activation and deactivation.",
-                "Controlling water flow through different zones.",
-                "Setting up a bleed valve to release pressure.",
-                "Considering water source selection (rain tank vs house water).",
-                "Planning for soil moisture sensors and tank level monitors."
+                "Connect to Raspberry Pi via SSH",
+                "Access control daemon using command line interface",
+                "Override valve states manually",
+                "Manage zone activation (e.g., turn zone one, three, two on and off)",
+                "Monitor LED indicators for valve status",
+                "Bleed system pressure through the bleed valve",
+                "Configure water sources (rain tank and house water)",
+                "Integrate soil moisture sensors",
+                "Implement scheduling and decision-making based on sensor data"
             ]
-        },
-        {
-            "task": "Building and controlling the garden irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Setting up a garden watering control system.",
-            "subtasks": []
-        },
-        {
-            "task": "Demonstrate and test a garden watering control system.",
-            "subtasks": []
-        },
-        {
-            "task": "Operate a garden watering system.",
-            "subtasks": []
-        },
-        {
-            "task": "Test and configure a garden irrigation control system.",
-            "subtasks": []
-        },
-        {
-            "task": "Demonstrate a garden watering control system.",
-            "subtasks": []
-        },
-        {
-            "task": "Control a garden irrigation system using a Node.js application.",
-            "subtasks": []
-        },
-        {
-            "task": "Operate and test a garden watering control system.",
-            "subtasks": []
-        },
-        {
-            "task": "Test and document a garden irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Maintain a garden watering system.",
-            "subtasks": []
-        },
-        {
-            "task": "Control and maintenance of a garden irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Test and verify a garden irrigation system's functionality.",
-            "subtasks": []
-        },
-        {
-            "task": "Test a garden irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Demonstrate a garden watering control system.",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "Test and maintain a garden irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Demonstrate the operation of a garden irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Operate and verify a garden irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Building and controlling a garden watering system.",
-            "subtasks": [
-                "SSHing into a Raspberry Pi.",
-                "Using a relay control board to manage valves.",
-                "Activating a zone via a command line interface.",
-                "Monitoring valve states through a Node.js application.",
-                "Testing water zone activation and deactivation.",
-                "Controlling water flow through different zones.",
-                "Setting up a bleeder valve to release pressure.",
-                "Considering water source selection (rain tank vs house water).",
-                "Planning for sensor integration (soil moisture and tank level)."
-            ]
-        },
-        {
-            "task": "Test an automated garden irrigation system.",
-            "subtasks": [
-                "Turn on a zone using the control panel.",
-                "Check water flow at the zone.",
-                "Switch between water sources."
-            ]
-        },
-        {
-            "task": "Operate the bleeder valve to check pressure.",
-            "subtasks": []
-        },
-        {
-            "task": "Test and maintain a garden irrigation system.",
-            "subtasks": [
-                "SSH into the Raspberry Pi to turn on a zone.",
-                "Verify water sprinkling at each activated zone.",
-                "Switch the water source between rain tank and house water.",
-                "Use the bleeder valve to release excess pressure."
-            ]
-        },
-        {
-            "task": "Test and operate an irrigation automation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Though challenging to interpret, this would capture the key physical actions inferred from the content. Since using the Node.js is a primary component, perhaps keeping the tasks as accessing the system, activating zones, verifying flow, switching sources, and testing safety valves, is accurate. However, the assignment says the transcript should be parsed into a series of tasks based on the video, which implied to focus primarily on the control and testing aspects. Hence, the suggested final answer with MAINTASK \"Test and control a garden irrigation system\" and subtasks as per the list above may be acceptable.",
-            "subtasks": []
-        },
-        {
-            "task": "Control an irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Perform a safety check.",
-            "subtasks": []
-        },
-        {
-            "task": "Test and control a garden irrigation system.**",
-            "subtasks": []
         }
     ]
 }

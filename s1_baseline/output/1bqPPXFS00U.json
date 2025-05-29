@@ -5,31 +5,36 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Preparing and testing garden soil for optimal planting conditions.",
+            "task": "Testing and amending garden soil",
+            "subtasks": [
+                "Preparing soil sample collection",
+                "Setting up home soil test kit",
+                "Conducting soil composition test",
+                "Performing nutrient nutrient tests",
+                "Analyzing results and determining amendments"
+            ]
+        },
+        {
+            "task": "Amending the raised bed and main garden soil",
+            "subtasks": [
+                "Preparing raised bed soil",
+                "Amending the main garden soil"
+            ]
+        },
+        {
+            "task": "Documenting results and future reference",
+            "subtasks": [
+                "Record test results and amendments for each area",
+                "Adjusting planting strategies"
+            ]
+        },
+        {
+            "task": "MAINTASK: Testing and amending garden soil. Breakdown of tasks:",
             "subtasks": []
         },
         {
-            "task": "Soil testing",
-            "subtasks": [
-                "Collect soil samples from various garden areas.",
-                "Add distilled water and liquid dish detergent to soil samples.",
-                "Shaking and separating soil particles (sand, silt, clay) to determine composition.",
-                "Use pH testing tablets to determine current soil acidity.",
-                "Analyze nutrient levels (nitrogen, potassium, phosphorus) using color-coded test vials.",
-                "Interpret test results to determine necessary soil amendments.",
-                "Adjust test results for compost added to the garden.",
-                "Wash and prepare tools for next tests."
-            ]
-        },
-        {
-            "task": "Amending soil for better plant growth.",
-            "subtasks": [
-                "Adjust soil composition by adding organic matter to improve silt and clay content.",
-                "Apply appropriate nutrients based on test results.",
-                "Protect soil microorganisms and beneficial insects.",
-                "Monitor and adjust soil pH as needed.",
-                "Prepare raised beds for planting by adding topsoil and organic compost."
-            ]
+            "task": "**Amending the raised bed and main garden soil**, which includes preparing and mixing in amendments, testing pH, and adjusting as needed.",
+            "subtasks": []
         }
     ]
 }

@@ -7,20 +7,59 @@
         {
             "task": "Preparing garden for spring planting in a cold climate.",
             "subtasks": [
-                "Monitoring nighttime temperatures and adjusting planting schedules accordingly.",
-                "Protecting sensitive plants (e.g., tomatoes, peppers) from frost by covering them or bringing them indoors when temperatures drop.",
-                "Planting hardier crops (e.g., peas, onions) which can tolerate light frost.",
-                "Covering seedlings (e.g., Coleus) that are sensitive to cold until safer planting times.",
-                "Checking weather forecasts regularly to plan future planting dates.",
-                "Cleaning garden beds and preparing planting areas as temperatures warm."
+                "Inspecting winter sowings for growth.",
+                "Protecting tender bedding plants from cold nights.",
+                "Monitoring nighttime temperatures and adjusting garden coverings.",
+                "Bringing sensitive potted plants indoors when necessary.",
+                "Checking frost protection measures for newly planted vegetables.",
+                "Assessing hardiness of emerging plants and providing additional care.",
+                "Checking local weather forecasts for warm temperatures.",
+                "Adjusting planting schedules based on predicted temperatures.",
+                "Collecting and preparing materials for future frost protection.",
+                "Planning maintenance tasks during the wait for warmer weather."
             ]
         },
         {
-            "task": "Harvesting and utilizing dandelions for an herbal oil infusion.",
+            "task": "Collecting dandelions for making salves.",
             "subtasks": [
-                "Collecting dandelion plants from the yard.",
-                "Processing dandelions for oil infusion (e.g., washing, chopping).",
-                "Preparing oil infusion (e.g., blending dandelions and oil, storing)."
+                "Identifying dandelion plants in the garden.",
+                "Harvesting dandelions while ensuring not to damage the plants.",
+                "Collecting dandelions in appropriate quantities for the intended use.",
+                "Possibly drying or preparing the dandelions for oil infusion. (implied from the context)"
+            ]
+        },
+        {
+            "task": "MAINTASK: Preparing garden for spring planting in a cold climate.",
+            "subtasks": [
+                "Inspecting winter sowings for growth.",
+                "Protecting tender bedding plants from cold nights.",
+                "Monitoring nighttime temperatures and adjusting garden coverings.",
+                "Bringing sensitive potted plants indoors when necessary.",
+                "Checking frost protection measures for newly planted vegetables.",
+                "Assessing hardiness of emerging plants and providing additional care.",
+                "Checking local weather forecasts for warm temperatures.",
+                "Adjusting planting schedules based on predicted temperatures.",
+                "Collecting dandelions for making salves.",
+                "Identifying dandelion plants in the garden.",
+                "Harvesting dandelions while ensuring not to damage the plants.",
+                "Collecting dandelions in appropriate quantities for the intended use."
+            ]
+        },
+        {
+            "task": "MAINTASK: Preparing garden for spring planting in a cold climate.",
+            "subtasks": [
+                "Inspecting winter sowings for growth.",
+                "Protecting tender bedding plants from cold nights.",
+                "Monitoring nighttime temperatures and adjusting garden coverings.",
+                "Bringing sensitive potted plants indoors when necessary.",
+                "Checking frost protection measures for newly planted vegetables.",
+                "Assessing hardiness of emerging plants and providing additional care.",
+                "Checking local weather forecasts for warm temperatures.",
+                "Adjusting planting schedules based on predicted temperatures.",
+                "Collecting dandelions for making salves.",
+                "Identifying dandelion plants in the garden.",
+                "Harvesting dandelions while ensuring not to damage the plants.",
+                "Collecting dandelions in appropriate quantities for the intended use."
             ]
         }
     ]

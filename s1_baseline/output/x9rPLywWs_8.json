@@ -5,27 +5,43 @@
     "category": "Film & Animation",
     "tasks": [
         {
-            "task": "Assembling a chicken coop nesting box.",
+            "task": "Assembling a nesting box for chickens",
             "subtasks": [
-                "Preparing to drill holes for screws.",
-                "Securing three pieces of strapping with screws and clamps.",
-                "Attaching the nesting box tray with screws."
+                "Preparing the nesting box",
+                "Drilling holes for strapping",
+                "Securing the 2x4 with clamps",
+                "Mounting the nesting box"
             ]
         },
         {
-            "task": "Securing the pig pasture.",
+            "task": "Preparing the chicken coop for winter",
             "subtasks": [
-                "Moving pigs to fresh grass daily.",
-                "Observing pigs' activities and behavior."
+                "Seasonal planning and anticipation",
+                "Maintaining livestock during different seasons"
             ]
         },
         {
-            "task": "Preparing for winter chicken coop occupancy.",
+            "task": "Creating a presence on social media",
             "subtasks": [
-                "Installing nesting boxes and hay.",
-                "Planning for future video content.",
-                "Promoting social media engagement."
+                "Engaging with followers on YouTube",
+                "Promoting the farm's presence on social platforms"
             ]
+        },
+        {
+            "task": "The provided transcript includes a mix of physical tasks related to farming (assembling a nesting box, managing livestock) and social media promotion. The tasks have been divided into categories accordingly. However, the majority focus on the assembly of the nesting box with several subtasks, as well as seasonal preparations for the coop. Social media presence is addressed but is more auxiliary. The transcript mentions students starting school very early, which is a context-specific detail but not directly a physical farming task. The initial part about \"excuse the mess, this is just kind of our collect all\" and storing things is about organization, which could be treated as housekeeping but specific to materials storage. However, given that the user is in the process of setting up the coop, these were included under preparation steps. However, the final task (promoting social media presence) seems tangential to the main farming activities. Therefore, based on the directive to create tasks for the physical actions involved, the main tasks assigned are the nesting box assembly and associated preparatory steps, as well as brief mention of the seasonal change. Additionally, interactions on social media, though not directly physical, are instructive for the channel's operations, hence included as a separate task. However, the original video may be considered ENTERTAINMENT-based or RECORDING-keeping video, not primarily instructional in nature. As such, perhaps the focus on social media is more of a recommendation than a task. Depending on the medium, if this is a video meant to show the progress of a farm and involve the audience, the social media interaction IS a task (engaging with viewers and sharing content). Given the instructions to generate tasks based on the transcript's content related to performing physical farming or agricultural tasks, I have included tasks related to physical work (nest box building and season preparation) as MAINTASKs with their respective subtasks. The social media section is presented as a separate MAINTASK because maintaining a social media presence is part of the farm's operations but maybe less about physical labor. However, given the limited content, identifying overlapping tasks would have been challenging. But even then, the video covers moving the pigs, bringing in the hay, setting up the nest box, and planning for moving the chickens. So overall, two MAINTASKs seem appropriate. GetMessage()",
+            "subtasks": []
+        },
+        {
+            "task": "Assembling a Nesting Box**",
+            "subtasks": []
+        },
+        {
+            "task": "Preparing the Chicken Coop for Winter**",
+            "subtasks": []
+        },
+        {
+            "task": "Social Media Promotion**",
+            "subtasks": []
         }
     ]
 }

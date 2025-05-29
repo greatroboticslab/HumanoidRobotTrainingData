@@ -5,34 +5,37 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Assembling a compost bin using pallets and wire.",
+            "task": "Construct a compost bin using pallets and wire.",
             "subtasks": [
-                "Acquiring pallets from a local building supplier.",
-                "Standing pallets upright at the ends and middle to form bins.",
-                "Securing the pallets with bailing wire by looping it through and twisting.",
-                "Tightening the wire with pliers or nippers.",
-                "Removing excess wire and ensuring edges are safe.",
-                "Replicating the wire securing process on all four pallets.",
-                "Completing the bin by doing the same on top and bottom."
+                "Collect pallets from a building supplier.",
+                "Stand three pallets up vertically at both ends and in the middle to form bins.",
+                "Use bailing wire to secure the pallets, looping, twisting, and tightening with pliers.",
+                "Cut and discard sharp wire ends.",
+                "Repeat the wire securing process on the top and bottom of the pallets."
             ]
         },
         {
-            "task": "Constructing a three-bin compost system.",
-            "subtasks": []
-        },
-        {
-            "task": "Assembling a compost bin using pallets and wire.**",
+            "task": "Assemble the three-bin compost system.",
             "subtasks": [
-                "** Get pallets from a local building supplier (plumbing supply outfit nearby).",
-                "** Stand two pallets upright at the ends and one in the middle to create three bins.",
-                "** Use bailing wire to loop through the pallet holes and twist tight. Employ a pair of pliers or nippers to secure the wire, ensuring no sharp edges remain."
+                "Confirm the need for assistance in holding pallets still during assembly.",
+                "Verify the availability and cost-effectiveness of bailing wire."
             ]
         },
         {
-            "task": "Constructing a three-bin compost system.**",
+            "task": "MAINTASK: Construct a compost bin using pallets and wire.",
             "subtasks": [
-                "** Repeat the wire-securing method on the remaining pallets for both the top and bottom.",
-                "** Cut off excess wire and ensure all connections are secure and safe."
+                "** Collect pallets from a building supplier.",
+                "** Stand three pallets up vertically (two at the ends and one in the middle) to form bins.",
+                "** Use bailing wire to secure the pallets by looping, twisting, and tightening with pliers.",
+                "** Cut and discard any sharp wire ends.",
+                "** Repeat the wire securing process on the top and bottom of the pallets."
+            ]
+        },
+        {
+            "task": "Assemble the three-bin compost system.",
+            "subtasks": [
+                "** Confirm the need for assistance in holding pallets still during assembly.",
+                "** Verify the availability and cost-effectiveness of bailing wire."
             ]
         }
     ]

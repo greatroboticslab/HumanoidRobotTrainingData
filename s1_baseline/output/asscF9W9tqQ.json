@@ -5,89 +5,64 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Maize farming process and best practices",
+            "task": "Maize farming process",
             "subtasks": [
-                "Understand the importance of soil type and preparation for maize farming",
-                "Identify suitable maize varieties for different regions and seasons",
-                "Clear land of weeds before planting using manual methods or herbicides",
-                "Properly plant maize seeds with optimal spacing and appropriate seed rate",
-                "Apply fertilizers according to crop needs and stage of growth",
-                "Protect maize from pests such as fall armyworm using appropriate chemicals and timing",
-                "Control weeds through manual or chemical means and promote moisture conservation",
-                "clearing the land, planting with the correct spacing, and using the right seed rate. So maybe a main task of \"Proper planting\" with subtasks on weeding before planting, using a planter, adjusting spacing. Fertilization is another big part\u2014choosing the right fertilizers at the right time. Pests like fall armyworm require specific treatments. Weeds need controlling. So I'll need to create MAINTASKs for each main area and then SUBTASKs for the steps within each."
+                "Understanding the best soil for maize",
+                "Choosing appropriate maize varieties based on region",
+                "Preparing the land by clearing weeds",
+                "Proper planting techniques including spacing and seed rate",
+                "Applying fertilizers (C dimensions, DAP 1846.0, NPK 2323.0) at specific stages",
+                "Controlling fall armyworm pest",
+                "Managing weeds through mechanical or chemical methods",
+                "Practicing zero tillage for moisture conservation"
             ]
         },
         {
-            "task": "describing the best soil types (fertile loam or sandy loam), how manure improves soil, and why clay soil is problematic. Then another MAINTASK could be \"Selecting appropriate maize varieties,\" identifying regions (North Rift with one season vs. two-season areas) and listing recommended varieties like Pioneer 253. Then \"Planting maize\" as a MAINTASK with subtasks on clearing land (both manual and herbicide options), correct planting spacing, seed rate calculation, and calibrating planters. \"Applying fertilizers\" is another MAINTASK, broken down into timing (10 days after sowing for DAP, then CAN 55 days later) and types (DAP 18-46, NPK 23-23). \"Controlling pests\" would be a MAINTASK, focusing on fall armyworm and the application of Marlon or Escort. Finally, \"Managing weeds\" as a MAINTASK with options for manual versus chemical weed control, including zero-tillage.",
-            "subtasks": []
-        },
-        {
-            "task": "But let me check if I missed anything. The speaker also mentions long-range seasons for planting best results. Maybe under \"Selecting maize varieties,\" but that's already covered. The mention of getting hired from planting to harvesting might fit under an overall MAINTASK of \"Complete maize farming from start to finish,\" but I think breaking it into parts makes more sense because each section is a distinct task. Also, the mention of soil for maize is specifically a key part that needs understanding first.",
-            "subtasks": []
-        },
-        {
-            "task": "Understanding the best soil for maize farming",
+            "task": "Planting maize",
             "subtasks": [
-                "Identify the type of soil optimal for maize thrives (fertile loam or sandy loam)",
-                "Recognize the role of cow or sheep manure in enhancing soil quality and moisture retention",
-                "Comprehend why clay soil is problematic due to poor drainage leading to flooding and increased weeds"
+                "Clearing land of weeds manually or with herbicides",
+                "Creating precise planting spacings using a calibrated maize planter",
+                "Planting seeds at the recommended rate"
             ]
         },
         {
-            "task": "Selecting appropriate maize varieties",
+            "task": "Fertilizing maize",
             "subtasks": [
-                "Determine five-month maize varieties suitable for North Rift regions with one season",
-                "For North Rift region, recommend varieties such as Pioneer 253, G19, H614, H628, H629",
-                "For regions with two maize seasons, choose three-month maturity varieties (list those)",
-                "Understand the reason for planting in long-range seasons in the North Rift for better results"
+                "Applying DAP 1846.0 10 days after sowing",
+                "Top-dressing with NPK 2323.0 55 days after sowing",
+                "Applying CAN 745 55 days post-sowing"
             ]
         },
         {
-            "task": "Proper planting techniques",
+            "task": "Pest control",
             "subtasks": [
-                "Clear the land of weeds using manual methods or non-selective herbicides (like kausha or round-up)",
-                "Equip and calibrate a maize planter for precise spacing (60 cm by 30 cm)",
-                "Determine the appropriate seed rate based on population per acre (11-12 kg per acre)"
+                "Applying marlon insecticide to control fall armyworm",
+                "Using stickers and boosters with the insecticide",
+                "Timing pesticide application in the late evening when pests are active"
             ]
         },
         {
-            "task": "Applying optimal fertilizers",
+            "task": "Weed management",
             "subtasks": [
-                "Apply DAP 18-46 at 10 days after sowing to promote faster growth",
-                "Use NPK 23-23 for top dressing 55 days after sowing to enhance seed formation",
-                "Understand the role of CAN fertilizer for weed management"
+                "Regularly keeping the field free of weeds",
+                "Selecting between manual or chemical weed removal methods",
+                "Considering zero-till practices for weed control and moisture retention"
             ]
         },
         {
-            "task": "Pest control for maize",
+            "task": "Soil preparation for maize",
             "subtasks": [
-                "Identify fall armyworm as a major pest causing up to 50% crop loss",
-                "Apply a suitable pesticide like Marlon or Escort 21-35 days after sowing",
-                "Enhance pesticide efficacy by adding a sticker (Integra or Aquavit) and booster",
-                "Choose the best time for pest control (late evening when fall armyworm is most active)"
+                "Ensuring soil is loamy or sandy loamy",
+                "Adding organic matter like manure for fertility",
+                "Improving soil drainage by managing clay content"
             ]
         },
         {
-            "task": "Weed management in maize farming",
+            "task": "Variety selection for different regions",
             "subtasks": [
-                "Remove weeds regularly, either manually or using selective herbicides (e.g., Tinga Tinga, Gavana, Diamine)",
-                "Consider zero-tillage practices to conserve moisture and promote faster growth"
-            ]
-        },
-        {
-            "task": "\"Develop the necessary knowledge and skills to farm maize from planting to harvesting.\" Then it's subtasks like selecting varieties, understanding soil, planting, etc., but that might be considered too vague. Alternatively, it could be part of the initial MAINTASK on soil selection, like \"Acquire the expertise to improve soil and grow maize efficiently.\" But in the original breakdown I think covering the process step-by-step is more useful.",
-            "subtasks": []
-        },
-        {
-            "task": "Maize farming process and best practices",
-            "subtasks": [
-                "Understand the importance of soil type and preparation for maize farming",
-                "Identify suitable maize varieties for different regions and seasons",
-                "Clear land of weeds before planting using manual methods or herbicides",
-                "Properly plant maize seeds with optimal spacing and appropriate seed rate",
-                "Apply fertilizers according to crop needs and stage of growth",
-                "Protect maize from pests such as fall armyworm using appropriate chemicals and timing",
-                "Control weeds through manual or chemical means and promote moisture conservation"
+                "Choosing 5-month varieties for North Rift (e.g., Pioneer 253, G19)",
+                "Selecting 3-month varieties for two-season regions (e.g., Haraka 101, SC Duma 43)",
+                "Considering yield potential and maturation periods when selecting varieties"
             ]
         }
     ]

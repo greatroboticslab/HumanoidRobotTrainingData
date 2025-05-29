@@ -7,116 +7,30 @@
         {
             "task": "Soil Sampling for Fertilizer Recommendations",
             "subtasks": [
-                "Take soil samples from garden and landscape areas",
-                "Dry the collected soil samples",
-                "Prepare soil samples by removing plant material and organic matter",
-                "Place prepared soil in a quart bag",
-                "Mail soil sample to laboratory for analysis",
-                "Contact local extension office for assistance with sampling or lab info",
-                "Understand importance of accurate soil testing for proper fertilization"
+                "Identify the need for a soil test due to lack of prior information",
+                "Prepare sample collection by soil depth (top four to six inches)",
+                "Dry the soil to proper consistency for mailing",
+                "Deposit soil into a quart bag, ensuring no plant material or organic debris",
+                "Secure and mail the soil sample to an agricultural lab",
+                "Contact the local extension office for assistance with sampling techniques or lab information"
             ]
         },
         {
-            "task": "Promote Educational Content",
+            "task": "Discussing Soil Testing Process",
             "subtasks": [
-                "Provide information on the common question of fertilizer application",
-                "Explain the challenge of estimating fertilizer needs without soil tests",
-                "Mention a fictional device from a movie for soil analysis (for entertainment value)",
-                "Apologize for not having a solution like the movie's device"
-            ]
-        },
-        {
-            "task": "Maintain Video Integrity",
-            "subtasks": [
-                "Confirm the video ends with \"The End\" multiple times, indicating conclusion"
-            ]
-        },
-        {
-            "task": "Soil Sampling for Fertilizer Recommendations; MAINTASK: Promote Educational Content; MAINTASK: Maintain Video Integrity)",
-            "subtasks": []
-        },
-        {
-            "task": "). Then under that, the subtasks would be like taking samples, drying them, preparing them, putting in a bag, mailing to a lab, and maybe mentioning the extension office for help. Also, the video ends with \"The End\" three times, so maybe there's a subtask about the video concluding, but since the transcript itself ends, perhaps that's already covered by the main task's completeness.",
-            "subtasks": []
-        },
-        {
-            "task": "Soil Sampling for Fertilizer Recommendations",
-            "subtasks": [
-                "Take soil samples from garden and landscape areas where fertilizer is needed.",
-                "Checks samples are from top four to six inches.",
-                "Allow soil to dry before mailing.",
-                "Properly prepare soil samples by removing plant material and organic matter.",
-                "Use a quart bag to send the sample via mail.",
-                "Contact local extension office for assistance with sampling or lab information."
+                "Explain the purpose of a soil test in determining fertilizer needs",
+                "Mention alternatives considered (e.g., fictional device from Men in Black)",
+                "Reinforce the necessity of sending soil samples to an expert lab for analysis",
+                "Credit the source (University of Wyoming Extension) and acknowledge the video's title (From the Ground Up)"
             ]
         },
         {
             "task": "Soil Sampling for Fertilizer Recommendations",
-            "subtasks": [
-                "Take soil samples from the garden, ensuring to dig four to six inches deep.",
-                "Mix the sample well to get a representative sample.",
-                "Dry the soil before packaging to prevent damage during mailing.",
-                "Remove any plant material or organic matter from the soil sample.",
-                "Place the prepared soil into a quart bag for mailing.",
-                "Address and mail the bagged soil sample to the lab specified by the local extension office or a lab recommended by them.",
-                "Considering that they mention getting a sample bucket, maybe they need a subtask to collect sample into a bucket first, then mix and transfer to bag, but the main step is from taking the sample to mailing."
-            ]
-        },
-        {
-            "task": "Soil Sampling for Home Garden and Landscapes",
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Soil Testing for Fertilizer Management",
-            "subtasks": [
-                "Collect representative soil samples from garden and landscape areas.",
-                "Dry soil samples to prevent damage during mailing.",
-                "Remove plant material and organic matter from samples.",
-                "Package soil in quart bags for mailing.",
-                "Mail samples to agricultural lab for analysis."
-            ]
-        },
-        {
-            "task": "Soil Testing for Fertilizer Application",
+            "task": "Discussing Soil Testing Process",
             "subtasks": []
-        },
-        {
-            "task": "Collecting and Preparing Soil Samples for Testing",
-            "subtasks": []
-        },
-        {
-            "task": "Soil Sampling for Fertilizer Recommendations**",
-            "subtasks": []
-        },
-        {
-            "task": "Soil Sampling for Fertilizer Recommendations",
-            "subtasks": [
-                "Take soil samples from garden and landscape areas.",
-                "Dry the collected soil samples.",
-                "Remove plant material and organic matter from samples.",
-                "Place soil in a quart bag.",
-                "Mail the sample to the lab through your local extension office."
-            ]
-        },
-        {
-            "task": "Soil Sampling for Fertilizer Testing**",
-            "subtasks": [
-                "** Take soil samples from the garden, ensuring they are from the top four to six inches.",
-                "** Dry the soil samples to prevent damage during mailing.",
-                "** Remove plant material and organic debris from the samples.",
-                "** Place the prepared soil into a quart bag.",
-                "** Mail the bagged soil sample to the laboratory using information provided by the local extension office."
-            ]
-        },
-        {
-            "task": "Soil Sampling for Fertilizer Testing",
-            "subtasks": [
-                "Take soil samples from the garden and landscape areas.",
-                "Dry the soil samples.",
-                "Remove plant material and organic matter from the samples.",
-                "Place the prepared soil into a quart bag.",
-                "Mail the soil sample to a lab via your local extension office."
-            ]
         }
     ]
 }

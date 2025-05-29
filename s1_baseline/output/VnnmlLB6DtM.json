@@ -5,91 +5,31 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Flipping front tires to reverse directional arrow for increased tire life and better traction during backing.",
+            "task": "Tire Direction and Loader Operations",
             "subtasks": [
-                "Identify front tires with directional arrows indicating travel direction.",
-                "Rotate tires such that directional arrows face forward during normal operation.",
-                "For loader-heavy operations, adjust front tires to lay lugs in reverse for increased longevity and traction when backing."
+                "Check front tire rolling direction and align directional arrows forward",
+                "Reverse lug direction on tires for loader operations if mainly used for loader tasks",
+                "Adjust rear wheel positions using bolt plates for stability and lateral width up to 75 inches",
+                "Use proper loader bucket positions when leveling in reverse (less than 40 degrees below level) to avoid damage"
             ]
         },
         {
-            "task": "Proper procedure for freeing a mired machine to prevent tipping hazards.",
+            "task": "Safety Procedures and Troubleshooting",
             "subtasks": [
-                "Assess current position and surroundings of the mired machine (tipped back possible).",
-                "Back the machine out rather than driving forward to avoid rear tire lock-up and tipping.",
-                "Unload any towed implements and dig out mud from behind the rear wheels.",
-                "Use boards or similar to provide better traction behind the rear wheels."
+                "Back out of mired conditions instead of driving forward to prevent tipping",
+                "Unhook towed implements and dig/mound support if stuck",
+                "Lower ROPS (Roll Over Protection Structure) when passing through low-clearance areas but always use seatbelt when upright",
+                "Close fuel shutoff valve during trailer transport"
             ]
         },
         {
-            "task": "Regular maintenance checks and service intervals extension consideration.",
+            "task": "Maintenance and Operational Tips",
             "subtasks": [
-                "Check coolant annually; extend service interval to six years or 6,000 hours.",
-                "Flush and replace coolant when performing maintenance.",
-                "For regular machine upkeep, follow extended service intervals as applicable (no explicit steps, but mentioned to be aware)."
-            ]
-        },
-        {
-            "task": "Proper seatbelt usage in relation to Roll Over Protective Structures (ROPS) position.",
-            "subtasks": [
-                "With ROPS in folded position, use seatbelt when tipping risk is lower.",
-                "Keep ROPS in the fully upright position to maximize rollover protection.",
-                "If ROPS are lowered, ensure the seatbelt is off to allow quick egress if tipping occurs (inferences drawn from the manual's recommendation)."
-            ]
-        },
-        {
-            "task": "Correct fuel shutoff procedure when transporting a machine on a trailer.",
-            "subtasks": [
-                "Close the fuel shutoff valve before transporting.",
-                "Position the machine on the trailer such that the hood or engine cover opens from the rear."
-            ]
-        },
-        {
-            "task": "Loader operation tips for optimal bucket pitch and stability.",
-            "subtasks": [
-                "When leveling in reverse, keep the bucket less than 40 degrees below level to prevent edge damage.",
-                "Maximize lateral stability by adjusting rear wheel positions (up to 75 inches wide) and using weight distribution aids like duallys or ballast.",
-                "Adjust front wheels\u2019 offset plates for narrow or wide stance as needed (but note loader incompatibility if using wide stance)."
-            ]
-        },
-        {
-            "task": "Safe approach and removal of material piles.",
-            "subtasks": [
-                "When removing from a high pile, start by scooping the top to prevent material collapse.",
-                "For manual pile removal, enter the pile carefully, with the bucket level, especially if the pile is tall, to avoid tipping hazards (though rationale contradicts common procedure, making this a potential trick)."
-            ]
-        },
-        {
-            "task": "Utilizing multiple wheel positions for varying lateral stability requirements.",
-            "subtasks": [
-                "Familiarize with the number of rear wheel positions available (up to eight with R-R4 tread).",
-                "Adjust wheel positions to 51 inches or 75 inches for narrowest or widest stability as needed.",
-                "Be aware that loader operation is not possible in the widest wheel position (only a note, not a blind subtask)."
-            ]
-        },
-        {
-            "task": "Alternative practices for tire mounting direction during specific operations (loader-intensive use).",
-            "subtasks": []
-        },
-        {
-            "task": "Understanding the importance of greasing through a user-friendly system to prevent system breakdowns (grease distribution task).",
-            "subtasks": [
-                "Familiarize oneself with the Rethink Greasing system's operation (plug and play, no messy plunger).",
-                "Regularly check and apply grease as part of routine maintenance."
-            ]
-        },
-        {
-            "task": "Addressing ROPS fold-out safety during transport maneuvers.",
-            "subtasks": []
-        },
-        {
-            "task": "Loading considerations for optimal center of gravity and floor plan usage in trailers (tipping hazards).",
-            "subtasks": []
-        },
-        {
-            "task": "Alternative loader leveling technique when moving forward.",
-            "subtasks": [
-                "Level the bucket when moving forward to avoid edge damage and jamming (contrasts with reverse operation where float is preferred)."
+                "Flush coolant every 6,000 hours or six years for extended service intervals",
+                "Properly seat the engine speed for PTO engagement (1500 RPM or less or maximum for specific models)",
+                "Use grease lube shuttle for easier and mess-free grease application",
+                "Review and follow specific manual procedures for tasks like ballast weight and liquid ballast placement",
+                "Adopt float mode and proper elevation when using the loader to prevent edge bending and damage"
             ]
         }
     ]

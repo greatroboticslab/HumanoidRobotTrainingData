@@ -5,20 +5,96 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Pre-Start Check (Walk-Around Inspection)**",
+            "task": "Pre-start check of a crawler tractor.",
+            "subtasks": [
+                "Inspect crawler attachment for worn or damaged parts.",
+                "Check tracks for worn sprocket teeth, oblong seat, worn pins and bushings, and smooth rollers.",
+                "Inspect hydraulic fluid hoses for cracks and pinching.",
+                "Check blade angle and lift cylinders for hydraulic leaks.",
+                "Look for fluid leaks in the engine compartment, including radiator, coolant, and cylinder seals.",
+                "Check fluid levels of engine coolant, engine oil, and hydraulic oil.",
+                "Drain potentially contaminated fuel from the tank.",
+                "Inspect engine's air filter system, including pre-cleaner screen and air filter elements.",
+                "Check battery connections and fill with distilled water if needed.",
+                "Record hours of engine operation for scheduling maintenance."
+            ]
+        },
+        {
+            "task": "Equipment warm-up check.",
+            "subtasks": [
+                "Ensure all personnel are clear of tractor.",
+                "Start engine and let it idle for 5-10 minutes to build oil pressure and reach operating temperatures.",
+                "Listen for engine and equipment noises. Check gauges for oil pressure, hydraulic pressure, temperature, and fuel levels.",
+                "Test steering clutches and brakes."
+            ]
+        },
+        {
+            "task": "Daily operating check.",
+            "subtasks": [
+                "Monitor engine noises and gauges for unusual activity during operation.",
+                "Check track adjustment to ensure proper tightness."
+            ]
+        },
+        {
+            "task": "Shutdown check.",
+            "subtasks": [
+                "Park the tractor on a level surface, rest attachments on the ground, set parking brake.",
+                "Idle engine for 5 minutes before shutdown.",
+                "Refill fuel tank and clean fuel lines.",
+                "Apply lubrication as per manufacturer's guidelines.",
+                "Remove dirt and material from tracks and equipment surfaces."
+            ]
+        },
+        {
+            "task": "Pre-start check of a crawler tractor",
             "subtasks": []
         },
         {
-            "task": "Equipment Warm-Up Check (Inside the Cab)**",
+            "task": "Equipment warm-up check",
             "subtasks": []
         },
         {
-            "task": "Daily Operating Check (During Use)**",
+            "task": "Daily operating check",
             "subtasks": []
         },
         {
-            "task": "Shutdown Check**",
+            "task": "Shutdown check",
             "subtasks": []
+        },
+        {
+            "task": "Pre-start check of a crawler tractor.",
+            "subtasks": [
+                "Inspect crawler attachment for worn or damaged parts.",
+                "Check tracks for worn components.",
+                "Inspect hydraulic fluid hoses and cylinders.",
+                "Check fluid levels and drain fuel tank.",
+                "Inspect engine's air filter system.",
+                "Check battery and connections.",
+                "Record hours of engine operation."
+            ]
+        },
+        {
+            "task": "Equipment warm-up check.",
+            "subtasks": [
+                "Start engine and warm-up.",
+                "Listen for engine and equipment noises.",
+                "Check operation of controls and systems."
+            ]
+        },
+        {
+            "task": "Daily operating check.",
+            "subtasks": [
+                "Monitor equipment performance.",
+                "Adjust track tension."
+            ]
+        },
+        {
+            "task": "Shutdown check.",
+            "subtasks": [
+                "Park and secure the tractor.",
+                "Perform post-operation maintenance.",
+                "Document the shutdown and next start."
+            ]
         }
     ]
 }

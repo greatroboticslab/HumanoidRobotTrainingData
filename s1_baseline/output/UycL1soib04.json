@@ -3,5 +3,23 @@
     "title": "Furrow Irrigation System - III",
     "url": "https://www.youtube.com/watch?v=UycL1soib04",
     "category": "Education",
-    "tasks": []
+    "tasks": [
+        {
+            "task": "Irrigation System Design and Evaluation",
+            "subtasks": [
+                "Convert net irrigation depth requirement (75 mm) into design cutoff time (TCO)",
+                "Calculate average infiltration opportunity time (TO) for the furrow",
+                "Determine gross depth of water application (YG) and average depth (Y_avg)",
+                "Compute surface runoff (DRO) and deep percolation losses",
+                "Evaluate distribution pattern efficiency (\u03b7)"
+            ]
+        },
+        {
+            "task": "Cutback Irrigation System Optimization",
+            "subtasks": [
+                "Define cutback system parameters",
+                "Recalculate infiltration timing and efficiency with adjusted parameters"
+            ]
+        }
+    ]
 }

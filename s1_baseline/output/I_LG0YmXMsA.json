@@ -5,92 +5,65 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Planting cotton",
+            "task": "Plowing and Soil Preparation",
             "subtasks": [
-                "Plowing the field to a depth of 20-30 cm",
-                "Leveling the soil",
-                "Testing and adjusting soil pH",
-                "Applying organic fertilizers",
-                "Mixing decomposed organic matter into the soil",
-                "Applying chemical fertilizers (\u6c2e\u3001\u78f7\u3001\u94be)",
-                "Ensuring proper seed treatment (\u6d78\u79cd\u50ac\u82bd)",
-                "Sowing cotton seeds at the correct spacing",
-                "Irrigating immediately after sowing",
-                "Monitoring soil moisture and adjusting irrigation as needed"
+                "Drive the tractor to the field.",
+                "Operate the plowing equipment to turn over the soil to a depth of 20-30 cm.",
+                "Break up any compacted soil layers.",
+                "Level the soil surface after plowing."
             ]
         },
         {
-            "task": "Weed and pest control",
+            "task": "Adjusting Soil pH and Fertilization",
             "subtasks": [
-                "Removing weeds mechanically or chemically",
-                "Applying pesticides for pest control",
-                "Implementing biological control methods (\u5f15\u5165\u5929\u654c)"
+                "Test the soil pH and adjust to the optimal range (6-7) with lime if necessary.",
+                "Apply organic fertilizers by mixing decomposed matter into the soil to improve fertility and moisture retention.",
+                "Apply chemical fertilizers (Nitrogen, Phosphorus, Potassium) in the correct ratios for different growth stages.",
+                "Use appropriate application techniques (e.g., base and top dressing) during key growth phases."
             ]
         },
         {
-            "task": "Harvesting cotton",
+            "task": "Planting Cotton Seeds",
             "subtasks": [
-                "Using modern cotton harvesters",
-                "Minimizing damage to plants during collection",
-                "Cleaning and compressing cotton fibers on the machine",
-                "Conducting quality assessments during harvesting"
+                "Soak cotton seeds in warm water for 8-10 hours to stimulate germination.",
+                "Plant seeds at correct spacing (rows 60-90 cm apart, seeds 20-30 cm apart within rows).",
+                "Apply light irrigation immediately after sowing.",
+                "Monitor soil moisture levels during early growth stages."
             ]
         },
         {
-            "task": "Processing cotton",
+            "task": "Plant Care and Maintenance",
             "subtasks": [
-                "Removing impurities from raw cotton",
-                "Combing to straighten fibers",
-                "Drawing into thin strips",
-                "Spinning into yarn or fabric fibers",
-                "Rolling into large cotton rolls or weaving into fabric",
-                "I think these tasks cover the physical work as per the video transcript related to agriculture. So I need to structure them with MAINTASK and SUBTASK labels as requested."
+                "Water cotton plants consistently, being cautious not to create waterlogged conditions.",
+                "Use mulch or weedicides to control weeds that compete with cotton for nutrients.",
+                "Apply pesticides and biological control measures to manage pests and diseases (e.g., bull worms, sap-sucking insects, root rot).",
+                "Practice pruning and pinching to enhance yield and fiber quality by removing old leaves and directing nutrients to bowls."
             ]
         },
         {
-            "task": "Planting cotton",
+            "task": "Harvesting Cotton",
             "subtasks": [
-                "Plowing the field to a depth of 20-30 cm",
-                "Leveling the soil",
-                "Testing soil pH and adjusting with lime",
-                "Applying organic fertilizers and mixing into soil",
-                "Applying chemical fertilizers (\u6c2e\u3001\u78f7\u3001\u94be)",
-                "Ensuring proper seed treatment (\u6d78\u79cd\u50ac\u82bd)",
-                "Sowing cotton seeds at correct spacing",
-                "Irrigating immediately after sowing and monitoring moisture"
+                "Prepare the field for harvesting by ensuring plants are mature and prepared for mechanical picking.",
+                "Operate a modern cotton harvester equipped with mechanical arms or rotating components.",
+                "Ensure gentle handling of cotton bowls to prevent damage during collection.",
+                "Use automatic conveyors to clean and compress cotton into bales within the machine."
             ]
         },
         {
-            "task": "Weed and pest control",
+            "task": "Baling and Transportation",
             "subtasks": [
-                "Removing weeds (mulch or weedicides)",
-                "Applying pesticides for pest control",
-                "Implementing biological control measures (\u5f15\u5165\u5929\u654c)"
+                "Transfer compressed bales from the harvester to trucks or containers for transportation.",
+                "Wrap bales in protective materials to prevent moisture and contamination during transit.",
+                "Load bales onto vehicles for efficient and safe delivery to processing plants."
             ]
         },
         {
-            "task": "Pruning and pinching",
+            "task": "Cotton Processing",
             "subtasks": [
-                "Removing old leaves",
-                "Pinching plant tips"
-            ]
-        },
-        {
-            "task": "Harvesting cotton",
-            "subtasks": [
-                "Using modern cotton harvesters",
-                "Ensuring minimal damage during collection",
-                "Cleaning and compressing cotton on the machine"
-            ]
-        },
-        {
-            "task": "Processing cotton",
-            "subtasks": [
-                "Removing impurities from raw cotton",
-                "Combing to straighten fibers",
-                "Drawing fibers into thin strips",
-                "Spinning into yarn or fabric fibers",
-                "Rolling into large cotton rolls or weaving into fabric"
+                "Clean raw cotton to remove seeds and impurities at processing plants.",
+                "Compress and comb cotton fibers to straighten them.",
+                "Spool cotton into yarn or fabric fibers using modern spinning machinery.",
+                "Weave cotton into fabric using automated weaving machines for various end-uses."
             ]
         }
     ]

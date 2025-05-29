@@ -5,31 +5,86 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Cultivate sweet corn from seed to harvest",
+            "task": "Planting a sweet corn seed",
             "subtasks": [
-                "Select specifically bred sweet corn seeds",
-                "Prepare planting soil with rich nutrients and good drainage",
-                "Plant seeds at appropriate depth (1 inch) and spacing (8-12 inches apart)",
-                "Water plants regularly but avoid overwatering",
-                "Protect plants from pests using natural predators or eco-friendly pesticides",
-                "Monitor ear development and timing of harvest (when silk turns brown, husk is green)",
-                "Minimize time between harvest and consumption",
-                "Alternatively, freeze harvested corn for longer storage"
+                "Preparing the soil (checking nutrients, drainage)",
+                "Planting the seed (depth and spacing)"
             ]
         },
         {
-            "task": "Understand the benefits of modern sweet corn cultivation",
+            "task": "Nurturing the corn plants",
             "subtasks": [
-                "Appreciate higher crop yields",
-                "Recognize improved crop quality",
-                "Acknowledge sustainable farming practices"
+                "Regular watering (amount and frequency)",
+                "Pest protection (using natural predators or eco-friendly pesticides)"
             ]
         },
         {
-            "task": "Reflect on the role of technology in agriculture",
+            "task": "Harvesting the corn",
             "subtasks": [
-                "Recognize the combination of traditional methods and modern technology",
-                "Marve at human ingenuity in farming"
+                "Checking for maturity (silks turning brown, green husk)",
+                "Timing of harvest (swollen, yellow kernels)"
+            ]
+        },
+        {
+            "task": "Post-harvest preservation (cooking, freezing)",
+            "subtasks": [
+                "\\<main task\\>, followed by SUBTASK: \\<subtask\\>\\n\" for each step."
+            ]
+        },
+        {
+            "task": "Soil Preparation",
+            "subtasks": [
+                "Check soil nutrients",
+                "Ensure proper drainage"
+            ]
+        },
+        {
+            "task": "Planting",
+            "subtasks": [
+                "Plant seeds at 1-inch depth",
+                "Space plants 8-12 inches apart"
+            ]
+        },
+        {
+            "task": "Nurturing",
+            "subtasks": [
+                "Regular watering (appropriate amount and frequency)",
+                "Pest protection (using natural or eco-friendly methods)"
+            ]
+        },
+        {
+            "task": "Harvesting",
+            "subtasks": [
+                "Check silk color and husk condition for maturity",
+                "Harvest ears when kernels are swollen and turned yellow"
+            ]
+        },
+        {
+            "task": "MAINTASK: Soil Preparation",
+            "subtasks": [
+                "Check soil nutrients",
+                "Ensure proper drainage"
+            ]
+        },
+        {
+            "task": "Planting",
+            "subtasks": [
+                "Plant seeds at 1-inch depth",
+                "Space plants 8-12 inches apart"
+            ]
+        },
+        {
+            "task": "Nurturing",
+            "subtasks": [
+                "Regular watering (appropriate amount and frequency)",
+                "Pest protection (using natural or eco-friendly methods)"
+            ]
+        },
+        {
+            "task": "Harvesting",
+            "subtasks": [
+                "Check silk color and husk condition for maturity",
+                "Harvest ears when kernels are swollen and turned yellow"
             ]
         }
     ]

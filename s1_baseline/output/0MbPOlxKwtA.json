@@ -5,22 +5,33 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Prepare for hurricane safety and protect livelihoods",
+            "task": "Prepare for hurricane safety by ensuring water supply for crops.",
             "subtasks": [
-                "Fill containers with water for post-storm use",
-                "Mulch bare rows to prevent erosion and disease",
-                "Rib mature crops to prevent splitting",
-                "Harvest sensitive plants like coconuts and cut flowers",
-                "Fortify field trellises and protect crops",
-                "Secure farm equipment and supplies",
-                "Store gas for essential farm machinery"
+                "Fill 5-gallon buckets with water.",
+                "Mulch bare rows to prevent erosion and wind damage.",
+                "Minimize soil splash onto crops to reduce disease risk."
             ]
         },
         {
-            "task": "Educate viewers about hurricane preparedness",
+            "task": "Protect crops from hurricane damage.",
             "subtasks": [
-                "Remind of hurricane season and the importance of preparedness"
+                "Rib mature crops like tomatoes and melons.",
+                "Harvest coconuts and cut flowers before storm.",
+                "Fortify field trellises.",
+                "Lay trellis plants flat to ground if possible."
             ]
+        },
+        {
+            "task": "Secure farm equipment and supplies.",
+            "subtasks": [
+                "Secure tractors and other equipment.",
+                "Store market baskets, crates, dip tape, and irrigation pipes indoors or covered areas.",
+                "Refuel generators with enough gas for power needs."
+            ]
+        },
+        {
+            "task": "carrying water? Wait, is this general enough? Maybe MAINTASK: Prepare for hurricane safety by ensuring water supply for crops. Then subtasks: fill buckets, maybe get the water, but the transcript says to \"fill 5-gallon buckets and other containers with water.\" So actually, collecting water might also be a task. But figuring out where to get the water\u2014maybe rainwater harvesting before the storm? But the transcript doesn't mention that. Maybe just filling containers. Then mulching bare rows. That's another task. Why? To prevent erosion and wind damage, and also to stop soil splashing onto the crops. So maybe that's a task to mulch. And mulching would involve physical labor like applying mulch. Then ribbing mature crops like tomatoes and melons because they'll split after heavy rains. That's another task. Maybe \"rib\" refers to some kind of support or pruning. Then harvesting coconuts and cut flowers before the storm because they can be damaged. So that's picking fruit and maybe arranging for flower harvest. But the transcript mentions \"consider harvesting cut flowers right before the storm as they will be easily damaged.\" So maybe a task is to prepare for harvesting. Also, fortify field trellises to avoid losing crops. So that's another physical task: reinforcing the structures. Then, if possible, unhang trellis plants and lay them flat. That's another action. Securing farm equipment: tractors and other supplies. That could be storing them in a shed or tying them down. Then make sure all equipment is secured. Unhanging and laying flat the plants, securing supplies. Also, securing market baskets and other items that could become missiles or get washed away. So that's like collecting all loose items and putting them in a safe place. The transcript mentions not leaving those things where they can be blown away or carried away by floodwaters. Then, stock up on gas for generators. So that's another task: refueling equipment. So maybe tasks include: storing items inside, securing them, checking fuel. All right, tractors and other supplies\u2014so maybe move them to a sheltered area? The transcript says \"secure\" them. Yeah, so that's the task.",
+            "subtasks": []
         }
     ]
 }

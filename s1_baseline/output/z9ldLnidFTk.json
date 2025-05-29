@@ -5,28 +5,58 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Adjusting an agricultural implement on a toolbar using a lock pin.",
+            "task": "Planting soybeans",
             "subtasks": [
-                "Approach the toolbar and implement.",
-                "Align the implement with the desired position on the toolbar.",
-                "Rotate the lock pin into place to secure the implement.",
-                "Confirm the implement is securely fastened."
+                "Walking between rows",
+                "Holding planting equipment",
+                "Adjusting planting depth",
+                "Monitoring seed dispensing",
+                "Checking soil moisture"
             ]
         },
         {
-            "task": "Setting the velvet begging depth on an agricultural implement.",
+            "task": "- Planting Soybeans (MAINTASK)",
             "subtasks": [
-                "Identify the depth control knob or gauge wheel.",
-                "Rotate the knob or adjust the gauge wheel to the desired depth.",
-                "Verify the depth using a depth gauge or visual check."
+                "- Walking between rows (SUBTASK)",
+                "- Holding planting equipment (SUBTASK)",
+                "- Adjusting planting depth (SUBTASK)",
+                "- Monitoring seed dispensing (SUBTASK)"
             ]
         },
         {
-            "task": "Adjusting the position of an agricultural implement on a toolbar using a lock pin.",
+            "task": "- Planting Soybeans (MAINTASK)",
             "subtasks": [
-                "Align the implement's attachment on the toolbar to the desired position.",
-                "Insert the lock pin into the selected position on the toolbar.",
-                "Rotate the lock pin until it secures the implement."
+                "- Walking between rows (SUBTASK)",
+                "- Holding planting equipment (SUBTASK)",
+                "- Adjusting planting depth (SUBTASK)",
+                "- Monitoring seed dispensing (which includes checking seed drop) (SUBTASK)"
+            ]
+        },
+        {
+            "task": "Planting soybeans",
+            "subtasks": [
+                "Walking between rows",
+                "Holding planting equipment",
+                "Adjusting planting depth",
+                "Monitoring seed dispensing"
+            ]
+        },
+        {
+            "task": "MAINTASK: Planting soybeans",
+            "subtasks": [
+                "Walking between rows",
+                "Holding planting equipment",
+                "Adjusting planting depth",
+                "Monitoring seed dispensing"
+            ]
+        },
+        {
+            "task": "Planting soybeans",
+            "subtasks": [
+                "Walking between rows",
+                "Holding planting equipment",
+                "Adjusting planting depth",
+                "Monitoring seed dispensing"
             ]
         }
     ]

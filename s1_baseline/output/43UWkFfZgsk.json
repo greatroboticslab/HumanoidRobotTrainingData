@@ -5,115 +5,128 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Conducting agricultural research at CIMMET's Obregon research station.",
+            "task": "Conducting research on rain-fed wheat systems at CIMMET's research station.",
             "subtasks": [
-                "Observing wheat growth under controlled irrigation.",
-                "Comparing wheat yields between zero tillage and traditionally tilled fields.",
-                "Simulating various moisture conditions to evaluate wheat stress responses.",
-                "Harvesting wheat samples using combine harvesters.",
-                "Analyzing grain results to determine yield differences."
+                "Observing wheat yield under zero tillage and conventional tillage.",
+                "Applying water stress to wheat plants through precision irrigation.",
+                "Harvesting wheat grain using combine harvesters.",
+                "Analyzing grain yield differences between tillage methods under stress."
             ]
         },
         {
-            "task": "Participating in wheat breeding for rain-fed systems.",
+            "task": "Analyzing wheat grain under stress conditions.",
             "subtasks": [
-                "Evaluating genotypes in semi-arid yield trials.",
-                "Noting initial observations of wheat stress compensation mechanisms.",
-                "Assessing the impact of tillage methods on water-stressed wheat."
+                "Evaluating physical compensation mechanisms in wheat lines under water stress.",
+                "Comparing grain filling in zero tillage vs. plowed fields during drought."
             ]
         },
         {
-            "task": "Conducting agricultural research on rain-fed wheat systems.",
+            "task": "Managing irrigation for experimental plots.",
             "subtasks": [
-                "Designing trials to compare zero tillage vs. tilled wheat under precision water control.",
-                "Managing water application to simulate various moisture stress levels.",
-                "Observing wheat growth and stress indicators during the growing season.",
-                "Harvesting grain using specialized combine harvesters.",
-                "Analyzing grain yield and quality data to determine treatment effects.",
-                "Evaluating wheat genotypes for their response to water stress under different tillage practices."
+                "Controlling water distribution to simulate drought or monsoon conditions.",
+                "Precisely measuring applied water for each trial.",
+                "Adjusting irrigation schedules based on research objectives."
             ]
         },
         {
-            "task": "Conducting agricultural research on rain-fed wheat systems",
+            "task": "Implementing zero tillage and conventional tillage practices.",
             "subtasks": [
-                "Designing trials to compare zero tillage vs. tilled wheat under precision water control",
-                "Managing water application for controlled irrigation",
-                "Observing wheat growth and noting stress responses during critical stages",
-                "Harvesting grain using specialized mini combine harvesters",
-                "Analyzing grain yield and quality data to determine treatment outcomes"
+                "Preparing experimental plots for zero tillage.",
+                "Performing conventional plowing for the control plots.",
+                "Managing soil erosion and maintaining soil health with zero tillage.",
+                "Comparing soil moisture retention in zero tillage vs. conventional plots."
             ]
         },
         {
-            "task": "Participating in wheat breeding for rain-fed systems",
+            "task": "Observing wheat growth and development.",
             "subtasks": [
-                "Managing test plots of wheat varieties in zero tillage and conventional tillage",
-                "Evaluating genotypes in semi-arid yield trials (stress tests)",
-                "Observing early signs of stress and recording differences in plant development"
+                "Monitoring wheat plants throughout the growing season.",
+                "Assessing plant health, disease, and pest impacts.",
+                "Recording growth stages and phenology data."
             ]
         },
         {
-            "task": "Testing rain-fed wheat genotypes in international trials",
+            "task": "Handling combine harvesters for wheat harvesting.",
             "subtasks": [
-                "Participating in multi-location testing of new wheat lines",
-                "Evaluating growth and yield data across various environments (including semi-arid)"
+                "Operating combine harvesters to collect wheat grain.",
+                "Ensuring proper grain collection and storage.",
+                "Maintaining and cleaning combine harvesters after use."
             ]
         },
         {
-            "task": "Conducting agricultural research on rain-fed wheat systems",
+            "task": "Conducting grain analysis for yield determination.",
             "subtasks": [
-                "Designing trials comparing zero tillage vs. conventional tillage",
-                "Managing water application for controlled irrigation",
-                "Observing wheat growth and noting stress responses during development",
-                "Harvesting grain using combine harvesters",
-                "Analyzing grain data to compare treatments"
+                "Separating and weighing harvested grain samples.",
+                "Assessing grain fill and moisture content.",
+                "Comparing yield data across\u4e0d\u540c\u5904\u7406.",
+                "Documenting results for further analysis."
             ]
         },
         {
-            "task": "Participating in wheat breeding for rain-fed environments",
-            "subtasks": [
-                "Evaluating test plot performance of genotypes under zero tillage and conventional tillage",
-                "Noting initial observations of plant stress and growth differences",
-                "Assessing the impact of different tillage on stress tolerance"
-            ]
-        },
-        {
-            "task": "So, overall, the final answer should be those two main tasks with associated subtasks. The output is as structured as possible with MAINTASK followed by list of subtasks (one per line). Start a new MAINTASK with a new task if a new main activity is identified.",
+            "task": "Each of these could be a MAINTASK with corresponding subtasks. The irrigation management is part of the research setup, so under maintaining\u8bd5\u9a8c\u6761\u4ef6. The tillage practices are also part of the treatment application. Monitoring the plant is part of data collection. The combine harvesting and grain analysis are at the end.",
             "subtasks": []
         },
         {
-            "task": "Conducting agricultural research at CIMMET's Obregon research station.",
+            "task": "Conducting research on rain-fed wheat systems at CIMMET's station.",
             "subtasks": [
-                "Observing wheat growth under controlled irrigation.",
-                "Comparing wheat yields between zero tillage and normally tilled fields.",
-                "Simulating various moisture conditions to evaluate wheat stress responses.",
-                "Harvesting wheat samples using combine harvesters.",
-                "Analyzing grain results to determine yield differences."
+                "Observing wheat yield under zero tillage and conventional tillage.",
+                "Applying water stress to wheat plants through precision irrigation.",
+                "Harvesting wheat grain using combine harvesters.",
+                "Analyzing grain yield differences between tillage methods under stress.",
+                "Managing irrigation for experimental plots.",
+                "Implementing zero tillage and conventional tillage practices.",
+                "Monitoring wheat growth and development."
             ]
         },
         {
-            "task": "Participating in wheat breeding for rain-fed systems.",
+            "task": "Conducting research on rain-fed wheat systems.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Conducting research on rain-fed wheat systems at CIMMET's station.<br>",
             "subtasks": [
-                "Evaluating genotypes in semi-arid yield trials.",
-                "Noting initial observations of wheat stress compensation mechanisms.",
-                "Assessing the impact of tillage methods on water-stressed wheat."
+                "Observing wheat yield under zero tillage and conventional tillage.<br>",
+                "Applying water stress to wheat plants through precision irrigation.<br>",
+                "Harvesting wheat grain using combine harvesters.<br>",
+                "Analyzing grain yield differences between tillage methods under stress.<br>"
             ]
         },
         {
-            "task": "Conducting Agricultural Research at CIMMET\u2019s Obregon Research Station",
+            "task": "Managing irrigation for experimental plots.<br>",
             "subtasks": [
-                "Observing Wheat Growth Under Controlled Irrigation**",
-                "Comparing Wheat Yields Between Zero Tillage and Normally Tilled Fields**",
-                "Simulating Various Moisture Conditions to Evaluate Wheat Stress Responses**",
-                "Harvesting Wheat Samples Using Combine Harvesters**",
-                "Analyzing Grain Results to Determine Yield Differences**"
+                "Precisely measuring and distributing water for each trial.<br>",
+                "Adjusting irrigation schedules based on research objectives.<br>"
             ]
         },
         {
-            "task": "Participating in Wheat Breeding for Rain-Fed Systems",
+            "task": "Implementing zero tillage and conventional tillage practices.<br>",
             "subtasks": [
-                "Evaluating Genotypes in Semi-Arid Yield Trials**",
-                "Noting Initial Observations of Wheat Stress Compensation Mechanisms**",
-                "Assessing the Impact of Tillage Methods on Water-Stressed Wheat**"
+                "Preparing experimental plots for zero tillage.<br>",
+                "Performing conventional plowing for control plots.<br>",
+                "Maintaining soil health with zero tillage.<br>"
+            ]
+        },
+        {
+            "task": "Monitoring wheat growth and development.<br>",
+            "subtasks": [
+                "Assessing plant health, disease, and pest impacts.<br>",
+                "Recording growth stages and phenology data.<br>"
+            ]
+        },
+        {
+            "task": "Operating combine harvesters for wheat harvesting.<br>",
+            "subtasks": [
+                "Collecting wheat grain samples.<br>",
+                "Storing harvested grain properly.<br>",
+                "Maintaining and cleaning combine harvesters.<br>"
+            ]
+        },
+        {
+            "task": "Analyzing grain for yield determination.<br>",
+            "subtasks": [
+                "Separating and weighing grain samples.<br>",
+                "Assessing grain fill and moisture content.<br>",
+                "Comparing yield data across different treatments.<br>"
             ]
         }
     ]

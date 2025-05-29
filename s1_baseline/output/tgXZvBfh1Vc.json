@@ -5,46 +5,37 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Preparing a Organic Pesticide Solution",
+            "task": "Preparing an organic pesticide solution",
             "subtasks": [
-                "Collecting materials (aloe vera, red pepper, marigold, tomato leaves, onion leaves, red pepper)",
-                "Pound and chop the materials to release their active ingredients",
-                "Mix the pounded materials in a container with water (10 liters for this example)",
-                "Allow the mixture to sit for three days to allow decomposition and release of active ingredients (decoction)",
-                "Strain the mixture to separate solids from the liquid solution",
-                "Apply the solution to crops as a natural pesticide"
+                "Collecting necessary ingredients (aloe vera, red pepper, tomato leaves, onion, marigold)",
+                "Crushing and chopping the ingredients into small pieces",
+                "Mixing the crushed ingredients in a container",
+                "Adding water to the mixture for a 3-day decoction",
+                "Straining the solution to remove solid particles",
+                "Diluting the concentrated solution to 10 liters",
+                "Storing the organic pesticide for application on crops",
+                "Crush and chop the ingredients (aloe vera, red pepper, tomato leaves, onion, marigold)",
+                "Mix the crushed/Chopped ingredients with water. They pour the crushed materials into a container and start adding water. Then, after combining, they let it sit for three days. So maybe \"Add water to the mix for 3 days\" is a subtask."
             ]
         },
         {
-            "task": "Collecting Ingredients",
+            "task": "Preparing an organic pesticide solution",
             "subtasks": [
-                "Gather aloe vera, red pepper, marigold leaves, tomato leaves, onion leaves, and water"
+                "Crush and chop the ingredients (aloe vera, red pepper, tomato leaves, onion, marigold)",
+                "Mix the crushed ingredients with water in a container",
+                "Allow the mixture to sit for three days for decotion",
+                "Strain the mixture to remove solids",
+                "Dilute the solution to 10 liters with water"
             ]
         },
         {
-            "task": "Crushing and Mixing Ingredients",
+            "task": "The MAINTASK is preparing an organic pesticide solution using aloe vera, red pepper, tomato leaves, onion, and marigold. The subtasks are:",
             "subtasks": [
-                "Crush aloe vera, red pepper, marigold leaves, tomato leaves, and onion leaves using a mortar and pestle or chopping",
-                "Combine crushed materials in a large container"
-            ]
-        },
-        {
-            "task": "Watering and Duration",
-            "subtasks": [
-                "Add enough water (10 liters in this case) to cover the crushed materials",
-                "Seal the container and let it sit undisturbed for 3 days to allow decomposition and release of active compounds"
-            ]
-        },
-        {
-            "task": "Filtering the Solution",
-            "subtasks": [
-                "Strain the liquid through a cheesecloth or fine mesh sieve to remove solid particles"
-            ]
-        },
-        {
-            "task": "Applying the Pesticide",
-            "subtasks": [
-                "Dilute the concentrate if necessary and spray on crops or pour around plants"
+                "Crush and chop the necessary ingredients (aloe vera, red pepper, tomato leaves, onion, marigold).",
+                "Mix the crushed ingredients with water in a container.",
+                "Allow the mixture to sit for three days for decoction.",
+                "Strain the mixture to remove solid particles.",
+                "Dilute the solution to 10 liters with water."
             ]
         }
     ]

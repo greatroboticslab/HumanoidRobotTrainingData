@@ -5,29 +5,40 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Conducting Field Trials for Furrow Irrigation System Design",
+            "task": "Conducting field trials for evaluating furrow irrigation design parameters",
             "subtasks": [
-                "Identify representative furrows for the trial segment",
-                "Select a range of extreme stream sizes for testing (e.g., low and high)",
-                "Measure the advance time of water from upstream to downstream ends",
-                "Plot advance curves for different stream sizes to visualize their behavior",
-                "Determine the maximum allowable non-erosive stream size",
-                "Compare the empirically determined maximum stream size with initial theoretical prediction",
-                "Adjust field length parameters using iterative procedures (e.g., changing length to achieve desired advance time)",
-                "Evaluate the relationship between field length, advance time, and efficient non-erosive flow"
+                "Selecting a representative segment of the furrow field",
+                "Choosing a range of stream sizes (e.g., Q_max, higher and lower values)",
+                "Measuring elapsed time for waterfront movement downstream",
+                "Plotting advance curves for different stream sizes",
+                "Determining the maximum allowable non-erosive stream size (Q_max)",
+                "Verifying Q_max using empirical data from field trials",
+                "Adjusting length of the furrow segment through iterative procedure if necessary",
+                "Evaluating distribution pattern efficiency (FAR) and adjusting parameters accordingly",
+                "Checking cutoff time and computing maximum depth of flow (D_max) for level basin design",
+                "Considering application efficiency (Ea) in designing irrigation systems"
             ]
         },
         {
-            "task": "Verifying Level Basin System Design Parameters",
+            "task": "Designing level basin irrigation systems",
             "subtasks": [
-                "Determine the appropriate unit stream size for the intended soil type and basin area",
-                "Calculate the net depth of infiltration using the desired time of infiltration and family curve relationships",
-                "Assess distribution pattern efficiency (FAR) and extract corresponding advance time (Tt)",
-                "Calculate the length of the basin required for the selected flow rate and unit stream size",
-                "Consider variations in soil type and infiltration rates when determining basin area and depth",
-                "Check for cutoff time (TCO) requirements and adjust D_max accordingly if necessary",
-                "Evaluate the time of advance (Tt) versus cutoff time (TCO) to determine safe operating parameters",
-                "Confirm the maximum depth of flow (D_max) in the basin, ensuring adequate ridge height for water retention"
+                "Using empirical tables for area allocation based on soil type",
+                "Defining unit stream size (Q divided by width of basin)",
+                "Calculating time of advance (Tna) using hydraulic relationships",
+                "Determining length of the level basin",
+                "Ensuring that time of advance does not exceed cutoff time for reliable infiltration",
+                "Calculating ridge size based on maximum depth of flow (D_max)",
+                "Considering distribution pattern efficiency for optimal water distribution"
+            ]
+        },
+        {
+            "task": "Ensuring accurate water application through trial runs and adjusting parameters",
+            "subtasks": [
+                "Evaluating trial runs to check alignment with empirical data",
+                "Iteratively adjusting parameters such as furrow length or stream size to optimize water use",
+                "Verifying design parameters using observed advance times and erosion levels",
+                "Using different efficiency metrics (e.g., distribution pattern ratio) to fine-tune designs",
+                "Confirming that irrigation methods meet desired efficiency and erosion control goals"
             ]
         }
     ]

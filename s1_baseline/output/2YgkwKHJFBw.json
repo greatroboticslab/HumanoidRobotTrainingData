@@ -5,43 +5,780 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Testing soil in the garden",
+            "task": "Test soil for garden",
             "subtasks": [
-                "Collecting a soil sample",
-                "Sending soil sample to lab for analysis",
-                "Buying a home soil testing kit"
+                "Collect soil sample",
+                "Send sample to lab for analysis",
+                "Buy home soil testing kit"
             ]
         },
         {
-            "task": "Using a home soil testing kit",
+            "task": "Use soil testing kit",
             "subtasks": [
-                "Adding soil to a test tube",
-                "Adding water to the test tube",
-                "Adding reagent to the test tube",
-                "Matching color in tube to color card"
+                "Fill tube with soil",
+                "Add water to tube",
+                "Add reagent to tube",
+                "Match color in tube to card"
             ]
         },
         {
-            "task": "Understanding results from soil test",
+            "task": "Interpret results",
             "subtasks": [
-                "Determining pH level",
-                "Assessing phosphorus, nitrogen, and potassium levels",
-                "Deciding whether to add fertilizer or adjust pH"
+                "Determine pH level",
+                "Check phosphorus, nitrogen, and potassium levels"
             ]
         },
         {
-            "task": "Purchasing soil testing kits",
+            "task": "Determine fertilizer or pH adjustment needs",
             "subtasks": [
-                "Shopping at garden stores",
-                "Ordering online"
+                "Calculate amount of fertilizer needed",
+                "Adjust soil pH if necessary"
             ]
         },
         {
-            "task": "Applying results to garden",
+            "task": "Test soil for garden (home method)",
+            "subtasks": []
+        },
+        {
+            "task": "Test gardening soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Therefore, the MAINTASK can be \"Test soil for garden using home kit\".",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "But if the user needs all possible actions, you could also split the \"Use the kit\" subtask into four subtasks (as per each test) but given the time constraint and the fact that color matching is critical, which is the main step, perhaps. Perhaps they needn't include the interpretation as part of the MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil for pH and macronutrients using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil for pH and nutrient content using home kit.",
+            "subtasks": []
+        },
+        {
+            "task": "Each nutrient test is a separate MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "Collect garden soil sample",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit.",
+            "subtasks": []
+        },
+        {
+            "task": "Interpret test results and plan garden fertilization.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Use home soil testing kit",
             "subtasks": [
-                "Calculating fertilizer needs",
-                "Adjusting soil pH as necessary"
+                "Fill test tube with recommended amount of soil",
+                "Add water (the guidance is to add water to the tube)",
+                "Add reagent (the catalytic component, perhaps the coloring agents)"
             ]
+        },
+        {
+            "task": "Test garden soil for pH and essential nutrients using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil in garden using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden pH and nutrients using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Perform comprehensive garden soil testing using home kit.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Determine garden soil pH and phosphorus levels using home kit.",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil in garden using home soil testing kit.",
+            "subtasks": []
+        },
+        {
+            "task": "buying the kit, collecting sample, and using it. But based on original idea now:",
+            "subtasks": []
+        },
+        {
+            "task": "Use home soil testing kit to analyze garden soil.",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Collect a soil sample",
+                "Send it to a lab (though not necessary for home kit option)",
+                "Buy a home soil testing kit for under $30"
+            ]
+        },
+        {
+            "task": "Use home soil testing kit",
+            "subtasks": [
+                "Fill tube with soil",
+                "Add water",
+                "Add reagent",
+                "Wait and observe color change",
+                "Match color to card (pH, phosphorus, etc.)",
+                "Interpret results (pH, phosphorus, nitrogen, potassium)"
+            ]
+        },
+        {
+            "task": "Determine needs",
+            "subtasks": [
+                "Calculate amount of fertilizer needed",
+                "Adjust soil pH if necessary"
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Collect a soil sample",
+                "Buy a home soil testing kit for under $30"
+            ]
+        },
+        {
+            "task": "Use home soil testing kit",
+            "subtasks": [
+                "Fill tube with soil",
+                "Add water",
+                "Add reagent",
+                "Wait and observe color change",
+                "Match color to card (pH, phosphorus, etc.)",
+                "Interpret results (pH, phosphorus, nitrogen, potassium)"
+            ]
+        },
+        {
+            "task": "Determine needs",
+            "subtasks": [
+                "Calculate amount of fertilizer needed",
+                "Adjust soil pH if necessary"
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Collect a soil sample",
+                "Send it to a lab (though not necessary for home kit option)",
+                "Buy a home soil testing kit for under $30"
+            ]
+        },
+        {
+            "task": "Use home soil testing kit",
+            "subtasks": [
+                "Fill tube with soil",
+                "Add water",
+                "Add reagent",
+                "Wait and observe color change",
+                "Match color to card (pH, phosphorus, etc.)",
+                "Interpret results (pH, phosphorus, nitrogen, potassium)"
+            ]
+        },
+        {
+            "task": "Determine needs",
+            "subtasks": [
+                "Calculate amount of fertilizer needed",
+                "Adjust soil pH if necessary"
+            ]
+        },
+        {
+            "task": "Test soil for garden**",
+            "subtasks": [
+                "** Collect a soil sample",
+                "** Buy a home soil testing kit for under $30"
+            ]
+        },
+        {
+            "task": "Use home soil testing kit**",
+            "subtasks": [
+                "** Fill tube with soil",
+                "** Add water",
+                "** Add reagent",
+                "** Wait and observe color change",
+                "** Match color to card (pH, phosphorus, etc.)",
+                "** Interpret results (pH, phosphorus, nitrogen, potassium)"
+            ]
+        },
+        {
+            "task": "Determine needs**",
+            "subtasks": [
+                "** Calculate amount of fertilizer needed",
+                "** Adjust soil pH if necessary"
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Collect a soil sample",
+                "Send it to a lab (though not necessary for home kit option)",
+                "Buy a home soil testing kit for under $30"
+            ]
+        },
+        {
+            "task": "Use home soil testing kit",
+            "subtasks": [
+                "Fill tube with soil",
+                "Add water",
+                "Add reagent",
+                "Wait and observe color change",
+                "Match color to card (pH, phosphorus, etc.)",
+                "Interpret results (pH, phosphorus, nitrogen, potassium)"
+            ]
+        },
+        {
+            "task": "Determine needs",
+            "subtasks": [
+                "Calculate amount of fertilizer needed",
+                "Adjust soil pH if necessary"
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Collect a soil sample",
+                "Buy a home soil testing kit for under $30"
+            ]
+        },
+        {
+            "task": "Use home soil testing kit",
+            "subtasks": [
+                "Fill tube with soil",
+                "Add water",
+                "Add reagent",
+                "Wait and observe color change",
+                "Match color to card (pH, phosphorus, etc.)",
+                "Interpret results (pH, phosphorus, nitrogen, potassium)"
+            ]
+        },
+        {
+            "task": "Determine needs",
+            "subtasks": [
+                "Calculate amount of fertilizer needed",
+                "Adjust soil pH if necessary"
+            ]
+        },
+        {
+            "task": "Test soil for garden}",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden}",
+            "subtasks": [
+                "** Collect a soil sample",
+                "** Buy a home soil testing kit (under $30)",
+                "** Use the home soil testing kit",
+                "** Interpret the results (pH, phosphorus, nitrogen, potassium)",
+                "** Determine the fertilizer and pH adjustment needs based on the results."
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Collect a soil sample",
+                "Buy a home soil testing kit (under $30)"
+            ]
+        },
+        {
+            "task": "Use home soil testing kit",
+            "subtasks": [
+                "Fill tube with soil",
+                "Add water",
+                "Add reagent",
+                "Wait and observe color",
+                "Match color to card",
+                "Interpret results (pH, phosphorus, nitrogen, potassium)"
+            ]
+        },
+        {
+            "task": "Determine needs",
+            "subtasks": [
+                "Calculate fertilizer amount",
+                "Adjust pH if needed"
+            ]
+        },
+        {
+            "task": "Test soil for garden**",
+            "subtasks": [
+                "** Collect a soil sample",
+                "** Purchase a home soil testing kit ($30 or less).",
+                "** Use the testing kit following instructions:",
+                "** Interpret the results for pH, phosphorus, nitrogen, and potassium.",
+                "** Determine the amount of fertilizer needed based on the test results.",
+                "** Adjust the soil pH if necessary."
+            ]
+        },
+        {
+            "task": "Test soil for garden**",
+            "subtasks": [
+                "**"
+            ]
+        },
+        {
+            "task": "Test soil for garden**",
+            "subtasks": []
+        },
+        {
+            "task": "This breakdown covers all key actions related to testing garden soil using the described home kit. The MAINTASK is broken down into general subtasks that are directly applicable.**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Collect a soil sample",
+                "Buy a home soil testing kit for under $30"
+            ]
+        },
+        {
+            "task": "Use home soil testing kit",
+            "subtasks": [
+                "Fill tube with soil",
+                "Add water",
+                "Add reagent",
+                "Wait and observe color change",
+                "Match color to card (pH, phosphorus, etc.)",
+                "Interpret results (pH, phosphorus, nitrogen, potassium)"
+            ]
+        },
+        {
+            "task": "Determine needs",
+            "subtasks": [
+                "Calculate amount of fertilizer needed",
+                "Adjust soil pH if necessary"
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Collect a soil sample",
+                "Buy a home soil testing kit for under $30"
+            ]
+        },
+        {
+            "task": "Use home soil testing kit",
+            "subtasks": [
+                "Fill tube with soil",
+                "Add water",
+                "Add reagent",
+                "Wait and observe color change",
+                "Match color to card (pH, phosphorus, etc.)",
+                "Interpret results (pH, phosphorus, nitrogen, potassium)"
+            ]
+        },
+        {
+            "task": "Determine needs",
+            "subtasks": [
+                "Calculate amount of fertilizer needed",
+                "Adjust soil pH if necessary"
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Purchase home soil testing kit",
+                "Collect soil sample"
+            ]
+        },
+        {
+            "task": "Use soil testing kit",
+            "subtasks": [
+                "Fill tube with soil",
+                "Add water",
+                "Add reagent for each test (pH, phosphorus, nitrogen, potassium)",
+                "Match colors to cards",
+                "Determine fertilizer needs",
+                "Adjust soil pH as needed"
+            ]
+        },
+        {
+            "task": "Test soil for garden**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Purchase a home soil testing kit ($30 or less).",
+                "Collect a soil sample."
+            ]
+        },
+        {
+            "task": "Test soil using home kit:",
+            "subtasks": [
+                "Fill test tube with soil.",
+                "Add water as per the kit instructions.",
+                "Add the appropriate reagent for each test.",
+                "Wait the required time for color development.",
+                "Match color with the provided card."
+            ]
+        },
+        {
+            "task": "Determine recommendations:",
+            "subtasks": [
+                "Calculate fertilizer requirements.",
+                "Adjust soil pH if necessary.**"
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Purchase home soil testing kit for under $30.",
+                "Collect soil sample."
+            ]
+        },
+        {
+            "task": "Perform soil tests using kit.",
+            "subtasks": []
+        },
+        {
+            "task": "Adjustments based on results.",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test soil for garden using home kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test soil for garden using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test garden soil using home kit**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden}",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Purchase Home Soil Testing Kit**",
+            "subtasks": []
+        },
+        {
+            "task": "Collect Soil Sample**",
+            "subtasks": []
+        },
+        {
+            "task": "Use Soil Testing Kit**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home soil testing kit**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "Purchase home soil testing kit",
+                "Collect soil sample"
+            ]
+        },
+        {
+            "task": "Perform test",
+            "subtasks": [
+                "Add soil, water, reagent",
+                "Wait for results",
+                "Match color to card",
+                "Interpret results"
+            ]
+        },
+        {
+            "task": "Test garden soil using home kit**",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test garden soil with home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil",
+            "subtasks": [
+                "SUBTASKs include"
+            ]
+        },
+        {
+            "task": "Test soil for garden using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "** Test garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit**",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden using kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "** Test soil for garden using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil in a garden using a home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Soil Testing**",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil**",
+            "subtasks": []
+        },
+        {
+            "task": "Perform soil test** for garden",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden**",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": [
+                "**"
+            ]
+        },
+        {
+            "task": "** Test garden soil",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "** Test soil for garden using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden using home kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test garden soil using home kit**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil in your garden using a home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil with a home kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test garden soil using home kit**",
+            "subtasks": []
+        },
+        {
+            "task": "** Test soil in garden at home",
+            "subtasks": []
+        },
+        {
+            "task": "} & \\text{Test soil for garden using home kit} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Test Soil for Garden**",
+            "subtasks": []
+        },
+        {
+            "task": "Apply for soil test**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "** Test soil in garden.",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil in garden",
+            "subtasks": [
+                "SUBTASKs"
+            ]
+        },
+        {
+            "task": "Test soil for garden using home kit**",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden using home kit",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Test soil for garden",
+            "subtasks": [
+                "**"
+            ]
+        },
+        {
+            "task": "** Test garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "** Test soil with home kit for garden.",
+            "subtasks": []
+        },
+        {
+            "task": "** Test garden soil.",
+            "subtasks": [
+                "**",
+                "fill tube with soil, add water, reagent, wait, compare color, and think."
+            ]
+        },
+        {
+            "task": "** Testing garden soil using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Test soil for garden using home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Garden soil test",
+            "subtasks": []
+        },
+        {
+            "task": "** Garden soil test using home kit.",
+            "subtasks": []
         }
     ]
 }

@@ -5,114 +5,78 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Operating a horticultural farm.",
+            "task": "Operating a farm with brassica crops and managing weed control.",
             "subtasks": [
-                "Interacting with farm equipment.",
-                "Conducting crop cultivation.",
-                "Managing weed control through mechanical methods.",
-                "Implementing crop rotation.",
-                "Applying pre-emergent herbicides."
+                "Conversational introduction (discarded as non-relevant; part of social pleasantries)."
             ]
         },
         {
-            "task": "1. Running a horticultural farm (MAINTASK)",
-            "subtasks": []
-        },
-        {
-            "task": "But the initial part of the transcript mentions Gary and Dave grow about 100 acres, so in this breakdown, the maintaining of the farm (MAINTASK) would include all the agricultural practices. The system seems integrated\u2014rotation, herbicide use, and mechanical cultivation.",
-            "subtasks": []
-        },
-        {
-            "task": "Operating a horticultural farm.",
+            "task": "Implementing a multi-year crop rotation program.",
             "subtasks": [
-                "Using tractors and cultivators to clean rows and hill plants.",
-                "Applying pre-emergent herbicides.",
-                "Managing crop rotation over a three-year period."
+                "Describing the three-year rotation cycle.",
+                "Discussing disease management through rotation.",
+                "Addressing persistent weed pressure despite rotation."
             ]
         },
         {
-            "task": "Cultivating crops mechanically using tractors and cultivators.",
-            "subtasks": []
-        },
-        {
-            "task": "Rotating crops to manage weeds and diseases.",
-            "subtasks": []
-        },
-        {
-            "task": "Controlling weeds in a vegetable farm through mechanical cultivation and herbicides.",
-            "subtasks": []
-        },
-        {
-            "task": "Maintaining a vegetable farm\u2019s weed control through mechanical cultivation and chemical methods.",
-            "subtasks": []
-        },
-        {
-            "task": "Operating a vegetable farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Operating a vegetable farm.",
+            "task": "Utilizing herbicides and cultivation techniques.",
             "subtasks": [
-                "Driving and operating tractors and cultivators.",
-                "Applying pre-emergent herbicides.",
-                "Implementing crop rotation.",
-                "Using specialized tools to manage soil conditions."
+                "Mentioning methods for controlling weeds, including herbicides and hand hoeing.",
+                "Employing pre-emergent herbicides for direct-seeded crops."
             ]
         },
         {
-            "task": "Running a horticultural farm.",
+            "task": "Performing cultivation with a cub tractor and tools.",
+            "subtasks": [
+                "Using buddling cages for initial cultivation.",
+                "Adapting tools (e.g., old barn teeth) for soil fragmentation.",
+                "Maintaining straight, smooth cultivation beds.",
+                "Adjusting cultivator tools for hilling and topdressing."
+            ]
+        },
+        {
+            "task": "Applying fertilizers through cultivation.",
+            "subtasks": [
+                "Integrating fertilization with weed control practices."
+            ]
+        },
+        {
+            "task": "MAINTASK: Operating a vegetable farm focusing on brassica crops (collard greens, kale, etc.) with emphasis on weed control and cultivation.",
             "subtasks": [
                 ""
             ]
         },
         {
-            "task": "Managing weed control on a vegetable farm.",
-            "subtasks": []
-        },
-        {
-            "task": "If the aim is to list the physical tasks involved in the farm, which the user indicates in the prompt (given the transcript), then the most comprehensive MAINTASK would be \"Operating a vegetable farm,\" with subtasks as per the breakdown above. That way, all the physical aspects (driving tractors, operating cultivators, applying herbicides, etc.) are captured. Alternatively, if the transcript is about a specific practice, like weed control, then focusing on that.",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "Cultivating and managing a vegetable crop on a farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Maintaining crop health through cultivation and pest control.",
-            "subtasks": []
-        },
-        {
-            "task": "But given that rotation and soil management are more strategic, perhaps they can be part of the subtasks under the MAINTASK.",
-            "subtasks": []
-        },
-        {
-            "task": "Operating a vegetable farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Operating a vegetable farm.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Operating a vegetable farm.",
+            "task": "Managing a three-year crop rotation to mitigate diseases and weeds.",
             "subtasks": [
-                "Using tractors (e.g., cub tractor) for field preparation.",
-                "Operating cultivators (e.g., budding cages, big sweeps) for various tasks (weed control, hilling).",
-                "Applying pre-emergent herbicides in fields.",
-                "Managing crop rotation every three years."
+                "Rotating crops every three years to prevent disease buildup and suppress weeds."
             ]
         },
         {
-            "task": "Operating a horticultural farm.",
+            "task": "Implementing integrated weed control strategies.",
             "subtasks": [
-                "Using tractors and cultivators to clean rows and hill plants.",
-                "Applying pre-emergent herbicides.",
-                "Managing crop rotation to reduce weed pressure."
+                "Using herbicides for initial weed suppression in direct-seeded crops.",
+                "Employing hand hoeing in particularly weedy fields (though aiming to reduce this).",
+                "Combining cultivation techniques with selective herbicide applications."
             ]
+        },
+        {
+            "task": "Cultivating fields using mechanical methods.",
+            "subtasks": [
+                "Using a cub tractor equipped with buddling cages for initial soil preparation and weed removal between rows.",
+                "Adjusting cultivator tools (e.g., sweeps, shanks) to create hilled furrows and topdress fertilizers.",
+                "Addressing uneven soil conditions (e.g., clods) with adapted tools to protect crops."
+            ]
+        },
+        {
+            "task": "Maintaining smooth, straight field surfaces for efficient tractor operations.",
+            "subtasks": [
+                "Leveling the field after initial cultivations to ensure even tractor passes."
+            ]
+        },
+        {
+            "task": "Applying fertilizers through cultivation to support crop growth.",
+            "subtasks": []
         }
     ]
 }

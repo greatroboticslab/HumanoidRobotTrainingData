@@ -5,33 +5,66 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Preparing and maintaining a brooder for mail-order baby chicks.",
+            "task": "Setting up a brooder for mail-order baby chicks upon arrival",
             "subtasks": [
-                "Acquire a brooder reflector lamp, such as one with a 125-watt bulb.",
-                "Ensure the lamp has a guard to prevent accidental fires.",
-                "Use a red bulb to minimize stress on the chicks.",
-                "Determine appropriate heat lamp placement based on chick response (huddling indicates cold).",
-                "Adjust heat lamp wattage according to the number of chicks (125 watts for every 25 chicks).",
-                "Maintain brooder temperature at 100-105 degrees Fahrenheit at floor level upon arrival.",
-                "Gradually decrease heat source intensity as chicks grow older (after 7-10 days) using heat plates without heat lights.",
-                "Transition from heat lamps to heat plates after chicks are acclimated to avoid continuous light exposure."
+                "Assembling a reflector lamp for added heat",
+                "Choosing a red bulb for the lamp to reduce stress",
+                "Calculating wattage needed (125 watt per 25 chicks)",
+                "ensuring adequate space for the chicks to move away from the heat source",
+                "Maintaining initial brooder temperature at 100-105 degrees at floor level",
+                "Understanding the higher heat requirement for mail-order chicks compared to hatched-on-site"
             ]
         },
         {
-            "task": "Preparing and maintaining a brooder for mail-order baby chicks.",
+            "task": "Adjusting heating sources as chicks grow",
             "subtasks": [
-                "Acquire a brooder reflector lamp suitable for warming the chicks and the air.",
-                "Ensure the lamp includes a safety guard.",
-                "Use a red bulb to reduce stress on the chicks.",
-                "Place the lamp according to chick behavior (adjust height or position as needed).",
-                "Determine the appropriate wattage based on the number of chicks (e.g., 125W for every 25 chicks).",
-                "Maintain the brooder temperature at 100-105\u00b0F at floor level immediately after arrival.",
-                "After 7-10 days, transition to a heat plate that does not produce light and heats the air.",
-                "Monitor chick behavior to adjust heat sources as they grow and acclimate."
+                "Monitoring chick behavior (huddling indicates cold, spreading out indicates comfort)",
+                "Lowering heat source as chicks grow (7-10 days for transition)"
             ]
         },
         {
-            "task": "Preparing and maintaining a brooder for mail-order baby chicks.",
+            "task": "Transitioning to a heat plate after initial growth",
+            "subtasks": [
+                "Recognizing heat plates that don't heat air or produce light",
+                "Ensuring proper placement of heat plate after chicks adjust to 7-10 days"
+            ]
+        },
+        {
+            "task": "Adjusting heating sources as chicks grow. Then another MAINTASK: Transitioning to a different heat source.",
+            "subtasks": []
+        },
+        {
+            "task": "Ensuring safe brooder setup. But not sure if that's considered a separate task.",
+            "subtasks": []
+        },
+        {
+            "task": "initial high-heat period and then transitioning. But maybe there's only one task, but split into two steps.",
+            "subtasks": []
+        },
+        {
+            "task": "Care for mail-order baby chicks upon arrival",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Setting up the initial brooder for mail-order baby chicks",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Transitioning to alternative heat source",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Setting up the initial brooder environment for mail-order baby chicks**",
+            "subtasks": []
+        },
+        {
+            "task": "Transitioning to a suitable heat source as chicks grow**",
             "subtasks": []
         }
     ]

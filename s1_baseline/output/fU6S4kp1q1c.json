@@ -5,15 +5,25 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Troubleshoot a malfunctioning sprinkler system zone.",
+            "task": "Troubleshooting a malfunctioning sprinkler zone using a voltmeter.",
             "subtasks": [
-                "Identify the type of issue (zone not stopping, not coming on, or not coming on at all) to determine the possible cause.",
-                "Check if it's a valve issue by observing the sprinklers' behavior.",
-                "Use a voltmeter to test the controller's voltage output to the affected zone's solenoid.",
-                "Verify common wire connection at the controller.",
-                "Check for continuity (resistance) between the solenoid terminals and probes to assess the solenoid and wiring.",
-                "If necessary, check the valve's solenoid and wiring at the valve box.",
-                "Determine if the problem is caused by a faulty valve, wiring, or controller and replace the faulty components as needed."
+                "Identify the type of malfunction (zone not stopping, not coming on, or not coming on fully).",
+                "Check if the controller is working properly by measuring voltage.",
+                "Test the solenoid's resistance using the multimeter.",
+                "Check for wiring issues if resistance is outside the acceptable range.",
+                "Inspect the valve's condition and solenoid using a multimeter.",
+                "Replace faulty components such as wiring, valves, or solenoids as necessary."
+            ]
+        },
+        {
+            "task": "Troubleshooting a malfunctioning sprinkler zone using a voltmeter.",
+            "subtasks": [
+                "Identify the type of malfunction (zone not stopping, not coming on, or not coming on fully).",
+                "Check if the controller is working properly by measuring voltage.",
+                "Test the solenoid's resistance using the multimeter.",
+                "Check for wiring issues if resistance is outside the acceptable range.",
+                "Inspect the valve's condition and solenoid using a multimeter.",
+                "Replace faulty components such as wiring, valves, or solenoids as necessary."
             ]
         }
     ]

@@ -5,15 +5,195 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Responding to commands or directions in a possibly agricultural context.",
+            "task": "Fetching and transporting materials",
             "subtasks": [
-                "Cleaning or tending to a fish.",
-                "Operating a fish box or container.",
-                "Possibly addressing or interacting with a person named \"dude\" or \"consumo,\" which could include physical actions like fighting or helping.",
-                "Handling or moving a block, possibly a piece of machinery or equipment.",
-                "Operating a Conveyor belt or similar moving device.",
-                "Possibly checking the temperature of rice or other food item.",
-                "Possibly addressing a dog, which could involve patting or moving the animal."
+                "Walking to the fish tank",
+                "Opening the fish",
+                "Closing the fish",
+                "Handling the rice",
+                "Pouring water over the rice"
+            ]
+        },
+        {
+            "task": "Cleaning and hygiene",
+            "subtasks": [
+                "Washing mouth",
+                "Using hand sanitizer"
+            ]
+        },
+        {
+            "task": "Addressing transport needs",
+            "subtasks": [
+                "Securing materials for transport",
+                "Loading/unloading materials onto a vehicle"
+            ]
+        },
+        {
+            "task": "Environmental considerations",
+            "subtasks": [
+                "Manipulating water flow",
+                "Controlling water temperature",
+                "Adjusting air circulation"
+            ]
+        },
+        {
+            "task": "Preparing for respiratory needs",
+            "subtasks": [
+                "Ensuring proper oxygen supply",
+                "Monitoring and maintaining air quality"
+            ]
+        },
+        {
+            "task": "Agricultural equipment operation",
+            "subtasks": [
+                "Using tools to handle fish",
+                "Operating a rice cooker or similar device"
+            ]
+        },
+        {
+            "task": "Storage and containment",
+            "subtasks": [
+                "Securing items in designated areas"
+            ]
+        },
+        {
+            "task": "Okay, let me try to figure out the tasks from this transcript. Hmm, first, there's a bunch of\u96f6\u788e\u7684\u8bed\u53e5, but maybe there are some patterns. Let's see. The person is talking about returning and going back, which makes me think of fetching things. So the main task could be \"returning\" but perhaps \"fetching and transporting materials\" would be a better MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "But then there's \"securing materials for transport\" mentioned. So that's another MAINTASK. Maybe the person is involved in transporting things, like fish, rice, and other materials. So related to moving goods.",
+            "subtasks": []
+        },
+        {
+            "task": "Fetching and transporting materials",
+            "subtasks": []
+        },
+        {
+            "task": "Cleaning and hygiene",
+            "subtasks": []
+        },
+        {
+            "task": "Addressing transport needs",
+            "subtasks": []
+        },
+        {
+            "task": "Environmental considerations",
+            "subtasks": []
+        },
+        {
+            "task": "Preparing for respiratory needs",
+            "subtasks": []
+        },
+        {
+            "task": "Agricultural equipment operation",
+            "subtasks": []
+        },
+        {
+            "task": "Storage and containment",
+            "subtasks": []
+        },
+        {
+            "task": "Fetching and transporting materials",
+            "subtasks": [
+                "Walking to the fish tank",
+                "Opening the fish",
+                "Closing the fish",
+                "Handling the rice",
+                "Pouring water over the rice"
+            ]
+        },
+        {
+            "task": "Cleaning and hygiene",
+            "subtasks": [
+                "Washing mouth",
+                "Using hand sanitizer"
+            ]
+        },
+        {
+            "task": "Addressing transport needs",
+            "subtasks": [
+                "Securing materials for transport",
+                "Loading/unloading materials onto a vehicle"
+            ]
+        },
+        {
+            "task": "Environmental considerations",
+            "subtasks": [
+                "Manipulating water flow",
+                "Controlling water temperature",
+                "Adjusting air circulation"
+            ]
+        },
+        {
+            "task": "Preparing for respiratory needs",
+            "subtasks": [
+                "Ensuring proper oxygen supply",
+                "Monitoring and maintaining air quality"
+            ]
+        },
+        {
+            "task": "Agricultural equipment operation",
+            "subtasks": [
+                "Using tools to handle fish",
+                "Operating a rice cooker or similar device"
+            ]
+        },
+        {
+            "task": "Storage and containment",
+            "subtasks": [
+                "Securing items in designated areas"
+            ]
+        },
+        {
+            "task": "Fetching and transporting materials",
+            "subtasks": [
+                "Walking to the fish tank**",
+                "Opening the fish**",
+                "Closing the fish**",
+                "Handling the rice**",
+                "Pouring water over the rice**"
+            ]
+        },
+        {
+            "task": "Cleaning and hygiene",
+            "subtasks": [
+                "Washing mouth**",
+                "Using hand sanitizer**"
+            ]
+        },
+        {
+            "task": "Addressing transport needs",
+            "subtasks": [
+                "Securing materials for transport**",
+                "Loading/unloading materials onto a vehicle**"
+            ]
+        },
+        {
+            "task": "Environmental considerations",
+            "subtasks": [
+                "Manipulating water flow**",
+                "Controlling water temperature**",
+                "Adjusting air circulation**"
+            ]
+        },
+        {
+            "task": "Preparing for respiratory needs",
+            "subtasks": [
+                "Ensuring proper oxygen supply**",
+                "Monitoring and maintaining air quality**"
+            ]
+        },
+        {
+            "task": "Agricultural equipment operation",
+            "subtasks": [
+                "Using tools to handle fish**",
+                "Operating a rice cooker or similar device**"
+            ]
+        },
+        {
+            "task": "Storage and containment",
+            "subtasks": [
+                "Securing items in designated areas**"
             ]
         }
     ]

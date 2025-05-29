@@ -5,69 +5,20 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Interviewing a gardening expert (Pete Canaris) about growing food crops in Florida",
+            "task": "Growing food crops in a tropical environment.",
             "subtasks": [
-                "Preparing for the interview setting",
-                "Welcoming Pete Canaris to the channel",
-                "Discussing the suitability of food crops for Florida's climate",
-                "Introducing Chaya (tree spinach) and its cultivation, including propagation and preparation",
-                "Highlighting the nutritional benefits and uses of Moringa oleifera (horseradish tree)",
-                "Recommending Cassava as a staple crop for Florida gardens",
-                "Providing information on growing sweet potatoes, their nutritional value, and parts used",
-                "Introducing Ciso spinach (Miami spinach) as a perennial ground cover vegetable",
-                "Discussing Katook (also known as synsepalum dulcificum) cultivation and its high protein content",
-                "Recommending papaya as a multi-purpose fruit and vegetable crop",
-                "Presenting edible leaf hibiscus (lettuce leaf hibiscus) as a wrap and salad ingredient",
-                "Highlighting the uses of cranberry hibiscus (urtica canadensis) in salads and its ornamental value",
-                "Introducing Okinawan spinach (k\u7eedwai) for its flavor and versatility"
+                "Propagating and planting Chaya.",
+                "Cooking and using Moringa leaves.",
+                "Planting and managing cassava.",
+                "Growing and harvesting sweet potatoes.",
+                "Incorporating Ciso spinach into a garden.",
+                "Cultivating katook as a protein-rich vegetable.",
+                "Growing papaya for both fruit and vegetable use.",
+                "Using edible leaf hibiscus as a wrap or green.",
+                "Incorporating cranberry hibiscus into the garden.",
+                "Planting Okinawan spinach for culinary use.",
+                "Discussing the relevance of the video transcript."
             ]
-        },
-        {
-            "task": "But if person is actually following the advice, the task would be \"Planting and maintaining [crop name] in a Florida garden.\" For each of the 10 plants. So the MAINTASK would be \"Planting and maintaining crops suitable for Florida's climate,\" followed by subtasks for each.",
-            "subtasks": []
-        },
-        {
-            "task": "growing and maintaining certain crops. The person needs to follow the advice, so the main action is \"Growing crops\" and the specific crops are listed in the 10. So the MAINTASK could be \"Planting and maintaining 10 Florida-friendly food crops as per Pete Canaris' recommendations.\"",
-            "subtasks": []
-        },
-        {
-            "task": "Wait, yes. Since the transcript talks about the video, the main task should be related to the content. But the user needs to take the advice and implement it. Therefore, the MAINTASK could be \"Developing a Florida-friendly vegetable garden based on recommendations from Pete Canaris.\"",
-            "subtasks": []
-        },
-        {
-            "task": "But the required format is to have MAINTASK first, then list each subtask. If there are several crops, each needs their subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Alternatively, based on the interview structure, the MAINTASK is \"Following a gardening expert (Pete Canaris) for advice on self-sufficient gardening\".",
-            "subtasks": []
-        },
-        {
-            "task": "\"Growing a variety of tropical vegetables suited for Florida\"",
-            "subtasks": []
-        },
-        {
-            "task": "Gardening tasks for a Florida farm focusing on tropical crops",
-            "subtasks": []
-        },
-        {
-            "task": "Planting and maintaining 10 Florida-friendly food crops as per Pete Canaris' recommendations",
-            "subtasks": [
-                "Propagating and planting Chaya (tree spinach)",
-                "Growing Moringa oleifera (horseradish tree)",
-                "Planting Cassava and managing the root crop",
-                "Starting and caring for sweet potato slips",
-                "Establishing Ciso spinach (Miami spinach) as a perennial ground cover",
-                "Taking care of katook (synsepalum dulcificum) plants",
-                "Planting and nurturing papaya trees for multi-purpose use",
-                "Propagating and utilizing edible leaf hibiscus (lettuce leaf hibiscus)",
-                "Growing cranberry hibiscus (urtica canadensis)",
-                "Incorporating Okinawan spinach (k\u7eedwai) into the garden"
-            ]
-        },
-        {
-            "task": "**MAINTASK:** Planting and maintaining 10 Florida-friendly food crops as per Pete Canaris' recommendations",
-            "subtasks": []
         }
     ]
 }

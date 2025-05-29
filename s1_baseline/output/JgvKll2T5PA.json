@@ -5,25 +5,42 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Understand and explain the mission and technology of Drone AG.",
+            "task": "Design and develop a software system for drone automation in agriculture.",
             "subtasks": [
-                "Explain the founding of Drone AG by Jack and Hugh Rangan in 2015.",
-                "Describe their approach to using their own farm as an R&D base.",
-                "Discuss the goal of making farming more productive with drone automation and AI.",
-                "Mention the projected market size for drones in agriculture by 2024.",
-                "Describe how Drone AG's Skippy Scout app automates drone flights for detailed crop imaging.",
-                "Explain the advantages of near real-time data and leaf-level zooming in the app.",
-                "Highlight the AI features for identifying crop cover, weed cover, and nutrient deficiencies.",
-                "Discuss the subscription-based service model with tiers for farmers and agronomists.",
-                "Outline the plans for expanding AI capabilities such as recognizing diseases and growth stages."
+                "Research and understand agricultural needs and challenges.",
+                "Experiment with different software systems for drones in farming.",
+                "Identify gaps in current technology and ease of use.",
+                "Develop a simple and user-friendly drone control app (Skippy Scout).",
+                "Implement automated drone flight paths for field coverage.",
+                "Utilize AI for image analysis and data interpretation (e.g., crop cover, weed detection, nutrient deficiencies).",
+                "Create subscription tiers for different user types (farmers and agronomists) with cost-effective pricing.",
+                "Integrate real-time data visualization and accessibility (leaf-level viewing, near real-time image processing).",
+                "Expand AI capabilities to recognize various diseases, weeds, and crop growth stages."
             ]
         },
         {
-            "task": "Outline the vision for integrating drone technology into farm operations.",
+            "task": "Implement AI-driven drone spraying of pesticides or fertilizers.",
             "subtasks": [
-                "Explain the need for simple and practical solutions for farmers to adopt new technologies.",
-                "Discuss the real-time crop management and the use of drone sprayers.",
-                "Mention the goal of expanding user base to 30,000 by 2025."
+                "Design algorithms to analyze drone imagery for targeted application zones.",
+                "Develop precise drone navigation systems for accurate pesticide/fertilizer delivery.",
+                "Integrate drone spraying with automated farm machinery on the ground."
+            ]
+        },
+        {
+            "task": "Expand the software system to include intelligent control of drone-based crop management tools.",
+            "subtasks": [
+                "Research and incorporate AI for intelligent crop management decision-making.",
+                "Develop software modules for integrated farm management, combining data from drones, soil sensors, etc.",
+                "Collaborate with agronomists to refine AI recommendations and multi-sensor data integration."
+            ]
+        },
+        {
+            "task": "Achieve widespread adoption and scalability (e.g., 30, 000 users by 2025), contributing to sustainable farming practices.",
+            "subtasks": [
+                "Create marketing and training materials for users at all levels (beginner to expert).",
+                "Establish partnerships with agricultural organizations and educational institutions.",
+                "Conduct field trials and user testing to refine and validate the technology.",
+                "Monitor adoption rates and adjust strategies to meet farmers' evolving needs."
             ]
         }
     ]

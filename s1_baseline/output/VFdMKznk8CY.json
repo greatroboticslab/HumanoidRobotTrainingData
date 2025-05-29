@@ -5,36 +5,53 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Grafting tomatoes",
+            "task": "Preparing and maintaining a grafting setup for tomatoes",
             "subtasks": [
-                "Select rootstock and heirloom varieties",
-                "Construct healing chamber",
-                "Prepare grafting materials",
-                "Time grafting for water stress",
-                "Cut rootstock and sign at 45-degree angles",
-                "Securely join rootstock and sign with grafting clip",
-                "Place grafted plants in healing chamber",
-                "Maintain high humidity and exclude light",
-                "Gradually acclimate plants to light",
-                "Transplant grafted plants without burying graft union",
-                "Monitor for plant suckers below graft union"
+                "Selecting appropriate rootstock seed based on specific soil issues",
+                "Choosing heirloom tomato varieties according to market demands",
+                "Setting up a healing chamber with proper humidity and temperature controls",
+                "Ensuring sanitation practices to prevent disease spread during grafting",
+                "Preparing grafting tools and materials (e.g., razor blade, silicone grafting clips)",
+                "Determining optimal time for grafting based on plant water stress",
+                "Making precise 45-degree cuts on both rootstock and scion",
+                "Aligning rootstock and scion stems for grafting with equal diameter",
+                "Securing the graft with a silicone clip and immediate placement in the healing chamber",
+                "Managing humidity and light exposure for grafted plants during the healing period",
+                "Gradually acclimating grafted plants to outdoor conditions before transplanting",
+                "Monitoring and removing suckers below the graft union to prevent infection"
             ]
         },
         {
-            "task": "MAINTASK: Grafting tomatoes",
+            "task": "Applying grafting techniques to tomato plants for disease resistance",
             "subtasks": [
-                "Select rootstock and heirloom varieties",
-                "Construct healing chamber",
-                "Prepare grafting materials",
-                "Time grafting for optimal water stress",
-                "Cut rootstock and sign at 45-degree angles",
-                "Securely join rootstock and sign with grafting clip",
-                "Place grafted plants in healing chamber",
-                "Maintain high humidity and exclude light post-grafting",
-                "Gradually introduce light exposure to acclimate plants",
-                "Transplant plants ensuring the graft union is not buried",
-                "Prune suckers below the graft union"
+                "Choosing suitable rootstock and scion for desired disease protection",
+                "Ensuring proper timing and hydration during grafting",
+                "Techniques for precise grafting using 45-degree cuts and securing with clips",
+                "Preparing plants for healing chamber conditions post-grafting",
+                "Preparing grafted plants for transplant by gradually increasing light exposure",
+                "Post-transplant care including avoiding burying the graft union"
             ]
+        },
+        {
+            "task": "Discussing the benefits and considerations of grafting tomatoes",
+            "subtasks": [
+                "Explaining increased resistance to soil-borne diseases through grafting",
+                "Weighing the trade-offs between grafting and other disease management practices",
+                "Considering market factors in variety selection for high-value crops",
+                "Addressing the additional time and resources needed for grafting"
+            ]
+        },
+        {
+            "task": "Preparing and maintaining a grafting setup for tomatoes",
+            "subtasks": []
+        },
+        {
+            "task": "Applying grafting techniques to tomato plants for disease resistance",
+            "subtasks": []
+        },
+        {
+            "task": "Discussing the benefits and considerations of grafting tomatoes",
+            "subtasks": []
         }
     ]
 }

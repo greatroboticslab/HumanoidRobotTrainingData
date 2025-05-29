@@ -5,29 +5,79 @@
     "category": "Autos & Vehicles",
     "tasks": [
         {
-            "task": "Replace or remove a rusty nut using an air impact wrench.",
+            "task": "Replace a rusty nut on a piece of farm equipment.",
             "subtasks": [
-                "Identify the rusty nut that needs removal.",
-                "Select the appropriate air impact wrench (Jag's reversible air impact wrench with half-inch drive).",
-                "Ensure the air impact wrench is properly connected and pressurized.",
-                "Attach the correct socket to the air impact wrench for the rusty nut.",
-                "Apply the air impact wrench to the rusty nut, utilizing reverse rotation to break the rust seal if necessary.",
-                "Operate the air impact wrench until the rusty nut comes loose.",
-                "Remove the socket from the air impact wrench once the nut is loose.",
-                "Safety check to ensure the nut is fully removed and doesn't fly off."
+                "Hold the impact wrench with both hands.",
+                "Align the half-inch drive socket with the nut.",
+                "Apply pressure to the impact wrench to engage the torque.",
+                "Turn the wrench counterclockwise to loosen the rusty bolt.",
+                "Remove the old breaker bar and replace it with the impact wrench.",
+                "Check that the reversible air impact wrench is functioning properly."
             ]
         },
         {
-            "task": "MAINTASK: Replace or remove a rusty nut using an air impact wrench.",
+            "task": "Inspect the torque settings of the impact wrench.",
             "subtasks": [
-                "Identify the rusty nut that needs removal.",
-                "Select the appropriate air impact wrench (Jag's reversible air impact wrench with half-inch drive).",
-                "Ensure the air impact wrench is properly connected and pressurized.",
-                "Attach the correct socket to the air impact wrench for the rusty nut.",
-                "Apply the air impact wrench to the rusty nut, utilizing reverse rotation to break the rust seal if necessary.",
-                "Operate the air impact wrench until the rusty nut comes loose.",
-                "Remove the socket from the air impact wrench once the nut is loose.",
-                "Safety check to ensure the nut is fully removed and doesn't fly off."
+                "Adjust the torque settings to 1,000 foot pounds.",
+                "Verify that the torque is correct by testing it on a non-critical fastener."
+            ]
+        },
+        {
+            "task": "Secure the new component to the piece of farm equipment.",
+            "subtasks": [
+                "Position the new component correctly on the equipment.",
+                "Align the holes of the new component with the existing bolts.",
+                "Apply\u9002\u5f53\u6da6\u6ed1 to the threads of the new bolts.",
+                "Insert the new bolts into the aligned holes.",
+                "Hand-tighten the new bolts to hold the component in place.",
+                "Use the impact wrench to torque the new bolts to 1,000 foot pounds.",
+                "Check the torque with a torque wrench if necessary."
+            ]
+        },
+        {
+            "task": "Remove any debris from the removal of the old bolt.",
+            "subtasks": [
+                "Clear away any rust, metal chips, or dirt from the bolt hole.",
+                "Inspect the bolt hole for any damage or wear."
+            ]
+        },
+        {
+            "task": "Inspect the condition of the new component.",
+            "subtasks": [
+                "Check that the component is seated properly on the equipment.",
+                "Look for any damage or deformities on the component.",
+                "Confirm that all hardware is present and accounted for."
+            ]
+        },
+        {
+            "task": "Lubricate the new bolts.",
+            "subtasks": [
+                "Apply a rust-preventative lubricant to the threads of the new bolts.",
+                "Wipe off any excess lubricant to prevent attracting dirt."
+            ]
+        },
+        {
+            "task": "Tighten the retaining rings if applicable.",
+            "subtasks": [
+                "Position the retaining rings over the new bolts.",
+                "Use a punch and hammer to set the retaining rings properly."
+            ]
+        },
+        {
+            "task": "Apply a fresh coat of paint or rustproofing to the bolt area.",
+            "subtasks": [
+                "Mix the rustproofing solution if needed.",
+                "Apply the solution evenly over the bolt area.",
+                "Allow the paint or rustproofing to dry completely."
+            ]
+        },
+        {
+            "task": "Clean up the work area.",
+            "subtasks": [
+                "Remove the old nut, bolt, and any other debris.",
+                "Dispose of the old components properly.",
+                "Wipe down the impact wrench and any tools used.",
+                "Store the tools and replacement parts in their designated places."
             ]
         }
     ]

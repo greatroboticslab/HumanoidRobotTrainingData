@@ -5,19 +5,62 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Performing manual tube repair using heating and cooling techniques.",
+            "task": "Performing chemical glue activation and tube manipulation for repairs.",
             "subtasks": [
-                "Applying glue to the tube.",
-                "Positioning the tube over the obstacle.",
-                "Heating the glued area to expand the tube.",
-                "Allowing the heated area to cool, causing contraction and sealing."
+                "Applying chemical glue to the specified area.",
+                "Ensuring proper contact between the glue and the tube surface.",
+                "Heating the tube to initiate chemical reaction causing expansion.",
+                "Monitoring temperature to prevent overheating during activation.",
+                "Positioning the tube accurately to align with the repair site.",
+                "Adjusting the tube to accommodate expansion during heating.",
+                "Allowing the chemical reaction to complete and assemble.",
+                "Checking alignment and seals after cooling."
             ]
         },
         {
-            "task": "Potentially addressing damage to a home's structure.",
+            "task": "Addressing roof or home-related issues.",
             "subtasks": [
-                "Identifying areas of the home affected by the previous activities.",
-                "Ensuring safety and structural integrity after repairs."
+                "Inspecting the condition of the roof or home's outer surface.",
+                "Observing areas at risk of chemical degradation or expansion.",
+                "Preventing damage to the home from the chemical process.",
+                "Noting potential hazards from the heat and chemicals involved."
+            ]
+        },
+        {
+            "task": "Identifying and removing obstacles from buildings.",
+            "subtasks": [
+                "Recognizing hazardous objects obstructing entry or repair.",
+                "Removing or secure the obstacles preventing access.",
+                "Clearing a safe path for repair work, ensuring safety."
+            ]
+        },
+        {
+            "task": "Performing chemical glue activation and tube manipulation for repairs.**",
+            "subtasks": [
+                "Applying chemical glue to the specified area.",
+                "Ensuring proper contact between the glue and the tube surface.",
+                "Heating the tube to initiate chemical reaction causing expansion.",
+                "Monitoring temperature to prevent overheating during activation.",
+                "Positioning the tube accurately to align with the repair site.",
+                "Adjusting the tube to accommodate expansion during heating.",
+                "Allowing the chemical reaction to complete and assemble.",
+                "Checking alignment and seals after cooling."
+            ]
+        },
+        {
+            "task": "Addressing roof or home-related issues.**",
+            "subtasks": [
+                "Inspecting the condition of the roof or home's outer surface.",
+                "Observing areas at risk of chemical degradation or expansion.",
+                "Preventing damage to the home from the chemical process."
+            ]
+        },
+        {
+            "task": "Identifying and removing obstacles from buildings.**",
+            "subtasks": [
+                "Recognizing hazardous objects obstructing entry or repair.",
+                "Removing or securing the obstacles preventing access.",
+                "Clearing a safe path for repair work, ensuring safety."
             ]
         }
     ]

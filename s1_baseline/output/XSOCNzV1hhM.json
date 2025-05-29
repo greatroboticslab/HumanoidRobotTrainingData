@@ -3,5 +3,89 @@
     "title": "Rice cultivation//growing rice plants",
     "url": "https://www.youtube.com/watch?v=XSOCNzV1hhM",
     "category": "Nonprofits & Activism",
-    "tasks": []
+    "tasks": [
+        {
+            "task": "Driving the towable cultivator/drill.",
+            "subtasks": [
+                "Loading the drill with seed.",
+                "Navigating the drill through the field.",
+                "Adjusting settings on the drill as needed."
+            ]
+        },
+        {
+            "task": "Unrolling the mulch.",
+            "subtasks": [
+                "Unfolding the mulch and laying it out.",
+                "Cutting the mulch into manageable sections."
+            ]
+        },
+        {
+            "task": "Using a sprayer.",
+            "subtasks": [
+                "Mixing or setting up the sprayer with the appropriate chemicals or water.",
+                "Applying the spray as needed."
+            ]
+        },
+        {
+            "task": "Checking the sprayer.",
+            "subtasks": [
+                "Ensuring the sprayer is functioning correctly."
+            ]
+        },
+        {
+            "task": "unrolling the mulch, driving the cultivator/drill, and checking the sprayer. Therefore, the final answer should list MAINTASKs for potentially observable tasks in the transcript. So if given those three as MAINTASKs and subtasks, here is the structured output.",
+            "subtasks": []
+        },
+        {
+            "task": "Unrolling the mulch",
+            "subtasks": [
+                "Navigating the roll to the starting point (the end of the furrow)",
+                "Beginning to unroll the mulch",
+                "Ensuring even distribution and coverage as unrolling continues"
+            ]
+        },
+        {
+            "task": "Operating the towable cultivator/drill",
+            "subtasks": [
+                "Guiding the cultivator/drill through the rows",
+                "Checking and managing the seed depth or planting mechanism",
+                "Adjusting any settings on the cultivator as needed"
+            ]
+        },
+        {
+            "task": "Checking the sprayer",
+            "subtasks": [
+                "Inspecting the sprayer for proper functioning",
+                "Possibly refilling or mixing chemicals if necessary"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Unrolling the mulch",
+            "subtasks": [
+                "Navigating the roll to the starting point",
+                "Beginning to unroll the mulch"
+            ]
+        },
+        {
+            "task": "Operating the towable cultivator/drill",
+            "subtasks": [
+                "Guiding the cultivator/drill through the rows",
+                "Checking and adjusting settings"
+            ]
+        },
+        {
+            "task": "Checking the sprayer",
+            "subtasks": [
+                "Inspecting the sprayer for proper functioning"
+            ]
+        },
+        {
+            "task": "That\u2019s three MAINTASKs with some associated subtasks. The user might have wanted more granular subtasks, but given the brevity of the transcript, these are the most plausible. So, in the final answer, the user should accept these tasks as the key physical actions inferred from the transcript. Maybe adding a note that due to the limited information, these are the primary physical tasks, otherwise, if the question was about common farm tasks in general, others might be mentioned. But according to the transcript itself, this is as detailed as possible.",
+            "subtasks": []
+        }
+    ]
 }

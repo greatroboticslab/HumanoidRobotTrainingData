@@ -5,73 +5,96 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Drive a vehicle on the farm.",
+            "task": "Planting maize in rows using a tractor.",
             "subtasks": [
-                "Sit in the driver's seat.",
-                "Accelerate and decelerate the tractor.",
-                "Steer the tractor to maneuver around fields and obstacles.",
-                "Shift gears using the manual transmission.",
-                "Adjust the rearview mirror for visibility."
+                "Operating a tractor.",
+                "Navigating the tractor along rows.",
+                "Planting maize seeds at regular intervals."
             ]
         },
         {
-            "task": "Apply pesticide to crops using a sprayer.",
+            "task": "Loading fertilizer onto the tractor.",
             "subtasks": [
-                "Load the pesticide tank with the required chemicals.",
-                "Operate the sprayer to even distribute the pesticide.",
-                "Direct the sprayer nozzle towards the crops to apply pesticide.",
-                "Monitor the pressure and flow rate of the pesticide being sprayed."
+                "Discharging fertilizer from a container.",
+                "Placing fertilizer into the soil while driving."
             ]
         },
         {
-            "task": "Load hay into a trailer.",
+            "task": "Attaching implements to the tractor.",
             "subtasks": [
-                "Approach the hay bale stack with a forklift.",
-                "Elevate the forks to pick up the hay bale.",
-                "Position the hay bale over the trailer bed.",
-                "Lower the forked bale into the trailer.",
-                "Repeat for additional hay bales until the trailer is full."
+                "Connecting planting apparatus to the tractor.",
+                "Ensuring the implement is securely attached."
             ]
         },
         {
-            "task": "Collect eggs from a chicken coop.",
+            "task": "Driving the tractor through a field.",
             "subtasks": [
-                "Enter the chicken coop premises.",
-                "Walk around the chicken area to locate nesting boxes.",
-                "Gently pick up eggs from the nesting boxes.",
-                "Place collected eggs into a basket or tray.",
-                "Exit the coop and move eggs to a storage location."
+                "Steering the tractor along the intended path.",
+                "Maintaining a consistent speed."
             ]
         },
         {
-            "task": "Operate and maintain farm machinery.",
+            "task": "Monitoring the planting process.",
             "subtasks": [
-                "Inspect the machinery for any signs of wear or damage.",
-                "Lubricate moving parts as necessary.",
-                "Tighten loose bolts or nuts.",
-                "Service the fuel system to ensure proper operation.",
-                "Check fluid levels (oil, coolant, etc.) in the machinery."
+                "Checking the spacing between planted seeds.",
+                "Adjusting the planting depth as needed."
             ]
         },
         {
-            "task": "Drive a vehicle on the farm.",
-            "subtasks": []
+            "task": "Troubleshooting equipment malfunctions.",
+            "subtasks": [
+                "Identifying issues with the planting apparatus.",
+                "Making necessary adjustments or repairs."
+            ]
         },
         {
-            "task": "Apply pesticide to crops using a sprayer.",
-            "subtasks": []
+            "task": "Completing the planting operation.",
+            "subtasks": [
+                "Ensuring all rows are planted.",
+                "Checking the overall quality of planting."
+            ]
         },
         {
-            "task": "Load hay into a trailer.",
-            "subtasks": []
+            "task": "1. **Operating a tractor** (MAINTASK)",
+            "subtasks": [
+                "- Plant maize seeds at regular intervals (SUBTASKs)"
+            ]
         },
         {
-            "task": "Collect eggs from a chicken coop.",
-            "subtasks": []
+            "task": "2. **Loading fertilizer onto the tractor** (MAINTASK)",
+            "subtasks": [
+                "- Place fertilizer into the soil while driving (SUBTASKs)"
+            ]
         },
         {
-            "task": "Operate and maintain farm machinery.",
-            "subtasks": []
+            "task": "3. **Attaching implements to the tractor** (MAINTASK)",
+            "subtasks": [
+                "- Ensure the implement is securely attached (SUBTASKs)"
+            ]
+        },
+        {
+            "task": "4. **Driving the tractor through a field** (MAINTASK)",
+            "subtasks": [
+                "- Maintain a consistent speed (SUBTASKs)"
+            ]
+        },
+        {
+            "task": "5. **Monitoring the planting process** (MAINTASK)",
+            "subtasks": [
+                "- Adjust planting depth as needed (SUBTASKs)"
+            ]
+        },
+        {
+            "task": "6. **Troubleshooting equipment malfunctions** (MAINTASK)",
+            "subtasks": [
+                "- Make necessary adjustments or repairs (SUBTASKs)"
+            ]
+        },
+        {
+            "task": "7. **Completing the planting operation** (MAINTASK)",
+            "subtasks": [
+                "- Check the overall quality of planting (SUBTASKs)"
+            ]
         }
     ]
 }

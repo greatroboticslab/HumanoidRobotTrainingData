@@ -5,143 +5,83 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Fueling and maintaining tractors and farm equipment safely",
+            "task": "Check and follow operator's manual safety practices for fueling and daily maintenance of tractors and farm equipment.",
             "subtasks": [
-                "Refer operators' manuals for specific safety practices",
-                "Understand symbols and colors indicating hazardous situations",
-                "Pay attention to red, orange, and yellow warning colors",
-                "Read and comply with safety decals on equipment",
-                "Keep a first aid kit in tractors and self-propelled machines",
-                "Daily check necessary fluids as per operator's manual",
-                "Memorize locations of controls for quick emergency response",
-                "Follow safety procedures for refueling (cool engine, no smoking)",
-                "Clean up fuel spills immediately",
-                "Manage diesel exhaust fluid for tractors with SCR technology",
-                "Check engine, radiator, and transmission fluid levels daily",
-                "Inflate tires according to manufacturer's recommendations",
-                "Monitor tire condition for cuts, cracks, or damage",
-                "Ensure headlights, flashers, and brake lights are functional and clean",
-                "Comply with lighting requirements (forward lights, tail lights, flashers)",
-                "Maintain clear windows and mirrors for visibility",
-                "Securely fasten and check engine shields"
+                "Familiarize with symbols and colors indicating danger on equipment.",
+                "Remember that red signifies danger leading to death, orange to serious injury or death, and yellow to minor/mild injury.",
+                "Read all safety decals on the machine before starting any operations.",
+                "Follow instructions from the operator's manual when conducting any maintenance, refueling, or operations.",
+                "Keep a first aid kit in each tractor or self-propelled machine.",
+                "Daily check fluids as per operator's manual and follow safety procedures.",
+                "Refuel tractors only when engine is cool and off; never smoke during refueling.",
+                "Be cautious while climbing ladders to fuel tanks; check for wetness or ice.",
+                "Avoid overfilling fuel tanks and clean up any spills immediately."
             ]
         },
         {
-            "task": "Power hop prevention and tire inspection",
+            "task": "Ensure proper tire pressure on tractors and farm equipment.",
             "subtasks": [
-                "Inflate tires to correct pressure (avoid power hop)",
-                "Check tires for any damage (cuts, cracks, bruises)"
+                "Check tire pressure according to manufacturer's recommendations.",
+                "Inspect tires for cuts, cracks, or bruises."
             ]
         },
         {
-            "task": "General safety practices",
+            "task": "Maintain proper vehicle visibility on public roads.",
             "subtasks": [
-                "Exercise extra caution when climbing ladders (e.g., wet or icy steps)",
-                "Take additional time for safety measures to prevent accidents",
-                "Remember that safety is the priority"
+                "Ensure two forward-facing headlights and a red tail light, both visible from 500 feet.",
+                "Install hazard warning lights or flashers when operating on public roads.",
+                "Keep clear windows and clean mirrors for good visibility."
             ]
         },
         {
-            "task": "Fueling and maintaining tractors safely. Then, let's see, what are the steps involved here? The transcript starts by saying operators should check the operator's manuals for safety practices. That's a key point. So a subtask could be referring to the operator's manual. But actually, maybe the main task should be more broad. Let me think again. The entire video is about safety procedures related to fueling and maintaining tractors. So maybe the main task is \"Fueling and daily maintenance on tractors and other farm equipment.\" Yeah, that seems better. So MAINTASK: Fueling and daily maintenance on tractors and other farm equipment.",
+            "task": "Securely fasten and check engine shields for good condition.",
             "subtasks": [
-                "SUBTASK: Refer to operator's manual for safety practices.",
-                "SUBTASK: Understand symbols and color codes (red, orange, yellow) indicating hazardous situations. Red is the most dangerous, then orange, then yellow.",
-                "SUBTASK: Read and follow all safety decals on the equipment.",
-                "SUBTASK: Keep a first aid kit in each tractor or self-propelled machine.",
-                "SUBTASK: Check necessary fluids (engine, radiator, transmission) daily as per operator's manual.",
-                "SUBTASK: Know the location of all controls by memory.",
-                "Refuel tractors when engine is cool and off.",
-                "Do not smoke while fueling equipment.",
-                "Exercise caution when climbing ladders due to wet or icy steps.",
-                "SUBTASK: Manage diesel exhaust fluid for tractors using SCR emission reduction technology.",
-                "pressure is crucial to prevent power hop (tire bouncing). So implementing correct tire pressure is a subtask: SUBTASK: Inflate tires to the correct pressure as per manufacturer's recommendations (to avoid power hop).",
-                "SUBTASK: Check tires for damage.",
-                "SUBTASK: Ensure all lighting (headlights, tail lights, flashers) are functional, clean, and meet legal requirements.",
-                "SUBTASK: Clear windows and mirrors for good visibility.",
-                "SUBTASK: Check and secure engine shields.",
-                "SUBTASK: Remember that safety procedures may take extra time but prioritize safety.",
-                "red - death, orange - death if not avoided, yellow - minor/moderate injury. So maybe adding a subtask about understanding the color code: \"SUBTASK: Understand that red indicates potential death, orange indicates potential serious injury or death, and yellow indicates potential minor or moderate injury.\"",
-                "\"Red color is associated with danger. Red indicates a hazardous situation which, if not heated, can result in death. Orange color is associated with hazardous situations which, if not heated, can result in serious injury or death. Yellow color indicates a hazardous situation which, if not avoided, can result in minor or moderate injury.\" So yes, it does mention that. So I can add that as a subtask: SUBTASK: Understand color coding for hazardous situations (red=potential death, orange=serious injury/death, yellow=minor/mild)."
+                "Ensure all lights (headlights, flashers, brake lights) are working correctly."
             ]
         },
         {
-            "task": "Fueling and daily maintenance on tractors and other farm equipment.",
+            "task": "Check and follow operator's manual safety practices for fueling and daily maintenance of tractors and farm equipment.",
             "subtasks": []
         },
         {
-            "task": "Fueling and daily maintenance on tractors and equipment.",
+            "task": "Ensure proper tire pressure and check for damage.",
             "subtasks": []
         },
         {
-            "task": "Fueling and operating tractors and equipment safely.",
-            "subtasks": [
-                "Refer to the operator's manual for specific safety practices.",
-                "Understand symbols and color codes (red=death, orange=serious injury, yellow=minor/mild).",
-                "Understand the symbols and colors on the equipment:",
-                "Understand the color coding system (red= potential death, orange= potential serious injury, yellow= potential minor injury) as per the safety symbols on the equipment.",
-                "Keep a first aid kit on the tractor (mentioned in the transcript: \"Remember to keep a first aid kit in each tractor or self-propelled machine\").",
-                "Check the necessary fluids daily based on the operator's manual. The fluids include engine, radiator, and transmission."
-            ]
-        },
-        {
-            "task": "Komma, also, \"daily safety checks\" may be a separate task, but since it's part of the overall maintenance, keeping fluid checks under MAINTASK.",
+            "task": "MAINTAIN PROPER VEHICLE SAFETY AND VIZIBILITY ON PUBLIC ROADS.",
             "subtasks": []
         },
         {
-            "task": "Fueling and operating tractors and equipment safely.",
-            "subtasks": [
-                "Remember that adhering to safety procedures, although they take extra time, is essential to prevent accidents and ensure safety."
-            ]
-        },
-        {
-            "task": "",
+            "task": "Check and follow operator's manual safety practices for fueling and daily maintenance of tractors and farm equipment.",
             "subtasks": []
         },
         {
-            "task": "Fueling and operating tractors and other farm equipment safely",
+            "task": "MAINTAIN TRACTOR FUELLING AND SAFETY (maybe including refueling and smoking precautions).",
             "subtasks": []
         },
         {
-            "task": "Fueling and maintaining tractors and other farm equipment safely} \\\\",
-            "subtasks": [
-                "Refer operators' manuals for specific safety practices.} \\\\",
-                "Understand symbols and color codes (red= death, orange= serious injury, yellow= minor injury).} \\\\",
-                "Keep a first aid kit in each tractor or self-propelled machine.} \\\\",
-                "Check necessary fluids (engine, radiator, transmission) daily.} \\\\",
-                "Memorize control locations for emergency response.} \\\\",
-                "Refuel when engine is cool and off; do not smoke.} \\\\",
-                "Handle diesel exhaust fluid with tractors using SCR technology.} \\\\",
-                "Inflate tires to correct pressure to prevent power hop.} \\\\",
-                "Inspect tires for damage.} \\\\",
-                "Ensure all lighting is functional, clean, and meets requirements.} \\\\",
-                "Maintain clear windows and mirrors.} \\\\",
-                "Use caution climbing ladders to fuel tanks (e.g., when wet or icy).} \\\\",
-                "Check and secure engine shields.} \\\\",
-                "Remember that safety procedures save time and are essential.} \\\\"
-            ]
-        },
-        {
-            "task": "Fueling and Maintaining Tractors and Farm Equipment Safely",
+            "task": "MAINTAIN VEHICLE SAFETY FOR PUBLICROADS.",
             "subtasks": []
         },
         {
-            "task": "Fueling and maintaining tractors and other farm equipment safely} \\\\",
-            "subtasks": [
-                "Refer operators' manuals for specific safety practices.} \\\\",
-                "Understand symbols and color codes (red= death, orange= serious injury, yellow= minor injury).} \\\\",
-                "Keep a first aid kit in each tractor or self-propelled machine.} \\\\",
-                "Check necessary fluids (engine, radiator, transmission) daily.} \\\\",
-                "Memorize control locations for emergency response.} \\\\",
-                "Refuel when engine is cool and off; do not smoke.} \\\\",
-                "Handle diesel exhaust fluid with tractors using SCR technology.} \\\\",
-                "Inflate tires to correct pressure to prevent power hop.} \\\\",
-                "Inspect tires for damage.} \\\\",
-                "Ensure all lighting is functional, clean, and meets requirements.} \\\\",
-                "Maintain clear windows and mirrors.} \\\\",
-                "Use caution climbing ladders to fuel tanks (e.g., when wet or icy).} \\\\",
-                "Check and secure engine shields.} \\\\",
-                "Remember that safety procedures save time and are essential.} \\\\"
-            ]
+            "task": "Fulfill daily safety and maintenance requirements for farm tractors and equipment as per operators manual.",
+            "subtasks": []
+        },
+        {
+            "task": "Check and follow operator's manual safety practices for fueling and daily maintenance of tractors and farm equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "Ensure proper tire pressure and inspect equipment for damage.",
+            "subtasks": []
+        },
+        {
+            "task": "Maintain proper vehicle visibility on public roads.",
+            "subtasks": []
+        },
+        {
+            "task": "Follow safe fueling procedures.",
+            "subtasks": []
         }
     ]
 }

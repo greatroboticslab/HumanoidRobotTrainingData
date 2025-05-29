@@ -5,36 +5,15 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Introduce a new hen to the hen house.",
-            "subtasks": [
-                "Obtain a large wire dog crate.",
-                "Place the new hen in the wire crate.",
-                "Position the crate in the chicken run adjacent to the hen house.",
-                "Allow the existing chickens to observe the new hen from outside the crate for several days.",
-                "After three days, open the crate door and let the new hen exit when she is ready."
-            ]
-        },
-        {
-            "task": "Introduce a new rooster to the hens.",
-            "subtasks": [
-                "Consider using a wire crate or fence to initially separate the new rooster from the hens.",
-                "Gradually acclimate the rooster to the hens' presence by allowing supervised interactions.",
-                "Provide the rooster with access to the hen house and run, ensuring safety."
-            ]
-        },
-        {
-            "task": "Ensure adequate water consumption.",
-            "subtasks": [
-                "Calculate daily water intake based on body weight in ounces (half the weight).",
-                "Monitor water consumption to meet the requirement."
-            ]
-        },
-        {
-            "task": "How to introduce a new hen to the hen house. Then there's a mention of Mr. Brown, which is probably a rooster, so maybe there's a subtask related to that. Also, she mentions water consumption, which is another thing. Let me split the transcript into sections.",
+            "task": "Introduce a new hen to the hen house safely.",
             "subtasks": []
         },
         {
-            "task": "she mentions a half of your weight in water. So that\u2019s another task: MAINTASK: Ensure adequate water consumption. The subtask there would be to calculate based on weight and make sure you\u2019re drinking that much. Though that might not directly relate to the physical tasks of farming? But maybe it's part of her routine.",
+            "task": "Acclimate a rooster to the hen house.",
+            "subtasks": []
+        },
+        {
+            "task": "Educate others on proper water intake.",
             "subtasks": []
         },
         {
@@ -42,11 +21,27 @@
             "subtasks": []
         },
         {
-            "task": "Introduce a new rooster to the hens (separate task).",
+            "task": "Introduce a rooster to the hen house.",
             "subtasks": []
         },
         {
-            "task": "Ensure adequate water consumption.",
+            "task": "Safely manage a rooster when not in the hen house.",
+            "subtasks": []
+        },
+        {
+            "task": "Accustom a rooster to temporary confinement.",
+            "subtasks": []
+        },
+        {
+            "task": "Successfully integrate new chickens into the existing flock.",
+            "subtasks": []
+        },
+        {
+            "task": "Introduce a new hen to the hen house safely.**",
+            "subtasks": []
+        },
+        {
+            "task": "Integrate a rooster into the hen house.**",
             "subtasks": []
         },
         {
@@ -54,11 +49,91 @@
             "subtasks": []
         },
         {
-            "task": "",
+            "task": "Integrate a rooster into the hen house.",
             "subtasks": []
         },
         {
-            "task": "Introduce a new hen to the henhouse. Subtasks:",
+            "task": "Ensure proper hydration.**",
+            "subtasks": []
+        },
+        {
+            "task": "Hydrate properly.**",
+            "subtasks": []
+        },
+        {
+            "task": "Ensure adequate hydration.**",
+            "subtasks": []
+        },
+        {
+            "task": "Set an example of proper hydration for others.**",
+            "subtasks": []
+        },
+        {
+            "task": "Safeguard a rooster when not in the hen house.",
+            "subtasks": []
+        },
+        {
+            "task": "Temporarily cage a new chicken (hen or rooster) for integration.**",
+            "subtasks": []
+        },
+        {
+            "task": "Introduce a new hen to the Hen House.**",
+            "subtasks": []
+        },
+        {
+            "task": "Introduce a new rooster to the Hen House.**",
+            "subtasks": []
+        },
+        {
+            "task": "Introduce a new hen to the hen house.",
+            "subtasks": []
+        },
+        {
+            "task": "Safeguard a rooster in the hen house.",
+            "subtasks": []
+        },
+        {
+            "task": "Ensure proper water intake.",
+            "subtasks": []
+        },
+        {
+            "task": "Handle chickens safely when managing their accommodation.**",
+            "subtasks": []
+        },
+        {
+            "task": "Successfully introduce a new hen to the hen house.**",
+            "subtasks": []
+        },
+        {
+            "task": "Safely ensure a rooster's integration into the hen house.**",
+            "subtasks": []
+        },
+        {
+            "task": "Maintain proper water intake.**",
+            "subtasks": []
+        },
+        {
+            "task": "Introduce a new chicken to the flock.**",
+            "subtasks": []
+        },
+        {
+            "task": "Reintegrate a new chicken into the flock.**",
+            "subtasks": []
+        },
+        {
+            "task": "Integrate a new chicken (hen or rooster) into the flock.**",
+            "subtasks": []
+        },
+        {
+            "task": "Ensure temporary safety when introducing a new chicken to hens during her absence.**",
+            "subtasks": []
+        },
+        {
+            "task": "Introduce a new hen to the hen house safely.*",
+            "subtasks": []
+        },
+        {
+            "task": "Safeguard a rooster when permitted to free-range with hens.*",
             "subtasks": []
         },
         {
@@ -66,27 +141,37 @@
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Prepare and execute the introduction of a new hen to the flock. The subtasks then could be getting the crate, placing it in the run, ensuring observation, duration, and release. Alternatively, she suggests a method when introducing: using the crate near the run so they can see. So the process is similar to quarantining.",
+            "task": "Introduce a new hen to the hen house safely.",
             "subtasks": []
         },
         {
-            "task": "cage him in, let hens get used to him. So I think the rooster's introduction could be considered a separate MAINTASK, but based on the transcript, it is only a mention.",
+            "task": "Introduce a new hen t.wav the hen house safely.",
+            "subtasks": [
+                "(Alternative approach) Place the hen in the hen house during the night to avoid initial aggression."
+            ]
+        },
+        {
+            "task": "Safeguard a rooster when permitted to free-range with hens.",
             "subtasks": []
         },
         {
-            "task": "\"if I have to, I can always put him [the rooster] in a dog crate just to make sure that he'll be all right.\" So the rooster is a separate entity, but sometimes you might have to introduce a rooster or add an existing one. Wait, but the initial comment was about a person wanting to add new hens but not knowing how. So the main problem here is adding hens. If you introduce a rooster, that is a separate but related issue. So maybe you can have one MAINTASK per major topic.",
+            "task": "Hydrate properly** may be relevant (drinking half bodyweight in water), but omitted for being non-agricultural.",
             "subtasks": []
         },
         {
-            "task": "How to introduce a new hen to a flock. Subtasks:",
+            "task": "Introduce a new hen to the hen house safely.",
             "subtasks": []
         },
         {
-            "task": "Manage a new rooster\u2019s introduction to the flock.",
+            "task": "Safeguard a rooster when permitted to free-range with hens.",
             "subtasks": []
         },
         {
-            "task": "Introduce a new hen to the hen house.",
+            "task": "Introduce a new hen to the hen house safely.",
+            "subtasks": []
+        },
+        {
+            "task": "Gradually integrate a rooster into the hen house.",
             "subtasks": []
         }
     ]

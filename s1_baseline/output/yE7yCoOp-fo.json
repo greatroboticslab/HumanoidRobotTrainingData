@@ -5,15 +5,246 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Summarize China's Ministry of Finance's (MOF) agricultural policies based on the video transcript.",
+            "task": "Operating a diversified farm and ranch, including farming and vineyard management.",
             "subtasks": [
-                "Identify financial support for agricultural infrastructure.",
-                "Recognize support for agricultural technology and education.",
-                "Note price stability measures for agricultural products.",
-                "Describe support for agricultural insurance.",
-                "Acknowledge land use rights transfer support.",
-                "Highlight support for new agricultural business entities."
+                "Running cattle on pastureland.",
+                "Planting and harvesting corn.",
+                "Cultivating alfalfa and grass hay.",
+                "Growing wheat and silage corn.",
+                "Hosting weddings and private events at the vineyard and winery.",
+                "Conducting wedding planning and event coordination.",
+                "Maintaining vineyards and winery facilities.",
+                "Ensuring the winery produces 100% Wyoming-grown wines.",
+                "Utilizing labor-intensive practices like hand pruning and picking in vineyards.",
+                "Hosting diverse agricultural events (e.g., dry edible bean festivals) when appropriate.",
+                "Managing non-crop lands for conservation purposes.",
+                "Implementing wetlands and habitats to support wildlife.",
+                "Adjusting agricultural practices based on soil conditions and crop yield.",
+                "Exploring water-saving irrigation techniques (e.g., sub-surface irrigation)."
             ]
+        },
+        {
+            "task": "Crop Rotation and Diversification.",
+            "subtasks": [
+                "Switching between different crops based on market demand and profitability.",
+                "Focusing on short-season crops like corn due to the short growing season.",
+                "Introducing new, better-suited crop varieties each year.",
+                "\u4e3a\u8461\u8404\u56ed\u4fee\u526a\u679d\u6761\u3002",
+                "\u624b\u5de5\u91c7\u6458\u8461\u8404\u6216\u679c\u5b9e\u3002",
+                "\u7ba1\u7406\u91ce\u751f\u52a8\u7269\u5bf9\u519c\u4f5c\u7269\u7684\u7834\u574f\u3002",
+                "\u76d1\u63a7\u5e76\u4fc3\u8fdb\u91ce\u751f\u79bd\u7c7b\u7684\u6816\u606f\u5730\u53d1\u5c55\u3002",
+                "\u9002\u5e94\u6027\u8c03\u6574\u8015\u4f5c\u8ba1\u5212\u4ee5\u5e94\u5bf9\u5929\u6c14\u548c\u571f\u58e4\u6761\u4ef6\u7684\u53d8\u5316\u3002"
+            ]
+        },
+        {
+            "task": "Operating a diversified farm and ranch, then list subtasks related to that.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a diversified farm and ranch.",
+            "subtasks": []
+        },
+        {
+            "task": "Thus, the MAINTASK should be something like \"Operating a vineyard and diversified farm\", then subtasks would be about the physical inputs.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a vineyard and diversified farm would be best. Then have subtasks related to all aspects. But perhaps split main tasks: physical and administrative. The user may require just physical tasks, which are the front-end labor.",
+            "subtasks": []
+        },
+        {
+            "task": "Farming and ranching operations.",
+            "subtasks": []
+        },
+        {
+            "task": "Running cattle and managing pastureland.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting and harvesting crops.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a vineyard.",
+            "subtasks": []
+        },
+        {
+            "task": "Conducting events.",
+            "subtasks": []
+        },
+        {
+            "task": "Running cattle on pastureland.",
+            "subtasks": [
+                "Herding cattle using physical movement."
+            ]
+        },
+        {
+            "task": "Planting and harvesting crops.",
+            "subtasks": [
+                "Tilling soil for corn planting.",
+                "Planting corn seeds.",
+                "Harvesting corn through physical cutting."
+            ]
+        },
+        {
+            "task": "Cultivating alfalfa and grass hay.",
+            "subtasks": [
+                "Tilling and planting alfalfa.",
+                "Mowing and bailing hay."
+            ]
+        },
+        {
+            "task": "Growing wheat and silage corn.",
+            "subtasks": [
+                "Planting wheat in appropriate seasons.",
+                "Harvesting wheat through mechanical or manual means."
+            ]
+        },
+        {
+            "task": "Operating a vineyard.",
+            "subtasks": [
+                "Hand pruning vines (requires physical movement and dexterity).",
+                "Hand picking grapes from vines (manual harvesting, climbing ladders).",
+                "Cleaning and packing grapes collected from the vineyard (physical handling, sorting)."
+            ]
+        },
+        {
+            "task": "Hosting and managing events.",
+            "subtasks": [
+                "Setting up event areas (moving tents, setting tables/chairs).",
+                "Cleaning up after events (physical removal of trash, cleanup).",
+                "Preparing food and beverage stations (\u2699\ufe0f\u8bbe\u7f6e\u708a\u5177\u548c\u5de5\u5177) \u7ffb\u8bd1\u4e3a: Physical setup of cookers and utensils."
+            ]
+        },
+        {
+            "task": "Operating a vineyard and diversified farm.",
+            "subtasks": [
+                "Hand pruning grape vines (physical movement, dexterity).",
+                "Hand picking and packing grapes (manual labor, physical climbing, handling).",
+                "Planting and harvesting corn (manual planting, cutting).",
+                "Tilling and maintaining alfalfa and hay fields (physical effort)."
+            ]
+        },
+        {
+            "task": "Tending a vineyard and diversified farm.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Tending a vineyard and diversified farm.",
+            "subtasks": [
+                "Hand pruning grape vines - Involves precise cutting to shape the vine and remove non-fruiting branches. Requires dexterity, balance while reaching into the canopy, and the physical act of holding pruning tools.",
+                "Hand picking grapes - Climbing ladders to access upper branches; bending and stretching to pick grapes from surrounding foliage. Involves physical movement, concentration on fruit maturity, and possibly lifting full baskets.",
+                "Planting corn - This could involve using a seeder, which might require some physical effort to push along rows. However, many operations use mechanical planters. If using hand tools, it's the act of poking holes in the soil and inserting kernels.",
+                "Harvesting corn - Since the operation is labor-intensive, it's likely hand-harvesting. This means physical cutting of ears from the stalks, possible using a knife or specialized tool. Carrying harvested corn back to the field or storage.",
+                "Operating tractors for various agricultural tasks - Tasks like disk plowing, mowing hay, and possibly harvesting. This requires physical operation of the tractor, steering, engaging power take-off (PTO) for machinery.",
+                "Turning soil in hayfields and pastures using a plow or disc harrow. Physical operation of the equipment, walking behind or operating the machine.",
+                "Mowing hayfields with a mower or combine. The mechanical aspect here might require physical labor for setup and operation."
+            ]
+        },
+        {
+            "task": "Moreover, tasks related to event setup and cleanup are present but not clearly part of the farm's regular operations. Since the user specifies \"generate a list of physical tasks a person would have to perform with their body\", the tasks should relate directly to the agricultural activities. If anything like winery operations involve physical tasks (e.g., cellar work), but it's not discussed in the transcript. Here, the relevant MAINTASK seems to be tending a vineyard and diversified farm, with the key subtasks related to vine and cash crops.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a vineyard and diversified farm.",
+            "subtasks": [
+                "Hand pruning grape vines.",
+                "Hand picking grapes.",
+                "Planting corn.",
+                "Harvesting corn.",
+                "Operating tractors for various agricultural tasks."
+            ]
+        },
+        {
+            "task": "Ranching (cattle herding is physical)",
+            "subtasks": []
+        },
+        {
+            "task": "Growing grapes (vineyard work)",
+            "subtasks": []
+        },
+        {
+            "task": "Planting and harvesting corn.",
+            "subtasks": []
+        },
+        {
+            "task": "Producing hay and alfalfa.",
+            "subtasks": []
+        },
+        {
+            "task": "Wheat and silage corn production.",
+            "subtasks": []
+        },
+        {
+            "task": "Hosting events (physical setup/cleanup, though less specific).",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "\"Growing and harvesting crops (corn, hay, wheat, etc.)\", and \"Operating a vineyard\".",
+            "subtasks": []
+        },
+        {
+            "task": "Growing and harvesting crops.",
+            "subtasks": [
+                "Walking through fields to monitor crops.",
+                "Planting corn manually.",
+                "Cutting corn by hand.",
+                "Mowing hayfields with equipment (but considering possible manual labor).",
+                "Hand-baling hay (if not using a machine).",
+                "Threshing wheat by hand or using equipment.",
+                "Hand-harvesting corn in particular (if regular demand for product)."
+            ]
+        },
+        {
+            "task": "Operating a vineyard.",
+            "subtasks": [
+                "Hand pruning.",
+                "Hand picking and sorting grapes."
+            ]
+        },
+        {
+            "task": "Operating a vineyard and diversified farm.",
+            "subtasks": []
+        },
+        {
+            "task": "Alternatively, the Primary MAINTASK could be \"Farming and winemaking, involving hand labor\", then subtasks derived from that.",
+            "subtasks": []
+        },
+        {
+            "task": "Returning to the best MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a vineyard.",
+            "subtasks": []
+        },
+        {
+            "task": "Farming grain and hay crops.",
+            "subtasks": []
+        },
+        {
+            "task": "Hosting events on farm property.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a vineyard and diversified farm.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a vineyard and diversified farm.**",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a vineyard and diversified farm.",
+            "subtasks": []
         }
     ]
 }

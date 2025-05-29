@@ -5,79 +5,51 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Evaluating plant stands and determining winter wheat survival",
+            "task": "Evaluating Plant Stands",
             "subtasks": [
-                "Counting plants in multiple areas of the field",
-                "Assessing the vigor of the plants",
-                "Considering uniformity and patchiness in the stand",
-                "Checking for winter kill using the bag test method",
-                "Considering factors affecting winter survival (environmental conditions, variety, plant size and vigor)",
-                "Understanding the relationship between plant stand and yield"
+                "Assessing winter wheat plant survival",
+                "Evaluating the impact of environmental factors on winter survival",
+                "Determining optimal plant stand density for winter wheat",
+                "Checking for winterkill symptoms and viability",
+                "Managing patches and uneven field stands"
             ]
         },
         {
-            "task": "Weed control and identification",
+            "task": "Weed Identification and Control",
             "subtasks": [
-                "Identifying winter annual weed species (e.g., church sheet, Japanese brome, downy brome)",
-                "Differentiating between weed species based on pubescence, ligule, and seed head characteristics",
-                "Understanding the life cycles and control options for key weeds (foxtail barley, pricky lettuce, horseweed, field pennycress, false chamomile)",
-                "Considering integrated pest management strategies (chemical and mechanical control)",
-                "Monitoring and managing glyphosate-resistant weeds (Kochia)",
-                "Evaluating the need for pre-emergence and post-emergence herbicide applications",
-                "Considering the use of growth regulators and ALS inhibitors for weed control"
+                "Identifying winter annual weeds like Church's grass and Japanese brome",
+                "Differentiating between downy brome and other species",
+                "Recognizing spring wheat weeds such as foxtail barley and Prickly lettuce",
+                "Managing herbicide resistance in weeds like kochia",
+                "Implementing integrated weed control strategies"
             ]
         },
         {
-            "task": "Nitrogen management for winter wheat",
+            "task": "Nitrogen Management",
             "subtasks": [
-                "Understanding nitrogen requirements and yield potential for winter wheat",
-                "Considering the optimal timing and rate of nitrogen application (seeding time vs. spring application)",
-                "Evaluating the impact of nitrogen on protein content and yield",
-                "Considering soil test results and environmental factors in nitrogen management",
-                "Assessing the potential for nitrogen loss and adjusting application methods (e.g., ESN, UAN placement)",
-                "Monitoring plant development and applying nitrogen accordingly (e.g., fall application, watery stage nitrogen)"
+                "Assessing optimal nitrogen levels for winter wheat yields",
+                "Evaluating the impact of planting date on nitrogen requirements",
+                "Considering environmental factors in nitrogen application timing",
+                "Monitoring protein levels and adjusting nitrogen applications accordingly"
             ]
         },
         {
-            "task": "Disease management in winter wheat",
+            "task": "Disease Management",
             "subtasks": [
-                "Recognizing the importance of fungicide applications for disease control",
-                "Understanding the optimal timing for fungicide application (early flower stage)",
-                "Evaluating the effectiveness of different fungicide products (e.g., Pissarro, tebuconazole)",
-                "Considering the benefits of integrated fungicide and herbicide treatments",
-                "Monitoring disease occurrence (e.g., tan spot, scab, stripe rust) and adjusting management strategies",
-                "Following research and extension recommendations for effective disease management"
+                "Assessing the need for fungicide applications",
+                "Timing of fungicide treatments for maximum efficacy",
+                "Evaluating variety responses to fungicides",
+                "Managing stripe rust and other wheat diseases"
             ]
         },
         {
-            "task": "Managing herbicide resistance",
+            "task": "Rotation and Weed Control",
             "subtasks": [
-                "Monitoring for glyphosate-resistant weeds (Kochia) and adjusting management practices",
-                "Evaluating alternative herbicide products for resistant populations",
-                "Implementing a rotation of herbicide modes of action",
-                "Considering the role of mechanical cultivation in managing resistant weeds",
-                "Monitoring the development of resistance and staying informed on best management practices"
+                "Analyzing the impact of no-till rotations on weed management",
+                "Evaluating the efficacy of different herbicide combinations",
+                "Considering the role of crop rotation in integrated pest management",
+                "Assessing the resistance levels in weed populations"
             ]
-        },
-        {
-            "task": "MAINTASK: Evaluating plant stands and determining winter wheat survival",
-            "subtasks": []
-        },
-        {
-            "task": "Weed control and identification",
-            "subtasks": []
-        },
-        {
-            "task": "Nitrogen management for winter wheat",
-            "subtasks": []
-        },
-        {
-            "task": "Disease management in winter wheat",
-            "subtasks": []
-        },
-        {
-            "task": "Managing herbicide resistance",
-            "subtasks": []
         }
     ]
 }

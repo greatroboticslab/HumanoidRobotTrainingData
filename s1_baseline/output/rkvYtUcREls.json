@@ -5,46 +5,65 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Assessing drought-affected corn yield",
+            "task": "",
             "subtasks": [
-                "Observing the extent of heat scald on corn plants",
-                "Examining the condition of leaves and ears for signs of photosynthesis impairment",
-                "Investigating ear development and completeness for yield assessment",
-                "Noting soil conditions and their impact on plant health",
-                "Considering the effects of herbicide application on plant development",
-                "Evaluating the potential for yield loss due to drought-induced factors",
-                "Predicting the impact of plant death on remaining ears and kernel development"
+                "Examine corn plants for signs of heat scald",
+                "Evaluate leaf photosynthesis capability",
+                "Check ear development for incomplete pollination",
+                "Assess kernel set and presence of missing kernels"
             ]
         },
         {
-            "task": "Discussing yield expectations based on field observations",
+            "task": "",
             "subtasks": [
-                "Identifying key yield-limiting factors such as incomplete pollination, kernel abortion, and test weight",
-                "Estimating yield reductions based on ear and kernel condition",
-                "Considering variable soil and population densities within the field"
+                "Consider stage of kernel development",
+                "Expect decreased kernel size and test weight",
+                "Anticipate potential yield losses"
             ]
         },
         {
-            "task": "Providing agronomy insights for future planning",
+            "task": "",
             "subtasks": [
-                "Recommending adaptive management practices for next growing season",
-                "Encouraging growers to monitor soil conditions and adjust planting populations accordingly",
-                "Highlighting the importance of timely weed control in maintaining crop health"
+                "Note differences in plant populations across field",
+                "Compare yield potential based on soil quality and population"
             ]
         },
         {
-            "task": "Engaging with the audience and promoting agricultural resources",
+            "task": "",
             "subtasks": [
-                "Answering viewer questions and providing contact information for additional support",
-                "Directing viewers to Pioneer's website for further information",
-                "Inviting social media interaction for ongoing agronomy discussions"
+                "Expect difficult kernel recovery due to shriveling",
+                "Consider low test weight implications"
             ]
         },
         {
-            "task": "Concluding the video and expressing optimism for future harvests",
+            "task": "MAINTASK:",
             "subtasks": [
-                "Offering encouragement for resilient agricultural practices",
-                "Expressing gratitude to the audience and signing off"
+                "Examine corn plants for signs of heat scald",
+                "Evaluate leaf photosynthesis capability",
+                "Check ear development for incomplete pollination",
+                "Assess kernel set and presence of missing kernels"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "Consider stage of kernel development",
+                "Expect decreased kernel size and test weight",
+                "Anticipate potential yield losses"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "Note differences in plant populations across field",
+                "Compare yield potential based on soil quality and population"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "Expect difficult kernel recovery due to shriveling",
+                "Consider low test weight implications"
             ]
         }
     ]

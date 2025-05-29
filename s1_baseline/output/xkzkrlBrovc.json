@@ -5,69 +5,204 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Install a sprinkler system",
+            "task": "Identify the location of sprinkler valves and mark with colored flags.",
             "subtasks": [
-                "Flag each sprinkler valve location",
-                "Dig up the main water line near the water meter",
-                "Install a ball valve for water control",
-                "Add a valve box for future water shut-off",
-                "Trench for pipes (acknowledge time-consuming and physically demanding nature)",
-                "Install a backflow prevention device (e.g., pressure vacuum breaker)",
-                "Connect PVC pipes between main line and valves",
-                "Use a manifold kit for easier valve replacement",
-                "Install Class 200 pipe for lower water pressure areas",
-                "Use a water-powered boring kit to run pipe under driveway",
-                "Install swing joint sprinkler heads for flexibility",
-                "Bury direct burial wire along the trench",
-                "Protect wires with PVC conduit and silicone connectors",
-                "Coil wires to provide surge protection",
-                "Fill trenches with compacted soil",
-                "Protect valves with crushed rock",
-                "Install rain sensor above sprinkler coverage",
-                "Flushing and testing backflow preventer",
-                "Connect sprinkler wires to the controller",
-                "Isolate wires to the correct zones on the controller",
-                "Install various Rainbird sprinkler heads (RVan, HE Van)",
-                "Adjust sprinkler head direction and angles",
-                "Set controller programming for specific water needs"
+                "Determine the area for each valve's zone.",
+                "Use different colored flags to denote each zone's path.",
+                "Mark the exact spots where trenches need to be dug using marking spray."
             ]
         },
         {
-            "task": "Install an agricultural irrigation system",
-            "subtasks": []
-        },
-        {
-            "task": "Install a sprinkler system followed by subtasks from the transcript. However, perhaps adapt two or three subtasks with agricultural-specific points, while keeping the rest as home installation tasks. Or maybe state that the main task is installation of a sprinkler system that can be relevant to both home and farm use, with subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Install a sprinkler system (specifically, the steps). To confirm, though, every task in the subs is directly from the transcript. But considering the user might want them to be relevant to agriculture, maybe I should adjust a couple. For instance:",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Install a sprinkler system. Then subtasks are the detailed steps in the video, but with agricultural relevance. For example:",
-            "subtasks": []
-        },
-        {
-            "task": "Install a sprinkler system",
+            "task": "Dig trenches for the main water line.",
             "subtasks": [
-                "Flag the location of each sprinkler valve (identify zones)",
-                "Excavate trenches for main water line (prepare irrigation channels)",
-                "Install a ball valve for water control (main irrigation valve)",
-                "Add a backflow preventer (safety device)",
-                "Connect PVC pipes between main line and valves (deliver water to zones)",
-                "Use a manifold system for easy valve replacement (ensure quick fix)",
-                "Install Class 200 pipe for low-pressure areas (efficient water distribution)",
-                "Bury electrical wiring using conduits (protect wire from damage)",
-                "Use waterproof silicone connectors for wire terminations (waterproof connections)",
-                "Coiling wires for electrical protection (hazard mitigation)",
-                "Compact soil around trenches (level and cover excavation)",
-                "Protect valves with crushed stone (improve drainage & prevent settling)",
-                "Install rain sensors above sprinkler coverage (improve water efficiency)",
-                "Test backflow device and assemble system components (ensure system functionality)",
-                "Program the controller to manage zones (schedule irrigation times)",
-                "Adjust sprinkler heads for coverage and direction (optimize water application)"
+                "Position the main water line near the water meter for maximum volume and pressure.",
+                "Split off the main line into the irrigation line using a ball valve.",
+                "Install a valve box over the ball valve for easy future access.",
+                "Remove obstacles (roots, sidewalk) as needed to accommodate the water line and pipes."
             ]
+        },
+        {
+            "task": "Install the backflow prevention device.",
+            "subtasks": [
+                "Understand local requirements for backflow prevention (anti-siphon or PVB).",
+                "Choose and install the appropriate backflow prevention device (e.g., pressure vacuum breaker)."
+            ]
+        },
+        {
+            "task": "Connect irrigation pipes and manifold.",
+            "subtasks": [
+                "Attach schedule 40 PVC pipes between the main line and valves.",
+                "Utilize premium manifold kits for easier valve replacement and faster installation.",
+                "Use Class 200 pipe for lower pressure areas to save cost and effort."
+            ]
+        },
+        {
+            "task": "Bore through driveways or concrete surfaces.",
+            "subtasks": [
+                "Use a water-powered boring kit to create a channel for pipes under concrete/driveways.",
+                "Ensure proper connection of pipes after boring."
+            ]
+        },
+        {
+            "task": "Install flexible swing joints for sprinkler heads.",
+            "subtasks": [
+                "Protect against damage from heavy objects or ground changes by using flexible joints."
+            ]
+        },
+        {
+            "task": "Ensure electrical safety and wire protection.",
+            "subtasks": [
+                "Use direct burial wire for underground connections without conduit.",
+                "Connect wires to valves using silicone-filled waterproof connectors.",
+                "Coil buried wires to prevent kinks and damage.",
+                "Route wiring through PVC conduit to the controller inside the garage."
+            ]
+        },
+        {
+            "task": "Configure controller and rain sensor.",
+            "subtasks": [
+                "Connect rain sensor and wires to the smart controller.",
+                "Strip wires and test each for correct zone assignment using a powered terminal.",
+                "Program controller settings to manage different zones and override features (e.g., yard vs. flower bed)."
+            ]
+        },
+        {
+            "task": "Install sprinkler heads and adjust arcs.",
+            "subtasks": [
+                "Select sprinkler heads (RVans, HE Vans) appropriate for coverage distance and nozzles.",
+                "Position sprinkler heads according to the planned zones (yard, flower beds).",
+                "Adjust the spray patterns of sprinklers to cover the designated areas without overlap.",
+                "Verify proper height and arc coverage for each sprinkler head."
+            ]
+        },
+        {
+            "task": "Final checks and testing.",
+            "subtasks": [
+                "Flush the backflow preventer and open test cocks.",
+                "Test each zone to ensure proper functionality and adjust as needed.",
+                "Verify the system's performance under normal water flow and evaluate water usage efficiency (e.g., 33% reduction with HE Van nozzles).",
+                "Encourage viewers to contact customer service for help and subscribe to the channel for more tips."
+            ]
+        },
+        {
+            "task": "Identify the location of sprinkler valves and mark with colored flags.",
+            "subtasks": [
+                "Determine the area for each valve's zone.",
+                "Use different colored flags to denote each zone's path.",
+                "Mark the exact spots where trenches need to be dug using marking spray."
+            ]
+        },
+        {
+            "task": "Dig trenches for the main water line.",
+            "subtasks": [
+                "Position the main water line near the water meter for maximum volume and pressure.",
+                "Split off the main line into the irrigation line using a ball valve.",
+                "Install a valve box over the ball valve for easy future access.",
+                "Remove obstacles (roots, sidewalk) as needed to accommodate the water line and pipes."
+            ]
+        },
+        {
+            "task": "Install the backflow prevention device.",
+            "subtasks": [
+                "Understand local requirements for backflow prevention (anti-siphon or PVB).",
+                "Choose and install the appropriate backflow prevention device (e.g., pressure vacuum breaker)."
+            ]
+        },
+        {
+            "task": "Connect irrigation pipes and manifold.",
+            "subtasks": [
+                "Attach schedule 40 PVC pipes between the main line and valves.",
+                "Utilize premium manifold kits for easier valve replacement and faster installation.",
+                "Use Class 200 pipe for lower pressure areas to save cost and effort."
+            ]
+        },
+        {
+            "task": "Bore through driveways or concrete surfaces.",
+            "subtasks": [
+                "Use a water-powered boring kit to create a channel for pipes under concrete/driveways.",
+                "Ensure proper connection of pipes after boring."
+            ]
+        },
+        {
+            "task": "Install flexible swing joints for sprinkler heads.",
+            "subtasks": [
+                "Protect against damage from heavy objects or ground changes by using flexible joints."
+            ]
+        },
+        {
+            "task": "Ensure electrical safety and wire protection.",
+            "subtasks": [
+                "Use direct burial wire for underground connections without conduit.",
+                "Connect wires to valves using silicone-filled waterproof connectors.",
+                "Coil buried wires to prevent kinks and damage.",
+                "Route wiring through PVC conduit to the controller inside the garage."
+            ]
+        },
+        {
+            "task": "Configure controller and rain sensor.",
+            "subtasks": [
+                "Connect rain sensor and wires to the smart controller.",
+                "Strip wires and test each for correct zone assignment using a powered terminal.",
+                "Program controller settings to manage different zones and override features (e.g., yard vs. flower bed)."
+            ]
+        },
+        {
+            "task": "Install sprinkler heads and adjust arcs.",
+            "subtasks": [
+                "Select sprinkler heads (RVans, HE Vans) appropriate for coverage distance and nozzles.",
+                "Position sprinkler heads according to the planned zones (yard, flower beds).",
+                "Adjust the spray patterns of sprinklers to cover the designated areas without overlap.",
+                "Verify proper height and arc coverage for each sprinkler head."
+            ]
+        },
+        {
+            "task": "Final checks and testing.",
+            "subtasks": [
+                "Flush the backflow preventer and open test cocks.",
+                "Test each zone to ensure proper functionality and adjust as needed.",
+                "Verify the system's performance under normal water flow and evaluate water usage efficiency (e.g., 33% reduction with HE Van nozzles).",
+                "Encourage viewers to contact customer service for help and subscribe to the channel for more tips."
+            ]
+        },
+        {
+            "task": "** Flag the location of each sprinkler valve according to the system design.",
+            "subtasks": []
+        },
+        {
+            "task": "** Dig trenches for the main water line.",
+            "subtasks": []
+        },
+        {
+            "task": "** Install the backflow prevention device.",
+            "subtasks": []
+        },
+        {
+            "task": "** Connect irrigation pipes and manifold.",
+            "subtasks": []
+        },
+        {
+            "task": "** Drill pipes under driveways or concrete.",
+            "subtasks": []
+        },
+        {
+            "task": "** Use flexible swing joints to protect sprinkler heads.",
+            "subtasks": []
+        },
+        {
+            "task": "** Ensure electrical safety and protect wires.",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up and program the smart controller.",
+            "subtasks": []
+        },
+        {
+            "task": "** Install and adjust sprinkler heads for coverage.",
+            "subtasks": []
+        },
+        {
+            "task": "** Complete system setup and testing.",
+            "subtasks": []
         }
     ]
 }

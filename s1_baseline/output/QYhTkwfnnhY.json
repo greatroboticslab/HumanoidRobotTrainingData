@@ -5,43 +5,120 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Determining Cover Crop Seeding Rate and Drill Setup",
+            "task": "Determine seeding rate and bushel weight for cover crop seeds.",
             "subtasks": [
-                "Checking seed analysis sheet for seeding rate",
-                "Calculating seeding rate using the number of acres and seed pounds if analysis sheet is unavailable",
-                "Using a bushel weight apparatus to determine seed volume for drill setting",
-                "Mathematically calculating bushel weight for seeds with mixed components",
-                "Setting drill to bushel weight for different seed types",
-                "Performing drill calibration using tarp, scales, and measuring the drive wheel circumference"
+                "Refer to seed analysis sheet for seeding rate and bushel weight.",
+                "If sheet not available, calculate seeding rate by dividing number of pounds of seed by the number of acres.",
+                "Calculate bushel weight using seed analysis sheet or determine through mathematical calculation or a bushel weight measurement device."
             ]
         },
         {
-            "task": "Seed Delivery and Setup Details",
+            "task": "Calibrate drill for cover crop seeding.",
             "subtasks": [
-                "Locating the seed analysis sheet in the delivery tote",
-                "Understanding the inclusion of address and shipping label behind the seed analysis sheet",
-                "Checking the tote for the presence of a plastic holder with necessary information",
-                "Adjusting drill settings based on seed analysis information and calibration"
+                "Measure circumference of drive wheel.",
+                "Raise the drill to spin the drive wheel freely.",
+                "Collect seed from spinning drive wheel into a tarp.",
+                "Weigh the collected seed from the tarp.",
+                "Convert the tarp seed weight to pounds per acre using the drill's width and the number of wheel rotations."
             ]
         },
         {
-            "task": "MAINTASK: Determining Cover Crop Seeding Rate and Drill Setup",
+            "task": "Adjust drill setting based on calculated bushel weight.",
             "subtasks": [
-                "Checking seed analysis sheet for seeding rate",
-                "Calculating seeding rate using the number of acres and seed pounds if analysis sheet is unavailable",
-                "Using a bushel weight apparatus to determine seed volume for drill setting",
-                "Mathematically calculating bushel weight for seeds with mixed components",
-                "Setting drill to bushel weight for different seed types",
-                "Performing drill calibration using tarp, scales, and measuring the drive wheel circumference"
+                "Convert seed proportions from pounds per acre to bushels based on the conversion factors for each component (e.g., oats = 32 lbs/bu, peas = 60 lbs/bu).",
+                "Set the drill to the approximate bushel settings for each component, considering their impact on the overall mix."
             ]
         },
         {
-            "task": "Seed Delivery and Setup Details",
+            "task": "Set the drill\u2019s seeding depth as per the cover crop requirements.",
             "subtasks": [
-                "Locating the seed analysis sheet in the delivery tote",
-                "Understanding the inclusion of address and shipping label behind the seed analysis sheet",
-                "Checking the tote for the presence of a plastic holder with necessary information",
-                "Adjusting drill settings based on seed analysis information and calibration"
+                "Determine the appropriate planting depth for the cover crop based on seed depth recommendations."
+            ]
+        },
+        {
+            "task": "Determine drilling settings for cover crop seeds.",
+            "subtasks": []
+        },
+        {
+            "task": "Determine and set drilling parameters for cover crop seed (seeding rate, depth).",
+            "subtasks": []
+        },
+        {
+            "task": "So MAINTASK is \"Determine and set drilling parameters for cover crop seed\".",
+            "subtasks": []
+        },
+        {
+            "task": "determine rate, calibrate drill, set volume, and set depth. So each of these is a task that would need to be performed physically, considering the given transcript. Therefore, these four MAINTASKs with their subtasks would be appropriate.",
+            "subtasks": []
+        },
+        {
+            "task": "Check seed analysis sheet for bushel weight and rate.",
+            "subtasks": []
+        },
+        {
+            "task": "Verify necessary information for drilling setup.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up the drilling process for cover crop planting.",
+            "subtasks": []
+        },
+        {
+            "task": "Alternatively, four MAINTASKs as thought earlier.",
+            "subtasks": []
+        },
+        {
+            "task": "Determine the correct seeding rate and drill settings for planting cover crop seeds.",
+            "subtasks": []
+        },
+        {
+            "task": "Determine the correct seeding rate and drill settings for planting cover crop seeds.",
+            "subtasks": []
+        },
+        {
+            "task": "Convert the total seed weight (94 pounds) into the equivalent bushel volume.",
+            "subtasks": []
+        },
+        {
+            "task": "But without knowing the base method, this must be calculated. So the MAINTASK is to convert the total coverage (94 lbs per acre) to the respective number of bushels based on the different components.",
+            "subtasks": []
+        },
+        {
+            "task": "Convert a mix of seed weights into the equivalent number of bushels.",
+            "subtasks": []
+        },
+        {
+            "task": "Determine the correct seeding rate per acre and bushel weight for cover crop planting.",
+            "subtasks": []
+        },
+        {
+            "task": "Set the drilling rate on the seeder to the required volumetric amount (bushels per acre).",
+            "subtasks": []
+        },
+        {
+            "task": "Set the drilling depth according to the specific needs of the covered crops.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Determine and set drilling parameters for cover crop seed.",
+            "subtasks": [
+                "Check seed analysis sheet for seeding rate and bushel weight. Calculate if unavailable.",
+                "Convert seed weights of individual components to bushels (e.g., 64 lbs oats = 2 bu, 30 lbs peas = 0.5 bu)."
+            ]
+        },
+        {
+            "task": "Calibrate drill for accurate planting.",
+            "subtasks": [
+                "Measure drive wheel circumference.",
+                "Spin drive wheels freely, collect seed on tarp.",
+                "Weigh collected seed.",
+                "Calculate pounds per acre (e.g., (seed weight * 43,560) / (drill width * wheel circumference * rotations))."
+            ]
+        },
+        {
+            "task": "Adjust drill's planting depth.",
+            "subtasks": [
+                "Confirm and set appropriate depth based on cover crop requirements."
             ]
         }
     ]

@@ -5,53 +5,151 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Emptying and rinsing pesticide containers.",
+            "task": "Rinse measuring cylinder and add water to spray liquid.",
             "subtasks": [
-                "Identify and locate pesticide containers.",
-                "Confirm containers are empty.",
-                "Rinse each container three times with water.",
-                "Transfer rinse water to the spray liquid.",
-                "Securely replace container lids."
+                "Fill measuring cylinder with water.",
+                "Rinse measuring cylinder three times.",
+                "Pour rinse water into spray liquid.",
+                "If pesticide containers are empty, rinse them with water.",
+                "Pour container rinses into sprayer tank twice more."
             ]
         },
         {
-            "task": "Preparing the pesticide spray solution.",
+            "task": "Replace the sprayer tank lid.",
             "subtasks": [
-                "Fill the sprayer tank with water.",
-                "Add the rinsed pesticide concentrate to the tank.",
-                "Agitate the sprayer to ensure proper mixture.",
-                "Verify the solution's consistency and concentration."
+                "Close the sprayer tank.",
+                "Ensure lid is secure."
             ]
         },
         {
-            "task": "Ensuring safety measures for pesticide use.",
+            "task": "Agitate the sprayer to mix product and water.",
             "subtasks": [
-                "Review website for pesticide use guidelines.",
-                "Check for recommended personal protective equipment (PPE)."
+                "Shake or stir the sprayer tank.",
+                "Ensure even mixing of pesticide and water."
             ]
         },
         {
-            "task": "Proper container handling and disposal.",
+            "task": "Check website for pesticide use information.",
             "subtasks": [
-                "Dispose of empty pesticide containers responsibly.",
-                "Follow local regulations for waste disposal.",
-                "Store containers out of reach of children and animals."
+                "Open web browser or device.",
+                "Visit the provided website URL.",
+                "Look for information on pesticide use.",
+                "Note appropriate personal protective equipment (PPE) details."
             ]
         },
         {
-            "task": "Emptying and Rinsing Pesticide Containers",
+            "task": "Rinse the measuring cylinder three times and add this water to the spray liquid.",
+            "subtasks": [
+                "Fill the measuring cylinder with water.",
+                "Rinse the measuring cylinder three times.",
+                "Pour the rinse water into the spray liquid."
+            ]
+        },
+        {
+            "task": "If you have emptied any pesticide containers, also rinse them with water and add the rinsing water into the sprayer tank. Do this twice more.",
+            "subtasks": [
+                "Check if pesticide containers are empty.",
+                "If yes, rinse them with water.",
+                "Pour the container rinses into the sprayer tank two times."
+            ]
+        },
+        {
+            "task": "Replace the tank lid.",
+            "subtasks": [
+                "Close the sprayer tank lid.",
+                "Ensure the lid is properly closed."
+            ]
+        },
+        {
+            "task": "Agitate the sprayer to mix the product with the water.",
+            "subtasks": [
+                "Shake or stir the sprayer tank gently.",
+                "Check if the pesticide and water are well mixed."
+            ]
+        },
+        {
+            "task": "For more information about using pesticides and which PPE to use, visit our website.",
+            "subtasks": [
+                "Open a web browser or device.",
+                "Navigate to the specified website.",
+                "Search for pesticide usage guidelines.",
+                "Note the recommended personal protective equipment (PPE)."
+            ]
+        },
+        {
+            "task": "Rinse the measuring cylinder three times and add this water to the spray liquid.",
             "subtasks": []
         },
         {
-            "task": "Preparing the Pesticide Spray Solution",
+            "task": "If you have emptied any pesticide containers, also rinse them with water and add the rinsing water into the sprayer tank. Do this twice more.",
             "subtasks": []
         },
         {
-            "task": "Ensuring Safety Measures for Pesticide Use",
+            "task": "Replace the tank lid.",
             "subtasks": []
         },
         {
-            "task": "Proper Container Handling and Disposal",
+            "task": "Agitate the sprayer to mix the product with the water.",
+            "subtasks": []
+        },
+        {
+            "task": "For more information about using pesticides and which PPE to use, visit our website.",
+            "subtasks": []
+        },
+        {
+            "task": "Rinse the measuring cylinder three times and add this water to the spray liquid.",
+            "subtasks": []
+        },
+        {
+            "task": "If you have emptied any pesticide containers, also rinse them with water and add the rinsing water into the sprayer tank. Do this twice more.",
+            "subtasks": []
+        },
+        {
+            "task": "Replace the tank lid.",
+            "subtasks": []
+        },
+        {
+            "task": "Agitate the sprayer to mix the product with the water.",
+            "subtasks": []
+        },
+        {
+            "task": "For more information about using pesticides and which PPE to use, visit our website.",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the sprayer with accurate measurements.",
+            "subtasks": []
+        },
+        {
+            "task": "Access and review safety information.",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the spray solution for the sprayer.",
+            "subtasks": []
+        },
+        {
+            "task": "Obtain information on pesticide use and appropriate protective equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "Rinse the measuring cylinder three times and add the rinse water to the spray liquid.",
+            "subtasks": []
+        },
+        {
+            "task": "Rinse any empty pesticide containers and add the rinse water to the sprayer tank twice more.",
+            "subtasks": []
+        },
+        {
+            "task": "Replace the sprayer tank lid.",
+            "subtasks": []
+        },
+        {
+            "task": "Agitate the sprayer to mix the pesticide and water.",
+            "subtasks": []
+        },
+        {
+            "task": "Visit the website for additional information on pesticides and PPE.",
             "subtasks": []
         }
     ]

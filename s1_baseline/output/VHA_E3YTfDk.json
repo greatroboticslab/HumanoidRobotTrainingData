@@ -7,31 +7,26 @@
         {
             "task": "Milking a dairy cow",
             "subtasks": [
-                "Prepare the cow by applying teat dip",
-                "Wait for teat dip to sit and sanitize teats",
-                "Wipe off teat dip after sanitization",
-                "Hand milk the cow to check milk and udder condition",
-                "Position the milk machine's claw",
-                "Turn on the suction using the button",
-                "Secure the milk machine on the cow's udder"
+                "Prepare teat dip for sanitization",
+                "Apply teat dip to cow's teats",
+                "Allow teat dip to sit for 30 seconds",
+                "Wipe off teat dip",
+                "Position hand around cow's udder to manually express milk",
+                "Use milking machine (claw) to suction milk from quarters",
+                "Check milk quality and udder condition through manual expression"
             ]
         },
         {
-            "task": "Milking a dairy cow. Then, the steps involved: they start by putting teat dip on the cow's teats, which is a sanitizing step. That's a subtask: apply teat dip. Then, they let it sit for a bit and wipe it off. Wait, the transcript says after wiping off the teat dip, but maybe this happens after the initial application. So maybe the process is: first, apply teat dip, let it sit, then wipe it off\u2014so those are consecutive steps. But perhaps the subtasks are: apply teat dip, wait, then wipe. Hmm.",
-            "subtasks": []
-        },
-        {
-            "task": "turn on the milk machine's suction, secure the claw onto the udder. So the structure is: MAINTASK: Milking a dairy cow. Subtasks include applying teat dip, checking the milk and udder condition, sanitizing again before machine use, then using the milk machine. The entire process involves physical interaction with the cow, using hands and operating the machine. The main physical tasks are cleaning, inspecting, and applying mechanical action. That's the essence of milking.",
-            "subtasks": []
-        },
-        {
-            "task": "Milking a dairy cow**",
+            "task": "MAINTASK: Milking a dairy cow",
             "subtasks": [
-                "Apply teat dip** \u2013 Sanitize the cow's teats using a sanitizing solution.",
-                "Check milk and udder condition** \u2013 Hand-milk each quarter to ensure the milk is of good quality and the udder is healthy.",
-                "Reapply teat dip** \u2013 Apply another round of teat dip, let it sit for 30 seconds, and then remove it.",
-                "Position milk machine** \u2013 Attach the milking machine (claw) to the cow's udder and activate the suction.",
-                "Ensure machine attachment** \u2013 Confirm the machine is properly positioned on the udder quarters for efficient milk extraction."
+                "Apply teat dip sanitizer to cow's teats",
+                "Wait 30 seconds for teat dip to sit",
+                "Wipe off teat dip",
+                "Manually express milk from each quarter to check quality and udder condition",
+                "Apply second teat dip sanitizer to cow's teats",
+                "Wait 30 seconds for teat dip to sit",
+                "Wipe off teat dip",
+                "Activate milking machine (claw) to suction milk from quarters"
             ]
         }
     ]

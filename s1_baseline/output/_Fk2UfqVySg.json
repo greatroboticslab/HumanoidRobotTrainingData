@@ -5,15 +5,59 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Pruning apple trees to modified central leader system",
+            "task": "Pruning apple trees",
             "subtasks": [
-                "Identify main scaffold branches and prune to leave desired spacing",
-                "Remove competing branches and maintain structure",
-                "Protect branch collars during pruning",
-                "Thin fruit buds selectively to promote tree shape",
-                "Shorten overlong branches to control size and improve shape",
-                "Prune top scaffold branches to maintain balance with main scaffold",
-                "Note natural tree growth progression for future reference"
+                "Starting the pruning process",
+                "Considering main and top scaffold branches",
+                "Identifying and removing competing branches",
+                "Trimming long or misdirected branches",
+                "Maintaining proper spacing between branches",
+                "Identifying and preserving fruit buds",
+                "Adjusting the tree's height and structure",
+                "Tying up branches for support"
+            ]
+        },
+        {
+            "task": "Pruning lower scaffold branches",
+            "subtasks": [
+                "Removing unnecessary branches in the lower scaffold",
+                "Preserving desired branches in the lower scaffold"
+            ]
+        },
+        {
+            "task": "Pruning top scaffold branches",
+            "subtasks": [
+                "Selecting and maintaining the central leader",
+                "Removing competing branches in the top scaffold",
+                "Trimming excess growth to promote even branching"
+            ]
+        },
+        {
+            "task": "MAINTASK: Pruning apple trees",
+            "subtasks": [
+                "Starting the pruning process",
+                "Considering main and top scaffold branches",
+                "Identifying and removing competing branches",
+                "Trimming long or misdirected branches",
+                "Maintaining proper spacing between branches",
+                "Identifying and preserving fruit buds",
+                "Adjusting the tree's height and structure",
+                "Tying up branches for support"
+            ]
+        },
+        {
+            "task": "Pruning lower scaffold branches",
+            "subtasks": [
+                "Removing unnecessary branches in the lower scaffold",
+                "Preserving desired branches in the lower scaffold"
+            ]
+        },
+        {
+            "task": "Pruning top scaffold branches",
+            "subtasks": [
+                "Selecting and maintaining the central leader",
+                "Removing competing branches in the top scaffold",
+                "Trimming excess growth to promote even branching"
             ]
         }
     ]

@@ -5,18 +5,87 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Construction of a water dam",
+            "task": "Planning and designing a dam for construction",
             "subtasks": [
-                "Locating the dam site",
-                "Determining the type of dam based on landscape",
-                "Ensuring proper functionality of dam outlet",
-                "Incorporating a trickle pipe for efficient water flow",
-                "Preventing erosion through proper outlet design",
-                "Excavating material for the dam with water coverage",
-                "Using clay-rich soil for construction",
-                "Compacting the soil to prevent leaks",
-                "Maintaining proper dam slope (front and back batter)",
-                "Ensuring sufficient freeboard"
+                "Researching and understanding different types of dams (one-wall, two-wall, three-wall)",
+                "Considering landscape to determine appropriate dam type",
+                "Ensuring compliance with legislation for dam construction",
+                "Prioritizing dam longevity in planning and design",
+                "Positioning the outlet to match water inflow and prevent erosion",
+                "Installing a trickle pipe to maintain outlet dryness and prevent paddock flooding",
+                "Ensuring proper water coverage during dam filling to prevent erosion",
+                "Using good clay material for dam construction and proper compaction to prevent leaks",
+                "Maintaining proper batter angles (three to one on front and two and a half to three to one on back) for dam stability",
+                "Ensuring sufficient freeboard (at least one meter) to maintain dam safety"
+            ]
+        },
+        {
+            "task": "Excavating and constructing the dam foundation",
+            "subtasks": [
+                "Removing topsoil from excavation site",
+                "Building the dam wall using compacted clay material",
+                "Creating a key line where clay meets ground by laying clay directly on clay",
+                "Constructing the dam with a wide crest (three meters) for stability",
+                "Reinforcing the backside of the dam with a well-defined batter angle"
+            ]
+        },
+        {
+            "task": "Ensuring proper outlet and trickle pipe installations",
+            "subtasks": [
+                "Designing and positioning the outlet to discharge water free of the dam",
+                "Selecting an appropriate spill area that minimizes erosion and damage",
+                "Installing a trickle pipe to direct excess water behind the dam and maintain grassed area",
+                "Positioning trickle pipe along natural water flow path to prevent soil disruption"
+            ]
+        },
+        {
+            "task": "Post-construction maintenance and monitoring",
+            "subtasks": [
+                "Regularly monitoring dam integrity and freeboard levels",
+                "Inspecting outlets and trickle pipes for signs of erosion or damage",
+                "Implementing preventive measures to address any structural issues promptly",
+                "Performing routine inspections for leaks or stability concerns"
+            ]
+        },
+        {
+            "task": "Planning and designing a dam for construction**",
+            "subtasks": [
+                "Researching and understanding different types of dams (one-wall, two-wall, three-wall)**",
+                "Considering landscape to determine appropriate dam type**",
+                "Ensuring compliance with legislation for dam construction**",
+                "Prioritizing dam longevity in planning and design**",
+                "Positioning the outlet to match water inflow and prevent erosion**",
+                "Installing a trickle pipe to maintain outlet dryness and prevent paddock flooding**",
+                "Ensuring proper water coverage during dam filling to prevent erosion**",
+                "Using good clay material for dam construction and proper compaction to prevent leaks**",
+                "Maintaining proper batter angles (three to one on front and two and a half to three to one on back) for dam stability**",
+                "Ensuring sufficient freeboard (at least one meter) to maintain dam safety**"
+            ]
+        },
+        {
+            "task": "Excavating and constructing the dam foundation**",
+            "subtasks": [
+                "Removing topsoil from excavation site**",
+                "Building the dam wall using compacted clay material**",
+                "Creating a key line where clay meets ground by laying clay directly on clay**",
+                "Constructing the dam with a wide crest (three meters) for stability**"
+            ]
+        },
+        {
+            "task": "Ensuring proper outlet and trickle pipe installations**",
+            "subtasks": [
+                "Designing and positioning the outlet to discharge water free of the dam**",
+                "Selecting an appropriate spill area that minimizes erosion and damage**",
+                "Installing a trickle pipe to direct excess water behind the dam and maintain grassed area**"
+            ]
+        },
+        {
+            "task": "Post-construction maintenance and monitoring**",
+            "subtasks": [
+                "Regularly monitoring dam integrity and freeboard levels**",
+                "Inspecting outlets and trickle pipes for signs of erosion or damage**",
+                "Implementing preventive measures to address any structural issues promptly**",
+                "Performing routine inspections for leaks or stability concerns**"
             ]
         }
     ]

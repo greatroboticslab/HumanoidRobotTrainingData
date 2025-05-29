@@ -5,34 +5,116 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Demonstrate slip production (shoot production) from sweet potatoes",
+            "task": "Prepare and propagate sweet potato shoots using water cups",
             "subtasks": [
-                "Collect three types of sweet potatoes (yellow, purple, white varieties)",
-                "Cut sweet potatoes into two sections using a knife",
-                "Insert toothpicks into each cut section for anchoring in water",
-                "Place cut sections in water cups, maintaining 1 cm depth of water",
-                "Monitor water level daily and add water as needed",
-                "Wait 1-2 weeks for shoots to develop; check progress weekly",
-                "When shoots reach 8-10 cm, remove them from mother roots",
-                "Separate shoots and place in new water cups for rooting",
-                "Wait 1 week for new roots to form on separated shoots",
-                "Transplant rooted shoots into main field or desired medium"
+                "Collect sweet potato samples (three varieties: yellow, purple, and white)",
+                "Prepare plastic cups with water",
+                "Clean and segment the sweet potatoes into two portions",
+                "Insert toothpicks into each segment for stabilization",
+                "Place segments into water cups, maintaining proper water levels",
+                "Wait 2 weeks for shoots to develop",
+                "Carefully remove shoots once they reach 8-10 cm in length",
+                "Re-dip shoots into new water cups for root development",
+                "Monitor new roots for 1 week before transplanting"
             ]
         },
         {
-            "task": "MAINTASK: Demonstrate slip production (shoot production) from sweet potatoes",
+            "task": "Transplant developed shoots into main field or desired media",
             "subtasks": [
-                "Collect three types of sweet potatoes (yellow, purple, white varieties)",
-                "Cut each sweet potato into two sections using a knife",
-                "Insert three toothpicks into each cut section for anchoring in water",
-                "Place cut sections in water cups, maintaining 1 cm depth of water",
-                "Monitor water level daily and add water as needed",
-                "Check progress weekly for shoot development (after one week)",
-                "Carefully remove shoots when they reach 8-10 cm in length",
-                "Transfer each shoot to a new water cup for rooting",
-                "Check new cups daily, ensuring water depth of at least 1 cm",
-                "After one week, transplant rooted shoots to main field or growing medium"
+                "Ensure proper spacing and environmental conditions for transplantation success"
             ]
+        },
+        {
+            "task": "Prepare and propagate sweet potato shoots using water cups",
+            "subtasks": [
+                "Collect three sweet potato varieties (yellow, purple, white)",
+                "Prepare plastic cups with water",
+                "Slice sweet potatoes into halves",
+                "Insert toothpicks into each sliced sweet potato",
+                "Place sliced sweet potatoes into cups with water, ensuring water levels are correct",
+                "Wait two weeks for shoots to develop",
+                "Carefully remove shoots once they reach 8-10 cm",
+                "Replant shoots into new cups for root development (using toothpicks again?)",
+                "Allow new roots to develop for one week"
+            ]
+        },
+        {
+            "task": "Transplant developed shoots into the main field",
+            "subtasks": []
+        },
+        {
+            "task": "Wait, but when they did the first step, after the shoots are grown, they separate the shoots, right? So maybe \"Replant separated shoots into new water cups for rooting.\" Then once rooted, they can be transplanted. So the last MAINTASK would be \"Transplant developed shoots into main field or desired location.\"",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare and propagate sweet potato shoots using water cups",
+            "subtasks": []
+        },
+        {
+            "task": "But the speaker mentions that once you have the shoots, after a week of rooting, you can transplant them. So maybe steps 5-7 would occur, then steps after that. Wait, perhaps step 6 is after shoots are grown, then step 7 is dipping them into new water for rooting, and then step 8 is allowing them to regrow roots. Then finally step 9. So maybe multiple MAINTASKS?",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare and propagate sweet potato shoots using water cups",
+            "subtasks": []
+        },
+        {
+            "task": "Collect and prepare sweet potatoes for shoot production",
+            "subtasks": [
+                "Go to a shopping mall to collect three types of sweet potatoes (\u9ec4\u8272\u3001\u7d2b\u8272\u3001\u767d\u8272)."
+            ]
+        },
+        {
+            "task": "Set up cups and water for sweet potato shoot production.",
+            "subtasks": [
+                "Prepare three plastic cups.",
+                "Fill cups with tap water.",
+                "Wash and dry the sweet potatoes.",
+                "Cut the sweet potatoes into two halves each.",
+                "Insert a toothpick into each half (three toothpicks if three cups).",
+                "Position the halves horizontally in the cups with the cut side down, toothpick holding the vertical position."
+            ]
+        },
+        {
+            "task": "Wait for shoot development.",
+            "subtasks": [
+                "Wait approximately two weeks for the shoots to develop."
+            ]
+        },
+        {
+            "task": "Remove and re-root shoots for further growth.",
+            "subtasks": [
+                "Identify shoots that have reached 8-10 cm.",
+                "Carefully remove shoots from their cups.",
+                "Dip each shoot into a new cup with water.",
+                "Place shoots in new cups with toothpicks to hold them, ensuring water is about 1 cm deep."
+            ]
+        },
+        {
+            "task": "Allow shoot rooting.",
+            "subtasks": [
+                "Wait one week for shoots to develop roots in the new cups."
+            ]
+        },
+        {
+            "task": "Prepare and propagate sweet potato shoots using water cups",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare and propagate sweet potato shoots using water cups",
+            "subtasks": []
+        },
+        {
+            "task": "Transplant developed shoots into the main field",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare and propagate sweet potato shoots using water cups**",
+            "subtasks": []
+        },
+        {
+            "task": "Transplant developed shoots into the main field**",
+            "subtasks": []
         }
     ]
 }

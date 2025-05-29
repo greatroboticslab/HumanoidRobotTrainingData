@@ -5,16 +5,31 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Build and operate a simplified underground wheat farm using pistons.",
+            "task": "Building a floodgate system for a wheat farm.",
             "subtasks": [
-                "Position the farm belowground.",
-                "Install a single source block of water.",
-                "Set up floodgates using normal pistons.",
-                "Connect the pistons to a redstone trail.",
-                "Activate the lever to manage water flow.",
-                "Adjust the farm width for maximum wheat planting (90 plants).",
-                "Use the system to collect items without walking in water.",
-                "Adapt the system for other crops (e.g., mushroom farms)."
+                "Positioning water blocks.",
+                "Placing pistons to serve as floodgates.",
+                "Setting up redstone wires to control pistons.",
+                "Arranging wheat plants in the harvest area.",
+                "Testing the floodgate system."
+            ]
+        },
+        {
+            "task": "Expanding the farm to fit more wheat.",
+            "subtasks": [
+                "Extending the existing layout.",
+                "Adjusting the number of wheat plants accordingly.",
+                "Ensuring proper spacing for the additional plants.",
+                "Verifying the redstone circuit for all pistons."
+            ]
+        },
+        {
+            "task": "Adapting the system for other crops.",
+            "subtasks": [
+                "Modifying the layout for mushroom farming.",
+                "Adjusting water flow for different crop needs.",
+                "Testing the system with a new crop.",
+                "Documenting the setup for future reference."
             ]
         }
     ]

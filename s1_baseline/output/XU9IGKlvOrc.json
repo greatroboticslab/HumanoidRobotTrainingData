@@ -5,30 +5,53 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Give a series of farming-related tasks based on the video transcript.",
-            "subtasks": []
-        },
-        {
-            "task": "Provide a list of tasks performed in relation to the Drake Beck's discussion on agriculture, soil management, and cattle grazing at Dakota Lakes Research Farm.",
+            "task": "Thank sponsors and presenters",
             "subtasks": [
-                "Welcome the sponsors, as the event was supported by various agricultural organizations.",
-                "Explain the process of moving irrigation wires and sections using lateral moves, noting the challenges with wind disturbance.",
-                "Describe the use of suspended fence posts and buckets in maintaining pivot irrigation boundaries.",
-                "Detail the experience of moving cattle toward a pivot when they hear the irrigation motor, highlighting their attraction to recently swathed crops.",
-                "Discuss the benefits and challenges of swath grazing, balancing the nutritional needs of cattle with diverse forage sources.",
-                "Mention the use of data collection devices (collars and Fitbits) on cattle for monitoring health and performance.",
-                "Describe environmental concerns related to land degradation, including reduced organic matter and the need for restoration practices.",
-                "Explain the impact of agricultural practices on ecosystem health, emphasizing the importance of cover crops, balanced nutrition, and nutrient recycling.",
-                "Compare contemporary agricultural practices to historical methods, noting improvements in soil management and cover crop utilization.",
-                "Highlight the role of grazing in maintaining soil biology during periods of low moisture and cold temperatures.",
-                "Compare the economic and environmental considerations of feedlot systems versus rotational, grazing-based systems.",
-                "Highlight the depletion of phosphorus reserves and the need for agricultural systems that incorporate perennial cover crops.",
-                "Conclude with the overall vision for agriculture, emphasizing sustainable practices, long-term research, and the importance of preserving natural resources."
+                "Read through and acknowledge list of sponsors and presenters",
+                "Mention location and setting of the event (Dakota Lakes Research Farm)",
+                "Explain the process of moving irrigation wires and livestock (cattle)",
+                "Describe using swathed crops for grazing (oats, peas, and corn stalks)",
+                "Mention use of collars and Fitbits to track cattle behavior"
             ]
         },
         {
-            "task": "Set up irrigation systems for pivots.",
-            "subtasks": []
+            "task": "Discuss the impact of climate change on agricultural ecosystems",
+            "subtasks": [
+                "Highlight land degradation and soil organic matter loss",
+                "Address issues of water cycle balance and nutrients in ecosystems",
+                "Present the concept of regenerative agriculture and cover crops"
+            ]
+        },
+        {
+            "task": "Address energy and resource inefficiencies in modern agriculture",
+            "subtasks": [
+                "Discuss transportation costs and energy dependence in farming",
+                "Introduce alternative approaches like cold pressing oils and retaining nutrients",
+                "Emphasize the role of grazing animals in ecosystem health"
+            ]
+        },
+        {
+            "task": "Present results and experiences from swather grazing experiments",
+            "subtasks": [
+                "Share data on cattle performance (weight gain) during grazing periods",
+                "Discuss dietary balance and addressing protein deficiencies",
+                "Highlight the practical benefits of integrating corn stalks into grazing rotations"
+            ]
+        },
+        {
+            "task": "Address the future of feedlots and the shift towards outdoor grazing",
+            "subtasks": [
+                "Cite examples of successful swath grazing operations",
+                "Discuss environmental and economic reasons for transitioning from feedlots",
+                "Highlight the importance of long-term research and sustainability in agriculture"
+            ]
+        },
+        {
+            "task": "Reflect on resource depletion and holistic agricultural practices",
+            "subtasks": [
+                "Mention peak oil, phosphorus, and soil degradation",
+                "Argue for regenerative practices in agriculture to address future challenges"
+            ]
         }
     ]
 }

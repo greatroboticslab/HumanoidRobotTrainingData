@@ -5,187 +5,129 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Begin tractor training and operation.",
+            "task": "Preparing to drive a combine",
             "subtasks": [
-                "Sit on the tractor seat.",
-                "Adjust the seat for comfort.",
-                "Start the tractor engine.",
-                "Check all instruments and controls.",
-                "Press the clutch pedal to shift gears.",
-                "Use the steering wheel to turn the tractor.",
-                "Apply the brakes to stop the tractor.",
-                "Engage the differential lock when needed.",
-                "Operate the hydraulic system for lift attachments.",
-                "Adjust the implements to match the ground.",
-                "Monitor the field's progress while driving."
+                "Enter combine cab",
+                "Adjust seat and mirrors for visibility",
+                "Inspect combine controls",
+                "Start combine engine"
             ]
         },
         {
-            "task": "Start the harvesting process.",
+            "task": "Harvesting crops with combine",
             "subtasks": [
-                "Load the combine harvester with the harvested grain.",
-                "Secure the harvester onto the tractor.",
-                "Engage the lift to raise the harvester.",
-                "Control the combine harvester while moving.",
-                "Use the header to cut plants at the desired height.",
-                "Adjust the cutter bar height.",
-                "Operate the threshing system to separate grain from chaff.",
-                "Regulate the concave and\u7b5b\u9762 speed.",
-                "Adjust the antique finger gear if needed.",
-                "Clean the grain from the screen."
+                "Drive combine through field",
+                "Overlap rows for efficient coverage",
+                "Adjust combine settings for optimal harvest",
+                "Monitor grain tank filling",
+                "Stop combine and unload grain when tank is full"
             ]
         },
         {
-            "task": "Apply manure to the field.",
+            "task": "Adjusting combine for different crop conditions",
             "subtasks": [
-                "Attach the manure spreader to the tractor.",
-                "Check the spreader\u2019s settings for coverage.",
-                "Engage the manure spreader.",
-                "Operate the hydraulic system to open/close the gates.",
-                "Drive the tractor with spreader across the field.",
-                "Ensure even distribution of manure across the soil.",
-                "Adjust speed to control spreader output."
+                "Modify combine settings based on wind direction",
+                "Navigate around obstacles in the field"
             ]
         },
         {
-            "task": "Operate the sprayer.",
+            "task": "Ending harvest and cleaning up",
             "subtasks": [
-                "Fill the sprayer tank with pesticide.",
-                "Set the correct pesticide ratio.",
-                "Connect the sprayer hoses to the tractor\u2019s pump.",
-                "Adjust the pressure gauge to the appropriate setting.",
-                "Calibrate the nozzles for optimal spray coverage.",
-                "Start the sprayer pump and monitor pressure.",
-                "Operate the spray boom and adjust height.",
-                "Spot-spray areas as needed.",
-                "Discharge any leftover spray at the end of the day."
+                "Drive combine to storage area",
+                "Uncouple grain from combine",
+                "Clean combine and check for necessary maintenance"
             ]
         },
         {
-            "task": "Prepare for seed drilling.",
+            "task": "Post-harvest duties",
             "subtasks": [
-                "Assemble the seed drill components.",
-                "Load the seed drill with seeds.",
-                "Adjust the depth gauge wheels for proper seeding depth.",
-                "Set the hitch to the correct position.",
-                "Drive the seed drill over the field ensuring proper seeding rate.",
-                "Monitor the seed placement and soil cover."
+                "Transport harvested grain to storage facility",
+                "Weigh grain and record harvest data",
+                "Assess yield and make notes for future farming practices"
             ]
         },
         {
-            "task": "Drive tractor with attachments through field.",
+            "task": "Preparing to drive a combine",
             "subtasks": [
-                "Assess the field conditions for varying speeds.",
-                "Choose the gear ratio for traction.",
-                "Adjust the steering as needed to navigate through rows.",
-                "Increase or decrease throttle as needed for the task.",
-                "Periodically check the rearview mirror when needed."
+                "Enter combine cab",
+                "Adjust seat and mirrors for visibility",
+                "Inspect combine controls",
+                "Start combine engine"
             ]
         },
         {
-            "task": "Conduct stand counts and check the field for weed growth.",
+            "task": "Harvesting crops with combine",
             "subtasks": [
-                "Walk through the fields to visually inspect crop growth.",
-                "Identify weak spots or uneven growth.",
-                "Check for signs of pests or diseases.",
-                "Take random samples for stand count.",
-                "Note down observations for future reference."
+                "Drive combine through field",
+                "Overlap rows for efficient coverage",
+                "Adjust combine settings for optimal harvest",
+                "Monitor grain tank filling",
+                "Stop combine and unload grain when tank is full"
             ]
         },
         {
-            "task": "Start tractor and operation includes subtasks related to sitting, starting, checking, shifting, steering, etc. Then, for each machine: MAINTASK: Start harvesting, would have subtasks like setting up the combine, controlling it, adjusting header, cleaning, etc. Similarly, applying manure: attaching, operating, adjusting spreader. Operating sprayer: filling, setting ratios, connecting, operating spray boom. Seed drilling: setting up the drill, driving while seeding, monitoring. Then, conducting field inspections: walking through, inspecting plants, checking for weeds, taking notes.",
-            "subtasks": []
-        },
-        {
-            "task": "Therefore, considering all that, the answer includes multiple MAINTASKs for each major operation (tractor, combine, spreader, sprayer, seed drill) along with their respective subtasks. Field inspections are also a separate MAINTASK with its own subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Begin tractor training and operation.",
+            "task": "Adjusting combine for different crop conditions",
             "subtasks": [
-                "Sit on the tractor seat.",
-                "Adjust the seat for comfort.",
-                "Start the tractor engine.",
-                "Check all instruments and controls.",
-                "Press the clutch pedal to shift gears.",
-                "Use the steering wheel to turn the tractor.",
-                "Apply the brakes to stop the tractor.",
-                "Engage the differential lock when needed.",
-                "Operate the hydraulic system for lift attachments.",
-                "Adjust the implements to match the ground.",
-                "Monitor the field's progress while driving."
+                "Modify combine settings based on wind direction",
+                "Navigate around obstacles in the field"
             ]
         },
         {
-            "task": "Start the harvesting process.",
+            "task": "Ending harvest and cleaning up",
             "subtasks": [
-                "Load the combine harvester with the harvested grain.",
-                "Secure the harvester onto the tractor.",
-                "Engage the lift to raise the harvester.",
-                "Control the combine harvester while moving.",
-                "Use the header to cut plants at the desired height.",
-                "Adjust the cutter bar height.",
-                "Operate the threshing system to separate grain from chaff.",
-                "Regulate the concave and\u7b5b\u9762 speed.",
-                "Adjust the antique finger gear if needed.",
-                "Clean the grain from the screen."
+                "Drive combine to storage area",
+                "Uncouple grain from combine",
+                "Clean combine and check for necessary maintenance"
             ]
         },
         {
-            "task": "Apply manure to the field.",
+            "task": "Post-harvest duties",
             "subtasks": [
-                "Attach the manure spreader to the tractor.",
-                "Check the spreader\u2019s settings for coverage.",
-                "Engage the manure spreader.",
-                "Operate the hydraulic system to open/close the gates.",
-                "Drive the tractor with spreader across the field.",
-                "Ensure even distribution of manure across the soil.",
-                "Adjust speed to control spreader output."
+                "Transport harvested grain to storage facility",
+                "Weigh grain and record harvest data",
+                "Assess yield and make notes for future farming practices"
             ]
         },
         {
-            "task": "Operate the sprayer.",
+            "task": "Preparing to drive a combine",
             "subtasks": [
-                "Fill the sprayer tank with pesticide.",
-                "Set the correct pesticide ratio.",
-                "Connect the sprayer hoses to the tractor\u2019s pump.",
-                "Adjust the pressure gauge to the appropriate setting.",
-                "Calibrate the nozzles for optimal spray coverage.",
-                "Start the sprayer pump and monitor pressure.",
-                "Operate the spray boom and adjust height.",
-                "Spot-spray areas as needed.",
-                "Discharge any leftover spray at the end of the day."
+                "Enter combine cab",
+                "Adjust seat and mirrors for visibility",
+                "Inspect combine controls",
+                "Start combine engine"
             ]
         },
         {
-            "task": "Prepare for seed drilling.",
+            "task": "Harvesting crops with combine",
             "subtasks": [
-                "Assemble the seed drill components.",
-                "Load the seed drill with seeds.",
-                "Adjust the depth gauge wheels for proper seeding depth.",
-                "Set the hitch to the correct position.",
-                "Drive the seed drill over the field ensuring proper seeding rate.",
-                "Monitor the seed placement and soil cover."
+                "Drive combine through field",
+                "Overlap rows for efficient coverage",
+                "Adjust combine settings for optimal harvest",
+                "Monitor grain tank filling",
+                "Stop combine and unload grain when tank is full"
             ]
         },
         {
-            "task": "Drive tractor with attachments through field.",
+            "task": "Adjusting combine for different crop conditions",
             "subtasks": [
-                "Assess the field conditions for varying speeds.",
-                "Choose the gear ratio for traction.",
-                "Adjust the steering as needed to navigate through rows.",
-                "Increase or decrease throttle as needed for the task.",
-                "Periodically check the rearview mirror when needed."
+                "Modify combine settings based on wind direction",
+                "Navigate around obstacles in the field"
             ]
         },
         {
-            "task": "Conduct stand counts and check the field for weed growth.",
+            "task": "Ending harvest and cleaning up",
             "subtasks": [
-                "Walk through the fields to visually inspect crop growth.",
-                "Identify weak spots or uneven growth.",
-                "Check for signs of pests or diseases.",
-                "Take random samples for stand count.",
-                "Note down observations for future reference."
+                "Drive combine to storage area",
+                "Uncouple grain from combine",
+                "Clean combine and check for necessary maintenance"
+            ]
+        },
+        {
+            "task": "Post-harvest duties",
+            "subtasks": [
+                "Transport harvested grain to storage facility",
+                "Weigh grain and record harvest data",
+                "Assess yield and make notes for future farming practices"
             ]
         }
     ]

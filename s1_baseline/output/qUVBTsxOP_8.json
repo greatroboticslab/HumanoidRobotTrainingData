@@ -5,88 +5,15 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Harvesting bok choy from a tower garden",
+            "task": "Harvesting bok choy from a tower garden and preparing a stir fry",
             "subtasks": [
                 "Approach the tower garden",
-                "Identify bok choy plants ready for harvest",
-                "Carefully remove bok choy from the tower garden",
-                "Examine roots of harvested bok choy"
-            ]
-        },
-        {
-            "task": "Preparing a stir fry",
-            "subtasks": [
-                "Gather necessary ingredients for stir fry",
+                "Reach into the tower garden to pick bok choy",
+                "Inspect bok choy roots for health",
+                "Remove chosen bok choy from the tower garden",
                 "Wash harvested bok choy",
-                "Chop bok choy for stir fry",
-                "Prepare other ingredients for stir fry",
-                "Cook the stir fry"
-            ]
-        },
-        {
-            "task": "Harvesting bok choy from the tower garden with subtasks of approaching the garden, identifying plants, removing them, and examining roots.",
-            "subtasks": []
-        },
-        {
-            "task": "Preparing a stir fry with subtasks like gathering ingredients, washing bok choy, chopping, preparing other items, and cooking.",
-            "subtasks": []
-        },
-        {
-            "task": "Harvesting bok choy",
-            "subtasks": [
-                "Walking to tower garden, selecting plants, cutting/wrapping (I may not need to differentiate between those; just removing them), inspecting roots"
-            ]
-        },
-        {
-            "task": "Preparing stir fry",
-            "subtasks": [
-                "Cleaning bok choy, chopping into pieces, preparing other ingredients (like garlic, ginger, etc.), cooking"
-            ]
-        },
-        {
-            "task": "Prepare a stir fry with harvested bok choy",
-            "subtasks": [
-                "Gather all necessary ingredients (themselves subtasks), wash the bok choy, cut the bok choy into strips (chopping), cook the stir fry (which may have multiple subtasks)"
-            ]
-        },
-        {
-            "task": "YES, that should be the answer. The user can accept those two main tasks. If they ask for subtasks, as per the instructions, I should generalize and write MAINTASK with a list of subtasks, but since the original transcript provides a snippet, perhaps the main tasks suffice. Given the user instruction says \"generate a series of tasks based on the transcript\", without specifying complexity, so maybe the initial breakdown is okay. Let me check if \"tower garden\" needs its own task.",
-            "subtasks": [
-                ""
-            ]
-        },
-        {
-            "task": "Harvest bok choy from the tower garden",
-            "subtasks": [
-                "Walk to the tower garden",
-                "Identify mature bok choy",
-                "Carefully remove plants, noting the health of roots"
-            ]
-        },
-        {
-            "task": "Prepare a stir fry",
-            "subtasks": [
-                "Rinse harvested bok choy",
-                "Chop bok choy into appropriate sizes",
-                "Gather additional stir fry ingredients",
-                "Cook the stir fry"
-            ]
-        },
-        {
-            "task": "Harvest bok choy from the tower garden**",
-            "subtasks": [
-                "** Walk to the tower garden",
-                "** Identify mature bok choy",
-                "** Carefully remove plants, noting the health of roots"
-            ]
-        },
-        {
-            "task": "Prepare a stir fry**",
-            "subtasks": [
-                "** Rinse harvested bok choy",
-                "** Chop bok choy into appropriate sizes",
-                "** Gather additional stir fry ingredients",
-                "** Cook the stir fry"
+                "Prepare ingredients for stir fry (e.g., chopping other vegetables)",
+                "Cook stir fry according to recipe"
             ]
         }
     ]

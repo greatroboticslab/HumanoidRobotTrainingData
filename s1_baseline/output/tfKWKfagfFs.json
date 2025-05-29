@@ -5,20 +5,27 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Implementation of Alternate Wetting and Drying (AWD) technique for water-efficient rice farming",
+            "task": "Implement Alternate Wetting and Drying (AWD) technique for water-saving in irrigated rice fields.",
             "subtasks": [
-                "Familiarizing with AWD technique for reducing water use in rice fields",
-                "Understanding the optimal water depth for rice plants (5 cm during flowering and grain filling)",
-                "Observing weeds in early crop growth stages and adjusting AWD timing if necessary",
-                "Monitoring the 15 cm water depth threshold using a field water tube",
-                "Constructing a field water tube from available materials (e.g., plastic pipe, bamboo)",
-                "Drilling holes in the bottom 20 cm of the field water tube for proper water level measurement",
-                "Placing the field water tube in the rice field near the bund, ensuring it is 1 meter away from the edge",
-                "Ensuring proper functionality by verifying water levels inside and outside the tube",
-                "Starting Safe AWD a few days after transplanting or when direct-seeded rice is 10 cm tall",
-                "Applying nitrogen fertilizer on dry soil prior to irrigation",
-                "Adjusting AWD practice by lowering the water depth threshold to 20, 25, 30 cm or deeper as confidence builds",
-                "Promoting AWD adoption at the community or system level for maximum impact and water savings"
+                "Observe water depth in rice field using a field water tube.",
+                "Reflood field when water level drops 15 cm below soil surface.",
+                "Keep water depth at 5 cm during critical growth stages (e.g., 1-2 weeks post-transplanting, before peak flowering).",
+                "Manage weeds by postponing AWD until weeds are suppressed.",
+                "Apply nitrogen fertilizer on dry soil before irrigation.",
+                "Use local fertilizer recommendations for flooded rice.",
+                "Check water level in field water tube weekly.",
+                "Adjust AWD threshold depth based on farmer confidence and soil type.",
+                "Construct a simple field water tube from plastic pipe or bamboo.",
+                "Drill holes (0.5 cm diameter, 2 cm apart) in bottom 20 cm of tube.",
+                "Bury tube vertically 20 cm above soil surface, avoiding hard pan."
+            ]
+        },
+        {
+            "task": "Foster community-level adoption of AWD for rice irrigation.",
+            "subtasks": [
+                "Promote AWD benefits and water savings through community engagement.",
+                "Address demographic and socio-economic factors in AWD adoption.",
+                "Encourage farmer-designed experiments and adjustments to AWD practices."
             ]
         }
     ]

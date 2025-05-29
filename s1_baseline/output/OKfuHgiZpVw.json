@@ -5,57 +5,42 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Building a fully automatic, expandable, and customizable Create Crop Farm using the Gantry Carriage System.",
+            "task": "Assembling a Gantry Carriage System for Automated Farming",
             "subtasks": [
-                "Set up the Gantry Shaft.",
-                "Place the Gantry Carriage on one end of the Gantry Shaft.",
-                "Attach Linear Chassis to the Gantry Carriage.",
-                "Position Harvesters on both sides of the Linear Chassis.",
-                "Install Redstone Contacts on both ends of the Gantry Carriage.",
-                "Connect Redstone Links to the Redstone Contacts.",
-                "Ensure proper storage and portable storage interface for output.",
-                "Skip planting one block at each end of the Gantry Shaft to avoid uprooting crops.",
-                "Connect the Gantry Shaft to two normal shafts and the Gear Shift.",
-                "Set up a Toggle Power Latch for the Gear Shift (with an off switch if desired).",
-                "Configure unique redstone frequency to avoid interference.",
-                "Activate the machine using a lever.",
-                "Set up output chute and chest to collect harvested crops."
+                "Positioning the Gantry Shaft, noting to leave an empty block at each end to prevent crop uprooting when the carriage reverses direction.",
+                "Attaching the Gantry Carriage to the Gantry Shaft and ensuring it can move freely along the length.",
+                "Installing redstone contacts on each end of the Gantry Carriage to detect when the carriage reaches the extremities of the farm.",
+                "Connecting redstone links between the redstone contacts on the carriage and the receiver, required for signaling the machine to reverse direction.",
+                "Configuring the gear shift mechanism using a toggle latch to reverse the rotation direction of the Gantry Shaft via Redstone signals.",
+                "Setting up the machine's operational controls, including an on/off switch with a sticky piston and lever for toggling power.",
+                "Ensuring the Redstone links are set to a unique frequency to prevent interference with other systems in the game world.",
+                "Planting crops in designated areas of the farm, beginning one block past the farthest point of the moving carriage to avoid damage.",
+                "Connecting storage and output interfaces (chests, hoppers) to handle harvested crops, including setting up chutes or funnels for efficient unloading."
             ]
         },
         {
-            "task": "Building the crop farm. Then, breaking it down:",
+            "task": "Automating the Farming Process",
+            "subtasks": [
+                "Activating the Redstone system to initiate movement of the Gantry Carriage along the Shaft, powered by the gear shift mechanism.",
+                "Monitoring the system's operation, verifying that the carriage moves back and forth automatically, triggering harvest intervals at the correct intervals.",
+                "Adjusting the water wheel's RPM (if applicable) to control the speed of the Gantry Shaft and, consequently, the movement of the harvesters.",
+                "Collecting harvested items from the storage chests or retrieving them as needed, ensuring the system's continuous operation."
+            ]
+        },
+        {
+            "task": "Assembling a Gantry Carriage System for Automated Farming",
             "subtasks": []
         },
         {
-            "task": "this would be another subtask. MAINTASK: Setting up the redstone system.",
+            "task": "Automating the Farming Process",
             "subtasks": []
         },
         {
-            "task": "Setting up storage.",
+            "task": "Assembling a Gantry Carriage System for Automated Farming**",
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Planting crops.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Planting the crops.",
-            "subtasks": []
-        },
-        {
-            "task": "Constructing the fully automatic crop farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Building the Gantry Carriage System-based Crop Farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Building a fully automatic, expandable, and customizable Create Crop Farm using the Gantry Carriage System.",
-            "subtasks": []
-        },
-        {
-            "task": "Building a Create Crop Farm with Gantry Carriage System**",
+            "task": "Automating the Farming Process**",
             "subtasks": []
         }
     ]

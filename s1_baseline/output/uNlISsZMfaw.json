@@ -5,23 +5,35 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Subscribe to or interact with a farming information channel.",
+            "task": "Choose appropriate farming type",
             "subtasks": [
-                "Watch Lubaba TV episodes in English.",
-                "Like and subscribe to the channel's YouTube page.",
-                "Click the notification bell to stay updated."
+                "Assess personal capability",
+                "Determine farming interest"
             ]
         },
         {
-            "task": "Invest in agriculture regardless of geographical location.",
+            "task": "Acquire farming knowledge",
             "subtasks": [
-                "Evaluate personal interest and capability for farming.",
-                "Research the type of farming desired using online resources.",
-                "Learn about the entire process of a specific crop (e.g., maize).",
-                "Identify knowledgeable people to manage the farm when absent.",
-                "Choose experienced and skilled farm experts and equipment.",
-                "Adhere to good agricultural practices (e.g., timely planting, fertilization).",
-                "Plan and secure market for the agricultural products."
+                "Research farming methods via digital means (e.g., Google, YouTube)",
+                "Gain basic understanding of desired crop (e.g., maize growth processes)"
+            ]
+        },
+        {
+            "task": "Implement good farm management",
+            "subtasks": [
+                "Hire knowledgeable farm experts",
+                "Use quality equipment and inputs",
+                "Follow proper agricultural practices (e.g., timely planting, fertilization, cultivation)",
+                "Maintain farm cleanliness"
+            ]
+        },
+        {
+            "task": "Plan market strategies",
+            "subtasks": [
+                "Identify target customers",
+                "Determine product delivery methods",
+                "Set pricing and sales strategies",
+                "Anticipate potential post-harvest issues (e.g., product spoilage)"
             ]
         }
     ]

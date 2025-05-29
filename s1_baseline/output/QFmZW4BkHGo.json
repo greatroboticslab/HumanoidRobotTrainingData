@@ -5,193 +5,459 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Observe and manage livestock",
+            "task": "Logging trees and creating firewood",
             "subtasks": [
-                "Approach the farm area",
-                "Identify the goats",
-                "Check the goats' health",
-                "Gently lift or assist a young goat",
-                "Observe feeding habits or behavior",
-                "Check for any signs of distress or illness",
-                "Ensure proper nutrition",
-                "Clean the goat area",
-                "Secure the goats or prevent them from escaping"
+                "Climb tree",
+                "Detach tree branches",
+                "Cut tree into logs",
+                "Stack logs"
             ]
         },
         {
-            "task": "Prepare and operate a loader",
+            "task": "Chopping wood",
             "subtasks": [
-                "Access the loader controls",
-                "Position the loader bucket for loading",
-                "Lift a bale or object onto the loader",
-                "Navigate the loader around the farm area",
-                "Release the bale or object at the desired location"
+                "Handle ax",
+                "Chop wood into smaller pieces",
+                "Split wood with ax"
             ]
         },
         {
-            "task": "Handle farm tools or equipment",
+            "task": "Removing stumps from cleared land",
             "subtasks": [
-                "Approach the tool or equipment",
-                "Inspect the tool or equipment for damage",
-                "Use gloves or handles to operate the tool",
-                "Position the tool or equipment in the correct position",
-                "Engage the tool or equipment for use",
-                "Disengage the tool or equipment when done"
+                "Locate and uncover stumps",
+                "Chop around stumps to loosen",
+                "Pull stumps out using lever or excavator"
             ]
         },
         {
-            "task": "Engage in physical labor related to agriculture",
+            "task": "Clearing weeds from land",
             "subtasks": [
-                "Engage arms and legs in bending and stretching",
-                "Use hands for manipulating objects",
-                "Lift, carry, or push objects with legs",
-                "Tiptoe while moving quietly",
-                "Stomp feet to remove excess material",
-                "Bend over to reach the ground",
-                "Hold tools or objects for extended periods",
-                "Walk or move around the farm premises"
+                "Identify weeds",
+                "Remove weeds by hand",
+                "Use hoe or trowel to dig up weeds"
             ]
         },
         {
-            "task": "Feed animals or crops",
+            "task": "Loading wood onto vehicle",
             "subtasks": [
-                "Access food supplies for animals",
-                "Distribute the food to the animals' feeding areas",
-                "Verify that animals are eating properly",
-                "Clean the feeding area to maintain hygiene",
-                "Refill food supplies as needed"
+                "Load logs onto truck or wagon",
+                "Secure wood on vehicle"
             ]
         },
         {
-            "task": "Perform veterinary care on animals",
+            "task": "Unloading wood from vehicle",
             "subtasks": [
-                "Approach an animal requiring care",
-                "Restrain the animal if necessary",
-                "Check vital signs or observe the animal's condition",
-                "Apply medication or treatment",
-                "Clean wounds or lesions",
-                "Apply necessary bandages or wraps",
-                "Release the animal after treatment"
+                "Unload logs from vehicle",
+                "Stack wood at desired location"
             ]
         },
         {
-            "task": "Maintain the farm environment",
+            "task": "Driving a tractor equipped with a plow",
             "subtasks": [
-                "Check for debris or obstructions",
-                "Clear any obstruction or debris from paths or work areas",
-                "Dispose of waste material properly",
-                "Repair or maintain fencing or barriers",
-                "\u64ad\u79cd\u6216\u519c\u4f5c\u7269\u7684\u62a4\u7406",
-                "Irrigate crops if necessary",
-                "Monitor crop growth",
-                "Harvest ripe crops when appropriate"
+                "Start tractor engine",
+                "Engage reverse gears to back up",
+                "Attach plow to tractor",
+                "Adjust plow depth",
+                "Navigate tractor through field",
+                "Plow the land by pushing debris and soil"
             ]
         },
         {
-            "task": "Observe and manage livestock**",
+            "task": "Driving a four-wheeler with plow attachment",
+            "subtasks": [
+                "Start four-wheeler engine",
+                "Attach plow to front of four-wheeler",
+                "Adjust plow angle",
+                "Drive four-wheeler through farm field",
+                "Plow moist soil ahead"
+            ]
+        },
+        {
+            "task": "Harvesting corn ears manually",
+            "subtasks": [
+                "Find mature corn plants",
+                "Locate individual corn ears",
+                "Firmly grasp corn ear near base",
+                "Twist ear off the cob",
+                "Drop corn ear into sack or basket",
+                "Repeat until entire field is harvested"
+            ]
+        },
+        {
+            "task": "Weeding a garden or field",
+            "subtasks": [
+                "Walk through garden or field",
+                "Identify weeds growing between plants",
+                "Pull weeds by hand",
+                "Dispose of uprooted weeds"
+            ]
+        },
+        {
+            "task": "Stooping to check plants or soil",
+            "subtasks": [
+                "Bend down at waist",
+                "Examine plants or soil closely"
+            ]
+        },
+        {
+            "task": "Grappling with a chain for moving objects",
+            "subtasks": [
+                "Hold chain securely",
+                "Lift and drag objects using chain"
+            ]
+        },
+        {
+            "task": "Mowing the lawn with a riding mower",
+            "subtasks": [
+                "Start riding mower",
+                "Set mower height",
+                "Drive mower around the yard or field",
+                "Mow over grass and crops"
+            ]
+        },
+        {
+            "task": "Pulling quaries for a pig farm",
+            "subtasks": [
+                "Load pigs onto transport vehicle",
+                "Escort pigs to new area or enclosure"
+            ]
+        },
+        {
+            "task": "Untucking a pig with a crow bar",
+            "subtasks": [
+                "Position crow bar under pig",
+                "Lift pig using crow bar",
+                "Release pig from tight spot"
+            ]
+        },
+        {
+            "task": "Removing straw bales from storage",
+            "subtasks": [
+                "Unstack hay or straw bales",
+                "Lift bales onto wheeled cart",
+                "Transport bales to desired location"
+            ]
+        },
+        {
+            "task": "Organizing a garden layout",
+            "subtasks": [
+                "Measure and mark planting area",
+                "Plan positioning of rows or plants",
+                "Set up stakes or markers for planting"
+            ]
+        },
+        {
+            "task": "Harvesting fields with a combine",
+            "subtasks": [
+                "Drive combine through the field",
+                "Feed crops into the combine",
+                "Separate grain from chaff",
+                "Load grain into truck or storage bin"
+            ]
+        },
+        {
+            "task": "Planting seeds with a planter",
+            "subtasks": [
+                "Assemble and calibrate planter",
+                "Drive planter through field",
+                "Drop seeds into soil at correct depth"
+            ]
+        },
+        {
+            "task": "Working with a spray rig to apply pesticide",
+            "subtasks": [
+                "Operate spray rig",
+                "Drive through the field applying chemicals",
+                "Adjust spray pattern or coverage"
+            ]
+        },
+        {
+            "task": "Harvesting row crops manually",
+            "subtasks": [
+                "Walk through rows of crops",
+                "Pick ripe fruits or vegetables from plants",
+                "Place harvested produce into baskets or bags"
+            ]
+        },
+        {
+            "task": "Ditch-digging for drainage",
+            "subtasks": [
+                "Use shovel to remove soil and create a trench",
+                "Dig to appropriate depth for proper drainage"
+            ]
+        },
+        {
+            "task": "Using an excavator to clear debris",
+            "subtasks": [
+                "Operate excavator to remove fallen logs or branches",
+                "Scoop up debris with excavator bucket",
+                "Dispose of debris in designated area"
+            ]
+        },
+        {
+            "task": "Transportation of harvested crops",
+            "subtasks": [
+                "Load fruits or vegetables onto transport",
+                "Secure load to prevent rolling or shifting",
+                "Deliver crops to market or storage facility"
+            ]
+        },
+        {
+            "task": "Feeding livestock",
+            "subtasks": [
+                "Mix feed or grain for animals",
+                "Distribute feed evenly across the area",
+                "Ensure all animals receive adequate feed"
+            ]
+        },
+        {
+            "task": "Catch and move sheep",
+            "subtasks": [
+                "Gather sheep into a designated area",
+                "Use rope or pen to herd sheep",
+                "Direct sheep to a new location or enclosure"
+            ]
+        },
+        {
+            "task": "Driving a plow on a four-wheeler",
+            "subtasks": [
+                "Start four-wheeler",
+                "Connect plow to four-wheeler",
+                "Adjust plow height and angle",
+                "Operate four-wheeler to plow field"
+            ]
+        },
+        {
+            "task": "Attaching plow to a pulling implement",
+            "subtasks": [
+                "Guide or tie plow to a pulling device",
+                "Adjust plow settings as necessary",
+                "Perform plowing operation with the attached equipment"
+            ]
+        },
+        {
+            "task": "Logging trees and creating firewood",
             "subtasks": []
         },
         {
-            "task": "Prepare and operate a loader**",
+            "task": "Chopping wood",
             "subtasks": []
         },
         {
-            "task": "Handle farm tools or equipment**",
+            "task": "Removing stumps from cleared land",
             "subtasks": []
         },
         {
-            "task": "Feed animals or crops**",
+            "task": "Clearing weeds from land",
             "subtasks": []
         },
         {
-            "task": "Perform veterinary care on animals**",
+            "task": "Loading wood onto vehicle",
             "subtasks": []
         },
         {
-            "task": "Maintain the farm environment**",
+            "task": "Unloading wood from vehicle",
             "subtasks": []
         },
         {
-            "task": "Observe and manage livestock} \\\\",
-            "subtasks": [
-                "Approach the farm area} \\\\",
-                "Identify the goats} \\\\",
-                "Check the goats' health} \\\\",
-                "Gently lift or assist a young goat} \\\\",
-                "Observe feeding habits or behavior} \\\\",
-                "Check for any signs of distress or illness} \\\\",
-                "Ensure proper nutrition} \\\\",
-                "Clean the goat area} \\\\",
-                "Secure the goats or prevent them from escaping} \\\\"
-            ]
+            "task": "Driving a tractor equipped with a plow",
+            "subtasks": []
         },
         {
-            "task": "Prepare and operate a loader} \\\\",
-            "subtasks": [
-                "Access the loader controls} \\\\",
-                "Position the loader bucket for loading} \\\\",
-                "Lift a bale or object onto the loader} \\\\",
-                "Navigate the loader around the farm area} \\\\",
-                "Release the bale or object at the desired location} \\\\"
-            ]
+            "task": "Driving a four-wheeler with plow attachment",
+            "subtasks": []
         },
         {
-            "task": "Handle farm tools or equipment} \\\\",
-            "subtasks": [
-                "Approach the tool or equipment} \\\\",
-                "Inspect the tool or equipment for damage} \\\\",
-                "Use gloves or handles to operate the tool} \\\\",
-                "Position the tool or equipment in the correct position} \\\\",
-                "Engage the tool or equipment for use} \\\\",
-                "Disengage the tool or equipment when done} \\\\"
-            ]
+            "task": "Harvesting corn ears manually",
+            "subtasks": []
         },
         {
-            "task": "Engage in physical labor related to agriculture} \\\\",
-            "subtasks": [
-                "Engage arms and legs in bending and stretching} \\\\",
-                "Use hands for manipulating objects} \\\\",
-                "Lift, carry, or push objects with legs} \\\\",
-                "Tiptoe while moving quietly} \\\\",
-                "Stomp feet to remove excess material} \\\\",
-                "Bend over to reach the ground} \\\\",
-                "Hold tools or objects for extended periods} \\\\",
-                "Walk or move around the farm premises} \\\\"
-            ]
+            "task": "Weeding a garden or field",
+            "subtasks": []
         },
         {
-            "task": "Feed animals or crops} \\\\",
-            "subtasks": [
-                "Access food supplies for animals} \\\\",
-                "Distribute the food to the animals' feeding areas} \\\\",
-                "Verify that animals are eating properly} \\\\",
-                "Clean the feeding area to maintain hygiene} \\\\",
-                "Refill food supplies as needed} \\\\"
-            ]
+            "task": "Stooping to check plants or soil",
+            "subtasks": []
         },
         {
-            "task": "Perform veterinary care on animals} \\\\",
-            "subtasks": [
-                "Approach an animal requiring care} \\\\",
-                "Restrain the animal if necessary} \\\\",
-                "Check vital signs or observe the animal's condition} \\\\",
-                "Apply medication or treatment} \\\\",
-                "Clean wounds or lesions} \\\\",
-                "Apply necessary bandages or wraps} \\\\",
-                "Release the animal after treatment} \\\\"
-            ]
+            "task": "Grappling with a chain for moving objects",
+            "subtasks": []
         },
         {
-            "task": "Maintain the farm environment} \\\\",
-            "subtasks": [
-                "Check for debris or obstructions} \\\\",
-                "Clear any obstruction or debris from paths or work areas} \\\\",
-                "Dispose of waste material properly} \\\\",
-                "Repair or maintain fencing or barriers} \\\\",
-                "Irrigate crops if necessary} \\\\",
-                "Monitor crop growth} \\\\",
-                "Harvest ripe crops when appropriate} \\\\"
-            ]
+            "task": "Mowing the lawn with a riding mower",
+            "subtasks": []
+        },
+        {
+            "task": "Pulling quaries for a pig farm",
+            "subtasks": []
+        },
+        {
+            "task": "Untucking a pig with a crow bar",
+            "subtasks": []
+        },
+        {
+            "task": "Removing straw bales from storage",
+            "subtasks": []
+        },
+        {
+            "task": "Organizing a garden layout",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting fields with a combine",
+            "subtasks": []
+        },
+        {
+            "task": "Planting seeds with a planter",
+            "subtasks": []
+        },
+        {
+            "task": "Working with a spray rig to apply pesticide",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting row crops manually",
+            "subtasks": []
+        },
+        {
+            "task": "Ditch-digging for drainage",
+            "subtasks": []
+        },
+        {
+            "task": "Using an excavator to clear debris",
+            "subtasks": []
+        },
+        {
+            "task": "Transportation of harvested crops",
+            "subtasks": []
+        },
+        {
+            "task": "Feeding livestock",
+            "subtasks": []
+        },
+        {
+            "task": "Catching and moving sheep",
+            "subtasks": []
+        },
+        {
+            "task": "Driving a plow on a four-wheeler",
+            "subtasks": []
+        },
+        {
+            "task": "Attaching plow to a pulling implement",
+            "subtasks": []
+        },
+        {
+            "task": "Logging trees and creating firewood**",
+            "subtasks": []
+        },
+        {
+            "task": "Chopping wood**",
+            "subtasks": []
+        },
+        {
+            "task": "Removing stumps from cleared land**",
+            "subtasks": []
+        },
+        {
+            "task": "Clearing weeds from land**",
+            "subtasks": []
+        },
+        {
+            "task": "Loading wood onto vehicle**",
+            "subtasks": []
+        },
+        {
+            "task": "Unloading wood from vehicle**",
+            "subtasks": []
+        },
+        {
+            "task": "Driving a tractor equipped with a plow**",
+            "subtasks": []
+        },
+        {
+            "task": "Driving a four-wheeler with plow attachment**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting corn ears manually**",
+            "subtasks": []
+        },
+        {
+            "task": "Weeding a garden or field**",
+            "subtasks": []
+        },
+        {
+            "task": "Stooping to check plants or soil**",
+            "subtasks": []
+        },
+        {
+            "task": "Grappling with a chain for moving objects**",
+            "subtasks": []
+        },
+        {
+            "task": "Mowing the lawn with a riding mower**",
+            "subtasks": []
+        },
+        {
+            "task": "Pulling quaries for a pig farm**",
+            "subtasks": []
+        },
+        {
+            "task": "Untucking a pig with a crow bar**",
+            "subtasks": []
+        },
+        {
+            "task": "Removing straw bales from storage**",
+            "subtasks": []
+        },
+        {
+            "task": "Organizing a garden layout**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting fields with a combine**",
+            "subtasks": []
+        },
+        {
+            "task": "Planting seeds with a planter**",
+            "subtasks": []
+        },
+        {
+            "task": "Working with a spray rig to apply pesticide**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting row crops manually**",
+            "subtasks": []
+        },
+        {
+            "task": "Ditch-digging for drainage**",
+            "subtasks": []
+        },
+        {
+            "task": "Using an excavator to clear debris**",
+            "subtasks": []
+        },
+        {
+            "task": "Transportation of harvested crops**",
+            "subtasks": []
+        },
+        {
+            "task": "Feeding livestock**",
+            "subtasks": []
+        },
+        {
+            "task": "Catching and moving sheep**",
+            "subtasks": []
+        },
+        {
+            "task": "Driving a plow on a four-wheeler**",
+            "subtasks": []
+        },
+        {
+            "task": "Attaching plow to a pulling implement**",
+            "subtasks": []
         }
     ]
 }

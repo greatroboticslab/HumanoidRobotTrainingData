@@ -5,57 +5,24 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Running direct burial irrigation wire.",
+            "task": "Running a direct burial irrigation wire system",
             "subtasks": [
-                "Walking the property back to the controller.",
-                "Checking for obstacles like sidewalks.",
-                "Using conduit to go under sidewalks.",
-                "Attaching red hot wires to each valve.",
-                "Tucking the wire underneath the pipe.",
-                "Making a coil of extra wire for protection.",
-                "Using waterproof wire nuts.",
-                "Running PVC conduit from the ground to the smart control.",
-                "Stripping red wires one by one.",
-                "Connecting wires to the appropriate terminals on the controller."
+                "Identify the appropriate wire gauge (16 gauge)",
+                "Determine the need for conduit (not necessary with direct burial wire)",
+                "Plan the wire's path from the controller to the furthest valves",
+                "Account for obstacles like sidewalks by pre-running conduit",
+                "On-site inspection to avoid crossing over obstructions",
+                "Tucking the wire under the irrigation pipe at each valve",
+                "Leaving extra wire (2.5 feet) coiled to protect against surges",
+                "Using waterproof wire nuts for secure connections",
+                "Routing wires through PVC conduit from the ground to the smart control",
+                "Connecting wires to the controller to determine which goes to each zone",
+                "Strip and test each red wire to the powered terminal to isolate zone assignments"
             ]
         },
         {
-            "task": "Installing sprinkler system wire.",
+            "task": "Running a direct burial irrigation wire system**",
             "subtasks": []
-        },
-        {
-            "task": "Running wire for the sprinkler system.",
-            "subtasks": []
-        },
-        {
-            "task": "Running wire for the sprinkler system.",
-            "subtasks": []
-        },
-        {
-            "task": "Installing conduit for the sprinkler system wire.",
-            "subtasks": []
-        },
-        {
-            "task": "Installing the direct burial irrigation wire.",
-            "subtasks": []
-        },
-        {
-            "task": "Running the direct burial irrigation wire for the sprinkler system.",
-            "subtasks": []
-        },
-        {
-            "task": "Running direct burial irrigation wire.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Running direct burial irrigation wire.",
-            "subtasks": [
-                "Walking the property back from the controller to check for obstacles.",
-                "Using conduit under the sidewalk.",
-                "Attaching red wire to each valve.",
-                "Tucking wire under pipes.",
-                "Making wire coils."
-            ]
         }
     ]
 }
