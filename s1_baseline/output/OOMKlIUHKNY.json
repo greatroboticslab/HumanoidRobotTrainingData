@@ -5,71 +5,61 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Vertical farming 44 basil plants on an aeroponic tower.",
+            "task": "Vertical farming of basil using aeroponics",
             "subtasks": [
-                "Position the body vertically to access the aeroponic tower.",
-                "Mix water and ionic mineral nutrient solution.",
-                "Measure quantity of water needed for the basil plants.",
-                "Transfer the nutrient solution into the growing system.",
-                "Monitor the misting frequency of the aeroponic system for optimal plant growth."
+                "Positioning oneself vertically beside the aeroponic tower",
+                "Observing the 44 basil plants in the tower",
+                "Confirming the growth medium is water with mineral nutrients",
+                "Ensuring plants are grown without soil"
             ]
         },
         {
-            "task": "Grow basil plants without soil.",
+            "task": "Confirming proper aeroponic basil grow system setup",
             "subtasks": [
-                "Confirm the absence of soil in the growing medium.",
-                "Inspect the aeroponic system's water and nutrient circulation."
+                "Verify the presence and number of basil plants (44)",
+                "Confirm the absence of soil and confirmation that water and mineral nutrient solution is used"
             ]
         },
         {
-            "task": "Harvest basil from the aeroponic tower.",
+            "task": "Inspecting the aeroponic basil grow system",
+            "subtasks": []
+        },
+        {
+            "task": "Verifying aeroponic basil grow system integrity",
             "subtasks": [
-                "Position to reach the basil plants at proper height.",
-                "Cut the basil stems using shears or scissors.",
-                "Collect the harvested basil leaves or stems."
+                "Confirm that the correct number of basil plants (44) are present.",
+                "Verify that the basil grows without soil, using water and mineral nutrient solution."
             ]
         },
         {
-            "task": "Maintain the aeroponic system.",
-            "subtasks": [
-                "Regularly check the system for clogs or blockages.",
-                "Adjust nutrient solution as needed based on plant growth.",
-                "Monitor pH and electrolyte conductivity of the nutrient solution.",
-                "Clean and maintain the aeroponic tower between growing cycles."
-            ]
+            "task": "Inspecting an aeroponic basil system",
+            "subtasks": []
         },
         {
-            "task": "Vertical farming 44 basil plants on an aeroponic tower.",
-            "subtasks": [
-                "Position the body vertically to access the aeroponic tower.",
-                "Mix water and ionic mineral nutrient solution.",
-                "Measure quantity of water needed for the basil plants.",
-                "Transfer the nutrient solution into the growing system.",
-                "Monitor the misting frequency of the aeroponic system for optimal plant growth."
-            ]
+            "task": "Checking the aeroponic basil farm",
+            "subtasks": []
         },
         {
-            "task": "Grow basil plants without soil.",
-            "subtasks": [
-                "Confirm the absence of soil in the growing medium.",
-                "Inspect the aeroponic system's water and nutrient circulation."
-            ]
+            "task": "Positioning oneself to inspect the aeroponic basil farm",
+            "subtasks": []
         },
         {
-            "task": "Harvest basil from the aeroponic tower.",
-            "subtasks": [
-                "Position to reach the basil plants at proper height.",
-                "Cut the basil stems using shears or scissors.",
-                "Collect the harvested basil leaves or stems."
-            ]
+            "task": "Demonstrate the vertical aeroponic basil grow system",
+            "subtasks": []
         },
         {
-            "task": "Maintain the aeroponic system.",
+            "task": "Alternatively, the physical task is being present at the location. If \"Right here\" means you need to go to that place, then the MAINTASK is \"Arriving at the vertical aeroponic basil farm\".",
+            "subtasks": []
+        },
+        {
+            "task": "Verifying aeroponic basil grow system setup",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Verifying aeroponic basil grow system setup",
             "subtasks": [
-                "Regularly check the system for clogs or blockages.",
-                "Adjust nutrient solution as needed based on plant growth.",
-                "Monitor pH and electrolyte conductivity of the nutrient solution.",
-                "Clean and maintain the aeroponic tower between growing cycles."
+                "Confirm that the correct number of basil plants (44) are present.",
+                "Verify that the basil grows without soil, using water and mineral nutrient solution."
             ]
         }
     ]

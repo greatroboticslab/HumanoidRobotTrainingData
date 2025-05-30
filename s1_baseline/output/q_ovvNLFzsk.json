@@ -5,274 +5,80 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Drive a four wheel drive truck.",
+            "task": "Planting seeds in a field.",
             "subtasks": [
-                "Sit in the driver's seat.",
-                "Insert key into ignition and start the truck.",
-                "Press accelerator pedal to move forward.",
-                "Use steering wheel to turn the vehicle.",
-                "Use brakes to stop the vehicle."
+                "Arrive at the planting area.",
+                "Drive the tractor towards the field.",
+                "Adjust the seed drill attachment to be properly placed in front of the tractor.",
+                "Start the tractor engine.",
+                "Attach the seed drill to the tractor.",
+                "Check the seed drill settings (e.g., depth, spacing) for optimal planting.",
+                "Make sure the seed hopper is filled with the appropriate seeds.",
+                "Check that the tractor is in the correct driving position for planting.",
+                "Begin driving the tractor through the field.",
+                "Monitor the seeder to ensure proper seed placement and proper backfill covering the seeds."
             ]
         },
         {
-            "task": "Operate a balancer machine in a shed.",
+            "task": "Operating the farm tractor.",
             "subtasks": [
-                "Enter a shed or building.",
-                "Approach the balancer machine.",
-                "Lift the trailing edge of a round hay bale using levers or hydraulics.",
-                "Rotate the bale to check balance.",
-                "Adjust weights or straps to balance the bale.",
-                "Repeat for multiple bales."
+                "Starting the farm tractor at the beginning of the workday.",
+                "Performing regular maintenance on the tractor (e.g., oil changes, checking tire pressure, fluid levels).",
+                "Attaching various implements to the tractor for different farming operations (e.g., plow, harrow, mower).",
+                "Operating the tractor to transport farm equipment and supplies to the field."
             ]
         },
         {
-            "task": "Load a baler with hay.",
+            "task": "Attaching equipment to the tractor.",
             "subtasks": [
-                "Approach a hay field or storage area.",
-                "Use a pitchfork to gather hay into a pile.",
-                "Approach the baler machine.",
-                "Feed hay into the hopper by hand.",
-                "Monitor the bale formation process.",
-                "Exit the baler when full."
+                "Preparing the equipment (e.g., seed drill, fertilizer spreader) before attaching to the tractor.",
+                "Ensuring the equipment is properly connected to the tractor's drawbar or other attachment points.",
+                "Securing implements (if necessary) to prevent them from coming loose during operation."
             ]
         },
         {
-            "task": "Unwind twine from a bale.",
+            "task": "Checking equipment settings.",
             "subtasks": [
-                "Locate a bale with twine.",
-                "Grasp the twine with one hand.",
-                "Use the other hand to untwist the twine.",
-                "Carefully remove the twine from the bale, avoiding injuring oneself."
+                "Verifying the depth and spacing of the seed drill is set according to the plan.",
+                "Adjusting the settings as needed to correct any deviations from the desired planting parameters.",
+                "Ensuring all attachments are operating correctly (e.g., seed spreader's mechanism, fill tube for refilling the hopper)."
             ]
         },
         {
-            "task": "Insert a thumb into hay to check maturity.",
+            "task": "Ensuring safety while driving the tractor.",
             "subtasks": [
-                "Approach a bale or stack of hay.",
-                "Locate a handful of hay.",
-                "Insert thumb into the hay clump.",
-                "Squeeze or feel the hay maturity.",
-                "Remove thumb and evaluate."
+                "Wearing appropriate safety gear (e.g., seatbelt, safety glasses, reflective clothing) while operating the tractor.",
+                "Checking the tractor's safety equipment (e.g., roll-over protection structure, emergency brakes) before operation."
             ]
         },
         {
-            "task": "Repair a hydraulics system.",
+            "task": "Adapting to field conditions.",
             "subtasks": [
-                "Identify a hydraulic leak or issue.",
-                "Disassemble the hydraulic component to inspect.",
-                "Apply sealant or replacement parts.",
-                "Reassemble the hydraulic system.",
-                "Test functionality."
+                "Observing the terrain and adjusting the tractor's speed or equipment settings to manage slope or uneven areas.",
+                "Checking for any obstructions on the field that could interfere with equipment operation or planting."
             ]
         },
         {
-            "task": "Remove and replace a chain.",
+            "task": "Collecting and disposing of materials.",
             "subtasks": [
-                "Locate a broken or damaged chain.",
-                "Dismantle the area where the chain is attached.",
-                "Slide the new chain into place.",
-                "Secure the chain ends properly."
+                "Storing unused seeds or other supplies in their proper containers or locations.",
+                "Removing any empty seed packets or packaging from the planting area."
             ]
         },
         {
-            "task": "Clean equipment and tools.",
+            "task": "Recording progress and data.",
             "subtasks": [
-                "Gather cleaning materials.",
-                "Examine the equipment for dirt or debris.",
-                "Use brushes or cloths to wipe down surfaces.",
-                "Check for lubrication needs.",
-                "Apply appropriate lubricants."
+                "Noting the number of acres or rows planted, seed rates, and other relevant data for farm records."
             ]
         },
         {
-            "task": "Sink fence posts.",
+            "task": "Refueling the farm equipment.",
             "subtasks": [
-                "Approach the area where fence posts need sinking.",
-                "Use a sledgehammer or post driver.",
-                "Position the fence post in the ground.",
-                "Strike the post into the ground repeatedly until secure.",
-                "Stab the post with the sledgehammer to set it."
+                "Locating the nearest fuel supply for the farm's fuel tanks.",
+                "Preparing the fueling equipment (if needed) and ensuring proper connection to the tractor.",
+                "Refueling the tractor's fuel tank, ensuring not to overfill.",
+                "Properly storing any fuel containers and disposing of any excess fuel safely."
             ]
-        },
-        {
-            "task": "Connect wire to a fence.",
-            "subtasks": [
-                "Hold the wire tightly.",
-                "Use pliers or a fence clip to attach the wire to the fence post.",
-                "Tighten the connection to prevent slack.",
-                "Check multiple connections along the fence line."
-            ]
-        },
-        {
-            "task": "Stack bales in a storage area.",
-            "subtasks": [
-                "Position the bale transport vehicle (e.g., forklift) near the storage area.",
-                "Lower the forks so the bales can be placed.",
-                "Position the bale onto the fork.",
-                "Drive the vehicle to the stacking location.",
-                "Lower the bale onto the ground or pallet.",
-                "Repeat until the area is filled appropriately."
-            ]
-        },
-        {
-            "task": "Use a chain to guide livestock.",
-            "subtasks": [
-                "Position the chain in a straight path.",
-                "Direct the livestock to follow the chain.",
-                "Maintain control over the animals by tightening or loosening the chain."
-            ]
-        },
-        {
-            "task": "Cut hose couplings.",
-            "subtasks": [
-                "Locate a hose with damaged coupling.",
-                "Apply cutting tool around the part where the coupling needs to be removed.",
-                "Separate the connector sections."
-            ]
-        },
-        {
-            "task": "Check a gas gauge.",
-            "subtasks": [
-                "Approach a machine with a gas tank (e.g., truck)."
-            ]
-        },
-        {
-            "task": "Use a front loader to load hay.",
-            "subtasks": []
-        },
-        {
-            "task": "Inspect a tire for damage.",
-            "subtasks": []
-        },
-        {
-            "task": "Replace a part in a machine.",
-            "subtasks": []
-        },
-        {
-            "task": "Securely fasten a lid on a bale.",
-            "subtasks": []
-        },
-        {
-            "task": "Hang hay bales on a rack.",
-            "subtasks": []
-        },
-        {
-            "task": "Break apart a bale.",
-            "subtasks": []
-        },
-        {
-            "task": "Apply sunscreen to prevent sunburn.",
-            "subtasks": []
-        },
-        {
-            "task": "Chew rags (hypothetical, possible mistake in transcription?).",
-            "subtasks": []
-        },
-        {
-            "task": "Plan how to set up stalls for pigs, but given as \"planned stall for pigs\" in the original transcript.",
-            "subtasks": []
-        },
-        {
-            "task": "Brush the hair of a horse.",
-            "subtasks": []
-        },
-        {
-            "task": "Entertain visitors at an agritourism event.",
-            "subtasks": [
-                "Interact with farm animals if safe and applicable."
-            ]
-        },
-        {
-            "task": "Interact with a mobile phone to check for hay prices online.",
-            "subtasks": []
-        },
-        {
-            "task": "Create an account on a farm app.",
-            "subtasks": []
-        },
-        {
-            "task": "Check the operation of a hydraulic lift.",
-            "subtasks": []
-        },
-        {
-            "task": "Secure a fence.",
-            "subtasks": []
-        },
-        {
-            "task": "Inspect the exhaust system of a piece of equipment.",
-            "subtasks": []
-        },
-        {
-            "task": "Use a sledgehammer to break up a field.",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare a tool ensemble for the day.",
-            "subtasks": []
-        },
-        {
-            "task": "Pull weeds by hand.",
-            "subtasks": []
-        },
-        {
-            "task": "Cut a dead nettle with scissors.",
-            "subtasks": []
-        },
-        {
-            "task": "Water livestock with a water truck.",
-            "subtasks": []
-        },
-        {
-            "task": "Assure a loaded truck from someone else's farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Trim overgrown leaves on hay bales.",
-            "subtasks": []
-        },
-        {
-            "task": "Load a trailer with cattle.",
-            "subtasks": []
-        },
-        {
-            "task": "Inspect hoses for damage.",
-            "subtasks": []
-        },
-        {
-            "task": "Attach a chain to a post.",
-            "subtasks": []
-        },
-        {
-            "task": "Investigate a water leakage in a system.",
-            "subtasks": []
-        },
-        {
-            "task": "Reattach a plug selected during an inspection.",
-            "subtasks": []
-        },
-        {
-            "task": "Apply saddle soap to a horse.",
-            "subtasks": []
-        },
-        {
-            "task": "Check the status of a tire by eye.",
-            "subtasks": []
-        },
-        {
-            "task": "Ride a mobile phone to the barn (hypothetical, possibly a slip of the tongue?).",
-            "subtasks": []
-        },
-        {
-            "task": "Use a stick to absorb a blow.",
-            "subtasks": []
-        },
-        {
-            "task": "Pick up what's dropped (assuming some object).",
-            "subtasks": []
-        },
-        {
-            "task": "Detonate a sledgehammer (extremely dangerous, but if found in the transcript).",
-            "subtasks": []
         }
     ]
 }

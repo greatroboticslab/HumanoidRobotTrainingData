@@ -5,94 +5,27 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Analyze and discuss the relationship between advance time infiltration and depo collation in furrow irrigation systems.",
+            "task": "Farmer discusses furrow irrigation system design and advance time infiltration relationship.",
             "subtasks": [
-                "Explain the Caustico relationship and its use in determining the infiltration depth with respect to opportunity time.",
-                "Derive the infiltration opportunity time (T) from absorbed infiltration data for the specific soil type.",
-                "Make assumptions for uniform soil and uniform initial moisture content.",
-                "Consider the distance (Z) from the soil surface as a function of depth and apply the Kostikov equation (Ct^\u03b1) with alpha as an empirical constant.",
-                "Analyze the time required for water to advance to the downstream end (Tt) compared to the net irrigation time (Tn), using an assumption of Tt being one-fourth of Tn.",
-                "Break down the total infiltration time (Tn) into intervals (\u03b4T1, \u03b4T2, ..., \u03b4T4) and calculate the incremental depth of water infiltration (\u03b4Z1, \u03b4Z2, ..., \u03b4Z4) in each interval.",
-                "Derive the formula for the average deep percolation loss (delta Z5 / 2) and the total average wet depth (Z4 + Z5 / 2).",
-                "Understand the role of the fractional advance ratio (FAR) in balancing net irrigation depth and deep percolation.",
-                "Refer to tables or guidelines like those from international organizations for typical ranges of deep percolation losses based on soil type (alpha) and FAR ratio.",
-                "Discuss the importance of considering local climate, rainfall intensity, and existing field grades when selecting irrigation parameters to prevent erosion.",
-                "Mention the use of evaluation runs to empirically determine limiting stream sizes and erosion thresholds for specific soil and slope conditions."
+                "Understand the relationship between advance time infiltration and deposition collection.",
+                "Explain the Caustico relationship and how it applies to soil infiltration depth.",
+                "Define infiltration opportunity time (T) and how it relates to actual irrigation time.",
+                "Consider soil uniformity and initial moisture content assumptions in design.",
+                "Derive the proportionality between Z (depth from soil surface) and Y (infiltration depth) using the Causticov equation.",
+                "Divide total irrigation time (Tn) into intervals (delta T1) based on assumed fractional advance ratio (e.g., Tt = Tn/4).",
+                "Calculate depth of water infiltrated in each time interval (delta Yi) using the Causticov equation.",
+                "Determine the depth of wetting (delta Z) and its variation along the field.",
+                "Analyze the effects of different \u03b1 values (soil parameters) on deep percolation (delta Z5) and wetted soil depth.",
+                "Introduce the fractional advance ratio (FAR) and its influence on deep percolation and irrigation design."
             ]
         },
         {
-            "task": "Analyze the relationship between advance time infiltration and depo collation in furrow irrigation systems.",
+            "task": "Overview of surface irrigation method design considerations.",
             "subtasks": [
-                "Explain the Caustico relationship between infiltration depth and opportunity time.",
-                "Describe how to derive the infiltration opportunity time (T) from absorbed field data and empirical constants.",
-                "Discuss the assumptions made (uniform soil, uniform initial moisture) in the analysis.",
-                "Apply the Kostikov equation (Ct^\u03b1) to model the distance Z from the soil surface, considering the depth of wetting.",
-                "Break down the total time required for net irrigation (Tn) into intervals, considering the time for water to reach the downstream end (Tt).",
-                "Calculate incremental infiltration (delta Z) in each time interval using the derived Caustico formula.",
-                "Derive the average deep percolation loss and total average wet depth for the irrigation field.",
-                "Understand and explain the fractional advance ratio (FAR) concept and its role in balancing irrigation depth and losses.",
-                "Refer to tables or historical records for typical deep percolation values based on soil types and FAR ratios.",
-                "Evaluate local conditions (climate, rainfall, field grades) when choosing irrigation parameters to prevent environmental degradation."
-            ]
-        },
-        {
-            "task": "Analyze and discuss the relationship between advance time infiltration and depo collation in furrow irrigation systems.**",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze and discuss the relationship between advance time infiltration and depo collation in furrow irrigation systems.",
-            "subtasks": [
-                "Explain the Caustico relationship and its use in determining the infiltration depth with respect to opportunity time.",
-                "Derive the infiltration opportunity time (T) from absorbed infiltration data for the specific soil type.",
-                "Make assumptions for uniform soil and uniform initial moisture content.",
-                "Consider the distance (Z) from the soil surface as a function of depth and apply the Kostikov equation (Ct^\u03b1) with alpha as an empirical constant.",
-                "Analyze the time required for water to advance to the downstream end (Tt) compared to the net irrigation time (Tn), using an assumption of Tt being one-fourth of Tn.",
-                "Break down the total infiltration time (Tn) into intervals (\u03b4T1, \u03b4T2, ..., \u03b4T4) and calculate the incremental depth of water infiltration (\u03b4Z1, \u03b4Z2, ..., \u03b4Z4) in each interval.",
-                "Derive the formula for the average deep percolation loss (delta Z5 / 2) and the total average wet depth (Z4 + Z5 / 2).",
-                "Understand the role of the fractional advance ratio (FAR) in balancing net irrigation depth and deep percolation.",
-                "Refer to tables or guidelines for typical ranges of deep percolation losses based on soil type (alpha) and FAR ratio.",
-                "Discuss the significance of considering local climate, rainfall intensity, and field grades when selecting irrigation parameters to prevent erosion."
-            ]
-        },
-        {
-            "task": "**",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze and discuss the relationship between advance time infiltration and depo collation in furrow irrigation systems.",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze and discuss the relationship between advance time infiltration and depo collation in furrow irrigation systems.**",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze and discuss the relationship between advance time infiltration and depo collation in furrow irrigation systems.",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze and discuss the relationship between advance time infiltration and deposition collation in furrow irrigation systems.",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze and discuss the relationship between advance time infiltration and deposition collation in furrow irrigation systems.",
-            "subtasks": []
-        },
-        {
-            "task": "** Analyze and discuss the relationship between advance time infiltration and deposition collation in furrow irrigation systems.",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze and discuss the relationship between advance time infiltration and depo collation in furrow irrigation systems.",
-            "subtasks": [
-                "Explain the Caustico relationship between infiltration depth and opportunity time.",
-                "Derive the infiltration opportunity time using empirical data and constants (Ca and \u03b1).",
-                "Apply the Kostikov equation (Z = Kt^\u03b1) to model wetting front depth.",
-                "Break down total net irrigation time into intervals, calculating incremental depths for each.",
-                "Calculate average deep percolation and total wet depth.",
-                "Understand the fractional advance ratio (FAR) concept.",
-                "Refer to guidelines for typical deep percolation values based on soil types and slopes.",
-                "Evaluate local conditions (climate, rainfall) to prevent erosion during irrigation."
+                "Recognize the importance of limiting design parameters for stream size, erosion, and efficiency.",
+                "Discuss the balance between controlling irrigation rates and managing slope-induced erosion.",
+                "Explain the inclusion of farmer experience and scientific principles in irrigation design guidelines.",
+                "Draw conclusions about the necessity of testing and empirical data for informed irrigation design."
             ]
         }
     ]

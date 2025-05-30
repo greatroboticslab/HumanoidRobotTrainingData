@@ -5,130 +5,426 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Prepare for international travel",
+            "task": "Grain transportation",
             "subtasks": [
-                "Ensure travel insurance is up-to-date",
-                "Update personal information with airlines and accommodations",
-                "Pack appropriate clothing and essentials",
-                "Familiarize with local laws and customs at destination"
+                "Loading grain into truck",
+                "Driving truck to storage facility",
+                "Unloading grain from truck"
             ]
         },
         {
-            "task": "Check-in at the airport",
+            "task": "Grain threshing",
             "subtasks": [
-                "Present ID and ticket for security screening",
-                "Go through luggage check procedure",
-                "Proceed to embarkation gate",
-                "Board airplane"
+                "Preparing threshing machine",
+                "Feeding grain into threshing machine",
+                "Clearing debris from machine"
             ]
         },
         {
-            "task": "Navigate customs upon arrival",
+            "task": "Pile management",
             "subtasks": [
-                "Declare any prohibited items or goods exceeding duty-free limits",
-                "Fill out any required customs forms",
-                "Walk through metal detector and screen luggage",
-                "Collect any items from customs storage if necessary"
+                "Assessing grain pile stability",
+                "Removing damaged grains from pile",
+                "Covering exposed grains with tarp"
             ]
         },
         {
-            "task": "Transfer from airport to hotel",
+            "task": "Dairy cow care",
             "subtasks": [
-                "Take designated transportation (e.g., airport shuttle, taxi)",
-                "Confirm meeting time and place for airport pickup",
-                "Show booking confirmation to driver or departure desk",
-                "Load luggage into transportation vehicle",
-                "Proceed to hotel and check-in"
+                "Feeding cows with hay",
+                "Checking cows for health issues",
+                "Milk collection",
+                "Cleaning milking equipment"
             ]
         },
         {
-            "task": "Settle into travel accommodation",
+            "task": "Equipment maintenance",
             "subtasks": [
-                "Confirm room assignment with front desk",
-                "Receive keys or access codes",
-                "Inspect room for cleanliness and functionality",
-                "Store personal belongings securely"
+                "Inspecting tractor for issues",
+                "Performing oil changes on machinery",
+                "Replacing worn tires",
+                "Cleaning threshing machine blades"
             ]
         },
         {
-            "task": "Adjust to new time zone",
+            "task": "Weighing grain",
             "subtasks": [
-                "Try to adjust sleep schedule based on destination time zone",
-                "Stay hydrated and drink water regularly",
-                "Minimize travel fatigue with proper rest"
+                "Emptying grain into scale",
+                "Recording weight data",
+                "Calculating yields"
             ]
         },
         {
-            "task": "Engage in time-consuming tasks, like research or paperwork, upon arrival.",
+            "task": "Forage baling",
             "subtasks": [
-                "Set up workspace in hotel if necessary",
-                "Utilize local internet facilities or request Wi-Fi connection",
-                "Take breaks as needed to rest and adjust"
+                "Operating baler to collect hay",
+                "Transporting bales to storage"
             ]
         },
         {
-            "task": "Prepare for departure flights",
+            "task": "Tarping grain pile",
             "subtasks": [
-                "Verify flight schedule and any connections",
-                "Reconfirm seat assignments (if applicable)",
-                "Check-in luggage with airline",
-                "Arrive at airport early for next day's departure",
-                "Repeat previous MAINTASK steps for departure",
-                "Wait for notifications about departure and follow airport procedures",
-                "Depart for final destination upon checking in"
+                "Measuring tarp dimensions",
+                "Laying tarp over pile",
+                "Securing tarp with clips or ropes"
             ]
         },
         {
-            "task": "Follow through on any subsequent international travel plans. depends on context, but may not be included in this immediate transcription.",
-            "subtasks": []
+            "task": "Weed removal",
+            "subtasks": [
+                "Identifying weed species",
+                "Applying herbicide to affected areas",
+                "Hand weeding around crops"
+            ]
         },
         {
-            "task": "Prepare travel documentation",
-            "subtasks": []
+            "task": "Calving assistance",
+            "subtasks": [
+                "Observing cows for signs of labor",
+                "Administering epidural for labor pain",
+                "Assisting with delivery if necessary"
+            ]
         },
         {
-            "task": "Schedule travel arrangements",
-            "subtasks": []
+            "task": "Monitoring grain temperature",
+            "subtasks": [
+                "Inserting thermometer into pile",
+                "Recording temperatures at multiple points",
+                "Implementing cooling measures if needed"
+            ]
         },
         {
-            "task": "Prepare for international travel",
-            "subtasks": []
+            "task": "Wet grain handling",
+            "subtasks": [
+                "Mixing grain to reduce moisture",
+                "Heating grain to dry it out",
+                "Separating wet and dry grains"
+            ]
         },
         {
-            "task": "Check-in at the airport",
-            "subtasks": []
+            "task": "Driving grain truck",
+            "subtasks": [
+                "Loading grain onto truck",
+                "Safely transporting truck to destination",
+                "Unloading grain with caution"
+            ]
         },
         {
-            "task": "Navigate customs upon arrival",
-            "subtasks": []
+            "task": "Installing grain bins",
+            "subtasks": [
+                "Transporting bins to field",
+                "Setting up bins in designated areas",
+                "Connecting bins to equipment"
+            ]
         },
         {
-            "task": "Transfer from airport to hotel",
-            "subtasks": []
+            "task": "Taking soil samples",
+            "subtasks": [
+                "Digging to appropriate depth",
+                "Collecting soil for analysis",
+                "Labeling samples accurately"
+            ]
         },
         {
-            "task": "Settle into travel accommodation",
-            "subtasks": []
+            "task": "Grain storage",
+            "subtasks": [
+                "Regularly checking moisture levels",
+                "Praising good storage practices",
+                "Monitoring for pests or molds"
+            ]
         },
         {
-            "task": "Adjust to new time zone",
-            "subtasks": []
+            "task": "Planting wheat",
+            "subtasks": [
+                "Preparing seed for planting",
+                "Planting seeds in rows",
+                "Trenching for planting",
+                "Covering seeds with soil"
+            ]
         },
         {
-            "task": "Engage in time-consuming tasks, like research or paperwork, upon arrival",
-            "subtasks": []
+            "task": "Feeding sheep",
+            "subtasks": [
+                "Distributing hay to sheep",
+                "Ensuring even allocation",
+                "Checking feed supply"
+            ]
         },
         {
-            "task": "Prepare for departure flights",
-            "subtasks": []
+            "task": "Marking cows for pregnancy check",
+            "subtasks": [
+                "Examining cows for signs of pregnancy",
+                "Applying numbered markers for tracking"
+            ]
         },
         {
-            "task": "- Repeat previous MAINTASK steps for departure",
-            "subtasks": []
+            "task": "Herd health monitoring",
+            "subtasks": [
+                "Regularly checking cows\u2019 health",
+                "Administering vaccinations as needed",
+                "Recording health records"
+            ]
         },
         {
-            "task": "Follow through on any subsequent international travel plans",
-            "subtasks": []
+            "task": "Milk pasteurization",
+            "subtasks": [
+                "Heating milk to pasteurization temperature",
+                "Cooling milk to safe temperature after pasteurization",
+                "Testing milk quality post-pasteurization"
+            ]
+        },
+        {
+            "task": "Inspecting grain for quality",
+            "subtasks": [
+                "Visual inspection for mold or spoilage",
+                "Tasting small samples for freshness",
+                "Using instruments to measure moisture content"
+            ]
+        },
+        {
+            "task": "Weighing bales",
+            "subtasks": [
+                "Placing bale on scale",
+                "Recording weight of individual bales",
+                "Summarizing total weight"
+            ]
+        },
+        {
+            "task": "Corn stalk removal",
+            "subtasks": [
+                "Cutting corn stalks with combine",
+                "Loading stalks into wagon",
+                "Transporting to compost or mulch area"
+            ]
+        },
+        {
+            "task": "Processing wet grains",
+            "subtasks": [
+                "Drying wet grain in kiln",
+                "Monitoring temperature and humidity",
+                "Grading dried grain"
+            ]
+        },
+        {
+            "task": "Feeding grain to animals",
+            "subtasks": [
+                "Mixing grain with other feed",
+                "Distributing to livestock"
+            ]
+        },
+        {
+            "task": "Cleaning storage bins",
+            "subtasks": [
+                "Emptying bins for cleaning",
+                "Scrubbing interior surfaces",
+                "Disinfecting bins"
+            ]
+        },
+        {
+            "task": "Greasing machine components",
+            "subtasks": [
+                "Locating relevant grease points",
+                "Applying lubricant to moving parts"
+            ]
+        },
+        {
+            "task": "Emptying grain silos",
+            "subtasks": [
+                "Using equipment to remove grain",
+                "Loading grain onto transport vehicles",
+                "Cleaning silo after emptying"
+            ]
+        },
+        {
+            "task": "Handling grain samples",
+            "subtasks": [
+                "Taking representative samples from different parts",
+                "Transporting samples to lab for testing"
+            ]
+        },
+        {
+            "task": "Securing grain transportation",
+            "subtasks": [
+                "Securing trailer bolts",
+                "Checking belts and straps for tightness",
+                "Covering grain load to prevent spillage"
+            ]
+        },
+        {
+            "task": "Checking grain moisture",
+            "subtasks": [
+                "Taking moisture readings from storage",
+                "Adjusting storage conditions if necessary",
+                "Preventing grain spoilage through proper care"
+            ]
+        },
+        {
+            "task": "Cleaning equipment",
+            "subtasks": [
+                "Disassembling moving parts",
+                "Scrubbing exterior surfaces",
+                "Applying rust inhibitor"
+            ]
+        },
+        {
+            "task": "Calving",
+            "subtasks": [
+                "Monitoring cows for impending delivery",
+                "Providing assistance during labor",
+                "Caring for the newborn calf"
+            ]
+        },
+        {
+            "task": "Distributing grain to animals",
+            "subtasks": [
+                "Equal distribution across feeding area",
+                "Observing animals while eating",
+                "Adjusting feed amounts as required"
+            ]
+        },
+        {
+            "task": "Planting alfalfa",
+            "subtasks": [
+                "Preparing land for seeding",
+                "Planting alfalfa seeds at appropriate depth",
+                "Ensuring proper planting spacing"
+            ]
+        },
+        {
+            "task": "Guarding against grain pests",
+            "subtasks": [
+                "Applying insecticides in storage areas",
+                "Monitoring traps for pest activity",
+                "Implementing barrier methods (e.g., caulk around bins)"
+            ]
+        },
+        {
+            "task": "Checking grain temperature",
+            "subtasks": [
+                "Inserting thermometer into bulk grain",
+                "Noting hot spots requiring action",
+                "Utilizing fans to regulate temperature"
+            ]
+        },
+        {
+            "task": "Overseeding pastures",
+            "subtasks": [
+                "Preparing pasture for seeding",
+                "Broadcasting seeds evenly",
+                "Covering with light mulch if necessary"
+            ]
+        },
+        {
+            "task": "Teaching staff proper equipment operation",
+            "subtasks": [
+                "Conducting safety training sessions",
+                "Demonstrating correct use of machinery",
+                "Answering operator questions"
+            ]
+        },
+        {
+            "task": "Feeding silage to animals",
+            "subtasks": [
+                "Chopping silage for feeding",
+                "Mixing with other feed ingredients",
+                "Distributing to animals"
+            ]
+        },
+        {
+            "task": "Applying manure",
+            "subtasks": [
+                "Spreading manure on crop fields",
+                "Ensuring even distribution",
+                "Considering nutrient needs of crops"
+            ]
+        },
+        {
+            "task": "Setting up grain storage",
+            "subtasks": [
+                "Building platforms or foundations",
+                "Securing bins or silos in place",
+                "Covering with tarps if necessary"
+            ]
+        },
+        {
+            "task": "Applying chemical treatments",
+            "subtasks": [
+                "Mixing chemicals with water",
+                "Spraying treatment onto fields or equipment",
+                "Safely handling and storing chemicals"
+            ]
+        },
+        {
+            "task": "Recording daily activities",
+            "subtasks": [
+                "Noting tasks completed in logbook",
+                "Adding relevant data (e.g., weights, temperatures)",
+                "Updating progress toward goals"
+            ]
+        },
+        {
+            "task": "Treating pasture weeds",
+            "subtasks": [
+                "Identifying weed species in pastures",
+                "Applying herbicides selectively",
+                "Monitoring for residual effects"
+            ]
+        },
+        {
+            "task": "Adjusting machinery for optimal performance",
+            "subtasks": [
+                "Checking plow depth during planting",
+                "Fine-tuning seeder rate",
+                "Calibrating sprayer application"
+            ]
+        },
+        {
+            "task": "Supervising equipment repairs",
+            "subtasks": [
+                "Monitoring progress of repair work",
+                "Directing mechanics to necessary parts",
+                "Ensuring timely completion of repairs"
+            ]
+        },
+        {
+            "task": "Maintaining equipment",
+            "subtasks": [
+                "Regular oiling for moving parts",
+                "Tightening loose bolts and nuts",
+                "Cleaning filters and vents"
+            ]
+        },
+        {
+            "task": "Harvesting corn",
+            "subtasks": [
+                "Starting combine for corn harvest",
+                "Guiding combine through rows",
+                "Loading corn into wagon"
+            ]
+        },
+        {
+            "task": "Conducting soil tests",
+            "subtasks": [
+                "Collecting samples from various fields",
+                "Sending samples to lab for analysis",
+                "Interpreting results for fertilizer needs"
+            ]
+        },
+        {
+            "task": "Fencing pasture areas",
+            "subtasks": [
+                "Installing temporary fencing",
+                "Ensuring secure boundaries",
+                "Relocating fencing as needed"
+            ]
+        },
+        {
+            "task": "Assessing crop health",
+            "subtasks": [
+                "Scouting for pests or diseases",
+                "Taking samples for lab analysis",
+                "Implementing control measures"
+            ]
         }
     ]
 }

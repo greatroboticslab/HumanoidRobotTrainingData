@@ -5,29 +5,111 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Operation of a large-scale pig farm and feed production business",
+            "task": "Operating a large-scale pig farm",
             "subtasks": [
                 "Managing over 2,000 pigs across multiple breeds",
-                "Breeding pigs and managing different growth stages (piglets, growers)",
-                "Compounding livestock feed using on-site facilities (warehouse, mixers, grinders)",
-                "Addressing production challenges (e.g., economic instability, high costs)",
-                "Encouraging entrepreneurship and farm support",
-                "Training and consulting services for other farmers"
+                "Breeding pigs including Duroc, Hampshire, Landrace, and others",
+                "Managing piglets and their transition to different pens (e.g., from piglets to growers)",
+                "Producing livestock feed on-site",
+                "Sanitizing pig pens and handling pigs with care",
+                "Selling pig feed and livestock to customers",
+                "Overcoming economic challenges in Nigeria's agricultural sector",
+                "Providing start-up support and training to other farmers"
             ]
         },
         {
-            "task": "Operating a large-scale pig farm and feed production business",
+            "task": "Constructing and maintaining a farm facility",
             "subtasks": [
-                "Managing 2,000 pigs across various breeds",
-                "Breeding and raising piglets to maturity",
-                "Producing livestock feed using on-site facilities",
-                "Addressing high production costs and market challenges",
-                "Encouraging and supporting other farmers"
+                "Designing and building pig pens and feed warehouses",
+                "Installing feed mixing and grinding equipment",
+                "Ensuring proper sanitation and hygiene practices on the farm"
             ]
         },
         {
-            "task": "Operating a Large-Scale Pig Farm and Feed Production Business.",
+            "task": "Managing a diverse workforce",
+            "subtasks": [
+                "Ensuring the payment of employees during difficult times",
+                "Training employees in pig farming practices and feed production"
+            ]
+        },
+        {
+            "task": "Marketing and promoting the farm",
+            "subtasks": [
+                "Engaging with potential customers and other farmers",
+                "Utilizing social media and videos to highlight farm operations",
+                "Collaborating with other businesses and entrepreneurs"
+            ]
+        },
+        {
+            "task": "Operating a large pig farm. So first task.",
             "subtasks": []
+        },
+        {
+            "task": "managing over 2,000 pigs across multiple breeds. That's a subtask. They have to breed these pigs, which probably involves feeding, checking for pregnancies, etc. Hmm, but the main thing mentioned in the transcript is that they have a pig farm, so the primary task is operating it. So the answer should start with MAINTASK: Operating a large-scale pig farm.",
+            "subtasks": []
+        },
+        {
+            "task": "Producing livestock feed. The subtasks there would be operating the feed mixer, grinding equipment, and storing the feed. Also, they say they buy raw materials like maize, wheat, rice bran, soybean, etc. So they must be involved in purchasing those as well. Maybe store that somehow. All part of the feed production.",
+            "subtasks": []
+        },
+        {
+            "task": "Another MAINTASK would be Sanitizing the pens. They always mention sanitizing when they enter a pen. Like, \"We have to sanitize. So these are our piglets.\" So there must be a sanitizing routine. Subtasks could include using disinfectants, changing bedding, etc.",
+            "subtasks": []
+        },
+        {
+            "task": "Providing start-up support to other farmers is mentioned. The CEO says, \"We don't look at the monetary aspect of it. We look at how we can help you to start up your business.\" So part of their task is offering training and support to new farmers. So a MAINTASK could be Providing training and support to other farmers.",
+            "subtasks": []
+        },
+        {
+            "task": "Another MAINTASK would be Marketing the farm. They use social media to share videos, interact with potential customers and farmers. The video mentions, \"If you enjoyed this video, do all to like, share, subscribe.\" So they do marketing through social media and maybe other channels. Also, collaborating with other businesses.",
+            "subtasks": []
+        },
+        {
+            "task": "Constructing farm facilities. Subtasks would include designing, building pens, mixing plant, etc.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a Large-Scale Pig Farm",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a large-scale pig farm",
+            "subtasks": [
+                "Managing over 2,000 pigs across multiple breeds",
+                "Breeding pigs including Duroc, Hampshire, Landrace, etc.",
+                "Managing piglets and their transition to different pens",
+                "Producing livestock feed on-site",
+                "Sanitizing pig pens and handling pigs with care",
+                "Selling pig feed and livestock to customers",
+                "Overcoming economic challenges in Nigeria's agricultural sector",
+                "Providing start-up support and training to other farmers"
+            ]
+        },
+        {
+            "task": "Constructing and maintaining a farm facility",
+            "subtasks": [
+                "Designing and building pig pens and feed warehouses",
+                "Installing feed mixing and grinding equipment"
+            ]
+        },
+        {
+            "task": "Managing a diverse workforce",
+            "subtasks": [
+                "Ensuring the payment of employees during difficult times",
+                "Training employees in pig farming practices and feed production"
+            ]
+        },
+        {
+            "task": "Marketing and promoting the farm",
+            "subtasks": [
+                "Engaging with potential customers and other farmers",
+                "Utilizing social media and videos to highlight farm operations",
+                "Collaborating with other businesses and entrepreneurs"
+            ]
         }
     ]
 }

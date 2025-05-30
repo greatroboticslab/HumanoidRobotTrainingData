@@ -5,21 +5,27 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Setup irrigation system for homestead garden",
+            "task": "Setting up an off-grid garden irrigation system",
             "subtasks": [
-                "Assemble irrigation kit components",
-                "Install solar charging system for pump",
-                "Set up water pump and connect to battery",
-                "Configure drip system to distribute water",
-                "Test system functionality and adjust pressure"
+                "Obtaining necessary components (solar panels, charge controller, well pump, drip system components)",
+                "Assembling solar panel structure (crate, pallet)",
+                "Connecting solar panels to charge controller and battery",
+                "Configuring solar pump and timer",
+                "Installing pressure gauge on the irrigation system",
+                "Setting up drip system with drip tape and testing for proper flow",
+                "Adapting to higher-than-expected system pressure by considering a pressure regulator"
             ]
         },
         {
-            "task": "Install and configure drip irrigation headers",
+            "task": "MAINTASK: Setting up an off-grid garden irrigation system",
             "subtasks": [
-                "Position drip tape for optimal water distribution",
-                "Connect headers to main irrigation line",
-                "Monitor and adjust system for proper pressure"
+                "Obtaining necessary components (solar panels, charge controller, well pump, drip system components)",
+                "Assembling solar panel structure (crate, pallet)",
+                "Connecting solar panels to charge controller and battery",
+                "Configuring solar pump and timer",
+                "Installing pressure gauge on the irrigation system",
+                "Setting up drip system with drip tape and testing for proper flow",
+                "Adapting to higher-than-expected system pressure by considering a pressure regulator"
             ]
         }
     ]

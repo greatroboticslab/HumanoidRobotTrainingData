@@ -5,95 +5,24 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Planting maize in rows using a tractor.",
+            "task": "Farming operations",
             "subtasks": [
-                "Operating a tractor.",
-                "Navigating the tractor along rows.",
-                "Planting maize seeds at regular intervals."
+                "Operating a combine harvester",
+                "Loading grain into a truck"
             ]
         },
         {
-            "task": "Loading fertilizer onto the tractor.",
+            "task": "Grain storage",
             "subtasks": [
-                "Discharging fertilizer from a container.",
-                "Placing fertilizer into the soil while driving."
+                "Unloading grain from a combine into a bin"
             ]
         },
         {
-            "task": "Attaching implements to the tractor.",
+            "task": "Equipment maintenance",
             "subtasks": [
-                "Connecting planting apparatus to the tractor.",
-                "Ensuring the implement is securely attached."
-            ]
-        },
-        {
-            "task": "Driving the tractor through a field.",
-            "subtasks": [
-                "Steering the tractor along the intended path.",
-                "Maintaining a consistent speed."
-            ]
-        },
-        {
-            "task": "Monitoring the planting process.",
-            "subtasks": [
-                "Checking the spacing between planted seeds.",
-                "Adjusting the planting depth as needed."
-            ]
-        },
-        {
-            "task": "Troubleshooting equipment malfunctions.",
-            "subtasks": [
-                "Identifying issues with the planting apparatus.",
-                "Making necessary adjustments or repairs."
-            ]
-        },
-        {
-            "task": "Completing the planting operation.",
-            "subtasks": [
-                "Ensuring all rows are planted.",
-                "Checking the overall quality of planting."
-            ]
-        },
-        {
-            "task": "1. **Operating a tractor** (MAINTASK)",
-            "subtasks": [
-                "- Plant maize seeds at regular intervals (SUBTASKs)"
-            ]
-        },
-        {
-            "task": "2. **Loading fertilizer onto the tractor** (MAINTASK)",
-            "subtasks": [
-                "- Place fertilizer into the soil while driving (SUBTASKs)"
-            ]
-        },
-        {
-            "task": "3. **Attaching implements to the tractor** (MAINTASK)",
-            "subtasks": [
-                "- Ensure the implement is securely attached (SUBTASKs)"
-            ]
-        },
-        {
-            "task": "4. **Driving the tractor through a field** (MAINTASK)",
-            "subtasks": [
-                "- Maintain a consistent speed (SUBTASKs)"
-            ]
-        },
-        {
-            "task": "5. **Monitoring the planting process** (MAINTASK)",
-            "subtasks": [
-                "- Adjust planting depth as needed (SUBTASKs)"
-            ]
-        },
-        {
-            "task": "6. **Troubleshooting equipment malfunctions** (MAINTASK)",
-            "subtasks": [
-                "- Make necessary adjustments or repairs (SUBTASKs)"
-            ]
-        },
-        {
-            "task": "7. **Completing the planting operation** (MAINTASK)",
-            "subtasks": [
-                "- Check the overall quality of planting (SUBTASKs)"
+                "Cleaning a combine harvester",
+                "Inspecting the combine's grain tank",
+                "Checking fenders on the combine for damage"
             ]
         }
     ]

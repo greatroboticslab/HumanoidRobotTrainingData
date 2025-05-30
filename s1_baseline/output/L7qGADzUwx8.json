@@ -5,161 +5,19 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Use the Crop Rotation Planner for Farming Simulator 19",
+            "task": "Attempt to explain how to use the Crop Rotation Planner for Seasons in Farming Simulator 19 via a video.",
             "subtasks": [
-                "Pick a field to plan (e.g., Field 1)",
-                "Check the field's historical crop rotation (two prior years)",
-                "Key in the historical crops for the field (oldest crop at the top)",
-                "Add the current visible stubble crop (e.g., Wheat) for the first year",
-                "Plan crops for the next four years, optimizing percentage values (1.00 neutral, 1.2 better)",
-                "Repeat for subsequent fields (e.g., Field 2, 3, etc.)",
-                "Move planner entries up one line after each year's rotation (e.g., move year 2 to year 1 position)",
-                "Update the last open slot with the next crop idea (e.g., for year 5)",
-                "Adjust the planner as needed for future years' rotations"
-            ]
-        },
-        {
-            "task": "Use the Crop Rotation Planner for Farming Simulator 19",
-            "subtasks": [
-                "Open the Crop Rotation Planner interface",
-                "Select Field 1",
-                "Find and input the previous two years' crops for Field 1",
-                "Choose the best crops for the upcoming years, considering percentage scores",
-                "Repeat for Field 2, Field 3, etc.",
-                "After each year, move the planner entries up one line",
-                "Continuously update the planner as needed over multiple years"
-            ]
-        },
-        {
-            "task": "Determine historical crops for a field",
-            "subtasks": [
-                "Go to the selected field in the game",
-                "View the field's crop history (maybe in the journal or files)",
-                "Remember the two previous crops (2 years prior)",
-                "Note the current year's crop stubble (if visible)"
-            ]
-        },
-        {
-            "task": "Enter historical and future crop data into the Crop Rotation Planner",
-            "subtasks": [
-                "Open the planner interface (maybe via F2 or a menu button)",
-                "Find the field in the planner grid (e.g., Field 1)",
-                "Enter the old crop (e.g., Fallow) in the first year on the left",
-                "Input the current crop (e.g., Wheat) in the next cell",
-                "For future years, select crops with high percentage scores (1.2 or higher)",
-                "Save or confirm the planner entries"
-            ]
-        },
-        {
-            "task": "Use the manual spreadsheet method to plan crop rotations",
-            "subtasks": [
-                "Open a spreadsheet on the Mac",
-                "Create a grid with fields (e.g., Field 1, 2, 3) down the columns",
-                "For each field, note the previous two years' crops",
-                "Enter the historical data into the spreadsheet",
-                "Research and input future crop choices with best percentages",
-                "Update the spreadsheet annually for each year's rotation"
-            ]
-        },
-        {
-            "task": "Use the Crop Rotation Planner for Farming Simulator 19",
-            "subtasks": [
-                "Determine historical crops for a field (checking in-game)",
-                "Enter historical data into the planner",
-                "Plan future crop rotations with optimal percentages",
-                "Adjust the planner entries annually as new rotations begin"
-            ]
-        },
-        {
-            "task": "Guide someone on using the Crop Rotation Planner in Farming Simulator 19",
-            "subtasks": [
-                "Explain the importance of historical crop data",
-                "Demonstrate how to input historical crops into the planner",
-                "Show how to plan future rotations by selecting crops with highest percentages",
-                "Discuss how to move entries up each year and adjust the plan"
-            ]
-        },
-        {
-            "task": "Adjust the Crop Rotation Planner entries for each new year",
-            "subtasks": [
-                "In the game, locate the Crop Rotation Planner interface",
-                "Scroll up the planner entries to remove the oldest field's data",
-                "Add a new entry for the next year's rotations",
-                "Save the updated planner"
-            ]
-        },
-        {
-            "task": "Maintain the Crop Rotation Planner for multiple years",
-            "subtasks": []
-        },
-        {
-            "task": "Use a manual spreadsheet as a substitute for the in-game Crop Rotation Planner",
-            "subtasks": [
-                "On a Mac, open a spreadsheet application (e.g., Numbers or Excel)",
-                "Create a table with columns for each field (Field 1, Field 2, etc.)",
-                "For each field, enter two prior years of crop rotation (step 1-2 in the video)",
-                "For each future year (up to 4), input different crops and their estimated efficiency percentages (step 3-4)",
-                "After simulating a year (i.e., moving to the next season), update the spreadsheet by moving entries up and repeating steps 1-4",
-                "Continue this process for each year, adjusting the plan as necessary"
-            ]
-        },
-        {
-            "task": "Use the Crop Rotation Planner for Farming Simulator 19",
-            "subtasks": [
-                "For each field, note historical crop rotation (two prior years)",
-                "Enter this historical data into the planner",
-                "Choose future crops with the highest efficiency percentages",
-                "Repeat for each subsequent year\u2019s rotations",
-                "Move planner entries up one line to reflect the passing year"
-            ]
-        },
-        {
-            "task": "Plan and maintain crop rotations using a manual spreadsheet for Farming Simulator 19",
-            "subtasks": [
-                "For each field, enter historical crop rotation data (oldest two years)",
-                "For the current year, plan crops with highest efficiency percentages",
-                "Repeat for subsequent years, moving entries up annually",
-                "After each year's simulation, update the spreadhseet with new rotations"
-            ]
-        },
-        {
-            "task": "Create and maintain a manual crop rotation plan using a spreadsheet",
-            "subtasks": []
-        },
-        {
-            "task": "Use a spreadsheet to plan and manage crop rotations",
-            "subtasks": [
-                "Open and set up a new Excel workbook",
-                "Create columns for fields (e.g., Field1, Field2)",
-                "For each field, input the two previous year's crops (historical data)",
-                "For each field, enter planned crops for the next 4 years, optimizing percentages",
-                "After each year of the simulation, move the planner entries up by one row",
-                "Repeat the process for each subsequent year to maintain the rotation plan"
-            ]
-        },
-        {
-            "task": "Use a spreadsheet to create and manage a crop rotation plan for Farming Simulator 19",
-            "subtasks": [
-                "Launch a spreadsheet application on a Mac",
-                "Create columns for different fields (e.g., Field1, Field2, etc.)",
-                "For each field, enter the two previous years' crops (elm column)",
-                "For each field, enter the current crop observations (e.g., stubble) in the next column",
-                "For each field, plan crops for the next 4 years, ensuring high efficiency scores",
-                "After each year, move all entries up one row and update the new current year's plan"
-            ]
-        },
-        {
-            "task": "Utilize the manual method to simulate the Game's Crop Rotation Planner",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Use the Crop Rotation Planner for Farming Simulator 19",
-            "subtasks": [
-                "Select a field (e.g., Field 1)",
-                "Note the historical crops for the field (two prior years)",
-                "Enter the historical data into the planner",
-                "Plan future crops for the next four years, optimizing percentage scores",
-                "After each year, move the planner entries up one line to adjust for the new current year"
+                "(Instructional demonstration) Provide a disclaimer about playing on PlayStation 4.",
+                "(Mental process) Remind viewers that others on PC may confirm or correct the method.",
+                "(Research) Use a spreadsheet on a Mac to track crop rotation history and planning.",
+                "(Physical action) Observe and note the crop history for a field (e.g., Field 1) by checking the last two years.",
+                "(Data entry) Input the historical crop data into the spreadsheet (vertical format).",
+                "(Decision-making) Select the most suitable crops for each planting season (Step 3) considering yield percentages.",
+                "(Reiterative process) Repeat crop selection for subsequent years until the rotation plan is complete (Steps 4-8).",
+                "(Rotational adjustment) Shift planner entries up after each year to reflect historical data (Step 5).",
+                "(Plan expansion) Consider multiple fields and repeat the process for each.",
+                "(Acknowledgment) Encourage viewers to confirm the method's accuracy and offer feedback.",
+                "(Promotional) Request likes, subscriptions, and a farewell."
             ]
         }
     ]

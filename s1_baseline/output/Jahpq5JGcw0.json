@@ -5,89 +5,28 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Feeding livestock during winter in Wyoming.",
+            "task": "Feed harvested forage to livestock during winter.",
             "subtasks": [
-                "Determine if livestock need additional energy due to cold temperatures.",
-                "Monitor windchill temperature and adjust energy requirements accordingly.",
-                "Provide hay as additional forage to meet energy needs.",
-                "Store harvested alfalfa, oats, and grass bales for feeding during winter."
+                "Monitor animals' energy requirements.",
+                "Determine when to increase fed energy based on temperature and windchill.",
+                "Provide additional hay as a source of energy.",
+                "Harvest alfalfa, oats, and grass during summer and fall.",
+                "Store harvested forages in bales for winter feeding."
             ]
         },
         {
-            "task": "Monitoring livestock health during winter.",
+            "task": "Monitor livestock during winter.",
             "subtasks": [
-                "Assess body condition of cattle, sheep, etc., during winter.",
-                "Look for signs of stress in livestock due to cold temperatures and deep snow.",
-                "Consider deceptively calm winter weather as potentially stressful for livestock."
+                "Check if temperatures fall below the tolerable range (20-32\u00b0F).",
+                "Assess windchill and adjust energy requirements accordingly.",
+                "Provide shelter or additional feed as needed."
             ]
         },
         {
-            "task": "Understanding the relationship between temperature and livestock energy needs.",
+            "task": "Prepare for winter feeding.",
             "subtasks": [
-                "Learn the minimum temperature livestock can tolerate without additional energy.",
-                "Calculate the increase in energy needed when windchill temperatures drop.",
-                "Adjust feeding practices based on temperature and windchill factors."
-            ]
-        },
-        {
-            "task": "Feeding livestock during winter in Wyoming.",
-            "subtasks": [
-                "Determine if livestock need additional energy based on temperature and windchill.",
-                "Store harvested forage (hay) for winter feeding.",
-                "Distribute hay to livestock.",
-                "Provide shelter or windbreaks during windy and snowy conditions."
-            ]
-        },
-        {
-            "task": "Prepare for winter livestock feeding.",
-            "subtasks": [
-                "Assess conditions (temperature, snow depth) to determine if feeding is needed.",
-                "Store and manage harvested forage (hay) for winter use.",
-                "Adjust feeding schedule and amount as needed (increase when temps are below 20\u00b0F)."
-            ]
-        },
-        {
-            "task": "Feeding livestock during winter.",
-            "subtasks": [
-                "Check current temperature and windchill.",
-                "Determine amount of additional forage needed.",
-                "Distribute stored hay to livestock.",
-                "Monitor livestock for signs of distress."
-            ]
-        },
-        {
-            "task": "Manage livestock feed during severe winter conditions.",
-            "subtasks": [
-                "Assess the need for additional hay based on temperature and windchill.",
-                "Store and manage hay bales harvested in summer and fall.",
-                "Distribute hay to livestock.",
-                "Provide shelter or barriers from wind and cold (if needed)."
-            ]
-        },
-        {
-            "task": "Feed livestock during winter.",
-            "subtasks": [
-                "Monitor temperatures and windchill.",
-                "Calculate additional hay needed based on cold conditions.",
-                "Store and manage hay harvested in summer and fall.",
-                "Distribute hay to livestock.",
-                "Check body condition and health of livestock during winter."
-            ]
-        },
-        {
-            "task": "MAINTASK: Feeding livestock during winter in Wyoming.",
-            "subtasks": [
-                "Determine if livestock need additional energy due to temperatures and windchill.",
-                "Monitor windchill temperature and adjust energy requirements accordingly.",
-                "Provide hay as additional forage to meet energy needs.",
-                "Store harvested alfalfa, oats, and grass bales for winter feeding."
-            ]
-        },
-        {
-            "task": "Monitoring livestock health during winter.",
-            "subtasks": [
-                "Assess body condition of cattle, sheep, etc., during winter.",
-                "Check for signs of stress in livestock due to cold temperatures and deep snow."
+                "Plan ahead for potential deep snow conditions requiring hay feeding.",
+                "Supplement rangeland grasses with stored forages."
             ]
         }
     ]

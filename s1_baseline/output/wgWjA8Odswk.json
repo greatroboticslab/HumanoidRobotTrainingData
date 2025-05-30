@@ -5,125 +5,21 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Visiting a chicken farm and life on a farm",
+            "task": "Farmer's morning routine and facilities tour",
             "subtasks": [
-                "Entering the chicken pen area",
-                "Observing chickens",
-                "Feeding chickens",
-                "Touring the farm and coop area",
-                "Discussing the process of getting chickens to roost",
-                "Demonstrating egg-laying process and egg collection",
-                "Showing off the farm's achievements and challenges",
-                "Explaining the motivation behind starting a chicken farm",
-                "Sharing the impact of the farm on mental health",
-                "Highlighting the quality and uniqueness of the eggs",
-                "Promoting the farm's products and encouraging viewers to support small farmers"
-            ]
-        },
-        {
-            "task": "Visit the farm, which includes walking through the chicken pen area, seeing roosting bars, egg boxes, etc. The subtasks would be the physical actions of going through different parts of the farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Take a tour of the chicken farm. Then subtasks:",
-            "subtasks": []
-        },
-        {
-            "task": "Operate a chicken farm with a focus on farm tours. But that might be too broad.",
-            "subtasks": []
-        },
-        {
-            "task": "\"Participate in a farm tour,\" with subtasks like walking through different areas, observing livestock, and asking questions. But if the task needs to be from the perspective of the farm owner (since the transcript is from her perspective), then maybe the main task is \"Lead a farm tour,\" with subtasks like showing the chicken pen area, explaining the farm setup, talking about the chickens. But those are more cognitive tasks. So perhaps focusing on the physical aspects, the main task is \"Manage a chicken farm,\" with subtasks like feeding the chickens, showing the egg collection process, giving a tour. But the user specifies it's about the transcript, so we need to stick with what's in the transcript. So the person visiting the farm (the viewer) would have to tasks like touring the area, so MAINTASK: \"Take a tour of the chicken farm\" with the following subtasks:",
-            "subtasks": []
-        },
-        {
-            "task": "Visit the farmer's chicken farm and learn about farm management. Subtasks can include physical actions like walking through the chicken coop (visiting), observing the chickens, checking the roosting bars. Maybe even see the egg collection process if explained. But the transcript doesn't explicitly state the chicken laying, so maybe that's a stretch. The main idea is getting a farm tour, watching daily operations. Therefore,Tasks",
-            "subtasks": []
-        },
-        {
-            "task": "Visit the chicken farm to learn about farm management",
-            "subtasks": [
-                "Walk into the chicken pen area",
-                "Observe the chickens during feeding time",
-                "Watch the owner demonstrate the roosting bars",
-                "Learn about the egg collection process",
-                "Understand the farm's daily routine and management practices"
-            ]
-        },
-        {
-            "task": "Take a tour of the chicken farm, which includes the following actions:",
-            "subtasks": []
-        },
-        {
-            "task": "Explore the chicken coop. Subtasks:",
-            "subtasks": []
-        },
-        {
-            "task": "Conduct a farm tour. Subtasks:",
-            "subtasks": []
-        },
-        {
-            "task": "Conduct a farm tour including physical exploration of the chicken area. Then Subtasks:",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Take a tour of the chicken farm",
-            "subtasks": []
-        },
-        {
-            "task": "Demonstrate chicken husbandry procedures during a farm tour. Subtasks:",
-            "subtasks": []
-        },
-        {
-            "task": "Conduct a farm tour and manage chickens for visitors. Subtasks:",
-            "subtasks": []
-        },
-        {
-            "task": "Give a tour of a chicken farm and demonstrate husbandry practices. The subtasks could then be the physical aspects of walking around (entering area, walking through the pen) and handling/inspecting areas (roosting bars, checking egg boxes). Or, since she's giving the tour, both the walking and explaining could be framed as a task.",
-            "subtasks": []
-        },
-        {
-            "task": "Go on a farm tour visiting a chicken coop. Subtasks:",
-            "subtasks": []
-        },
-        {
-            "task": "Visit and tour a chicken farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Assist in farm chores during a tour. However, since she's not in the middle of chores, but rather showing them off, perhaps MAINTASK: Visit a chicken farm. Subtasks:",
-            "subtasks": [
-                "Walk through the chicken area (into the pen)",
-                "Watch the chickens (observe their movements)",
-                "Visit the roosting bars and egg boxes (physically go there to check)"
-            ]
-        },
-        {
-            "task": "Visit a chicken farm, which includes walking through the chicken pen, observing chickens, and checking the roosting area and egg boxes. This encapsulates the major physical tasks involved in touring the farm. There aren't other explicit manual tasks for the person in the tour, except perhaps interacting with animals, but the transcript doesn't indicate that.",
-            "subtasks": []
-        },
-        {
-            "task": "the transcript mentions fourth of three hundred chickens, suggesting a large number. So potentially handling a large number of chickens would be part of the farm's operation, but if the person is visiting, they might just see the result. But the MAINTASK should focus on what the viewer does. So after defining the main task of visiting the farm, list subtasks that are physical.",
-            "subtasks": []
-        },
-        {
-            "task": "Visit the chicken farm",
-            "subtasks": [
-                "Walk into the chicken pen area",
-                "Observe chickens during feeding time",
-                "Check the roosting bars and egg boxes"
-            ]
-        },
-        {
-            "task": "Visit the chicken farm**",
-            "subtasks": []
-        },
-        {
-            "task": "Visit the chicken farm",
-            "subtasks": [
-                "Walk into the chicken pen area",
-                "Observe chickens during feeding time",
-                "Check the roosting bars and egg boxes"
+                "Feeding the chickens",
+                "Walking the chicken pen area",
+                "Explaining roosting bars and egg collection boxes",
+                "Highlighting the chicken coop's features (hand-built by the farmer's husband)",
+                "Observing chickens coming out after being let out in the morning",
+                "Touring the farm and explaining its purpose",
+                "Sharing the farmer's background and motivations for starting the farm",
+                "Discussing the impact of the farm on mental health and healing",
+                "Explaining the difference between their eggs and conventional store-bought eggs",
+                "Promoting their business and inviting support from fellow veterans",
+                "Discussing the importance of sustainable and regenerative farming practices",
+                "Teaching viewers about rotational grazing and its benefits",
+                "Encouraging small farmers to share their story and products"
             ]
         }
     ]

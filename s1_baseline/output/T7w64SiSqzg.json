@@ -5,18 +5,53 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Operating a farm and ranch in Frederick, South Dakota, involving crop and livestock management.",
+            "task": "Operating and managing a farm in Frederick, South Dakota, incorporating livestock into crop fields.",
             "subtasks": [
-                "Farming various crops such as corn, soybeans, oats, triticale, and alfalfa.",
-                "Ranching cattle and utilizing them for crop ground management.",
-                "Applying no-till farming techniques.",
-                "Using precision agriculture tools for soil analysis and site-specific management.",
-                "Identifying and addressing poor-producing areas in crops.",
-                "Implementing bale grazing and rotational grazing for pasture management.",
-                "Managing potholes and saline areas affected by excessive water ponding.",
-                "Observing and adjusting management practices based on seasonal changes and soil health.",
-                "Passing on farming knowledge and decision-making autonomy to the next generation."
+                "Farming corn, soybeans, oats, triticale, alfalfa, and cover crops.",
+                "Utilizing no-tillage farming methods for labor savings and soil benefits.",
+                "Identifying and addressing saline areas in the fields using precision agriculture techniques.",
+                "Using cattle for bale grazing to improve soil moisture retention and manage evaporation.",
+                "Implementing rotational grazing for pasture management.",
+                "Rotating crop types and management zones based on soil health and weather conditions.",
+                "Passing down agricultural knowledge and decision-making autonomy to the next generation."
             ]
+        },
+        {
+            "task": "Identifying and managing saline areas in agricultural fields.",
+            "subtasks": [
+                "Using precision agriculture tools to identify poor-producing areas.",
+                "Treating saline areas differently from the rest of the crops, such as through bale grazing.",
+                "Understanding the effects of evaporation and cover crops on soil moisture in saline areas.",
+                "Recognizing the long-term benefits of reducing salts and maintaining soil moisture."
+            ]
+        },
+        {
+            "task": "Implementing no-till farming practices.",
+            "subtasks": [
+                "Transitioning from conventional tillage methods to reduced tillage.",
+                "Observing benefits of no-till farming in terms of soil health and yield.",
+                "Adjusting to the initial labor-saving aspect of no-till farming."
+            ]
+        },
+        {
+            "task": "Rotational grazing management.",
+            "subtasks": [
+                "Rotating cattle between pastures for optimal grass growth and soil health.",
+                "Aligning grazing strategies with soil conditions and grasses present in different areas.",
+                "Adapting grazing practices based on weather and soil feedback."
+            ]
+        },
+        {
+            "task": "Passing on agricultural knowledge to the next generation.",
+            "subtasks": [
+                "Gaining early exposure to farming from a young age.",
+                "Receiving parental encouragement and freedom to experiment in farming.",
+                "Passing decision-making autonomy to sons, allowing them to implement their ideas."
+            ]
+        },
+        {
+            "task": "The last subtask under MAINTASK: Passing on agricultural knowledge to the next generation focuses on the personal history rather than a physical task, so it has been included as a separate task. It\u2019s relevant to the farm operations but more of a background element. However, given the instruction to generate \"physical tasks a person would have to perform,\" the main tasks related to the farm operations are included in the MAINTASK and its sub-tasks. If \"passing down knowledge\" is considered a relevant task, it can be included; if not, it's necessary to exclude it.",
+            "subtasks": []
         }
     ]
 }

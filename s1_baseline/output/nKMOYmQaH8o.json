@@ -5,412 +5,218 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Feed the pigs",
+            "task": "Converting harvested corn into ethanol biofuel",
             "subtasks": [
-                "Open the door to the pig pen",
-                "Approach the feeding trough",
-                "Scoop feed into the trough"
+                "Drive a combine harvester to harvest corn",
+                "Transport corn from the field to the facility",
+                "Operate a grinder to grind the corn into kernels",
+                "Mix the ground corn with water to create a slurry",
+                "Load the slurry into a fermentation tank",
+                "Monitor and manage the fermentation process",
+                "Separate the ethanol from the fermentation residue",
+                "Purify the ethanol through distillation",
+                "Distribute the produced ethanol to storage tanks",
+                "Clean and maintain equipment after operations"
             ]
         },
         {
-            "task": "Check the potatoes",
+            "task": "Feeding pigs",
             "subtasks": [
-                "Walk to the potato field",
-                "Inspect potato plants for health",
-                "Note any issues or pests"
+                "Remove manure from the pig stalls",
+                "Collect and mix feed ingredients for the pigs",
+                "Prepare feed by adding necessary supplements",
+                "Distribute feed to pig stalls",
+                "Monitor pig behavior and health",
+                "Clean and disinfect pig stalls between feedings"
             ]
         },
         {
-            "task": "Maintain the soil",
+            "task": "Planting corn",
             "subtasks": [
-                "Examine soil for moisture and texture",
-                "Remove weeds by hand",
-                "Add compost to the soil"
+                "Prepare the soil by tilling and fertilizing",
+                "Plant corn seeds using a planter machine",
+                "Apply herbicides to control weeds",
+                "Irrigate the corn field as needed",
+                "Monitor corn growth and development",
+                "Apply pesticides for disease and insect control"
             ]
         },
         {
-            "task": "Wrestle with the chickens",
+            "task": "Driving the combine harvester",
             "subtasks": [
-                "Approach the chicken coop",
-                "Gather eggs from the nesting boxes",
-                "Secure the eggs in a basket",
-                "Shoo chickens back into the coop"
+                "Operate the combine to cut and thresh the corn",
+                "Load harvested corn into the combine's auger",
+                "Empty the combine's bin at the storage facility"
             ]
         },
         {
-            "task": "Gather chicken feed",
+            "task": "Mixing corn with water",
             "subtasks": [
-                "Access the feed storage area",
-                "Pour feed from the bag into the feeder",
-                "Clean the feeder after refilling"
+                "Transfer ground corn to a mixing tank",
+                "Measure and add the correct amount of water",
+                "Mix the corn and water thoroughly to form a slurry"
             ]
         },
         {
-            "task": "Repair a broken tool",
+            "task": "Loading slurry into fermentation tank",
             "subtasks": [
-                "Locate the maintenance area",
-                "Identify the broken tool",
-                "Gather replacement parts or tools",
-                "Disassemble the tool to fix",
-                "Apply necessary repairs",
-                "Test functionality and reassemble",
-                "Return tool to service"
+                "Connect the mixing tank to the fermentation tank",
+                "Pump the slurry into the fermentation tank",
+                "Measure and monitor the slurry level"
             ]
         },
         {
-            "task": "Service fencing posts",
+            "task": "Monitoring and managing fermentation",
             "subtasks": [
-                "Identify damaged or inadequate fencing",
-                "Prepare posts for re-embedding or replacement",
-                "Drive posts into the ground properly",
-                "Secure wire or fencing material"
+                "Check temperature and pH levels regularly",
+                "Add necessary adjustments (e.g., enzymes) during fermentation",
+                "Assess the progress of ethanol production"
             ]
         },
         {
-            "task": "Clean the chicken coop",
+            "task": "Separation process",
             "subtasks": [
-                "Remove manure and debris",
-                "Rinse the floors and walls",
-                "Check for structural issues",
-                "Apply bedding material"
+                "Route the fermented mixture to the clarification tank",
+                "Use a centrifuge to separate ethanol from the residue",
+                "Transfer the separated ethanol to storage containers"
             ]
         },
         {
-            "task": "Tend to the sheep",
+            "task": "Purifying ethanol",
             "subtasks": [
-                "Approach the sheepfold",
-                "Check for any injured or sick sheep",
-                "Ensure sufficient water and food",
-                "Gather fleece if necessary"
+                "Heat the ethanol in a distillation column",
+                "Trap and collect the ethanol vapor",
+                "Cool the ethanol vapor back into liquid form",
+                "Divert impurities from the distillation process"
             ]
         },
         {
-            "task": "Milk the goats",
+            "task": "Distributing ethanol",
             "subtasks": [
-                "Prepare the milking area",
-                "Restrain the goat securely",
-                "Attach milking equipment",
-                "Hand-milk the goat",
-                "Clean the equipment after milking",
-                "Store milk safely"
+                "Transfer the purified ethanol via hoses to storage tanks",
+                "Ensure the tanks are labeled and secured"
             ]
         },
         {
-            "task": "Grow watermelon",
+            "task": "Cleaning combines",
             "subtasks": [
-                "Sow watermelon seeds in prepared beds",
-                "Water the plants regularly",
-                "Stake the vines to support growth",
-                "Monitor for disease or pests"
+                "Disassemble the combine to clean components",
+                "Scrubbing the exterior and interior of the machine",
+                "Lubricate moving parts before storing"
             ]
         },
         {
-            "task": "Drain a muddy area",
+            "task": "Removing manure",
             "subtasks": [
-                "Clear the area of excess vegetation",
-                "Excavate with a shovel or other tool",
-                "Construct a drainage system (e.g., tiles or ditches)",
-                "Tamp down the area to prevent future mud"
+                "Use a scoop or loader to collect manure",
+                "Transport manure to storage or spreading area",
+                "Dispose of manure appropriately"
             ]
         },
         {
-            "task": "Plant a hayfield",
+            "task": "Mixing feed ingredients",
             "subtasks": [
-                "Prepare the soil by tilling",
-                "Roughly plant the hay seeds or haylage",
-                "Roll the field to firm the seeds",
-                "Contour for drainage"
+                "Weigh out the appropriate amounts of corn, soybeans, etc.",
+                "Combine different ingredients in a mixer",
+                "Add supplements (like minerals or vitamins)",
+                "Ensure the feed is uniformly mixed"
             ]
         },
         {
-            "task": "Weed the vegetable garden",
+            "task": "Applying herbicide",
             "subtasks": [
-                "Identify weeds by type",
-                "Manually pull weeds",
-                "Trim overgrown plants",
-                "Apply pre-emergent herbicides if necessary"
+                "Drive the equipment to the corn field",
+                "Operate the sprayer to apply herbicide",
+                "Walk the field to ensure even coverage"
             ]
         },
         {
-            "task": "Insert fencing posts",
+            "task": "Irrigating the corn field",
             "subtasks": [
-                "Measure posts to required lengths",
-                "Align posts with corners or boundaries",
-                "Drive posts into the ground using a sledgehammer or post-hole digger"
+                "Check weather and soil moisture levels",
+                "Operate the irrigation system to water the corn",
+                "Adjust sprinkler heads or nozzles as needed"
             ]
         },
         {
-            "task": "Transport a feeder",
+            "task": "Applying pesticides",
             "subtasks": [
-                "Unload the feeder from a cart or vehicle",
-                "Assemble the feeder if necessary",
-                "Fill the feeder with grain or hay",
-                "Position it in the pasture or field"
+                "Prepare the pesticide mixture in the sprayer",
+                "Calibrate the sprayer for effective coverage",
+                "Apply pesticide to the corn field according to necessary intervals"
             ]
         },
         {
-            "task": "Maintenance of irrigation system",
-            "subtasks": [
-                "Inspect sprinklers or drip lines",
-                "Check for blockages or leaks",
-                "Adjust or replace faulty components",
-                "Clean filters and maintenance covers"
-            ]
+            "task": "Converting harvested corn into ethanol biofuel**",
+            "subtasks": []
         },
         {
-            "task": "Gather drainage tiles",
-            "subtasks": [
-                "Transport tiles from storage to field",
-                "Align tiles with planned drainage paths",
-                "Cover and connect tiles with soil"
-            ]
+            "task": "Feeding pigs**",
+            "subtasks": []
         },
         {
-            "task": "Attach guardrails to a fence",
-            "subtasks": [
-                "Measure needed lengths for guardrails",
-                "Cut guardrails to fit posts",
-                "Secure guardrails to posts using brackets or fasteners"
-            ]
+            "task": "Planting corn**",
+            "subtasks": []
         },
         {
-            "task": "Repair a broken stall door",
-            "subtasks": [
-                "Assess the damage to the door",
-                "Obtain replacement materials if necessary",
-                "Reattach hinges, replace latch, or mend panels",
-                "Test the door\u2019s functionality"
-            ]
+            "task": "Driving the combine harvester**",
+            "subtasks": []
         },
         {
-            "task": "Remove debris from a pond",
-            "subtasks": [
-                "Deploy net or scoop to catch debris",
-                "Transfer debris to shore",
-                "Screen out any useful materials (e.g., compost)",
-                "Dispose of remaining debris appropriately"
-            ]
+            "task": "Mixing corn with water**",
+            "subtasks": []
         },
         {
-            "task": "Cut firewood",
-            "subtasks": [
-                "Located fallen trees or branches",
-                "Use chainsaw or axe to cut wood into manageable lengths",
-                "Stack wood in a dry area"
-            ]
+            "task": "Loading slurry into fermentation tank**",
+            "subtasks": []
         },
         {
-            "task": "Collect materials for compost",
-            "subtasks": [
-                "Identify suitable yard waste, kitchen scraps, etc.",
-                "Gather materials in a cart or wheelbarrow",
-                "Distribute the collected materials into the compost pile",
-                "Cover the pile with a tarp or soil to retain heat and moisture"
-            ]
+            "task": "Monitoring and managing fermentation**",
+            "subtasks": []
         },
         {
-            "task": "Feed the pigs**",
-            "subtasks": [
-                "** Open the door to the pig pen",
-                "** Approach the feeding trough",
-                "** Scoop feed into the trough"
-            ]
+            "task": "Separation process**",
+            "subtasks": []
         },
         {
-            "task": "Check the potatoes**",
-            "subtasks": [
-                "** Walk to the potato field",
-                "** Inspect potato plants for health",
-                "** Note any issues or pests"
-            ]
+            "task": "Purifying ethanol**",
+            "subtasks": []
         },
         {
-            "task": "Maintain the soil**",
-            "subtasks": [
-                "** Examine soil for moisture and texture",
-                "** Remove weeds by hand",
-                "** Add compost to the soil"
-            ]
+            "task": "Distributing ethanol**",
+            "subtasks": []
         },
         {
-            "task": "Wrestle with the chickens**",
-            "subtasks": [
-                "** Approach the chicken coop",
-                "** Gather eggs from the nesting boxes",
-                "** Secure the eggs in a basket",
-                "** Shoo chickens back into the coop"
-            ]
+            "task": "Cleaning combines**",
+            "subtasks": []
         },
         {
-            "task": "Gather chicken feed**",
-            "subtasks": [
-                "** Access the feed storage area",
-                "** Pour feed from the bag into the feeder",
-                "** Clean the feeder after refilling"
-            ]
+            "task": "Removing manure**",
+            "subtasks": []
         },
         {
-            "task": "Repair a broken tool**",
-            "subtasks": [
-                "** Locate the maintenance area",
-                "** Identify the broken tool",
-                "** Gather replacement parts or tools",
-                "** Disassemble the tool to fix",
-                "** Apply necessary repairs",
-                "** Test functionality and reassemble",
-                "** Return tool to service"
-            ]
+            "task": "Mixing feed ingredients**",
+            "subtasks": []
         },
         {
-            "task": "Service fencing posts**",
-            "subtasks": [
-                "** Identify damaged or inadequate fencing",
-                "** Prepare posts for re-embedding or replacement",
-                "** Drive posts into the ground properly",
-                "** Secure wire or fencing material"
-            ]
+            "task": "Applying herbicide**",
+            "subtasks": []
         },
         {
-            "task": "Clean the chicken coop**",
-            "subtasks": [
-                "** Remove manure and debris",
-                "** Rinse the floors and walls",
-                "** Check for structural issues",
-                "** Apply bedding material"
-            ]
+            "task": "Irrigating the corn field**",
+            "subtasks": []
         },
         {
-            "task": "Tend to the sheep**",
-            "subtasks": [
-                "** Approach the sheepfold",
-                "** Check for any injured or sick sheep",
-                "** Ensure sufficient water and food",
-                "** Gather fleece if necessary"
-            ]
+            "task": "Applying pesticides**",
+            "subtasks": []
         },
         {
-            "task": "Milk the goats**",
-            "subtasks": [
-                "** Prepare the milking area",
-                "** Restrain the goat securely",
-                "** Attach milking equipment",
-                "** Hand-milk the goat",
-                "** Clean the equipment after milking",
-                "** Store milk safely"
-            ]
+            "task": "MAINTASK: Converting harvested corn into ethanol biofuel, followed by subtasks; MAINTASK: Feeding pigs, followed by subtasks; MAINTASK: Planting corn, followed by subtasks; MAINTASK: Driving the combine harvester, followed by subtasks; MAINTASK: Mixing corn with water, followed by subtasks; MAINTASK: Loading slurry into fermentation tank, followed by subtasks; MAINTASK: Monitoring and managing fermentation, followed by subtasks; MAINTASK: Separation process, followed by subtasks; MAINTASK: Purifying ethanol, followed by subtasks; MAINTASK: Distributing ethanol, followed by subtasks; MAINTASK: Cleaning combines, followed by subtasks; MAINTASK: Removing manure, followed by subtasks; MAINTASK: Mixing feed ingredients, followed by subtasks; MAINTASK: Applying herbicide, followed by subtasks; MAINTASK: Irrigating the corn field, followed by subtasks; MAINTASK: Applying pesticides, followed by subtasks; Answer: It's relevant as it details various physical agricultural tasks from corn farming, ethanol production, and pig feeding. Each task involves direct manual labor or operating agricultural equipment.*",
+            "subtasks": []
         },
         {
-            "task": "Grow watermelon**",
-            "subtasks": [
-                "** Sow watermelon seeds in prepared beds",
-                "** Water the plants regularly",
-                "** Stake the vines to support growth",
-                "** Monitor for disease or pests"
-            ]
-        },
-        {
-            "task": "Drain a muddy area**",
-            "subtasks": [
-                "** Clear the area of excess vegetation",
-                "** Excavate with a shovel or other tool",
-                "** Construct a drainage system (e.g., tiles or ditches)",
-                "** Tamp down the area to prevent future mud"
-            ]
-        },
-        {
-            "task": "Plant a hayfield**",
-            "subtasks": [
-                "** Prepare the soil by tilling",
-                "** Roughly plant the hay seeds or haylage",
-                "** Roll the field to firm the seeds",
-                "** Contour for drainage"
-            ]
-        },
-        {
-            "task": "Weed the vegetable garden**",
-            "subtasks": [
-                "** Identify weeds by type",
-                "** Manually pull weeds",
-                "** Trim overgrown plants",
-                "** Apply pre-emergent herbicides if necessary"
-            ]
-        },
-        {
-            "task": "Insert fencing posts**",
-            "subtasks": [
-                "** Measure posts to required lengths",
-                "** Align posts with corners or boundaries",
-                "** Drive posts into the ground using a sledgehammer or post-hole digger"
-            ]
-        },
-        {
-            "task": "Transport a feeder**",
-            "subtasks": [
-                "** Unload the feeder from a cart or vehicle",
-                "** Assemble the feeder if necessary",
-                "** Fill the feeder with grain or hay",
-                "** Position it in the pasture or field"
-            ]
-        },
-        {
-            "task": "Maintenance of irrigation system**",
-            "subtasks": [
-                "** Inspect sprinklers or drip lines",
-                "** Check for blockages or leaks",
-                "** Adjust or replace faulty components",
-                "** Clean filters and maintenance covers"
-            ]
-        },
-        {
-            "task": "Gather drainage tiles**",
-            "subtasks": [
-                "** Transport tiles from storage to field",
-                "** Align tiles with planned drainage paths",
-                "** Cover and connect tiles with soil"
-            ]
-        },
-        {
-            "task": "Attach guardrails to a fence**",
-            "subtasks": [
-                "** Measure needed lengths for guardrails",
-                "** Cut guardrails to fit posts",
-                "** Secure guardrails to posts using brackets or fasteners"
-            ]
-        },
-        {
-            "task": "Repair a broken stall door**",
-            "subtasks": [
-                "** Assess the damage to the door",
-                "** Obtain replacement materials if necessary",
-                "** Reattach hinges, replace latch, or mend panels",
-                "** Test the door\u2019s functionality"
-            ]
-        },
-        {
-            "task": "Remove debris from a pond**",
-            "subtasks": [
-                "** Deploy net or scoop to catch debris",
-                "** Transfer debris to shore",
-                "** Screen out any useful materials (e.g., compost)",
-                "** Dispose of remaining debris appropriately"
-            ]
-        },
-        {
-            "task": "Cut firewood**",
-            "subtasks": [
-                "** Located fallen trees or branches",
-                "** Use chainsaw or axe to cut wood into manageable lengths",
-                "** Stack wood in a dry area"
-            ]
-        },
-        {
-            "task": "Collect materials for compost**",
-            "subtasks": [
-                "** Identify suitable yard waste, kitchen scraps, etc.",
-                "** Gather materials in a cart or wheelbarrow",
-                "** Distribute the collected materials into the compost pile",
-                "** Cover the pile with a tarp or soil to retain heat and moisture"
-            ]
+            "task": "Converting harvested corn into ethanol biofuel, MAINTASK: Feeding pigs, MAINTASK: Planting corn, MAINTASK: Driving the combine harvester, MAINTASK: Mixing corn with water, MAINTASK: Loading slurry into fermentation tank, MAINTASK: Monitoring and managing fermentation, MAINTASK: Separation process, MAINTASK: Purifying ethanol, MAINTASK: Distributing ethanol, MAINTASK: Cleaning combines, MAINTASK: Removing manure, MAINTASK: Mixing feed ingredients, MAINTASK: Applying herbicide, MAINTASK: Irrigating the corn field, MAINTASK: Applying pesticides}}",
+            "subtasks": []
         }
     ]
 }

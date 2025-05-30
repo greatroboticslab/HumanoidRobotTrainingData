@@ -5,22 +5,28 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Clearing trees for pasture with loader",
+            "task": "Clearing trees and brush for a pasture using a John Deere 1025 loader.",
             "subtasks": [
-                "Talk to camera about the task",
-                "Identify location and task",
-                "Demonstrate replacing valve stem with loader",
-                "PUMP up the tire"
+                "Approach the clearing site.",
+                "Identify trees and brush to be removed.",
+                "Use the John Deere 1025 loader to uproot trees and gather brush.",
+                "Replace a popped valve stem on the loader\u2019s tire.",
+                "Use the loader to lift the tire to access the valve stem.",
+                "Install a new valve stem without a jack.",
+                "Inflate the tire using the loader."
             ]
         },
         {
-            "task": "Valves stems replacement using loader",
+            "task": "Patching or repairing the video.",
             "subtasks": [
-                "Address valve stem issue",
-                "Remove tire using loader",
-                "Replace valve stem",
-                "Reinstall tire using loader"
+                "Add a like and subscribe message.",
+                "Post the video on the channel Hill Creek Outdoors.",
+                "Greet viewers until the next video."
             ]
+        },
+        {
+            "task": "one for clearing trees and brush with the loader, and another for the tire repair. The subtasks break down each major action. The video's call to action and farewell are noted but are less directly related to physical tasks, although they are part of the video's structure. The \"like and subscribe\" and \"until next time\" components are considered separate MAINTASKs given their distinct nature. However, in some contexts, the entire video could be categorized as a single MAINTASK, but given the distinct sections, two MAINTASKs are appropriate here. The final line >>>ACCEPT confirms relevance.",
+            "subtasks": []
         }
     ]
 }

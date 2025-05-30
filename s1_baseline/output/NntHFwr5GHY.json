@@ -5,28 +5,20 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Testing solar panel setup",
+            "task": "Setting up and testing a solar power system",
             "subtasks": [
-                "Assembling the solar testing system",
-                "Directly positioning solar cells towards the Sun",
-                "Attaching a 10-ohm resistor to measure output",
-                "Calculating expected voltage and current for 10 watts",
-                "Evaluating actual power output compared to expected values"
+                "Purchasing two 10-watt solar cells for $44 each",
+                "Verifying the performance of the solar cells by testing them in direct sunlight",
+                "Connecting a 10-ohm resistor to the solar cells to check for 10 watts output at 12 volts",
+                "Evaluating the actual power output (12 volts, 5 volts, and 200 milliamps) compared to expected 10 watts"
             ]
         },
         {
-            "task": "Exploring solar technology adoption",
+            "task": "Tracking power usage with a charging circuit",
             "subtasks": [
-                "Discussing expected performance from solar panels",
-                "Considering environmental factors affecting solar efficiency"
-            ]
-        },
-        {
-            "task": "Charging a USB battery using solar power",
-            "subtasks": [
-                "Connecting solar cells to battery charger circuit",
-                "Monitoring power usage and efficiency over time",
-                "Adjusting device positioning for optimal sunlight exposure"
+                "Monitoring the charger circuit's measurement of power being used",
+                "Charging a USB battery using the solar setup",
+                "Noting the limited power output (167 milliamp hours) from the battery"
             ]
         }
     ]

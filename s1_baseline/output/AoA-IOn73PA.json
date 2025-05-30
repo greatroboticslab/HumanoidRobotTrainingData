@@ -5,12 +5,170 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "imagine a video demonstrating how to plant a crop. For example, planting wheat. The maintask would be planting the crop. Subtasks could be selecting the field, preparing the soil, sowing the seeds, covering them. Another example: operating a combine harvester. MAINTASK: Operating combine harvester. Subtasks: Starting the machine, moving through the field, adjusting settings, sampling grain, etc.",
+            "task": "Operate a combine harvester",
+            "subtasks": [
+                "Sit on the combine operator's seat",
+                "Engage the engine and start the combine",
+                "Adjust the combine's harvesting settings",
+                "Drive the combine through the crop field",
+                "Monitor the combine's performance during harvesting",
+                "Use telehandlers or similar equipment for placing bales",
+                "Insert bale pointers into bales to secure them",
+                "Stack and organize the bales as needed"
+            ]
+        },
+        {
+            "task": "Transport harvested crops",
+            "subtasks": [
+                "Load combine into a trailer or other transport vehicle",
+                "Secure the crops in the trailer with ties or straps",
+                "Drive the trailer to the desired location",
+                "Unload the crops from the combine or trailer",
+                "Discharge the crops into the appropriate storage or processing area"
+            ]
+        },
+        {
+            "task": "Prepare land for planting",
+            "subtasks": [
+                "Position the combine implement into the right position for land preparation",
+                "Engage the implements to work the soil, such as tilling or cultivating",
+                "Monitor the soil conditions and adjust the implement's settings as needed",
+                "Operate the soil-working equipment to prepare seedbeds"
+            ]
+        },
+        {
+            "task": "Apply fertilizers and chemicals",
+            "subtasks": [
+                "Attach or connect fertilizer or chemical applicator tools to the combine",
+                "Set the appropriate rates and distribution patterns for spreaders",
+                "Operate the spreader or applicator while moving through the field",
+                "Check the coverage and adjust the spreader settings if necessary"
+            ]
+        },
+        {
+            "task": "Plant crops",
+            "subtasks": [
+                "Attach planting implements to the combine or tractor",
+                "Adjust the planting depth and planter settings",
+                "Drive through the field, planting seeds into the prepared soil",
+                "Monitor the planting process and ensure consistent row spacing and depth"
+            ]
+        },
+        {
+            "task": "Harvest crops",
+            "subtasks": [
+                "Position the combine in the field to start harvesting",
+                "Adjust the combine's header to match the crop type (e.g., wheat, soybeans)",
+                "Navigate the combine through the crop rows, harvesting in sections",
+                "Check the grain quality and separator settings during harvest",
+                "Load harvested grain into bins or trucks as needed"
+            ]
+        },
+        {
+            "task": "Maintain and service farm equipment",
+            "subtasks": [
+                "Inspect the combine for any issues before and after operations",
+                "Clean and lubricate moving parts of the combine and attachments",
+                "Replace worn or damaged parts on the equipment",
+                "Follow safety protocols when servicing the combine or other equipment"
+            ]
+        },
+        {
+            "task": "Operate a combine harvester**",
             "subtasks": []
         },
         {
-            "task": "Given that no actual transcript is present, and the instruction states \"Given this transcript...\", I can conclude that the transcript must be missing. Therefore, setting the MAINTASK to be that the transcript is missing, which would lead to generating tasks being impossible, hence concluding with TRANSCRIPT\\_IRRELEVANT.",
+            "task": "Transport harvested crops**",
             "subtasks": []
+        },
+        {
+            "task": "Prepare land for planting**",
+            "subtasks": []
+        },
+        {
+            "task": "Apply fertilizers and chemicals**",
+            "subtasks": []
+        },
+        {
+            "task": "Plant crops**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest crops**",
+            "subtasks": []
+        },
+        {
+            "task": "Maintain and service farm equipment**",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a combine harvester",
+            "subtasks": [
+                "Sit on the combine operator's seat",
+                "Engage the engine and start the combine",
+                "Adjust the combine's harvesting settings",
+                "Drive the combine through the crop field",
+                "Monitor the combine's performance during harvesting",
+                "Use telehandlers or similar equipment for placing bales",
+                "Insert bale pointers into bales to secure them",
+                "Stack and organize the bales as needed"
+            ]
+        },
+        {
+            "task": "Transport harvested crops",
+            "subtasks": [
+                "Load combine into a trailer or other transport vehicle",
+                "Secure the crops in the trailer with ties or straps",
+                "Drive the trailer to the desired location",
+                "Unload the crops from the combine or trailer",
+                "Discharge the crops into the appropriate storage or processing area"
+            ]
+        },
+        {
+            "task": "Prepare land for planting",
+            "subtasks": [
+                "Position the combine implement into the right position for land preparation",
+                "Engage the implements to work the soil",
+                "Monitor the soil conditions and adjust the implement's settings as needed",
+                "Operate the soil-working equipment to prepare seedbeds"
+            ]
+        },
+        {
+            "task": "Apply fertilizers and chemicals",
+            "subtasks": [
+                "Attach or connect fertilizer or chemical applicator tools to the combine",
+                "Set the appropriate rates and distribution patterns for spreaders",
+                "Operate the spreader or applicator while moving through the field",
+                "Check the coverage and adjust the spreader settings if necessary"
+            ]
+        },
+        {
+            "task": "Plant crops",
+            "subtasks": [
+                "Attach planting implements to the combine or tractor",
+                "Adjust the planting depth and planter settings",
+                "Drive through the field, planting seeds into the prepared soil",
+                "Monitor the planting process and ensure consistent row spacing and depth"
+            ]
+        },
+        {
+            "task": "Harvest crops",
+            "subtasks": [
+                "Position the combine in the field to start harvesting",
+                "Adjust the combine's header to match the crop type",
+                "Navigate the combine through the crop rows, harvesting in sections",
+                "Check the grain quality and separator settings during harvest",
+                "Load harvested grain into bins or trucks as needed"
+            ]
+        },
+        {
+            "task": "Maintain and service farm equipment",
+            "subtasks": [
+                "Inspect the combine for any issues before and after operations",
+                "Clean and lubricate moving parts of the combine and attachments",
+                "Replace worn or damaged parts on the equipment",
+                "Follow safety protocols when servicing the combine or other equipment"
+            ]
         }
     ]
 }

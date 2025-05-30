@@ -5,49 +5,70 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Troubleshoot a malfunctioning irrigation zone.",
+            "task": "Troubleshooting an irrigation system zone that isn't functioning properly.",
             "subtasks": [
-                "Check if the issue is caused by a faulty controller.",
-                "Verify the valve is closing properly for a zone that won't stop running.",
-                "Inspect for signs of a broken pipe if the zone isn't coming on all the way.",
-                "Determine if the valve isn't opening by checking for water seepage from sprinkler heads.",
-                "Test the controller's 24-volt output using a solenoid activator or multimeter.",
-                "Check for continuity and resistance in the wiring and solenoid using a multimeter.",
-                "Verify the module is properly seated in a modular controller.",
-                "Check programming errors on the controller.",
-                "Replace the valve or solenoid if identified as the faulty component.",
-                "If necessary, replace the controller or run new wire for troubleshooting."
+                "Determine if the issue is a valve not closing/uniformly, or not coming on at all.",
+                "Check the controller if the valve is not closing/uniformly.",
+                "Verify the solenoid voltage and resistance.",
+                "Inspect solenoid wiring and connections.",
+                "Test solenoid activation with an activator chatterer.",
+                "Replace valve or solenoid if faulty.",
+                "Check for a broken pipe leading to a wet spot in the yard.",
+                "Confirm module seating and programming on the controller.",
+                "Troubleshoot battery-operated systems using a multimeter."
             ]
         },
         {
-            "task": "MAINTASK: Troubleshoot a malfunctioning irrigation zone.\\",
-            "subtasks": [
-                "Check if the issue is caused by a faulty controller.\\",
-                "Verify the valve is closing properly for a zone that won't stop running.\\",
-                "Inspect for signs of a broken pipe if the zone isn't coming on all the way.\\",
-                "Determine if the valve isn't opening by checking for water seepage from sprinkler heads.\\",
-                "Test the controller's 24-volt output using a solenoid activator or multimeter.\\",
-                "Check for continuity and resistance in the wiring and solenoid using a multimeter.\\",
-                "Verify the module is properly seated in a modular controller.\\",
-                "Check programming errors on the controller.\\",
-                "Replace the valve or solenoid if identified as the faulty component.\\",
-                "If necessary, replace the controller or run new wire for troubleshooting."
-            ]
+            "task": "Troubleshoot a malfunctioning sprinkler system zone.",
+            "subtasks": []
+        },
+        {
+            "task": "Troubleshoot a malfunctioning sprinkler zone.",
+            "subtasks": []
         },
         {
             "task": "MAINTASK: Troubleshoot a malfunctioning irrigation zone.",
-            "subtasks": [
-                "Check if the issue is caused by a faulty controller.",
-                "Verify the valve is closing properly for a zone that won't stop running.",
-                "Inspect for signs of a broken pipe if the zone isn't coming on all the way.",
-                "Determine if the valve isn't opening by checking for water seepage from sprinkler heads.",
-                "Test the controller's 24V output using a solenoid activator or multimeter.",
-                "Check for continuity and resistance in the wiring and solenoid using a multimeter.",
-                "Verify the module is properly seated in a modular controller.",
-                "Check programming errors on the controller.",
-                "Replace the valve or solenoid if identified as the faulty component.",
-                "If necessary, replace the controller or run new wire for troubleshooting."
-            ]
+            "subtasks": []
+        },
+        {
+            "task": "Troubleshoot a non-functioning sprinkler zone.",
+            "subtasks": []
+        },
+        {
+            "task": "**MAINTASK:** Troubleshoot a malfunctioning zone on an irrigation sprinkler system.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Troubleshooting a non-functioning sprinkler zone.",
+            "subtasks": []
+        },
+        {
+            "task": "Troubleshoot a non-functioning sprinkler zone.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Troubleshoot a malfunctioning irrigation zone.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Troubleshoot a non-functioning sprinkler zone.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Diagnose and fix a malfunctioning sprinkler zone.",
+            "subtasks": []
+        },
+        {
+            "task": "Troubleshoot a malfunctioning sprinkler zone.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Diagnose and resolve issues with a non-functioning sprinkler system zone.",
+            "subtasks": []
+        },
+        {
+            "task": "The **MAINTASK** is to troubleshoot a malfunctioning **sprinkler zone**.",
+            "subtasks": []
         }
     ]
 }

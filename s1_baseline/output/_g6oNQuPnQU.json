@@ -5,41 +5,89 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Operate a chalkboard to write instructions for planting corn.",
+            "task": "Attaching a disc coulter to a tractor's three-point hitch",
             "subtasks": [
-                "Approach the chalkboard.",
-                "Position body to reach the chalkboard.",
-                "Twist torso to write on the left side of the chalkboard.",
-                "Grasp chalk with hand.",
-                "Move arm to write \"Plant corn 18 inches apart\" vertically.",
-                "Erase previous writing if necessary.",
-                "Write new instruction: \"Plant corn 18 inches apart\"."
+                "Remove current implement from the three-point hitch",
+                "Position disc coulter under the tractor's hitch",
+                "Align coulter with the hitch's mounting points",
+                "Secure coulter to the hitch using locking pins",
+                "Tighten any adjustment screws on the coulter"
             ]
         },
         {
-            "task": "Use a corn planter to plant corn seed.",
+            "task": "Performing daily pre-trip equipment inspection",
             "subtasks": [
-                "Approach the corn planting field.",
-                "Step into the planter to operate it.",
-                "Adjust the planter'sDepthControl to 18 inches.",
-                "Ensure seed box is filled with corn seeds.",
-                "Engage the planter's motor.",
-                "Guide the planter along rows, ensuring 18-inch spacing.",
-                "Step off the planter after completing the pass."
+                "Check tire pressure on all tractor tires",
+                "Look for visible damage to the tractor's frame",
+                "Test the functionality of the steering system",
+                "Inspect hydraulic fluids for leaks and level",
+                "Verify the brakes are functional and not worn"
             ]
         },
         {
-            "task": "Address a manager regarding planting plans.",
+            "task": "Operating a combine harvester to harvest wheat",
             "subtasks": [
-                "Approach the manager's office.",
-                "Knock on the door or announce presence.",
-                "Enter the office and greet the manager.",
-                "Sit down at a desk or chair.",
-                "Present a planting plan, perhaps on a clipboard.",
-                "Discuss planting techniques and schedule.",
-                "Note any feedback or instructions from the manager.",
-                "Take notes if needed.",
-                "Exit the office and return to planting duties."
+                "Position the combine in the field by the headland",
+                "Adjust header height to pick up straw and grain correctly",
+                "Monitor grain flow and clean seeds as necessary",
+                "Change knives or adjustment settings as needed during harvest",
+                "Switch direction at the headland using turn conditioning"
+            ]
+        },
+        {
+            "task": "Planting soybeans using a planter",
+            "subtasks": [
+                "Set proper depth for seed placement in the soil",
+                "Apply accurate seed spacing to ensure proper plant spacing",
+                "Monitor seed moisture content and adjust accordingly",
+                "Check soil conditions and adjust planter settings if necessary",
+                "Load seed into the hopper and check seed flow"
+            ]
+        },
+        {
+            "task": "Driving a tractor to transport crops",
+            "subtasks": [
+                "Check for obstructions on the road or in the field",
+                "Determine the safest path for moving the crops",
+                "Operate the steering smoothly to avoid damaging the crops",
+                "Use speed appropriate for the terrain and crop type",
+                "Check rearview mirrors or turn to check blind spots when moving vehicles"
+            ]
+        },
+        {
+            "task": "Planting corn using a planter",
+            "subtasks": [
+                "Set appropriate inter-plant spacing for corn rows",
+                "Adjust seeding depth according to soil conditions",
+                "Monitor downforce settings to maintain consistent planting depth",
+                "Check for clean furrows to ensure proper seed placement"
+            ]
+        },
+        {
+            "task": "Driving a tractor to mow weeds in a soybean field",
+            "subtasks": [
+                "Position the mower blades at the correct height for soybeans",
+                "Guide the tractor along the rows, maintaining speed for efficient mowing",
+                "Manipulate the steering wheel to follow rows precisely",
+                "Inspect mowing results and adjust if necessary, such as raising/lowering blades"
+            ]
+        },
+        {
+            "task": "Conducting a soil sampling for fertilizer application",
+            "subtasks": [
+                "Select representative areas of the field to sample",
+                "Use a soil probe to extract samples from the root zone",
+                "Fill sample bags and record location and depth",
+                "Send samples to a lab for nutrient analysis"
+            ]
+        },
+        {
+            "task": "Applying lime to farmland",
+            "subtasks": [
+                "Calculate the required amount of lime based on soil test results",
+                "Load lime into a spreader or use a broadcast applicator",
+                "Drive through the field, applying lime uniformly",
+                "Check coverage and adjust speed or application rate as needed"
             ]
         }
     ]

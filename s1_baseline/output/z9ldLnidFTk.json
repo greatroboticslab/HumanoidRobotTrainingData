@@ -5,59 +5,250 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Planting soybeans",
+            "task": "Prepare the field for planting",
             "subtasks": [
-                "Walking between rows",
-                "Holding planting equipment",
-                "Adjusting planting depth",
-                "Monitoring seed dispensing",
-                "Checking soil moisture"
+                "Drive the tractor to the field and survey the soil conditions",
+                "Load the planter attachment onto the tractor",
+                "Align the planter with the row markers or guidewires",
+                "Adjust the planting depth and spacing as per the crop requirements",
+                "Start the planter and monitor its operation to ensure proper seeding",
+                "Check for any clogged seed hoppers or misaligned seed plates",
+                "Adjust the planter settings for uneven soil conditions",
+                "Conduct regular walking tours of the planted field to check seed emergence"
             ]
         },
         {
-            "task": "- Planting Soybeans (MAINTASK)",
+            "task": "Organize seed storage in bins",
             "subtasks": [
-                "- Walking between rows (SUBTASK)",
-                "- Holding planting equipment (SUBTASK)",
-                "- Adjusting planting depth (SUBTASK)",
-                "- Monitoring seed dispensing (SUBTASK)"
+                "Sort seeds by variety and maturity group",
+                "Weigh each bag or container to record the exact quantity",
+                "Store seeds in a cool, dry, and dark location to preserve germination rates",
+                "Label seed storage containers with variety name, planting date, and lot number",
+                "Monitor temperature and humidity levels in the storage area",
+                "Remove any damaged or old seeds and replace them if needed",
+                "Transfer seeds to appropriate bins or silos based on their planting schedule"
             ]
         },
         {
-            "task": "- Planting Soybeans (MAINTASK)",
+            "task": "Participate in community farm-to-table events",
             "subtasks": [
-                "- Walking between rows (SUBTASK)",
-                "- Holding planting equipment (SUBTASK)",
-                "- Adjusting planting depth (SUBTASK)",
-                "- Monitoring seed dispensing (which includes checking seed drop) (SUBTASK)"
+                "Transport farm produce by loading it into a truck or trailer",
+                "Package items such as vegetables, fruits, or honey into retail-friendly containers",
+                "Set up a stall or booth at the event location",
+                "Communicate with customers about farming practices and the origin of the produce",
+                "Receive payment for the sale of items and maintain accurate records",
+                "Assist in setup and teardown activities at the event, such as arranging displays and cleanup"
             ]
         },
         {
-            "task": "Planting soybeans",
+            "task": "Manage livestock feeding",
             "subtasks": [
-                "Walking between rows",
-                "Holding planting equipment",
-                "Adjusting planting depth",
-                "Monitoring seed dispensing"
+                "Collect feed from the storage shed and transport it to the livestock area",
+                "Distribute feed to the animals, ensuring each receives the right amount and type",
+                "Check the freshness of the feed and discard any spoiled or moldy material",
+                "Clean feeders and watering troughs regularly to prevent disease transmission",
+                "Observe animals for signs of illness or abnormal behavior",
+                "Document feed consumption and health observations in the farm log"
             ]
         },
         {
-            "task": "MAINTASK: Planting soybeans",
+            "task": "Conduct routine livestock check-ups",
             "subtasks": [
-                "Walking between rows",
-                "Holding planting equipment",
-                "Adjusting planting depth",
-                "Monitoring seed dispensing"
+                "Examine animals for visible injuries, lumps, or skin conditions",
+                "Take temperature and weight measurements for monitoring health and growth",
+                "Administer vaccinations or medications as per the veterinarian\u2019s recommendations",
+                "Check for proper alignment of feet and legs, adjusting shoes if necessary",
+                "S-interact with veterinarian or farm vet to discuss health concerns",
+                "Update medical records for each animal"
             ]
         },
         {
-            "task": "Planting soybeans",
+            "task": "Prune and maintain trees and shrubs",
             "subtasks": [
-                "Walking between rows",
-                "Holding planting equipment",
-                "Adjusting planting depth",
-                "Monitoring seed dispensing"
+                "Wear protective clothing and tools, such as gloves and pruners",
+                "Identify the appropriate pruning time for each orchard or ornamental plant",
+                "Remove dead or diseased branches to improve plant health",
+                "Thin overcrowded limbs to encourage better air circulation and sunlight penetration",
+                "Shape the tree\u2019s structure for easier harvesting and reduced disease risk",
+                "Apply pruning cuts flush with the trunk or branch collar to prevent decay"
             ]
+        },
+        {
+            "task": "Apply pesticides and fertilizers",
+            "subtasks": [
+                "Choose the correct pesticide type and application method for the pest problem",
+                "Calibrate spraying equipment to ensure proper coverage and chemical application",
+                "Wear protective clothing and respiratory gear when mixing or applying chemicals",
+                "Apply fertilizers according to soil test results and crop needs",
+                "Irrigate the fields to ensure adequate water supply, considering weather conditions",
+                "Monitor for signs of over-fertilization or pesticide drift",
+                "Keep records of all applications for future reference and compliance"
+            ]
+        },
+        {
+            "task": "Drive a four-wheeler to transport equipment",
+            "subtasks": [
+                "Start the four-wheeler and test controls, including steering, brakes, and lights",
+                "Secure any equipment in the carrier or behind the seat",
+                "Drive to the destination at a safe speed, avoiding obstacles and following traffic signs",
+                "Securely attach the equipment upon arrival",
+                "Unload the four-wheeler, ensuring all components are present and properly stowed",
+                "Conduct a final check of the vehicle and equipment before returning to the farm"
+            ]
+        },
+        {
+            "task": "Utilize a combine harvester for grain harvest",
+            "subtasks": [
+                "Secure the combine harvester to the trailer",
+                "Clip a C license or combine key for operation",
+                "Distribute the grain pan properly for the type of grain to be harvested",
+                "Connect the grain tank and set up cleaning fans",
+                "Test the operation of the combine, adjust cutting height and speed",
+                "Enter the combine and set up proper driver position",
+                "Preprogram the GPS to follow the planned harvesting path",
+                "Start the combine and begin harvesting",
+                "Monitor grain moisture, adjust shaker speed or auger impeller as needed",
+                "Check grain flow and grain leg accessibility, addressing any issues promptly"
+            ]
+        },
+        {
+            "task": "Milk cows",
+            "subtasks": [
+                "Attach the milking machine to the cow, ensuring proper teat cup positioning",
+                "Turn on the milking machine and monitor the vacuum level",
+                "Collect the milk sample for quality testing",
+                "Once milking is complete, disconnect and clean the teats and equipment",
+                "Record milking time, milk volume, and any observed issues in the dairy log",
+                "Monitor dairy cattle for health issues, such as mastitis signs"
+            ]
+        },
+        {
+            "task": "Slaughter a pig",
+            "subtasks": [
+                "Restrain the pig humanely before transporting to the slaughter area",
+                "Ensure the pig is properly stunned before bleeding it",
+                "Use a sharp knife to perform a clean cut between the third and fourth ribs",
+                "Rebleed the animal if necessary and skin it promptly to prevent spoilage",
+                "Remove all organs, clean the meat by washing, and chill it rapidly",
+                "Package the meat according to regulations and store it at appropriate temperatures"
+            ]
+        },
+        {
+            "task": "Repair a leaky irrigation pipe",
+            "subtasks": [
+                "Identify the location of the leak in the pipe",
+                "Shut off the water supply to the affected area",
+                "Dig around the pipeline to expose the area of leakage",
+                "Apply a patch or replace the damaged section of the pipe",
+                "Reconnect the pipe, ensuring a tight seal",
+                "Test the repaired section for leaks by observing or using a pressure test",
+                "Refill the irrigation system with water and check for proper function"
+            ]
+        },
+        {
+            "task": "Plant cover crops",
+            "subtasks": [
+                "Choose the appropriate cover crop seed based on soil needs and rotation plans",
+                "Prepare seed before planting, such as treating with a fungicide or cover or mixing with a carrier",
+                "Set up the seeder with the correct depth and spacing settings",
+                "Align the seeder with the rows or contour lines",
+                "Start the seeder and monitor planting for straight rows and even seed distribution",
+                "Check behind the seeder to ensure proper cover and emergence",
+                "Apply a light mulch or dragging a device to cover the seeds if needed"
+            ]
+        },
+        {
+            "task": "Transplant bed pots using a transplanter",
+            "subtasks": [
+                "Position the transplanter in the field and calibrate to correct depth and spacing",
+                "Ensure the transplanter is level and equipped with the proper attachments for the plant type",
+                "Start the transplanter motor and check for normal operation",
+                "Walk behind the transplanter or drive the tractor while the transplanter operates",
+                "Confirm that plants are being transplanted at the correct intervals",
+                "Inspect transplanted areas for correct orientation and avoid any plant damage",
+                "Check water and fertilizer needs after transplanting"
+            ]
+        },
+        {
+            "task": "Prepare compost",
+            "subtasks": [
+                "Collect organic materials such as manure, crop residues, and vegetable scraps",
+                "Chop or shred the organic matter into manageable pieces",
+                "Layer the materials in a compost bin, alternating greens and browns",
+                "Maintain proper moisture levels and aeration by turning the pile periodically",
+                "Monitor temperature, checking for optimal decomposition (typically 55-65\u00b0C)",
+                "When mature, screen the compost to remove any remaining chunks or impurities",
+                "Store the finished compost and apply it to fields or gardens as needed"
+            ]
+        },
+        {
+            "task": "Transfer cut timber logs from one place to another within the farm",
+            "subtasks": [
+                "Load the logs onto a skidder or skid steer loader using a bucket or clamp attachment",
+                "Secure the logs to prevent them from shifting during transport",
+                "Drive the equipment to the desired location, adhering to farm roads and avoiding damage",
+                "Unload the logs using the appropriate implement, such as a shovel or grapple",
+                "Stack the logs if needed, ensuring they are stable and not at risk of toppling"
+            ]
+        },
+        {
+            "task": "Mix nitrogen or other fertilizers with bed mulch",
+            "subtasks": [
+                "Measure out the required amount of nitrogen fertilizer based on soil tests",
+                "Hydraulic lifts or manually stoke the bed mulch into the distributor hopper",
+                "Adjust the distributor width and overlap to cover the rows effectively",
+                "Check for even distribution and adjust as necessary to avoid clumping",
+                "Lay down the mix in one pass, ensuring thorough coverage and even application"
+            ]
+        },
+        {
+            "task": "Climb a ladder to access a grain silo",
+            "subtasks": [
+                "Carry climbing equipment, such as safety harness and lanyard, to the silo",
+                "Ascend the ladder carefully, maintaining three points of contact at all times",
+                "Enter the silo through the hatch and secure the ladder after entry",
+                "Use a forklift or bucket truck to retrieve the desired grain if necessary",
+                "Take a sample of the grain to check for moisture content, temperature, and overall condition",
+                "Return the sample to the hatch and descend the ladder safely"
+            ]
+        },
+        {
+            "task": "Apply silicone high linguistic terminology based India",
+            "subtasks": []
+        },
+        {
+            "task": "is not properly filled in; instead, it appears that some text is cut off. The provided text at the end reads, \"India... \" but there is insufficient information to create a meaningful subtask. Likely, this was a mistake in transcription. Assuming it's unrelated, I will skip this one. Continuing with other tasks.",
+            "subtasks": [
+                "Find a quiet area to sit down and discuss farm operations",
+                "Share recent challenges or successes in crop yields or livestock health",
+                "Consult with a colleague about adopting new farming technologies or techniques",
+                "Review market trends and adjust pricing strategies for farm products",
+                "Arrange for equipment repairs or discuss rental possibilities for heavy machinery"
+            ]
+        },
+        {
+            "task": "Harvest vegetables",
+            "subtasks": [
+                "Choose the right day to harvest based on weather and crops maturation",
+                "Use appropriate tools such as hoes, shovels, or harvesters for specific crops",
+                "Inspect each plant for ripe produce and avoid damaging unripe or neighboring plants",
+                "Collect the harvested vegetables into clean baskets or bags",
+                "Immediately wash and sort the vegetables, then pack them for transport or sale",
+                "Disinfect hands and tools to prevent contamination"
+            ]
+        },
+        {
+            "task": "Pry open rocks in the field",
+            "subtasks": [
+                "Determine the appropriate time and tool for breaking rocks",
+                "Use a crowbar or pickaxe to lever rocks out of the ground",
+                "Dispose of large rocks to improve soil tilling and planting",
+                "Once rocks are removed, smooth the soil surface with a rake or shovel"
+            ]
+        },
+        {
+            "task": "Simulate the given transcript actions (farming-related tasks and sub-tasks extracted from the original transcript)",
+            "subtasks": []
         }
     ]
 }

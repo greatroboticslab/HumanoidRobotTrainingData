@@ -5,63 +5,77 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Care for chickens",
+            "task": "Examine farm animals",
             "subtasks": [
-                "Examine chickens"
+                "Look at the animals",
+                "Assess their condition"
             ]
         },
         {
-            "task": "Operate farming equipment",
+            "task": "Observe agricultural equipment",
             "subtasks": [
-                "Use a sprayer or fogger (vapor mentioned)"
+                "Notice the yellow machine operating",
+                "Observe vapor from the equipment"
             ]
         },
         {
-            "task": "MAINTASK: Care for chickens",
+            "task": "Engage with others about the farm",
             "subtasks": [
-                "Examine chickens (looking at them, checking on their health)"
+                "Discuss the animals' condition with others",
+                "Express excitement about the farm activities"
             ]
         },
         {
-            "task": "Operate farming equipment",
+            "task": "Examine farm animals",
+            "subtasks": []
+        },
+        {
+            "task": "Observe agricultural equipment",
+            "subtasks": []
+        },
+        {
+            "task": "Engage with others about the farm",
+            "subtasks": []
+        },
+        {
+            "task": "\"Generate a series of tasks based on the transcript that a person would have to perform. A task should be a generalization, and made up of smaller subtasks. \" So MAINTASK followed by subtasks. Each main task should cover a key activity, then the subtasks are the components. Let me try again:",
+            "subtasks": []
+        },
+        {
+            "task": "Monitor farm animals and operations",
+            "subtasks": []
+        },
+        {
+            "task": "Check farm animals",
+            "subtasks": []
+        },
+        {
+            "task": "Operate and monitor agricultural machinery",
+            "subtasks": []
+        },
+        {
+            "task": "Engage in verbal confirmation and amazement",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Examine farm animals",
             "subtasks": [
-                "Use a sprayer or fogger (applying vapor, likely a treatment)"
+                "Look at the animals",
+                "Assess their condition"
             ]
         },
         {
-            "task": "Care for chickens}",
+            "task": "Observe agricultural equipment",
             "subtasks": [
-                "Examine chickens}"
+                "Notice the yellow machine operating",
+                "Observe vapor from the equipment"
             ]
         },
         {
-            "task": "Operate farming equipment}",
+            "task": "Engage with others about the farm",
             "subtasks": [
-                "Use a sprayer or fogger (applying vapor)}"
-            ]
-        },
-        {
-            "task": "MAINTASK: Care for chickens",
-            "subtasks": [
-                "Examine chickens (looking at them, checking on their health)"
-            ]
-        },
-        {
-            "task": "Operate farming equipment",
-            "subtasks": [
-                "Use a sprayer or fogger (applying vapor, likely a treatment)"
-            ]
-        },
-        {
-            "task": "Care for chickens}",
-            "subtasks": [
-                "Examine chickens}"
-            ]
-        },
-        {
-            "task": "Operate farming equipment}",
-            "subtasks": [
-                "Use a sprayer or fogger (applying vapor)}"
+                "Discuss the animals' condition with others",
+                "Express excitement about the farm activities"
             ]
         }
     ]

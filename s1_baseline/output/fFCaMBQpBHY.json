@@ -5,53 +5,52 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Inspecting and improving hospital ventilation.",
+            "task": "Enter a vehicle.",
             "subtasks": [
-                "Checking the current state of the hospital's ventilation system.",
-                "Identifying low ventilation areas within the hospital.",
-                "Planning strategies to enhance ventilation in insufficient areas."
+                "Open the door of the vehicle.",
+                "Sit in the driver\u2019s seat.",
+                "Close the vehicle door."
             ]
         },
         {
-            "task": "Observing hospital interior structures.",
+            "task": "Drive to a hospital.",
             "subtasks": [
-                "Analyzing the layout and design of the hospital's internal spaces.",
-                "Noting potential inefficiencies or issues in the hospital's architecture.",
-                "Documenting observations for future reference or reporting.",
-                "Considering architectural adjustments to improve functionality or comfort."
+                "Use the steering wheel to navigate the vehicle.",
+                "Observe the road through the windshield."
             ]
         },
         {
-            "task": "Error recognition in the transcript.",
+            "task": "Park the vehicle.",
             "subtasks": [
-                "Noticing the presence of the word \"prova\" without clear context.",
-                "Assessing whether \"prova\" is a typo, a language error, or part of the intended message."
+                "Apply the vehicle's brake.",
+                "Turn the steering wheel to align the vehicle.",
+                "Engage the parking brake."
             ]
         },
         {
-            "task": "Deciding on next steps based on hospital inspection.",
+            "task": "Inspect the inside of a hospital.",
             "subtasks": [
-                "Formulating a plan to address identified ventilation issues.",
-                "Scheduling maintenance or construction for needed improvements.",
-                "Preparing necessary materials or resources for ventilation upgrades."
+                "Open a door to enter a room.",
+                "Walk into the room.",
+                "Look around the interior space.",
+                "Close the door behind me."
             ]
         },
         {
-            "task": "Cross-referencing hospital facilities with ventilation concerns.",
-            "subtasks": [
-                "Evaluating specific areas within the hospital that may require better ventilation.",
-                "Checking emergency protocols or backup systems related to ventilation.",
-                "Ensuring air quality standards are met in critical patient areas.",
-                "Reviewing hospital documentation or permits for ventilation-related aspects."
-            ]
+            "task": "Enter a vehicle.**",
+            "subtasks": []
         },
         {
-            "task": "Maintaining communication during the inspection process.",
-            "subtasks": [
-                "Confirming with others present in the hospital about their observations.",
-                "Sharing findings with a wider team for collaborative problem-solving.",
-                "Documenting discussions and decisions made during the inspection."
-            ]
+            "task": "Drive to a hospital.**",
+            "subtasks": []
+        },
+        {
+            "task": "Park the vehicle.**",
+            "subtasks": []
+        },
+        {
+            "task": "Inspect the inside of a hospital.**",
+            "subtasks": []
         }
     ]
 }

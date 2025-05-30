@@ -5,47 +5,143 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Drive tractor and ATV through muddy field and forest.",
+            "task": "Driving a tractor",
             "subtasks": [
-                "Sit in tractor seat and operate steering wheel.",
-                "Use clutch and accelerator to drive tractor through soft ground.",
-                "Navigate through muddy areas carefully to avoid getting stuck.",
-                "Attract attention of nearby vehicles to signal via hand gestures or sound.",
-                "Transfer to ATV and drive through forest terrain.",
-                "Maneuver ATV on uneven forest paths and trails.",
-                "Stop near a downed tree blocking the path."
+                "Sit on tractor seat",
+                "Operate steering wheel to direct the tractor",
+                "Engage/deploy hydraulic lift",
+                "Attach/attach farming equipment",
+                "Manipulate joystick or lever for equipment control",
+                "Monitor rearview camera or sonar system to avoid collisions",
+                "Adjust speed and power of the tractor"
             ]
         },
         {
-            "task": "Maneuver around downed tree.",
+            "task": "Operating farming equipment",
             "subtasks": [
-                "Dismount ATV and approach the tree.",
-                "Evaluate the position and size of the tree blocking the path.",
-                "Consider possible methods of moving the tree (e.g., cutting, rolling, levering).",
-                "Use hands and tools (if necessary) to move the tree out of the path.",
-                "Clear a passage through the forest."
+                "Control speed and direction of equipment",
+                "Engage/disengage equipment hydraulics",
+                "Adjust settings on equipment for different tasks",
+                "Manual steering when necessary",
+                "Monitoring equipment performance and making adjustments",
+                "Interacting with autopilot systems, if used",
+                "Communicating with other farm machinery via telemetry, if applicable"
             ]
         },
         {
-            "task": "Continue driving through forest and field.",
+            "task": "Conducting safety checks before operation",
             "subtasks": [
-                "Ride ATV past cleared path and rejoin main trail.",
-                "Monitor tractor for any issues during prolonged use.",
-                "Remove key when finished operating the tractor to prevent unauthorized use.",
-                "Offer help in moving irrigated hay but decide against it.",
-                "Move away from the area, ending the video."
+                "Inspect equipment for visible damage",
+                "Check fluid levels and replace as needed",
+                "Test equipment operation to ensure it is functioning properly",
+                "Verify that all safety features are operational",
+                "Prepare for the field by checking visibility, weather conditions, etc."
             ]
         },
         {
-            "task": "Drive tractor and ATV through muddy field and forest.",
+            "task": "Loading/unloading equipment",
+            "subtasks": [
+                "Maneuver the tractor to position the equipment at the loading/unloading site",
+                "Secure the equipment with ropes or chains if necessary",
+                "Assist during loading/unloading, such as positioning the equipment in the trailer or securing it in place"
+            ]
+        },
+        {
+            "task": "Working with automation technologies",
+            "subtasks": [
+                "Set up and operate GPS systems to guide equipment",
+                "Program or input planting patterns, harvesting routes, etc.",
+                "Oversee drones or satellite imagery analysis for field data",
+                "Interface with artificial intelligence systems for decision support"
+            ]
+        },
+        {
+            "task": "Communicating with other farm workers/machinery",
+            "subtasks": [
+                "Using radios or mobile devices to coordinate activities",
+                "Adjusting equipment based on feedback from other workers",
+                "Solving issues or troubleshooting problems in real-time"
+            ]
+        },
+        {
+            "task": "Long-distance driving for transport",
+            "subtasks": [
+                "Navigating roads between fields or to transportation hubs",
+                "Following traffic rules and safety protocols"
+            ]
+        },
+        {
+            "task": "Performing routine maintenance",
+            "subtasks": [
+                "Performing daily checks of tractor and equipment",
+                "Completing weekly/monthly maintenance tasks as required"
+            ]
+        },
+        {
+            "task": "Adjusting to varying field conditions",
+            "subtasks": [
+                "Handling uneven terrain, obstacles, or roadblocks",
+                "Adjusting equipment and tractor operations to navigate difficult conditions"
+            ]
+        },
+        {
+            "task": "Fieldwork supervision",
+            "subtasks": [
+                "Monitoring progress and efficiency of operations",
+                "Making decisions on when to move to different areas based on soil moisture, etc."
+            ]
+        },
+        {
+            "task": "Safety procedures during operation",
+            "subtasks": [
+                "Ensuring the use of personal protective equipment (PPE)",
+                "Adhering to safety guidelines while operating heavy machinery",
+                "Knowing emergency procedures and having them in place",
+                "Checking for and addressing any potential hazards like sinkholes or downed power lines"
+            ]
+        },
+        {
+            "task": "Driving a tractor",
             "subtasks": []
         },
         {
-            "task": "Maneuver around fallen tree (detail in subtasks)",
+            "task": "Operating farming equipment",
             "subtasks": []
         },
         {
-            "task": "Continue driving through forest and field.",
+            "task": "Conducting safety checks",
+            "subtasks": []
+        },
+        {
+            "task": "Loading/unloading equipment",
+            "subtasks": []
+        },
+        {
+            "task": "Working with automation",
+            "subtasks": []
+        },
+        {
+            "task": "Communicating",
+            "subtasks": []
+        },
+        {
+            "task": "Long-distance driving",
+            "subtasks": []
+        },
+        {
+            "task": "Performing maintenance",
+            "subtasks": []
+        },
+        {
+            "task": "Adjusting to field conditions",
+            "subtasks": []
+        },
+        {
+            "task": "Fieldwork supervision",
+            "subtasks": []
+        },
+        {
+            "task": "Safety procedures",
             "subtasks": []
         }
     ]

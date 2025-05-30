@@ -5,18 +5,36 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Attending to farming and agricultural tasks at a rural location.",
-            "subtasks": [
-                "Interacting with helpers at the farm.",
-                "Tilling the soil to prepare for planting.",
-                "Moving between the farm and village for supplies.",
-                "Demonstrating physical effort in farm work.",
-                "Managing and guiding farm workers.",
-                "Planning and preparing for upcoming plantings.",
-                "Discussing the challenges and necessities of farming.",
-                "Promoting the channel through audience engagement.",
-                "Requesting support and subscriptions from viewers."
-            ]
+            "task": "The task involves observing and analyzing a video transcript of someone live on a farm in a village, detailing their activities and requests. The key physical tasks related to farming that need to be extracted include interactions with farm equipment, labor activities, requests for assistance and supplies, and discussions about future agricultural plans. However, the transcript primarily focuses on the host's personal journey, seeking subscribers, and the social aspect of documenting farm work rather than detailed farming tasks. Thus, the relevance of the transcript to physical farming tasks is somewhat limited. Nevertheless, relevant tasks observable from the transcript include tilling the land, planting, seeking assistance and supplies, and potential future activities like maize cultivation and chicken farming. Specific subtasks include operating a tractor (for tilling), hand labor (for planting and clearing stones), seeking monetary support for seeds, and coordinating help from village friends. Considering the hosts' emphasis on their rural life and aspirations, potential future tasks might include sowing seeds, nurturing crops, and managing livestock. However, since the transcript is more about the process of getting started rather than executing complex agricultural operations, the overall physical tasks focus on initial farm preparations. However, due to the primary focus on non-farming activities (like subscription requests and discussions about personal goals), the relevance of the transcript to the main task is low. Therefore, special consideration is needed when deciding how much to include from the transcript. Despite the primary content being subscription appeals and local dialogue, there are still relevant physical agricultural activities present that can be extracted as tasks.",
+            "subtasks": []
+        },
+        {
+            "task": "** Given a video transcript where the narrator is live on a farm in a village, generate tasks that involve physical actions related to farming, such as operating equipment, performing manual labor, seeking assistance, and planning future agricultural activities. The transcript discusses tilling, planting, seed purchases, and coordination with village helpers but also includes non-farming elements like subscription requests. Here's the breakdown:",
+            "subtasks": []
+        },
+        {
+            "task": "1. **Tilling the Land (MAINTASK)**",
+            "subtasks": []
+        },
+        {
+            "task": "2. **Hand Planting (MAINTASK)**",
+            "subtasks": []
+        },
+        {
+            "task": "3. **Seeking Monetary Assistance (MAINTASK)**",
+            "subtasks": []
+        },
+        {
+            "task": "4. **Coordinating Workforce (MAINTASK)**",
+            "subtasks": []
+        },
+        {
+            "task": "5. **Planning Future Agricultural Activities (MAINTASK)**",
+            "subtasks": []
+        },
+        {
+            "task": "6. **Dealing with Village Social Dynamics (MAINTASK)**",
+            "subtasks": []
         }
     ]
 }

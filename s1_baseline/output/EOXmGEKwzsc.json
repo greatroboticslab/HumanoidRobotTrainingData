@@ -5,37 +5,183 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Irrigation network operation and maintenance",
+            "task": "Irrigation System Operation and Maintenance",
             "subtasks": [
-                "Diversion intake operation",
-                "Primary canal management",
-                "Secondary canal distribution",
-                "Tertiary canal distribution",
-                "Portable canal distribution",
-                "Drain system maintenance",
-                "Excess water discharge",
-                "Topographic consideration for smallholder farms",
-                "Hydrography-based irrigation block organization",
-                "Rehabilitation of irrigation networks",
-                "Beneficiary population support",
-                "Canal network infrastructure rehabilitation",
-                "Feeder road rehabilitation",
-                "Post-harvest and storage infrastructure improvement"
+                "Operate primary canal by gravity flow",
+                "Manage distribution of water through secondary, tertiary, and portenary canals",
+                "Monitor and regulate water levels in irrigation blocks",
+                "Ensure proper functioning of diversion intake and drainage systems"
             ]
         },
         {
-            "task": "Agricultural productivity improvement",
+            "task": "Farm Management",
             "subtasks": [
-                "Rice cultivation increase",
-                "Gross production per hectare increase"
+                "Cultivate food and industrial crops on smallholder farms",
+                "Implement agricultural practices aligned with topography and hydrography",
+                "Maintain irrigation infrastructure and roads",
+                "Utilize post-harvest and storage facilities",
+                "Adapt to seasonal changes in rice cultivation (rainy season)"
             ]
         },
         {
-            "task": "Infrastructure rehabilitation monitoring",
+            "task": "Water Resource Management",
             "subtasks": [
-                "Project impact assessment",
-                "Benefits quantification",
-                "Works completion verification"
+                "Enhance water resource efficiency through canal networks",
+                "Collect and discharge excess water appropriately",
+                "Protect river tributaries (Niyamagana, Niyakagunda, Ruzisi) from pollution and siltation"
+            ]
+        },
+        {
+            "task": "Maintenance and Rehabilitation",
+            "subtasks": [
+                "Rehabilitate irrigation networks after political instability",
+                "Repair nearly 30 kilometers of feeder roads",
+                "Maintain over 150 kilometers of canal networks"
+            ]
+        },
+        {
+            "task": "Community Benefits",
+            "subtasks": [
+                "Provide employment opportunities for 33,000 people",
+                "Enhance agricultural productivity (rice production increased by 50%)",
+                "Foster development cooperatives for post-harvest and storage"
+            ]
+        },
+        {
+            "task": "Technological Support",
+            "subtasks": [
+                "Receive technical support from organizations like Cher and Enabel",
+                "Benefit from funding from the Kingdom of Belgium",
+                "Implement best practices in irrigation and agriculture",
+                "1. Operate the diversion intake (SUBTASK)",
+                "manage water levels, schedule irrigation)",
+                "check for blockages, ensure flow)",
+                "clear drains, check for leaks)",
+                "minor repairs, regular maintenance)",
+                "clean and store grains, manage cooperative facilities)",
+                "prepare seedlings, transplant)",
+                "manual weeding tools, timing)",
+                "identify pests, use appropriate methods)",
+                "timing, manual or mechanical)",
+                "dry grain, store)",
+                "remove debris, repair potholes, ensure drainage)"
+            ]
+        },
+        {
+            "task": "Irrigation System Operation and Maintenance (MAINTASK)",
+            "subtasks": [
+                "- Operate primary canal by gravity (SUBTASK)",
+                "- Manage distribution through secondary, tertiary canals (SUBTASK)",
+                "- Monitor water levels and regulate flow (SUBTASK)",
+                "- Ensure proper functioning of diversion intake and drainage (SUBTASK)"
+            ]
+        },
+        {
+            "task": "Farm Management (MAINTASK)",
+            "subtasks": [
+                "- Cultivate rice and other crops (SUBTASK)",
+                "- Adapt practices to rainy season (SUBTASK)",
+                "- Use traditional or improved techniques (if relevant) (SUBTASK)"
+            ]
+        },
+        {
+            "task": "Water Resource Management (MAINTASK)",
+            "subtasks": [
+                "- Enhance water efficiency through canal networks (SUBTASK)",
+                "- Discharge excess water safely (SUBTASK)",
+                "- Protect river tributaries (SUBTASK)"
+            ]
+        },
+        {
+            "task": "Maintenance and Rehabilitation (MAINTASK)",
+            "subtasks": [
+                "- Maintain canal networks (SUBTASK)",
+                "- Repair roads (SUBTASK)",
+                "- Use post-harvest and storage facilities (SUBTASK)",
+                "- Participate in cooperative activities (SUBTASK under Community Benefits)"
+            ]
+        },
+        {
+            "task": "The transcript mentions the rehabilitation of over 150 kilometers of canals. For a person working on that, tasks would include canal inspection, repairs, and maintenance. But since this is a large-scale project, perhaps not individual tasks. However, they must be maintained regularly, so daily/small holdinglevel maintenance would be required. So my initial MAINTASKs cover that.",
+            "subtasks": []
+        },
+        {
+            "task": "Irrigation System Operation and Maintenance",
+            "subtasks": []
+        },
+        {
+            "task": "Farming",
+            "subtasks": []
+        },
+        {
+            "task": "Road Maintenance",
+            "subtasks": []
+        },
+        {
+            "task": "Irrigation System Operation and Maintenance:",
+            "subtasks": []
+        },
+        {
+            "task": "Farming Activities:",
+            "subtasks": []
+        },
+        {
+            "task": "Road Maintenance:",
+            "subtasks": []
+        },
+        {
+            "task": "at the start of each main task with the subtasks listed below, this structure would meet the requirement. Each main task is a general category, broken down into specific subtasks. The irrigation system tasks cover operation and maintenance, farming tasks include all crop-related activities, and road maintenance takes care of keeping access routes in good condition.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Irrigation System Operation and Maintenance",
+            "subtasks": [
+                "Operate primary canal by gravity flow",
+                "Manage distribution of water through secondary, tertiary, and portenary canals",
+                "Monitor and regulate water levels in irrigation blocks",
+                "Ensure proper functioning of diversion intake and drainage systems"
+            ]
+        },
+        {
+            "task": "Farm Management",
+            "subtasks": [
+                "Cultivate food and industrial crops on smallholder farms",
+                "Implement agricultural practices aligned with topography (rainy season)",
+                "Maintain irrigation infrastructure and roads",
+                "Utilize post-harvest and storage facilities",
+                "Adapt to seasonal changes in rice cultivation"
+            ]
+        },
+        {
+            "task": "Water Resource Management",
+            "subtasks": [
+                "Enhance water resource efficiency through canal networks",
+                "Collect and discharge excess water appropriately",
+                "Protect river tributaries from pollution and siltation"
+            ]
+        },
+        {
+            "task": "Maintenance and Rehabilitation",
+            "subtasks": [
+                "Rehabilitate irrigation networks after political instability",
+                "Repair nearly 30 kilometers of feeder roads",
+                "Maintain over 150 kilometers of canal networks"
+            ]
+        },
+        {
+            "task": "Community Benefits",
+            "subtasks": [
+                "Provide employment opportunities for 33,000 people",
+                "Enhance agricultural productivity (50% increase in rice production)",
+                "Foster development cooperatives for post-harvest and storage"
+            ]
+        },
+        {
+            "task": "Technological Support",
+            "subtasks": [
+                "Receive technical support from organizations like Cher and Enabel",
+                "Benefit from funding from the Kingdom of Belgium",
+                "Implement best practices in irrigation and agriculture"
             ]
         }
     ]

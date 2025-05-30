@@ -5,29 +5,37 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Plant and care for herbs in a south-facing window",
+            "task": "Selecting a suitable location for growing herbs in a window",
             "subtasks": [
-                "Choose a south-facing window",
-                "Identify herbs suitable for south-facing windows",
-                "Acquire rosemary and other herbs for planting",
-                "Prepare soil and containers for planting",
-                "Transplant herbs into containers",
-                "Water and fertilize herbs",
-                "Monitor plant health and adjust care as needed",
-                "Harvest herbs for cooking purposes"
+                "Identify a south-facing window",
+                "Consider sunlight requirements for herbs",
+                "Choose herbs suitable for a south-facing window (e.g., rosemary, oregano, thyme, basil, chives, cilantro)",
+                "Understand the importance of light, water, and nutrients for plant growth"
             ]
         },
         {
-            "task": "MAINTASK: Plant and care for herbs in a south-facing window",
+            "task": "Caring for herbs grown in a window",
             "subtasks": [
-                "Choose a south-facing window",
-                "Identify herbs suitable for south-facing windows",
-                "Acquire rosemary and other herbs for planting",
-                "Prepare soil and containers for planting",
-                "Transplant herbs into containers",
-                "Water and fertilize herbs",
-                "Monitor plant health and adjust care as needed",
-                "Harvest herbs for cooking purposes"
+                "Treat herbs like houseplants (carefully potting and maintaining them)",
+                "Use herbs for cooking purposes when ready",
+                "Monitor and provide necessary water and nutrients"
+            ]
+        },
+        {
+            "task": "Selecting a suitable location for growing herbs in a window",
+            "subtasks": [
+                "Identify a south-facing window",
+                "Consider sunlight requirements for herbs",
+                "Choose herbs suitable for a south-facing window (e.g., rosemary, oregano, thyme, basil, chives, cilantro)",
+                "Understand the importance of light, water, and nutrients for plant growth"
+            ]
+        },
+        {
+            "task": "Caring for herbs grown in a window",
+            "subtasks": [
+                "Treat herbs like houseplants (carefully potting and maintaining them)",
+                "Use herbs for cooking purposes when ready",
+                "Monitor and provide necessary water and nutrients"
             ]
         }
     ]

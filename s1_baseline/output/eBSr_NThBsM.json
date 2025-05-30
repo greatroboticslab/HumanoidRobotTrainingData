@@ -5,146 +5,156 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Operating a bulldozer to move soil for field preparation.",
+            "task": "The person is using a tractor to plow a field.",
             "subtasks": [
-                "Sitting in the cab of the bulldozer and turning the keys to start the engine.",
-                "Adjusting the controls on the bulldozer to engage the hydraulic systems.",
-                "Guiding the bulldozer forward and backward to navigate around the field.",
-                "Using the blade on the bulldozer to scoop and move soil onto the required areas.",
-                "Regularly checking the blade's position and adjusting it as needed for efficient soil movement.",
-                "Ensuring that the soil is spread uniformly across the designated fields."
+                "Sit on the tractor seat.",
+                "Engage the engine.",
+                "Maneuver the tractor to the start of the field.",
+                "Adjust the depth of the plow.",
+                "Operate the plow mechanism to cut into the soil.",
+                "Guide the tractor in a straight path.",
+                "Monitor the soil being turned over.",
+                "Stop the tractor at the end of the field."
             ]
         },
         {
-            "task": "Preparing the field for planting by grading the soil.",
+            "task": "The person is driving a tractor equipped with a\u64ad\u79cd\u673a to sow seeds.",
             "subtasks": [
-                "Observing the field's slope and identifying areas where earth needs to be moved to level the ground.",
-                "Verifying that the bulldozer's blade is set at the appropriate angle for cutting soil.",
-                "Operating the bulldozer's blade to cut into the soil as necessary to create a suitable seedbed.",
-                "Moving along the field's furrows, ensuring even soil removal and preparation.",
-                "Checking the field's grade after the initial pass to confirm proper leveling."
+                "Align the tractor with the previous row.",
+                "Activate the\u64ad\u79cd\u673a.",
+                "Adjust the seed spacing and depth.",
+                "Operate the tractor to move forward.",
+                "Check the distribution of seeds behind the\u64ad\u79cd\u673a.",
+                "Maneuver around obstacles or turns in the field."
             ]
         },
         {
-            "task": "Planting corn rows in a prepared field.",
+            "task": "The person is using a combine harvester to harvest crops.",
             "subtasks": [
-                "Ensuring the field is free from debris and obstacles that could impede planting.",
-                "Starting the corn planter and adjusting the depth and spacing settings according to seed requirements.",
-                "Loading the planter with corn seeds and verifying that the mechanism is functioning properly.",
-                "Moving the planter through the field, planting corn rows in straight lines.",
-                "Monitoring the planter's performance to ensure accurate spacing and proper seed placement."
+                "Enter the cab of the combine.",
+                "Start the engine.",
+                "Attach the combine to the header or platform.",
+                "Calibrate the threshing mechanism.",
+                "Monitor the crop being harvested.",
+                "Adjust speed and settings as needed.",
+                "Control direction and speed of the combine.",
+                "Collect the harvested grain or crops."
             ]
         },
         {
-            "task": "Applying fertilizer to the corn rows.",
+            "task": "The person is performing maintenance on a farming vehicle.",
             "subtasks": [
-                "Selecting the appropriate fertilizer applicator for the crop type and field conditions.",
-                "Attaching the fertilizer applicator to the appropriate hitch on the planter or a separate machine.",
-                "Testing the applicator's settings to ensure the correct rate of fertilizer application.",
-                "Driving the machine along the rows, ensuring that the fertilizer is deposited uniformly between the planted seeds.",
-                "Adjusting the applicator as necessary to maintain even coverage across the field."
+                "Access the underside of the vehicle.",
+                "Inspect components for damage or wear.",
+                "Lubricate moving parts.",
+                "Tighten bolts or nuts.",
+                "Check fluid levels and add as necessary."
             ]
         },
         {
-            "task": "Operating a grain combine to harvest corn.",
+            "task": "The person is unloading harvested crops onto a wagon or trailer.",
             "subtasks": [
-                "Attaching the combine to the transport vehicle and adjusting the distance between them.",
-                "Starting the combine and verifying all systems are operational before beginning harvest.",
-                "Following the corn rows, operating the combine's header to sever the corn plants at the base.",
-                "Feeding the combine's auger to move the crop into the combine.",
-                "Adjusting the combine's threshing concave to match the moisture content and type of corn being harvested.",
-                "Monitoring the combine's cleaning system to ensure debris and chaff are properly separated from the kernels.",
-                "Checking the grain tank periodically to ensure capacity, and preparing the transport vehicle for grain.",
-                "Tailing the combine as it harvests, unloading the grain as needed into the transport vehicle.",
-                "Continuing harvest until all designated rows or the entire field have been harvested."
+                "Approach the unloading area.",
+                "Secure the vehicle to prevent movement.",
+                "Open the unloading gate or opening.",
+                "Direct the flow of harvested material into the vehicle.",
+                "Fill the vehicle to capacity.",
+                "Close the unloading gate or cover any open areas."
             ]
         },
         {
-            "task": "Transporting harvested corn to the storage facility.",
+            "task": "The person is stacking bales of hay or crop residue.",
             "subtasks": [
-                "Driving the transport vehicle to the harvested field, ensuring a safe and efficient route.",
-                "Checking loading capacity and speed to maximize grain retention and minimize spillage.",
-                "Loading the grain tank to the specified capacity, ensuring not to exceed safe operating limits.",
-                "Securing the load to prevent shifting, adjusting the straps as needed.",
-                "Transporting the grain to the storage facility while adhering to speed limits and crop handling guidelines.",
-                "Parking at the grain bin area and disconnecting the transport vehicle from the combine, if applicable.",
-                "Safely unloading the grain from the transport vehicle and directing it into the storage bin."
+                "Approach the hay bales.",
+                "Lift the bale onto a stacking platform or into a bin.",
+                "Arrange the bales in a stable stack.",
+                "Secure the stack with netting or ties."
             ]
         },
         {
-            "task": "Unloading the corn from the transport vehicle at the grain handling facility.",
+            "task": "The person is conducting field inspections to check crop health.",
             "subtasks": [
-                "Inspecting the vehicle's discharge mechanism to ensure proper functioning.",
-                "Opening the unloading doors on the transport vehicle and adjusting any chutes or spouts.",
-                "Starting the unloading process, verifying the flow of grain into the storage bin.",
-                "Monitoring the level of the grain in the bin to prevent overfill or uneven distribution.",
-                "Closing the unloading doors once the process is complete and securing any openings."
+                "Walk through the field, observing plants.",
+                "Check for pests, diseases, or nutrient deficiencies.",
+                "Take note of areas needing attention."
             ]
         },
         {
-            "task": "Screening and sorting the corn for storage or further processing.",
+            "task": "The person is applying fertilizer to the fields.",
             "subtasks": [
-                "Setting up the corn screening equipment to remove debris, broken kernels, and other impurities.",
-                "Feeding the corn into the screening machine and monitoring the output for quality.",
-                "Separating the clean corn from materials that must be discarded or recycled.",
-                "Storing the cleaned corn in appropriate bins or moving it to further processing facilities."
+                "Load the fertilizer into a spreader.",
+                "Attach the spreader to the tractor or vehicle.",
+                "Calibrate the spreader for the correct application rate.",
+                "Operate the spreader while driving through the field.",
+                "Monitor the distribution of the fertilizer."
             ]
         },
         {
-            "task": "Ensuring the storage facility's ventilation and temperature are optimal for corn preservation.",
+            "task": "The person is operating a sprayer to apply pesticides or herbicides.",
             "subtasks": [
-                "Checking the temperature of the stored corn periodically to prevent spoilage.",
-                "Activating or adjusting ventilation systems as necessary to maintain dry conditions.",
-                "Checking for signs of mold, pests, or insects and taking action to address any issues."
+                "Fill the sprayer with the appropriate chemical.",
+                "Connect the sprayer to a power source or pump.",
+                "Set the nozzle settings for the desired spray pattern.",
+                "Drive through the field, directing the spray evenly.",
+                "Regulate pressure and flow rate."
             ]
         },
         {
-            "task": "Checking the balance of stored corn in the bins.",
+            "task": "The person is erecting fencing or boundary markers in the field.",
             "subtasks": [
-                "Measuring the height and depth of corn in each bin to monitor inventory.",
-                "Assessing the weight of the corn based on volume and specific gravity.",
-                "Maintaining records of corn quantities and updating inventory levels accordingly."
+                "Gather necessary tools or materials.",
+                "Measure and mark the placement of posts or stakes.",
+                "Dig holes or drive posts into the ground.",
+                "Attach wire or mesh to the posts.",
+                "Check the tension and stability of the fence."
             ]
         },
         {
-            "task": "Operating a bulldozer to move soil for field preparation.**",
-            "subtasks": []
+            "task": "The person is using a knife or cutter to trim crop residues or vegetation.",
+            "subtasks": [
+                "Approach the area needing trimming.",
+                "Operate the cutting mechanism.",
+                "Trim the material to the desired height.",
+                "Dispose of or collect the removed material."
+            ]
         },
         {
-            "task": "Preparing the field for planting by grading the soil.**",
-            "subtasks": []
+            "task": "The person is navigating through the field with a wagon or trailer.",
+            "subtasks": [
+                "Drive the vehicle to the desired location.",
+                "Control the speed to avoid overturning.",
+                "Adjust path to avoid obstacles.",
+                "Make turns with the vehicle."
+            ]
         },
         {
-            "task": "Planting corn rows in a prepared field.**",
-            "subtasks": []
+            "task": "The person is operating a pivot irrigation system.",
+            "subtasks": [
+                "Enter the center pivot.",
+                "Start the motor to move the pivot.",
+                "Monitor the pivot's position as it moves across the field.",
+                "Adjust the water pressure or flow rate.",
+                "Check for any leaks or malfunctions."
+            ]
         },
         {
-            "task": "Applying fertilizer to the corn rows.**",
-            "subtasks": []
+            "task": "The person is planting seedlings using a hand-held planter.",
+            "subtasks": [
+                "Fill the planter boxes with seedlings.",
+                "Walk through the field in rows.",
+                "Plant the seedlings at the correct spacing.",
+                "Water the newly planted seedlings."
+            ]
         },
         {
-            "task": "Operating a grain combine to harvest corn.**",
-            "subtasks": []
-        },
-        {
-            "task": "Transporting harvested corn to the storage facility.**",
-            "subtasks": []
-        },
-        {
-            "task": "Unloading the corn from the transport vehicle at the grain handling facility.**",
-            "subtasks": []
-        },
-        {
-            "task": "Screening and sorting the corn for storage or processing.**",
-            "subtasks": []
-        },
-        {
-            "task": "Ensuring the storage facility's ventilation and temperature are optimal.**",
-            "subtasks": []
-        },
-        {
-            "task": "Checking the balance of stored corn in the bins.**",
-            "subtasks": []
+            "task": "The person is using a hay baler to collect the cut grass.",
+            "subtasks": [
+                "Attach the hay gathering mechanism to the baler.",
+                "Start the baler and direct it to the cut hay.",
+                "Operate the baler to form the hay into bales.",
+                "Load the bales onto a trailer or wagon.",
+                "Secure the bales to prevent shifting."
+            ]
         }
     ]
 }

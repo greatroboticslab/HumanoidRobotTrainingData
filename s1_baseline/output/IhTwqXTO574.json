@@ -5,37 +5,88 @@
     "category": "Autos & Vehicles",
     "tasks": [
         {
-            "task": "Farmers face challenges when their farming equipment malfunctions due to proprietary systems and lack of repair access.",
+            "task": "Farmers facing broken machinery are unable to fix it due to proprietary software and need to rely on authorized dealerships.",
             "subtasks": [
-                "Inspecting and troubleshooting the malfunctioning tractor.",
-                "Checking fuel system components like fuel filters to identify the issue.",
-                "Recognizing the need for specialized diagnostic tools beyond manual checks.",
-                "Understanding the implications of relying on manufacturer-aligned mechanics.",
-                "Acknowledging financial and time constraints due to repair delays and high costs."
+                "Check fuel filter",
+                "Diagnose the problem",
+                "Call John Deere mechanic",
+                "Hire John Deere technician due to lack of repair access"
             ]
         },
         {
-            "task": "Explaining the legal and legislative efforts against repair monopolies in agriculture.",
+            "task": "Describe the impact of repair monopolies on farmers.",
             "subtasks": [
-                "Describing antitrust lawsuits filed by farmers against companies like John Deere.",
-                "Discussing the role of government agencies like the FTC in enforcing antitrust laws.",
-                "Tracking progress in right-to-repair legislation across various states.",
-                "Highlighting federal initiatives and executive orders supporting repair rights."
+                "Financial ruin due to lost productivity",
+                "Loss of control over equipment and data"
             ]
         },
         {
-            "task": "Comparing the right-to-repair movement in agriculture to the automotive industry.",
+            "task": "Explain the right to repair movement.",
             "subtasks": [
-                "Outlining successful models from the automotive sector, such as Massachusetts' law.",
-                "Addressing arguments from manufacturers about cybersecurity and data ownership.",
-                "Discussing the implementation challenges and public response in the automotive industry."
+                "Antitrust lawsuits against John Deere",
+                "Right to repair legislation in multiple states",
+                "Federal action and executive orders pushing for repair rights"
             ]
         },
         {
-            "task": "Advocating for support and action in the right-to-repair movement.",
+            "task": "Compare the battle for right to repair with the auto industry.",
             "subtasks": [
-                "Encouraging viewer engagement through comments and social sharing.",
-                "Emphasizing the broader implications of repair rights beyond agriculture."
+                "Share diagnostic tools with independent repair shops",
+                "Automotive industry's resistance to change",
+                "Eventually conceding to national agreements"
+            ]
+        },
+        {
+            "task": "Highlight the path forward for the right to repair.",
+            "subtasks": [
+                "Push for federal legislation",
+                "Farmer and advocate collaboration",
+                "Consumer awareness and support of initiatives",
+                "Broader implications beyond agriculture",
+                "Stigma-challenging monopolies to restore choice and innovation"
+            ]
+        },
+        {
+            "task": "MAINTASK: A farmer deals with a broken tractor, emphasizing the challenges of accessing repair services due to proprietary systems.",
+            "subtasks": []
+        },
+        {
+            "task": "The farmer attempts to diagnose and fix a malfunctioning tractor.",
+            "subtasks": [
+                "Checks fuel filters as a first step.",
+                "Attempts basic diagnostics without John Deere equipment.",
+                "Contact authorized John Deere technician when\u81ea\u5b66 self-troubleshooting is unsuccessful."
+            ]
+        },
+        {
+            "task": "Document the impacts of repair monopolies on agricultural productivity and economics.",
+            "subtasks": [
+                "Financial losses due to delayed repairs and subsequent farm work cancellations.",
+                "Dependence on expensive proprietary diagnostic tools and services.",
+                "Loss of ownership rights over equipment and generated data."
+            ]
+        },
+        {
+            "task": "Highlight legal and legislative efforts to challenge repair monopolies.",
+            "subtasks": [
+                "American farmers\u2019 antitrust lawsuits against John Deere.",
+                "Introduction of right to repair legislation in multiple states (e.g., Colorado, Minnesota).",
+                "Federal government actions, such as executive orders and oversight by bodies like the FTC."
+            ]
+        },
+        {
+            "task": "Illustrate parallels between the right to repair in agriculture and auto industry.",
+            "subtasks": [
+                "Successes and challenges in the automotive sector\u2019s right to repair movement.",
+                "How automakers\u2019 restrictions and eventual concessions mirror similar concerns in agriculture."
+            ]
+        },
+        {
+            "task": "Encourage public support and awareness to support the right to repair movement.",
+            "subtasks": [
+                "Sharing personal stories from farmers.",
+                "Supporting state and federal legislation supporting repair rights.",
+                "Acknowledging the movement\u2019s potential to influence other industries beyond agriculture."
             ]
         }
     ]

@@ -5,108 +5,45 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Rice Harvesting Process",
+            "task": "Understanding rice harvesting process",
             "subtasks": [
-                "Determine crop readiness",
-                "Manual cutting using sickle",
-                "Mechanized cutting using combine harvester",
-                "Bundle cut stalks",
-                "Dry cut stalks",
-                "Thresh grain from stalks (manual flail/machine)",
-                "Winnow rice grains from chaff (manual toss/fan or machine)",
-                "Mill grain to remove husk (huller/husker)",
-                "Polish rice to remove bran layer (polisher)"
+                "Identify signs of rice maturity (color change, grain texture)",
+                "Determine optimal harvest timing to maximize yield",
+                "Choose manual (sickle) vs. mechanized (combine harvester) cutting methods",
+                "Bundle and dry cut stalks (sheaves)",
+                "Thresh grains from stalks (manual flail vs. mechanical threshers)",
+                "Winnow removal of chaff from grains (manual tossing vs. mechanical winnowing)",
+                "Milling to remove husks (hulling machines)",
+                "Polishing to remove bran layers (polishing machines)"
             ]
         },
         {
-            "task": "Recapping the Rice Harvesting Journey",
+            "task": "Transition from field to table",
             "subtasks": [
-                "From crop readiness to plate",
-                "Emphasize importance of timing",
-                "Highlight traditional vs modern methods",
-                "Explain role of drying, threshing, winnowing, milling, and polishing"
+                "Recognize the importance of each process step",
+                "Appreciate the combination of traditional and modern techniques",
+                "Realize the effort behind a simple bowl of rice"
             ]
         },
         {
-            "task": "Understanding Rice Harvesting",
+            "task": "MAINTASK: Understanding rice harvesting process",
             "subtasks": [
-                "Identify factors affecting harvest timing",
-                "Appreciate historical farming methods",
-                "Compare manual and mechanized harvest techniques",
-                "Recognize the value of each processing step"
+                "Identify signs of rice maturity (color change, grain texture)",
+                "Determine optimal harvest timing to maximize yield",
+                "Choose manual (sickle) vs. mechanized (combine harvester) cutting methods",
+                "Bundle and dry cut stalks (sheaves)",
+                "Thresh grains from stalks (manual flail vs. mechanical threshers)",
+                "Winnow removal of chaff from grains (manual tossing vs. mechanical winnowing)",
+                "Milling to remove husks (hulling machines)",
+                "Polishing to remove bran layers (polishing machines)"
             ]
         },
         {
-            "task": "Rice Harvesting Process. Then, under this, there are the main steps: attending to the crop's readiness, cutting the rice, handling the cut stalks, processing the grain, and maybe the final steps. But in subtasks, all those individual physical actions like swinging a sickle, operating a combine, tying bundles, moving the stalks, threshing, winnowing, polishing, etc.",
-            "subtasks": []
-        },
-        {
-            "task": "Rice Harvesting.",
-            "subtasks": []
-        },
-        {
-            "task": "Alternatively, the MAINTASK could be each step of the process, followed by the subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Wait, the user says \"generate a series of tasks based on the transcript that a person would have to perform.\" The transcript is describing the rice harvesting process. Therefore, the main tasks would be the different stages of rice harvesting. Each of those stages can be broken down into smaller subtasks. So maybe the initial MAINTASK is Rice Harvesting Process or similar.",
-            "subtasks": []
-        },
-        {
-            "task": "Rice Harvesting. Then each of the subtasks can be: Assessing ripeness, manual cutting, mechanical cutting, transporting cut stalks, drying, threshing, winnowing, milling, and polishing. I need to make sure that all these tasks are relevant. Also, did the transcript mention any other steps?",
-            "subtasks": []
-        },
-        {
-            "task": "Assessing Crop Readiness",
+            "task": "Transition from field to table",
             "subtasks": [
-                "Examine rice plant color",
-                "Feel rice grains for texture"
-            ]
-        },
-        {
-            "task": "Cutting the Rice",
-            "subtasks": [
-                "Hold sickle correctly",
-                "Swing sickle to cut rice stalks",
-                "Operate combine harvester",
-                "Guide combine through the field",
-                "Tie rice stalks into bundles (sheaves)"
-            ]
-        },
-        {
-            "task": "Drying the Cut Stalks",
-            "subtasks": [
-                "Bundle cut stalks",
-                "Leave bundles in field to dry",
-                "Spread stalks out on ground",
-                "Beat stalks with flail to release grains",
-                "Unload cut stalks into thresher",
-                "Start thresher operation",
-                "Hold grains in hand over a flat surface",
-                "Toss grains into wind to blow away chaff",
-                "Guide threshed grain into winnower",
-                "Activate fan to blow away chaff",
-                "Feed grain through huller/ husker",
-                "Pass rice through polisher",
-                "Adjust water spray for cooling"
-            ]
-        },
-        {
-            "task": "Rice Harvesting",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Rice Harvesting Process",
-            "subtasks": [
-                "Determine crop readiness",
-                "Manual cutting using sickle",
-                "Mechanized cutting using combine harvester",
-                "Bundle cut stalks",
-                "Dry cut stalks",
-                "Thresh grain from stalks (manual flail/machine)",
-                "Winnow rice grains from chaff (manual toss/fan or machine)",
-                "Mill grain to remove husk (huller/husker)",
-                "Polish rice to remove bran layer (polisher)"
+                "Recognize the importance of each process step",
+                "Appreciate the combination of traditional and modern techniques",
+                "Realize the effort behind a simple bowl of rice"
             ]
         }
     ]

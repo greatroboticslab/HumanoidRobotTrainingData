@@ -5,16 +5,34 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Farmer discussing wintering cattle on fodder beet and improving water quality through grazing management.",
+            "task": "Operating and managing a sheep and beef farm in West Otago.",
             "subtasks": [
-                "Farmer describes wintering Frisian bulls on fodder beet.",
-                "Farmer explains the importance of carrying feed through winter using fodder beet.",
-                "Farmer discusses the Pomahake catchment project and water quality improvements.",
-                "Farmer explains the grazing management system of grazing paddocks from top to bottom to reduce sediment runoff.",
-                "Farmer discusses the benefits of leaving a buffer zone of ungrazed grass near waterways.",
-                "Farmer highlights the importance of planning grazing rotations to prevent sediment loss during rainfall events.",
-                "Farmer emphasizes the need for all farmers, especially cattle farmers, to adopt improved grazing practices to reduce water quality issues."
+                "Managing winter feeding of cattle on fodder beet.",
+                "Participating in the Pomahake catchment project.",
+                "Implementing grazing management practices to prevent water pollution.",
+                "Monitoring and testing water quality on the farm.",
+                "Adjusting grazing strategies to reduce soil erosion.",
+                "Planning farm operations to minimize environmental impact."
             ]
+        },
+        {
+            "task": "\"we're looking at a wintering block here where we're wintering Frisian bulls on fodder beet and just looking at the way we're grazing them really so that's what we're here for today.\" So the first main task could be \"Wintering cattle on fodder beet\" (MAINTASK), and then the subtasks would include managing the fodder beet crop, feeding the cattle, and adjusting grazing. But are they actually doing the planting or just checking how it's going? The transcript mentions that they've been doing this with fodder beet, and it's been a \"good option to carry some quality right through.\" So maybe the subtask isn't planting, but more using the existing crop for grazing. Alternatively, Simon mentions, \"We're looking at the way we're grazing them really so that's what we're here for today,\" so perhaps he's there to assess the current grazing and maybe fine-tune it. So subtasks would be checking the grazing patterns, ensuring they're not near waterways, etc. But in the transcript, Simon also talks about the Pomahake catchment project, so that must be a separate maintask. The Pomahake project was started three years ago, and they're testing water quality. Simon mentions they are focusing on winter crops to address water quality issues. So another MAINTASK: Participating in the Pomahake catchment project. Then, there are subtasks related to water testing, soil issues, and implementing management practices. The key points are that the river was labeled the worst in Otago, so they started the project. They tested tributaries, found some issues with sediment and phosphorus. So Simon's farm is part of this. As a sheep and beef farmer, he's contributing by doing on-farm testing. Then they found that winter crops (like fodder beet) are weaker points for sediment. So the subtasks could be collecting water samples, analyzing data, adjusting farming practices accordingly. So maybe \"Participating in catchment management\" as MAINTASK, with subtasks like monitoring water quality, implementing erosion control, etc. But the Pomahake project seems to be separate from his farming operations. Wait, Simon is both a farmer and part of the catchment project. So when he says, \"We're grazing paddocks from the top down so that we can you know stop the sediment ending up in the waterways,\" that's part of his farming operations, but the catchment project is the larger initiative. But the transcript's main focus is on his farm's practices. So maybe the primary task is operating a sheep and beef farm, with several subtasks including winter grazing management (using fodder beet) and catchment management. While he mentioned the catchment project, I think the main emphasis is on his day-to-day farming activities, especially with the cattle.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Operating and managing a sheep and beef farm in West Otago.",
+            "subtasks": [
+                "Managing winter feeding of cattle on fodder beet.",
+                "Participating in the Pomahake catchment project.",
+                "Implementing grazing management practices to prevent water pollution.",
+                "Monitoring and testing water quality on the farm.",
+                "Adjusting grazing strategies to reduce soil erosion.",
+                "Planning farm operations to minimize environmental impact."
+            ]
+        },
+        {
+            "task": "** Operating and managing a sheep and beef farm in West Otago.",
+            "subtasks": []
         }
     ]
 }

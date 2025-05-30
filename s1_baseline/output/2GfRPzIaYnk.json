@@ -5,61 +5,147 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Operating a hay baler",
+            "task": "Driving a four-wheeler around the farm",
             "subtasks": [
-                "Sitting on the tractor seat",
-                "Moving arms to operate hydraulic levers",
-                "Tilting the hay loader to load hay into the baler",
-                "Pressing the pedal to engage the baler's power take-off (PTO)",
-                "Observing the bale sizes and adjusting as needed",
-                "Ensuring the baler is filling the bale correctly"
+                "Sitting on a four-wheeler",
+                "Operating the four-wheeler's controls",
+                "Traveling along tree rows checking for diseases",
+                "Stopping the four-wheeler at areas of concern",
+                "Wearing appropriate farm safety gear"
             ]
         },
         {
-            "task": "Driving the tractor",
+            "task": "Observing trees for diseases or pests",
             "subtasks": [
-                "Steering the tractor to follow the baler",
-                "Adjusting speed to match the baler's operation"
+                "Visually scanning trees from the four-wheeler",
+                "Noting the specific locations of diseased trees"
             ]
         },
         {
-            "task": "Tending to the bales",
+            "task": "Operating a chainsaw when required",
             "subtasks": [
-                "Observing bale quality and removing rejects",
-                "Stacking the bales in the designated area",
-                "Securing the bales onto a trailer for transport"
+                "Stopping the four-wheeler",
+                "Detaching the chainsaw from the vehicle",
+                "Cutting down trees or limbs affected by disease",
+                "Proper use and safety of a chainsaw"
             ]
         },
         {
-            "task": "Aligning the baler for turning",
+            "task": "Removing hazard trees from pathways",
             "subtasks": [
-                "Stopping the tractor and baler to turn around",
-                "Retracting the baler to a safe position",
-                "Positioning the baler to start a new row or field"
+                "Identifying trees that pose a risk to people or equipment",
+                "Moving a hazard tree using a chainsaw",
+                "Clearing debris from the path after felling"
             ]
         },
         {
-            "task": "Performing maintenance on the baler",
+            "task": "Checking for fallen branches or damaged trees",
             "subtasks": [
-                "Checking hydraulic fluid levels",
-                "Inspecting for any parts wear or damage during operation",
-                "Cleaning the baler of debris after use"
+                "Continuing the ride-along inspection on the four-wheeler",
+                "Reporting findings through a walkie-talkie or notes"
             ]
         },
         {
-            "task": "Managing the hay stacking site",
+            "task": "Using a walkie-talkie for communication",
             "subtasks": [
-                "Clearing the area of uneven terrain or obstacles",
-                "Ensuring bales are placed in a stable manner",
-                "Marking the stack location for easy reference"
+                "Carrying a walkie-talkie while on the four-wheeler",
+                "Communicating with other farm workers or supervisors"
             ]
         },
         {
-            "task": "Unloading bales",
+            "task": "Observing environmental conditions",
             "subtasks": [
-                "Removing the tarp or cover from the bale stack",
-                "Inspecting the bales for moisture damage",
-                "Distributing the bales to the appropriate storage or feeding areas"
+                "Noting wind speed or direction",
+                "Checking for signs of rain or storm approaching"
+            ]
+        },
+        {
+            "task": "Ensuring the farm equipment is clean",
+            "subtasks": [
+                "Wiping down the exterior of the four-wheeler if necessary"
+            ]
+        },
+        {
+            "task": "Securing the chainsaw to the four-wheeler",
+            "subtasks": [
+                "Stowing the chainsaw after use",
+                "Ensuring the chainsaw is locked or secured"
+            ]
+        },
+        {
+            "task": "Closing the four-wheeler canopy or opening windows as needed",
+            "subtasks": [
+                "Adjusting the canopy or windows based on the weather"
+            ]
+        },
+        {
+            "task": "Maintaining appropriate visibility while driving",
+            "subtasks": [
+                "Adjusting mirrors or checking blind spots",
+                "Checking the rearview mirror when backing up or turning"
+            ]
+        },
+        {
+            "task": "Walking through the fields to inspect for areas needing attention",
+            "subtasks": [
+                "Getting off the four-wheeler to check a specific spot",
+                "Walking through a field counting rows",
+                "Looking for signs of pests or diseases from ground level"
+            ]
+        },
+        {
+            "task": "Checking in with the office for supplies or instructions",
+            "subtasks": [
+                "Returning to the office area for any needed items",
+                "Reporting the day's observations to a supervisor"
+            ]
+        },
+        {
+            "task": "Securing personal belongings in the four-wheeler",
+            "subtasks": [
+                "Stowing a lunch bag or personal items",
+                "Ensuring keys and other important items are not left unsecured MAINTASK: Performing a pre-ride check on the four-wheeler",
+                "** Checking the tires for proper inflation and wear",
+                "** Inspecting the chainsaw for sharpness and appropriate attachment",
+                "** Ensuring the walkie-talkie has batteries and is functional",
+                "** Verifying that personal protective equipment (PPE) is present and suitable for the conditions",
+                "** Confirming the cleanliness of the four-wheeler, especially if it involves agricultural chemicals"
+            ]
+        },
+        {
+            "task": "Driving a four-wheeler for farm inspection",
+            "subtasks": [
+                "Operating controls safely",
+                "Following marked routes",
+                "Identifying affected trees",
+                "Using a chainsaw if necessary",
+                "Removing hazards",
+                "Communicating via walkie-talkie",
+                "Monitoring weather and conditions",
+                "Proper use of personal equipment"
+            ]
+        },
+        {
+            "task": "Conducting a thorough field inspection",
+            "subtasks": [
+                "Visually checking rows",
+                "Reporting findings",
+                "Adjusting positions as needed"
+            ]
+        },
+        {
+            "task": "Maintaining farm equipment",
+            "subtasks": [
+                "Cleaning the four-wheeler",
+                "Checking and securing the chainsaw",
+                "Ensuring proper walkie-talkie operation"
+            ]
+        },
+        {
+            "task": "Preparing for each day's work",
+            "subtasks": [
+                "Conducting pre-ride checks",
+                "Gathering necessary supplies"
             ]
         }
     ]

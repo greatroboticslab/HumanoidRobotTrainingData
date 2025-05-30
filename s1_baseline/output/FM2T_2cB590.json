@@ -5,20 +5,440 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Engage in gardening activities to start a summer garden.",
+            "task": "Choosing a garden spot and considering space",
             "subtasks": [
-                "Choose a sunlit spot for the garden, considering the space and the growth habits of the intended crops.",
-                "Select appropriate crops for the local ecosystem, considering native plants and companion planting.",
-                "Arrange plants using companion planting techniques, such as grouping tomatoes with basil or sage.",
-                "Ensure pollinators, like sunflowers and marigolds, are included in the garden to facilitate pollination.",
-                "Determine the best growing medium (container, raised beds, or in-ground) and select suitable soil.",
-                "Set up a watering system, preferably in the morning or evening, to ensure proper hydration without evaporation."
+                "Assessing sunlight requirements for crops",
+                "Evaluating space availability for garden layout"
             ]
         },
         {
-            "task": "Manage potential gardening challenges and maintain a positive attitude.",
+            "task": "Selecting crops for the garden",
             "subtasks": [
-                "Prepare for possible setbacks, learn from failures, and continue gardening despite obstacles."
+                "Considering native plants for local ecosystem",
+                "Practicing companion planting for mutually beneficial relationships"
+            ]
+        },
+        {
+            "task": "Deciding on growing medium and soil selection",
+            "subtasks": [
+                "Determining appropriate soil type for in-ground, container, or raised bed gardening",
+                "Consulting local nursery for soil recommendations"
+            ]
+        },
+        {
+            "task": "Establishing a watering system",
+            "subtasks": [
+                "Timing water delivery (early morning or late evening)",
+                "Developing a watering schedule based on crop needs"
+            ]
+        },
+        {
+            "task": "Maintaining motivation and resilience in gardening",
+            "subtasks": [
+                "Embracing learning from failures and challenges",
+                "Encouraging persistence despite garden obstacles"
+            ]
+        },
+        {
+            "task": "Choosing a garden spot and considering plant space needs",
+            "subtasks": []
+        },
+        {
+            "task": "Selecting garden crops and practices",
+            "subtasks": []
+        },
+        {
+            "task": "Deciding on and preparing soil for planting",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up efficient watering systems",
+            "subtasks": []
+        },
+        {
+            "task": "Gardening motivation (but this is irrelevant)",
+            "subtasks": []
+        },
+        {
+            "task": "Wait, but all these MAINTASKs are about the planning and setup, which isn't physical. However, the actual physical tasks would come into play once you start planting and maintaining the garden. But since the transcript is about tips, maybe the intended answer is the planning tasks. However, since the question says \"physical tasks a person would have to perform with their body\" in relation to the transcript, and the transcript is about the administrative / preparation side, perhaps there are no physical tasks in the transcript. Wait, but the examples given in MAINTASKs are too high-level. Breaking down each one into subtasks could help.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Choosing a garden spot and considering plant space needs",
+            "subtasks": [
+                "Researching sunlight requirements for crops",
+                "Evaluating space needed for different plants"
+            ]
+        },
+        {
+            "task": "Selecting garden crops and practices",
+            "subtasks": [
+                "Considering native plants in your area"
+            ]
+        },
+        {
+            "task": "Hmm. Wait, actually, let's try again. The original transcript is about creating a summer garden. The six tips Crystal gives are the main points. Let's try to rephrase each tip as a MAINTASK with related subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Choosing a suitable garden spot",
+            "subtasks": [
+                "Ensuring adequate sunlight (4-8 hours per day)",
+                "Assessing space for different plant sizes"
+            ]
+        },
+        {
+            "task": "Selecting appropriate crops",
+            "subtasks": [
+                "Choosing plants native to the area",
+                "Using companion planting techniques"
+            ]
+        },
+        {
+            "task": "Preparing the growing medium and soil",
+            "subtasks": [
+                "Deciding between in-ground, raised beds, or containers",
+                "Choosing the right soil type (e.g., compost, nutrients)"
+            ]
+        },
+        {
+            "task": "Establishing an irrigation system",
+            "subtasks": [
+                "Watering in the morning or evening",
+                "Developing a regular watering schedule"
+            ]
+        },
+        {
+            "task": "Maintaining gardening resilience and motivation",
+            "subtasks": [
+                "Dealing with failures and learning from setbacks"
+            ]
+        },
+        {
+            "task": "But this produces five MAINTASKs, but the original transcript had six tips. The last was encouragement, which may not be considered a physical task. So maybe exclude it. However, if strictly following the transcript as asked, even though the last tip isn't a physical task, the answer should mention it.",
+            "subtasks": []
+        },
+        {
+            "task": "at the beginning of each line. Wait, no, looking back at the example, each task should start with MAINTASK: on a new line, followed by subtasks. But in what I wrote above, each task is combined with subtasks on the same line.",
+            "subtasks": [
+                "\"MAINTASK: give a list of subtasks, one per line. A for each subtask, write SUBTASK: before every subtask. When you are finished with the subtasks for a maintask, you can start a new maintask by writing MAINTASK: and then the new general task.\"",
+                ". Then each new main task starts with MAINTASK:. Let me try again."
+            ]
+        },
+        {
+            "task": "Choosing a suitable garden location",
+            "subtasks": [
+                "Research optimal sunlight requirements (4-8 hours per day)",
+                "Ascertain space needs for different plant varieties and sizes"
+            ]
+        },
+        {
+            "task": "Plant selection and companion planting",
+            "subtasks": [
+                "Determine suitable local native plants",
+                "Plan companion planting combinations to promote mutual benefits"
+            ]
+        },
+        {
+            "task": "Soil preparation",
+            "subtasks": [
+                "Evaluate growing medium (container, raised bed, or in-ground)",
+                "Select appropriate soil types (e.g., compost-enriched, nutrient-rich)"
+            ]
+        },
+        {
+            "task": "Setting up efficient watering system",
+            "subtasks": [
+                "Schedule watering in the morning or evening to avoid hot midday sun",
+                "Develop a regular watering schedule based on crop needs"
+            ]
+        },
+        {
+            "task": "Maintaining garden resilience",
+            "subtasks": [
+                "Acknowledge that setbacks and learning are part of gardening"
+            ]
+        },
+        {
+            "task": "Choosing a suitable garden location",
+            "subtasks": []
+        },
+        {
+            "task": "Plant selection and companion planting",
+            "subtasks": []
+        },
+        {
+            "task": "Soil preparation",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up efficient watering system",
+            "subtasks": []
+        },
+        {
+            "task": "Acknowledge and manage challenges in gardening",
+            "subtasks": [
+                "Accept failures as part of the learning process",
+                "Stay committed despite challenges (Setbacks and learning)"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Choose a garden site with appropriate sun and space",
+            "subtasks": [
+                "Assess the amount of sunlight available (4-8 hours per day)",
+                "Plan the garden layout to accommodate different plant size needs"
+            ]
+        },
+        {
+            "task": "Select appropriate crops with consideration for the environment",
+            "subtasks": [
+                "Research crops native to your area",
+                "Implement companion planting techniques"
+            ]
+        },
+        {
+            "task": "Determine the growing medium and select proper soil",
+            "subtasks": [
+                "Decide between container, raised beds, or in-ground gardening",
+                "Consult local nursery for recommended soil types"
+            ]
+        },
+        {
+            "task": "Establish an effective irrigation system",
+            "subtasks": [
+                "Schedule daily watering in the early morning or evening",
+                "Develop a regular watering schedule tailored to each plant's needs"
+            ]
+        },
+        {
+            "task": "Enjoy the process and stay motivated despite challenges",
+            "subtasks": [
+                "Continue learning from garden failures and successes",
+                "Stay persistent through unexpected issues"
+            ]
+        },
+        {
+            "task": "Choose the right garden location.",
+            "subtasks": []
+        },
+        {
+            "task": "Select appropriate crops for success.",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the garden with the right soil.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up efficient watering.",
+            "subtasks": []
+        },
+        {
+            "task": "Stay motivated and learn from experience.",
+            "subtasks": []
+        },
+        {
+            "task": "and list of subtasks, and based on the transcript containing six significant points, let's structure it as six main tasks:",
+            "subtasks": []
+        },
+        {
+            "task": "Choose a suitable garden location",
+            "subtasks": [
+                "Evaluate sun exposure for full sun (4-8 hours daily)",
+                "Plan garden layout considering plant size requirements"
+            ]
+        },
+        {
+            "task": "Select garden crops",
+            "subtasks": [
+                "Choose plants native to your area",
+                "Utilize companion planting for mutual benefits"
+            ]
+        },
+        {
+            "task": "Determine the growing medium",
+            "subtasks": [
+                "Decide between in-ground, raised beds, or containers",
+                "Ensure use of appropriate soil types (consult nursery if needed)"
+            ]
+        },
+        {
+            "task": "Install an efficient watering system",
+            "subtasks": [
+                "Water in the morning or evening to avoid midday heat",
+                "Develop a consistent watering schedule based on crop needs"
+            ]
+        },
+        {
+            "task": "Maintain a positive gardening attitude",
+            "subtasks": [
+                "Learn from failures and stay motivated"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Maintain motivation and garden resilience",
+            "subtasks": [
+                "Embrace challenges as learning opportunities",
+                "Continue gardening through failures and setbacks"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Choose the right garden spot",
+            "subtasks": []
+        },
+        {
+            "task": "Plan crop selection to include natives and companions",
+            "subtasks": []
+        },
+        {
+            "task": "Use appropriate growing medium for your setup",
+            "subtasks": []
+        },
+        {
+            "task": "Set up an efficient irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Stay motivated and persistent",
+            "subtasks": []
+        },
+        {
+            "task": "perhaps \"Setting up infrastructure\" would be a more appropriate MAINTASK for the setup steps (garden spot, mediums, irrigation). Then, \"Maintaining mental fortitude\" for the motivational tip.",
+            "subtasks": [
+                ".",
+                ". However, given the initial instruction mentioned starting with MAINTASK: for major tasks, but then switching to list subtasks under each as needed. But to clarify, the answer requires:"
+            ]
+        },
+        {
+            "task": "[General task]",
+            "subtasks": [
+                "[Subtask 1]",
+                "[Subtask 2]"
+            ]
+        },
+        {
+            "task": "Choosing a suitable garden location",
+            "subtasks": [
+                "Evaluating sunlight requirements (4\u22128 hours per day)",
+                "Assessing space needed for various plant sizes"
+            ]
+        },
+        {
+            "task": "Selecting garden crops",
+            "subtasks": [
+                "Chosing native plants",
+                "Practicing companion planting for mutual benefits"
+            ]
+        },
+        {
+            "task": "Preparing the correct growing medium and soil",
+            "subtasks": [
+                "Determining planting medium (in-ground, raised bed, container)",
+                "Selecting appropriate soil types and nutrients (seeking specialist advice if needed)"
+            ]
+        },
+        {
+            "task": "Installing an efficient watering system",
+            "subtasks": [
+                "Watering in the early morning or late evening to conserve water and prevent evaporation",
+                "Establishing a routine watering schedule based on plant needs"
+            ]
+        },
+        {
+            "task": "Maintaining motivation and resilience",
+            "subtasks": [
+                "Acknowledging setbacks as part of the learning process",
+                "Staying committed through challenges and maintaining a positive outlook"
+            ]
+        },
+        {
+            "task": "Choosing a suitable garden location",
+            "subtasks": [
+                "Evaluating sunlight requirements (4-8 hours per day)",
+                "Assessing space needed for various plant sizes"
+            ]
+        },
+        {
+            "task": "Selecting garden crops",
+            "subtasks": [
+                "Choosing native plants",
+                "Practicing companion planting for mutual benefits"
+            ]
+        },
+        {
+            "task": "Preparing the correct growing medium and soil",
+            "subtasks": [
+                "Determining planting medium (in-ground, raised bed, container)",
+                "Selecting appropriate soil types and nutrients (seeking specialist advice if needed)"
+            ]
+        },
+        {
+            "task": "Installing an efficient watering system",
+            "subtasks": [
+                "Watering in the early morning or late evening to conserve water and prevent evaporation",
+                "Establishing a routine watering schedule based on plant needs"
+            ]
+        },
+        {
+            "task": "Maintaining motivation and resilience",
+            "subtasks": [
+                "Acknowledging setbacks as part of the learning process",
+                "Staying committed through challenges and maintaining a positive outlook"
+            ]
+        },
+        {
+            "task": "This seems comprehensive and includes all six tips as MAINTASKs, with subtasks that encapsulate the advice given. Each maintask is directly related to a tip in the original transcript, ensuring alignment. Since the transcript is about setting up a garden, the main tasks would each involve physical actions related to garden setup and care. For example, \"choosing a suitable garden location\" includes evaluating sunlight and space, which are aspects that a person has to physically assess. Similarly, selecting the correct growing medium and irrigation system involve tangible actions. While the motivational element might seem less physical, staying resilient and persistent could involve checking on the garden regularly, which is a physical activity.",
+            "subtasks": []
+        },
+        {
+            "task": "Choosing a suitable garden location",
+            "subtasks": [
+                "Evaluating sunlight requirements (4-8 hours per day)",
+                "Assessing space needed for various plant sizes"
+            ]
+        },
+        {
+            "task": "Selecting garden crops",
+            "subtasks": [
+                "Choosing native plants",
+                "Practicing companion planting for mutual benefits"
+            ]
+        },
+        {
+            "task": "Preparing the correct growing medium and soil",
+            "subtasks": [
+                "Determining planting medium (in-ground, raised bed, container)",
+                "Selecting appropriate soil types and nutrients (seeking specialist advice if needed)"
+            ]
+        },
+        {
+            "task": "Installing an efficient watering system",
+            "subtasks": [
+                "Watering in the early morning or late evening to conserve water and prevent evaporation",
+                "Establishing a routine watering schedule based on plant needs"
+            ]
+        },
+        {
+            "task": "Maintaining motivation and resilience",
+            "subtasks": [
+                "Acknowledging setbacks as part of the learning process",
+                "Staying committed through challenges and maintaining a positive outlook"
             ]
         }
     ]

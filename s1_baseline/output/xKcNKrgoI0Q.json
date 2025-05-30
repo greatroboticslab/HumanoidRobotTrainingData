@@ -5,44 +5,56 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Determining appropriate attachment size for a John Deere subcompact tractor.",
+            "task": "Selecting appropriate attachments for a John Deere subcompact tractor",
+            "subtasks": []
+        },
+        {
+            "task": "Consider size ratio between attachment and tractor (MAINTASK scaling)",
+            "subtasks": []
+        },
+        {
+            "task": "Evaluate common sense in attachment size (MAINTASK common sense)",
+            "subtasks": []
+        },
+        {
+            "task": "Determine right size attachment for specific tasks (MAINTASK task-specific)",
             "subtasks": [
-                "Considering the tractor's size in relation to attachment width.",
-                "Evaluating the need for proportionality between the bucket's width and the machine's dimensions.",
-                "Assessing the impact of oversized attachments (e.g., excess width) on maneuverability through narrow spaces, such as dense brush or woodland trails.",
-                "Advising on the appropriate width of snow pushers based on weight distribution and traction considerations.",
-                "Recommending implement width (e.g., 48 inches, 60 inches) based on tractor models (e.g., 1025R) and operational requirements.",
-                "Applying the 5 PTO horsepower per foot rule of thumb for horsepower to implement width ratio.",
-                "Discussing the importance of ballast weight for safety when using attachments, recognizing potential trade-offs between counterweight and operating costs.",
-                "Considering the balance between attachment functionality (e.g., rake, rototiller) and machine capability.",
-                "Evaluating the weight and lifting capacity of loader attachments to prevent overloading the tractor."
+                "Woods maintenance with compact attachments (SUBTASK task woods maintenance)",
+                "Snow pusher width considerations (SUBTASK task snow pusher)",
+                "Weigh traction and weight against snow volume (SUBTASK weight vs. volume)",
+                "Back attachment width (SUBTASK task back attachment)",
+                "PTO horsepower and implementation width relation (SUBTASK PTO power)",
+                "Front attachment weight (SUBTASK task front attachment)",
+                "Lift capacity and weight vs. functionality (SUBTASK weight vs. capacity)"
             ]
         },
         {
-            "task": "Addressing forum community opinions on attachment sizing for John Deere subcompacts.",
+            "task": "Ballast weight usage in tractors",
+            "subtasks": []
+        },
+        {
+            "task": "Importance of counterweight for loader safety (MAINTASK ballast)",
+            "subtasks": []
+        },
+        {
+            "task": "Weighing pros and cons of using a sprayer as ballast (MAINTASK sprayer ballast)",
             "subtasks": [
-                "Considering unconventional attachment width requests (e.g., two or three feet wider) and potential contraindications."
+                "Consider the tool's utilization as stored weight (SUBTASK tool as weight)",
+                "Evaluate effectiveness against needing an actual tool (SUBTASK trade-off)"
             ]
         },
         {
-            "task": "Exploring alternative uses of attachments, such as using a sprayer for ballast weight.",
+            "task": "Evaluating attachment compatibility with tractor (MAINTASK attachment compatibility)",
             "subtasks": [
-                "Discerning between the pros and cons of using a tool for both spraying and ballast purposes.",
-                "Evaluating the feasibility of converting a sprayer into a counterweight on a tractor with limited piston horsepower for heavier attachments."
+                "Example of 72 inch rake on a subcompact (SUBTASK safe width evaluation)",
+                "Compare with 5 PTO horsepower per foot rule (SUBTASK PTO rule adverse example)"
             ]
         },
         {
-            "task": "Analyzing the width considerations for specific attachments such as mowers, rakes, tillers, and forks.",
+            "task": "Understanding proper attachment weight and compatibility (MAINTASK weight compatibility)",
             "subtasks": [
-                "Assessing the benefits and limitations of oversized mowers within the tractor's operational context.",
-                "Admitting the possibility of exceptions where a larger attachment may be suitable (e.g., heavy, dense growth scenarios) and advising readers to seek expert opinions."
-            ]
-        },
-        {
-            "task": "Encouraging farmer interaction and engagement via social media platforms and direct contact for consultation.",
-            "subtasks": [
-                "Promoting the video's subscribed count and engaging with the audience through subscription actions.",
-                "Directing viewers to additional resources, such as the website, forums, and product listings, to find suitable equipment."
+                "Example of 72 inch tiller on a subcompact (SUBTASK heavy attachment example)",
+                "Mash of attachment weight and tractor capacity (SUBTASK weight capacity mismatch)"
             ]
         }
     ]

@@ -5,8 +5,45 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Completing a Soil Test for a Garden",
-            "subtasks": []
+            "task": "Collecting and Preparing Soil Samples for Testing",
+            "subtasks": [
+                "Divide property into management zones",
+                "Collect 10-15 core samples across each garden area, avoiding problem spots",
+                "Use clean tools, remove roots, and lay samples to dry",
+                "Verify lab certification (North American Proficiency Testing Program) and choose a lab (e.g., Colorado State University Extension, Midwest Laboratories)",
+                "Follow lab-specific sampling and shipping instructions",
+                "Send 2 cups of thoroughly mixed soil in a clean container"
+            ]
+        },
+        {
+            "task": "Understanding Soil Test Results",
+            "subtasks": [
+                "Review pH, EC, organic matter, nutrient levels (N, P, K, Ca, Mg, S, micronutrients)",
+                "Interpret soil texture (sand, silt, clay) using simple at-home methods",
+                "Consider biological factors (e.g., earthworms, crop health) and physical conditions (erosion, compaction)",
+                "Adjust soil amendments and fertilizers based on test results and local recommendations",
+                "Refer to extension bulletins (OSU, CSU) for detailed interpretation and utilization advice"
+            ]
+        },
+        {
+            "task": "Soil Chemistry and Nutrient Management",
+            "subtasks": [
+                "Monitor and balance macronutrients (N, P, K) and micronutrients (Ca, Mg, S, Fe, Zn, Mn, Cu, B)",
+                "Address pH management, usinglime or sulfur to adjust soil acidity",
+                "Manage soil salinity through mulching, drainage, and selecting salt-tolerant plants",
+                "Reduce leaching of nitrate and control excess salts",
+                "Apply fertilizers and amendments as needed, following lab recommendations and gradual incorporation"
+            ]
+        },
+        {
+            "task": "Optimal Growing Practices",
+            "subtasks": [
+                "Apply organic amendments (compost, manure, cover crops) to improve soil structure and fertility",
+                "Incorporate Earthworms and other microorganisms for healthy soil biology",
+                "Practice no-till or minimum-till techniques to maintain soil structure and organic matter",
+                "Monitor and manage water infiltration and drainage to prevent soil erosion and sodium accumulation",
+                "Select crops suitable for local soil conditions, considering pH tolerance and nutrient availability"
+            ]
         }
     ]
 }

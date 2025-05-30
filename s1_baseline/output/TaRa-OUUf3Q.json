@@ -5,32 +5,73 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Harvesting and threshing wheat",
+            "task": "Threshing Wheat and Processing Wheat into Flour",
             "subtasks": [
-                "Cutting wheat with a scythe",
-                "Aligning wheat sheaves to optimize threshing",
-                "Threshing wheat using a flail machine on a bicycle",
-                "Cleaning threshed grain using a sorting machine",
-                "Winnowing grain to remove chaff",
-                "Grinding wheat into flour using a stone mill powered by a bicycle",
-                "Mixing and kneading whole wheat dough for baking"
+                "Harvesting wheat using a scythe",
+                "Aligning sheaves for efficient threshing",
+                "Threshing wheat using a motorized flail machine",
+                "Removing straw through sorting and winnowing",
+                "Grinding wheat into flour using a grain mill",
+                "Mixing and kneading whole wheat flour for bread baking",
+                "Addressing challenges in bread making with whole wheat flour"
             ]
         },
         {
-            "task": "Farming and Processing Wheat",
+            "task": "Setting up and operating a home-scale wheat processing system",
             "subtasks": [
-                "Planting wheat in autumn",
-                "Monitoring wheat growth during the summer",
-                "Collecting and storing harvested wheat",
-                "Using minimal fossil fuels for transportation and machinery"
+                "Building a flail machine for threshing",
+                "Constructing a winnowing tower using a fan and screen system",
+                "Installing a grain mill on a stationary bike for power",
+                "Connecting the fabric the grain mill using V-belt drive"
             ]
         },
         {
-            "task": "Baking with whole wheat flour",
+            "task": "Conducting a food system simulation exploring fossil fuel independence",
             "subtasks": [
-                "Preparing sourdough starter",
-                "Adapting traditional flour mixing techniques for whole wheat",
-                "Baking bread using hand-sieved whole wheat flour"
+                "Preparing for a hypothetical fossil fuel collapse scenario",
+                "Documenting the process of wheat harvesting, processing, and bread making",
+                "Educating viewers on the energy and labor inputs of traditional agriculture",
+                "Encouraging sustainable food practices and resilience planning"
+            ]
+        },
+        {
+            "task": "Threshing Wheat by Hand and Dealing with Shatter Losses",
+            "subtasks": [
+                "Understanding the role of wheat varieties in historical harvest techniques",
+                "Practicing proper scythe technique for efficient cutting and cradling",
+                "Adapting to early harvest due to dry weather conditions",
+                "Managing shatter loss by addressing moisture content"
+            ]
+        },
+        {
+            "task": "Making Wood Products and Handling Scrap Wood",
+            "subtasks": [
+                "Cutting poles into suitable lengths for bread making tools",
+                "Repairing a flail machine by replacing broken parts",
+                "Binding sheaves of wheat with twine",
+                "Repurposing trash cans as chaff collection vessels",
+                "Utilizing a bicycle as a power source for various tasks"
+            ]
+        },
+        {
+            "task": "Sustainable Cooking and Reduced-Energy Baking",
+            "subtasks": [
+                "Mixing and proofing sourdough bread with whole wheat flour",
+                "Adjusting kneading techniques for whole wheat dough",
+                "Properly activating a sourdough starter with whole grain flour",
+                "Achieving proper hydration balance for whole wheat loaves",
+                "Managing baking challenges with bran-rich flour"
+            ]
+        },
+        {
+            "task": "Efficient Fuel Use and Conservation",
+            "subtasks": [
+                "Transporting harvested wheat using minimal fossil fuel vehicles",
+                "Utilizing solar energy to power grain processing equipment",
+                "Surgically cold smoking meat (despite the user mentioning confusion with previous context; likely a separate task if relevant)",
+                "Optimizing heat and power consumption for warmth and cooking",
+                "Minimizing waste and repurposing materials (e.g., using pasta boxes for tool handles)",
+                "The transcript begins with a video about wheat harvesting and processing. The user provides a list of tasks derived from the video transcript, focusing on physical activities related to farming, processing wheat, and bread making. Subtasks break down each main task into specific actions, such as threshing, flail machine operation, grinding flour, collecting grains, and sustainable cooking practices. The video also touches on broader themes of fossil fuel independence and preparedness, which are reflected in the final two main tasks. The given script ends here, and since the main subject remains agriculture-related tasks and preparations, no irrelevance was detected. The `>>>ACCEPT` flag is included, indicating the video is relevant. Tasks are clearly specified with a structure of MAINTASK followed by SUBTASK for each component of the larger activities."
             ]
         }
     ]

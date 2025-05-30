@@ -5,42 +5,28 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Take a soil sample for nutrient analysis and soil testing.",
+            "task": "Soilsampling",
             "subtasks": [
-                "Determine the optimal timing for soil sampling.",
-                "Identify representative locations for sampling, avoiding roads, tracks, etc.",
-                "Sample areas with poor and good plant growth to compare soil conditions.",
-                "Consider the depth of sampling, focusing on the top 30 centimeters, but going deeper if issues are in the subsoil.",
-                "Use a spade test to obtain a soil profile sample for pH, sodicity, and texture testing."
+                "Considering timing of sample",
+                "Avoiding non-representative locations",
+                "Sampling poor and healthy areas for comparison",
+                "Determining appropriate soil depth (top 30 cm or deeper)",
+                "Using spade test to collect soil profile samples"
             ]
         },
         {
-            "task": "Test soil for deficiencies and plan applications.",
+            "task": "MAINTASK: Soilsampling",
             "subtasks": [
-                "Evaluate soil sample results for nutrient deficiencies.",
-                "Determine necessary fertilizers or amendments based on test results."
+                "Considering timing of sample",
+                "Avoiding non-representative locations",
+                "Sampling poor and healthy areas for comparison",
+                "Determining appropriate soil depth (top 30 cm or deeper)",
+                "Using spade test to collect soil profile samples"
             ]
         },
         {
-            "task": "Choose the best time for soil sampling.",
-            "subtasks": [
-                "Consider plant growth stage for accurate nutrient assessment.",
-                "Plan sampling just before peak plant growth or before planting."
-            ]
-        },
-        {
-            "task": "Select representative soil sample locations.",
-            "subtasks": [
-                "Avoid sampling in non-representative areas like roads and tracks.",
-                "Differentiate between affected and unaffected areas for comparison."
-            ]
-        },
-        {
-            "task": "Determine the appropriate soil depth for sampling.",
-            "subtasks": [
-                "Focus on the top 30 centimeters where nutrients are concentrated.",
-                "Sample subsoil if specific issues are below the top 30 cm."
-            ]
+            "task": "Soilsampling",
+            "subtasks": []
         }
     ]
 }

@@ -5,14 +5,26 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Criticizing agricultural practices and defending current methods",
+            "task": "Farmers defending low fertilizer use due to profitability and efficiency improvements.",
             "subtasks": [
-                "Expressing disagreement with farmer objections",
-                "Acknowledging economic reasons for minimizing fertilizer use",
-                "Mentioning the use of satellite technology in agriculture",
-                "Highlighting significant reduction in fertilizer usage over 40 years",
-                "Noting increased food production as a result of these reductions",
-                "Questioning the competence of farmers who continue certain practices"
+                "Explain farmers' perspective on minimizing fertilizer usage based on costs.",
+                "Mention use of satellite technology in applying fertilizer accurately.",
+                "Highlight significant reduction in fertilizer use over the past 40 years.",
+                "Note increase in food production despite reduced fertilizer use.",
+                "Advocate for farmers' knowledge and capability in sustainable practices.",
+                "Address skepticism towards farmers' methods by referencing their expertise."
+            ]
+        },
+        {
+            "task": "Canadian farmers arguing against criticisms about their agricultural practices.",
+            "subtasks": [
+                "Discuss farmers' response to objections from others.",
+                "Emphasize their economic motivation to use minimal fertilizer due to high costs.",
+                "Mention implementation of satellite technology for precise nutrient application.",
+                "Illustrate substantial decrease in fertilizer usage over time.",
+                "Highlight greater food production efficiency alongside reduced inputs.",
+                "Challenge perceived lack of knowledge among critics by praising farmers' skills.",
+                "The MAINTASK is to identify tasks related to the physical actions of a farmer defending low fertilizer use. Subtasks include explaining the economic reasons (SUBTASK 1), mentioning satellite map technology (SUBTASK 2), highlighting reduced use over 40 years (SUBTASK 3), noting increased food output (SUBTASK 4), and addressing skepticism (SUBTASK 5). Another MAINTASK covering the broader argument against criticisms includes emphasizing low fertilizer use due to economics (SUBTASK 6), satellite application (SUBTASK 7), significant reduction history (SUBTASK 8), efficiency gains (SUBTASK 9), and challenging critics' perceptions (SUBTASK 10). Tasks are relevant to agricultural practices, such as farming, husbandry, and equipment operation. The transcript is thus relevant (>>>ACCEPT) to agricultural discussions."
             ]
         }
     ]

@@ -5,17 +5,18 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Set up and operate a garden watering control system",
+            "task": "Set up and test a garden watering control system using a Raspberry Pi and HTML5 canvas.",
             "subtasks": [
-                "Connect to Raspberry Pi via SSH",
-                "Access control daemon using command line interface",
-                "Override valve states manually",
-                "Manage zone activation (e.g., turn zone one, three, two on and off)",
-                "Monitor LED indicators for valve status",
-                "Bleed system pressure through the bleed valve",
-                "Configure water sources (rain tank and house water)",
-                "Integrate soil moisture sensors",
-                "Implement scheduling and decision-making based on sensor data"
+                "Access the Raspberry Pi via SSH.",
+                "Configure a relay control board connected to the Raspberry Pi.",
+                "Set up valves (manual and controlled) for water distribution.",
+                "Write a Node.js daemon to control the relay board.",
+                "Create an HTML5 canvas-based interface to visualize valve states.",
+                "Implement an override function for valve control.",
+                "Test the system by activating different zones.",
+                "Bleed pressure from the system to check for leaks.",
+                "Plan for integrating water source selection (rain tank vs. house water).",
+                "Consider adding soil moisture sensors and tank level monitors."
             ]
         }
     ]

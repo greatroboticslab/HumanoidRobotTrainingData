@@ -7,32 +7,39 @@
         {
             "task": "Harvest baby green spinach",
             "subtasks": [
-                "Choose harvesting method",
-                "Cut spinach leaves near base, leaving stems for regrowth",
-                "Collect harvested spinach"
+                "Select harvesting method (quick cut at top)",
+                "Avoid cutting too close to base to allow regrowth",
+                "Ensure leaves and stems remaining in container for future growth"
             ]
         },
         {
-            "task": "Set up shade mesh cover",
+            "task": "Protect spinach from insects using shade mesh cover",
             "subtasks": [
-                "Position large stakes on container ends",
-                "Secure shade mesh with clips",
-                "Cover container with shade mesh"
+                "Install shade mesh screen over container",
+                "Secure screen with stakes and clips (top and sides)",
+                "Ensure coverage allows desired sunlight (partial morning sun)"
             ]
         },
         {
-            "task": "Monitor spinach growth",
+            "task": "Prepare to harvest spinach again in 7 days",
             "subtasks": [
-                "Observe sunlight exposure",
-                "Check for insect infestation"
+                "Monitor spinach growth",
+                "Plan for subsequent harvest in approximately 1 week",
+                "Consider making a spinach salad for dinner after harvest",
+                "Engage with video viewers (like button, subscribe)"
             ]
         },
         {
-            "task": "Prepare spinach salad",
-            "subtasks": [
-                "Gather harvested spinach",
-                "Create salad ingredients"
-            ]
+            "task": "Harvest baby green spinach**",
+            "subtasks": []
+        },
+        {
+            "task": "Protect spinach from insects using a shade mesh cover**",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare for the next harvest**",
+            "subtasks": []
         }
     ]
 }

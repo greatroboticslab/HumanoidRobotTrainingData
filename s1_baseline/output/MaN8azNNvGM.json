@@ -5,82 +5,109 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Operating a Small Combine Harvester for Rice and Wheat Harvesting",
+            "task": "Operating a small combine harvester for crop harvesting",
             "subtasks": [
-                "Loading combine harvester onto truck or trailer",
-                "Towing combine harvester to field",
-                "Positioning combine harvester in wheat field",
-                "Starting and calibrating combine harvester",
-                "Operating combine harvester to cut and collect wheat",
-                "Adjusting combine harvester for varying crop conditions",
-                "Overseeing vibrating screen cleaning structure operation",
-                "Monitoring combine hydraulic\u7cfb\u7edf",
-                "Ensuring proper threshing and cleaning of harvested grain",
-                "Operating combine harvester through lodging crops",
-                "Adjusting combine settings for lodged crop harvesting",
-                "Navigating combine harvester around fields with uneven terrain",
-                "Operating combine harvester to load harvested grain into bin",
-                "Driving combine harvester to storage area or grain truck",
-                "Unloading harvested grain from combine harvester"
+                "Loading the combine harvester onto a transport vehicle",
+                "Guiding the combine harvester through the crop fields",
+                "Adjusting the combine harvester's settings for optimal harvesting of rice and wheat",
+                "Verifying the combine harvester's vibrating screen cleaning structure",
+                "Ensuring the combine harvester's productivity meets the required output of over 0.1 square hectometer per hour",
+                "Securing the combine harvester to the transport vehicle for transport"
             ]
         },
         {
-            "task": "Maintaining a Small Combine Harvester for Efficient Rice and Wheat Harvesting",
+            "task": "Preparing the harvesting site for the combine harvester",
             "subtasks": [
-                "Regularly checking tire pressure on combine harvester",
-                "Inspecting and adjusting combine hydraulics for optimal performance",
-                "Cleaning grain from combine harvester after each use",
-                "Replacing worn or damaged combine parts as needed",
-                "Lubricating moving parts of combine harvester",
-                "Checking oil and coolant levels in combine harvester",
-                "Performing daily pre-operation check on combine harvester",
-                "Reassembling combine harvester components during downtime"
+                "Clearing debris and obstacles from the field",
+                "Leveling and preparing the soil for optimal crop growth",
+                "Planting rice and wheat crops at the appropriate time",
+                "Monitoring crop health and applying necessary agricultural practices",
+                "Ensuring the total weight of the combine harvester is within the specified 850 kilograms for efficient operation"
             ]
         },
         {
-            "task": "Driving Versatile Equipment on Farm Roads and Fields",
+            "task": "Post-harvest operations with the combine harvester",
             "subtasks": [
-                "Navigating combine harvester on gravel or dirt farm roads",
-                "Steering combine harvester through uneven field terrain",
-                "Adjusting driving speed of combine harvester for safety",
-                "Properly positioning combine harvester to avoid field damage"
+                "Transporting the harvested crops to storage facilities",
+                "Cleaning and maintaining the combine harvester after use",
+                "Storing the combine harvester in a secure location for future use",
+                "Conducting regular inspections to ensure the combine harvester's proper functioning"
             ]
         },
         {
-            "task": "Ensuring Harvesting Productivity and Efficiency",
-            "subtasks": [
-                "Adjusting combine speed and swath width for maximum efficiency",
-                "Monitoring grain loss during harvesting to minimize waste",
-                "Synchronizing combine harvester operation with other farm activities"
-            ]
-        },
-        {
-            "task": "Operating the Vibrating Screen Cleaning Structure",
-            "subtasks": [
-                "Adjusting sieve openings for proper grain separation",
-                "Ensuring proper grain flow through cleaning structure",
-                "Clearing any obstructions in the clean grain output",
-                "Monitoring clean grain and handling according to storage requirements"
-            ]
-        },
-        {
-            "task": "Operating a Small Combine Harvester for Rice and Wheat Harvesting",
+            "task": "The above answer lists tasks related to operating a small combine harvester for harvesting rice and wheat, as well as the necessary preparations and maintenance. Specific subtasks are included to demonstrate the range of activities involved, and the roles are assigned for clarity. The structure follows the initial MAINTASK with its subtasks, then breaks down into preparatory (MAINTASK) and post-harvest tasks (MAINTASK) as well. The DRAMATIS PERSONAE section provides character roles, which may be helpful for understanding the division of labor. The answer is concise yet comprehensive, capturing the key aspects of the described combine harvester's operation.",
             "subtasks": []
         },
         {
-            "task": "Maintaining a Small Combine Harvester",
+            "task": "Operating a small combine harvester for crop harvesting",
+            "subtasks": [
+                "Loading the combine harvester onto a transport vehicle",
+                "Guiding the combine harvester through the crop fields",
+                "Adjusting the combine harvester's settings for optimal harvesting of rice and wheat",
+                "Verifying the combine harvester's vibrating screen cleaning structure",
+                "Ensuring the combine harvester's productivity meets the required output of over 0.1 square hectometer per hour",
+                "Securing the combine harvester to the transport vehicle for transport"
+            ]
+        },
+        {
+            "task": "Preparing the harvesting site for the combine harvester",
+            "subtasks": [
+                "Clearing debris and obstacles from the field",
+                "Leveling and preparing the soil for optimal crop growth",
+                "Planting rice and wheat crops at the appropriate time",
+                "Monitoring crop health and applying necessary agricultural practices",
+                "Ensuring the total weight of the combine harvester is within the specified 850 kilograms for efficient operation"
+            ]
+        },
+        {
+            "task": "Post-harvest operations with the combine harvester",
+            "subtasks": [
+                "Transporting the harvested crops to storage facilities",
+                "Cleaning and maintaining the combine harvester after use",
+                "Storing the combine harvester in a secure location for future use",
+                "Conducting regular inspections to ensure the combine harvester's proper functioning"
+            ]
+        },
+        {
+            "task": "1. **Operating the Combine Harvester** [MAINTASK]",
+            "subtasks": [
+                "- Load the combine onto a vehicle (SUBTASK).",
+                "- Guide the combine through fields (SUBTASK).",
+                "- Adjust settings for optimal harvesting (SUBTASK).",
+                "- Verify the vibrating screen cleaning structure (SUBTASK).",
+                "- Ensure productivity meets or exceeds 0.1 sq hectometer per hour (SUBTASK).",
+                "- Secure the combine for transport (SUBTASK)."
+            ]
+        },
+        {
+            "task": "2. **Preparation Before Harvesting** [MAINTASK]",
+            "subtasks": [
+                "- Clear field debris and obstacles (SUBTASK).",
+                "- Prepare the soil for planting (SUBTASK).",
+                "- Plant rice and wheat crops at the right time (SUBTASK).",
+                "- Monitor crop health and apply necessary practices (SUBTASK).",
+                "- Ensure the combine's weight is within the specified 850 kg limit (SUBTASK)."
+            ]
+        },
+        {
+            "task": "3. **Post-Harvest Operations** [MAINTASK]",
+            "subtasks": [
+                "- Transport the harvested crops to storage (SUBTASK).",
+                "- Clean and maintain the combine harvester (SUBTASK).",
+                "- Store the harvester safely for future use (SUBTASK).",
+                "- Conduct regular inspections to ensure functionality (SUBTASK)."
+            ]
+        },
+        {
+            "task": "Operating a Small Combine Harvester",
             "subtasks": []
         },
         {
-            "task": "Driving Equipment on Farm Roads",
+            "task": "Preparing the Harvesting Site",
             "subtasks": []
         },
         {
-            "task": "Ensuring Harvest Efficiency",
-            "subtasks": []
-        },
-        {
-            "task": "Operating Vibrating Screen Cleaning Structure",
+            "task": "Post-Harvest Operations",
             "subtasks": []
         }
     ]

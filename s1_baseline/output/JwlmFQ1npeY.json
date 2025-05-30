@@ -5,47 +5,97 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Wear protective equipment when handling pesticides",
+            "task": "Wear extra protection when mixing and loading pesticides.",
             "subtasks": [
-                "Wear extra protection on top of regular protective equipment",
-                "Use an apron over protective clothing",
-                "Wear protective eyewear",
-                "Open pesticide containers correctly to prevent dust release",
-                "Place pesticide containers on a stable, low, flat surface",
-                "Use a sharp knife or scissors to open containers",
-                "Wash knives or scissors thoroughly after use on pesticides",
-                "Use tools only for opening pesticide containers"
+                "Put on protective eyewear.",
+                "Use an apron over protective equipment.",
+                "Wear appropriate clothing (mention not specified in transcript, inferred based on context)."
             ]
         },
         {
-            "task": "Follow label instructions for pesticide application",
+            "task": "Open pesticide containers safely.",
             "subtasks": [
-                "Determine correct amount of pesticide needed from label",
-                "Measure pesticide accurately",
-                "Pour pesticides carefully to prevent spills or splashes",
-                "Ensure face and eyes are above the pesticide container during pouring"
+                "Place pesticide container on a low, flat surface.",
+                "Use a sharp knife or scissors to open the container (specifically avoiding ripping).",
+                "Wash knife or scissors with soap and water after use.",
+                "Only use the knife/scissors for opening pesticide containers."
             ]
         },
         {
-            "task": "Wear protective equipment when handling pesticides**",
+            "task": "Measure pesticide accurately.",
             "subtasks": [
-                "Wear extra protection on top of regular protective equipment.",
-                "Use an apron over protective clothing.",
+                "Refer to the label for the correct amount.",
+                "Measure pesticide carefully (verb)."
+            ]
+        },
+        {
+            "task": "Pour pesticide safely.",
+            "subtasks": [
+                "Pour liquids slowly and carefully to avoid splashes.",
+                "Keep face and eyes well above the container during pouring.",
+                "Take additional precautions (not specified, inferred from context, like maintaining balance or using aids if needed)."
+            ]
+        },
+        {
+            "task": "Wear extra protection when mixing and loading pesticides.",
+            "subtasks": [
+                "Put on protective eyewear.",
+                "Use an apron over your protective equipment.",
+                "(Assumed: Put on regular protective clothing, if not already assumed)"
+            ]
+        },
+        {
+            "task": "Open pesticide containers safely.",
+            "subtasks": [
+                "Put the pesticide container on a low, flat surface.",
+                "Use a sharp knife or scissors (use only for this purpose; wash afterwards).",
+                "Wash the knife or scissors with soap and water before and after use.",
+                "Only use the knife or scissors for opening pesticide containers."
+            ]
+        },
+        {
+            "task": "Measure pesticide accurately.",
+            "subtasks": [
+                "Follow the label directions to find out how much pesticide is needed.",
+                "Measure the pesticide carefully."
+            ]
+        },
+        {
+            "task": "Pour pesticide safely.",
+            "subtasks": [
+                "Pour the pesticide slowly and carefully to avoid splashes.",
+                "Keep your face and eyes well above the container while pouring."
+            ]
+        },
+        {
+            "task": "**Wear extra protection when mixing and loading pesticides.**",
+            "subtasks": [
                 "Wear protective eyewear.",
-                "Open pesticide containers correctly to prevent dust release.",
-                "Place pesticide containers on a stable, low, flat surface.",
-                "Use a sharp knife or scissors to open containers.",
-                "Wash knives or scissors thoroughly after use on pesticides.",
-                "Use tools only for opening pesticide containers."
+                "Use an apron over your protective equipment.",
+                "Ensure your clothing is appropriate for the task."
             ]
         },
         {
-            "task": "Follow label instructions for pesticide application**",
+            "task": "**Open pesticide containers safely.**",
             "subtasks": [
-                "Determine the correct amount of pesticide needed from the label.",
-                "Measure pesticide accurately.",
-                "Pour pesticides carefully to prevent spills or splashes.",
-                "Ensure face and eyes are above the pesticide container during pouring."
+                "Place the pesticide container on a low, flat surface.",
+                "Use a sharp knife or scissors to open the container (preventing dust from escaping).",
+                "Wash the knife or scissors with soap and water after use.",
+                "Use the tool only for opening pesticide containers."
+            ]
+        },
+        {
+            "task": "**Measure pesticide accurately.**",
+            "subtasks": [
+                "Follow the label instructions to determine the correct amount.",
+                "Measure the pesticide carefully to avoid oversights."
+            ]
+        },
+        {
+            "task": "**Pour pesticide safely.**",
+            "subtasks": [
+                "Pour the pesticide slowly and carefully to prevent splashes.",
+                "Keep your face and eyes well above the pesticide container during pouring."
             ]
         }
     ]

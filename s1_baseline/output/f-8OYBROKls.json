@@ -5,47 +5,1679 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Discuss the challenges and proposed solutions for Indian agriculture, particularly focusing on the role of farmers' organizations.",
+            "task": "Manages farmer organizations and agricultural development",
             "subtasks": [
-                "Highlight the speaker's argument that while India has achieved significant industrial progress, the contribution of farmers in feeding over a billion people is a more noteworthy achievement.",
-                "Express concern over the declining number of young farmers and the high rate of farmer suicides, attributing these issues to irrigation investment and market access problems.",
-                "Explain the suggestion that consolidating small landholdings through farmers' producer organizations (FPOs) and addressing irrigation and marketing through large-scale operations can improve the agricultural economy.",
-                "Propose that FPOs can lead to a tripling of agricultural income within three to four years and reform the tax system to support such organizations.",
-                "Emphasize the potential benefits for corporates, social organizations, and the banking sector by supporting FPOs, as well as improved economic opportunities for rural India's 65% population.",
-                "Call for leaders from various sectors to collaborate and implement these changes to uplift rural economies."
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
             ]
         },
         {
-            "task": "Address the problem of declining interest in farming among youth and propose solutions for sustainable agriculture in India.",
+            "task": "Advocates for enhanced agricultural infrastructure",
             "subtasks": [
-                "Note the stark reality that less than 15% of farmers want their children to become farmers, indicating a generational shift away from agriculture.",
-                "Cite statistics such as 3 lakh farmer suicides in twelve years and the inability to access markets as reasons for the current challenges in Indian agriculture.",
-                "Propose large-scale farmers' organizations (FPOs) as a solution to address market access, irrigation, and aggregation opportunities, enabling better bargaining power and value addition.",
-                "Advocate for policy support, such as tax incentives for FPOs, to facilitate the organization of small farmers into larger entities.",
-                "Highlight the role of technology, such as smartphones used by young people to renegotiate daily produce prices, as a potential tool for FPOs.",
-                "Envision the impact of successful FPOs on agricultural income and rural living standards, aiming for 200-300% growth in three to four years."
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
             ]
         },
         {
-            "task": "Examine the challenges faced by small farmers in India, particularly in accessing markets and irrigation, and propose scalable solutions through farmer producer organizations.",
+            "task": "Promotes economic viability in agriculture",
             "subtasks": [
-                "Recognize the challenges faced by small farmers, including their inability to invest in large-scale irrigation due to small landholdings and the cycle of debt.",
-                "Propose the formation of farmer producer organizations (FPOs) as a means to aggregate irrigation and marketing efforts, thereby increasing farmers' market access and income.",
-                "Advocate for public and private sector investment in irrigation infrastructure managed by FPOs to address the water scarcity issues faced by individual farmers.",
-                "Recommend that marketing be taken over by large companies to ensure better prices for farmers and stabilize supply chains, reducing the volatility associated with individual marketing efforts.",
-                "Highlight the potential for FPOs to enable value addition to agricultural produce, enhancing product quality and marketability.",
-                "Discuss the role of technological interventions, such as smartphones and apps, in assisting FPOs with daily market negotiations and information dissemination."
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
             ]
         },
         {
-            "task": "Call for collaboration and support from various sectors to address the agricultural crisis in India and promote farmer sustainability.",
+            "task": "Supports corporate and social sector involvement",
             "subtasks": [
-                "Stress the need for collaboration between corporates, social organizations, and financial institutions to support the development of FPOs.",
-                "Advocate for governments to provide necessary support, including allowing tax benefits for FPOs and enabling access to credit and banking facilities.",
-                "Highlight the potential economic benefits for corporates in entering the agricultural market through FPOs, including stable supply chains and market expansion.",
-                "Encourage social organizations to invest in skill development and capacity building for farmers within FPOs, enhancing their productivity and competitiveness.",
-                "Emphasize the potential for banks and financial institutions to lend to FPOs, providing the necessary capital for expansion and infrastructure development, with secure repayment mechanisms."
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
             ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "First MAINTASK could be about managing farmer organizations and agricultural development. The speaker talks a lot about farmers-producers organizations (FPOs) as the solution. That could be the main task here. So under that, subtasks would include discussing the benefits of large-scale farming, which is a key point. They mention that 10,000 farmers coming together could manage irrigation and marketing better and potentially triple agricultural income. So that's a big impact.",
+            "subtasks": []
+        },
+        {
+            "task": "Another MAINTASK is about advocating for enhanced agricultural infrastructure. The speaker talks about the challenges farmers face, like irrigation. He mentions TD farmers sinking nine bore wells\u2014maybe that's a problem with infrastructure not keeping up. So subtasks here could be discussing irrigation project challenges and the issues with small landholdings making it hard to invest.",
+            "subtasks": []
+        },
+        {
+            "task": "Then, promoting economic viability in agriculture would be another MAINTASK. He says economists feeding a billion people is the most significant achievement, but now we're taking that away. He cites farmer suicides and asks why kids don't want to farm. Economic attractiveness is key. Subtasks here could include talking about market access issues and investment.",
+            "subtasks": []
+        },
+        {
+            "task": "aggregating irrigation, marketing forces, and value addition. He gives examples like the three young people using smartphones to renegotiate prices. So how FPOs provide better economic opportunities.",
+            "subtasks": []
+        },
+        {
+            "task": "Supporting corporate, social sector, and financial institution involvement is another MAINTASK. He wants corporates and social organizations to pitch in. For the financial institutions, they're mentioned because the FPOs need loans and support. So the subtasks here would be advocating their role and explaining why it's beneficial for them to get involved.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Manages farmer organizations and agricultural development",
+            "subtasks": []
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": []
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": []
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": []
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": []
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": []
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": []
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": []
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": []
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": []
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic vitality in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": []
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": []
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": []
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": []
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": []
+        },
+        {
+            "task": "Managing Farmer Organizations and Agricultural Development",
+            "subtasks": []
+        },
+        {
+            "task": "Advocating for Enhanced Agricultural Infrastructure",
+            "subtasks": []
+        },
+        {
+            "task": "Promoting Economic Viability in Agriculture",
+            "subtasks": []
+        },
+        {
+            "task": "Supporting Corporate and Social Sector Involvement",
+            "subtasks": []
+        },
+        {
+            "task": "Urging Government Action for Agricultural Development",
+            "subtasks": []
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population}"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population}"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model}"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations}"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization}"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration}"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population}"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic vitality in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Managing Farmer Organizations and Agricultural Development",
+            "subtasks": []
+        },
+        {
+            "task": "Advocating for Enhanced Agricultural Infrastructure",
+            "subtasks": []
+        },
+        {
+            "task": "Promoting Economic Viability in Agriculture",
+            "subtasks": []
+        },
+        {
+            "task": "Supporting Corporate and Social Sector Involvement",
+            "subtasks": []
+        },
+        {
+            "task": "Urging Government Action for Agricultural Development",
+            "subtasks": []
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic vitality in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": []
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": []
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": []
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": []
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": []
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits",
+                "Discusses irrigation project challenges",
+                "Addresses farmer suicide statistics",
+                "Highlights market access issues for farmers",
+                "Proposes farmers-producers organization model"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success",
+                "Critiques current irrigation investment",
+                "Urges scaling solutions for rural prosperity",
+                "Notes small landholdings' limitations"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives for farming",
+                "References tax benefits for FPOs",
+                "Shares success stories with FPOs",
+                "Proposes value addition through organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate participation in agriculture",
+                "Supports social organizations' role in rural development",
+                "Advocates for financial institution support",
+                "Highlights mutual benefits of collaboration"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "References government's budget response",
+                "Aims to boost agricultural income significantly",
+                "Stresses rural economy's impact on national population",
+                "The relevant tasks are embedded in **MAINTASK** entries, each subdivided into their respective **SUBTASK** components."
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "MAINTASK: Manages farmer organizations and agricultural development",
+            "subtasks": [
+                "Talks about large-scale farming benefits (e.g., using FPOs to aggregate resources and markets)",
+                "Discusses irrigation project challenges (e.g., criticizes current irrigation and small landholdings)",
+                "Addresses farmer suicide statistics (highlights the issue and economic significance)",
+                "Highlights market access issues for farmers (e.g., low youth interest in farming)",
+                "Proposes farmers-producers organization model (e.g., FPOs, which can scale and negotiate better markets)"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure",
+            "subtasks": [
+                "Emphasizes the importance of proper infrastructure (e.g., irrigation systems) for farmer success",
+                "Critiques current irrigation investment and scale (e.g., absorbs limited resources, doesn't scale)",
+                "Urges scaling solutions (e.g., aggregated projects for irrigation)",
+                "Notes small landholdings hindering investment (e.g., no leverage for large inputs)"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture",
+            "subtasks": [
+                "Calls for economic incentives (e.g., tax benefits for FPOs)",
+                "References success stories (e.g., FPO members using smartphones for better market access)",
+                "Proposes value addition (e.g., processing raw produce into higher-value goods) through better organization"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement",
+            "subtasks": [
+                "Encourages corporate engagement (e.g., investing in farms, providing workforce)",
+                "Supports social organizations (e.g., providing training, skills development)",
+                "Advocates for financial institutions to support FPOs (e.g., loan access) and enable growth"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development",
+            "subtasks": [
+                "Hooks budget responses (e.g., removing tax on FPOs)",
+                "Aims to triple agricultural income in three to four years (calls for large-scale transformation)",
+                "Stresses the ripple effect on the rural economy (65% of India's population lives in rural areas)"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages Farmer Organizations and Agricultural Development",
+            "subtasks": []
+        },
+        {
+            "task": "Advocates for Enhanced Agricultural Infrastructure",
+            "subtasks": []
+        },
+        {
+            "task": "Promotes Economic Viability in Agriculture",
+            "subtasks": []
+        },
+        {
+            "task": "Supports Corporate and Social Sector Involvement",
+            "subtasks": []
+        },
+        {
+            "task": "Urges Government Action for Agricultural Development",
+            "subtasks": [
+                "} Talks about large-scale farming benefits. \\\\",
+                "} Discusses irrigation project challenges. \\\\",
+                "} Addresses farmer suicide statistics. \\\\",
+                "} Highlights market access issues for farmers. \\\\",
+                "} Proposes farmers-producers organizations. \\\\",
+                "} Emphasizes infrastructure's significance for farmer success. \\\\",
+                "} Critiques current irrigation investment. \\\\",
+                "} Urges scaling solutions for rural prosperity. \\\\",
+                "} Notes small landholdings' limitations. \\\\",
+                "} Calls for economic incentives for farming. \\\\",
+                "} References tax benefits for FPOs. \\\\",
+                "} Shares success stories with FPOs. \\\\",
+                "} Proposes value addition through organization. \\\\",
+                "} Encourages corporate participation in agriculture. \\\\",
+                "} Supports social organizations' role in rural development. \\\\",
+                "} Advocates for financial institution support. \\\\",
+                "} Highlights mutual benefits of collaboration. \\\\",
+                "} References government's budget response. \\\\",
+                "} Aims to boost agricultural income significantly. \\\\",
+                "} Stresses rural economy's impact on national population. \\\\"
+            ]
+        },
+        {
+            "task": "Manages large-scale farming organizations",
+            "subtasks": [
+                "Talks about irrigation and market benefits",
+                "Discusses small holdings and suicides",
+                "Addressed market access issues",
+                "Proposes FPO model"
+            ]
+        },
+        {
+            "task": "Advocates for infrastructure improvement",
+            "subtasks": [
+                "Stresses irrigation's importance",
+                "Criticizes current irrigation practices",
+                "Urges integrated solutions for scalability"
+            ]
+        },
+        {
+            "task": "Promotes economic incentives",
+            "subtasks": [
+                "Calls for tax benefits for FPOs",
+                "Shares success stories and value addition",
+                "Emphasizes organization's role in market integration"
+            ]
+        },
+        {
+            "task": "Supports corporate and social engagement",
+            "subtasks": [
+                "Encourages corporate investment (infrastructure, technology)",
+                "Backs social organizations in training",
+                "Advocates for financial support for FPOs"
+            ]
+        },
+        {
+            "task": "Urges government action",
+            "subtasks": [
+                "Pushes for policy changes (tax relief)",
+                "Aims to triple income in 3-4 years",
+                "Stresses rural economy's importance to national growth"
+            ]
+        },
+        {
+            "task": "Manages large-scale farming",
+            "subtasks": [
+                "Large-scale benefits, market access",
+                "Irrigation challenges, small holdings, market access",
+                "Discuss farmer suicides, share success stories",
+                "Promote FPOs for aggregation"
+            ]
+        },
+        {
+            "task": "Advocates for agricutlural infrastructure",
+            "subtasks": [
+                "Emphasizes irrigation",
+                "Critique current irrigation, scalability challenges"
+            ]
+        },
+        {
+            "task": "Promote economic viublity",
+            "subtasks": [
+                "Economic incentives, tax benefits",
+                "Shares success stories, value addition"
+            ]
+        },
+        {
+            "task": "Supports corporate and social involvement",
+            "subtasks": [
+                "Corporate participation, technology",
+                "Social orgs. training, education",
+                "Financial support, credit access"
+            ]
+        },
+        {
+            "task": "Urges government action",
+            "subtasks": [
+                "Tax relief, policy changes",
+                "Boost agricultural income",
+                "Stress rural econV impact on national growth"
+            ]
+        },
+        {
+            "task": "Manages farmer organizations and agricultural development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for enhanced agricultural infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes economic viability in agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports corporate and social sector invocation} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges government action for agricultural development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\",
+                "Large-scale farming benefits (e.g., FPOs)} \\\\",
+                "Market access issues for farmers} \\\\",
+                "Proposes FPO model for resource aggregation and value chain } \\\\",
+                "Large-scale farming benefits (e.g., irrigation, market access)} \\\\",
+                "Irrigation project challenges (e.g., small landholdings, infrastructure)} \\\\",
+                "Farmer suicide statistics and economic pressure} \\\\",
+                "Promoting FPOs for market integration} \\\\",
+                "Emphasizes infrastructure significance (irrigation)} \\\\",
+                "Calls for economic incentives (e.g., tax benefits for FPOs)} \\\\",
+                "Advocates value addition through better organization old produce)} \\\\",
+                "Corporate involvement in farming and infrastructure) } \\\\",
+                "Social organizations' role in education and capacity building)} \\\\",
+                "Financial institutions supporting FPOs, loan access)} \\\\",
+                "policy changos, tax reductions for.} \\\\",
+                "Stresses the impact of rural economies on the national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages Farmer Organizations and Agricultural Development} \\\\",
+            "subtasks": [
+                "Talks about large-scale farming benefits} \\\\",
+                "Discusses irrigation project challenges} \\\\",
+                "Addresses farmer suicide statistics} \\\\",
+                "Highlights market access issues for farmers} \\\\",
+                "Proposes farmers-producers organization model} \\\\"
+            ]
+        },
+        {
+            "task": "Advocates for Enhanced Agricultural Infrastructure} \\\\",
+            "subtasks": [
+                "Emphasizes infrastructure's significance for farmer success} \\\\",
+                "Critiques current irrigation investment} \\\\",
+                "Urges scaling solutions for rural prosperity} \\\\",
+                "Notes small landholdings' limitations} \\\\"
+            ]
+        },
+        {
+            "task": "Promotes Economic Viability in Agriculture} \\\\",
+            "subtasks": [
+                "Calls for economic incentives for farming} \\\\",
+                "References tax benefits for FPOs} \\\\",
+                "Shares success stories with FPOs} \\\\",
+                "Proposes value addition through organization} \\\\"
+            ]
+        },
+        {
+            "task": "Supports Corporate and Social Sector Involvement} \\\\",
+            "subtasks": [
+                "Encourages corporate participation in agriculture} \\\\",
+                "Supports social organizations' role in rural development} \\\\",
+                "Advocates for financial institution support} \\\\",
+                "Highlights mutual benefits of collaboration} \\\\"
+            ]
+        },
+        {
+            "task": "Urges Government Action for Agricultural Development} \\\\",
+            "subtasks": [
+                "References government's budget response} \\\\",
+                "Aims to boost agricultural income significantly} \\\\",
+                "Stresses rural economy's impact on national population} \\\\"
+            ]
+        },
+        {
+            "task": "Manages Farmer Organizations**",
+            "subtasks": []
+        },
+        {
+            "task": "Advocates for Enhanced Agricultural Infrastructure**",
+            "subtasks": []
+        },
+        {
+            "task": "Promotes Economic Viability in Agriculture**",
+            "subtasks": []
+        },
+        {
+            "task": "Supports Corporate and Social Sector Involvement**",
+            "subtasks": []
+        },
+        {
+            "task": "Urges Government Action for Agricultural Development**",
+            "subtasks": []
         }
     ]
 }

@@ -5,45 +5,23 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Create a data query for agricultural analysis",
+            "task": "Selecting time windows for agricultural data visualization",
             "subtasks": [
-                "Select 250 meter resolution crop planting map from the US Department of Agriculture",
-                "Choose daily maximum temperature from the PRISM historical weather data",
-                "Define geographic area for analysis (Midwestern US)",
-                "Set time window for crop planting data (January 1, 2017)",
-                "Set time window for temperature data (June 2017)",
+                "Create a new query",
+                "Choose 250 meter resolution crop planting map from the US Department of Agriculture",
+                "Select prism historical daily maximum temperature weather data",
+                "Zoom in and select a rectangle in the Midwest (midwestern US)",
+                "Set time window for crop type to January 1st, 2017",
+                "Set time window for maximum temperature to June 2017",
                 "Submit the query"
             ]
         },
         {
-            "task": "Analyze the data results",
+            "task": "Visualizing and analyzing the results",
             "subtasks": [
-                "Examine the categorized crop types and their numerical codes",
-                "Integrate and visualize temperature data time series for a selected point",
-                "Create an animation of temperature changes during the specified time window"
-            ]
-        },
-        {
-            "task": "So the main tasks are creating the query and then analyzing the results. For each, there are specific steps. Let me list them as MAINTASKs followed by their subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Create a data query for agricultural analysis",
-            "subtasks": [
-                "Select 250 meter resolution crop planting map from the US Department of Agriculture",
-                "Choose daily maximum temperature from the PRISM historical weather data",
-                "Define geographic area for analysis (Midwestern US)",
-                "Set time window for crop planting data (January 1, 2017)",
-                "Set time window for temperature data (June 2017)",
-                "Submit the query"
-            ]
-        },
-        {
-            "task": "Analyze the data results",
-            "subtasks": [
-                "Examine the categorized crop types and their numerical codes",
-                "Integrate and visualize temperature data time series for a selected point",
-                "Create an animation of temperature changes during the specified time window"
+                "Clicking on a point to see crop type and numerical code",
+                "Checking the time series data for temperature",
+                "Launching an animation of temperature variation during June"
             ]
         }
     ]

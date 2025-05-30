@@ -5,22 +5,26 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Engage in saffron cultivation tasks",
+            "task": "Understand the context of the transcript and extract relevant agricultural tasks.",
             "subtasks": [
-                "Prepare land for saffron planting",
-                "Plant saffron bulbs",
-                "Monitor and care for saffron plants",
-                "Harvest saffron threads",
-                "Dry and process saffron for export and domestic markets"
+                "Determine if the transcript is relevant to physical farming tasks.",
+                "Identify key terms related to saffron cultivation and agricultural practices.",
+                "Formulate tasks related to saffron farming, such as soil health improvement, productivity increase, and market enhancement."
             ]
         },
         {
-            "task": "Implement measures to improve saffron productivity",
+            "task": "Generate tasks related to saffron cultivation based on the provided transcript.",
             "subtasks": [
-                "Develop new saffron cultivation techniques",
-                "Enhance soil health through proper pH management",
-                "Conduct quality testing of saffron products",
-                "Improve marketing strategies for saffron"
+                "Improve soil health for saffron cultivation.",
+                "Conduct quality testing on saffron.",
+                "Increase saffron productivity per hectare.",
+                "Enhance market strategies for saffron export and import."
+            ]
+        },
+        {
+            "task": "Summarize the identified tasks.",
+            "subtasks": [
+                "List the tasks relevant to physical farming based on the transcript."
             ]
         }
     ]

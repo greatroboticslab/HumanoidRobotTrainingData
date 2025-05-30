@@ -5,299 +5,38 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "The person is planting potatoes and explanations of a pipe in the ground.",
+            "task": "Driving a tractor to mow a hayfield",
             "subtasks": [
-                "Walk to the potato field.",
-                "Choose the planting location.",
-                "Dig a hole deep enough for the potatoes.",
-                "Place the potato to be planted at the bottom of the hole.",
-                "Cover the potato with soil, pressing down gently.",
-                "Connect the pipe to a water source.",
-                "Ensure the pipe is properly inserted into the ground.",
-                "Move the pipe along the row as potatoes are planted."
+                "Sit in the tractor seat",
+                "Operate the steering wheel to maneuver the tractor",
+                "Use the hydraulic controls to lower and raise the mower",
+                "Engage the power take-off (PTO) to run the mower",
+                "Adjust the mower deck height as needed",
+                "Operate the baler to collect cut hay",
+                "Secure the hay bales once formed",
+                "Drive the tractor to the hay storage area",
+                "Unload the hay bales from the tractor"
             ]
         },
         {
-            "task": "The person is driving a farming machine.",
+            "task": "Loading hay onto a trailer",
             "subtasks": [
-                "Operate the steering wheel to guide the machine.",
-                "Use the throttle to control the speed of the machine.",
-                "Monitor the equipment for proper function.",
-                "Adjust the machine\u2019s height or attachments as needed.",
-                "Navigate around obstacles or changes in terrain.",
-                "Watch for road signs or other directional changes."
+                "Position the trailer adjacent to the tractor",
+                "Attach the trailer to the tractor using the implements",
+                "Use a lift gate or similar mechanism to load hay onto trailer",
+                "Secure the hay on the trailer to prevent shifting",
+                "Detach the trailer from the tractor",
+                "Drive the tractor and trailer to the destination",
+                "Unload the trailer carefully to avoid damage to the hay"
             ]
         },
         {
-            "task": "The person is laying on the side of the machine steering wheel.",
-            "subtasks": [
-                "Position the body on the side of the machine.",
-                "Keep hands on the steering wheel to maintain control.",
-                "Use feet to operate the pedals for accelerator and brakes.",
-                "Maintain focus on the direction to avoid derailing."
-            ]
+            "task": "Driving a tractor to mow a hayfield**",
+            "subtasks": []
         },
         {
-            "task": "Fixing a broken part of the pipe.",
-            "subtasks": [
-                "Identify the faulty section of the pipe.",
-                "Disconnect the pipe from the water source.",
-                "Remove the broken part.",
-                "Replace the broken part with a new one.",
-                "Reconnect the pipe to the water source.",
-                "Test the connection for leaks or proper flow."
-            ]
-        },
-        {
-            "task": "The individual is moving the potato furrows.",
-            "subtasks": [
-                "Walk through the potato field.",
-                "Notice the furrows made by the machine.",
-                "Observe the spacing and depth of the furrows.",
-                "Check for any misalignments or inconsistencies."
-            ]
-        },
-        {
-            "task": "The person is monitoring the potato plants for signs of infection.",
-            "subtasks": [
-                "Walk through the rows of potato plants.",
-                "Inspect each plant for wilted leaves or discoloration.",
-                "Note any areas that appear diseased.",
-                "Take appropriate measures if infection is detected."
-            ]
-        },
-        {
-            "task": "Processing the potatoes at the end of the season.",
-            "subtasks": [
-                "Collect the ripe potatoes from the field.",
-                "Sort potatoes by size or quality.",
-                "Clean the potatoes by removing dirt or debris.",
-                "Store the potatoes in a cool, dry place.",
-                "Prepare the harvested potatoes for market or sale."
-            ]
-        },
-        {
-            "task": "Checking the ripeness of potatoes using hands.",
-            "subtasks": [
-                "Pick up a potato from the ground.",
-                "Feel the texture of the potato.",
-                "Compare the texture to determine ripeness.",
-                "Remove any unripe potatoes from the field."
-            ]
-        },
-        {
-            "task": "The person is driving a tractor.",
-            "subtasks": [
-                "Start the tractor engine.",
-                "Adjust the speed and direction using the controls.",
-                "Operate the hydraulics to lift or lower attachments.",
-                "Check for any mechanical issues while in motion.",
-                "Disengage the clutch or shift gears as necessary."
-            ]
-        },
-        {
-            "task": "The individual is duplicating water via hose to the pipe.",
-            "subtasks": [
-                "Take the hose from the water source.",
-                "Connect the hose to the pipe.",
-                "Ensure the hose is properly attached without leaks.",
-                "Maintain even pressure while supplying water.",
-                "Monitor the flow of water to the pipe."
-            ]
-        },
-        {
-            "task": "The person is planting potatoes and explanations of a pipe in the ground.",
-            "subtasks": [
-                "Walk to the potato field.",
-                "Choose the planting location.",
-                "Dig a hole deep enough for the potatoes.",
-                "Place the potato to be planted at the bottom of the hole.",
-                "Cover the potato with soil, pressing down gently.",
-                "Connect the pipe to a water source.",
-                "Ensure the pipe is properly inserted into the ground.",
-                "Move the pipe along the row as potatoes are planted."
-            ]
-        },
-        {
-            "task": "The person is driving a farming machine.",
-            "subtasks": [
-                "Operate the steering wheel to guide the machine.",
-                "Use the throttle to control the speed of the machine.",
-                "Monitor the equipment for proper function.",
-                "Adjust the machine's height or attachments as needed.",
-                "Navigate around obstacles or changes in terrain.",
-                "Watch for road signs or other directional changes."
-            ]
-        },
-        {
-            "task": "The person is laying on the side of the machine steering wheel.",
-            "subtasks": [
-                "Position the body on the side of the machine.",
-                "Keep hands on the steering wheel to maintain control.",
-                "Use feet to operate the pedals for accelerator and brakes.",
-                "Maintain focus on the direction to avoid derailing."
-            ]
-        },
-        {
-            "task": "Fixing a broken part of the pipe.",
-            "subtasks": [
-                "Identify the faulty section of the pipe.",
-                "Disconnect the pipe from the water source.",
-                "Remove the broken part.",
-                "Replace the broken part with a new one.",
-                "Reconnect the pipe to the water source.",
-                "Test the connection for leaks or proper flow."
-            ]
-        },
-        {
-            "task": "The individual is moving the potato furrows.",
-            "subtasks": [
-                "Walk through the potato field.",
-                "Notice the furrows made by the machine.",
-                "Observe the spacing and depth of the furrows.",
-                "Check for any misalignments or inconsistencies."
-            ]
-        },
-        {
-            "task": "The person is monitoring the potato plants for signs of infection.",
-            "subtasks": [
-                "Walk through the rows of potato plants.",
-                "Inspect each plant for wilted leaves or discoloration.",
-                "Note any areas that appear diseased.",
-                "Take appropriate measures if infection is detected."
-            ]
-        },
-        {
-            "task": "Processing the potatoes at the end of the season.",
-            "subtasks": [
-                "Collect the ripe potatoes from the field.",
-                "Sort potatoes by size or quality.",
-                "Clean the potatoes by removing dirt or debris.",
-                "Store the potatoes in a cool, dry place.",
-                "Prepare the harvested potatoes for market or sale."
-            ]
-        },
-        {
-            "task": "Checking the ripeness of potatoes using hands.",
-            "subtasks": [
-                "Pick up a potato from the ground.",
-                "Feel the texture of the potato.",
-                "Compare the texture to determine ripeness.",
-                "Remove any unripe potatoes from the field."
-            ]
-        },
-        {
-            "task": "The person is driving a tractor.",
-            "subtasks": [
-                "Start the tractor engine.",
-                "Adjust the speed and direction using the controls.",
-                "Operate the hydraulics to lift or lower attachments.",
-                "Check for any mechanical issues while in motion.",
-                "Disengage the clutch or shift gears as necessary."
-            ]
-        },
-        {
-            "task": "The individual is duplicating water via hose to the pipe.",
-            "subtasks": [
-                "Take the hose from the water source.",
-                "Connect the hose to the pipe.",
-                "Ensure the hose is properly attached without leaks.",
-                "Maintain even pressure while supplying water.",
-                "Monitor the flow of water to the pipe."
-            ]
-        },
-        {
-            "task": "Planting potatoes and dealing with a broken pipe",
-            "subtasks": [
-                "Walking to the potato field",
-                "Selecting the planting spot",
-                "Digging a hole for the potato",
-                "Inserting the potato into the hole",
-                "Covering the potato with soil",
-                "Connecting the pipe to the water source",
-                "Ensuring the pipe is inserted properly",
-                "Moving the pipe along the row",
-                "Fixing a broken part of the pipe",
-                "Disconnecting the pipe",
-                "Replacing the broken part",
-                "Connecting the pipe back",
-                "Checking the flow of water"
-            ]
-        },
-        {
-            "task": "Driving a farming machine",
-            "subtasks": [
-                "Operating the steering wheel",
-                "Controlling the speed",
-                "Monitoring the machine's performance",
-                "Adjusting attachments",
-                "Navigating through the field"
-            ]
-        },
-        {
-            "task": "Positioning on the steering wheel",
-            "subtasks": [
-                "Supporting the body on the side",
-                "Steering with hands",
-                "Using feet to operate pedals",
-                "Ensuring direction"
-            ]
-        },
-        {
-            "task": "Inspecting furrows",
-            "subtasks": [
-                "Observing the digging results",
-                "Checking furrow spacing",
-                "Ensuring proper depth",
-                "Addressing any misalignments"
-            ]
-        },
-        {
-            "task": "Potato plant inspection",
-            "subtasks": [
-                "Walking through the rows",
-                "Checking for disease signs",
-                "Noting affected areas",
-                "Taking action against infection"
-            ]
-        },
-        {
-            "task": "Post-harvest processing",
-            "subtasks": [
-                "Collecting potatoes",
-                "Sorting and grading",
-                "Cleaning the crops",
-                "Storing harvested potatoes",
-                "Preparing for market"
-            ]
-        },
-        {
-            "task": "Assessing potato ripeness",
-            "subtasks": [
-                "Feel the texture",
-                "Determining readiness",
-                "Removing unripe potatoes"
-            ]
-        },
-        {
-            "task": "Operating a tractor",
-            "subtasks": [
-                "Starting the engine",
-                "Adjusting speed and direction",
-                "Operating attachments",
-                "Monitoring machine health",
-                "Gear shifting"
-            ]
-        },
-        {
-            "task": "Watering the pipes",
-            "subtasks": [
-                "Connecting hoses to water sources",
-                "Attaching hoses to pipes",
-                "Ensuring proper attachment",
-                "Maintaining water pressure",
-                "Monitoring water flow."
-            ]
+            "task": "Loading hay onto a trailer**",
+            "subtasks": []
         }
     ]
 }

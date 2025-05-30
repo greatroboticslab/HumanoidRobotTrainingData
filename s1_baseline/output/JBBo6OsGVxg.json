@@ -5,12 +5,101 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "**",
-            "subtasks": []
+            "task": "Attaching and operating a chopper head.",
+            "subtasks": [
+                "Walking to the chopper head.",
+                "Checking the attachments.",
+                "Securing the chopper head to the tractor.",
+                "Adjusting the mounted chopper head.",
+                "Starting the tractor engine.",
+                "Driving the tractor to the field.",
+                "Operating the chopper head while moving the tractor."
+            ]
         },
         {
-            "task": "**",
-            "subtasks": []
+            "task": "Cutting hay with a swather.",
+            "subtasks": [
+                "Walking to the swather.",
+                "Checking the swather's settings.",
+                "Securing the swather to the tractor.",
+                "Starting the swather engine.",
+                "Driving the tractor to the hay field.",
+                "Using the swather to cut hay."
+            ]
+        },
+        {
+            "task": "Loading hay onto a trailer.",
+            "subtasks": [
+                "Walking to the hay stack and trailer.",
+                "Moving the hay from the stack to the trailer.",
+                "Stacking hay on the trailer.",
+                "Securing the hay on the trailer."
+            ]
+        },
+        {
+            "task": "Delivering hay to a storage area.",
+            "subtasks": [
+                "Walking to the trailer.",
+                "Detaching the trailer from the tractor.",
+                "Driving the tractor to the storage area.",
+                "Parking the tractor near the storage area.",
+                "Directing the trailer to a designated spot.",
+                "Unloading the hay from the trailer."
+            ]
+        },
+        {
+            "task": "Operating a combine harvester.",
+            "subtasks": [
+                "Walking to the combine harvester.",
+                "Checking the combine's settings.",
+                "Starting the combine engine.",
+                "Driving the combine to the crop field.",
+                "Operating the combine to harvest the crops."
+            ]
+        },
+        {
+            "task": "Seeding a field.",
+            "subtasks": [
+                "Walking to the seed drill.",
+                "Checking the seed drill's settings.",
+                "Securing the seed drill to the tractor.",
+                "Starting the seed drill's engine.",
+                "Attaching seed packets to the drill.",
+                "Driving the tractor with the seed drill to the field.",
+                "Planting seeds using the seed drill."
+            ]
+        },
+        {
+            "task": "Attaching and operating a fertilizer spreader.",
+            "subtasks": [
+                "Walking to the fertilizer spreader.",
+                "Checking the spreader's settings.",
+                "Securing the spreader to the tractor.",
+                "Starting the spreader's engine.",
+                "Attaching fertilizer bags to the spreader.",
+                "Driving the tractor with the spreader to the field.",
+                "Spraying or spreading fertilizer over the field."
+            ]
+        },
+        {
+            "task": "Attaching and using a bale net.",
+            "subtasks": [
+                "Walking to the bale net.",
+                "Checking the bale net's functionality.",
+                "Securing the bale net to the tractor.",
+                "Starting the bale net's engine.",
+                "Driving the tractor with the bale net to the hay field.",
+                "Using the bale net to form hay bales."
+            ]
+        },
+        {
+            "task": "Weighing hay bales with a scale.",
+            "subtasks": [
+                "Walking to the bale scale.",
+                "Preparing the scale to measure bales.",
+                "Loading a bale onto the scale.",
+                "Recording the weight of the bale."
+            ]
         }
     ]
 }

@@ -5,87 +5,415 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Planting a sweet corn seed",
+            "task": "Corn cultivation tasks",
             "subtasks": [
-                "Preparing the soil (checking nutrients, drainage)",
-                "Planting the seed (depth and spacing)"
+                "Selecting seed",
+                "Preparing soil",
+                "Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "Regular watering while avoiding waterlogging",
+                "Pest protection using natural predators or eco-friendly pesticides",
+                "Monitoring ear development",
+                "Harvesting at the optimal time when silk turns brown and husk is green",
+                "Consuming or preserving (freezing) for later use"
             ]
         },
         {
-            "task": "Nurturing the corn plants",
+            "task": "Describing the transformation of seed to sweet corn",
             "subtasks": [
-                "Regular watering (amount and frequency)",
-                "Pest protection (using natural predators or eco-friendly pesticides)"
+                "Explaining the selective breeding of sweet corn for sugar content",
+                "Highlighting the use of modern technology in preservation"
             ]
         },
         {
-            "task": "Harvesting the corn",
+            "task": "Discussing the benefits of cultivation technology",
             "subtasks": [
-                "Checking for maturity (silks turning brown, green husk)",
-                "Timing of harvest (swollen, yellow kernels)"
+                "Mentioning higher yields and better quality crops",
+                "Referencing sustainable farming practices"
             ]
         },
         {
-            "task": "Post-harvest preservation (cooking, freezing)",
+            "task": "MAINTASK: Corn cultivation tasks",
             "subtasks": [
-                "\\<main task\\>, followed by SUBTASK: \\<subtask\\>\\n\" for each step."
+                "Selecting seed",
+                "Preparing soil",
+                "Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "Regular watering while avoiding waterlogging",
+                "Pest protection using natural predators or eco-friendly pesticides",
+                "Monitoring ear development",
+                "Harvesting at the optimal time when silk turns brown and husk is green",
+                "Consuming or preserving (freezing) for later use"
             ]
         },
         {
-            "task": "Soil Preparation",
+            "task": "Describing the transformation of seed to sweet corn",
             "subtasks": [
-                "Check soil nutrients",
-                "Ensure proper drainage"
+                "Explaining the selective breeding of sweet corn for sugar content",
+                "Highlighting the use of modern technology in preservation"
             ]
         },
         {
-            "task": "Planting",
+            "task": "Discussing the benefits of cultivation technology",
             "subtasks": [
-                "Plant seeds at 1-inch depth",
-                "Space plants 8-12 inches apart"
+                "Mentioning higher yields and better quality crops",
+                "Referencing sustainable farming practices"
             ]
         },
         {
-            "task": "Nurturing",
+            "task": "Combining traditional methods with modern tech",
+            "subtasks": []
+        },
+        {
+            "task": "Corn cultivation tasks",
+            "subtasks": []
+        },
+        {
+            "task": "Describing the transformation of seed to sweet corn",
+            "subtasks": []
+        },
+        {
+            "task": "Discussing the benefits of cultivation technology",
+            "subtasks": []
+        },
+        {
+            "task": "Combining traditional methods with modern tech**",
+            "subtasks": []
+        },
+        {
+            "task": "Corn cultivation tasks",
             "subtasks": [
-                "Regular watering (appropriate amount and frequency)",
-                "Pest protection (using natural or eco-friendly methods)"
+                "Selecting seed",
+                "Preparing soil",
+                "Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "Regular watering while avoiding waterlogging",
+                "Pest protection using natural predators or eco-friendly pesticides",
+                "Monitoring ear development",
+                "Harvesting at the optimal time when silk turns brown and husk is green",
+                "Consuming or preserving (freezing) for later use"
             ]
         },
         {
-            "task": "Harvesting",
+            "task": "... (continues the tasks as above).",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK Corn cultivation tasks",
             "subtasks": [
-                "Check silk color and husk condition for maturity",
-                "Harvest ears when kernels are swollen and turned yellow"
+                "SUBTASK Selecting seed",
+                "SUBTASK Preparing soil",
+                "SUBTASK Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "SUBTASK Regular watering while avoiding waterlogging",
+                "SUBTASK Pest protection using natural predators or eco-friendly pesticides",
+                "SUBTASK Monitoring ear development",
+                "SUBTASK Harvesting at the optimal time when silk turns brown and husk is green",
+                "SUBTASK Consuming or preserving (freezing) for later use"
             ]
         },
         {
-            "task": "MAINTASK: Soil Preparation",
+            "task": "MAINTASK Describing the transformation of seed to sweet corn",
             "subtasks": [
-                "Check soil nutrients",
-                "Ensure proper drainage"
+                "SUBTASK Explaining the selective breeding of sweet corn for sugar content",
+                "SUBTASK Highlighting the use of modern technology in preservation"
             ]
         },
         {
-            "task": "Planting",
+            "task": "MAINTASK Discussing the benefits of cultivation technology",
             "subtasks": [
-                "Plant seeds at 1-inch depth",
-                "Space plants 8-12 inches apart"
+                "SUBTASK Mentioning higher yields and better quality crops",
+                "SUBTASK Referencing sustainable farming practices"
             ]
         },
         {
-            "task": "Nurturing",
+            "task": "MAINTASK Corn cultivation tasks",
             "subtasks": [
-                "Regular watering (appropriate amount and frequency)",
-                "Pest protection (using natural or eco-friendly methods)"
+                "SUBTASK Selecting seed",
+                "SUBTASK Preparing soil",
+                "SUBTASK Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "SUBTASK Regular watering while avoiding waterlogging",
+                "SUBTASK Pest protection using natural predators or eco-friendly pesticides",
+                "SUBTASK Monitoring ear development",
+                "SUBTASK Harvesting at the optimal time when silk turns brown and husk is green",
+                "SUBTASK Consuming or preserving (freezing) for later use"
             ]
         },
         {
-            "task": "Harvesting",
+            "task": "MAINTASK Describing the transformation of seed to sweet corn",
             "subtasks": [
-                "Check silk color and husk condition for maturity",
-                "Harvest ears when kernels are swollen and turned yellow"
+                "SUBTASK Explaining the selective breeding of sweet corn for sugar content",
+                "SUBTASK Highlighting the use of modern technology in preservation"
             ]
+        },
+        {
+            "task": "MAINTASK Discussing the benefits of cultivation technology",
+            "subtasks": [
+                "SUBTASK Mentioning higher yields and better quality crops",
+                "SUBTASK Referencing sustainable farming practices"
+            ]
+        },
+        {
+            "task": "Corn cultivation tasks",
+            "subtasks": [
+                "Selecting seed",
+                "Preparing soil",
+                "Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "Regular watering while avoiding waterlogging",
+                "Pest protection using natural predators or eco-friendly pesticides",
+                "Monitoring ear development",
+                "Harvesting at the optimal time when silk turns brown and husk is green",
+                "Consuming or preserving (freezing) for later use"
+            ]
+        },
+        {
+            "task": "Describing the transformation of seed to sweet corn",
+            "subtasks": [
+                "Explaining the selective breeding of sweet corn for sugar content",
+                "Highlighting the use of modern technology in preservation"
+            ]
+        },
+        {
+            "task": "Discussing the benefits of cultivation technology",
+            "subtasks": [
+                "Mentioning higher yields and better quality crops",
+                "Referencing sustainable farming practices"
+            ]
+        },
+        {
+            "task": "Corn cultivation tasks",
+            "subtasks": [
+                "Selecting seed",
+                "Preparing soil",
+                "Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "Regular watering while avoiding waterlogging",
+                "Pest protection using natural predators or eco-friendly pesticides",
+                "Monitoring ear development",
+                "Harvesting at the optimal time when silk turns brown and husk is green",
+                "Consuming or preserving (freezing) for later use"
+            ]
+        },
+        {
+            "task": "Describing the transformation of seed to sweet corn",
+            "subtasks": [
+                "Explaining the selective breeding of sweet corn for sugar content",
+                "Highlighting the use of modern technology in preservation"
+            ]
+        },
+        {
+            "task": "Discussing the benefits of cultivation technology",
+            "subtasks": [
+                "Mentioning higher yields and better quality crops",
+                "Referencing sustainable farming practices"
+            ]
+        },
+        {
+            "task": "Corn cultivation tasks",
+            "subtasks": [
+                "Choosing the right seed",
+                "Preparing the soil for planting",
+                "Planting the corn seeds at the correct depth and spacing",
+                "Managing irrigation to prevent overwatering and ensure proper hydration",
+                "Protecting the corn from pests using eco-friendly methods",
+                "Monitoring the growth of the corn ears",
+                "Harvesting the corn at the optimal maturity stage",
+                "Enjoying the fresh corn or preserving it for later use by freezing"
+            ]
+        },
+        {
+            "task": "Detailing the process of how sweet corn is bred and cultivated",
+            "subtasks": [
+                "Discussing the selective breeding of corn for sweetness and tenderness",
+                "Explaining the role of modern technology in extending the shelf life through freezing"
+            ]
+        },
+        {
+            "task": "Outlining the advantages of modern corn cultivation techniques",
+            "subtasks": [
+                "Highlighting increased yields and better crop quality",
+                "Emphasizing sustainable farming practices"
+            ]
+        },
+        {
+            "task": "Corn cultivation tasks",
+            "subtasks": [
+                "Selecting seed",
+                "Preparing soil",
+                "Planting seeds at proper depth and spacing",
+                "Watering correctly while preventing waterlogging",
+                "Protecting from pests using natural methods",
+                "Monitoring ear development",
+                "Harvesting at the perfect stage",
+                "Consuming or preserving corn"
+            ]
+        },
+        {
+            "task": "Describing the breeding process and modern preservation",
+            "subtasks": [
+                "Breeding for sugar content",
+                "Using freezing technology to preserve sweetness"
+            ]
+        },
+        {
+            "task": "Benefits of technology",
+            "subtasks": [
+                "Higher yields and quality",
+                "Sustainable practices"
+            ]
+        },
+        {
+            "task": "Corn cultivation task description",
+            "subtasks": [
+                "Select suitable seeds",
+                "Prepare soil with proper nutrients and drainage",
+                "Plant seeds 1 inch deep, spaced 8-12 inches apart",
+                "Provide regular irrigation without waterlogging",
+                "Implement pest control using natural or eco-friendly methods",
+                "Monitor ear development for optimal harvest timing",
+                "Harvest when silk turns brown and husk remains green",
+                "Consume or preserve corn through freezing"
+            ]
+        },
+        {
+            "task": "Highlight process transformations",
+            "subtasks": [
+                "Explain selective breeding for sweetness",
+                "Mention modern preservation techniques"
+            ]
+        },
+        {
+            "task": "Discuss benefits",
+            "subtasks": [
+                "Increased yields and quality",
+                "Sustainable farming practices"
+            ]
+        },
+        {
+            "task": "The transcript provides a detailed explanation of sweet corn cultivation, outlining the physical tasks involved from seed selection to harvest and preservation. The key tasks include selecting the right seed, preparing the soil, proper planting, watering, pest control, monitoring ear development, and optimal harvesting. The process of selective breeding for sweetness and modern preservation methods are also highlighted. The benefits include higher yields, better quality, and sustainable farming practices. The script emphasizes the integration of traditional farming knowledge with modern agricultural technology. Thus, the final, concise answer covers these aspects. **Final Answer:** MAINTASK: Corn cultivation tasks",
+            "subtasks": [
+                "Selecting seed",
+                "Preparing soil",
+                "Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "Regular watering while avoiding waterlogging",
+                "Pest protection using natural predators or eco-friendly pesticides",
+                "Monitoring ear development",
+                "Harvesting at the optimal time when silk turns brown and husk is green",
+                "Consuming or preserving (freezing) for later use"
+            ]
+        },
+        {
+            "task": "** MAINTASK: Corn cultivation tasks",
+            "subtasks": [
+                "Selecting seed",
+                "Preparing soil",
+                "Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "Regular watering while avoiding waterlogging",
+                "Pest protection using natural predators or eco-friendly pesticides",
+                "Monitoring ear development",
+                "Harvesting at the optimal time when silk turns brown and husk is green",
+                "Consuming or preserving (freezing) for later use"
+            ]
+        },
+        {
+            "task": "** Corn cultivation tasks",
+            "subtasks": []
+        },
+        {
+            "task": "Corn cultivation tasks",
+            "subtasks": [
+                "Select seed",
+                "Prepare soil",
+                "Plant seed 1 inch deep, 8-12 inches apart",
+                "Water regularly, avoid waterlogging",
+                "Use natural/eco-friendly pest control",
+                "Monitor ear development",
+                "Harvest when silk is brown, husk green",
+                "Consume or freeze"
+            ]
+        },
+        {
+            "task": "Selective breeding for sweetness",
+            "subtasks": []
+        },
+        {
+            "task": "Modern freezing tech preservation",
+            "subtasks": []
+        },
+        {
+            "task": "Higher yields, better quality, sustainable farming",
+            "subtasks": []
+        },
+        {
+            "task": "Traditional and modern tech integration",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Corn cultivation tasks",
+            "subtasks": [
+                "Select seed",
+                "Prepare soil",
+                "Plant seed 1 inch deep, spacing 8-12 inches apart",
+                "Water regularly, avoiding waterlogging",
+                "Apply natural/eco-friendly pest control",
+                "Monitor ear development",
+                "Harvest when silk turns brown, husk remains green",
+                "Consume or preserve (freeze)"
+            ]
+        },
+        {
+            "task": "Selective breeding for sugar content",
+            "subtasks": []
+        },
+        {
+            "task": "Use modern freezing tech for preservation",
+            "subtasks": []
+        },
+        {
+            "task": "Benefits of cultivation tech (higher yields, better quality, sustainability)",
+            "subtasks": []
+        },
+        {
+            "task": "** MAINTASK Corn cultivation tasks",
+            "subtasks": [
+                "SUBTASK Selecting seed",
+                "SUBTASK Preparing soil",
+                "SUBTASK Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "SUBTASK Regular watering while avoiding waterlogging",
+                "SUBTASK Pest protection using natural predators or eco-friendly pesticides",
+                "SUBTASK Monitoring ear development",
+                "SUBTASK Harvesting at the optimal time when silk turns brown and husk is green",
+                "SUBTASK Consuming or preserving (freezing) for later use"
+            ]
+        },
+        {
+            "task": "MAINTASK Corn cultivation tasks",
+            "subtasks": [
+                "SUBTASK Selecting seed",
+                "SUBTASK Preparing soil",
+                "SUBTASK Planting seed 1 inch deep, spacing 8-12 inches apart",
+                "SUBTASK Watering regularly, avoiding waterlogging",
+                "SUBTASK Pest protection using natural or eco-friendly methods",
+                "SUBTASK Monitoring ear development",
+                "SUBTASK Harvesting when silk turns brown and husk remains green",
+                "SUBTASK Consuming or preserving (freezing)"
+            ]
+        },
+        {
+            "task": "** MAINTASK Corn cultivation tasks",
+            "subtasks": [
+                "SUBTASK Selecting_high-quality_seed",
+                "SUBTASK Preparing nutritious soil",
+                "SUBTASK Planting_seed_proper_depth_and_spacing",
+                "SUBTASK_Providing\u9002\u91cf irrigation_\u4f46\u9632\u6b62\u79ef\u6c34",
+                ".SUBTASK_\u4f7f\u7528\u751f\u6001\u53cb\u597d\u578b\u5bb3\u866b\u63a7\u5236\u65b9\u6cd5",
+                "SUBTASK \u6ce8\u610f\u89c2\u5bdf\u679c\u7a57\u53d1\u80b2\u60c5\u51b5",
+                "SUBTASK \u5728\u4e1d\u53d8\u8910\u8272\u3001\u82de\u53f6\u4ecd\u7eff\u8272\u65f6\u91c7\u6536",
+                "SUBTASK \u7acb\u5373\u98df\u7528\u6216\u51b7\u51bb\u4fdd\u5b58"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "** MAINTASK: Corn cultivation tasks",
+            "subtasks": []
         }
     ]
 }

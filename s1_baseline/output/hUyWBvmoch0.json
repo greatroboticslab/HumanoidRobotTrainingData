@@ -5,23 +5,73 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Farmer's Daily Tasks",
+            "task": "Cleaning and preparing for the day",
             "subtasks": [
-                "Cleaning personal space (room cleaning)",
-                "Responding to customer emails",
-                "Preparing meals (fast breakfast, thawing chicken)",
-                "Morning farm chores",
-                "Packing curbside pickup orders",
-                "Feeding chicks in the brooder",
+                "Cleaning the room"
+            ]
+        },
+        {
+            "task": "Morning chores",
+            "subtasks": [
+                "Thawing chicken for dinner",
+                "Making breakfast",
+                "Packing curbside pickup orders"
+            ]
+        },
+        {
+            "task": "Caring for chicks",
+            "subtasks": [
+                "Feeding chicks",
+                "Watering chicks"
+            ]
+        },
+        {
+            "task": "Feeding and checking pigs",
+            "subtasks": [
                 "Filling pig feed buckets",
-                "Visiting and feeding pigs at the north woods",
-                "Filling feeders for meat chickens in the east pasture",
-                "Moving sheep to a new area with electric netting",
-                "Packing orders for shipment",
-                "Assisting with sheep feed and fence setup",
-                "Brushing the family dog (Bailey)",
-                "Dinner preparation (homemade chips, fried chicken, salad)",
-                "Daily formatting tasks and video editing"
+                "Checking electric wire for pigs"
+            ]
+        },
+        {
+            "task": "Feeding and checking meat chickens",
+            "subtasks": [
+                "Filling feeders for meat chickens",
+                "Checking water for meat chickens"
+            ]
+        },
+        {
+            "task": "Moving sheep",
+            "subtasks": [
+                "Setting up new area with electric netting for sheep",
+                "Moving pen and water for sheep",
+                "Activating electric netting for sheep"
+            ]
+        },
+        {
+            "task": "Packing orders for shipping",
+            "subtasks": []
+        },
+        {
+            "task": "Afternoon tasks",
+            "subtasks": [
+                "Feeding and checking sheep again"
+            ]
+        },
+        {
+            "task": "Preparing and packing orders for home delivery",
+            "subtasks": []
+        },
+        {
+            "task": "Dinner preparations",
+            "subtasks": [
+                "Making homemade chips and fried chicken",
+                "Preparing green salad"
+            ]
+        },
+        {
+            "task": "Evening chores",
+            "subtasks": [
+                "Brushing dog Bailey"
             ]
         }
     ]

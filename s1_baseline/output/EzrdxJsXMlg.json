@@ -5,169 +5,940 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Operator gets on the loader to check the fuel gauge",
+            "task": "Driving horses onto trailer",
             "subtasks": [
-                "Step onto the loader seat",
-                "Look down to read the fuel gauge"
+                "Approach horses",
+                "Attach horses to trailer",
+                "Ensure safety equipment is secure",
+                "Secure horses on trailer"
             ]
         },
         {
-            "task": "Driver reverses the loader to road",
+            "task": "Attaching trailer to vehicle",
             "subtasks": [
-                "Engage reverse gears",
-                "Check rearview mirrors or turn head to observe surroundings",
-                "Slowly release the brakes and begin reversing"
+                "Connect trailer to vehicle",
+                "Check connections for safety"
             ]
         },
         {
-            "task": "Operator waits for delivery of hay from the field",
+            "task": "Unloading horses from trailer",
             "subtasks": [
-                "Remain seated and monitor fuel gauge",
-                "Keep an eye on time until hay delivery"
+                "Approach trailer",
+                "Open trailer doors",
+                "Assist horses off trailer safely",
+                "Ensure horses are properly loaded back into stalls or pen"
             ]
         },
         {
-            "task": "Drive the loader to the hay shed",
+            "task": "Tackling horses for transport",
             "subtasks": [
-                "Navigate the loader onto the main road",
-                "Align the loader towards the hay shed entrance",
-                "Approach the hay shed slowly and park inside"
+                "Prepare tack",
+                "Secure horses with tethers",
+                "Load horses onto trailers or leads"
             ]
         },
         {
-            "task": "Push the hay bales from the trailer into the hay shed",
+            "task": "Training horses for towing",
             "subtasks": [
-                "Approach the trailer with the loader bucket",
-                "Lift the first bale onto the loader bucket",
-                "Position the bucket under the bale, engage the forks or scoop",
-                "Lift the bale onto the loader and secure it",
-                "Drive the loader towards the hay shed doors",
-                "Position the bale close to the doors",
-                "Discharge the bale into the hay shed",
-                "Repeat the process for each subsequent bale"
+                "Teach horses to pull a trailer",
+                "Practice starts and stops",
+                "Reinforce commands"
             ]
         },
         {
-            "task": "Attach the trailer to the loader",
+            "task": "Grooming horses",
             "subtasks": [
-                "Approach the trailer with the loader",
-                "Position the loader near the trailer hitch",
-                "Engage the trailer coupling mechanism",
-                "Secure the coupling pins or chains"
+                "Brush horse coat",
+                "Clean horse hooves",
+                "Check for parasites or injuries"
             ]
         },
         {
-            "task": "Operator parks the loader on the main road by the field",
+            "task": "Feeding horses at the faciility",
             "subtasks": [
-                "Shift the loader into park",
-                "Apply the parking brake",
-                "Turn off the engine",
-                "Open the cab doors and exit the loader"
+                "Prepare feed",
+                "Distribute feed to stalls",
+                "Monitor horses' eating patterns"
             ]
         },
         {
-            "task": "Check the fuel gauge",
+            "task": "Trimming horses' hooves",
             "subtasks": [
-                "Look down at the fuel indicator",
-                "Note the remaining fuel quantity"
+                "Restrain horse",
+                "Prepare tools",
+                "Trim excess hoof",
+                "Apply hoof dressing"
             ]
         },
         {
-            "task": "Operator sends a text message to the farmer",
+            "task": "Administering medication to horses",
             "subtasks": [
-                "Unlock phone with touchscreen",
-                "Open messaging app or\u62e8\u6253\u7535\u8bdd",
-                "Typeshortcode Message: \"Hay delivered\"",
-                "Send the message"
+                "Locate proper dosage",
+                "Prepare medication",
+                "Safely administer to horse"
             ]
         },
         {
-            "task": "Attach the trailer back onto the loader if necessary",
+            "task": "Conducting basic first aid on horses",
             "subtasks": [
-                "Reverse the process of attaching the trailer"
+                "Assess injury or illness",
+                "Apply bandages or treatment",
+                "Contact veterinarian if necessary"
             ]
         },
         {
-            "task": "Operator gets on the loader to check the fuel gauge",
+            "task": "Collecting feed samples",
             "subtasks": [
-                "Step onto the loader seat",
-                "Look down to read the fuel gauge"
+                "Identify representative samples",
+                "Proper collection technique",
+                "Transport samples to testing facility"
             ]
         },
         {
-            "task": "Driver reverses the loader to road",
+            "task": "Operating hay baler",
             "subtasks": [
-                "Engage reverse gears",
-                "Check rearview mirrors or turn head",
-                "Slowly release brakes and reverse"
+                "Set up baler equipment",
+                "Load hay into baler",
+                "Operate baler arms and mechanism",
+                "Unwind and stack hay bales",
+                "Load bales onto trucks"
             ]
         },
         {
-            "task": "Operator waits for hay delivery",
+            "task": "Ploughing fields",
             "subtasks": [
-                "Remain seated and monitor fuel gauge",
-                "Keep an eye on time"
+                "Adjust plough settings",
+                "Hitch plough to tractor",
+                "Drive tractor and control plough depth"
             ]
         },
         {
-            "task": "Drive loader to the hay shed",
+            "task": "Planting seeds into ploughed field",
             "subtasks": [
-                "Navigate onto the main road",
-                "Align towards the hay shed entrance",
-                "Park inside"
+                "Prepare seed drill or planter",
+                "Load seeds into machine",
+                "Position machine on field",
+                "Operate planting equipment"
             ]
         },
         {
-            "task": "Push hay bales into the hay shed",
+            "task": "Harvesting with combine",
             "subtasks": [
-                "Unfasten bale restraints",
-                "Position loader bucket under bale",
-                "Lift and secure bale onto bucket",
-                "Drive towards hay shed doors",
-                "Position bale near entrance",
-                "Discharge bale inside",
-                "Repeat for remaining bales"
+                "Set combine header for crop type",
+                "Attach threshing system",
+                "Operate combine to cut, thresh, and dump grain"
             ]
         },
         {
-            "task": "Attach trailer to loader",
+            "task": "Milking cows",
             "subtasks": [
-                "Position loader next to trailer",
-                "Engage trailer coupling",
-                "Secure coupling"
+                "Groom cow udders",
+                "Attach milking machine",
+                "Monitor milk flow",
+                "Detach machine and clean"
             ]
         },
         {
-            "task": "Operator parks the loader by the field",
+            "task": "Feeding cows at the ranch",
             "subtasks": [
-                "Shift into park",
-                "Apply parking brake",
-                "Turn off engine",
-                "Exit loader"
+                "Prepare feed mix",
+                "Distribute feed in troughs or bales",
+                "Adjust feed ration based on stage of lactation"
             ]
         },
         {
-            "task": "Check fuel gauge",
+            "task": "Collecting eggs from chicken coop",
             "subtasks": [
-                "Look down to check",
-                "Note fuel level"
+                "Open henhouse doors",
+                "Gather eggs from nesting boxes",
+                "Store eggs in trays or cartons"
             ]
         },
         {
-            "task": "Send text message to farmer",
+            "task": "Checking livestock for signs of distress",
             "subtasks": [
-                "Unlock phone",
-                "Open messaging app",
-                "Enter message: \"Hay delivered\"",
-                "Send message"
+                "Inspect animals for lameness",
+                "Look for abnormal behaviors",
+                "Note any health concerns"
             ]
         },
         {
-            "task": "Reattach trailer if needed",
+            "task": "Conducting regular barn maintenance",
             "subtasks": [
-                "Disconnect trailer coupling",
-                "Check trailer stability",
-                "Reconnect if necessary"
+                "Inspect roof and walls for leaks",
+                "Repair stalls or pens",
+                "Clean water troughs and feeders"
+            ]
+        },
+        {
+            "task": "Handling bull",
+            "subtasks": [
+                "Approach bull carefully",
+                "Attach halter or headgate",
+                "Restrain for examination or treatment"
+            ]
+        },
+        {
+            "task": "Bracing fence",
+            "subtasks": [
+                "Identify damaged sections",
+                "Prepare materials (posts, wire)",
+                "Reattatch wire or mend posts"
+            ]
+        },
+        {
+            "task": "Cleaning stalls or pen areas",
+            "subtasks": [
+                "Remove manure and bedding",
+                "Wash surfaces with hose or power washer",
+                "Disinfect with cleaning solution"
+            ]
+        },
+        {
+            "task": "Processing beehives",
+            "subtasks": [
+                "Open hives carefully to inspect",
+                "Check for queen presence",
+                "Remove old comb or debris"
+            ]
+        },
+        {
+            "task": "Managing irrigation system",
+            "subtasks": [
+                "Check water pressure and flow",
+                "Operate valves to distribute water evenly",
+                "Repair leaks or damaged lines"
+            ]
+        },
+        {
+            "task": "Applying fertilizer to fields",
+            "subtasks": [
+                "Connect fertilizer spreader to tractor",
+                "Adjust spread rate and width",
+                "Drive tractor through field, applying fertilizer"
+            ]
+        },
+        {
+            "task": "Collecting honey from beehives",
+            "subtasks": [
+                "Assemble smoking material",
+                "Wait for bees to settle",
+                "Use extractor to remove frames",
+                "Capping excess liquid and store",
+                "Check for new honey production"
+            ]
+        },
+        {
+            "task": "Assisting with birthing in livestock",
+            "subtasks": [
+                "Recognize signs of labor",
+                "Prepare assistance area",
+                "Monitor progress and intervene if necessary"
+            ]
+        },
+        {
+            "task": "Mounding wheat",
+            "subtasks": [
+                "Set combine header for mounding",
+                "Calibrate fertilizer spreader",
+                "Adjust combine's maul position",
+                "Operate combine to mow and apply fertilizer"
+            ]
+        },
+        {
+            "task": "Animal husbandry in a dairy farm",
+            "subtasks": [
+                "Milk cows multiple times a day",
+                "Check cows for signs of health issues",
+                "Provide fresh bedding in stalls"
+            ]
+        },
+        {
+            "task": "Collecting maple syrup",
+            "subtasks": [
+                "Tap trees for sap collection",
+                "Boil sap to concentrate into syrup",
+                "Filter sap to remove impurities"
+            ]
+        },
+        {
+            "task": "Operating chain saw for logging",
+            "subtasks": [
+                "Stump removal",
+                "Limbing fallen trees",
+                "Cut firewood into manageable lengths"
+            ]
+        },
+        {
+            "task": "Feeding sheep at the farm",
+            "subtasks": [
+                "Prepare feeding menu suitable for different breeds",
+                "Distribute hay or pelleted feed",
+                "Regularly check waters and salt licks"
+            ]
+        },
+        {
+            "task": "Repairing equipment",
+            "subtasks": [
+                "Identify malfunctioning part",
+                "Order or locate replacement",
+                "Reinstall part and test equipment"
+            ]
+        },
+        {
+            "task": "Operating rotary mower",
+            "subtasks": [
+                "Start mower and warm up",
+                "Adjust height for grass length",
+                "Maneuver mower around field edges"
+            ]
+        },
+        {
+            "task": "Collecting swine waste",
+            "subtasks": [
+                "Suck out manure from confinement barns",
+                "Transfer to composting facility",
+                "Add bedding material to pens"
+            ]
+        },
+        {
+            "task": "Fencing pasture for rotational grazing",
+            "subtasks": [
+                "Layout fencing layout",
+                "Drive posts into ground",
+                "Install barbed wire or electric fencing posts",
+                "Connect fence panels"
+            ]
+        },
+        {
+            "task": "Driving tractor pulling sprinkler system",
+            "subtasks": [
+                "Operate water pump and pressure regulator",
+                "Distribute water evenly over field",
+                "Monitor sprinkler heads for obstructions"
+            ]
+        },
+        {
+            "task": "Installing windbreaks in orchards",
+            "subtasks": [
+                "Select appropriate tree species",
+                "Plant trees in rows",
+                "Stake and irrigate newly planted trees"
+            ]
+        },
+        {
+            "task": "Working with rough terrain vehicle (UTV)",
+            "subtasks": [
+                "Navigate uneven terrain",
+                "Install necessary equipment for job (e.g., mowers, spreaders)",
+                "Ensure proper operator training"
+            ]
+        },
+        {
+            "task": "Operating mechanical harvester",
+            "subtasks": [
+                "Attach sickle bar or cylinder",
+                "Set speed and cutting height",
+                "Drive through field, separating grain from chaff"
+            ]
+        },
+        {
+            "task": "Earthing up potatoes",
+            "subtasks": [
+                "Position plow to cut rows",
+                "Lower plow to turn up soil over crops",
+                "Pull seeder to plant subsequent crops"
+            ]
+        },
+        {
+            "task": "Treating apple trees for pests",
+            "subtasks": [
+                "Identify pest damage on fruit or leaves",
+                "Select appropriate pesticide",
+                "Apply treatment via sprayer"
+            ]
+        },
+        {
+            "task": "Conducting chemical application on crops",
+            "subtasks": [
+                "Mix chemicals according to label",
+                "Check application rates and coverage",
+                "Apply via air-blast sprayer or backpack sprayer"
+            ]
+        },
+        {
+            "task": "Operating horse-drawn wagon",
+            "subtasks": [
+                "Hitch wagon to horse",
+                "Guide horse and wagon along trail",
+                "Load and unload equipment or supplies"
+            ]
+        },
+        {
+            "task": "Crop rotation planning",
+            "subtasks": [
+                "Evaluate current crop yield",
+                "Determine optimal rotation sequence",
+                "Mark fields with intended crops for next season"
+            ]
+        },
+        {
+            "task": "Fixing fence line in pasture",
+            "subtasks": [
+                "Identify broken or missing fence panels",
+                "Replace or repair fence posts and wires",
+                "Tighten slack and reinforce anchor points"
+            ]
+        },
+        {
+            "task": "Feeding alpacas at the farm",
+            "subtasks": [
+                "Adapt feed to their specific diet needs",
+                "Distribute hay or pellets",
+                "Monitor water and mineral consumption"
+            ]
+        },
+        {
+            "task": "Sweating horses",
+            "subtasks": [
+                "Bring horses inside barn for ventilation",
+                "Check bedding and clean stalls",
+                "Allow horses to rest and recover"
+            ]
+        },
+        {
+            "task": "Processing eggs at the farm",
+            "subtasks": [
+                "Grade and sort eggs for freshness",
+                "Pack eggs into cartons or trays",
+                "Store properly for market or transportation"
+            ]
+        },
+        {
+            "task": "Managing irrigation by hand",
+            "subtasks": [
+                "Water crops with hose or sprinkler",
+                "Manual distribution around irregularly shaped fields",
+                "Check for water sources and pressure"
+            ]
+        },
+        {
+            "task": "Handling calves for vaccinations",
+            "subtasks": [
+                "Induce calm demeanor in calf",
+                "Administer vaccines in proper dosage",
+                "Secure calf until vaccine takes effect"
+            ]
+        },
+        {
+            "task": "Treating minor livestock injuries",
+            "subtasks": [
+                "Clean wound area with antiseptic",
+                "Apply antibiotic ointment or bandage",
+                "Administer pain relief if needed"
+            ]
+        },
+        {
+            "task": "Conducting manure spreader checks",
+            "subtasks": [
+                "Visual inspection for wear and tear",
+                "Test spread patterns and uniformity",
+                "Lubricate moving parts as necessary"
+            ]
+        },
+        {
+            "task": "Sorting potatoes by size",
+            "subtasks": [
+                "Lay out large mesh sieves or trays",
+                "Wash potatoes under water",
+                "Manually sort into different sized piles"
+            ]
+        },
+        {
+            "task": "Building a compost mound",
+            "subtasks": [
+                "Collect organic materials (e.g., leaves, manure)",
+                "Layer materials with grass clippings",
+                "Add nitrogen sources and turn periodically"
+            ]
+        },
+        {
+            "task": "Collecting wildflowers for basket weaving",
+            "subtasks": [
+                "Identify appropriate species",
+                "Harvest flowers without damaging plants",
+                "Prepare dried materials for crafting projects"
+            ]
+        },
+        {
+            "task": "Hand-harvesting crops",
+            "subtasks": [
+                "Identify ripe fruits or vegetables",
+                "Use appropriate tools (knives, pruning shears)",
+                "Package produce for market or storage"
+            ]
+        },
+        {
+            "task": "Operating front-end loader on a tractor",
+            "subtasks": [
+                "Attach loader bucket",
+                "Position loader to lift and carry materials",
+                "Transfer materials like dirt or mulch"
+            ]
+        },
+        {
+            "task": "Feeding guinea pigs in the pet area",
+            "subtasks": [
+                "Prepare fresh vegetables and hay",
+                "Distribute food in feeding bowls",
+                "Clean up uneaten food to prevent spoilage"
+            ]
+        },
+        {
+            "task": "Attending to a piglet's needs",
+            "subtasks": [
+                "Check for proper hydration",
+                "Ensure warm environment",
+                "Weigh and monitor growth rate"
+            ]
+        },
+        {
+            "task": "Hauling grain with a truck",
+            "subtasks": [
+                "Load grain into truck beds",
+                "Secure loads for transport",
+                "Start and operate truck to destination"
+            ]
+        },
+        {
+            "task": "Aiding in surgical procedures on livestock",
+            "subtasks": [
+                "Assist veterinarian in the stall or facility",
+                "Administer sedatives or pain relief as needed",
+                "Help monitor patient vital signs"
+            ]
+        },
+        {
+            "task": "Operating hay tiers",
+            "subtasks": [
+                "Assemble haystack structure",
+                "Position bales onto tiers",
+                "Maintain lateral support with poles or wires"
+            ]
+        },
+        {
+            "task": "Caring for foals (baby horses)",
+            "subtasks": [
+                "Check for signs of illness or injury",
+                "Ensure proper bonding with mother",
+                "Feeding and nursery care"
+            ]
+        },
+        {
+            "task": "Conducting field trials for new crop variety",
+            "subtasks": [
+                "Plant test plots with different seed mixes",
+                "Monitor growth rates and yield",
+                "Collect data on moisture uptake and pest resistance"
+            ]
+        },
+        {
+            "task": "Operating mobile dairy parlor",
+            "subtasks": [
+                "Secure milking unit to cow",
+                "Adjust milking attachment points",
+                "Start milking process and monitor pump function"
+            ]
+        },
+        {
+            "task": "Strategic planting of shrubs and trees",
+            "subtasks": [
+                "Choose locations based on sunlight and water availability",
+                "Dig planting holes with proper spacing",
+                "Backfill with soil and water in to settle"
+            ]
+        },
+        {
+            "task": "Constructing a bee colony splitter board",
+            "subtasks": [
+                "Gather pieces of wood",
+                "Precise cutting with hand saw",
+                "Assemble joints with nails or screws"
+            ]
+        },
+        {
+            "task": "Soreneck treatment on horse",
+            "subtasks": [
+                "Identify localized swelling",
+                "Apply cooling rubdown",
+                "Rest horse and monitor recovery"
+            ]
+        },
+        {
+            "task": "Deer fertility control using vaccines",
+            "subtasks": [
+                "Locate adult female deer",
+                "Administer vaccine from dart gun",
+                "Monitor for effectiveness and side effects"
+            ]
+        },
+        {
+            "task": "Feeding poultry during heat stress",
+            "subtasks": [
+                "Provide cool water sources",
+                "Increase feed with moisture content",
+                "Offer shade to nesting areas"
+            ]
+        },
+        {
+            "task": "Prepping goat feed",
+            "subtasks": [
+                "Mix hay, grains, and supplements",
+                "Churn feed into dough-like consistency",
+                "Serve in food troughs"
+            ]
+        },
+        {
+            "task": "Applying fertilizer foliar spray",
+            "subtasks": [
+                "Mix micronutrients with water in tank",
+                "Attach sprayer to tractor or knapsack setup",
+                "Spray liquid fertilizer on foliage"
+            ]
+        },
+        {
+            "task": "Feeding exotic animals (e.g., llamas)",
+            "subtasks": [
+                "Adapt diet to species' natural consumption",
+                "Distribute hay, pellets, and fresh produce",
+                "Hydrate with clean water daily"
+            ]
+        },
+        {
+            "task": "Conducting regular pasture assessments",
+            "subtasks": [
+                "Evaluate grass height and density",
+                "Identify areas prone to erosion or pests",
+                "Map out rotation plans for future seasons"
+            ]
+        },
+        {
+            "task": "Administering deworming medication to livestock",
+            "subtasks": [
+                "Collect appropriate dosages per animal",
+                "Use soft tubes to deliver medication orally",
+                "Confirm all animals have been treated"
+            ]
+        },
+        {
+            "task": "Draining and levelling a field",
+            "subtasks": [
+                "Use grading tools like rotary tiller or sod cutter",
+                "Test slope with level",
+                "Re-grant areas as necessary until even"
+            ]
+        },
+        {
+            "task": "Transplanting seedlings",
+            "subtasks": [
+                "Water seedlings prior to moving",
+                "Lay out transplanter or use hands",
+                "Gently place into prepared rows, firm soil"
+            ]
+        },
+        {
+            "task": "Managing apple tree pruning",
+            "subtasks": [
+                "Remove dead or crossing branches",
+                "Thin overly dense canopies",
+                "Shape trees for optimal fruit production"
+            ]
+        },
+        {
+            "task": "Operating a GPS-guided tractor",
+            "subtasks": [
+                "Input planting or harvesting patterns",
+                "Follow satellite maps for precision",
+                "Adjust machine to stay on course"
+            ]
+        },
+        {
+            "task": "Driving a combine harvester",
+            "subtasks": [
+                "Operate steering and speed controls",
+                "Adjust threshing depth",
+                "Separate grain automatically"
+            ]
+        },
+        {
+            "task": "Conducting animal welfare checks",
+            "subtasks": [
+                "Inspect animals for injuries or stress",
+                "Provide comfort and reassurance",
+                "Document any issues for follow-up care"
+            ]
+        },
+        {
+            "task": "Constructing fencing for young stock",
+            "subtasks": [
+                "ERect temporary barriers",
+                "Use fence netting or electric tape",
+                "Secure to existing frame"
+            ]
+        },
+        {
+            "task": "Inspecting apple orchard for diseases",
+            "subtasks": [
+                "Check trees for signs of leaf spot or fungus",
+                "Collect samples for lab analysis",
+                "Suggest appropriate fungicides or biological control"
+            ]
+        },
+        {
+            "task": "Administering mineral supplement to livestock",
+            "subtasks": [
+                "Create custom feeds with mineral mix",
+                "Monitor mineral use and adjust formulations",
+                "Test rumen microbial activity"
+            ]
+        },
+        {
+            "task": "Sterilizing surgical instruments",
+            "subtasks": [
+                "Wash tools with soap and water",
+                "Immerse in boiling water or autoclave",
+                "Air dry and store in sterile container"
+            ]
+        },
+        {
+            "task": "Switching between tractors and trucks",
+            "subtasks": [
+                "Prepare tractor for load transfer",
+                "Gaeitheron from horse to trailer",
+                "Transfer cargo to truck bed"
+            ]
+        },
+        {
+            "task": "Operating a rotary brush mower",
+            "subtasks": [
+                "Assemble mower to tractor",
+                "Set speed and direction",
+                "Mow edges of fields"
+            ]
+        },
+        {
+            "task": "Assisting with lambing",
+            "subtasks": [
+                "Help ewes encircle with blankets",
+                "Hold legs or head to guide delivery",
+                "Monitor ewe and lamb after birth"
+            ]
+        },
+        {
+            "task": "Watering horses using well system",
+            "subtasks": [
+                "Operate priming lever on pump",
+                "Turn on water valves and restrictor",
+                "Adjust flow to appropriate pressure"
+            ]
+        },
+        {
+            "task": "Feeding turkeys in the barn",
+            "subtasks": [
+                "Prepare mash feed with supplements",
+                "Distribute evenly in feed troughs",
+                "Check for leftover feed and freshness"
+            ]
+        },
+        {
+            "task": "Driving covered wagons",
+            "subtasks": [
+                "Attach cover to wagon body",
+                "Maneuver through rough terrain",
+                "Carry perishable goods or livestock supplies"
+            ]
+        },
+        {
+            "task": "Collecting nuts from orchards",
+            "subtasks": [
+                "Shake branches with pole to dislodge nuts",
+                "Collect fallen nuts in baskets",
+                "Sort viable nuts from debris"
+            ]
+        },
+        {
+            "task": "Conducting molting season management",
+            "subtasks": [
+                "Identify birds entering molting phase",
+                "Adjust diet to support feather regrowth",
+                "Prevent predators during vulnerable period"
+            ]
+        },
+        {
+            "task": "Applying insecticides to pasture",
+            "subtasks": [
+                "Select label-approved product",
+                "Calculate spray coverage area",
+                "Spray even distribution from a rig"
+            ]
+        },
+        {
+            "task": "Winterizing livestock facilities",
+            "subtasks": [
+                "Check insulation and heating sources",
+                "Block drafts with burlap or tarps",
+                "Inspect pipes and drains for freezing"
+            ]
+        },
+        {
+            "task": "Helping with weaning calves",
+            "subtasks": [
+                "Separate mother and calf temporarily",
+                "Gradually reduce milk intake",
+                "Transition to solid feed"
+            ]
+        },
+        {
+            "task": "Treating overgrown tail in swine",
+            "subtasks": [
+                "Examine tail for signs of irritation",
+                "Trim excess hair or skin using clippers",
+                "Apply antifungal cream if needed"
+            ]
+        },
+        {
+            "task": "Culling sick animals",
+            "subtasks": [
+                "Identify infected or unresponsive to treatment",
+                "Euthanize humanely using proper technique",
+                "Disinfect area and dispose of remains"
+            ]
+        },
+        {
+            "task": "Operating a skid steer loader",
+            "subtasks": [
+                "Attach forks or auger attachments",
+                "Drive through tight spaces",
+                "Load or unload materials efficiently"
+            ]
+        },
+        {
+            "task": "Troubleshooting equipment issues",
+            "subtasks": [
+                "Locate source of problem (e.g., clogged skid steer nozzle)",
+                "Clean or replace broken part",
+                "Re-assemble machine and test"
+            ]
+        },
+        {
+            "task": "Building rabbit hutches",
+            "subtasks": [
+                "Assemble wood or mesh frames",
+                "Insulate and ventilate appropriately",
+                "Install feeding and water stations"
+            ]
+        },
+        {
+            "task": "Administering supplemental feed to fish",
+            "subtasks": [
+                "Mix feed with appropriate dissolved oxygen levels",
+                "Distribute via floating feeders or boat pumps",
+                "Monitor fish activity and adjust feeding times"
+            ]
+        },
+        {
+            "task": "Handling a bull for artificial insemination",
+            "subtasks": [
+                "Encourage docile behavior",
+                "Apply pre-estrus synchronization",
+                "Insert AI instruments under supervision"
+            ]
+        },
+        {
+            "task": "Using drag harrows for field preparation",
+            "subtasks": [
+                "Adjust spacing between tines",
+                "Pull over field, leveling uneven surfaces",
+                "Repeat passes for optimal results"
+            ]
+        },
+        {
+            "task": "Miking grain heads with a grain probe",
+            "subtasks": [
+                "Insert probe into center of head",
+                "Collect samples for moisture content",
+                "Record results and adjust harvest timing"
+            ]
+        },
+        {
+            "task": "Goat milking at a small farm",
+            "subtasks": [
+                "Condition goats to hand milking",
+                "Position goats on a platform",
+                "Use suction cup milking attachment"
+            ]
+        },
+        {
+            "task": "Preparing pasture for overseeding",
+            "subtasks": [
+                "Kill existing weeds or grasses with herbicides",
+                "Aerate soil and remove debris",
+                "Apply grass seeds and cover with mulch"
+            ]
+        },
+        {
+            "task": "Operating a quad bike for ranch patrols",
+            "subtasks": [
+                "Check property boundaries and fences",
+                "Inspect water sources and fencing",
+                "Report any damages or issues to maintenance"
+            ]
+        },
+        {
+            "task": "Switching from quail to chickens for feed",
+            "subtasks": [
+                "Gradually adjust feed composition",
+                "Ensure nutritional balance for different species",
+                "Adapt watering systems for increased demand"
+            ]
+        },
+        {
+            "task": "Naic urine samples in a livestock setting",
+            "subtasks": [
+                "Collect spot samples from livestock",
+                "Follow strict hygienic practices",
+                "Forward samples to diagnostic lab"
+            ]
+        },
+        {
+            "task": "Conducting survey of plant species on the farm",
+            "subtasks": [
+                "Catalog different plants observed",
+                "Assess their usefulness (e.g., medicinal, fodder)"
+            ]
+        },
+        {
+            "task": "Managing clover for nutritional benefits",
+            "subtasks": [
+                "Plant clover in rotation crops",
+                "Monitor seedling emergence during tillage",
+                "Evaluate clover growth and nitrogen contribution"
+            ]
+        },
+        {
+            "task": "Operating a grain dryer",
+            "subtasks": [
+                "Load grain into dryer bin",
+                "Set temperature and airflow rates",
+                "Monitor grain condition and adjust settings"
+            ]
+        },
+        {
+            "task": "Creating a rotation grazing schedule",
+            "subtasks": [
+                "Divide pasture into paddocks",
+                "Determine rotation sequence based on regrowth rates",
+                "Rotate livestock every 2-3 days"
             ]
         }
     ]

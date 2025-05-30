@@ -5,36 +5,73 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Constructing a rope pump for accessing clean water",
+            "task": "Construct and operate a low-cost rope pump for water extraction.",
             "subtasks": [
-                "Digging a 20-foot hand-dug well",
-                "Cutting wood for the pump's rotating mechanism",
-                "Drilling holes using a homemade hole saw",
-                "Crafting wood bearings for smooth operation",
-                "Preparing glass bottles to reduce friction",
-                "Fabricating tire pistons from used sidewalls",
-                "Assembling the double piston arrangement",
-                "Assembling the PVC pipe system",
-                "Setting up a three-row water distribution system",
-                "Installing a Visqueen drip irrigation system",
-                "Connecting the pump using rope and pistons",
-                "Securing wood and fabric for pump protection",
-                "Maintaining a clean water source with well casing"
+                "Gather local materials such as PVC pipe, poly rope, wood, used car tire, glass bottles, wire, wax, nails, and bolts.",
+                "Use hand tools like a hand saw, hand drill, knife, and wrenches to build the pump.",
+                "Create a hole saw from a bicycle frame for drilling the well.",
+                "Prepare wood bearings and coat them with wax for smooth operation.",
+                "Install glass bottles at the top and bottom of the pump to reduce rope friction.",
+                "Make pistons from the tire sidewall and set up a double piston arrangement for efficiency.",
+                "Assemble the pump to connect to a 20-foot hand-dug well.",
+                "Operate the pump using arms or legs to lift water up through the PVC pipe."
             ]
         },
         {
-            "task": "Operating the rope pump for agricultural irrigation",
+            "task": "Set up a distribution system for agricultural use.",
             "subtasks": [
-                "Driving the pump with legs for agricultural needs",
-                "Managing the irrigation system to distribute water evenly"
+                "Construct a three-row water distribution system using wood and painted fabric.",
+                "Connect a Visqueen drip irrigation system for reduced water needs."
             ]
         },
         {
-            "task": "Building the water distribution and irrigation system",
+            "task": "Maintain the pump and distribution system.",
             "subtasks": [
-                "Constructing a wooden frame for the distribution system",
-                "Attaching painted fabric to direct water flow",
-                "Designing the Visqueen drip irrigation setup"
+                "Perform regular checks and maintenance on the pump components.",
+                "Replace worn parts such as the rope, pistons, or glass bottles as needed.",
+                "Inspect the drip irrigation system for leaks or blockages and address issues."
+            ]
+        },
+        {
+            "task": "Protect the water source from contamination.",
+            "subtasks": [
+                "Ensure the well is cased with wood to prevent contamination.",
+                "Use a protected well casing for domestic water needs to keep the source clean."
+            ]
+        },
+        {
+            "task": "Construct and operate a low-cost rope pump for water extraction.",
+            "subtasks": [
+                "Gather local materials such as PVC pipe, poly rope, wood, used car tire, glass bottles, wire, wax, nails, and bolts.",
+                "Use hand tools like a hand saw, hand drill, knife, and wrenches to build the pump.",
+                "Create a hole saw from a bicycle frame for drilling the well.",
+                "Prepare wood bearings and coat them with wax for smooth operation in this wet environment.",
+                "Install glass bottles at the top and bottom of the pump to reduce rope friction.",
+                "Make pistons from the tire sidewall and set up a double piston arrangement for increased efficiency and extended rope life.",
+                "Assemble the pump to connect to a 20-foot hand-dug well.",
+                "Operate the pump using arms or legs to lift water up through the PVC pipe."
+            ]
+        },
+        {
+            "task": "Set up a distribution system for agricultural use.",
+            "subtasks": [
+                "Construct a three-row water distribution system using wood and painted fabric.",
+                "Connect a Visqueen drip irrigation system that reduces water needs."
+            ]
+        },
+        {
+            "task": "Maintain the pump and distribution system.",
+            "subtasks": [
+                "Perform regular checks and maintenance on the pump components.",
+                "Replace worn parts such as the rope, pistons, or glass bottles as needed.",
+                "Inspect the drip irrigation system for leaks or blockages and address issues."
+            ]
+        },
+        {
+            "task": "Protect the water source from contamination.",
+            "subtasks": [
+                "Ensure the well is cased with wood to prevent contamination.",
+                "Use a protected well casing for domestic water needs to keep the source clean."
             ]
         }
     ]

@@ -3,5 +3,32 @@
     "title": "Unknown Title",
     "url": "https://www.youtube.com/watch?v=5cpOCO1Yglw",
     "category": "Unknown Category",
-    "tasks": []
+    "tasks": [
+        {
+            "task": "Transcribe video transcript",
+            "subtasks": [
+                "Position self in front of camera",
+                "Speak clearly and audibly into microphone",
+                "Navigate to start and end points of transcription",
+                "Handle potential equipment malfunctions"
+            ]
+        },
+        {
+            "task": "Transcribe video transcript",
+            "subtasks": [
+                "Position self in front of camera",
+                "Speak clearly and audibly into microphone",
+                "Navigate to start and end points of transcription",
+                "Handle potential equipment malfunctions"
+            ]
+        },
+        {
+            "task": "Position self in front of camera",
+            "subtasks": [
+                "Speak clearly and audibly into microphone",
+                "Navigate to start and end points of transcription",
+                "Handle potential equipment malfunctions"
+            ]
+        }
+    ]
 }

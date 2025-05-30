@@ -6,28 +6,111 @@
     "tasks": [
         {
             "task": "Planting peanuts",
+            "subtasks": []
+        },
+        {
+            "task": "Soil preparation and maintenance",
+            "subtasks": []
+        },
+        {
+            "task": "Managing potential pests (squirrels)",
+            "subtasks": []
+        },
+        {
+            "task": "Cleanup",
+            "subtasks": []
+        },
+        {
+            "task": "Manage potential pests (squirrels)",
+            "subtasks": []
+        },
+        {
+            "task": "Planting peanuts**",
+            "subtasks": []
+        },
+        {
+            "task": "Soil Preparation**",
+            "subtasks": []
+        },
+        {
+            "task": "Planting**",
+            "subtasks": []
+        },
+        {
+            "task": "Protecting from Squirrel Pests**",
+            "subtasks": []
+        },
+        {
+            "task": "Cleanup**",
+            "subtasks": []
+        },
+        {
+            "task": "Planting peanuts**",
+            "subtasks": []
+        },
+        {
+            "task": "Planting peanuts",
             "subtasks": [
-                "Crack peanuts open",
-                "Prepare soil by mixing compost and topsoil",
-                "Loosen soil for peanut growth",
-                "Plant peanuts about 18 inches apart",
+                "Shell the peanuts",
+                "Sort and clean seeds",
+                "Mix compost and topsoil into the soil",
+                "Loosen the soil",
+                "Create planting rows (spacing approximately 18 inches apart)",
+                "Plant two peanuts per hole",
                 "Cover planted peanuts with soil",
-                "Protect planted peanuts from squirrels"
+                "Water the planting area",
+                "Protect from squirrels by keeping excess in a Ziploc bag",
+                "Clean up the planting area"
             ]
         },
         {
-            "task": "Clean up and watering",
+            "task": "Soil Preparation",
             "subtasks": [
-                "Cleaning up the area after planting",
-                "Water the planted peanuts"
+                "Add compost and topsoil to existing soil",
+                "Mix compost and topsoil into the soil"
             ]
         },
         {
-            "task": "Storing leftover peanuts",
+            "task": "Pest Management",
             "subtasks": [
-                "Put extra peanuts in a Ziploc bag",
-                "Guard against squirrel interference with leftover peanuts"
+                "Store unused seeds in a Ziploc bag"
             ]
+        },
+        {
+            "task": "Shelling and preparing peanuts",
+            "subtasks": []
+        },
+        {
+            "task": "Soil preparation",
+            "subtasks": []
+        },
+        {
+            "task": "Planting",
+            "subtasks": []
+        },
+        {
+            "task": "Pest management",
+            "subtasks": []
+        },
+        {
+            "task": "Cleanup",
+            "subtasks": []
+        },
+        {
+            "task": "Planting peanuts",
+            "subtasks": []
+        },
+        {
+            "task": "Soil preparation",
+            "subtasks": []
+        },
+        {
+            "task": "Pest management",
+            "subtasks": []
+        },
+        {
+            "task": "Cleanup",
+            "subtasks": []
         }
     ]
 }

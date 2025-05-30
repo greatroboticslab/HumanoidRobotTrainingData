@@ -5,75 +5,8 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Operate a loader tractor to stack bales of hay.",
-            "subtasks": [
-                "Sit in the loader tractor seat.",
-                "Adjust the seat to a comfortable position.",
-                "Insert the key into the ignition and start the tractor.",
-                "Engage the parking brake.",
-                "Use the steering wheel to maneuver the tractor to the pile of hay bales.",
-                "Engage the hydraulic system to lower the bale forks.",
-                "Drive the tractor towards the hay bales, precisely positioning the forks under a bale.",
-                "Lifting the bale into the forks and hydraulically raising them.",
-                "Transport the bale to the designated stacking location.",
-                "Repeat the process of lowering, moving, and stacking until the bale is placed.",
-                "Ensure the stack is stable and secure.",
-                "Complete the stacking of all hay bales into a large bale stack.",
-                "After all bales are stacked, secure the stack if necessary.",
-                "Ensure the stacking area is clean and safe."
-            ]
-        },
-        {
-            "task": "Operate a loader tractor to stack bales of hay.",
+            "task": "**",
             "subtasks": []
-        },
-        {
-            "task": "Operate a loader tractor to stack bales of hay.\" followed by sub-tasks like inserting the key into the ignition, maneuvering the tractor, etc. So given that structure, even without the actual transcript, the user has included their own breakdown. So perhaps they have a standard transcript they use here, or perhaps this is an example. But since the transcript isn\u2019t included here, maybe the intended answer is based on that standard transcript.",
-            "subtasks": []
-        },
-        {
-            "task": "Therefore, although I don't have the original transcript to verify, given the structure and content of the user's provided answer, the physical tasks a person would perform include operating the tractor, adjusting seat, starting the engine, maneuvering, using the hydraulic forks, stacking bales, ensuring safety, etc. So they have MAINTASK followed by the appropriate subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Operate a loader tractor to stack bales of hay.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Operate a loader tractor to stack bales of hay.",
-            "subtasks": [
-                "Sit in the loader tractor seat.",
-                "Adjust the seat to a comfortable position.",
-                "Insert the key into the ignition and start the tractor.",
-                "Engage the parking brake.",
-                "Use the steering wheel to maneuver the tractor to the pile of hay bales.",
-                "Engage the hydraulic system to lower the bale forks.",
-                "Drive the tractor towards the hay bales, precisely positioning the forks under a bale.",
-                "Lifting the bale into the forks and hydraulically raising them.",
-                "Transport the bale to the designated stacking location.",
-                "Repeat the process of lowering, moving, and stacking until the bale is placed.",
-                "Ensure the stack is stable and secure.",
-                "Complete the stacking of all hay bales into a large bale stack.",
-                "After all bales are stacked, secure the stack if necessary.",
-                "Ensure the stacking area is clean and safe."
-            ]
-        },
-        {
-            "task": "MAINTASK: Operate a loader tractor to stack bales of hay.",
-            "subtasks": [
-                "Sit in the loader tractor seat.",
-                "Adjust the seat for comfort.",
-                "Start the tractor by inserting the key into the ignition.",
-                "Engage the parking brake.",
-                "Maneuver the tractor to the hay bales using the steering wheel.",
-                "Lower the bale forks using the hydraulic system.",
-                "Position the forks under a hay bale accurately.",
-                "Lift the bale, transport it, and stack it.",
-                "Repeat stacking until all bales are in place.",
-                "Ensure the stack is stable.",
-                "Complete stacking and secure the stack if needed.",
-                "Clean the stacking area."
-            ]
         }
     ]
 }

@@ -5,91 +5,1245 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Prepare soil",
+            "task": "Use wheelbarrow to transport soil",
             "subtasks": [
-                "Choose location",
-                "Turn soil",
-                "Remove weeds",
-                "Add compost"
+                "Push wheelbarrow to field",
+                "Scoop soil into wheelbarrow",
+                "Traverse uneven terrain with wheelbarrow",
+                "Dump soil into designated area"
             ]
         },
         {
-            "task": "Plant seeds",
+            "task": "Tend cornfield",
             "subtasks": [
-                "Identify neighbors",
-                "Space seeds appropriately",
-                "Cover seeds"
+                "Walk through cornfield rows",
+                "Check corn plants for growth",
+                "Look for signs of pests or disease",
+                "Inspect irrigation systems"
             ]
         },
         {
-            "task": "Water plants",
+            "task": "Prepare field for plowing",
             "subtasks": [
-                "Determine water needs",
-                "Apply water using bucket"
+                "Drive tractor into field",
+                "Lower plow to ground",
+                "Operate plow to turn soil",
+                "Haul tillage implements into position"
             ]
         },
         {
-            "task": "Weeding",
+            "task": "Apply fertilizer via tractor-drawn spreader",
             "subtasks": [
-                "Locate weeds",
-                "Hand-pull weeds",
-                "Dispose of weeds"
+                "Operate fertilizer spreader attached to tractor",
+                "Navigate rows of crops with spreader",
+                "Adjust spreader settings for optimal application",
+                "Monitor application rate"
             ]
         },
         {
-            "task": "Harvest plants",
+            "task": "Harvest corn using combine",
             "subtasks": [
-                "Identify ripe plants",
-                "Cut plants",
-                "Collect produce"
+                "Drive combine through cornfield",
+                "Set combine to harvest corn",
+                "Operate combine hydraulics for threshing",
+                "Adjust combine settings for optimal grain collection",
+                "Load harvest into transport vehicle",
+                "Drive transport to storage facility"
             ]
         },
         {
-            "task": "Prepare soil with subtasks: choose location, turn soil, remove weeds, add compost.",
+            "task": "Repair combine after harvest",
+            "subtasks": [
+                "Inspect combine to identify issues",
+                "Locate necessary tools and parts",
+                "Disassemble combine components for repair",
+                "Replace or fix damaged parts",
+                "Reassemble combine",
+                "Test combine functionality",
+                "Clean and lubricate moving parts"
+            ]
+        },
+        {
+            "task": "Plant soybeans using planter attachment",
+            "subtasks": [
+                "Attach soybean planter to tractor",
+                "Calibrate seed metering mechanism",
+                "Start soybean seedling trays",
+                "Plant soybeans in field at correct depth",
+                "Monitor planting speed and seed distribution"
+            ]
+        },
+        {
+            "task": "Use sprayer to treat crops with pesticide",
+            "subtasks": [
+                "Mix pesticide in tank",
+                "Connect sprayer to tractor",
+                "Traverse field applying pesticide",
+                "Adhere to wind and application rate guidelines"
+            ]
+        },
+        {
+            "task": "Cut hay using a mower",
+            "subtasks": [
+                "Position mower into hayfield",
+                "Start mower engine",
+                "Guide mower through field, mowing rows",
+                "Regulate cutting height",
+                "Transport bales from field"
+            ]
+        },
+        {
+            "task": "Wrangle cows in holding pen",
+            "subtasks": [
+                "Herd cattle towards pen",
+                "Close pen gates to corral cows",
+                "Attune to cow behavior for safe handling"
+            ]
+        },
+        {
+            "task": "Administer veterinary treatments to sick cow",
+            "subtasks": [
+                "Approach cow in field",
+                "Pin cow legs to immobilize",
+                "Apply necessary medication or treatment",
+                "Monitor cow's response"
+            ]
+        },
+        {
+            "task": "Complete year-end report",
+            "subtasks": [
+                "Collect data from crops and livestock",
+                "Enter figures into spreadsheet or record-keeping system",
+                "Analyze yield and production costs",
+                "Prepare summary for agricultural advisory board"
+            ]
+        },
+        {
+            "task": "Attend community garden workshop",
+            "subtasks": [
+                "Open workshop location",
+                "Hand out gardening resource materials",
+                "Facilitate discussion on crop rotation strategies",
+                "Demonstrate proper soil cultivation technique"
+            ]
+        },
+        {
+            "task": "Drive tractor through fields",
+            "subtasks": [
+                "Operate tractor in field",
+                "Adjust direction and speed for efficient movement",
+                "Maneuver around obstacles such as rocks or stumps",
+                "Check for any equipment malfunctions"
+            ]
+        },
+        {
+            "task": "Water crops using irrigation system",
+            "subtasks": [
+                "Turn on irrigation pump or valves",
+                "Monitor water distribution across field",
+                "Calculate water usage and adjust accordingly",
+                "Inspect irrigation lines for leaks",
+                "Note water retention time and quality"
+            ]
+        },
+        {
+            "task": "Plant small field crop",
+            "subtasks": [
+                "Choose appropriate planting tools for the crop",
+                "Prepare seedbed by tilling or rolling",
+                "Set appropriate depth for seed placement",
+                "Plant seeds in rows",
+                "Cover planted seeds with soil"
+            ]
+        },
+        {
+            "task": "Use cultivator to prepare soil before sowing",
+            "subtasks": [
+                "Adjust cultivator depth for soil type",
+                "Attach cultivator to tractor",
+                "Drive over prepared area, turning soil",
+                "Remove debris and stones from surface",
+                "Ensure soil is fine-textured and free of clumps",
+                "Smooth soil surface with rolling implement"
+            ]
+        },
+        {
+            "task": "Clean and oil plow before storage",
+            "subtasks": [
+                "Disassemble plow for thorough cleaning",
+                "Remove dirt and debris from moving parts",
+                "Substitute lubricating oil or grease",
+                "Reassemble plow components",
+                "Apply anti-corrosion spray to prevent rust"
+            ]
+        },
+        {
+            "task": "Repair irrigation line fence damaged by animal",
+            "subtasks": [
+                "Locate damaged area of the fence",
+                "Remove damaged sections of the fence",
+                "Cut replacement material (e.g., wire or fence panels)",
+                "Secure replacements at fence posts",
+                "Test fence for proper closure"
+            ]
+        },
+        {
+            "task": "Return planter to storage",
+            "subtasks": [
+                "Haul planter back to shed or garage",
+                "Disassemble planter if necessary",
+                "Store in designated location, protecting from elements"
+            ]
+        },
+        {
+            "task": "Check grain for spoilage during storage",
+            "subtasks": [
+                "Open grain storage bin or silo",
+                "Sample grain from various areas",
+                "Observe moisture levels, color, texture, and smell",
+                "Check for insect activity or mold"
+            ]
+        },
+        {
+            "task": "Spray pesticides on crops",
+            "subtasks": [
+                "Select pesticide applicator nozzle size based on crop and pesticide",
+                "Measure and mix chemical in sprayer",
+                "Prime sprayer and check for pressure",
+                "Apply pesticide moving the sprayer in a back-and-forth pattern"
+            ]
+        },
+        {
+            "task": "Operate soybean combine",
+            "subtasks": [
+                "Operate the combine for soybean harvesting",
+                "Set the proper header for soybeans",
+                "Adjust the threshing mechanism",
+                "Ensure efficient separation of soybeans from chaff and stems"
+            ]
+        },
+        {
+            "task": "Plant wheat using a planter",
+            "subtasks": [
+                "Set planter to plant wheat seeds at the recommended depth",
+                "Drive planter through the field, variable or straight rows",
+                "Create furrows and deposit seeds at regular intervals"
+            ]
+        },
+        {
+            "task": "Inspect irrigation system for leaks",
+            "subtasks": [
+                "Walk through the fields and check for broken pipes or valves",
+                "Use soapy water to locate leaks",
+                "Repair leaks by tightening connections or replacing damaged parts"
+            ]
+        },
+        {
+            "task": "Grade a field by plowing and rolling",
+            "subtasks": [
+                "Use a plow to turn the soil",
+                "Use a roller to smooth and level the field",
+                "Adjust depth and pass direction for optimal grading"
+            ]
+        },
+        {
+            "task": "Harvest soybeans using a combine",
+            "subtasks": [
+                "Operate the combine for soybean threshing",
+                "Adjust separator screens for proper cleaning",
+                "Collect soybeans into the bin and empty into bins or trucks",
+                "Clean the combine between fields"
+            ]
+        },
+        {
+            "task": "Replace a broken wheel on a combine",
+            "subtasks": [
+                "Identify the broken wheel and gather replacement parts",
+                "Lift the combine to gain access to the wheel",
+                "Detach the broken wheel",
+                "Align the new wheel and mount it",
+                "Reattach any necessary hardware",
+                "Balance the wheel and check for proper fit",
+                "Lower the combine and test the wheel\u2019s functionality"
+            ]
+        },
+        {
+            "task": "Utilize baler to bale hay",
+            "subtasks": [
+                "Attach hay baler to a tractor",
+                "Set appropriate wire or twine tension for bales",
+                "Section off the hayfield to bundle hay",
+                "Operate the baler to form hay bales",
+                "Transport bales to storage area"
+            ]
+        },
+        {
+            "task": "Adjust combines according to crop and weather conditions",
+            "subtasks": [
+                "Evaluate current crop type and weather",
+                "Modify combine settings such as cutter bar height, reel speed, or hydraulic pressures for optimal performance",
+                "Use threshing cylinder managers for corn or soybeans as needed"
+            ]
+        },
+        {
+            "task": "Lift combine to change oil",
+            "subtasks": [
+                "Park the combine on a stable surface",
+                "Raise the combine using the lift arms or hydraulic jacks",
+                "Access the oil pan and drain the old oil",
+                "Add fresh oil, checking the proper level and viscosity"
+            ]
+        },
+        {
+            "task": "Transfer soil from one field to another using a wheelbarrow",
+            "subtasks": [
+                "Push the wheelbarrow from the soil source to the destination",
+                "Scoop soil into the wheelbarrow",
+                "Maneuver over uneven ground or obstacles",
+                "Dump the soil onto the new field, spread evenly"
+            ]
+        },
+        {
+            "task": "Sell produce at a local market",
+            "subtasks": [
+                "Select the best produce to sell",
+                "Pack produce into crates or bags",
+                "Price items for sale",
+                "Transport goods to market in a van or truck",
+                "Set up stall and display produce",
+                "Negotiate payment with customers"
+            ]
+        },
+        {
+            "task": "Transfer hay from barn to hayrack",
+            "subtasks": [
+                "Load hay bales onto a hayrack trailer",
+                "Secure the hay to prevent falling during transport",
+                "Transport hay to the field where it will be used for feeding livestock"
+            ]
+        },
+        {
+            "task": "Mow a field using a riding mower",
+            "subtasks": [
+                "Position the riding mower in the field",
+                "Set the mower to the appropriate height for the crop",
+                "Drive the mower and guide it through rows",
+                "Check for any hanging threads or loose strings"
+            ]
+        },
+        {
+            "task": "Exercise horses before tilling",
+            "subtasks": [
+                "Walk the horses in a circle or another exercise",
+                "Loosen the horses\u2019 manes and tails",
+                "Butter down the horses\u2019 ears to calm them",
+                "Check the horses for any signs of illness or injury"
+            ]
+        },
+        {
+            "task": "Horn a goat for identification",
+            "subtasks": [
+                "Approach the goat quietly to ensure calmness",
+                "Apply a numbing agent to the goat\u2019s ear",
+                "Use specialized tools to create a distinctive mark",
+                "Allow the ear to heal and form a permanent identification mark"
+            ]
+        },
+        {
+            "task": "Clear the front fence after a storm",
+            "subtasks": [
+                "Inspect the fence for damage",
+                "Remove fallen branches or debris",
+                "Repair any broken posts or rails",
+                "Relocalize any shifted sections",
+                "Check electric fencing for downed lines and replace as needed"
+            ]
+        },
+        {
+            "task": "Cut corn using a combine",
+            "subtasks": [
+                "Run the combine with the proper header for corn",
+                "Adjust the combine\u2019s speed for optimal corn harvest",
+                "Monitor the combine\u2019s auger and cylinder for proper functioning",
+                "Load harvested corn into truck or combine bin",
+                "Clear any corn residues from the combine"
+            ]
+        },
+        {
+            "task": "Weed a garden by hand",
+            "subtasks": [
+                "Wearing gloves, kneel on the soil",
+                "Identify alien plants",
+                "Pull up weeds, taking roots if possible",
+                "Disperse pulled weeds away from garden"
+            ]
+        },
+        {
+            "task": "Haul manure to the field",
+            "subtasks": [
+                "Attach the manure spreader to a tractor",
+                "Navigate through paths to the field",
+                "Spread manure over the field, ensuring even distribution",
+                "Monitor wind direction to prevent dust from drift"
+            ]
+        },
+        {
+            "task": "Apply fertilizer to cotton field using aerial spraying",
+            "subtasks": [
+                "Load the cotton field\u2019s coordinates into the spray plane\u2019s computer system",
+                "Inspect the aircraft\u2019s spraying equipment for readiness",
+                "Conduct pre-flight checks on the aircraft",
+                "Release the pesticide over designated sections of the field at the correct height and speed"
+            ]
+        },
+        {
+            "task": "Check combine for feed chain issues",
+            "subtasks": [
+                "Disconnect the feed chain to examine the condition",
+                "Lubricate or replace worn parts",
+                "Reconnect the feed chain and test operation"
+            ]
+        },
+        {
+            "task": "Winterize the irrigation system",
+            "subtasks": [
+                "Drain water from pipes and open valves",
+                "Insulate exposed parts of the system",
+                "Apply anti-freeze to prevent system damage in the winter"
+            ]
+        },
+        {
+            "task": "Separate wheat from chaff using a thresher",
+            "subtasks": [
+                "Feed wheat into the thresher",
+                "Operate the thresher to separate wheat kernels from the chaff",
+                "Collect the clean grain into containers",
+                "Dispose of the chaff properly"
+            ]
+        },
+        {
+            "task": "Convert combine to a mower for grass cutting",
+            "subtasks": [
+                "Detach the combine\u2019s harvest attachments",
+                "Attach mower blades and collecting bins",
+                "Test the mower for proper operation"
+            ]
+        },
+        {
+            "task": "Perch cattle during dipping for fly control",
+            "subtasks": [
+                "Herd cattle to a dipping vat",
+                "Lower cattle into the dip",
+                "Wait for the specified duration",
+                "Raise cattle out of the dip and return them to pasture"
+            ]
+        },
+        {
+            "task": "Prepare a trailer for transporting corn",
+            "subtasks": [
+                "Load corn into the trailer using a forklift or loader",
+                "Secure the load with tarps or straps to prevent shifting",
+                "Check the trailer\u2019s brakes and lighting",
+                "Attach the trailer to a truck and transport to market"
+            ]
+        },
+        {
+            "task": "Transport bales with a trailer",
+            "subtasks": [
+                "Load hay bales onto a trailer",
+                "Securely fasten bales to prevent movement",
+                "Drive the trailer to the storage facility",
+                "Unload bales and stack them properly"
+            ]
+        },
+        {
+            "task": "Mow hayfield after rain to prevent molds",
+            "subtasks": [
+                "Check weather forecast to ensure conditions are dry",
+                "Once dry, mow the hayfield to stimulate regrowth",
+                "Rake the hay to facilitate drying"
+            ]
+        },
+        {
+            "task": "Disperse weed seedlings by pushing the ground with a cane | plus 1 more",
+            "subtasks": [
+                "Stand with a cane in one hand, walk through the field",
+                "Gently poke the recently emerged weeds to eliminate them",
+                "Maintain a steady pace and cover the entire row"
+            ]
+        },
+        {
+            "task": "Set up a water sprinkler system",
+            "subtasks": [
+                "Install water pipes in the field",
+                "Attach sprinkler heads to pipes",
+                "Connect the system to a water source",
+                "Test spray coverage and adjust as necessary"
+            ]
+        },
+        {
+            "task": "Take a soil sample to determine nutrient levels",
+            "subtasks": [
+                "Use a soil probe to take a sample from various areas",
+                "Place the sample in a container for testing",
+                "Deliver the sample to a lab or keep it for on-farm testing"
+            ]
+        },
+        {
+            "task": "Adjust sugar content of harvested apples using apple cider press",
+            "subtasks": [
+                "Set up the cider press",
+                "Peel and core the apples",
+                "Crush apples into pomace",
+                "Extract juice through pressing",
+                "Monitor sugar and acidity levels and adjust as necessary with additives"
+            ]
+        },
+        {
+            "task": "Treat bee hives for parasites",
+            "subtasks": [
+                "Examine the hives for signs of parasites",
+                "Choose the appropriate treatment method (chemical or biological)",
+                "Apply the treatment to the hive, following instructions",
+                "Seal the hive entrance temporarily to prevent bees from leaving",
+                "Check the hive again after treatment to ensure effectiveness"
+            ]
+        },
+        {
+            "task": "Directly seed cover crops by walking through fields",
+            "subtasks": [
+                "Carry seed with a spreader or a handheld seeder",
+                "Walk slowly through the field, ensuring even coverage",
+                "Adjust for various terrain and maintain consistency"
+            ]
+        },
+        {
+            "task": "Operate a grain auger to transfer grain into trucks",
+            "subtasks": [
+                "Connect the grain bag or hopper to the auger",
+                "Align the auger\u2019s intake tube with the truck\u2019s unloading port",
+                "Start the auger and monitor grain flow",
+                "Stop the auger once the truck is full"
+            ]
+        },
+        {
+            "task": "Plant potatoes with a potato planter",
+            "subtasks": [
+                "Load seed potatoes into the planter\u2019s box",
+                "Adjust depth according to soil condition",
+                "Drive the planter through the field, placing potatoes at regular intervals",
+                "Cover seeded furrows with the planter\u2019s chain mechanism"
+            ]
+        },
+        {
+            "task": "Adjust tractor tires for different soil conditions",
+            "subtasks": [
+                "Check tire pressure and tread depth",
+                "Swap out tires or apply differing tread patterns as appropriate",
+                "Align tires according to tractor weight distribution"
+            ]
+        },
+        {
+            "task": "Use pesticide sprayer to prevent crop lodging",
+            "subtasks": [
+                "Mix the appropriate anti-lodging agent in the sprayer",
+                "Calibrate the sprayer for the correct application rate",
+                "Apply the solution to crops in fields prone to lodging"
+            ]
+        },
+        {
+            "task": "Grade cornfield for irrigation",
+            "subtasks": [
+                "Analyze the contour of the field for water flow",
+                "Use a plow or disc to establish a slight angle",
+                "Create furrows or ridges for water management"
+            ]
+        },
+        {
+            "task": "Prepare land for tobacco planting by making furrows",
+            "subtasks": [
+                "Lay out furrows across the field according to spacing requirements",
+                "Use a plow or disc blade to create the furrows",
+                "Smooth the soil along the furrows for planting"
+            ]
+        },
+        {
+            "task": "Administer vaccinations to pigs",
+            "subtasks": [
+                "Bring the pig to the vaccination station",
+                "Restrain the pig to administer the vaccine",
+                "Deliver the injection into the desired muscle or joint",
+                "Clean the injection site with alcohol and monitor for reactions"
+            ]
+        },
+        {
+            "task": "Prepare irrigation lines for freezing conditions",
+            "subtasks": [
+                "Insulate exposed lines with foam or heavy plastic",
+                "Let water flow through the lines periodically to prevent freezing",
+                "Install adjustable hosing clamps to minimize water pressure"
+            ]
+        },
+        {
+            "task": "Manually dig soil to plant vegetables",
+            "subtasks": [
+                "Use a spade or shovel to loosen the soil",
+                "Dig planting holes or trenches at the appropriate depth",
+                "Amend soil with compost or fertilizer as needed",
+                "Plant seedlings or seeds, ensuring proper spacing"
+            ]
+        },
+        {
+            "task": "Cut corn stalks by hand in the absence of equipment",
+            "subtasks": [
+                "Carefully position a knife or machete at the base of the corn stalk",
+                "Traverse the field, cutting down each stalk",
+                "Stack cut stalks in a convenient location for further processing"
+            ]
+        },
+        {
+            "task": "Fill wheelbarrow with crops for market",
+            "subtasks": [
+                "Select ripe and fresh produce from the fields",
+                "Carry the crops into the packing shed or directly to the wheelbarrow",
+                "Load the crops into the wheelbarrow, arranging them neatly",
+                "Push the fully loaded wheelbarrow to the market"
+            ]
+        },
+        {
+            "task": "Conduct a soil test to assess fertility",
+            "subtasks": [
+                "Collect soil samples from different parts of the field",
+                "Send the samples to a testing laboratory",
+                "Review the results to determine necessary amendments"
+            ]
+        },
+        {
+            "task": "Collect eggs from a chicken coop",
+            "subtasks": [
+                "Gather all eggs from the nesting boxes",
+                "Handle eggs gently to prevent breaking",
+                "Transfer collected eggs to a cooler or basket for storage"
+            ]
+        },
+        {
+            "task": "Wheat threshing using a combine",
+            "subtasks": [
+                "Position the combine header correctly over the wheat",
+                "Adjust the combine\u2019s speed for efficient threshing",
+                "Monitor the grain moisture and impurities in the combine bucket",
+                "Haul the grain away appropriately once collected",
+                "Clean the combine to prevent clogging"
+            ]
+        },
+        {
+            "task": "Mark horses for identification",
+            "subtasks": [
+                "Calm the horse by petting and talking"
+            ]
+        },
+        {
+            "task": "Install electric fencing around field",
+            "subtasks": [
+                "Drive posts into the ground around the perimeter",
+                "Run electric wire between the posts",
+                "Connect the wire to an electric fencing charger",
+                "Test the fence\u2019s integrity by touching adjacent wires"
+            ]
+        },
+        {
+            "task": "Apply mulch to around plants to conserve moisture",
+            "subtasks": [
+                "Measure mulch thickness according to plant needs",
+                "Lay down organic or inorganic mulch around plants",
+                "Press mulch into place and around plant stems",
+                "Keep mulch from contacting the plants to prevent rot"
+            ]
+        },
+        {
+            "task": "Set up irrigation pipes",
+            "subtasks": [
+                "Unroll irrigation tubing in the field",
+                "Connect pipes at intervals as per the crop\u2019s needs",
+                "Secure ends of pipes in the earth",
+                "Turn on water source to test system flow"
+            ]
+        },
+        {
+            "task": "Maintain human-powered implements",
+            "subtasks": [
+                "Clean and oil certificates of public assistance, wheelbarrow handles, etc.",
+                "Replace any broken parts on hand tools",
+                "Sharpen forks, shovels, and other metal tools"
+            ]
+        },
+        {
+            "task": "Mow a hayfield to maintain height",
+            "subtasks": [
+                "Adjust mower deck height to set the desired stubble length",
+                "Drive mower through the field in a continuous pass",
+                "Monitor for any uneven cutting or skip areas"
+            ]
+        },
+        {
+            "task": "Attend a trade show for farm equipment",
+            "subtasks": [
+                "Walk through the exhibit hall to view new products",
+                "Engage with vendors and ask about equipment features",
+                "Take notes on advancements in agricultural technology",
+                "Participate in demonstrations or workshops",
+                "Order necessary parts or place equipment orders"
+            ]
+        },
+        {
+            "task": "Load hay into a trailer",
+            "subtasks": [
+                "Push the hay trailer into position at the loading area",
+                "Loosen the hay bales and position them for easy loading",
+                "Use a pitchfork to load hay into the trailer, starting from the back",
+                "Stack hay as efficiently as possible, considering weight distribution"
+            ]
+        },
+        {
+            "task": "Repair a leaky irrigation pipe by sliding it into place",
+            "subtasks": [
+                "Locate the exact position of the leak",
+                "Clean the area around the leak",
+                "Insert a replacementpipe section into the existing line",
+                "Use clamps or couplings to secure the new piece"
+            ]
+        },
+        {
+            "task": "Inspect livestock for signs of injury or illness",
+            "subtasks": [
+                "Examine each animal\u2019s body for lumps, cuts, or abrasions",
+                "Check for swollen joints, skin color changes, or other abnormalities",
+                "Listen to animals\u2019 breathing or pulse if necessary",
+                "Isolate animals in need of medical attention"
+            ]
+        },
+        {
+            "task": "Use a scythe for mowing hay in a field",
+            "subtasks": [
+                "Hold the scythe correctly with both hands",
+                "Steady the scythe\u2019s cutting edge against the hay stalks",
+                "Work through the field, cutting hay in long thrills",
+                "Gather cut hay into sheaves by hand"
+            ]
+        },
+        {
+            "task": "Take off head in a combine",
+            "subtasks": [
+                "Stop the combine and lower the platform",
+                "Remove the cutting head and clean it of debris",
+                "Inspect and adjust the action of the cutting knives",
+                "Reattach the cutting head and raise the combine platform"
+            ]
+        },
+        {
+            "task": "Operate a manure spreader to improve soil fertility",
+            "subtasks": [
+                "Attach the spreader to the tractor",
+                "Calibrate the spreader for the correct manure application rate",
+                "Drive through the fields, adjusting speed for proper spreading",
+                "Switch out settings if spreading different types of manure"
+            ]
+        },
+        {
+            "task": "Directly seed wheat using a drill",
+            "subtasks": [
+                "Position the seed drill in the field",
+                "Adjust the seeding depth to match soil conditions",
+                "Press open the ground with the disk to receive the seeds",
+                "Release the seeds into the drill, covering them with a closing wheel"
+            ]
+        },
+        {
+            "task": "Use a fencing machine to electrify wires",
+            "subtasks": [
+                "Connect the fencing machine to the power source",
+                "Lay down the wires to be electrified",
+                "Adjust the voltage output on the fencing machine",
+                "Check the strength of the electrical discharge to ensure adequate fencing"
+            ]
+        },
+        {
+            "task": "Adjust shallot depth while planting",
+            "subtasks": [
+                "Regulate the depth setting on the planter to 2-4 inches",
+                "Drive the shallot planter through the rows, continuously adjusting as needed",
+                "Verify spacing between plants to be around 3 inches"
+            ]
+        },
+        {
+            "task": "Construct a garden wall to demarcate sections",
+            "subtasks": [
+                "Gather stones or bricks for the wall",
+                "Lay a foundation of large stones on the ground",
+                "Stack courses of stones, ensuring they are level",
+                "Add mortar between stones for stability"
+            ]
+        },
+        {
+            "task": "Add compost to raised garden beds",
+            "subtasks": [
+                "Use a garden fork to aerate the soil in the raised bed",
+                "Mix compost into the soil, working it in thoroughly",
+                "Level the surface of the bed to ensure even moisture"
+            ]
+        },
+        {
+            "task": "Use a earth mover to shape a field",
+            "subtasks": [
+                "Equip the earth mover with a blade or plow attachment",
+                "Drive the earth mover over the field, grading slopes",
+                "Smooth out any undulations to create a flat surface for planting"
+            ]
+        },
+        {
+            "task": "Apply fertilizer using a spreader on a farm truck",
+            "subtasks": [
+                "Connect the spreader to the farm truck",
+                "Set the spreader to the correct rate for the fertilizer type",
+                "Drive the truck over the field, spreading fertilizer in an even pattern",
+                "Avoid applying fertilizer near water sources or where runoff is likely"
+            ]
+        },
+        {
+            "task": "Transport grain on a semi-trailer",
+            "subtasks": [
+                "Hook up the semi-trailer to a grain truck",
+                "Load the trailer with grain, keeping it secure",
+                "Transport the trailer to the mill or processing facility",
+                "Unload the grain, wagon by wagon, and report the quantity"
+            ]
+        },
+        {
+            "task": "Clear hay bales directly behind a baler",
+            "subtasks": [
+                "Attach a bale spear or pick-up to the tractor",
+                "Drive alongside the baler as it operates, picking up finished bales",
+                "Position the bale carrier for optimal transport to storage"
+            ]
+        },
+        {
+            "task": "Gather eggs from a chicken coop",
+            "subtasks": [
+                "Open the coop door and enter the nesting area",
+                "Collect all laid eggs, handling them gently",
+                "Clean the nesting boxes and store eggs in a clean container"
+            ]
+        },
+        {
+            "task": "Check grass seed germination",
+            "subtasks": [
+                "Cover a section of the field with a moisture-sealed plastic sheet",
+                "Wait for a few weeks for grass to emerge",
+                "Remove the plastic and count the number of sprouts",
+                "Calculate the germination rate and adjust seed application for future plantings"
+            ]
+        },
+        {
+            "task": "Install snow fencing between fields",
+            "subtasks": [
+                "Cut the snow fence panels to the desired length",
+                "Drive the posts into the ground along the rows",
+                "Secure the panels to the posts using wire or staples",
+                "Overlap panels where necessary and trim excess material"
+            ]
+        },
+        {
+            "task": "Re-apply fertilizer to corn field after initial application",
+            "subtasks": [
+                "Assess the corn\u2019s nutritional needs based on field performance",
+                "Calculate the amount of additional fertilizer required",
+                "Load the fertilizer into a spreader or apply directly with a tractor",
+                "Distribute the fertilizer uniformly across the field"
+            ]
+        },
+        {
+            "task": "Establish a transverse furrow for irrigation",
+            "subtasks": [
+                "Mark the location for the furrow with a t-square or similar tool",
+                "Use a disc plow to cut a furrow across the field",
+                "Level the furrow to create a slight incline for water flow",
+                "Check furrow alignment and depth for uniformity"
+            ]
+        },
+        {
+            "task": "Wax apples to preserve freshness",
+            "subtasks": [
+                "Dip apples into a heated wax bath",
+                "Cool the apples in cold water",
+                "Inspect each apple for proper waxing and remove any imperfections"
+            ]
+        },
+        {
+            "task": "Mow a cover crop to control weed growth",
+            "subtasks": [
+                "Position the mower over the cover crop field",
+                "Set the mower height to cut low, just above the soil surface",
+                "Overlap passes slightly to ensure thorough coverage",
+                "Dispose of mowed material if necessary"
+            ]
+        },
+        {
+            "task": "Manually transplant seedlings into a field",
+            "subtasks": [
+                "Dig small holes at regular intervals in the prepared field",
+                "Handle seedlings with care to avoid damaging roots",
+                "Insert the seedling into the hole, ensuring it is straight",
+                "Cover the roots with soil and press down gently"
+            ]
+        },
+        {
+            "task": "Apply lime to acidic soil using a spreader",
+            "subtasks": [
+                "Determine the necessary amount of lime based on soil test results",
+                "Load the lime into a spreader",
+                "Set the spreader to the appropriate setting for even distribution",
+                "Spread lime over the field, following direction for wind",
+                "Water the lime into the soil after application"
+            ]
+        },
+        {
+            "task": "Set up a sprinkler irrigation system",
+            "subtasks": [
+                "Unroll the sprinkler lines in the field",
+                "Connect sprinkler heads to the lines",
+                "Attach a timer and control valve to manage watering schedules",
+                "Test the system to ensure even water distribution"
+            ]
+        },
+        {
+            "task": "Transport soil from a borrow site to a field",
+            "subtasks": [
+                "Drive a truck or trailer to the borrow site",
+                "Use a shovel or wheelbarrow to load the soil",
+                "Transport the loaded soil to the target field site",
+                "Spread the soil over the designated area and level it"
+            ]
+        },
+        {
+            "task": "Use a cultivator to control weeds in a young corn field",
+            "subtasks": [
+                "Position the cultivator to avoid damaging plants",
+                "Move the cultivator in one direction, disturbing the soil near the base of plants",
+                "Repeat passes at different angles to target weeds at various stages"
+            ]
+        },
+        {
+            "task": "Set up a wind trap to direct airflow",
+            "subtasks": [
+                "Determine the optimal location for the wind trap within the field",
+                "Assemble the wind trap structure, ensuring it is secure",
+                "Position poles or stakes to hold the wind trap in place",
+                "Cover the trap with fabric or netting to block airflow"
+            ]
+        },
+        {
+            "task": "Park a combine in the shed after a day of harvesting",
+            "subtasks": [
+                "Guide the combine into the designated parking area",
+                "Lower the combine canopy and sides to save space",
+                "Disconnect any hydraulics or hoses and store appropriately"
+            ]
+        },
+        {
+            "task": "Maintain horse stall floors post exercise",
+            "subtasks": [
+                "Sweep or shovel manure from the stall",
+                "Hose down the stall to remove soiled bedding",
+                "Replace bedding as necessary for cleanliness"
+            ]
+        },
+        {
+            "task": "Rotate livestock between pastures",
+            "subtasks": [
+                "Move portable electric fencing to the new pasture",
+                "Direct livestock into the new enclosure",
+                "Allow time for animals to graze before rotating again"
+            ]
+        },
+        {
+            "task": "Install insect screens on hoop house entrances",
+            "subtasks": [
+                "Measure the entrance openings of the hoop house",
+                "Cut insect-proof mesh to fit the openings",
+                "Secure mesh with clips or velcro around the frame",
+                "Check for any gaps where insects could enter"
+            ]
+        },
+        {
+            "task": "Maintaining battery power on farm equipment",
+            "subtasks": [
+                "Check electrolyte levels in the battery",
+                "Clean terminals and ensure they are connected tightly",
+                "Charge the battery if necessary and store in a cool place"
+            ]
+        },
+        {
+            "task": "Bring livestock into a barn for the night",
+            "subtasks": [
+                "Open the barn doors and direct animals inside",
+                "Ensure they have access to feed and water",
+                "Check that bedding is dry and clean"
+            ]
+        },
+        {
+            "task": "Adjust the depth of a cultivator for effective weed control",
+            "subtasks": [
+                "Examine the soil and growing conditions",
+                "Set the cultivator depth deep enough to disturb weeds but not damage crops",
+                "Test the cultivator\u2019s operation on a small area"
+            ]
+        },
+        {
+            "task": "Apply manure to a corn field using a broadcast spreader",
+            "subtasks": [
+                "Secure the spreader onto the tractor",
+                "Calculate the amount of manure required per acre",
+                "Set the spreader to the proper cycle speed and discharge",
+                "Operate the spreader as you move through the field, adjusting direction as needed"
+            ]
+        },
+        {
+            "task": "Mix fertilizer components for custom blends",
+            "subtasks": [
+                "Weigh each component of the fertilizer according to the prescription",
+                "Combine the components in a large mixing bin",
+                "Thoroughly blend the mixture to achieve uniformity",
+                "Distribute the mixture into various containers for application"
+            ]
+        },
+        {
+            "task": "Consult display boards at a trade show",
+            "subtasks": [
+                "Identify promotion boards or equipment brochures",
+                "Read information about new farm equipment and technology",
+                "Note down contact details for potential future purchases or arrangements"
+            ]
+        },
+        {
+            "task": "Apply crop protection materials via air-blast sprayer",
+            "subtasks": [
+                "Attach the air-blast sprayer to the tractor",
+                "Select the appropriate nozzles and patterns for crop coverage",
+                "Operate the sprayer while moving through the rows, adjusting for air speed and position"
+            ]
+        },
+        {
+            "task": "Handle hay bales with a hay loader",
+            "subtasks": [
+                "Attach the hay loader to the tractor",
+                "Drive the loader into position behind the baler",
+                "Lift the bales into the loader and transfer them to the trailer"
+            ]
+        },
+        {
+            "task": "Operate a scarifier to improve soil aeration",
+            "subtasks": [
+                "Connect the scarifier to the tractor\u2019s drawbar",
+                "Set the scarifier\u2019s depth for the desired tillage",
+                "Drive forward over the soil, opening up clumps and breaking up compaction"
+            ]
+        },
+        {
+            "task": "Use a water pipe cutter to repair irrigation line",
+            "subtasks": [
+                "Locate the damaged section of the pipe",
+                "Shut off water flow in the irrigation system",
+                "Disassemble the irrigation system to gain access to the pipe",
+                "Use a pipe cutter to trim the damaged sections",
+                "Connect a new section of pipe using appropriate fittings"
+            ]
+        },
+        {
+            "task": "Use a thresher to process wheat straw",
+            "subtasks": [
+                "Prepare the straw by separating stems from grains",
+                "Feed the straw into the thresher at the correct rate",
+                "Oversee the threshing process, adjusting as needed",
+                "Manage the straw output for further composting or bedding"
+            ]
+        },
+        {
+            "task": "Pet horses and load them onto a trailer",
+            "subtasks": [
+                "Approach the horses and pet them to acclimate them",
+                "Secure blankets or protective clothing on the trailer",
+                "Direct the horses into the trailer as directed",
+                "Close the trailer gates securely"
+            ]
+        },
+        {
+            "task": "Close an irrigation channel using a fence",
+            "subtasks": [
+                "Determine the location where the channel should be blocked",
+                "Drive stakes into the ground on either side",
+                "Attach a fence section that spans the channel",
+                "Secure the fence to the stakes with wire, ensuring it is impenetrable"
+            ]
+        },
+        {
+            "task": "Plant winter wheat using a grain drill",
+            "subtasks": [
+                "Load grain hopper with wheat seed",
+                "Set the drill\u2019s depth and spacing for optimal planting",
+                "Drive the drill through the field, following proper gauge rows",
+                "Ensure even distribution of seeds and proper furrow closure"
+            ]
+        },
+        {
+            "task": "Gather eggs from a single cage layer system",
+            "subtasks": [
+                "Open the cage system\u2019s access door",
+                "Pick up all eggs from the nesting areas",
+                "Wipe down the nesting boxes and collect the eggs in a basket"
+            ]
+        },
+        {
+            "task": "Check irrigation timing",
+            "subtasks": [
+                "Observe the growth stages of the crops",
+                "Determine appropriate watering intervals based on moisture needs",
+                "Adjust automated irrigation system\u2019s programming if necessary"
+            ]
+        },
+        {
+            "task": "Times seed burial depth based on soil type and moisture",
+            "subtasks": [
+                "Assess the soil\u2019s crust or moisture level",
+                "Determine the appropriate depth to plant seeds, considering spacing and germination",
+                "Mark the depth on the planter\u2019s depth wheel before planting"
+            ]
+        },
+        {
+            "task": "Apply a protective fungicide to mushrooms",
+            "subtasks": [
+                "Disperse fungicide evenly over the mushroom substrate",
+                "Wait the recommended interval before harvesting to allow efficacy"
+            ]
+        },
+        {
+            "task": "Load combines into a semi-truck for transport",
+            "subtasks": [
+                "Secure the combine onto the truck using straps or chocks",
+                "Cover the combine with a tarp to protect it during transit",
+                "Attach trailer coupling to the semi-truck for transport"
+            ]
+        },
+        {
+            "task": "Cut down a row of corn by hand",
+            "subtasks": [
+                "Stand at the base of the corn stalk",
+                "Use a machete or knife to sever the stalk at or near ground level",
+                "Push the stalk over and bend it to lie flat in the row",
+                "Repeat for each corn plant in that row"
+            ]
+        },
+        {
+            "task": "Create a fenced area for animals during a veterinary procedure",
+            "subtasks": [
+                "Set up temporary electric fencing around the designated area",
+                "Open adjacent gates if necessary to corral animals into the fenced area",
+                "Ensure the animals can easily re-enter their usual habitat after the procedure"
+            ]
+        },
+        {
+            "task": "Install a fence to protect crops from wildlife",
+            "subtasks": [
+                "Position the fence along the perimeter of the field",
+                "Bury a protective band under the fence to prevent burrowing",
+                "Use electrified wires for added deterrence and ground them properly"
+            ]
+        },
+        {
+            "task": "Rake hay to form windrows for drying",
+            "subtasks": [
+                "Position the rake behind the baler or use a push rake",
+                "Direct the hay into a concentrated windrow formation for drying",
+                "Overlap the rows slightly to maximize surface exposure to sun and wind"
+            ]
+        },
+        {
+            "task": "Spray hay bales with a preservative to prevent spoilage",
+            "subtasks": [
+                "Mix the preservative according to instructions",
+                "Apply the preservative using a wand or sprayer to each bale",
+                "Allow time for the preservative to activate or dry before stacking"
+            ]
+        },
+        {
+            "task": "Use a leaf blower to clean debris from the field",
+            "subtasks": [
+                "Set the leaf blower to the proper power setting",
+                "Sweep up leaves, weeds, or other material that could interfere with crop growth",
+                "Dispose of debris properly to prevent pest issues"
+            ]
+        },
+        {
+            "task": "Check grain storage bins for moisture levels",
+            "subtasks": [
+                "Purchase a grain moisture meter if not already available",
+                "Drill inspection holes into different parts of the grain pile",
+                "Insert the moisture meter probe and record the readings",
+                "Monitor trends over time for early detection of spoilage"
+            ]
+        },
+        {
+            "task": "Drain puddles in the field to prevent compaction",
+            "subtasks": [
+                "Create drainage ditches or channels in low-lying areas",
+                "Install perforated pipes to allow water to drain to a suitable outlet",
+                "Tamp the soil over any exposed pipes to maintain surface level"
+            ]
+        },
+        {
+            "task": "Use a transplanter to plant vegetable seedlings",
+            "subtasks": [
+                "Load vegetable seedlings into the transplanter\u2019s trays",
+                "Drive the transplanter through the field, placing seedlings at optimal intervals",
+                "Make sure the transplanter\u2019s depth settings are accurate for the soil type"
+            ]
+        },
+        {
+            "task": "Control water runoff by diverting water with fences",
+            "subtasks": [
+                "Strategically place non-electric fences in low-lying areas",
+                "Construct ponds or wetlands as natural water retention areas",
+                "Direct water flows towards such features to prevent overgrazing or erosion"
+            ]
+        },
+        {
+            "task": "Prepare land for carrots by plowing and rolling",
+            "subtasks": [
+                "Use a plow to turn the soil over, breaking up clumps and incorporating any organic matter"
+            ]
+        },
+        {
+            "task": "Use wheelbarrow to transport soil, with subtasks like pushing and scooping soil).",
             "subtasks": []
         },
         {
-            "task": "Wait, the original transcript didn't mention harvest, but given that this is a garden or farm, likely, after all the previous tasks, harvesting would be another MAINTASK. However, if the transcript was about the planting and maintenance process, maybe the user will only do those tasks. But to cover all possibilities, since in my mind, typically, planting, maintaining, and then harvesting are all part of farming. So maybe the tasks would include preparing the soil, planting, watering, weeding, and harvesting.",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare soil**",
+            "task": "Tend cornfield).",
             "subtasks": [
-                "Choose location",
-                "Turn soil",
-                "Remove weeds",
-                "Add compost"
-            ]
-        },
-        {
-            "task": "Plant seeds**",
-            "subtasks": [
-                "Identify neighbors",
-                "Space seeds appropriately",
-                "Cover seeds"
-            ]
-        },
-        {
-            "task": "Water plants**",
-            "subtasks": [
-                "Determine water needs",
-                "Apply water using bucket"
-            ]
-        },
-        {
-            "task": "Weeding**",
-            "subtasks": [
-                "Locate weeds",
-                "Hand-pull weeds",
-                "Dispose of weeds"
-            ]
-        },
-        {
-            "task": "Harvest plants**",
-            "subtasks": [
-                "Identify ripe plants",
-                "Cut plants",
-                "Collect produce"
+                "driving into fields, lowering and operating a plow).",
+                "attaching spreader, adjusting settings, monitoring application).",
+                "driving, setting combine, operating hydraulics, loading).",
+                "inspecting, replacing parts, testing).",
+                "plowing, rolling, calibrating planters).",
+                "digging, planting, covering).",
+                "turning on, monitoring distribution, adjusting settings).",
+                "handling, applying medication).",
+                "restraining, injecting).",
+                "loading, driving, selling).",
+                "collecting data, analyzing costs and yield).",
+                "draining pipes, inspecting for damage, applying anti-freeze).",
+                "numbing, applying tools, healing process).",
+                "setting up, facilitating discussions, demonstrating techniques).",
+                "mixing chemicals, securing connections, applying pesticide).",
+                "mowing, loading, conditioning), often using baling equipment."
             ]
         }
     ]

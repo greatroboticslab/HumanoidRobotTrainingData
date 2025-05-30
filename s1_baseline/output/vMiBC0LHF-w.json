@@ -5,17 +5,39 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Selecting appropriate zone control valves for a sprinkler system",
+            "task": "Choose between inline and anti-siphon zone control valves for a sprinkler system.",
             "subtasks": [
-                "Understanding the difference between inline valves and anti-siphon valves",
-                "Considering the anti-siphon device function of valves",
-                "Determining the installation height requirement for anti-siphon valves",
-                "Evaluating the serviceability of anti-siphon valves",
-                "Assessing the material usage considerations with anti-siphon valves",
-                "Recognizing the design benefits of inline control valves",
-                "Understanding the protection provided by single backflow protection with inline valves",
-                "Identifying potential drawbacks of anti-siphon valves due to non-testable backflow prevention",
-                "Researching local regulations on anti-siphon control valve usage"
+                "Understand the difference between inline and anti-siphon valves.",
+                "Determine the need for an anti-siphon valve's built-in backflow protection.",
+                "Consider the freeze protection required for anti-siphon valves.",
+                "Assess the pipe usage and water pressure equalization with inline valves.",
+                "Factor in the protection from landscaping disruption provided by inline valves.",
+                "Weigh the testability and certification of backflow prevention with inline valves.",
+                "Check local regulations regarding anti-siphon valves' use."
+            ]
+        },
+        {
+            "task": "Choose between inline and anti-siphon zone control valves for a new sprinkler system.",
+            "subtasks": [
+                "Understand the difference between inline and anti-siphon valves (including their names and functions).",
+                "Determine why anti-siphon valves have built-in backflow protection and when that's necessary.",
+                "Consider the installation requirements for anti-siphon valves (above ground, protected from freezing).",
+                "Weigh the merits of inline valves in terms of pipe usage and water pressure equalization.",
+                "Evaluate the protection provided by inline valves' burial in terms of natural landscaping and infrastructure impact.",
+                "Assess the testability and certification of backflow prevention for inline valves versus anti-siphon valves.",
+                "Research local regulations about the use of anti-siphon valves, as some areas don't allow them."
+            ]
+        },
+        {
+            "task": "MAINTASK: Choose between inline and anti-siphon zone control valves for a sprinkler system.",
+            "subtasks": [
+                "Understand the difference between inline and anti-siphon valves.",
+                "Determine the necessity of backflow protection provided by anti-siphon valves.",
+                "Consider the installation requirements and freeze protection for anti-siphon valves.",
+                "Weigh the benefits of inline valves regarding pipe usage and water pressure.",
+                "Evaluate the natural appearance and protection provided by inline valve boxes.",
+                "Assess the testability and certification of backflow prevention with inline valves.",
+                "Check local regulations regarding the use of anti-siphon valves."
             ]
         }
     ]

@@ -5,95 +5,106 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Planting and cultivating onions",
+            "task": "Onion farming process",
             "subtasks": [
-                "Soaking seeds in warm water for 12-24 hours",
-                "Treating seeds to enhance germination rate and pest resistance",
-                "Sowing seeds in seed trays or nursery soil",
-                "Preparing soil for onion growth (loose, well-drained, rich in organic matter)",
-                "Planting seeds or onion bulbs in arranged rows",
-                "Watering via drip irrigation for optimal plant development",
-                "Regular weeding to prevent nutrient competition",
-                "Applying organic fertilizers to enhance growth"
+                "Selecting seeds and treating them",
+                "Planting seeds or bulbs in prepared soil",
+                "Watering and using drip irrigation",
+                "Weeding and applying organic fertilizers",
+                "Protecting from pests and diseases",
+                "Monitoring for maturity (when tops fall over)",
+                "Hand-picking or using machines for harvesting",
+                "Sorting onions by size and quality",
+                "Cleaning and packaging for distribution"
+            ]
+        },
+        {
+            "task": "Preparing the soil",
+            "subtasks": [
+                "Ensuring the soil is loose and well-drained",
+                "Adding organic matter to the soil"
+            ]
+        },
+        {
+            "task": "Irrigation and water management",
+            "subtasks": [
+                "Using drip irrigation systems",
+                "Monitoring and adjusting water levels"
             ]
         },
         {
             "task": "Pest and disease management",
             "subtasks": [
-                "Monitoring for pests like onion thrips",
-                "Using organic or chemical-free pest control methods",
-                "Treating for diseases such as downy mildew"
+                "Adapting organic or chemical pest control methods",
+                "Treating and preventing diseases"
             ]
         },
         {
             "task": "Harvesting onions",
             "subtasks": [
-                "Checking for onion top fall to determine maturity",
-                "Carefully extracting onions from the ground to avoid damage"
+                "Checking for maturity indicators",
+                "Hand-picking onions carefully",
+                "Using specialized harvesting machines for large operations"
             ]
         },
         {
-            "task": "Post-harvest processing",
+            "task": "Post-harvest handling",
             "subtasks": [
+                "Sorting onions based on size and quality",
+                "Cleaning onions",
+                "Packaging onions for distribution"
+            ]
+        },
+        {
+            "task": "MAINTASK: Onion farming process",
+            "subtasks": [
+                "Selecting and treating seeds",
+                "Planting seeds or bulbs in prepared soil",
+                "Watering and using drip irrigation",
+                "Weeding and applying organic fertilizers",
+                "Protecting from pests and diseases",
+                "Monitoring for maturity (when tops fall over)",
+                "Hand-picking or using machines for harvesting",
                 "Sorting onions by size and quality",
-                "Cleaning and packaging onions using conveyors and automatic sorters"
+                "Cleaning and packaging for distribution"
             ]
         },
         {
-            "task": "Planting",
-            "subtasks": []
+            "task": "Preparing the soil",
+            "subtasks": [
+                "Ensuring the soil is loose and well-drained",
+                "Adding organic matter to the soil"
+            ]
         },
         {
-            "task": "Cultivating",
-            "subtasks": []
+            "task": "Irrigation and water management",
+            "subtasks": [
+                "Using drip irrigation systems",
+                "Monitoring and adjusting water levels"
+            ]
         },
         {
-            "task": "Harvesting",
-            "subtasks": []
-        },
-        {
-            "task": "Post-harvest processing",
-            "subtasks": []
-        },
-        {
-            "task": "Planting onions",
-            "subtasks": []
-        },
-        {
-            "task": "Cultivating onions",
-            "subtasks": []
+            "task": "Pest and disease management",
+            "subtasks": [
+                "Adapting organic or chemical pest control methods",
+                "Treating and preventing diseases"
+            ]
         },
         {
             "task": "Harvesting onions",
-            "subtasks": []
+            "subtasks": [
+                "Checking for maturity indicators",
+                "Hand-picking onions carefully",
+                "Using specialized harvesting machines for large operations"
+            ]
         },
         {
-            "task": "Post-harvest processing (though less physical)",
-            "subtasks": []
-        },
-        {
-            "task": "Planting onions",
-            "subtasks": []
-        },
-        {
-            "task": "Cultivating onions",
-            "subtasks": []
-        },
-        {
-            "task": "Harvesting onions",
-            "subtasks": []
-        },
-        {
-            "task": "Planting onions",
-            "subtasks": []
-        },
-        {
-            "task": "Cultivating onions",
-            "subtasks": []
-        },
-        {
-            "task": "Harvesting onions",
-            "subtasks": []
+            "task": "Post-harvest handling",
+            "subtasks": [
+                "Sorting onions based on size and quality",
+                "Cleaning onions",
+                "Packaging onions for distribution"
+            ]
         }
     ]
 }

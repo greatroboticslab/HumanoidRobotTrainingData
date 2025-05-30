@@ -5,48 +5,63 @@
     "category": "Autos & Vehicles",
     "tasks": [
         {
-            "task": "Welding and mounting a plow blade to a tractor for plowing.",
+            "task": "Install a plow blade on a tractor for snow removal.",
             "subtasks": [
-                "Obtain a weld-on plate for a quick hitch.",
-                "Weld the plate onto a previously purchased plow blade.",
-                "Attach angle cylinders to the plow blade using box steel.",
-                "Secure the plow blade onto the tractor using pins.",
-                "Test the plow blade attachment by operating the tractor.",
-                "Adjust the plow blade mechanism to ensure smooth operation.",
-                "Navigate difficult terrain (e.g., parking lot, snowy conditions) while plowing.",
-                "Use the tractor's hydraulic system to adjust the plow blade's angle for optimal performance.",
-                "Clear snow and debris from the parking lot using the plow blade.",
-                "Fine-tune the plow setup (e.g., welding for durability, adjusting controls) based on real-world testing."
+                "Purchase a weld-on plate and plow blade.",
+                "Weld the plow blade to the weld-on plate.",
+                "Attach angle cylinders to the plow blade.",
+                "Connect pins to the plow mechanism.",
+                "Operate the tractor to position the plow blade.",
+                "Test the plow blade by driving over a snow pile.",
+                "Adjust the plow blade angle for optimal snow removal.",
+                "Drive the tractor with plowed blade to clear parking lot.",
+                "Maneuver the tractor around obstacles in the barn.",
+                "Inspect welds and adjust hoses for functionality."
             ]
         },
         {
-            "task": "Troubleshooting and problem-solving during the plowing process.",
+            "task": "Operate a tractor-mounted hydraulic plow.",
             "subtasks": [
-                "Identify issues with the plow movement (e.g., getting stuck) and resolve them (e.g., using pins, turning off the tractor to release pressure).",
-                "Address hydraulic system challenges (e.g., pressure relief, angle adjustment).",
-                "Overcome environmental constraints (e.g., wind, temperature) affecting plowing efficiency.",
-                "Handle minor equipment malfunctions (e.g., stuck mechanisms, frozen components) and contingency planning (e.g., alternate plowing techniques)."
+                "Use forward and reverse shuttle to maneuver.",
+                "Shift gears without clutching using reverse shuttle.",
+                "Clear snow by repeatedly sweeping over the parking lot."
             ]
         },
         {
-            "task": "Operating a tractor with a plow attachment.",
+            "task": "Maintain winter equipment.",
             "subtasks": [
-                "Safely drive the tractor onto the work area (e.g., parking lot) with the plow attached.",
-                "Operate the tractor's controls to engage and disengage the plow blade.",
-                "Mobilize the tractor to different sections of the work area as needed.",
-                "Monitor the plow's interaction with the ground and adjust as necessary (e.g., height, angle).",
-                "Communicate with references (e.g., nearby structures, obstacles) for precise movement and alignment.",
-                "Properly disengage the plow blade from the tractor when finished or when transitioning to another task."
+                "Check for broken parts after use.",
+                "Secure hoses for future use."
             ]
         },
         {
-            "task": "Ensuring the safety of tractor and plow usage.",
+            "task": "Install a plow blade on a tractor for snow removal.",
             "subtasks": [
-                "Check all connections (e.g., pins, hydraulic lines) before operation to prevent accidents.",
-                "Examine the plow and tractor for any signs of damage or wear (e.g., welds, hoses) after testing.",
-                "Practice proper techniques for manual adjustments (e.g., angle cylinders, lever operation).",
-                "Maintain a cautious approach when operating near buildings or in confined spaces (e.g., barns, tight turns).",
-                "Utilize protective measures (e.g., gloves, charging battery pack) to handle potential hazards (e.g., cold weather, electrical issues)."
+                "** Purchase a weld-on plate and plow blade.",
+                "** Weld the plow blade to the weld-on plate.",
+                "** Attach angle cylinders to the plow blade for adjustment.",
+                "** Secure pins for the plow mechanism.",
+                "** Connect the plow to the tractor\u2019s quick hitch.",
+                "** Test the plow\u2019s functionality by driving over a snow pile.",
+                "** Adjust the plow angle for optimal performance.",
+                "** Operate the tractor to clear the parking lot.",
+                "** Maneuver the tractor around the barn and other obstacles.",
+                "** Check welds and secure hoses after use."
+            ]
+        },
+        {
+            "task": "Operate a tractor-mounted hydraulic plow.",
+            "subtasks": [
+                "** Use the forward and reverse shuttle to maneuver.",
+                "** Shift gears without clutching using the reverse shuttle.",
+                "** Clear the parking lot efficiently."
+            ]
+        },
+        {
+            "task": "Maintain winter equipment.",
+            "subtasks": [
+                "** Inspect welds for integrity.",
+                "** Secure hoses to prevent damage."
             ]
         }
     ]

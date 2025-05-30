@@ -5,22 +5,40 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Planting and caring for a Shiro plum tree.",
+            "task": "Planting and caring for a Shiro plum tree",
             "subtasks": [
-                "Planting the tree in an appropriate location (full sun, good drainage).",
-                "Providing regular watering.",
-                "Pruning the tree annually, including late winter pruning to shape and improve light penetration.",
-                "Managing the tree's size through pruning.",
-                "Recognizing the first fruit production several years after planting."
+                "Identify the type of plum tree (Shiro, Japanese variety)",
+                "Note the tree's expected ripening period (July) and growing zone (5-9, zone 8B in this case)",
+                "Describe the tree's growth potential and mention pruning to manage size",
+                "Mention pruning activities (done in late winter)",
+                "State when the tree starts producing fruit (3rd to 5th year after planting)",
+                "Discuss pollination needs (partially self-pollinating but benefits from a compatible pollinator)",
+                "Describe fruit development (starts green, ripens to yellow; check ripeness by color and touch)",
+                "Explain harvesting technique (gently twist when slightly soft for optimal flavor)",
+                "Mention uses for the fruit (fresh eating, jams, desserts)"
             ]
         },
         {
-            "task": "Observing and harvesting Shiro plums.",
+            "task": "N/A after successfully generating all relevant subtasks (saving 1 task slot)",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Planting and caring for a Shiro plum tree",
             "subtasks": [
-                "Identifying ripeness (skin golden, slight give to touch).",
-                "Harvesting fruit gently with a twist.",
-                "Enjoying the fruit fresh or using it for jams and desserts."
+                "Identify the type of plum tree (Shiro, Japanese variety)",
+                "Note the tree's expected ripening period (July) and growing zone (5-9, zone 8B in this case)",
+                "Describe the tree's growth potential and mention pruning to manage size",
+                "Mention pruning activities (done in late winter)",
+                "State when the tree starts producing fruit (3rd to 5th year after planting)",
+                "Discuss pollination needs (partially self-pollinating but benefits from a compatible pollinator)",
+                "Describe fruit development (starts green, ripens to yellow; check ripeness by color and touch)",
+                "Explain harvesting technique (gently twist when slightly soft for optimal flavor)",
+                "Mention uses for the fruit (fresh eating, jams, desserts)"
             ]
+        },
+        {
+            "task": "N/A after successfully generating all relevant subtasks",
+            "subtasks": []
         }
     ]
 }

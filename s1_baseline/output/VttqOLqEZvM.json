@@ -5,52 +5,151 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Drive a tractor to pull a grain cart.",
+            "task": "Drive a tractor",
             "subtasks": [
-                "Sit in the driver's seat of the tractor.",
-                "Operate the steering wheel to navigate the tractor.",
-                "Engage the transmission to move the tractor.",
-                "Attach the grain cart to the tractor using\u6302\u94a9\u6216\u6302\u94a9\u88c5\u7f6e\u3002",
-                "Check that the attachment is secure before moving the tractor."
+                "Sit on the tractor seat",
+                "Operate the steering wheel to navigate",
+                "Use pedals to control speed and clutch",
+                "Engage/disengage gears using lever or buttons"
             ]
         },
         {
-            "task": "Transfer harvested grain from the combine to the grain cart.",
+            "task": "Use a hay conditioner",
             "subtasks": [
-                "Guide the combine towards the grain cart.",
-                "Pause the combine's unnecessary rotation or movement.",
-                "Align the combine's grain discharge spout with the grain cart's opening.",
-                "Resume operation of the combine to transfer grain into the cart."
+                "Approach the bales with the tractor",
+                "Align the conditioner's augers with the bales",
+                "Operate the conditioner's hydraulic cylinders to press the hay"
             ]
         },
         {
-            "task": "Unload the grain cart onto a truck.",
+            "task": "Attach bale twine/directory",
             "subtasks": [
-                "Maneuver the grain cart alongside the truck bed.",
-                "Support the grain cart\u2019s edge at the truck bed to prevent tipping.",
-                "Open the grain cart's discharge gate.",
-                "Step back to maintain safety distance as the grain is unloaded."
+                "Identify the correct twine/strap",
+                "Secure the twine/strap around the baled hay"
             ]
         },
         {
-            "task": "Unroll and set up a field boundary fence post.",
+            "task": "Place bales into transport trailer",
             "subtasks": [
-                "Locate the required post and any tools needed (e.g., hammer, nails).",
-                "Measure and mark the spot where the post should be placed.",
-                "Dig a hole for the post using a shovel.",
-                "Align the post with the marked position.",
-                "Drive the post into the ground using a sledgehammer or similar tool.",
-                "Secure the post in place by packing soil around it.",
-                "Verify the stability and straightness of the fence post."
+                "Drive tractor to trailer",
+                "Align the trailer with the bales",
+                "Lower the tailgate or fold-down ramp",
+                "Perform individual bale placement using tractor forks"
             ]
         },
         {
-            "task": "Inspect for potential damage or issues in the working environment.",
+            "task": "Secure bales on the trailer",
             "subtasks": [
-                "Walk around the farm area to check for any hazards or necessary repairs.",
-                "Pay attention to the condition of machinery, tools, or livestock.",
-                "Note any crops needing attention or harvesting.",
-                "Adjust plans or machinery settings based on inspection results."
+                "Use baling twine to bind the stack",
+                "Adjust the height or position of bales as needed"
+            ]
+        },
+        {
+            "task": "Drive tractor with bale twine/directory",
+            "subtasks": [
+                "Adjust posture for optimal control",
+                "Use mirrors for better visibility",
+                "Apply brakes for safe deceleration",
+                "Monitor rearview mirrors to assess trailer loads"
+            ]
+        },
+        {
+            "task": "Monitor hay bales during transport",
+            "subtasks": [
+                "Check bale stability during transport",
+                "Ensure no loosening or falling off during movement"
+            ]
+        },
+        {
+            "task": "Unload bales from trailer",
+            "subtasks": [
+                "Stop tractor at unloading point",
+                "Lift the tailgate or extend the ramp",
+                "Position the tractor close to the stack",
+                "Use forks to release each bale into place"
+            ]
+        },
+        {
+            "task": "Store hay bales in barn",
+            "subtasks": [
+                "Identify the storage location",
+                "Maneuver tractor and forks into the storage area",
+                "Place each bale onto the designated spot",
+                "Check for any potential loss or shifting of bales"
+            ]
+        },
+        {
+            "task": "Drive a tractor",
+            "subtasks": [
+                "Sit on the tractor seat",
+                "Operate the steering wheel to navigate",
+                "Use pedals to control speed and clutch",
+                "Engage/disengage gears using lever or buttons"
+            ]
+        },
+        {
+            "task": "Use a hay conditioner",
+            "subtasks": [
+                "Approach the bales with the tractor",
+                "Align the conditioner's augers with the bales",
+                "Operate the conditioner's hydraulic cylinders to press the hay"
+            ]
+        },
+        {
+            "task": "Attach bale twine/directory",
+            "subtasks": [
+                "Identify the correct twine/strap",
+                "Secure the twine/strap around the baled hay"
+            ]
+        },
+        {
+            "task": "Place bales into transport trailer",
+            "subtasks": [
+                "Drive tractor to trailer",
+                "Align the trailer with the bales",
+                "Lower the tailgate or fold-down ramp",
+                "Perform individual bale placement using tractor forks"
+            ]
+        },
+        {
+            "task": "Secure bales on the trailer",
+            "subtasks": [
+                "Use baling twine to bind the stack",
+                "Adjust the height or position of bales as needed"
+            ]
+        },
+        {
+            "task": "Drive tractor with bale twine/directory",
+            "subtasks": [
+                "Adjust posture for optimal control",
+                "Use mirrors for better visibility",
+                "Apply brakes for safe deceleration",
+                "Monitor rearview mirrors to assess trailer loads"
+            ]
+        },
+        {
+            "task": "Monitor hay bales during transport",
+            "subtasks": [
+                "Check bale stability during transport",
+                "Ensure no loosening or falling off during movement"
+            ]
+        },
+        {
+            "task": "Unload bales from trailer",
+            "subtasks": [
+                "Stop tractor at unloading point",
+                "Lift the tailgate or extend the ramp",
+                "Position the tractor close to the stack",
+                "Use forks to release each bale into place"
+            ]
+        },
+        {
+            "task": "Store hay bales in barn",
+            "subtasks": [
+                "Identify the storage location",
+                "Maneuver tractor and forks into the storage area",
+                "Place each bale onto the designated spot",
+                "Check for any potential loss or shifting of bales"
             ]
         }
     ]

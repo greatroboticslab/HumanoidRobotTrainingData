@@ -5,31 +5,41 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Scoring system for shed hygiene in dairy cows",
+            "task": "Scoring cow hygiene in a dairy shed.",
             "subtasks": [
-                "Evaluate flank and tail area",
-                "Assess lower hind leg cleanliness",
-                "Inspect udder and hindquarters for dirtiness",
-                "Assign score (0, 1, or 2) based on dirtiness extent"
+                "Observe and inspect cows' flank, tail area.",
+                "Evaluate dirtiness in lower hind legs.",
+                "Assess udder cleanliness.",
+                "Assign score (0, 1, or 2) based on dirt accumulation.",
+                "Interpret scoring results to identify hygiene issues.",
+                "Differentiate cleaning problems (passageways, drainage) from lying area issues.",
+                "Consider udder and hind leg dirtiness in problem diagnosis.",
+                "Analyze widespread dirtiness for overcrowding or manure removal concerns."
             ]
         },
         {
-            "task": "Identify hygiene issues based on scoring results",
+            "task": "Discuss mastitis infection origins.",
             "subtasks": [
-                "Detect problems in passageways or drainage",
-                "Determine lying area cleanliness issues",
-                "Check for tail and flank dirt due to diarrhea",
-                "Investigate potential dietary causes of dirtiness",
-                "Assess overall shed conditions for overcrowding or manure buildup"
+                "Explain how bacteria enter the teat end via the teat canal.",
+                "Describe the battle between bacteria and cow's immune system in mastitis."
             ]
         },
         {
-            "task": "MAINTASK: Scoring system for shed hygiene in dairy cows",
-            "subtasks": []
+            "task": "MAINTASK: Scoring cow hygiene in a dairy shed.",
+            "subtasks": [
+                "Observe and inspect cows' flank (including the tail) for dirtiness.",
+                "Evaluate the dirtiness level in the lower hind legs of cows.",
+                "Assess the udder's cleanliness and assign a score based on the level of dirtiness.",
+                "Interpret the hygiene scores (0, 1, or 2) to determine shed hygiene issues.",
+                "Identify specific hygiene problems in cleaning passageways, drainage, lying areas, or overcrowding based on the dirtiest part of the cow."
+            ]
         },
         {
-            "task": "Identify hygiene issues based on scoring results",
-            "subtasks": []
+            "task": "Discussing mastitis infection origins.",
+            "subtasks": [
+                "Explain how bacteria invade the teat end via the teat canal.",
+                "Describe the immune response to mastitis infection in dairy cows."
+            ]
         }
     ]
 }

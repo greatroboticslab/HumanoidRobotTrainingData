@@ -5,16 +5,30 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Troubleshoot and resolve water contamination in a New Holland hydraulic reservoir.",
+            "task": "Perform hydraulic reservoir draining and line flushing on a New Holland machine due to water contamination.",
+            "subtasks": []
+        },
+        {
+            "task": "",
             "subtasks": [
-                "Drain the hydraulic reservoir to remove contaminated oil.",
-                "Confirm the source of water ingress by inspecting the reservoir cap filters and potential gasket failures.",
-                "Replace faulty gaskets and apply silicone sealant at critical points (e.g., reservoir cap, breather filter cover).",
-                "Modify the reservoir cover with a custom plastic container and lid to prevent water accumulation.",
-                "Flush hydraulic lines to remove remaining contaminants and ensure proper fluid flow.",
-                "Install a new hydraulic filter to prevent future contamination.",
-                "Monitor the system post-repairs for proper performance and fluid clarity."
+                "Identify water contamination in hydraulic lines (white, milky oil).",
+                "Remove dipstick securely and connect pump to reservoir.",
+                "Transfer contaminated oil to a bucket using the pump.",
+                "Inspect reservoir cap and filter for proper placement and condition.",
+                "Examine gasket seals around the reservoir cap and replace as necessary.",
+                "Reinstall reservoir cap and ensure proper sealing.",
+                "Refill reservoir with clean hydraulic fluid.",
+                "Operate machine to cycle fluid through auxiliary lines.",
+                "Drain auxiliary lines into a bucket while bleeding air/faulty fluid.",
+                "Repeat fluid checks and line bleeds until only clean hydraulic fluid is present.",
+                "Install new hydraulic filter to replace contaminated one.",
+                "Seal reservoir cover with a modified container and silicone sealant.",
+                "Confirm no water contamination in fluid by visual inspection and testing."
             ]
+        },
+        {
+            "task": "Perform hydraulic reservoir draining and line flushing on a New Holland machine due to water contamination.",
+            "subtasks": []
         }
     ]
 }

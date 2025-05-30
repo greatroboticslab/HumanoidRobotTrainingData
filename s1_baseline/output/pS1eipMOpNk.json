@@ -5,9 +5,23 @@
     "category": "Music",
     "tasks": [
         {
-            "task": "Recognize the rarity of the event",
+            "task": "Identify valuable rare find",
             "subtasks": [
-                "Identify the subject matter as a unique occurrence"
+                "Walk to the location of the find",
+                "Bend down or kneel to inspect the ground closely",
+                "Examine the object found to determine its rarity and value"
+            ]
+        },
+        {
+            "task": "\"This time, so I lay it on the line I know that what I found Is once in a lifetime.\" Hmm. So, the speaker is referring to a discovery they made, something they consider extremely rare or valuable. I need to generate tasks related to physical actions a person would perform in relation to this. The main task seems to be identifying the valuable find. So that's the MAINTASK. To break it down, someone would first need to walk to the location where the find was made. Then, they would have to get closer, maybe bend down or kneel to inspect the ground properly. Then, they would need to examine the object to determine its rarity and value. That makes sense. Each of those steps is a subtask under the main task of identifying the valuable find. I think that covers it. There might not be any other physical actions related to agriculture or farming here, since the context is more of a personal discovery rather than farming-related work. Therefore, the accepted answer should include these three subtasks. I'll just confirm quickly. Walk to location, then get close to inspect, then examine the object. Yes. So the MAINTASK is identifying the valuable find, with three subtasks. Then the final answer should list those three subtasks with MAINTASK first. Yep.",
+            "subtasks": []
+        },
+        {
+            "task": "Identify valuable rare find",
+            "subtasks": [
+                "Walk to the location of the find",
+                "Bend down or kneel to inspect the ground closely",
+                "Examine the object found to determine its rarity and value"
             ]
         }
     ]

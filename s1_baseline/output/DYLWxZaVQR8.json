@@ -5,30 +5,51 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Conducting archaeological surveys using precision agriculture and NDVI techniques.",
+            "task": "Conducting NDVI aerial surveys for archaeological site detection",
             "subtasks": [
-                "Researching historical and archaeological sources for the Roman road.",
-                "Verifying the course of the Roman road using historical maps and plans.",
-                "Conducting an exhaustive toponymic study of relevant place names.",
-                "Analyzing aerial photographs dating from 1972 to present for potential road locations.",
-                "Applying infrared camera technology via drones to capture near-infrared wavelength images.",
-                "Calculating NDVI index from drone photographs to assess crop health.",
-                "Comparing NDVI results with historical images to identify potential archaeological features.",
-                "Identifying cut features (white in NDVI images) and non-growing areas (dark) indicative of paved roads and ditches.",
-                "Verifying findings with contemporary ground-level observations (e.g., excavations for gas pipes).",
-                "Mapping identified features and comparing them to historical conjectures.",
-                "Evaluating the effectiveness of the NDVI method for archaeological remains.",
-                "Documenting positive and negative results for various sections of the Roman road.",
-                "Interpreting anomalies that may indicate additional archaeological structures."
+                "Preparing drones with infrared cameras for the survey",
+                "Flying drones at the optimal altitude (75 meters) and spatial resolution (3.2 cm per pixel)",
+                "Capturing near-infrared (NDVI) photographs using serdo-NDVI technique",
+                "Processing and analyzing photographs in QGIS for ground deploy and NDVI index calculation",
+                "Comparing NDVI results with historical imagery from archives",
+                "Identifying anomalies indicative of buried structures (e.g., cut features, ditches, walls)",
+                "Verifying identified features through historical data and contemporary confirmations (e.g., gas trench images)",
+                "Mapping and analyzing results across multiple flight zones (10 in total)",
+                "Validating method efficacy through control areas (secure, probable, undocumented)",
+                "Confirming Roman road presence through consistent features like dark pavement surrounded by white ditches",
+                "Discovering ancillary archaeological findings (e.g., built structures, urban remains) beyond primary objectives"
             ]
         },
         {
-            "task": "Sharing feedback as a satisfied user of the precision agriculture technique for archaeological research.",
+            "task": "Integrating precision agriculture techniques into archaeological research",
             "subtasks": [
-                "Expressing satisfaction with the solution provided for the Roman road location problem.",
-                "Describing the outcome of the experiment, including validated sections and new discoveries.",
-                "Highlighting the potential of infrared and NDVI techniques for extensive and intensive archaeological research.",
-                "Acknowledging the success in solving a historically complex problem for Alaba's heritage."
+                "Utilizing NDVI for non-invasive, cost-effective large-scale surveys",
+                "Enhancing feature detection through contrast between photosynthesis-active plants (white) and non-growing areas (dark)",
+                "Expanding potential for both extensive (general area coverage) and intensive (specific feature study) archaeological investigations",
+                "Facilitating rapid and efficient data collection compared to traditional methods",
+                "Minimizing site disturbance through non-invasive photographic techniques"
+            ]
+        },
+        {
+            "task": "Archaeological site location via aerial remote sensing",
+            "subtasks": [
+                "Analyzing toponymic data and historical maps for potential site identification",
+                "Employing airborne photography (vertical and low-level) for feature recognition",
+                "Experimenting with IDAR (Integrated Desert Archaeology Research) technology for detailed analysis",
+                "Conducting limited ground truthing in secure areas (e.g., area 4 and 5) to validate method",
+                "Extending coverage to probable and undocumented sites based on stereographic evidence and model expectations",
+                "Interpreting NDVI anomalies as archaeological indicators (e.g., dark roads flanked by white ditches, built structures)",
+                "Grounding hypotheses with correlative data from historical images and site confirmations"
+            ]
+        },
+        {
+            "task": "Historical route verification of the Roman road Aiter 34 in Alaba",
+            "subtasks": [
+                "Resolving longstanding debates about the road's route through multiplesource verification",
+                "Evaluating seven areas through systematic aerial survey and framing problematic sectors",
+                "Confirming road alignment through consistent NDVI anomalies (dark path with flanking ditches)",
+                "Extending knowledge of the road's extent from identified sections to adjacent probable and undocumented locations",
+                "Unearthing new historical contexts (e.g., Massio Archivitas, Garona settlement) through co-occurring archaeological features"
             ]
         }
     ]

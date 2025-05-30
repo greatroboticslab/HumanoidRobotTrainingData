@@ -5,35 +5,67 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Choose appropriate farming type",
+            "task": "Choose appropriate farming based on capability and interest",
             "subtasks": [
-                "Assess personal capability",
-                "Determine farming interest"
+                "Identify personal interests in farming",
+                "Assess own capabilities for specific types of farming"
             ]
         },
         {
-            "task": "Acquire farming knowledge",
+            "task": "Gaining knowledge about the chosen farming",
             "subtasks": [
-                "Research farming methods via digital means (e.g., Google, YouTube)",
-                "Gain basic understanding of desired crop (e.g., maize growth processes)"
+                "Research farming techniques online (e.g., Google, YouTube)",
+                "Understand the growth processes of the chosen crop (e.g., maize)"
             ]
         },
         {
-            "task": "Implement good farm management",
+            "task": "Ensuring good farm management practices",
             "subtasks": [
-                "Hire knowledgeable farm experts",
-                "Use quality equipment and inputs",
-                "Follow proper agricultural practices (e.g., timely planting, fertilization, cultivation)",
-                "Maintain farm cleanliness"
+                "Hiring knowledgeable experts for farming",
+                "Investing in quality equipment and inputs",
+                "Adhering to timely farming activities (e.g., planting, fertilizing, cultivating)",
+                "Maintaining a clean farm environment to prevent pests and diseases"
             ]
         },
         {
-            "task": "Plan market strategies",
+            "task": "Planning market strategy for agricultural products",
             "subtasks": [
-                "Identify target customers",
-                "Determine product delivery methods",
-                "Set pricing and sales strategies",
-                "Anticipate potential post-harvest issues (e.g., product spoilage)"
+                "Identifying target customers for products",
+                "Determining methods for delivering products to market",
+                "Anticipating potential product deterioration and planning for storage or sale",
+                "Setting business plans for selling products at competitive prices"
+            ]
+        },
+        {
+            "task": "Choose appropriate farming based on capability and interest**",
+            "subtasks": [
+                "Identify personal interests in specific farming activities (e.g., maize, other crops).",
+                "Assess own capabilities for chosen farming methods."
+            ]
+        },
+        {
+            "task": "Gaining knowledge about the chosen farming**",
+            "subtasks": [
+                "Research farming techniques through online resources (e.g., Google, YouTube).",
+                "Understand the growth processes and management of the chosen crop (e.g., maize)."
+            ]
+        },
+        {
+            "task": "Ensuring good farm management practices**",
+            "subtasks": [
+                "Hire knowledgeable experts to manage the farm when absent.",
+                "Invest in quality equipment and inputs for the farm.",
+                "Adhere to timely farming activities (e.g., planting, fertilizing, cultivation).",
+                "Maintain a clean farm environment to prevent pests and diseases."
+            ]
+        },
+        {
+            "task": "Planning market strategy for agricultural products**",
+            "subtasks": [
+                "Identify target customers for the products.",
+                "Determine methods for delivering products to market.",
+                "Anticipate and plan for product deterioration (e.g., storage, sale).",
+                "Develop business plans for competitive pricing and sales."
             ]
         }
     ]

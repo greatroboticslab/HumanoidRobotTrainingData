@@ -5,39 +5,187 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Implement Good Agricultural Practices (GAP) for farm production and post-production to ensure food safety and sustainability.",
+            "task": "Implement Good Agricultural Practices (GAP) for food safety and sustainability.",
+            "subtasks": [
+                "Adhere to principles of safe and wholesome food production.",
+                "Apply sustainable agricultural methods.",
+                "Address economic, social, and environmental sustainability.",
+                "Update and maintain a common database on integrated production techniques."
+            ]
+        },
+        {
+            "task": "Manage soil health and conservation.",
+            "subtasks": [
+                "Reduce erosion through hedging and ditching.",
+                "Apply fertilizers appropriately (timing and dosage).",
+                "Maintain soil organic content (e.g., manure application, crop rotation).",
+                "Prevent compaction (limit heavy machinery use).",
+                "Preserve soil structure (limit intensive tillage).",
+                "In situ green manuring (e.g., growing pulse crops)."
+            ]
+        },
+        {
+            "task": "Optimize water management.",
+            "subtasks": [
+                "Practice scheduled irrigation based on plant and soil needs.",
+                "Monitor water reserve status and avoid drainage.",
+                "Prevent soil salinization and recycle water.",
+                "Align crop water requirements with availability.",
+                "Maintain permanent soil cover (e.g., winter cover crops).",
+                "Manage water tables by limiting heavy extraction."
+            ]
+        },
+        {
+            "task": "Ensure animal welfare and health.",
+            "subtasks": [
+                "Maintain livestock freedom (seven freedoms).",
+                "Avoid non-therapeutic mutilations and harmful procedures.",
+                "Prevent contamination of land, food, water, and air.",
+                "Limit antibiotic and hormone use.",
+                "Segregate animal feed (no animal wastes or matter).",
+                "Minimize transport to reduce disease risks.",
+                "Control waste runoff (e.g., nitrate contamination, methane emissions)."
+            ]
+        },
+        {
+            "task": "Maintain traceability and safety measures.",
+            "subtasks": [
+                "Apply traceability processes throughout the production chain.",
+                "Monitor and manage medical treatments.",
+                "Ensure public health through quality assurance in plant production."
+            ]
+        },
+        {
+            "task": "Protect public health through GAP.",
+            "subtasks": [
+                "Address zoonotic diseases (e.g., foot and mouth disease).",
+                "Minimize chemical and medical residues in the food chain."
+            ]
+        },
+        {
+            "task": "Contribute to food security and quality.",
+            "subtasks": [
+                "Economically produce sufficient food.",
+                "Ensure food safety, wholesomeness, and nutrition.",
+                "Continuously improve production practices through education and standards."
+            ]
+        },
+        {
+            "task": "Implement Good Agricultural Practices (GAP) for food safety and sustainability.\" Then, we need to dive into the specifics of what GAP entails.",
             "subtasks": []
         },
         {
-            "task": "Apply GAP in the United States Department of Agriculture (USDA) GAP and GHP Program.",
+            "task": "Moving on, the transcript talks about soil management. So here, the MAINTASK would be managing soil health and conservation. Subtasks under this could include reducing erosion through hedging and ditching, applying fertilizers appropriately (right timing and dosage to avoid runoff), maintaining organic content through practices like manure application and crop rotation, preventing compaction by limiting heavy machinery use, preserving soil structure, and doing in-situ green manuring with crops like cowpea or sun hemp.",
             "subtasks": []
         },
         {
-            "task": "Execute soil management practices according to GAP.",
+            "task": "Water management is another key area. The MAINTASK here is optimizing water management. Subtasks could be practicing scheduled irrigation based on plant and soil needs, monitoring water reserve levels to avoid waste, preventing soil salinization by conserving water input, making sure crops match the water availability in the area, maintaining permanent soil cover to prevent nitrogen loss, and managing water tables.",
             "subtasks": []
         },
         {
-            "task": "Implement water management strategies per GAP.",
+            "task": "ensuring animal welfare and health. This includes maintaining the seven freedoms (freedom from hunger, thirst, discomfort, pain, etc.), avoiding mutilations or harmful procedures, preventing contamination, limiting antibiotic use, segregating feeds, reducing transport to minimize disease risks, controlling waste runoff like methane from cattle, etc.",
             "subtasks": []
         },
         {
-            "task": "Ensure animal health, welfare, and care as per GAP.",
+            "task": "Traceability and safety measures are part of GAP too. The MAINTASK here is maintaining traceability and safety measures. Subtasks would include applying traceability throughout the production chain, monitoring medical treatments, and ensuring public health through quality assurance.",
             "subtasks": []
         },
         {
-            "task": "Maintain traceability and quality assurance in production.",
+            "task": "Wait, does \"convering stanzas for main task\" mean each MAINTASK should have its own line, followed by the corresponding subtasks? If so, that's how I structured it above. Each main topic in the transcript becomes a MAINTASK, followed by the specific subtasks involved. Yes, that seems right.",
             "subtasks": []
         },
         {
-            "task": "Implement Good Agricultural Practices (GAP) for farm production and post-production to ensure food safety and sustainability.",
+            "task": "Implement Good Agricultural Practices (GAP) for food safety and sustainability.",
+            "subtasks": [
+                "Adhere to principles of safe and wholesome food production.",
+                "Apply sustainable agricultural methods.",
+                "Address economic, social, and environmental sustainability.",
+                "Update and maintain a common database on integrated production techniques."
+            ]
+        },
+        {
+            "task": "Manage soil health and conservation.",
+            "subtasks": [
+                "Reduce erosion through hedging and ditching.",
+                "Apply fertilizers appropriately (timing and dosage).",
+                "Maintain soil organic content (e.g., manure application, crop rotation).",
+                "Prevent compaction issues (limiting heavy machinery use).",
+                "Maintain soil structure (limiting intensive tillage).",
+                "In situ green manuring (e.g., growing pulse crops)."
+            ]
+        },
+        {
+            "task": "Optimize water management.",
+            "subtasks": [
+                "Practice scheduled irrigation based on plant and soil needs.",
+                "Monitor water reserve status and avoid drainage.",
+                "Prevent soil salinization and recycle water.",
+                "Align crop water requirements with availability.",
+                "Maintain permanent soil cover (e.g., winter cover crops).",
+                "Manage water tables by limiting heavy extraction."
+            ]
+        },
+        {
+            "task": "Ensure animal welfare and health.",
+            "subtasks": [
+                "Maintain livestock freedom (hunger, thirst, discomfort, pain, etc.).",
+                "Avoid non-therapeutic mutilations and procedures.",
+                "Prevent contamination of land, food, water, and air.",
+                "Limit antibiotic and hormone use.",
+                "Segregate animal feed (no animal waste or matter).",
+                "Minimize transport to reduce disease risks.",
+                "Control waste runoff (e.g., nitrate contamination, methane emissions)."
+            ]
+        },
+        {
+            "task": "Maintain traceability and safety measures.",
+            "subtasks": [
+                "Apply traceability processes throughout the production chain.",
+                "Monitor and manage medical treatments.",
+                "Ensure public health through quality assurance in plant production."
+            ]
+        },
+        {
+            "task": "Protect public health through GAP.",
+            "subtasks": [
+                "Address zoonotic diseases (e.g., foot and mouth disease).",
+                "Minimize chemical and medical residues in the food chain."
+            ]
+        },
+        {
+            "task": "Contribute to food security and quality.",
+            "subtasks": [
+                "Economically produce sufficient food.",
+                "Ensure food safety, wholesomeness, and nutrition.",
+                "Continuously improve production practices through education and standards."
+            ]
+        },
+        {
+            "task": "Implement Good Agricultural Practices (GAP) for food safety and sustainability.**",
             "subtasks": []
         },
         {
-            "task": "The main task based on the transcript is **MAINTASK: Implement Good Agricultural Practices (GAP) for farm production and post-production to ensure food safety and sustainability**. This involves several subtasks:",
+            "task": "Manage soil health and conservation.**",
             "subtasks": []
         },
         {
-            "task": "Implement Good Agricultural Practices (GAP) for farm production and post-production to ensure food safety and sustainability.",
+            "task": "Optimize water management.**",
+            "subtasks": []
+        },
+        {
+            "task": "Ensure animal welfare and health.**",
+            "subtasks": []
+        },
+        {
+            "task": "Maintain traceability and safety measures.**",
+            "subtasks": []
+        },
+        {
+            "task": "Protect public health through GAP.**",
+            "subtasks": []
+        },
+        {
+            "task": "Contribute to food security and quality.**",
             "subtasks": []
         }
     ]

@@ -5,42 +5,27 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Assembling a Gantry Carriage System for Automated Farming",
-            "subtasks": [
-                "Positioning the Gantry Shaft, noting to leave an empty block at each end to prevent crop uprooting when the carriage reverses direction.",
-                "Attaching the Gantry Carriage to the Gantry Shaft and ensuring it can move freely along the length.",
-                "Installing redstone contacts on each end of the Gantry Carriage to detect when the carriage reaches the extremities of the farm.",
-                "Connecting redstone links between the redstone contacts on the carriage and the receiver, required for signaling the machine to reverse direction.",
-                "Configuring the gear shift mechanism using a toggle latch to reverse the rotation direction of the Gantry Shaft via Redstone signals.",
-                "Setting up the machine's operational controls, including an on/off switch with a sticky piston and lever for toggling power.",
-                "Ensuring the Redstone links are set to a unique frequency to prevent interference with other systems in the game world.",
-                "Planting crops in designated areas of the farm, beginning one block past the farthest point of the moving carriage to avoid damage.",
-                "Connecting storage and output interfaces (chests, hoppers) to handle harvested crops, including setting up chutes or funnels for efficient unloading."
-            ]
-        },
-        {
-            "task": "Automating the Farming Process",
-            "subtasks": [
-                "Activating the Redstone system to initiate movement of the Gantry Carriage along the Shaft, powered by the gear shift mechanism.",
-                "Monitoring the system's operation, verifying that the carriage moves back and forth automatically, triggering harvest intervals at the correct intervals.",
-                "Adjusting the water wheel's RPM (if applicable) to control the speed of the Gantry Shaft and, consequently, the movement of the harvesters.",
-                "Collecting harvested items from the storage chests or retrieving them as needed, ensuring the system's continuous operation."
-            ]
-        },
-        {
-            "task": "Assembling a Gantry Carriage System for Automated Farming",
+            "task": "Assembling a Create Crop Farm using the Gantry Carriage System",
             "subtasks": []
         },
         {
-            "task": "Automating the Farming Process",
+            "task": "...Completed the fully automatic, expandable Create Crop Farm using the Gantry Carriage System. Answer: To construct the farm, assemble the Gantry Shaft, attach the Gantry Carriage and chassis, position the harvesters, set up redstone contacts for rotation control, plant crops away from the machine's moving parts, configure the toggle latch and gear shift, and establish a chute system for crop output. The process ensures automated operation with minimal manual intervention. [[.SafeBoat]] [[Minecraft Command Blocks]]",
             "subtasks": []
         },
         {
-            "task": "Assembling a Gantry Carriage System for Automated Farming**",
+            "task": "Assembling a Create Crop Farm using the Gantry Carriage System",
             "subtasks": []
         },
         {
-            "task": "Automating the Farming Process**",
+            "task": "Assembling a Create Crop Farm using the Gantry Carriage System",
+            "subtasks": []
+        },
+        {
+            "task": "Assembling a Create Crop Farm using the Gantry Carriage System",
+            "subtasks": []
+        },
+        {
+            "task": "** Assembling a Create Crop Farm using the Gantry Carriage System",
             "subtasks": []
         }
     ]

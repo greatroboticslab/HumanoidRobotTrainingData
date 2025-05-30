@@ -5,15 +5,27 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Contain and dispose of a pesticide spill.",
+            "task": "Spill Containment and Cleanup",
             "subtasks": [
-                "Use sand or sawdust from the spill kit to absorb the liquid.",
-                "Act quickly before the spill spreads or penetrates the surface.",
-                "Scoop up contaminated material.",
-                "Place scooped material into a plastic bag.",
-                "Securely seal the bag.",
-                "Label the bag for safe disposal.",
-                "Visit www.cdc.gov.au for more information on pesticide use and PPE."
+                "Identify and assess the spill",
+                "Retrieve spill kit containing sand or sawdust",
+                "Apply sand or sawdust to contain and absorb the liquid",
+                "Monitor spill progression and act promptly",
+                "Gather contaminated material into a plastic bag",
+                "Seal and label the plastic bag for safe disposal",
+                "Access additional information on pesticides and personal protective equipment (PPE) via www.cdc.gov.au"
+            ]
+        },
+        {
+            "task": "MAINTASK: Spill Containment and Cleanup",
+            "subtasks": [
+                "Identify and assess the spill",
+                "Retrieve spill kit containing sand or sawdust",
+                "Apply sand or sawdust to contain and absorb the liquid",
+                "Monitor spill progression and act promptly",
+                "Gather contaminated material into a plastic bag",
+                "Seal and label the plastic bag for safe disposal",
+                "Access additional information on pesticides and personal protective equipment (PPE) via www.cdc.gov.au"
             ]
         }
     ]

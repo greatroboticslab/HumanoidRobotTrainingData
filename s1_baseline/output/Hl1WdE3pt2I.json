@@ -5,22 +5,43 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Assessing rice field insect activity and natural pest control.",
+            "task": "Assessing insect presence and impact on rice plants",
             "subtasks": [
-                "Identify whirled maggots and determine their significance.",
-                "Recognize parasitoid wasp cocoons and their role in controlling pests.",
-                "Observe lady beetles and their predatory behavior against herbivores.",
-                "Note dragonfly presence and their impact on mosquito larvae.",
-                "Identify midges as decomposers and beneficial to the ecosystem.",
-                "Evaluate the difference between beneficial insects and perceived pests."
+                "Confirming current stage of rice plant development",
+                "Identifying potential insect pests (e.g., whirled maggots, leaf folders)",
+                "Evaluating natural enemy presence and activity (e.g., parasitoid wasps, lady beetles, dragonflies)",
+                "Recognizing beneficial insects' role in controlling pest populations",
+                "Monitoring for signs of animal damage (e.g., rat infestation)"
             ]
         },
         {
-            "task": "Monitoring for rodent damage in the rice field.",
+            "task": "Evaluating natural ecosystem balance in a rice field",
             "subtasks": [
-                "Notice signs of rat activity, such as chewed seedlings.",
-                "Assess the potential for rat damage and limitations in mitigation."
+                "Observing interactions between aquatic insects and mosquito control",
+                "Noting the role of spiders in predating plant hoppers",
+                "Considering human perception of insect presence and potential misapplication of pesticides"
             ]
+        },
+        {
+            "task": "Addressing rat damage in agricultural fields",
+            "subtasks": [
+                "Detecting and assessing damage caused by rodents",
+                "Considering preventive measures or recovery strategies for affected areas"
+            ]
+        },
+        {
+            "task": "MAINTASK: Inspect and monitor the rice field for pests and beneficial insects; report any signs of damage, particularly from rats.**",
+            "subtasks": []
+        },
+        {
+            "task": "Inspect and monitor the rice field for pests and beneficial insects; report any signs of damage, particularly from rats.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Inspect and monitor the rice field for insects and beneficial organisms; report any signs of damage, particularly from rodents.",
+            "subtasks": []
         }
     ]
 }

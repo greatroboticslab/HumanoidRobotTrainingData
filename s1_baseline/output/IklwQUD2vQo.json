@@ -5,27 +5,33 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Assisting in the birth and caring for newborn goats during labor.",
+            "task": "Assist a goat during childbirth",
             "subtasks": [
-                "Preparing materials for assistance (e.g., puppy pads, towels).",
-                "Observing the labor process and identifying progress (looking for a nose, noting presentation of hooves).",
-                "Monitoring the mother's contractions and encouraging natural delivery.",
-                "Assisting with the delivery of multiple babies (cleaning airways, helping the firstborn, allowing natural birth of subsequent offspring).",
-                "Ensuring proper neonatal care (cleaning, feeding, and encouraging breastfeeding).",
-                "Addressing the mother's discomfort and anxiety (coaxing her to tend to her offspring).",
-                "Providing supplemental feeding if necessary to ensure the newborns begin lactation."
+                "Prepare supplies for assisting birth (puppy pads, towels)",
+                "Monitor labor progress (checking for nose, contractions)",
+                "Ensure safe delivery space (keeping area clean)",
+                "Support mother during delivery (allowing natural process unless complications)",
+                "Care for newborns (wiping airways, positioning)",
+                "Facilitate first nursing (coaxing mother to nurse, assisting if needed)",
+                "Check nursing progress and overall health of mother and newborns"
             ]
         },
         {
-            "task": "Feeding the baby goats.",
+            "task": "Feed and care for newborn goats",
             "subtasks": [
-                "Identifying individual babies (e.g., referring to them as boy and girl).",
-                "Ensuring the newborns have access to milk when the mother is preoccupied (bribing with food, hand-feeding if needed)."
+                "Ensure post-birth nutrition (providing grain and milk replacer)",
+                "Monitor mother's milk expression (assuring sufficient milk supply)",
+                "Manage multiple offspring (soothing and keeping them separated if necessary)",
+                "Maintain cleanliness (cleaning areas where newborns feed)"
             ]
         },
         {
-            "task": "Assisting in the birth and caring for newborn goats during labor.**",
-            "subtasks": []
+            "task": "Manage older goats during birthing assistance",
+            "subtasks": [
+                "Observe senior goats' assistance (Ruby helping during birth)",
+                "Ensure retired goats do not interfere (gently directing Ruby if needed)",
+                "Assess mother's and older goats' well-being (checking health and comfort)"
+            ]
         }
     ]
 }

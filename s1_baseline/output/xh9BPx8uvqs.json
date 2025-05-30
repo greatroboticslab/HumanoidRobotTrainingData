@@ -5,80 +5,136 @@
     "category": "Autos & Vehicles",
     "tasks": [
         {
-            "task": "Replace a rusty nut on a piece of farm equipment.",
+            "task": "Replace a rusty nut using an impact wrench.",
             "subtasks": [
-                "Hold the impact wrench with both hands.",
-                "Align the half-inch drive socket with the nut.",
-                "Apply pressure to the impact wrench to engage the torque.",
-                "Turn the wrench counterclockwise to loosen the rusty bolt.",
-                "Remove the old breaker bar and replace it with the impact wrench.",
-                "Check that the reversible air impact wrench is functioning properly."
+                "Identify the rusty nut that needs removal.",
+                "Select the appropriate reversible air impact wrench.",
+                "Attach the half-inch drive socket to the impact wrench.",
+                "Position the socket over the rusty nut.",
+                "Activate the impact wrench to apply torque.",
+                "Monitor the torque application until the nut breaks free.",
+                "Check if additional force is needed to remove the nut."
             ]
         },
         {
-            "task": "Inspect the torque settings of the impact wrench.",
+            "task": "Install a new breaker bar.",
             "subtasks": [
-                "Adjust the torque settings to 1,000 foot pounds.",
-                "Verify that the torque is correct by testing it on a non-critical fastener."
+                "Remove the old breaker bar (if applicable).",
+                "Unbox and inspect the new breaker bar.",
+                "Align the breaker bar with the handle of the impact wrench.",
+                "Secure the breaker bar to the impact wrench handle.",
+                "Test the new breaker bar for proper fit and functionality."
             ]
         },
         {
-            "task": "Secure the new component to the piece of farm equipment.",
+            "task": "Demonstrate how to use the reversible air impact wrench.",
             "subtasks": [
-                "Position the new component correctly on the equipment.",
-                "Align the holes of the new component with the existing bolts.",
-                "Apply\u9002\u5f53\u6da6\u6ed1 to the threads of the new bolts.",
-                "Insert the new bolts into the aligned holes.",
-                "Hand-tighten the new bolts to hold the component in place.",
-                "Use the impact wrench to torque the new bolts to 1,000 foot pounds.",
-                "Check the torque with a torque wrench if necessary."
+                "Explain the benefits of a reversible air impact wrench.",
+                "Show how to change the drive orientation for different tasks.",
+                "Illustrate safe operating techniques for the impact wrench.",
+                "Demonstrate torque settings and their appropriate uses."
             ]
         },
         {
-            "task": "Remove any debris from the removal of the old bolt.",
+            "task": "Explain the importance of torque in nut removal.",
             "subtasks": [
-                "Clear away any rust, metal chips, or dirt from the bolt hole.",
-                "Inspect the bolt hole for any damage or wear."
+                "Discuss the concept of breakaway torque.",
+                "Describe the role of torque in loosening rusty nuts.",
+                "Emphasize the potential risks of under- or over-torquing."
             ]
         },
         {
-            "task": "Inspect the condition of the new component.",
+            "task": "Remove a rusty nut with an impact wrench;",
+            "subtasks": []
+        },
+        {
+            "task": "Install a new breaker bar;",
+            "subtasks": []
+        },
+        {
+            "task": "Demonstrate the use of the impact wrench.",
+            "subtasks": []
+        },
+        {
+            "task": "Explain the significance of torque in loosening rusty nuts.",
+            "subtasks": []
+        },
+        {
+            "task": "Replace a Rusty Nut Using an Impact Wrench",
             "subtasks": [
-                "Check that the component is seated properly on the equipment.",
-                "Look for any damage or deformities on the component.",
-                "Confirm that all hardware is present and accounted for."
+                "Identify the rusty nut that needs removal.",
+                "Select the appropriate reversible air impact wrench (Jag's model with 1,000 ft-lbs breakaway torque).",
+                "Attach the half-inch drive socket to the impact wrench.",
+                "Position the socket over the rusty nut.",
+                "Activate the impact wrench to apply torque, monitoring the application until the nut breaks free.",
+                "Check if additional mechanical force is required after initial torque is applied."
             ]
         },
         {
-            "task": "Lubricate the new bolts.",
+            "task": "Install a New Breaker Bar",
             "subtasks": [
-                "Apply a rust-preventative lubricant to the threads of the new bolts.",
-                "Wipe off any excess lubricant to prevent attracting dirt."
+                "Remove the old breaker bar (if applicable).",
+                "Inspect the new breaker bar for proper alignment and fit.",
+                "Securely attach the new breaker bar to the impact wrench handle.",
+                "Test the new breaker bar\u2019s functionality and adjust if necessary."
             ]
         },
         {
-            "task": "Tighten the retaining rings if applicable.",
+            "task": "Demonstrate the Use of the Reversible Air Impact Wrench",
             "subtasks": [
-                "Position the retaining rings over the new bolts.",
-                "Use a punch and hammer to set the retaining rings properly."
+                "Explain the benefits of using a reversible impact wrench for agricultural or repair tasks.",
+                "Show how to change the drive orientation for different applications.",
+                "Demonstrate safe operating techniques, including proper grip and stance.",
+                "Illustrate appropriate torque settings and their practical applications."
             ]
         },
         {
-            "task": "Apply a fresh coat of paint or rustproofing to the bolt area.",
+            "task": "Understand Torque in Nut Removal",
             "subtasks": [
-                "Mix the rustproofing solution if needed.",
-                "Apply the solution evenly over the bolt area.",
-                "Allow the paint or rustproofing to dry completely."
+                "Explain the concept of breakaway torque and its importance in safely loosening rusted nuts.",
+                "Describe how to apply fingertip control when using impact torque to avoid over-tightening or damaging threads.",
+                "Emphasize precautions to prevent equipment damage when working with high-torque tools."
             ]
         },
         {
-            "task": "Clean up the work area.",
+            "task": "Replace a rusty nut using an impact wrench.",
             "subtasks": [
-                "Remove the old nut, bolt, and any other debris.",
-                "Dispose of the old components properly.",
-                "Wipe down the impact wrench and any tools used.",
-                "Store the tools and replacement parts in their designated places."
+                "Identify the rusty nut."
             ]
+        },
+        {
+            "task": "Install a new breaker bar.",
+            "subtasks": [
+                "Remove old bar."
+            ]
+        },
+        {
+            "task": "Demonstrate reverse air impact wrench usage.",
+            "subtasks": [
+                "Explain benefits, safe operating techniques."
+            ]
+        },
+        {
+            "task": "Discuss torque application in nut removal.",
+            "subtasks": [
+                "Explain breakaway torque."
+            ]
+        },
+        {
+            "task": "MAINTASK_REPLACING_RUSTY_NUT",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK_INSTALLING_BREAKER_BAR",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK_D Demonstrating_impact_wrench_usage",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK_EXPLAINING\u626d\u77e9\u5e94\u7528",
+            "subtasks": []
         }
     ]
 }

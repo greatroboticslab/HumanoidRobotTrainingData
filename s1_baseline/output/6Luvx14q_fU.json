@@ -5,56 +5,34 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "choosing the right irrigation system for a farm.",
+            "task": "",
             "subtasks": [
-                "Identifying different types of irrigation systems (drip, sprinkler, flood).",
-                "Considering climate impact on irrigation choice.",
-                "Assessing crop type suitability for irrigation methods.",
-                "Evaluating soil type and water retention.",
-                "Analyzing water availability and efficiency.",
-                "Discussing the pros and cons of each irrigation system.",
-                "Exploring water conservation techniques (soil moisture sensors, mulching).",
-                "Analyzing cost and return on investment for different systems.",
-                "Considering consulting agricultural experts."
+                "Distinguish between drip, sprinkler, and flood irrigation methods.",
+                "Consider climate impact on water efficiency.",
+                "Evaluate the suitability of different irrigation systems based on crop type.",
+                "Assess the role of soil type in irrigation method selection.",
+                "Examine water availability and its influence on system choice.",
+                "Weigh the pros and cons of each irrigation system.",
+                "Implement water conservation techniques like soil moisture sensors.",
+                "Calculate return on investment (ROI) for different irrigation systems.",
+                "Consult agricultural experts for personalized advice."
             ]
         },
         {
-            "task": "determining the best irrigation system given specific farm conditions.",
+            "task": "",
             "subtasks": [
-                "Balancing water efficiency, crop productivity, and costs.",
-                "Adapting to local climate and crop needs.",
-                "Factoring in soil drainage and water retention."
+                "Utilize soil moisture sensors.",
+                "Implement deficit irrigation during drought-tolerant stages.",
+                "Use mulching to reduce evaporation."
             ]
         },
         {
-            "task": "MAINTASK:choosing the right irrigation system for a farm.",
+            "task": "",
             "subtasks": [
-                "Identifying different types of irrigation systems (drip, sprinkler, flood).",
-                "Considering climate impact on irrigation choice.",
-                "Assessing crop type suitability for irrigation methods.",
-                "Evaluating soil type and water retention.",
-                "Analyzing water availability and efficiency.",
-                "Discussing the pros and cons of each irrigation system.",
-                "Exploring water conservation techniques (soil moisture sensors, mulching).",
-                "Analyzing cost and return on investment for different systems.",
-                "Considering consulting agricultural experts."
+                "Analyze initial costs versus long-term savings.",
+                "Consider projected crop yield increases.",
+                "Account for energy costs and water usage."
             ]
-        },
-        {
-            "task": "determining the best irrigation system given specific farm conditions.",
-            "subtasks": [
-                "Balancing water efficiency, crop productivity, and costs.",
-                "Adapting to local climate and crop needs.",
-                "Factoring in soil drainage and water retention."
-            ]
-        },
-        {
-            "task": "\\boxed{MAINTASK}",
-            "subtasks": []
-        },
-        {
-            "task": "Given the transcript, the main task is to **MAINTASK: choose the right irrigation system for a farm**. This involves several subtasks:",
-            "subtasks": []
         }
     ]
 }

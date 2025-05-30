@@ -5,78 +5,76 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Operating a farm with brassica crops and managing weed control.",
+            "task": "Cultivating crops on a wholesale vegetable farm",
             "subtasks": [
-                "Conversational introduction (discarded as non-relevant; part of social pleasantries)."
+                "Assessing whether to use herbicides, cultivation, or a mix",
+                "Implementing a three-year crop rotation program",
+                "Using cultivators and tractors for weed control and crop management",
+                "Adjusting tool settings for different soil and plant conditions",
+                "Applying fertilizers during the cultivation process",
+                "Adapting cultivation techniques based on weed pressure and plant growth stages"
             ]
         },
         {
-            "task": "Implementing a multi-year crop rotation program.",
+            "task": "Managing crop rotation and weed control",
             "subtasks": [
-                "Describing the three-year rotation cycle.",
-                "Discussing disease management through rotation.",
-                "Addressing persistent weed pressure despite rotation."
+                "Rotating crops to manage disease and weed pressure",
+                "Monitoring weed pressures and adjusting management strategies accordingly",
+                "Using pre-emergent herbicides for seed crops"
             ]
         },
         {
-            "task": "Utilizing herbicides and cultivation techniques.",
+            "task": "Utilizing tractors and cultivation tools for weed control and seedling protection",
             "subtasks": [
-                "Mentioning methods for controlling weeds, including herbicides and hand hoeing.",
-                "Employing pre-emergent herbicides for direct-seeded crops."
+                "Operating a cub tractor equipped with budding cages for early weed management",
+                "Employing adjustable cultivator tools for effective weed control and soil hilling",
+                "Applying fertilizer during the hilling process",
+                "Using alternative tools (e.g., wire-tipped attachments) for breaking up clods"
             ]
         },
         {
-            "task": "Performing cultivation with a cub tractor and tools.",
+            "task": "Optimizing the speed and technique for tractor operations",
             "subtasks": [
-                "Using buddling cages for initial cultivation.",
-                "Adapting tools (e.g., old barn teeth) for soil fragmentation.",
-                "Maintaining straight, smooth cultivation beds.",
-                "Adjusting cultivator tools for hilling and topdressing."
+                "Balancing speed and thoroughness during cultivation to minimize plant damage",
+                "Adjusting tractor attachments (e.g., converting to road gear) for optimal performance",
+                "Following straight, flat beds for consistent cultivation"
             ]
         },
         {
-            "task": "Applying fertilizers through cultivation.",
+            "task": "Adapting management practices for varying weather conditions",
             "subtasks": [
-                "Integrating fertilization with weed control practices."
+                "Managing cloddy soil after heavy rainfall",
+                "Using specialized tools to break up clods and prepare for hilling"
             ]
         },
         {
-            "task": "MAINTASK: Operating a vegetable farm focusing on brassica crops (collard greens, kale, etc.) with emphasis on weed control and cultivation.",
+            "task": "Ensure effective weed control through multiple passes with different tools",
             "subtasks": [
-                ""
+                "Employing initial cultivator passes with budding cages between rows",
+                "Following up with cultivator passes to handle in-row weeds as plants grow",
+                "Burying emerging weeds up to two inches tall with soil hilling"
             ]
         },
         {
-            "task": "Managing a three-year crop rotation to mitigate diseases and weeds.",
+            "task": "Monitoring and adjusting the herbicide application strategy",
             "subtasks": [
-                "Rotating crops every three years to prevent disease buildup and suppress weeds."
+                "Evaluating the effectiveness of pre-emergent herbicides",
+                "Considering the integration of herbicides with cultivation techniques",
+                "Assessing the balance between chemical and mechanical weed control methods"
             ]
         },
         {
-            "task": "Implementing integrated weed control strategies.",
+            "task": "Maintaining crop health and yield through proper fertilization",
             "subtasks": [
-                "Using herbicides for initial weed suppression in direct-seeded crops.",
-                "Employing hand hoeing in particularly weedy fields (though aiming to reduce this).",
-                "Combining cultivation techniques with selective herbicide applications."
+                "Topdressing crops with fertilizers during the hilling process",
+                "Adjusting fertilizer application based on plant growth stages"
             ]
         },
         {
-            "task": "Cultivating fields using mechanical methods.",
+            "task": "Troubleshooting and improvising with existing resources",
             "subtasks": [
-                "Using a cub tractor equipped with buddling cages for initial soil preparation and weed removal between rows.",
-                "Adjusting cultivator tools (e.g., sweeps, shanks) to create hilled furrows and topdress fertilizers.",
-                "Addressing uneven soil conditions (e.g., clods) with adapted tools to protect crops."
+                "Repurposing tools found in old barns for soil manipulation (e.g., wire-tipped attachments)"
             ]
-        },
-        {
-            "task": "Maintaining smooth, straight field surfaces for efficient tractor operations.",
-            "subtasks": [
-                "Leveling the field after initial cultivations to ensure even tractor passes."
-            ]
-        },
-        {
-            "task": "Applying fertilizers through cultivation to support crop growth.",
-            "subtasks": []
         }
     ]
 }

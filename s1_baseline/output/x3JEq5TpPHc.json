@@ -5,87 +5,270 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Operating a farm equipment to plant seeds",
+            "task": "Planting corn in a field.",
             "subtasks": [
-                "Sit on the tractor seat",
-                "Engage the engine",
-                "Adjust the planting speed",
-                "Monitor the seeder attachment",
-                "Ensure even seed distribution"
+                "Walking through the field.",
+                "Selecting corn seeds.",
+                "Inserting seeds into the soil.",
+                "Covering seeds with dirt."
             ]
         },
         {
-            "task": "Planting soybeans in the fields",
+            "task": "Operating a riding mower.",
             "subtasks": [
-                "Identify the rows to plant",
-                "Align the seeder with the row markers",
-                "Guide the seeder through the fields",
-                "Check the seed depth and spacing"
+                "Sitting on the mower.",
+                "Starting the mower engine.",
+                "Guiding the mower around the field.",
+                "Cutting grass and weeds."
             ]
         },
         {
-            "task": "Handling equipment maintenance",
+            "task": "Checking corn plants for pests.",
             "subtasks": [
-                "Inspect the tractor's hydraulic system",
-                "Check the seeder's lubrication points",
-                "Tighten bolts on the seeder attachment",
-                "Replace worn-out planter parts"
+                "Walking through rows of corn.",
+                "Inspecting individual plants.",
+                "Identifying signs of insects or diseases."
             ]
         },
         {
-            "task": "Check the field conditions",
+            "task": "Applying fertilizer to corn plants.",
             "subtasks": [
-                "Observe soil moisture levels",
-                "Assess soil fertility levels",
-                "Note any weed presence",
-                "Plan seed application rate according to field conditions"
+                "Mixing fertilizer in a spreader.",
+                "Walking through the rows with the spreader.",
+                "Distributing fertilizer evenly."
             ]
         },
         {
-            "task": "Determine plant variety and planting date",
+            "task": "Harvesting corn.",
             "subtasks": [
-                "Consult agricultural extension services",
-                "Review historical yield data",
-                "Consider pest and disease pressures",
-                "Finalize planting date based on weather forecasts"
+                "Using a combine harvester.",
+                "Loading corn into a truck.",
+                "Unloading corn at the storage facility."
             ]
         },
         {
-            "task": "Applying pesticides to protect crops",
+            "task": "Repairing equipment.",
             "subtasks": [
-                "Select appropriate pesticides for soybeans",
-                "Mix pesticides in the sprayer tank",
-                "Drive the sprayer through the fields",
-                "Monitor spray pattern and coverage",
-                "Log pesticide application rate and volume"
+                "Identifying broken parts.",
+                "Removing parts for repair.",
+                "Rebuilding or replacing damaged components.",
+                "Testing repaired equipment."
             ]
         },
         {
-            "task": "Checking crop growth and progress",
+            "task": "Driving a tractor.",
             "subtasks": [
-                "Walk through the fields to observe growth",
-                "Note plant stands and weed competition",
-                "Assess for any nutrient deficiencies",
-                "Plan additional fertilizer or herbicide applications as needed"
+                "Sitting in the driver's seat.",
+                "Starting the tractor engine.",
+                "Guiding the tractor through the field.",
+                "Attaching implements for plowing or planting.",
+                "Operating hydraulic controls."
             ]
         },
         {
-            "task": "Harvesting soybeans",
+            "task": "Documentation and record-keeping.",
             "subtasks": [
-                "Monitor maturity of soybeans in the field",
-                "Plan the harvesting sequence",
-                "Set up the combine harvester",
-                "Drive the combine through the fields",
-                "Manage grain quality during harvest"
+                "Reviewing crop performance.",
+                "Updating farm records.",
+                "Entering data into a computer system.",
+                "Generating reports for management."
             ]
         },
         {
-            "task": "Cleaning and storing harvested soybeans",
+            "task": "Irrigation system maintenance.",
             "subtasks": [
-                "Sort harvested beans for quality",
-                "Dry soybeans if moisture levels are high",
-                "Transfer beans to storage bins",
-                "Maintain storage conditions to prevent spoilage"
+                "Inspecting sprinkler heads.",
+                "Cleaning or replacing damaged sprinkler heads.",
+                "Checking water pressure and flow.",
+                "Adjusting timer settings.",
+                "Confirming system is functioning properly."
+            ]
+        },
+        {
+            "task": "Spraying pesticides or herbicides.",
+            "subtasks": [
+                "Loading chemicals into a sprayer.",
+                "Mixing chemicals with water.",
+                "Operating the sprayer to apply chemicals uniformly.",
+                "Checking for even coverage."
+            ]
+        },
+        {
+            "task": "Planning for next season.",
+            "subtasks": [
+                "Assessing current year's yield.",
+                "Noting areas needing improvement.",
+                "Developing planting plans for upcoming season.",
+                "Ordering seeds and supplies."
+            ]
+        },
+        {
+            "task": "Operating a grain dryer.",
+            "subtasks": [
+                "Loading corn into the dryer.",
+                "Setting temperature and time controls.",
+                "Monitoring drying progress.",
+                "Drying corn to appropriate moisture level.",
+                "Unloading dried corn when ready."
+            ]
+        },
+        {
+            "task": "Emergency response procedures.",
+            "subtasks": [
+                "Carrying out necessary actions to prevent spread of disease or pest infestations.",
+                "Applying emergency treatments.",
+                "Notifying relevant authorities if needed."
+            ]
+        },
+        {
+            "task": "Monitoring weather conditions.",
+            "subtasks": [
+                "Checking forecasts for temperature, rain, etc.",
+                "Adjusting farming activities based on weather."
+            ]
+        },
+        {
+            "task": "Feeding livestock.",
+            "subtasks": [
+                "Hauling hay or grain to storage areas.",
+                "Dispensing feed to animals.",
+                "Ensuring clean water supply.",
+                "Wait, the user mentioned that they want tasks separate by a new line, so each task (main task) and its subtasks should be listed with the main task first, followed by subtasks below it. So, the answer should be in the format presented above, with MAINTASK and then SUBTASKS underneath. Let me check if I covered all the potential aspects."
+            ]
+        },
+        {
+            "task": "MAINTASK: Monitoring corn growth stages. Subtasks: Checking the field at regular intervals to assess the stage of growth (e.g., V1, V2, V3 for seedling stages; tasseling, etc.), compare with expected timelines, and adjust management practices as needed. However, given the transcript mentions specific numbers, these might correspond to the V series, such as variety 48 days to V8, etc. But without exact details, it's challenging to map them. Alternatively, the 48 could be days to emergence, 40 days to silking, etc. Since the transcript numbers follow the seed variety, perhaps. If that's the case, it's reasonable to assume these tasks include monitoring according to the variety's specific growth stages.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting corn in a field.",
+            "subtasks": [
+                "Walking through the field.",
+                "Selecting corn seeds.",
+                "Inserting seeds into the soil.",
+                "Covering seeds with dirt."
+            ]
+        },
+        {
+            "task": "Operating a riding mower.",
+            "subtasks": [
+                "Sitting on the mower.",
+                "Starting the mower engine.",
+                "Guiding the mower around the field.",
+                "Cutting grass and weeds."
+            ]
+        },
+        {
+            "task": "Checking corn plants for pests.",
+            "subtasks": [
+                "Walking through rows of corn.",
+                "Inspecting individual plants.",
+                "Identifying signs of insects or diseases."
+            ]
+        },
+        {
+            "task": "Applying fertilizer to corn plants.",
+            "subtasks": [
+                "Mixing fertilizer in a spreader.",
+                "Walking through the rows with the spreader.",
+                "Distributing fertilizer evenly."
+            ]
+        },
+        {
+            "task": "Harvesting corn.",
+            "subtasks": [
+                "Using a combine harvester.",
+                "Loading corn into a truck.",
+                "Unloading corn at the storage facility."
+            ]
+        },
+        {
+            "task": "Repairing equipment.",
+            "subtasks": [
+                "Identifying broken parts.",
+                "Removing parts for repair.",
+                "Rebuilding or replacing damaged components.",
+                "Testing repaired equipment."
+            ]
+        },
+        {
+            "task": "Driving a tractor.",
+            "subtasks": [
+                "Sitting in the driver's seat.",
+                "Starting the tractor engine.",
+                "Guiding the tractor through the field.",
+                "Attaching implements for plowing or planting.",
+                "Operating hydraulic controls."
+            ]
+        },
+        {
+            "task": "Documentation and record-keeping.",
+            "subtasks": [
+                "Reviewing crop performance.",
+                "Updating farm records.",
+                "Entering data into a computer system.",
+                "Generating reports for management."
+            ]
+        },
+        {
+            "task": "Irrigation system maintenance.",
+            "subtasks": [
+                "Inspecting sprinkler heads.",
+                "Cleaning or replacing damaged sprinkler heads.",
+                "Checking water pressure and flow.",
+                "Adjusting timer settings.",
+                "Confirming system is functioning properly."
+            ]
+        },
+        {
+            "task": "Spraying pesticides or herbicides.",
+            "subtasks": [
+                "Loading chemicals into a sprayer.",
+                "Mixing chemicals with water.",
+                "Operating the sprayer to apply chemicals uniformly.",
+                "Checking for even coverage."
+            ]
+        },
+        {
+            "task": "Planning for next season.",
+            "subtasks": [
+                "Assessing current year's yield.",
+                "Noting areas needing improvement.",
+                "Developing planting plans for upcoming season.",
+                "Ordering seeds and supplies."
+            ]
+        },
+        {
+            "task": "Operating a grain dryer.",
+            "subtasks": [
+                "Loading corn into the dryer.",
+                "Setting temperature and time controls.",
+                "Monitoring drying progress.",
+                "Drying corn to appropriate moisture level.",
+                "Unloading dried corn when ready."
+            ]
+        },
+        {
+            "task": "Emergency response procedures.",
+            "subtasks": [
+                "Carrying out necessary actions to prevent spread of disease or pest infestations.",
+                "Applying emergency treatments.",
+                "Notifying relevant authorities if needed."
+            ]
+        },
+        {
+            "task": "Monitoring weather conditions.",
+            "subtasks": [
+                "Checking forecasts for temperature, rain, etc.",
+                "Adjusting farming activities based on weather."
+            ]
+        },
+        {
+            "task": "Feeding livestock.",
+            "subtasks": [
+                "Hauling hay or grain to storage areas.",
+                "Dispensing feed to animals.",
+                "Ensuring clean water supply."
             ]
         }
     ]

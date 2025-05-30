@@ -5,52 +5,126 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Planting and caring for peanut plants in a garden setting.",
+            "task": "Planting peanuts",
             "subtasks": [
-                "Determining that peanuts are a legume and not a nut.",
-                "Understanding the growing conditions required for peanuts, including full sun and good drainage.",
-                "Preparing the soil by adding organic matter if needed, especially for heavy soils.",
-                "Planting peanut seeds either hulled or unhulled, ensuring the seed coverings remain intact if shelled.",
-                "Starting peanut plants indoors in peat pots for northern gardeners one month before the last frost.",
-                "Sowing seeds at a depth of one inch, providing the sunniest location possible, and watering weekly.",
-                "Transplanting seedlings to the garden when the soil reaches 60-70 degrees Fahrenheit, spacing them 10 inches apart.",
-                "Planting peanuts outdoors in the southern region around the last expected frost, maintaining 2-3 foot row spacing.",
-                "Properly thinning seedlings to 10 inches apart to prevent overcrowding.",
-                "Hilling the earth around the base of the plant when they reach about a foot tall, to support peanut formation.",
-                "Applying a light mulch to the soil surface to prevent crusting and ensure peg penetration.",
-                "Managing irrigation to provide one inch of water per week.",
-                "Avoiding nitrogen-rich fertilizers to promote fruiting instead of foliage growth.",
-                "Monitoring peanut maturity by checking the inner shells for gold-marked veins and leaves turning yellow.",
-                "Harvesting peanuts when the pegs become brittle and pods may detach, ensuring timely pulling or digging.",
-                "Allowing plants to dry in an airy location before removing the pods.",
-                "Storing unshelled peanuts in airtight containers for up to a year."
+                "Verify that the weather is suitable for planting (after the last frost)",
+                "Prepare the soil by adding organic matter for drainage and fertility",
+                "Plant seeds either hulled or unhulled, ensuring not to remove the seed coverings",
+                "If growing indoors, start plants in peat pots a month before the last frost, sowing seeds one inch deep",
+                "Transplant seedlings to the garden when soil temperature is 60-70\u00b0F, spacing them 10 inches apart",
+                "In northern gardens, thin plants to 10 inches apart after establishing"
             ]
         },
         {
-            "task": "The given transcript is about the correct classification of peanuts (not nuts but legumes), their cultivation requirements (sun, drainage), soil preparation, planting methods (direct seeding or starting indoors for northern regions), care (mulching, irrigation, fertilizing), identification of maturity, and harvesting process. All these details relate to the physical tasks a farmer or gardener would perform when growing peanuts. Thus, the answer lists these tasks as MAINTASK with corresponding subtasks, each being a distinct action related to peanut farming.",
+            "task": "Hilling the earth around peanut plants",
+            "subtasks": [
+                "When the plant is about a foot tall, mound soil around the base to support the developing peanuts"
+            ]
+        },
+        {
+            "task": "Mulching to prevent soil crusting",
+            "subtasks": [
+                "Apply a light mulch like straw or grass clippings around the plants to maintain soil moisture and allow pegs to penetrate easily"
+            ]
+        },
+        {
+            "task": "Watering",
+            "subtasks": [
+                "Provide 1 inch of water per week, avoiding excess which can lead to foliage growth over fruiting"
+            ]
+        },
+        {
+            "task": "Harvesting peanuts",
+            "subtasks": [
+                "Check for readiness when leaves turn yellow and shell markings gold; test by pulling a few nuts from the soil",
+                "Pull or dig plants when soil is moist, being careful with the roots",
+                "Shake off excess soil, then allow plants to dry in a ventilated area",
+                "Once leaves are crumbly, remove unshelled peanuts and store in airtight containers"
+            ]
+        },
+        {
+            "task": "Planting peanuts (MAINTASK)",
+            "subtasks": [
+                "Choose a full sun location (SUBTASK)",
+                "Prepare the soil by amending heavy soil with organic matter for good drainage and fertility (SUBTASK). Wait, the actual conversation was about loosening the soil and adding organic matter, right? So maybe this is part 1.",
+                "Plant seeds either hulled or unhulled, but if hulled, ensure the pinkish-brown coverings are retained (SUBTASK).",
+                "If growing indoors, plant seeds in peat pots a month before the last frost, sowing one inch deep (SUBTASK). Then after starting, if needed, transplant them when soil is 60-70\u00b0F, spacing at 10 inches apart (SUBTASK). Wait, the transcript says \"if you have heavy soil\" earlier. Maybe the planting steps need to be broken down."
+            ]
+        },
+        {
+            "task": "Planting peanuts",
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Planting and caring for peanut plants in a garden setting.",
+            "task": "Planting Peanuts",
+            "subtasks": []
+        },
+        {
+            "task": "Hilling the plants",
+            "subtasks": []
+        },
+        {
+            "task": "Mulching",
+            "subtasks": []
+        },
+        {
+            "task": "Watering",
+            "subtasks": []
+        },
+        {
+            "task": "But does the transcript have multiple people doing these tasks? Hmm. However, the user is given a video transcript, which is usually from someone explaining the process, so maybe the user is supposed to break down the tasks that the farmer or gardeners would perform. From the transcript, it's clear that one person is giving instructions on growing peanuts. So the tasks would be the actions a person needs to take, like preparing the soil, planting, tending, and harvesting. So yes, those are the main MAINTASKs.",
+            "subtasks": []
+        },
+        {
+            "task": "Each of these can have their own MAINTASKs with subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Starting with Planting Peanuts (MAINTASK). What subtasks are involved?",
+            "subtasks": []
+        },
+        {
+            "task": "Planting Peanuts",
             "subtasks": [
-                "Determining that peanuts are a legume and not a nut.",
-                "Understanding the growing conditions required for peanuts, including full sun and good drainage.",
-                "Preparing the soil by adding organic matter if needed, especially for heavy soils.",
-                "Planting peanut seeds either hulled or unhulled, ensuring the seed coverings remain intact if shelled.",
-                "Starting peanut plants indoors in peat pots for northern gardeners one month before the last frost.",
-                "Sowing seeds at a depth of one inch, providing the sunniest location possible, and watering weekly.",
-                "Transplanting seedlings to the garden when the soil reaches 60-70 degrees Fahrenheit, spacing them 10 inches apart.",
-                "Planting peanuts outdoors in the southern region around the last expected frost, maintaining 2-3 foot row spacing.",
-                "Properly thinning seedlings to 10 inches apart to prevent overcrowding.",
-                "Hilling the earth around the base of the plant when they reach about a foot tall, to support peanut formation.",
-                "Applying a light mulch to the soil surface to prevent crusting and ensure peg penetration.",
-                "Managing irrigation to provide one inch of water per week.",
-                "Avoiding nitrogen-rich fertilizers to promote fruiting instead of foliage growth.",
-                "Monitoring peanut maturity by checking the inner shells for gold-marked veins and leaves turning yellow.",
-                "Harvesting peanuts when the pegs become brittle and pods may detach, ensuring timely pulling or digging.",
-                "Allowing plants to dry in an airy location before removing the pods.",
-                "Storing unshelled peanuts in airtight containers for up to a year."
+                "Ensure full sun location (since mentioned as a requirement)",
+                "For heavy soil, add organic matter to improve drainage and aeration (this could be a preparation step)",
+                "Determine whether to plant hulled or unhulled seeds, retaining the seed coverings if unhulled",
+                "If growing indoors, start plants a month before the last frost in peat pots",
+                "Sow seeds one inch deep, in a sunny spot, and water weekly",
+                "Transplant seedlings to the garden when soil is 60-70\u00b0F, spacing 10 inches apart, careful not to damage the crown"
             ]
+        },
+        {
+            "task": "Then after planting, the next MAINTASK would be Growing Peanut plants (which includes hilling, mulching, watering).",
+            "subtasks": []
+        },
+        {
+            "task": "Growing Peanut Plants (after initial planting)",
+            "subtasks": []
+        },
+        {
+            "task": "Then Harvesting. The MAINTASK for Harvesting would involve checking readiness, pulling plants, drying, and storing.",
+            "subtasks": []
+        },
+        {
+            "task": "So when DM packaging this, it's better to first list \"Planting Peanuts\" as the MAINTASK, then \"Growing Peanut Plants\" as next, then \"Harvesting Peanuts.\" And each of these has specific subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "So since the transcript spans from planting instructions through growing and harvesting, the main tasks the person would perform are related to planting, growing, and harvesting. Therefore, three MAINTASKs.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting Peanuts",
+            "subtasks": []
+        },
+        {
+            "task": "Growing Peanut Plants",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting Peanuts",
+            "subtasks": []
         }
     ]
 }

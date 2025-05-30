@@ -5,25 +5,14 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Troubleshooting a malfunctioning sprinkler zone using a voltmeter.",
+            "task": "Troubleshoot a malfunctioning sprinkler system zone using a voltmeter.",
             "subtasks": [
-                "Identify the type of malfunction (zone not stopping, not coming on, or not coming on fully).",
-                "Check if the controller is working properly by measuring voltage.",
-                "Test the solenoid's resistance using the multimeter.",
-                "Check for wiring issues if resistance is outside the acceptable range.",
-                "Inspect the valve's condition and solenoid using a multimeter.",
-                "Replace faulty components such as wiring, valves, or solenoids as necessary."
-            ]
-        },
-        {
-            "task": "Troubleshooting a malfunctioning sprinkler zone using a voltmeter.",
-            "subtasks": [
-                "Identify the type of malfunction (zone not stopping, not coming on, or not coming on fully).",
-                "Check if the controller is working properly by measuring voltage.",
-                "Test the solenoid's resistance using the multimeter.",
-                "Check for wiring issues if resistance is outside the acceptable range.",
-                "Inspect the valve's condition and solenoid using a multimeter.",
-                "Replace faulty components such as wiring, valves, or solenoids as necessary."
+                "Verify the controller is working properly by measuring voltage.",
+                "Check the common wire terminal on the controller.",
+                "Assess the voltage reading when the suspect zone is activated.",
+                "Evaluate the resistance between the common terminal and zone terminal.",
+                "Investigate potential issues with the solenoid or wiring at the valve box.",
+                "Use online resources or valve specifications for further diagnostics."
             ]
         }
     ]

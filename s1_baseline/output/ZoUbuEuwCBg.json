@@ -5,50 +5,27 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Constructing a barrel tumbler for seasoning production",
+            "task": "Construct a barrel tumbler for making T13 seasoning",
             "subtasks": [
-                "Marking locations for pillow block bearings",
-                "Welding axles onto the base of the tumbler",
-                "Aligning and welding sides to the basket structure",
-                "Adding crossmembers with flanges to prevent upright bowing",
-                "Welding top bar hinges for barrel access",
-                "Attaching end caps and latch mechanisms",
-                "Securing the base for stability",
-                "Installing a sprocket and counterweight system",
-                "Testing the tumbler with a motor (initially underpowered, then successfully upgraded)",
-                "Installing a powerful motor and mounting it properly",
-                "Final testing with a weighted barrel"
+                "Weld the base structure of the tumbler",
+                "Drill holes for pillow block bearings",
+                "Assemble the basket to hold the barrel",
+                "Weld axles onto the tumbler structure",
+                "Add sides to the basket for barrel retention",
+                "Balance-test the assembled component parts",
+                "Align and attach uprights using a fireball tool square",
+                "Test the fit and function of the assembled tumbler",
+                "Weld top bar hinges for opening and closing the tumbler",
+                "Attach an end cap for latch mechanisms",
+                "Add crossmembers with flanges to prevent upright bowing",
+                "Secure the base for stability",
+                "Position pads to reduce internal movement",
+                "Install a sprocket and counterweight system",
+                "Upgrade the motor to handle the barrel's weight",
+                "Construct a motor mount for proper chain tension",
+                "Paint and finalize the tumbler",
+                "Conduct a test run with the motor and seasoned barrel"
             ]
-        },
-        {
-            "task": "Seasoning production",
-            "subtasks": [
-                "Mixing materials in the barrel tumbler"
-            ]
-        },
-        {
-            "task": "Constructing a barrel tumbler for seasoning production. That seems right. Now, what subtasks would be involved in constructing this tumbler?",
-            "subtasks": []
-        },
-        {
-            "task": "Alternatively, maybe we can split it. The MAINTASK is constructing the tumbler, and as part of that, there are subtasks like testing with various components. Testing with the sprocket, motor, counterweight, etc. But if he uses the tumbler with some seasoning in the test runs, there might be a subtask related to that, but then the actual mixing would be after the construction.",
-            "subtasks": []
-        },
-        {
-            "task": "Constructing the barrel tumbler",
-            "subtasks": []
-        },
-        {
-            "task": "Upgrading motor power after initial test.",
-            "subtasks": []
-        },
-        {
-            "task": "Constructing a barrel tumbler for seasoning production",
-            "subtasks": []
-        },
-        {
-            "task": "Constructing a barrel tumbler for seasoning production",
-            "subtasks": []
         }
     ]
 }

@@ -5,69 +5,51 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Contacting extension office for soil test issues and interpreting results",
+            "task": "Contacting Extension Office for Soil Test Recommendations",
             "subtasks": [
-                "Researching contact information for local extension office",
-                "Reaching out to extension office via phone or website for assistance",
-                "Exchanging soil samples with the extension office for analysis",
-                "Collecting soil samples from yard or garden",
-                "Preparing soil samples according to extension office instructions",
-                "Sending soil samples back to extension office for testing",
-                "Reviewing soil test results provided by extension office",
-                "Understanding pH levels and salt concentrations in soil",
-                "Assessing organic matter content in soil",
-                "Applying compost or manure to improve soil structure and nutrient content",
-                "Determining appropriate levels of fertilizers (nitrogen, phosphorus, potassium) for plant growth"
+                "Determine whether to contact local extension office for yard or garden problems",
+                "Inquire about obtaining a soil test if needed for landscape projects"
             ]
         },
         {
-            "task": "Maintaining proper soil conditions for garden health",
+            "task": "Collecting Soil Samples",
             "subtasks": [
-                "Regularly testing soil pH and adjusting with lime if necessary",
-                "Incorporating organic materials into soil throughout the year",
-                "Monitoring nutrient levels and applying fertilizers as needed",
-                "Cultivating plants suited to the tested soil conditions"
+                "Take soil samples from the yard or garden as per extension office guidelines",
+                "Submit collected samples to the extension office for analysis"
             ]
         },
         {
-            "task": "Seeking additional assistance with soil interpretation",
+            "task": "Interpreting Soil Test Results",
             "subtasks": [
-                "Requesting clarification on soil test results from extension office",
-                "Consulting online resources or gardening experts for interpretation",
-                "Keeping a record of soil test results and adjustments made over time"
+                "Receive soil test results indicating basics such as pH, electrical conductivity, lime presence, texture, and nutrient levels",
+                "Review results for high salt content or alkaline pH, noting organic matter levels"
             ]
         },
         {
-            "task": "MAINTASK: Contacting extension office for soil test issues and interpreting results",
+            "task": "Amending Soil Based on Test Results",
             "subtasks": [
-                "Researching contact information for local extension office",
-                "Reaching out to extension office via phone or website for assistance",
-                "Exchanging soil samples with the extension office for analysis",
-                "Collecting soil samples from yard or garden",
-                "Preparing soil samples according to extension office instructions",
-                "Sending soil samples back to extension office for testing",
-                "Reviewing soil test results provided by extension office",
-                "Understanding pH levels and salt concentrations in soil",
-                "Assessing organic matter content in soil",
-                "Applying compost or manure to improve soil structure and nutrient content",
-                "Determining appropriate levels of fertilizers (nitrogen, phosphorus, potassium) for plant growth"
+                "For low organic matter, add compost, manure, or other plant material to improve soil quality",
+                "Adjust soil composition as necessary based on nutrient deficiencies indicated in test"
             ]
         },
         {
-            "task": "Maintaining proper soil conditions for garden health",
+            "task": "Understanding Nutrient Requirements",
             "subtasks": [
-                "Regularly testing soil pH and adjusting with lime if necessary",
-                "Incorporating organic materials into soil throughout the year",
-                "Monitoring nutrient levels and applying fertilizers as needed",
-                "Cultivating plants suited to the tested soil conditions"
+                "Recognize importance of Nitrate, Phosphorus, and Potassium for plant growth",
+                "Understand how different nutrients (Nitrate, Phosphorus, Potassium) affect plant health and development"
             ]
         },
         {
-            "task": "Seeking additional assistance with soil interpretation",
+            "task": "Seeking Expert Advice for Result Interpretation",
             "subtasks": [
-                "Requesting clarification on soil test results from extension office",
-                "Consulting online resources or gardening experts for interpretation",
-                "Keeping a record of soil test results and adjustments made over time"
+                "Request a copy of the soil test results for detailed analysis from the extension office if needed"
+            ]
+        },
+        {
+            "task": "Considering Local Extension Office as a Resource",
+            "subtasks": [
+                "Utilize educational resources provided by the University of Wyoming Extension through the \"From the Ground Up\" series",
+                "Follow advice from Donna Hoffman, an extension agent, for home gardening and landscaping"
             ]
         }
     ]

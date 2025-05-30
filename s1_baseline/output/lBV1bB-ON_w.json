@@ -5,41 +5,88 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Dryland Farming Practices",
+            "task": "Turning rangeland into fields for dryland farming in Wyoming.",
             "subtasks": [
-                "Planting drought-tolerant crops",
-                "Rotation of planted and fallow strips",
-                "Managing soil moisture",
-                "Protecting soil from erosion with stubble",
-                "Transitioning to no-tillage farming methods"
+                "Selecting drought-tolerant crops suitable for dryland agriculture.",
+                "Planting crops in strips, alternating with fallow land each year.",
+                "Leaving stubble from the previous year's crops to protect soil during fallow period.",
+                "Rotating the planting and fallow strips annually."
             ]
         },
         {
-            "task": "Soil Moisture Storage",
+            "task": "No-till dryland farming in Wyoming.",
             "subtasks": [
-                "Capturing winter/spring precipitation",
-                "Storing moisture in the soil for crop growth"
+                "Planting new crops into the stubble of the previous year's fallow strip.",
+                "Avoiding tillage to preserve soil structure and moisture retention."
             ]
         },
         {
-            "task": "Precipitation Thresholds",
+            "task": "Managing moisture in dryland farming.",
             "subtasks": [
-                "Ensuring annual precipitation of at least 15 inches",
-                "Timing of moisture (late winter/early spring)"
+                "Bank moisture from the wet season into the ground.",
+                "Using stored moisture for crop germination and growth."
             ]
         },
         {
-            "task": "Rotation Techniques",
+            "task": "Adapting dryland farming techniques for different practices in Wyoming.",
             "subtasks": [
-                "Alternating planted and fallow strips annually",
-                "Rotating strip locations each year"
+                "Using strip farming with rotated planting and fallow strips.",
+                "Transitioning to no-till farming methods based on modern practices.",
+                "Adjusting to Wyoming's specific precipitation needs (at least 15 inches annually).",
+                "- The key aspect here is dryland farming. The MAINTASK of dryland farming would involve selecting crops that are drought-tolerant (SUBTASK) and planting them in alternated strips (strip farming) with a fallow period (when the land is left uncultivated). During the fallow period, the previous year's stubble is left on the land to prevent erosion (another SUBTASK). Each year these strips are rotated."
             ]
         },
         {
-            "task": "No-Till Agriculture",
+            "task": "Converting rangeland to dryland fields (less a physical task, more an administrative decision).",
+            "subtasks": []
+        },
+        {
+            "task": "Dryland farming in Wyoming.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Dryland farming in Wyoming [Though the practice is described both with tilled and no-till methods]",
+            "subtasks": []
+        },
+        {
+            "task": "Traditional dryland farming in Wyoming.",
+            "subtasks": []
+        },
+        {
+            "task": "No-till dryland farming in Wyoming.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Dryland farming in Wyoming",
             "subtasks": [
-                "Planting directly into previous year's stubble",
-                "Eliminating tillage practices"
+                "Selecting drought-tolerant crops",
+                "Rotating the planting of crops in alternating strips each year, plowing one strip while leaving another as fallow",
+                "Protecting the fallow strips with stubble from the previous year to prevent erosion and conserve moisture"
+            ]
+        },
+        {
+            "task": "No-till dryland farming in Wyoming",
+            "subtasks": [
+                "Planting new crops directly into the stubble of the previously fallow strip, avoiding tillage",
+                "Preserving soil structure by not disturbing the soil during cultivation"
+            ]
+        },
+        {
+            "task": "Managing moisture retention in dryland farming",
+            "subtasks": [
+                "Ensuring sufficient moisture from the wet season (late winter/early spring) to store in the soil",
+                "Allowing stored moisture to support crop germination and growth without irrigation"
+            ]
+        },
+        {
+            "task": "Converting rangeland into dryland fields",
+            "subtasks": [
+                "Clearing vegetation (if present) from the area to be farmed",
+                "Planning field layouts for strip farming or no-till methods, considering the fallow rotation"
             ]
         }
     ]

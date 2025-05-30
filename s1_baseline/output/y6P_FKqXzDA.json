@@ -5,42 +5,76 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Preparing for departure",
+            "task": "Operating farming equipment.",
             "subtasks": [
-                "Get into vehicle",
-                "Start vehicle",
-                "Drive to destination"
+                "Sitting in the drivers seat of a combine harvester.",
+                "Guiding the combine harvester through the wheat field.",
+                "Activating the combine harvester's engines and hydraulics.",
+                "Overseeing the grain collection and processing.",
+                "Initiating the combine harvester's arrival at the bin.",
+                "Lowering the combine's auger to transfer grain."
             ]
         },
         {
-            "task": "Arrival at destination",
+            "task": "Manual grain handling.",
             "subtasks": [
-                "Exit vehicle",
-                "Approach entrance",
-                "Greet host",
-                "Begin interaction"
+                "Using a pitchfork to load grain into the bin.",
+                "Climbing onto the bin to secure the grain cover."
             ]
         },
         {
-            "task": "Returning to starting point",
+            "task": "Wheat field preparations.",
             "subtasks": [
-                "Depart by vehicle",
-                "Drive back home",
-                "Park vehicle",
-                "Exit vehicle"
+                "Riding the combine harvester through the field.",
+                "Monitoring the wheat's progress and separation.",
+                "Verifying the grain grain collection efficiency."
             ]
         },
         {
-            "task": "Preparing for Departure",
-            "subtasks": []
+            "task": "Communication during operations.",
+            "subtasks": [
+                "Calling out directions or instructions to team members."
+            ]
         },
         {
-            "task": "Arrival at Destination",
-            "subtasks": []
+            "task": "Machine operation.",
+            "subtasks": [
+                "Steering the tractor equipped with a sod cutter.",
+                "Activating the cutting blade and manicuring the field.",
+                "Overseeing the sod removal process.",
+                "Transferring the cut sod onto the wagon.",
+                "Guiding the wagon to the desired location.",
+                "Loading the wagon with the sod manually if necessary.",
+                "Using horse-drawn plows or similar manual tools.",
+                "Marking or distributing the sod as needed."
+            ]
         },
         {
-            "task": "Returning to Starting Point",
-            "subtasks": []
+            "task": "Equipment setup and teardown.",
+            "subtasks": [
+                "Assembling the combine's auger and other components.",
+                "Positioning the combine for optimal grain collection.",
+                "Attaching or removing grain bins or other accessories.",
+                "Disconnecting and connecting hoses or cables."
+            ]
+        },
+        {
+            "task": "Communication for coordination.",
+            "subtasks": [
+                "Giving or receiving verbal instructions over radio.",
+                "Using hand signals for coordination."
+            ]
+        },
+        {
+            "task": "Health and safety.",
+            "subtasks": [
+                "Applying safety checks before operating equipment.",
+                "Using personal protective equipment (PPE).",
+                "Checking equipment for hazards or risks.",
+                "Addressing any emergencies quickly and effectively.",
+                "The transcript is relevant to physical farming tasks, so the final answer includes several tasks grouped under main categories. Each main task (MAINTASK) comprises subtasks (SUBTASK). For example, operating the combine includes sitting in the seat, guiding the machine, and handling grain. Hydraulics activation would be part of the combine's operation.",
+                "6. Structure the output as specified (MAINTASK followed by SUBTASKs)."
+            ]
         }
     ]
 }

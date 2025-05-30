@@ -5,21 +5,37 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Understanding the spawn mechanics of game enemies and level structures during gameplay.",
+            "task": "Navigate through game levels and manage monster spawns.",
             "subtasks": [
-                "Identifying three levels of entities (Level 1, 2, 3) and their respective monsters.",
-                "Noting the probability of different monster levels spawning.",
-                "Determining the impact of a 4.6656% chance for lower-level entities to replace level 3 entities.",
-                "Recognizing the presence of monster spawn sets (e.g., 3 Animals, 3 Bowties) and their limitations.",
-                "Understanding how game level affects monster compositions (e.g., game levels 1-2 have 1 Level 1 and 1 Level 3 monster).",
-                "Examing the spawning behavior of entities after 2-5 seconds away from the truck.",
-                "Knowing the idle times for different levels (highest at Level 1 with 2-3 minutes, decreasing as level increases).",
-                "Understanding the despawn mechanism (20-40 second timer) and its impact on respawn timers.",
-                "Knowing that monsters killed by players have their respawn timer multiplied by 3 for the first 10 minutes.",
-                "Recognizing the rapid respawning of monsters (1-second timer) during the final extraction.",
-                "Understanding the strategic paths monsters take after respawning during the final extraction.",
-                "Noting the presence of a tryharding strategy involving sending a player back early.",
-                "Acknowledging the value of Shibu in providing information from the game's code."
+                "Understand the three levels of entities in the game.",
+                "Recognize specific entities in each level (Peeper, Shadowchild, 4 Gnomes, Apex Predator, Spewer, Rugrat, Animal, Upscream, Hidden, Chef, Bowtie, Mentalist, Three Bangers, Headman, Robe, Huntsman, Reaper, Clown, Trudge).",
+                "Realize the probability of each entity type spawning (equal chance per level).",
+                "Note the exception where 4.6656% of level 3 slots can be replaced by lower-level sets.",
+                "Determine the number of each lower-level entity set that can replace a level 3 entity.",
+                "Understand the spawning mechanics for game levels 1-2, 3-5, 6-8, 9-10, and 11+.",
+                "Observe the monster idle times on each level (reducing from 2-3 minutes on level 1 to 0 seconds on level 11).",
+                "Learn about the despawn timer for entities, starting at 4-5 minutes and decreasing over time.",
+                "Note the effect of player kills on despawn timers (multiplied by 3 for the first 10 minutes).",
+                "Understand the final extraction process and the increased aggression of monsters afterward.",
+                "Consider strategic placement to force monsters to despawn.",
+                "Plan for the dangerous final extraction phase."
+            ]
+        },
+        {
+            "task": "Manage the timing and strategy for monster encounters and entity despawn.",
+            "subtasks": [
+                "Adapt movement and positioning based on entity spawn timing and idle times.",
+                "Use distant areas to disrupt entity spawn positions and encourage despawn.",
+                "Practice timed respawns to exploit delayed monster respawning (within first 10 minutes).",
+                "Adjust strategies based on the level's remaining time and entity timers."
+            ]
+        },
+        {
+            "task": "Use the knowledge of entity behavior to outmaneuver them during gameplay.",
+            "subtasks": [
+                "Anticipate monster movement patterns after the final extraction.",
+                "Plan retreat routes and safe rooms considering monster patrol paths.",
+                "Implement a rotation of players for final extraction to manage risk."
             ]
         }
     ]

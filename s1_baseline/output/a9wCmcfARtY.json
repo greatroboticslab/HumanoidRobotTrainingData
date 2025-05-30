@@ -5,75 +5,96 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Amass and transport manure using a tractor and plow.",
+            "task": "Entering and exiting the truck cab.",
             "subtasks": [
-                "Start the tractor and engage the power take-off.",
-                "Attach the plow to the tractor.",
-                "Drive the tractor with the plow to the manure pile.",
-                "Operate the plow to scoop up manure.",
-                "Transport the plow with manure to the fields."
+                "Opening the truck cab door.",
+                "Sitting in the driver's seat.",
+                "Buckling the seatbelt."
             ]
         },
         {
-            "task": "Cultivate the soil for planting.",
+            "task": "Driving the truck to the field.",
             "subtasks": [
-                "Select the appropriate cultivating attachment for the tractor.",
-                "Attach the cultivating equipment to the tractor.",
-                "Operate the tractor to move across the fields.",
-                "Adjust the cultivating depth and width as needed."
+                "Starting the truck engine.",
+                "Adjusting mirrors for safe driving.",
+                "Checking rearview mirrors for blind spots.",
+                "Putting the truck in drive/gear.",
+                "Accelerating the truck to the desired speed.",
+                "Steering the truck to the field location.",
+                "Applying brakes at the field entrance."
             ]
         },
         {
-            "task": "Load manure onto a wagon.",
+            "task": "Engaging the loader for driving.",
             "subtasks": [
-                "Descend from the tractor to approach the manure pile.",
-                "Grasp the manure and lift it onto the wagon.",
-                "Repeat the lifting and placement process until the wagon is full."
+                "Aligning the loader with the cab position.",
+                "Actuating the loader to sit properly.",
+                "Engaging the loader brakes."
             ]
         },
         {
-            "task": "Drive the wagon to the field.",
+            "task": "Unloading the material from the flatbed.",
             "subtasks": [
-                "Mount the tractor and\u9000\u56de to the field location.",
-                "Operate the tractor to tow the wagon to the field."
+                "Ensuring the flatbed is securely attached.",
+                "Using the operator control to lower the flatbed.",
+                "Removing the unloaded portion of the flatbed.",
+                "Raising the flatbed back up.",
+                "Positioning the flatbed for the next load."
             ]
         },
         {
-            "task": "Apply manure to the soil.",
+            "task": "Backing up the truck to the field.",
             "subtasks": [
-                "Position the wagon close to the plowed field.",
-                "Distribute the manure from the wagon onto the plowed rows.",
-                "Level the manure spread on the soil surface."
+                "Checking for obstacles behind.",
+                "Using mirrors to back up safely.",
+                "Steering the truck in reverse.",
+                "Parking the truck in the appropriate location."
             ]
         },
         {
-            "task": "Rotate the implement to ensure even distribution.",
+            "task": "Preparing the roller for field operations.",
             "subtasks": [
-                "Operate the plow or a similar implement to move the manure side to side."
+                "Starting the power take-off (PTO).",
+                "Engaging the roller.",
+                "Adjusting the roller tension."
             ]
         },
         {
-            "task": "Check the field for proper manure coverage.",
+            "task": "Operating the roller on the field.",
             "subtasks": [
-                "Walk through the field to visually inspect the manure application.",
-                "Ensure even coverage and absence of clumps."
+                "Moving the roller across the field rows.",
+                "Adjusting speed and pressure as needed.",
+                "Avoiding crops and ensuring even coverage."
             ]
         },
         {
-            "task": "Finish the job.",
+            "task": "Verifying the roll quality.",
             "subtasks": [
-                "Drive the tractor and wagon back to the storage area.",
-                "Unload any remaining manure and clean the equipment.",
-                "Return the implement to storage."
+                "Inspecting the field for smoothness.",
+                "Checking for any remaining rough spots."
             ]
         },
         {
-            "task": "End the day's work.",
+            "task": "Returning to the truck.",
             "subtasks": [
-                "Park the tractor in the barn.",
-                "Disengage the power take-off and shut off the tractor.",
-                "Store the cultivating equipment safely.",
-                "Perform any needed maintenance on the tractor and equipment."
+                "Disengaging the roller.",
+                "Disengaging the PTO.",
+                "Securing any loose parts."
+            ]
+        },
+        {
+            "task": "Cleaning up the operator area.",
+            "subtasks": [
+                "Removing any debris from the cab.",
+                "Ensuring all equipment is put away properly."
+            ]
+        },
+        {
+            "task": "Exiting the truck cab.",
+            "subtasks": [
+                "Unbuckling the seatbelt.",
+                "Opening the truck cab door.",
+                "Walking away from the vehicle."
             ]
         }
     ]

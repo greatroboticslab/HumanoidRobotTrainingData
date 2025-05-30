@@ -5,68 +5,148 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Prepare the field for planting.",
-            "subtasks": [
-                "Drive tractor equipped with tillage implement towards the field.",
-                "Operate the tractor to till the soil.",
-                "Position the tractor to cover the entire field.",
-                "Ensure even tilling by adjusting the tractor's speed and direction.",
-                "Check the depth and texture of the tilled soil."
-            ]
+            "task": "Go to the greenhouse entrance.",
+            "subtasks": []
         },
         {
-            "task": "Plant the crops.",
-            "subtasks": [
-                "Attach seed drill to the tractor.",
-                "Load the seed drill with seeds.",
-                "Align the seed drill with the field edges.",
-                "Start the seed drill and drive the tractor along the field rows.",
-                "Monitor the seed drill's performance and adjust settings as needed.",
-                "Plant the seeds at the correct depth and spacing."
-            ]
+            "task": "Open the kitchen door.",
+            "subtasks": []
         },
         {
-            "task": "Apply fertilizers and chemicals.",
-            "subtasks": [
-                "Attach fertilizer spreader to the tractor.",
-                "Load the spreader with the desired fertilizer.",
-                "Drive the tractor along the field, spreading the fertilizer uniformly.",
-                "Check the spread pattern and make adjustments.",
-                "Apply pesticides or other chemicals using a sprayer.",
-                "Calibrate the sprayer to deliver the correct amount of chemical.",
-                "Drive the tractor through the field, applying the chemicals to the crops."
-            ]
+            "task": "Walk towards the edge of the fabric.",
+            "subtasks": []
         },
         {
-            "task": "Monitor and maintain irrigation systems.",
-            "subtasks": [
-                "Inspect irrigation pipes and valves for leaks or damage.",
-                "Turn on the irrigation system and check water flow.",
-                "Adjust irrigation timing based on weather conditions.",
-                "Monitor crop water needs and optimize irrigation schedules."
-            ]
+            "task": "Walk to backyard.",
+            "subtasks": []
         },
         {
-            "task": "Harvest the crops.",
-            "subtasks": [
-                "Attach harvesting equipment (e.g., combine) to the tractor.",
-                "Determine the optimal harvest time based on crop maturity.",
-                "Drive the combine through the field, cutting and threshing the crops.",
-                "Operate the combine to separate the grains from the straw.",
-                "Load the harvested grain into trucks or storage bins."
-            ]
+            "task": "Walk to the side of the building.",
+            "subtasks": []
         },
         {
-            "task": "Clean and maintain equipment.",
-            "subtasks": [
-                "Disassemble the harvesting equipment for cleaning.",
-                "Brush off debris from the combine\u2019s cylinders and screens.",
-                "Lubricate the moving parts of the equipment.",
-                "Store the cleaned equipment in a sheltered area.",
-                "Prepare the tractor for the next season by servicing it.",
-                "Check tires, replace worn parts, and ensure all components are functional.",
-                "Store the tractor and other unused equipment safely."
-            ]
+            "task": "Remove weeds from the garden.",
+            "subtasks": []
+        },
+        {
+            "task": "Enter the bedroom.",
+            "subtasks": []
+        },
+        {
+            "task": "Exit the house.",
+            "subtasks": []
+        },
+        {
+            "task": "Enter the barn door.",
+            "subtasks": []
+        },
+        {
+            "task": "Load the hay into the truck.",
+            "subtasks": []
+        },
+        {
+            "task": "Spray the crops with pesticide.",
+            "subtasks": []
+        },
+        {
+            "task": "Carry watering can to garden.",
+            "subtasks": []
+        },
+        {
+            "task": "Go to the greenhouse entrance.",
+            "subtasks": []
+        },
+        {
+            "task": "Open the kitchen door. Then enter. So, subtasks there: find the door, open it, enter.",
+            "subtasks": []
+        },
+        {
+            "task": "After the lesson, perhaps the person goes to the kitchen. So, starting fresh, if the MAINTASK is entering a kitchen, that's another task. But maybe the initial tasks were entering the greenhouse, walking around, so maybe they went through different rooms. Wait, the transcript might not be in order. The user just gave a series of actions that may or may not be consecutive. But since the user wants the list broken down into tasks, I need to generalize the movements into major tasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Go to the greenhouse entrance. Subtasks: find entrance, approach, open door, enter.)",
+            "subtasks": []
+        },
+        {
+            "task": "Open the kitchen door. (Subtasks: locate, open, enter.)",
+            "subtasks": []
+        },
+        {
+            "task": "Walk to backyard. (Subtasks: find it, walk there.)",
+            "subtasks": []
+        },
+        {
+            "task": "Walk to the side of the building. (Subtasks: find the building, walk there.)",
+            "subtasks": []
+        },
+        {
+            "task": "Remove weeds (Subtasks: find weeds, handle them, dispose.)",
+            "subtasks": []
+        },
+        {
+            "task": "Enter the bedroom. (Subtasks: find door, open, enter.)",
+            "subtasks": []
+        },
+        {
+            "task": "Exit the house. (Subtasks: find entry, leave.)",
+            "subtasks": []
+        },
+        {
+            "task": "Enter the barn. (Subtasks: find door, open, enter.)",
+            "subtasks": []
+        },
+        {
+            "task": "Load hay. (Subtasks: get hay, move to truck, load.)",
+            "subtasks": []
+        },
+        {
+            "task": "Spray pesticide. (Subtasks: get pesticide, apply, move arms.)",
+            "subtasks": []
+        },
+        {
+            "task": "Carry watering can. (Subtasks: find can, carry to garden, water plants.)",
+            "subtasks": []
+        },
+        {
+            "task": "Enter the barn \u2192 enter, open door, walk in. Maybe the term \"house\" refers to a farmhouse where tools or supplies are kept.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Load hay. Subtasks: Lift bales, carry to truck, place.",
+            "subtasks": []
+        },
+        {
+            "task": "Say \"Thank you.\" But that doesn't seem physical. Wait, maybe \"Thank you\" here is a sign-off, similar to a video's end. Or perhaps \"100\" refers to a specific task number, like the 100th lesson.",
+            "subtasks": []
+        },
+        {
+            "task": "Enter the kitchen.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Enter the house.",
+            "subtasks": []
+        },
+        {
+            "task": "Exit the classroom. Subtasks: Find door, go to door, open door, walk out.)",
+            "subtasks": []
+        },
+        {
+            "task": "Enter the kitchen.",
+            "subtasks": []
+        },
+        {
+            "task": "Apply pesticide to crops.",
+            "subtasks": []
+        },
+        {
+            "task": "Spraying crops with pesticide. (Subtasks: similar to above.)",
+            "subtasks": []
+        },
+        {
+            "task": "Remove weeds from the garden.",
+            "subtasks": []
         }
     ]
 }

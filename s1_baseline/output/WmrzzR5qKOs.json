@@ -5,39 +5,49 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Conducting a tour and comparison of hybrid vs open pollinated corn fields.",
+            "task": "Visiting a Pioneer hybrid corn demonstration.",
             "subtasks": [
-                "Introducing the tour participants to Bob Garst and Charlie Thomas.",
-                "Highlighting the partnership between Garst and Thomas in producing Superior Seed Corn.",
-                "Describing the new plant and warehouse's capacity and recent construction.",
-                "Explaining the purpose of the tour to demonstrate the how and why of hybrid corn.",
-                "Examining a field of open pollinated corn and identifying its flaws.",
-                "Noting the lack of stalk stiffness in open pollinated corn and citing reasons like ear drop and fallen stalks.",
-                "Comparing the root system of hybrid corn to open pollinated corn, emphasizing size and nutrient absorption.",
-                "Demonstrating the uniformity of hybrid corn fields through stalk and ear height.",
-                "Highlighting the ease of mechanical corn picking in hybrid fields versus open pollinated fields.",
-                "Presenting statistics on high yield (110 bushels per acre) and its profitability.",
-                "Showing the process of corn picking with mechanical harvesters and the efficiency of the operation.",
-                "Discussing the use of pollen rows in hybrid corn fields and their purpose."
+                "Meeting Bob Garst and Charlie Thomas.",
+                "Observing open-pollinated corn field versus Pioneer hybrid corn field.",
+                "Analyzing the differences in stalk rigidity and ear position.",
+                "Examining root systems of open-pollinated vs. hybrid corn.",
+                "Demonstrating mechanical corn picker efficiency on Pioneer hybrid corn.",
+                "Processing and transporting the harvested corn."
             ]
         },
         {
-            "task": "But overall, the key tasks are the comparisons and demonstrations. So yeah, MAINTASK is conducting a tour and comparison of hybrid and open pollinated corn fields, with various subtasks like walking through fields, showing root systems, picking corn, discussing yields, etc.",
+            "task": "Bob Garst and Charlie Thomas are mentioned. So there's a subtask related to meeting them, maybe. But Wait, the main point is the demonstration of hybrid corn. So the primary task is likely \"Visiting a Pioneer hybrid corn demonstration,\" hence the MAINTASK.",
             "subtasks": []
         },
         {
-            "task": "Conduct a tour of corn fields highlighting the benefits of hybrid corn over open pollinated corn.",
+            "task": "Visiting a Pioneer hybrid corn demonstration.",
             "subtasks": [
-                "Introduce tour participants to Bob Garst and Charlie Thomas.",
-                "Explain the partnership between Garst and Thomas in producing seed corn.",
-                "Describe the facilities and capacity of the Pioneer plant.",
-                "Demonstrate the purpose of the tour: showcasing hybrid corn's advantages.",
-                "Walk through an open pollinated corn field, identifying its flaws (weak stalks, uneven ears, poor root system).",
-                "Compare the strength and uniformity of a hybrid corn field, emphasizing rigid stalks and uniform ear height.",
-                "Demonstrate mechanical corn picking in hybrid fields versus hand-picking in open pollinated fields.",
-                "Discuss the root systems of hybrid corn, noting their size and nutrient absorption capabilities.",
-                "Show samples of hybrid corn and discuss its high yield and market value.",
-                "Discuss the use of pollen rows in hybrid corn fields and their purpose for feeding livestock."
+                "Noting the physical differences between open-pollinated and hybrid corn in the fields.",
+                "Analyzing the root systems of corn plants.",
+                "Observing the mechanical corn picker operation.",
+                "Harvesting corn from the hybrid field and loading it onto trucks."
+            ]
+        },
+        {
+            "task": "Visiting a Pioneer hybrid corn demonstration.",
+            "subtasks": [
+                "Conduct a visual inspection of an open-pollinated corn field, noting characteristics such as shagginess, broken stalks, and ear drop.",
+                "Conduct a visual inspection of a Pioneer hybrid corn field, noting characteristics like rigid stalks, uniform ear height, and absence of fallen ears.",
+                "Analyze the root systems of open-pollinated and hybrid corn plants by comparing size and structure.",
+                "Demonstrate operation of a mechanical corn picker to harvest hybrid corn.",
+                "Harvest corn from the hybrid field using the mechanical picker and load it onto waiting trucks.",
+                "Transport harvested corn from the field to the processing plant."
+            ]
+        },
+        {
+            "task": "MAINTASK: Visiting a Pioneer hybrid corn demonstration.",
+            "subtasks": [
+                "Conducting a visual inspection and noting the characteristics of open-pollinated corn in the field, including shagginess, broken stalks, and ear drop.",
+                "Conducting a visual inspection and noting the characteristics of Pioneer hybrid corn in the field, such as rigid stalks, uniform ear height, and absence of fallen ears.",
+                "Analyzing the root systems of open-pollinated and hybrid corn by comparing their size and structure.",
+                "Demonstrating the operation of a mechanical corn picker on hybrid corn.",
+                "Harvesting corn using the mechanical picker and loading it onto trucks.",
+                "Observing the transport of harvested corn to the processing plant."
             ]
         }
     ]

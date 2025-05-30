@@ -5,26 +5,41 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Watermelon harvesting and sorting.",
+            "task": "Sorting and packaging ripe watermelons",
             "subtasks": [
-                "Walking on the agricultural field.",
-                "Identifying ripe watermelons.",
-                "Picking ripe watermelons from the vines.",
-                "Transporting harvested watermelons to the sorting area.",
-                "Inspecting watermelons for quality during sorting.",
-                "Sorting watermelons based on size and appearance.",
-                "Packing watermelons into crates or containers.",
-                "Labeling the packed crates with sorting information."
+                "Observing melon ripeness",
+                "Selecting ripe melons from the field",
+                "Moving selected melons to packaging area",
+                "Handing melons to packers",
+                "Monitoring packaging process"
             ]
         },
         {
-            "task": "Watermelon harvesting and sorting.",
-            "subtasks": []
+            "task": "Harvesting ripe watermelons",
+            "subtasks": [
+                "Walking through the watermelon field",
+                "Inspecting melons for ripeness",
+                "Cutting melons from the vine using knives or scissors",
+                "Collecting cut melons and placing them in baskets"
+            ]
         },
         {
-            "task": "MAINTASK: Watermelon harvesting and sorting.",
+            "task": "MAINTASK: Sorting and packaging ripe watermelons",
             "subtasks": [
-                ""
+                "Observing melon ripeness",
+                "Selecting ripe melons from the field",
+                "Moving selected melons to packaging area",
+                "Handing melons to packers",
+                "Monitoring packaging process"
+            ]
+        },
+        {
+            "task": "Harvesting ripe watermelons",
+            "subtasks": [
+                "Walking through the watermelon field",
+                "Inspecting melons for ripeness",
+                "Cutting melons from the vine using knives or scissors",
+                "Collecting cut melons and placing them in baskets"
             ]
         }
     ]

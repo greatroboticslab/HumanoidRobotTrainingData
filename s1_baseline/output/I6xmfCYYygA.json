@@ -5,13 +5,44 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Cultivating Rice",
+            "task": "Planting Rice",
             "subtasks": [
-                "Preparing the fields",
-                "Planting rice",
-                "Caring for the rice plants",
-                "Harvesting rice",
-                "Processing rice"
+                "Plowing the field",
+                "Leveling the field",
+                "Preparing the flooded environment",
+                "Scattering or transplanting rice seeds/seedlings"
+            ]
+        },
+        {
+            "task": "Growing Rice",
+            "subtasks": [
+                "Monitoring water levels",
+                "Observing natural pest control (fish and insects)",
+                "Checking for signs of pests or disease",
+                "Observing plant growth and flowering"
+            ]
+        },
+        {
+            "task": "Harvesting Rice",
+            "subtasks": [
+                "Cutting the rice stalks with sickles",
+                "Bundling the harvested stalks"
+            ]
+        },
+        {
+            "task": "Processing Rice",
+            "subtasks": [
+                "Threshing the rice grains from stalks",
+                "Hulling the brown rice grains",
+                "Milling the grains to remove bran",
+                "Inspecting and packaging the white rice"
+            ]
+        },
+        {
+            "task": "Environmental Observation",
+            "subtasks": [
+                "Noticing fish in the paddy fields",
+                "Observing insects in the ecosystem"
             ]
         }
     ]

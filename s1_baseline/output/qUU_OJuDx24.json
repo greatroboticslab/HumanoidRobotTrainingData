@@ -5,30 +5,71 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Check and tend to the big joe herd.",
+            "task": "Check the big joe herd",
             "subtasks": [
-                "Drive to the burn unit to check on the herd.",
-                "Bring hay to the big joe herd.",
-                "Distribute hay (native and alfalfa) to the herd.",
-                "Roll out hay in different areas to maximize coverage and encourage grazing."
+                "Drive to the burn unit",
+                "Bring hay for the big joe herd",
+                "Distribute hay to the big joe herd",
+                "Move bison to pasture four",
+                "Clean and prepare water sources for bison"
             ]
         },
         {
-            "task": "Develop and implement a plan to increase wild turkey population in the area.",
+            "task": "Move wild turkeys to new mobile pin",
             "subtasks": [
-                "Purchase and incubate wild turkey eggs.",
-                "Acclimate and maintain wild turkeys in a mobile unit for rotational grazing.",
-                "Construct a mobile turkey pen using a Happy Farmer-sponsored unit.",
-                "Move wild turkeys into the new mobile pen.",
-                "Secure turkeys in the pen, managing their movement and handling.",
-                "Set up roosting bars and potential water systems in the pen."
+                "Assemble the mobile chicken unit",
+                "Transfer wild turkeys to the mobile unit",
+                "Ensure safety during transportation",
+                "Acclimate wild turkeys to the new pin"
             ]
         },
         {
-            "task": "Prepare newly cleaned ponds for bison grazing.",
+            "task": "Install water system for wild turkeys",
             "subtasks": [
-                "Clean and maintain a pond to provide water for bison.",
-                "Rotate bison to the newly prepared pasture with access to clean water."
+                "Set up automatic gravity flow water system"
+            ]
+        },
+        {
+            "task": "Setup roosting bars and other amenities for turkeys",
+            "subtasks": [
+                "Attach water system to the mobile unit",
+                "Organize the mobile unit for comfort and security"
+            ]
+        },
+        {
+            "task": "MAINTASK: Check the big joe herd. Then they talk about going to the burn unit, bringing hay, feeding the herd, and moving them to different pastures. Each of these steps can be broken down into subtasks. For example, distributing hay would require rolling out hay, which is a physical action. Moving bison would involve guiding them with the feed truck and opening gates, which is another task.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Check the big joe herd",
+            "subtasks": [
+                "Drive to the burn unit",
+                "Bring hay for the big joe herd",
+                "Distribute hay to the big joe herd",
+                "Move bison to pasture four",
+                "Clean and prepare water sources for bison"
+            ]
+        },
+        {
+            "task": "Move wild turkeys to new mobile pin",
+            "subtasks": [
+                "Assemble the mobile chicken unit",
+                "Transfer wild turkeys to the mobile unit",
+                "Ensure safety during transportation",
+                "Acclimate wild turkeys to the new pin"
+            ]
+        },
+        {
+            "task": "Install water system for wild turkeys",
+            "subtasks": [
+                "Set up automatic gravity flow water system"
+            ]
+        },
+        {
+            "task": "Setup roosting bars and other amenities for turkeys",
+            "subtasks": [
+                "Attach water system to the mobile unit",
+                "Organize the mobile unit for comfort and security"
             ]
         }
     ]

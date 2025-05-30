@@ -5,23 +5,32 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Weeding and preparing a garden bed for planting",
+            "task": "Weeding and planting a garden bed for a fall garden",
             "subtasks": [
-                "Clearing the garden area of weeds",
-                "Raking the weeded bed",
-                "Planting seeds using an Earthway seeder for the first time",
-                "Assembling and troubleshooting an irrigation system",
-                "Attaching irrigation fittings and adapters",
-                "Positioning sprinklers for adequate coverage"
+                "Clearing ragweed from an area",
+                "Weeding a garden bed",
+                "Preparing the soil by raking",
+                "Planting romaine and green towers using an Earthway seeder",
+                "Setting up irrigation system for the garden bed",
+                "Adjusting irrigation sprinkler placement for proper coverage"
             ]
         },
         {
-            "task": "Assembling and testing an irrigation system",
+            "task": "Maintaining irrigation system",
             "subtasks": [
-                "Setting up irrigation components for the garden",
-                "Ensuring proper spacing for sprinkler coverage",
-                "Testing the irrigation system to confirm functionality",
-                "Given the provided transcript, generate a list of physical tasks a person would have to perform in relation to the content. Include a main task followed by subtasks, each representing a component of the main task. The answer should be structured with MAINTASK followed by SUBTASK for each component."
+                "Checking the adapter fit for sprinklers",
+                "Fixing sprinkler rigging issues",
+                "Setting up irrigation lines for multiple rows",
+                "Testing irrigation system functionality"
+            ]
+        },
+        {
+            "task": "Preparing for fall gardening",
+            "subtasks": [
+                "Planning to plant a fall garden by the end of next week",
+                "Monitoring the timing for planting and irrigation installation",
+                "Adjusting sprinkler placement for different crop rows",
+                "Considering future irrigation needs and coverage"
             ]
         }
     ]

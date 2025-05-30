@@ -5,27 +5,29 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Construct and manage a gravity-fed water system with elevation-based storage and distribution.",
+            "task": "Design and implement a water distribution system considering elevation changes on property.",
             "subtasks": [
-                "Identify topographical features of the property.",
-                "Locate and utilize a spring at a lower elevation for water source.",
-                "Design and install necessary pipes and channels to transport water uphill.",
-                "Construct storage tanks or reservoirs at higher elevations to harness gravity flow.",
-                "Implement an irrigation system for pastures using gravity-fed water.",
-                "ASK_AB'T dream project of building a small hydroelectric plant.",
-                "Understand the concept of using night-time water flow to generate electricity.",
-                "Explore methods for stored water to power hydroelectric turbines during low-power periods.",
-                "Consider integrating the hydroelectric system with existing power usage to reduce dependence on generators."
+                "Assess elevation changes in the property.",
+                "Identify a spring source at the bottom of the property.",
+                "Plan water conveyance from the spring to higher elevations using gravity.",
+                "Install necessary infrastructure to store water at upper elevations.",
+                "Utilize gravity to irrigate pastures."
             ]
         },
         {
-            "task": "Expand livestock herd and associated agricultural activities.",
+            "task": "Explore small-scale hydroelectric generation using gravity-fed water systems.",
             "subtasks": [
-                "Evaluate current herd size and potential for growth.",
-                "Determine the feasibility of increasing the livestock population.",
-                "Plan for additional pasture areas to support a larger herd.",
-                "Explore methods to utilize surplus water for further irrigation and land management.",
-                "Monitor water usage and distribution for efficient husbandry practices."
+                "Design a two-inch PVC pipeline for nighttime water flow.",
+                "Integrate a hydroelectric plant into the pipeline for power generation.",
+                "Schedule power usage to utilize daytime and nighttime generation efficiently."
+            ]
+        },
+        {
+            "task": "Enhance irrigation capabilities to support potential herd expansion.",
+            "subtasks": [
+                "Evaluate current irrigation methods.",
+                "Consider extending irrigation coverage to more areas.",
+                "Adjust herd management practices based on available water resources."
             ]
         }
     ]

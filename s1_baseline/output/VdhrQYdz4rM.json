@@ -5,17 +5,58 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Sunflower Measurement and Counting**",
+            "task": "Harvest and analyze sunflower for spiral counts and height. Subtasks: Identify mature sunflower, measure height, remove seed head, count spirals clockwise, count spirals counterclockwise, verify Fibonacci numbers.)",
+            "subtasks": []
+        },
+        {
+            "task": "Identify a mature sunflower",
             "subtasks": [
-                "Measure sunflower height**: Measure the height of the sunflower from the base to the middle of the head.",
-                "Remove sunflower head**: Carefully remove the sunflower head, using scissors if necessary.",
-                "Check seed maturity**: Ensure the sunflower seeds are mature (black and fully developed) before proceeding.",
-                "Count spirals in seed head**: Count the number of seed spirals in two directions (clockwise and counterclockwise) using the sunflower head.",
-                "Start from the center and count outward spirals clockwise.",
-                "Identify and count spirals in the opposite direction (counterclockwise).",
-                "Alternatively, take a photo of the seed head and use image editing software to count spirals accurately.",
-                "Verify Fibonacci sequence**: Confirm if the number of spirals follows the Fibonacci sequence, which often appears in mature sunflowers."
+                "Wait for sunflowers to mature (petals fallen, seeds visible)",
+                "Check seed color (black/white/black)",
+                "Confirm florets have fallen off"
             ]
+        },
+        {
+            "task": "Measure the height of the sunflower",
+            "subtasks": [
+                "Measure from base to the middle of the head",
+                "Note the exact height (using a measuring tape or stick)"
+            ]
+        },
+        {
+            "task": "Harvest the seed head of a sunflower",
+            "subtasks": [
+                "Use scissors or hands to carefully remove the head",
+                "Ensure no damage to the seeds"
+            ]
+        },
+        {
+            "task": "Count the spirals in a sunflower seed head",
+            "subtasks": [
+                "Brush off the head to expose seeds",
+                "Start counting spirals in one direction (e.g., clockwise)",
+                "Number each spiral to avoid missing",
+                "Check count with a partner (Rimmer checking here)",
+                "Adjust count if necessary",
+                "Count spirals in the opposite direction (counterclockwise)",
+                "Verify Fibonacci sequence in counts"
+            ]
+        },
+        {
+            "task": "Identify a mature sunflower and perform spiral counts**",
+            "subtasks": []
+        },
+        {
+            "task": "Analyze a mature sunflower for spiral counts and height",
+            "subtasks": []
+        },
+        {
+            "task": "Analyze a mature sunflower\u2019s spiral counts and height",
+            "subtasks": []
+        },
+        {
+            "task": "Analyze a mature sunflower for spiral counts and height. Subtasks: Identify maturity, measure height, harvest seed head, count clockwise spirals, note mold issues.)",
+            "subtasks": []
         }
     ]
 }

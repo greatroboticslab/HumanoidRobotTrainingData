@@ -5,194 +5,38 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Performing morning routine and walking dogs",
+            "task": "Morning routine and cat and dog care.",
             "subtasks": [
-                "Waking up early in the morning (7 AM)",
-                "Feeding cats and dogs",
-                "Walking the dogs and interacting with them",
-                "Preparing breakfast and getting dressed"
+                "Wake up and prepare for the day.",
+                "Feed and interact with cats (Delilah and Benelli).",
+                "Take cats on a walk.",
+                "Prepare breakfast and feed cats."
             ]
         },
         {
-            "task": "Traveling to the farm",
+            "task": "Unload and transport materials to the farm.",
             "subtasks": [
-                "Loading and unloading vehicles",
-                "Dealing with cold weather conditions"
+                "Transfer supplies from vehicles to the farm.",
+                "Check on baby bunnies and attempt to capture one.",
+                "Repair a broken water line."
             ]
         },
         {
-            "task": "Checking and maintaining farm water lines",
+            "task": "Farm maintenance and animal care.",
             "subtasks": [
-                "Locating a broken water line",
-                "Shutting off the well to prevent water spillage",
-                "Cutting and replacing the water line",
-                "Securing the new water line with a cuplink"
+                "Fix water line for horses.",
+                "Unload and distribute horse hay.",
+                "Take in and care for stray dogs.",
+                "Retrieve and transport wood shavings."
             ]
         },
         {
-            "task": "Assisting with farm animal care",
+            "task": "Continue farm tasks and plan for the remainder of the day.",
             "subtasks": [
-                "Observing and interacting with bunnies",
-                "Checking on a sad bunny and considering taking it home",
-                "Deworming horses",
-                "Feeding horses and distributing hay",
-                "Unloading and managing hay delivery"
-            ]
-        },
-        {
-            "task": "Attending to the found dogs",
-            "subtasks": [
-                "Finding the location to temporarily keep the found dogs",
-                "Posting about the found dogs on local pet finder"
-            ]
-        },
-        {
-            "task": "Running errands for the farm",
-            "subtasks": [
-                "Retrieving garbage bags from Home Depot",
-                "Purchasing snacks during a long drive"
-            ]
-        },
-        {
-            "task": "Unloading and distributing shavings",
-            "subtasks": [
-                "Transporting shavings back from Lake City",
-                "Unloading shavings onto the farm",
-                "Storing the shavings for farm use"
-            ]
-        },
-        {
-            "task": "\"Checking and maintaining farm water lines,\" with subtasks like locating the leak, shutting the well, cutting/replacing pipe, and securing it.",
-            "subtasks": []
-        },
-        {
-            "task": "Then, there's mention of taking care of farm animals, like observing bunnies, checking on a sad bunny, deworming horses, and distributing hay. So \"Assisting with farm animal care\" could be the MAINTASK here, with subtasks like checking on bunnies, grooming/tending to them, deworming horses, feeding and managing hay.",
-            "subtasks": []
-        },
-        {
-            "task": "Lastly, they're unloading the shavings transported from Lake City and distributing them. That\u2019s another \"Unloading and distributing shavings\" MAINTASK with subtasks like transporting, unloading, and storing.",
-            "subtasks": []
-        },
-        {
-            "task": "So putting it all together. Starting with MAINTASK of performing morning routine and walking dogs, having subtasks of waking up, feeding and walking the animals. Then traveling to the farm with subtasks of vehicle loading/unloading and dealing with weather. Maintenance tasks like fixing water lines, assisting with animal care, managing found dogs, and performing errands for the farm.",
-            "subtasks": []
-        },
-        {
-            "task": "followed by subtasks. Each subtask under a MAINTASK. Then another MAINTASK if there are multiple main categories. Finally, a reason why the video is acceptable, that it's about farming.",
-            "subtasks": []
-        },
-        {
-            "task": "Performing morning routine and walking dogs",
-            "subtasks": [
-                "Waking up early in the morning (7 AM)",
-                "Feeding cats and dogs",
-                "Walking the dogs and interacting with them",
-                "Preparing breakfast and getting dressed"
-            ]
-        },
-        {
-            "task": "Traveling to the farm",
-            "subtasks": [
-                "Loading and unloading vehicles",
-                "Dealing with cold weather conditions"
-            ]
-        },
-        {
-            "task": "Checking and maintaining farm water lines",
-            "subtasks": [
-                "Locating a broken water line",
-                "Shutting off the well to prevent water spillage",
-                "Cutting and replacing the water line",
-                "Securing the new water line with a cuplink"
-            ]
-        },
-        {
-            "task": "Assisting with farm animal care",
-            "subtasks": [
-                "Observing and interacting with bunnies",
-                "Checking on a sad bunny and considering taking it home",
-                "Deworming horses",
-                "Feeding horses and distributing hay",
-                "Unloading and managing hay delivery"
-            ]
-        },
-        {
-            "task": "Attending to the found dogs",
-            "subtasks": [
-                "Finding the location to temporarily keep the found dogs",
-                "Posting about the found dogs on local pet finder"
-            ]
-        },
-        {
-            "task": "Running errands for the farm",
-            "subtasks": [
-                "Retrieving garbage bags from Home Depot",
-                "Purchasing snacks during a long drive"
-            ]
-        },
-        {
-            "task": "Unloading and distributing shavings",
-            "subtasks": [
-                "Transporting shavings back from Lake City",
-                "Unloading shavings onto the farm",
-                "Storing the shavings for farm use"
-            ]
-        },
-        {
-            "task": "Performing morning routine and walking dogs",
-            "subtasks": [
-                "Waking up early in the morning (7 AM)",
-                "Feeding cats and dogs",
-                "Walking the dogs and interacting with them",
-                "Preparing breakfast and getting dressed"
-            ]
-        },
-        {
-            "task": "Traveling to the farm",
-            "subtasks": [
-                "Loading and unloading vehicles",
-                "Dealing with cold weather conditions"
-            ]
-        },
-        {
-            "task": "Checking and maintaining farm water lines",
-            "subtasks": [
-                "Locating a broken water line",
-                "Shutting off the well to prevent water spillage",
-                "Cutting and replacing the water line",
-                "Securing the new water line with a cuplink"
-            ]
-        },
-        {
-            "task": "Assisting with farm animal care",
-            "subtasks": [
-                "Observing and interacting with bunnies",
-                "Checking on a sad bunny and considering taking it home",
-                "Deworming horses",
-                "Feeding horses and distributing hay",
-                "Unloading and managing hay delivery"
-            ]
-        },
-        {
-            "task": "Attending to the found dogs",
-            "subtasks": [
-                "Finding the location to temporarily keep the found dogs",
-                "Posting about the found dogs on local pet finder"
-            ]
-        },
-        {
-            "task": "Running errands for the farm",
-            "subtasks": [
-                "Retrieving garbage bags from Home Depot",
-                "Purchasing snacks during a long drive"
-            ]
-        },
-        {
-            "task": "Unloading and distributing shavings",
-            "subtasks": [
-                "Transporting shavings back from Lake City",
-                "Unloading shavings onto the farm",
-                "Storing the shavings for farm use"
+                "Deworm horses.",
+                "Pick up more hay.",
+                "Address broken boards for horse stalls.",
+                "Plan future tasks for the day."
             ]
         }
     ]

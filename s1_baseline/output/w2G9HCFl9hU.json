@@ -7,9 +7,15 @@
         {
             "task": "Harvest raspberries",
             "subtasks": [
-                "Drive raspberry harvester",
-                "Move along each row of raspberry bushes",
-                "Gather ripe raspberries"
+                "Drive the raspberry harvester along the rows",
+                "Monitor the harvester's progress through each row"
+            ]
+        },
+        {
+            "task": "MAINTASK: Harvest raspberries",
+            "subtasks": [
+                "Drive the raspberry harvester along the rows",
+                "Monitor the harvester's progress through each row"
             ]
         }
     ]

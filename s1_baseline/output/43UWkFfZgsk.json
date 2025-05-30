@@ -5,128 +5,39 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Conducting research on rain-fed wheat systems at CIMMET's research station.",
+            "task": "Conducting a wheat yield experiment under controlled irrigation conditions at a research station.",
             "subtasks": [
-                "Observing wheat yield under zero tillage and conventional tillage.",
-                "Applying water stress to wheat plants through precision irrigation.",
-                "Harvesting wheat grain using combine harvesters.",
-                "Analyzing grain yield differences between tillage methods under stress."
+                "Establishing the research site at CIMMET's station in Obregon, Mexico."
             ]
         },
         {
-            "task": "Analyzing wheat grain under stress conditions.",
+            "task": "Implementing different wheat cultivation practices and irrigation treatments.",
             "subtasks": [
-                "Evaluating physical compensation mechanisms in wheat lines under water stress.",
-                "Comparing grain filling in zero tillage vs. plowed fields during drought."
+                "Setting up zero tillage and conventional tilled plots for wheat cultivation."
             ]
         },
         {
-            "task": "Managing irrigation for experimental plots.",
+            "task": "Conducting trials under varying water stress conditions.",
             "subtasks": [
-                "Controlling water distribution to simulate drought or monsoon conditions.",
-                "Precisely measuring applied water for each trial.",
-                "Adjusting irrigation schedules based on research objectives."
+                "Applying controlled irrigation levels to simulate drought and monsoon rains."
             ]
         },
         {
-            "task": "Implementing zero tillage and conventional tillage practices.",
+            "task": "Observing and comparing wheat yields across treatments.",
             "subtasks": [
-                "Preparing experimental plots for zero tillage.",
-                "Performing conventional plowing for the control plots.",
-                "Managing soil erosion and maintaining soil health with zero tillage.",
-                "Comparing soil moisture retention in zero tillage vs. conventional plots."
+                "Regularly inspecting wheat plants for growth stages and stress responses."
             ]
         },
         {
-            "task": "Observing wheat growth and development.",
+            "task": "Collecting and harvesting grain samples.",
             "subtasks": [
-                "Monitoring wheat plants throughout the growing season.",
-                "Assessing plant health, disease, and pest impacts.",
-                "Recording growth stages and phenology data."
+                "Using combine harvesters to gather grain from each treatment plot."
             ]
         },
         {
-            "task": "Handling combine harvesters for wheat harvesting.",
+            "task": "Analyzing grain yields and quality.",
             "subtasks": [
-                "Operating combine harvesters to collect wheat grain.",
-                "Ensuring proper grain collection and storage.",
-                "Maintaining and cleaning combine harvesters after use."
-            ]
-        },
-        {
-            "task": "Conducting grain analysis for yield determination.",
-            "subtasks": [
-                "Separating and weighing harvested grain samples.",
-                "Assessing grain fill and moisture content.",
-                "Comparing yield data across\u4e0d\u540c\u5904\u7406.",
-                "Documenting results for further analysis."
-            ]
-        },
-        {
-            "task": "Each of these could be a MAINTASK with corresponding subtasks. The irrigation management is part of the research setup, so under maintaining\u8bd5\u9a8c\u6761\u4ef6. The tillage practices are also part of the treatment application. Monitoring the plant is part of data collection. The combine harvesting and grain analysis are at the end.",
-            "subtasks": []
-        },
-        {
-            "task": "Conducting research on rain-fed wheat systems at CIMMET's station.",
-            "subtasks": [
-                "Observing wheat yield under zero tillage and conventional tillage.",
-                "Applying water stress to wheat plants through precision irrigation.",
-                "Harvesting wheat grain using combine harvesters.",
-                "Analyzing grain yield differences between tillage methods under stress.",
-                "Managing irrigation for experimental plots.",
-                "Implementing zero tillage and conventional tillage practices.",
-                "Monitoring wheat growth and development."
-            ]
-        },
-        {
-            "task": "Conducting research on rain-fed wheat systems.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Conducting research on rain-fed wheat systems at CIMMET's station.<br>",
-            "subtasks": [
-                "Observing wheat yield under zero tillage and conventional tillage.<br>",
-                "Applying water stress to wheat plants through precision irrigation.<br>",
-                "Harvesting wheat grain using combine harvesters.<br>",
-                "Analyzing grain yield differences between tillage methods under stress.<br>"
-            ]
-        },
-        {
-            "task": "Managing irrigation for experimental plots.<br>",
-            "subtasks": [
-                "Precisely measuring and distributing water for each trial.<br>",
-                "Adjusting irrigation schedules based on research objectives.<br>"
-            ]
-        },
-        {
-            "task": "Implementing zero tillage and conventional tillage practices.<br>",
-            "subtasks": [
-                "Preparing experimental plots for zero tillage.<br>",
-                "Performing conventional plowing for control plots.<br>",
-                "Maintaining soil health with zero tillage.<br>"
-            ]
-        },
-        {
-            "task": "Monitoring wheat growth and development.<br>",
-            "subtasks": [
-                "Assessing plant health, disease, and pest impacts.<br>",
-                "Recording growth stages and phenology data.<br>"
-            ]
-        },
-        {
-            "task": "Operating combine harvesters for wheat harvesting.<br>",
-            "subtasks": [
-                "Collecting wheat grain samples.<br>",
-                "Storing harvested grain properly.<br>",
-                "Maintaining and cleaning combine harvesters.<br>"
-            ]
-        },
-        {
-            "task": "Analyzing grain for yield determination.<br>",
-            "subtasks": [
-                "Separating and weighing grain samples.<br>",
-                "Assessing grain fill and moisture content.<br>",
-                "Comparing yield data across different treatments.<br>"
+                "Processing harvested grain to determine differences between zero tillage and conventional tilled fields under stress."
             ]
         }
     ]

@@ -5,123 +5,84 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Placing fertilizer into a tractor's tank",
+            "task": "Operating Grain Harvester",
             "subtasks": [
-                "Identify the proper fertilizer to use",
-                "Measure the required amount of fertilizer",
-                "Transport the fertilizer to the tractor",
-                "Open the tractor's tank hatch",
-                "Carefully pour the fertilizer into the tank",
-                "Close the tractor's tank hatch securely"
+                "Driving grain harvester through field",
+                "Adjusting cutting depth",
+                "Monitoring grain moisture content",
+                "Operating combine header",
+                "Managing grain loss during harvesting",
+                "Checking grain auger operation"
             ]
         },
         {
-            "task": "Operating a tractor",
+            "task": "Loading Grain into Truck",
             "subtasks": [
-                "Starting the tractor's engine",
-                "Adjusting the tractor's speed as needed",
-                "Navigating the tractor through fields",
-                "Monitoring the tractor's fuel level during operation"
+                "Guiding grain trailer into position",
+                "Verifying trailer is properly docked",
+                "Operating auger to load grain",
+                "Ensuring grain is loaded safely and efficiently"
             ]
         },
         {
-            "task": "Attaching a fertilizer spreader to the tractor",
+            "task": "Aligning Truck for Unloading",
             "subtasks": [
-                "Position the spreader behind the tractor",
-                "Securely fasten the spreader to the tractor's drawbar",
-                "Activate the spreader mechanism",
-                "Check for proper spreader calibration"
+                "Positioning truck to receive grain",
+                "Ensuring truck bed is clean and free of obstructions",
+                "Clearing grain spillage from previous loads"
             ]
         },
         {
-            "task": "Applying fertilizer to a field",
+            "task": "Unloading Grain from Trailer",
             "subtasks": [
-                "Ensuring the spreader is adjusted to the correct fertilizer width and drop spacing",
-                "Adjusting overall spreader settings as necessary",
-                "Beginning the application process, starting from one end of the field",
-                "Gradually moving the tractor along the field",
-                "Stopping periodically to check and reset the spreader",
-                "Completing the fertilizer application on the field"
+                "Activating grain unloading system",
+                "Monitoring grain flow and adjusting as needed",
+                "Ensuring no blockages in unloading system",
+                "Securing cleaning material to trailer"
             ]
         },
         {
-            "task": "Cleaning and maintaining the spreader after use",
+            "task": "Okay, let's see. The transcript is about operating a combine harvester and handling grain, right? So, MAINTASKs would be things like operating the grain harvester, loading grain into a truck, aligning the truck for unloading, and then unloading the grain. Each of those main tasks has several subtasks. Let me break them down.",
+            "subtasks": []
+        },
+        {
+            "task": "Is there anything missing? I think that covers the main tasks and their subtasks based on the transcript. Let me check. The user said to separate each task by a line, so writing MAINTASK for each major task, then listing the subtasks below. The first main task is \"Operating Grain Harvester,\" then \"Loading Grain into Truck,\" then \"Aligning Truck for Unloading,\" and \"Unloading Grain from Trailer.\"",
+            "subtasks": []
+        },
+        {
+            "task": "Operating Grain Harvester**",
             "subtasks": [
-                "Shutting off the spreader mechanism",
-                "Disconnecting the spreader from the tractor",
-                "Moving the spreader and tractor to a storage area",
-                "Inspecting the spreader for damage or wear",
-                "Lubricating moving parts",
-                "Storing the spreader properly until next use"
+                "** Driving grain harvester through field",
+                "** Adjusting cutting depth",
+                "** Monitoring grain moisture content",
+                "** Operating combine header",
+                "** Managing grain loss during harvesting"
             ]
         },
         {
-            "task": "Documenting the fertilizer application",
+            "task": "Loading Grain into Truck**",
             "subtasks": [
-                "Recording the type and amount of fertilizer used",
-                "Noting the application date",
-                "Checking weather conditions on the day of application",
-                "Ensuring compliance with agricultural regulations"
+                "** Guiding grain trailer into position",
+                "** Verifying trailer is properly docked",
+                "** Operating auger to load grain",
+                "** Ensuring grain is loaded safely and efficiently"
             ]
         },
         {
-            "task": "Placing fertilizer into a tractor's tank",
+            "task": "Aligning Truck for Unloading**",
             "subtasks": [
-                "Identify the proper fertilizer to use",
-                "Measure the required amount of fertilizer",
-                "Transport the fertilizer to the tractor",
-                "Open the tractor's tank hatch",
-                "Carefully pour the fertilizer into the tank",
-                "Close the tractor's tank hatch securely"
+                "** Positioning truck to receive grain",
+                "** Ensuring truck bed is clean and free of obstructions",
+                "** Clearing grain spillage from previous loads"
             ]
         },
         {
-            "task": "Operating a tractor",
+            "task": "Unloading Grain from Trailer**",
             "subtasks": [
-                "Starting the tractor's engine",
-                "Adjusting the tractor's speed as needed",
-                "Navigating the tractor through fields",
-                "Monitoring the tractor's fuel level during operation"
-            ]
-        },
-        {
-            "task": "Attaching a fertilizer spreader to the tractor",
-            "subtasks": [
-                "Position the spreader behind the tractor",
-                "Securely fasten the spreader to the tractor's drawbar",
-                "Activate the spreader mechanism",
-                "Check for proper spreader calibration"
-            ]
-        },
-        {
-            "task": "Applying fertilizer to a field",
-            "subtasks": [
-                "Ensuring the spreader is adjusted to the correct fertilizer width and drop spacing",
-                "Adjusting overall spreader settings as necessary",
-                "Beginning the application process, starting from one end of the field",
-                "Gradually moving the tractor along the field",
-                "Stopping periodically to check and reset the spreader",
-                "Completing the fertilizer application on the field"
-            ]
-        },
-        {
-            "task": "Cleaning and maintaining the spreader after use",
-            "subtasks": [
-                "Shutting off the spreader mechanism",
-                "Disconnecting the spreader from the tractor",
-                "Moving the spreader and tractor to a storage area",
-                "Inspecting the spreader for damage or wear",
-                "Lubricating moving parts",
-                "Storing the spreader properly until next use"
-            ]
-        },
-        {
-            "task": "Documenting the fertilizer application",
-            "subtasks": [
-                "Recording the type and amount of fertilizer used",
-                "Noting the application date",
-                "Checking weather conditions on the day of application",
-                "Ensuring compliance with agricultural regulations"
+                "** Activating grain unloading system",
+                "** Monitoring grain flow and adjusting as needed",
+                "** Ensuring no blockages in unloading system",
+                "** Securing cleaning material to trailer"
             ]
         }
     ]

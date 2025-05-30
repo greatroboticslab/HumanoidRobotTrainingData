@@ -5,40 +5,40 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Rice Transplanting Procedure",
+            "task": "Rice transplanting preparation and execution",
             "subtasks": [
-                "Assess rice yield concerns",
-                "Understand the importance of proper transplanting",
-                "Determine optimal timing for transplanting (25-35 days after sowing)",
-                "Prepare the paddy field by leveling and adding organic manure",
-                "Choose between manual or machine transplanting",
-                "Execute manual transplanting (spacing 20x20 cm)",
-                "Follow machine transplanting guidelines provided by the manufacturer",
-                "Provide post-transplant care (keep field flooded for 7-10 days)",
-                "Monitor for and address pests and weeds promptly",
-                "Promote stronger plants and better yields through proper care"
+                "Verify timing of seedling transplant",
+                "Prepare paddy field by leveling and enriching soil with organic manure",
+                "Choose between manual or machine transplanting method",
+                "For manual transplanting, arrange seedlings at 20x20cm spacing",
+                "If using machine transplanting, refer to manufacturer's instructions",
+                "Post-transplant field management including maintaining water depth",
+                "Monitor and control pests and weeds"
             ]
         },
         {
-            "task": "Sharing and Collaboration",
+            "task": "Promoting the guide's reach",
             "subtasks": [
-                "Encourage likes and sharing among farmers",
-                "Engage audience with relevant hashtags (arma, #farmingtips, #sustainableagriculture, etc.)"
+                "Encourage viewers to like and share the video"
             ]
         },
         {
-            "task": "MAINTASK: Rice Transplanting and Tips;",
+            "task": "But wait, one thing I noticed is that the transcript also includes some hashtags and keywords like #rice_transplanting, #farming_tips, etc. Are those part of the tasks? I think not, as they are just for promotion and not physical actions. The tasks should be related to the farming process. So the MAINTASK is rice transplanting with the subtasks listed. Once the video is analyzed, and seeing that the transcript is all about proper rice transplanting procedures, which are physical tasks related to farming, there should be no issue. So I think the breakdown above is correct. Let me check for anything else. They mention organic manure. Adding manure would be part of preparing the field. They also talk about issues like pests and weeds, so controlling them is a task. Timing the transplant is crucial. Alright, seems comprehensive.",
+            "subtasks": []
+        },
+        {
+            "task": "Rice Transplanting Preparation and Execution**",
             "subtasks": [
-                "Assess yield concerns;",
-                "Optimal timing (25-35 days sowing);",
-                "Field preparation (leveling, organic manure);",
-                "Transplant method choice (manual or machine);",
-                "Manual spacing (20x20 cm);",
-                "Machine care (manufacturer's instructions);",
-                "Post-transplant flooding (7-10 days);",
-                "Pest and weed management;",
-                "Promote yield through proper care;",
-                "Share knowledge via likes and engagement."
+                "Verify Timing of Seedling Transplant**",
+                "Prepare Paddy Field**",
+                "Choose Transplanting Method and Arrange Seedlings**",
+                "Post-Transplant Care**"
+            ]
+        },
+        {
+            "task": "Promoting Agricultural Knowledge**",
+            "subtasks": [
+                "Engage with the video**, liking and sharing it with fellow farmers to disseminate helpful tips."
             ]
         }
     ]

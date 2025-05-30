@@ -5,32 +5,40 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Attending to farm animals (pigs)",
+            "task": "Enter farm premises",
             "subtasks": [
-                "Feeding pigs",
-                "Caring for pigs as if they were babies"
+                "Walk into the farm area from an entrance"
             ]
         },
         {
-            "task": "Operating IT and sales for a farming business",
+            "task": "Feed livestock",
             "subtasks": [
-                "Learning online",
-                "Marketing agricultural products",
-                "Collecting produce from home instead of going to the market"
+                "Bring feed to pigs",
+                "Handle pigs (if you consider interacting with them as part of feeding)"
             ]
         },
         {
-            "task": "Overcoming societal perceptions about disability and farming",
+            "task": "Enter farm premises",
             "subtasks": [
-                "Changing the community's view on disability",
-                "Inspiring youth to see agribusiness as employment"
+                "Walk into an enclosed farm area."
             ]
         },
         {
-            "task": "Managing a family farm",
+            "task": "Feed livestock",
             "subtasks": [
-                "Working alongside family traditions (dad's influence)",
-                "Combining personal interests (technology) with farming"
+                "Provide food to pigs."
+            ]
+        },
+        {
+            "task": "Enter farm premises",
+            "subtasks": [
+                "Walk into an enclosed farm area."
+            ]
+        },
+        {
+            "task": "Feed livestock",
+            "subtasks": [
+                "Provide food to pigs."
             ]
         }
     ]

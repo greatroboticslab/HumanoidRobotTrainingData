@@ -5,21 +5,19 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Setting up an off-grid garden watering system",
+            "task": "Setting up an off-grid garden watering system using an irrigation ditch and a water tank.",
             "subtasks": [
-                "Transporting water from an irrigation ditch to a 1100-gallon tank",
-                "Positioning and securing the 1100-gallon tank",
-                "Installing control valves and fittings",
-                "Testing the system's functionality"
+                "Prime the PVC pipes with a primer.",
+                "Apply glue to female fittings before male fittings during assembly.",
+                "Correct a leaking valve caused by a misaligned pipe fitting.",
+                "Fill the 1100-gallon water tank using gravity from the irrigation ditch.",
+                "Determine the necessary pressure supply for the garden using a gas-powered pump or solar well pump.",
+                "Install drip irrigation and low PSI systems to water the garden."
             ]
         },
         {
-            "task": "video demonstration for future garden watering setup",
-            "subtasks": [
-                "Explaining the irrigation ditch's role in the property's water management system",
-                "Highlighting the challenges of establishing an off-grid system without power",
-                "Addressing potential future upgrades or expansions"
-            ]
+            "task": "MAINTASK: Setting up an off-grid garden watering system using an irrigation ditch and a water tank.",
+            "subtasks": []
         }
     ]
 }

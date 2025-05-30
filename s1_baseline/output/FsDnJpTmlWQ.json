@@ -7,7 +7,7 @@
         {
             "task": "Create an indoor herb garden",
             "subtasks": [
-                "Gather healthy fresh cuttings",
+                "Take healthy fresh cuttings",
                 "Remove leaves except a few at the top",
                 "Submerge cuttings in clean water"
             ]
@@ -15,37 +15,37 @@
         {
             "task": "Grow basil",
             "subtasks": [
-                "Ensure plenty of sunlight"
+                "Ensure basil gets plenty of sunlight"
             ]
         },
         {
             "task": "Grow sage",
             "subtasks": [
-                "Place in moderately bright and airy location"
+                "Place sage in moderately bright area"
             ]
         },
         {
             "task": "Grow rosemary",
             "subtasks": [
-                "Position in full sunlight"
+                "Position rosemary in full sun"
             ]
         },
         {
             "task": "Grow peppermint",
             "subtasks": [
-                "Keep in partially sunny or shady areas"
+                "Keep peppermint in partially sunny or shady areas"
             ]
         },
         {
             "task": "Grow thyme",
             "subtasks": [
-                "Place in bright window"
+                "Keep thyme in bright window"
             ]
         },
         {
             "task": "Grow oregano",
             "subtasks": [
-                "Use for savory dishes"
+                "Use in savory dishes"
             ]
         },
         {
@@ -57,31 +57,90 @@
         {
             "task": "Grow lavender",
             "subtasks": [
-                "Enjoy fragrance and use in teas"
+                "Enjoy fragrance, use in teas and baths"
             ]
         },
         {
             "task": "Grow pothos",
             "subtasks": [
-                "Thrive in low light"
+                "Thrive in low light, purify air"
             ]
         },
         {
             "task": "Grow lemon",
             "subtasks": [
-                "Provide plenty of sunlight"
+                "Provide plenty of sunlight, used for herbal tea"
             ]
         },
         {
-            "task": "MAINTASK: Create an indoor herb garden. Now, how to break this down? First, creating the garden would involve getting the cuttings, right? So, the first subtask would be to gather healthy fresh cuttings. Then, since we're not using soil, another subtask is to remove all leaves except a few at the top because when growing in water, the roots need the energy from the leaves to grow. So, removing most leaves but keeping a few for photosynthesis, that's a subtask. Then, submerge the cuttings in clean water. Wait, the transcript says \"simply take some healthy fresh cuttings and remove all the leaves except a few at the top. Then submerge the cuttings in a couple of inches of clean water.\" So maybe after getting the cuttings, which involves cutting plants, but since the main task is creating the garden, perhaps the subtasks are: get the fresh cuttings, trim them, and then place them in water.",
+            "task": "Create an indoor herb garden.",
             "subtasks": []
         },
         {
-            "task": "The herbs mentioned are basil, sage, rosemary, peppermint, thyme, oregano, stevia, lavender, pothos, and lemon. For each of these, the growing procedure is similar, but some have specific conditions. So the main task is to grow each of these herbs under water, but with different sunlight requirements. So for each herb, there is a MAINTASK to grow it, and a subtask of providing the right amount of sunlight.",
+            "task": "For each herb, since there are different requirements (like sunlight, placement), that would be a separate MAINTASK for each one? Or is each herb a different step under the main task? Hmm, maybe each herb could be a subtask under the main task of setting up the garden. But wait, but the user guide aspect of the video suggests giving instructions for each herb individually. So perhaps each herb is a MAINTASK with subtasks related to their specific care.",
             "subtasks": []
         },
         {
-            "task": "Grow basil. Then subtask: Ensure it gets plenty of sunlight. Because basil needs sunlight to grow well. Similarly, other herbs like rosemary, thyme, oregano, etc., each have their own preferred sunlight conditions. So for each of the other herbs listed, I can have a MAINTASK: Grow [herb name], followed by a subtask: Place in [appropriate light condition]. For some, like sage, it's moderately bright and airy; for rosemary, full sunlight; peppermint can be in partial shade; lavender and lemon need plenty of sunlight; thyme, same as lemon; oregano is just mentioned as using it in dishes, but maybe it needs plenty of sunlight too? Let's check the transcript. Oh, for oregano it says, \"And of course, it can go well in water,\" so perhaps growth in water doesn't specify sunlight, but the growing procedure is similar, so maybe it needs plenty of sunlight. Stevia is mentioned to prefer ample sunlight to flourish. So for each herb, if the transcript mentions a specific light requirement, that would be a subtask. If not, we can assume they all need similar care but each has different preferences.",
+            "task": "Create an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Grow basil",
+            "subtasks": []
+        },
+        {
+            "task": "Grow sage",
+            "subtasks": []
+        },
+        {
+            "task": "Grow rosemary",
+            "subtasks": []
+        },
+        {
+            "task": "Grow peppermint",
+            "subtasks": []
+        },
+        {
+            "task": "Grow thyme",
+            "subtasks": []
+        },
+        {
+            "task": "Grow oregano",
+            "subtasks": []
+        },
+        {
+            "task": "But since the user needs to handle each plant and place them in appropriate spots, perhaps they need their own MAINTASKs.",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": [
+                "Grow basil \u2013 Plenty of sunlight",
+                "Grow sage \u2013 Moderately bright, airy areas",
+                "Grow rosemary \u2013 Full sunlight",
+                "Grow peppermint \u2013 Partially sunny or shady areas",
+                "Grow thyme \u2013 Bright window",
+                "Grow oregano \u2013 Use in savory dishes (maybe add to cooking?) - not sure if a physical task."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "So in that sense, setting up the garden involves multiple MAINTASKs, but it might be mixing. But let's see. The viewers are taking cuttings (from each herb), so the initial part is a single main task (create the garden), with each herb's specific requirements as subtasks. Then after the herbs are set up, maybe adding nutrients is another task. Alternatively, adding nutrients is part of the care for all the herbs, so that can be a separate subtask.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Then, after establishing the garden, each herb is managed as a separate MAINTASK with care instructions.",
             "subtasks": []
         },
         {
@@ -125,51 +184,19 @@
             "subtasks": []
         },
         {
-            "task": "So, I think for all specific herbs, the main MAINTASK is to grow them, and the subtask is to place them in the appropriate location based on sunlight requirements. For example, grow thyme, and place it in bright window, as that's optimal sun for it. So the tasks would be one for each herb, with the name of the herb as the main task, and the subtask as positioning in the right light.",
+            "task": "Grow lemon",
             "subtasks": []
         },
         {
-            "task": "But in any case, to keep it simple, I can list each herb as a MAINTASK, and the corresponding sunlight as a subtask. Because that's the main thing people have to do, adjusting for each herb's light needs.",
+            "task": "Add hydroponic nutrients to the water (if desired)",
             "subtasks": []
         },
         {
-            "task": "\"make sure to provide plenty of sunlight...\" so that's a subtask for the MAINTASK of growing lemon. Similarly, stevia is mentioned to require abundant sunlight. Pothos in the original was referenced with maybe needing low light, but in the list given here, pothos is mentioned last: \"Lemon It's a medicinal and flavorful herb. You can use to make an herbal tea that helps to reduce... And make sure to provide plenty of sunlight to this plant to flourish.\"",
+            "task": "Therefore, considering the need to physically perform these actions\u2014cutting the herbs, removing leaves, submerging in water, positioning in different spots\u2014each step has physical requirements. So perhaps the outline should list taking cuttings as the first MAINTASK, then subsequent MAINTASKs for each herb, but the weight of the tasks may need to be considered.",
             "subtasks": []
         },
         {
-            "task": "grow each herb and give it the appropriate sunlight. So if the main task is to create an indoor herb garden (which includes all the herbs listed), then each herb would have a MAINTASK to grow them, with the subtask of proper sunlight. So, perhaps the initial main task is to create an herb garden, and the subtasks are gathering the herbs, trimming them, and putting them in water. Then for each herb, separate tasks for maintaining them, but those could be specific\u6d47\u6c34. Wait, no, maybe too specific. Alternatively, after the initial setup, is there any other maintenance? The video mentions adding hydroponic nutrients for a nutrient boost. Is there a task for that? Or is that implied?",
-            "subtasks": []
-        },
-        {
-            "task": "Create an indoor herb garden.",
-            "subtasks": []
-        },
-        {
-            "task": "Grow [herb name]",
-            "subtasks": []
-        },
-        {
-            "task": "But since the main task is creating the garden, that would include all the herbs, but the act of creating the garden is only setting it up, with ongoing tasks for each herb. So maybe the main task is \"set up an indoor herb garden,\" which includes the cutting, trimming, and initial placement. Then a separate MAINTASK for each herb\u2019s care. But given that the user would need to create the garden once and then for each herb, take care. Alternatively, since the location and care vary per herb, their care would be a subtask under the main creation task.",
-            "subtasks": []
-        },
-        {
-            "task": "Create an indoor herb garden",
-            "subtasks": []
-        },
-        {
-            "task": "Create an indoor herb garden",
-            "subtasks": []
-        },
-        {
-            "task": "then lists out the general task, and then the broke-down subtasks. There might be confusion between the number of herb-specific tasks; however, based on the instruction to \"generate a series of tasks based on the transcript that a person would have to perform,\" the user might need a structured list. If the herbs are each a separate subtask, it would be too many. Hence, grouping them into one MAINTASK.",
-            "subtasks": []
-        },
-        {
-            "task": "Create an indoor herb garden.",
-            "subtasks": []
-        },
-        {
-            "task": "Create an indoor herb garden",
+            "task": "Start an indoor herb garden",
             "subtasks": []
         },
         {
@@ -185,11 +212,7 @@
             "subtasks": []
         },
         {
-            "task": "Set up basil in water",
-            "subtasks": []
-        },
-        {
-            "task": "Wait, but if you need to do this for each herb, then creating the garden is a per-herb task. The problem is, this approach would lead to too many individual tasks (ten MAINTASKs), but in reality, these steps are done once per herb. So, if you create one MAINTASK to set up each herb, then the answer is to do that for each herb.  However, the main instruction is to generate a list in relation to the video transcript. The video presents a general idea of creating an indoor herb garden and includes a list of herbs with their respective care instructions. In transcribing this to tasks, it's important to highlight the key steps. So, I think the correct answer is to group the setup steps into one task (creating the garden) and then the ongoing care as individual tasks for each herb. Alternatively, if the video is presented as instructed in the sequence, it's okay.",
+            "task": "But is taking the cutting a task? The user is instructed to \"take some healthy fresh cuttings\" without detail. Alternatively, perhaps after creating the garden (with cuttings in water), the concrete steps are placing each herb in their specific spot. But since the cuttings are all part of the garden, and setting each in the right place is a part of creating the garden... This is becoming a bit ambiguous. However, given that the video spends significant time listing the herbs and their care instructions, perhaps each herb's care after starting the garden is a separate MAINTASK.",
             "subtasks": []
         },
         {
@@ -197,7 +220,247 @@
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Create an indoor herb garden",
+            "task": "But the video isn't so much about daily tasks but setting up the initial conditions. So perhaps the only MAINTASK here is setting up the garden, then the subtasks for each herb's light preferences are part of that.",
+            "subtasks": []
+        },
+        {
+            "task": "Wait, no, the user is told to \u201cgrow\u201d each herb, which is an action that would be part of a MAINTASK. So perhaps setting up the garden is one task (managing multiple subtasks), and growing each herb is a different task. Wait, but all 10 herbs are part of the same garden. Maybe \"grow each herb\" is a part of the main task.",
+            "subtasks": []
+        },
+        {
+            "task": "Create and maintain an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "But perhaps there are several MAINTASKs under creating the garden. Let's see.",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Create an initial indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Set up an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Start an indoor herb garden with the following herbs: basil, sage, rosemary, peppermint, thyme, oregano, stevia, lavender, pothos, lemon.",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "But is adding hydroponic nutrients an applicable task? The video says, \"For continuous harvest, you can add some hydroponic nutrients to the water as a nutrient boost for the plant.\" So if they want continuous growth, yeah, that's a task, but if they just want a one-off setup, not necessary. However, as part of the main instructions, it's a possibility. So perhaps include that as a subtask, possibly as its own MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Grow basil",
+            "subtasks": []
+        },
+        {
+            "task": "Grow sage",
+            "subtasks": []
+        },
+        {
+            "task": "But in this case, each MAINTASK (for each herb) would be under the overarching MAINTASK to create/recommend the garden. Alternatively, merely using the generic term for growing the different herbs after the initial setup.",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden with these herbs: basil, sage, rosemary, peppermint, thyme, oregano, stevia, lavender, pothos, lemon.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Populate with 10 herbs.",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor plant garden using water rooting method.",
+            "subtasks": []
+        },
+        {
+            "task": "Start an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Start an indoor herb garden with 10 different herbs.",
+            "subtasks": []
+        },
+        {
+            "task": "Setup Growth for [herb name]",
+            "subtasks": []
+        },
+        {
+            "task": "But since all these are major steps for each herb, this would make too many MAINTASKs. Therefore probably not.",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden which includes:",
+            "subtasks": []
+        },
+        {
+            "task": "Grow an indoor herbal garden (or create a water garden with herbs)",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden with herbes.",
+            "subtasks": []
+        },
+        {
+            "task": "Each with their own step-by-step subtasks as per above. In any case, MAINTASK with 10 subtasks for each herb's or herbes' integration into the garden.",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden",
+            "subtasks": [
+                "Take healthy fresh cuttings",
+                "Remove all but a few leaves from the top",
+                "Submerge cuttings in clean water"
+            ]
+        },
+        {
+            "task": "Grow basil",
+            "subtasks": [
+                "Ensure sufficient sunlight"
+            ]
+        },
+        {
+            "task": "Grow sage",
+            "subtasks": [
+                "Position in moderately bright, airy area"
+            ]
+        },
+        {
+            "task": "Grow rosemary",
+            "subtasks": [
+                "Position in full sun"
+            ]
+        },
+        {
+            "task": "Grow peppermint",
+            "subtasks": [
+                "Position in partial sunlight or shade"
+            ]
+        },
+        {
+            "task": "Grow thyme",
+            "subtasks": [
+                "Position in bright window"
+            ]
+        },
+        {
+            "task": "Grow oregano",
+            "subtasks": [
+                "Use in cooking (possibly not a task)"
+            ]
+        },
+        {
+            "task": "Grow stevia",
+            "subtasks": [
+                "Ensure ample sunlight"
+            ]
+        },
+        {
+            "task": "Grow lavender",
+            "subtasks": [
+                "Use in fragrant teas, herbal baths"
+            ]
+        },
+        {
+            "task": "Grow pothos",
+            "subtasks": [
+                "Thrive in low light conditions"
+            ]
+        },
+        {
+            "task": "Grow lemon",
+            "subtasks": [
+                "Position in full sun for growth"
+            ]
+        },
+        {
+            "task": "The transcript guides viewers through creating an indoor herb garden using water as a medium, which involves several physical tasks. The primary task is **MAINTASK: Create an indoor herb garden**. Here are the detailed subtasks:",
+            "subtasks": []
+        },
+        {
+            "task": "Create an indoor herb garden**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow basil**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow sage**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow rosemary**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow peppermint**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow thyme**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow oregano**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow stevia**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow lavender**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow pothos**",
+            "subtasks": []
+        },
+        {
+            "task": "Grow lemon**",
+            "subtasks": []
+        },
+        {
+            "task": "Add hydroponic nutrients to the water** (if desired).",
             "subtasks": []
         }
     ]

@@ -5,71 +5,40 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Driving a tractor.",
+            "task": "Loading grain into the truck",
             "subtasks": [
-                "Sitting on the tractor seat.",
-                "Operating the tractor controls to turn it on.",
-                "Using the joystick to maneuver the tractor.",
-                "Pressing the clutch and accelerator pedals.",
-                "Adjusting the steering wheel or lever for direction."
+                "Approach the grain bin",
+                "Open the grain bin door",
+                "Suspend grain auger into the bin",
+                "Connect grain auger to bin spout",
+                "Position truck bed underneath auger discharge",
+                "Engage grain auger",
+                "Monitor auger operation and truck filling",
+                "Stop auger when truck is full",
+                "Disengage auger and disconnect",
+                "Close grain bin door"
             ]
         },
         {
-            "task": "Loading the hay baler.",
+            "task": "Driving the truck to grain storage location",
             "subtasks": [
-                "Guiding the hay onto the baler.",
-                "Feeding the hay into the baler mechanism.",
-                "Manipulating the baling rope or strap."
+                "Enter the driver's seat",
+                "Adjust seat and mirrors",
+                "Start the truck engine",
+                "Back the truck out of the loading area",
+                "Proceed to the grain storage or processing facility"
             ]
         },
         {
-            "task": "Operating the baler.",
+            "task": "Unloading grain from the truck at the storage location",
             "subtasks": [
-                "Initiating the baling cycle.",
-                "Monitoring the bale size and ensuring evenness."
-            ]
-        },
-        {
-            "task": "Unloading the bales.",
-            "subtasks": [
-                "Disengaging the wheel loader\u94f2\u6597.",
-                "Guiding the bale out of the baler.",
-                "Positioning the bale onto the wagon or trailer."
-            ]
-        },
-        {
-            "task": "Driving the wagon.",
-            "subtasks": [
-                "Sitting on the wagon seat or driving from the ground.",
-                "Guiding the wagon to the desired location.",
-                "Using the steering to navigate through fields."
-            ]
-        },
-        {
-            "task": "Securing the bale.",
-            "subtasks": [
-                "Positioning the bale on the wagon.",
-                "Using straps or chains to secure the bale to the wagon."
-            ]
-        },
-        {
-            "task": "Verifying that all equipment is safely stopped.",
-            "subtasks": [
-                "Ensuring the tractor is in park or neutral.",
-                "Checking that the baler is disengaged from the tractor.",
-                "Making sure the wagon is secure and brakes are applied.",
-                "Disconnecting the electrical connections if applicable.",
-                "Rendering the entire setup ready for the next movement."
-            ]
-        },
-        {
-            "task": "Driving a tractor with multiple attachments.",
-            "subtasks": [
-                "Securing the baler to the tractor.",
-                "Connecting the electrical and hydraulic lines to the tractor.",
-                "Attaching the wheel loader or other implements as necessary.",
-                "Disengaging them when not in use.",
-                "Verifying all attachments are properly connected and disconnected."
+                "Align truck bed with unloading area",
+                "Engage truck unload mechanism",
+                "Open the truck tailgate",
+                "Discharge grain from truck into storage",
+                "Monitor grain level and adjust as needed",
+                "Close truck tailgate and disengage unload mechanism",
+                "Return the truck to the field or original location"
             ]
         }
     ]

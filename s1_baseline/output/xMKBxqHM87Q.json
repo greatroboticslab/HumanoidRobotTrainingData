@@ -5,48 +5,20 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Attend a virtual panel discussion on the impacts of sugarcane burning and the transition to alternative harvesting methods.",
+            "task": "Attend a webinar on Florida's sugar cane burning issue.",
             "subtasks": [
-                "Enable closed captioning for the video.",
-                "Select English or Portuguese interpretation for the broadcast.",
-                "Choose appropriate language to avoid missing any conversation.",
-                "Listen to the host, Rocio Ortega, introduce the panelists and event sponsors.",
-                "Watch the introduction of Dr. Christopher Holmes, a meteorology professor, and Antonio Queiroz, a technical advisor from the State Environmental Agency of Sao Paulo.",
-                "Pay attention to Dr. Elena Gibero's research on the health effects of sugarcane burning in Sao Paulo, including increased respiratory symptoms and hospital admissions.",
-                "Note Dr. Rafael Roseto's insights on the agricultural challenges and benefits of transitioning from burning to raw cane harvesting in Brazil.",
-                "Observe Antonio Queiroz's explanation of the regulatory process and industry response to the sugarcane burning ban in Brazil.",
-                "Consider the challenges and potential for transitioning to no-burn harvesting in Florida, as discussed by Dr. Rafael Roseto and other panelists.",
-                "Evaluate the impact of air pollution monitoring and regulation on reducing health risks from sugarcane burning, as discussed by Dr. Christopher Holmes.",
-                "Participate in the live Q&A session, asking questions on issues such as the economic impact of transitioning from burning, the role of government monitoring, and the link between burning and health outcomes.",
-                "Reflect on the switch from burning to mechanical harvesting in Brazil and its benefits for the environment and public health."
-            ]
-        },
-        {
-            "task": "MAINTASK: Attend a virtual panel discussion on the impacts of sugarcane burning and the transition to alternative harvesting methods.",
-            "subtasks": [
-                ""
-            ]
-        },
-        {
-            "task": "** Watch a virtual panel discussing the transition from sugarcane burning to mechanical harvesting (no-burn methods) and its impacts.",
-            "subtasks": []
-        },
-        {
-            "task": "\"generate a series of tasks based on the transcript that a person would have to perform. \" However, the output as per the instruction required MAINTASK: statements derived from the video transcript. So given that the transcript talks about academic, professional, and regulatory discussion of sugarcane harvesting methods, obviously equipped with multilingual interpretation and followed by health and environmental research. For instance:",
-            "subtasks": []
-        },
-        {
-            "task": "Attend a virtual green harvesting panel discussing the transition from burning sugarcane to no-burn practices.",
-            "subtasks": [
-                "Check accessibility settings (English or Portuguese translations).",
-                "Engage with the speaker intervention about the regulatory requirements like no-burn law in Brazil.",
-                "Note the professor\u2019s research on air pollution trends during burning periods vs. non-burning periods."
-            ]
-        },
-        {
-            "task": "Evaluate alternatives to burning for sugar cane harvesting and their implications.",
-            "subtasks": [
-                "- **SUBTASKS**"
+                "Enable closed captioning during the webinar (if not already enabled).",
+                "Select preferred language (English or Portuguese) through the interpretation option.",
+                "Wait for the webinar to start as other participants join.",
+                "Listen to introductions and panelists' bios.",
+                "Understand the reasoning behind Brazil's phase-out of sugar cane burning from a health perspective.",
+                "Learn about the health impacts of sugarcane burning (e.g., respiratory symptoms, hospital admissions, premature birth).",
+                "Grasp the agricultural adjustments made in Brazil to transition from burning to mechanical harvesting (e.g., purchasing new machinery, worker training, pest management).",
+                "Compare the timeline and challenges of adopting mechanical harvesting in Florida versus Brazil.",
+                "Evaluate arguments for and against adopting alternative harvesting methods in Florida, considering pest control, worker safety, and soil fertility.",
+                "Discuss the role of air monitoring and the necessity for more regulation in Florida.",
+                "Consider the economic impacts of transitioning away from sugar cane burning, both positive (environmental) and potential job losses.",
+                "Reflect on the broader implications of sugar cane burning on air quality and public health."
             ]
         }
     ]

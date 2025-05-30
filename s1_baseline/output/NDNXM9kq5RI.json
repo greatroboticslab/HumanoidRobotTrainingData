@@ -5,21 +5,36 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Preparing a spring garden",
+            "task": "Preparing the garden for spring planting",
             "subtasks": [
-                "Get rid of weeds in the garden",
-                "Mix soil and prepare garden bed with a tractor",
-                "Check soil moisture before tilling",
-                "Alternatively, manually remove weeds from garden",
+                "Get rid of weeds",
+                "Turn the soil using a tractor and disc/plow",
+                "Check soil moisture and avoid working wet soil",
+                "Remove weeds by hand",
                 "Use herbicides to control weeds",
-                "Wait two weeks after herbicide application before planting",
-                "Take a soil test every three years",
-                "Adjust soil pH to 6-6.5 for optimal vegetable growth",
-                "Correct blossom end rot by amending soil pH",
-                "Purchase soil test kits from local extension office or garden centers",
-                "Obtain more information by contacting the county extension office or visiting aces.edu",
-                "Plant seeds or transplants after soil preparation and testing"
+                "Allow time for herbicide effects before planting",
+                "Take a soil test",
+                "Correct soil pH based on test results",
+                "Test soil fertility and adjust nutrients as needed"
             ]
+        },
+        {
+            "task": "MAINTASK: Preparing the garden for spring planting",
+            "subtasks": [
+                "Get rid of weeds",
+                "Turn the soil using a tractor and disc/plow",
+                "Check soil moisture and avoid working wet soil",
+                "Remove weeds by hand",
+                "Use herbicides to control weeds",
+                "Allow time for herbicide effects before planting",
+                "Take a soil test",
+                "Correct soil pH based on test results",
+                "Test soil fertility and adjust nutrients as needed"
+            ]
+        },
+        {
+            "task": "Preparing the garden for spring planting",
+            "subtasks": []
         }
     ]
 }

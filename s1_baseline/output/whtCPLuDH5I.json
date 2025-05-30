@@ -5,18 +5,17 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Setting up an automatic gardening system with a valve pack, water intake, flow rate sensor, and Raspberry Pi controller.",
+            "task": "Install and configure a watering system with a valve control panel.",
             "subtasks": [
-                "Assembling the valve pack and connecting it to the irrigation zones.",
-                "Installing the house water selector valve and intake for the tank.",
-                "Configuring the flow rate sensor to monitor water usage.",
-                "Setting up the Raspberry Pi controller with a web interface for system monitoring.",
-                "Integrating a rain delay mechanism to prevent watering during precipitation.",
-                "Implementing an interrupt system to track water flow rates and update the interface every five seconds.",
-                "Developing a user interface to control and monitor the irrigation system's status.",
-                "Configuring the system to prevent sensor activation during rain delays.",
-                "Enhancing the system's functionality by adding external API integration for environmental sensors.",
-                "Setting up alarms for potential issues like valve malfunctions or leaks."
+                "Assemble the valve pack and house water selector valve.",
+                "Connect the water tank intake and ensure proper flow rate.",
+                "Install sensors and prepare for future sensor additions.",
+                "Operate the zone valves for water distribution.",
+                "Interface with the Raspberry Pi control system using a web-based frontend.",
+                "Implement the If This Then That (IFTTT) engine for automated watering decisions.",
+                "Integrate weather data to adjust watering schedules during rain delays.",
+                "Monitor system performance and set up alerts for leaks or malfunctions.",
+                "Continuously update and improve the irrigation system\u2019s software functionalities."
             ]
         }
     ]

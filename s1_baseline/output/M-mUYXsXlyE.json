@@ -5,22 +5,60 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Conduct a termination process for farm employees.",
+            "task": "Addressing the decision to terminate employment legally and professionally",
+            "subtasks": [
+                "Verify state employment laws (at-will, protected classes)",
+                "Document performance issues and provide feedback",
+                "Prepare termination notice (when, who, how)",
+                "Handle final payment and return of company property",
+                "Provide limited reference to future employers"
+            ]
+        },
+        {
+            "task": "Addressing the decision to terminate employment legally and professionally",
             "subtasks": [
                 "Check if the state is an at-will employment state.",
-                "Confirm the termination is not due to a protected class under discrimination laws.",
-                "Deliver the termination notice in private.",
-                "Have another supervisor present during the termination.",
-                "Be clear and concise during the termination conversation.",
-                "Examine work performance and expectations.",
-                "Address specific issues, such as attendance.",
-                "Pay for the last day worked within 72 hours (\u9075\u5b88\u52b3\u5de5\u90e8\u95e8\u8981\u6c42)\u3002",
-                "Provide a manual check during the termination meeting.",
-                "Recover issued business property, ensure signing of receipt.",
-                "Escort the employee to their car or arrange safe departure.",
-                "Notify law enforcement if threats or violence arise.",
-                "Limit references to former employment when requested."
+                "Ensure termination isn't based on protected classes like race, color, religion, etc. (Though the transcript mentions Vermont and New Hampshire have additional protections for age, sexual orientation, etc.)",
+                "Document any performance issues and provide prior feedback.",
+                "Keep records of any discussions or issues noticed over time."
             ]
+        },
+        {
+            "task": "Deliver the news professionally",
+            "subtasks": [
+                "Arrange a private meeting.",
+                "Have another supervisor present to support.",
+                "Deliver the news clearly but concisely.",
+                "Explain the reasons (e.g., persistent tardiness) and stick to the decision."
+            ]
+        },
+        {
+            "task": "Complete administrative tasks",
+            "subtasks": [
+                "Have the employee sign time cards for partial payment.",
+                "Pay any owed wages within the state-specific window (72 hours in Vermont and New Hampshire).",
+                "Recover company property (keys, tools, etc.).",
+                "Provide a signed receipt for returned items.",
+                "Give the final paycheck."
+            ]
+        },
+        {
+            "task": "Ensure a smooth exit",
+            "subtasks": [
+                "Walk the employee to their car or assist with transportation if needed.",
+                "If necessary, handle any concerning behaviors by involving law enforcement."
+            ]
+        },
+        {
+            "task": "Provide references",
+            "subtasks": [
+                "Agree to limited reference given upon request.",
+                "Refrain from disclosing the reason for termination unless specifically asked."
+            ]
+        },
+        {
+            "task": "**Addressing the Decision to Terminate Employment Legally and Professionally**",
+            "subtasks": []
         }
     ]
 }

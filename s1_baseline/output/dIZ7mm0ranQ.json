@@ -5,44 +5,48 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Observing and interacting with farm animals",
+            "task": "Feeding and interacting with farm animals.",
             "subtasks": [
-                "Watching farm animals move (sheep skipping, horse galloping, cow wobbling)",
-                "Noticing animal behaviors (dog barking, panting, sheep looking, horse galloping, cow wobbling, pig fatness, chicken squawking, pecking, duck quacking, looking, cat curiosity)",
-                "Identifying farm animals (sheep, horse, cow, pig, chicken, duck, cat)"
+                "Feeding cows.",
+                "Feeding pigs.",
+                "Feeding chickens.",
+                "Feeding ducks."
             ]
         },
         {
-            "task": "Participating in farm activities",
+            "task": "Caretaking farm animals.",
             "subtasks": [
-                "Riding a horse"
+                "Observing and checking sheep.",
+                "Observing and checking horses.",
+                "Observing and checking cows.",
+                "Observing and checking pigs.",
+                "Observing and checking chickens.",
+                "Observing and checking ducks."
             ]
         },
         {
-            "task": "Noting animal sounds",
+            "task": "General farm activities.",
             "subtasks": [
-                "Hearing animal vocalizations (dog barking, horse galloping sounds, cow \"choo choo,\" pig gobbling, chicken squawking, duck quacking)"
+                "Walking a dog (or other small animals?).",
+                "Patting or handling dogs.",
+                "Monitoring dog behavior (barking, panting).",
+                "Wading through a field with cows (implied by wobble, wobble, wobble and choo, choo).",
+                "Feeding and observing pigs (gobble, fat, fat).",
+                "Collecting eggs from chickens (implied by peck, peck, peck and squawk, squawk, squawk).",
+                "Observing farm animals moving (sheep skipping, horse galloping, ducks quack).",
+                "Noticing the cat's behavior (curious, look, look)."
             ]
         },
         {
-            "task": "Feeding or observing eating habits",
+            "task": "Operating farming equipment or vehicles.",
             "subtasks": [
-                "Observing pigs eating (gobble)",
-                "Noting chicken pecking"
+                "Driving a tractor or similar vehicle (implied by \"cow, cow choo, choo\" possibly being a train?)."
             ]
         },
         {
-            "task": "Engaging with pets or working animals",
+            "task": "Working in a barn or shelter.",
             "subtasks": [
-                "Watching a dog (possibly a guard dog or helper)",
-                "Observing a cat (possibly a house cat or barn cat)"
-            ]
-        },
-        {
-            "task": "Assessing animal well-being",
-            "subtasks": [
-                "Noting the health or condition (sheep skipping, pig fatness)",
-                "Observing cow behavior (wobbling)"
+                "Feeding the cat inside (though cats are often kept indoors)."
             ]
         }
     ]

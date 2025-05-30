@@ -5,45 +5,63 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Evaluate a used tractor and its components for purchase.",
+            "task": "Analyzing and purchasing a used tractor**",
             "subtasks": [
-                "Check engine oil condition.",
-                "Inspect tires for wear and damage.",
-                "Assess steering play.",
-                "Consider hydraulic system integrity and functionality.",
-                "Evaluate power takeoff (PTO) system.",
-                "Confirm compatibility between tractor and agricultural implements.",
-                "Assess overall condition and suitability for intended use."
+                "** Checking engine oil cleanliness and condition.",
+                "** Inspecting tires for wear and potential leaks.",
+                "** Evaluating steering mechanism for play or lack of power steering.",
+                "** Assessing hydraulic system function by checking for leaks and the speed of lift operation.",
+                "** Verifying power takeoff (PTO) functionality, including immediate engagement and proper shut-off.",
+                "** Confirming compatibility between the tractor\u2019s PTO shaft type and required implements (e.g., 540 vs. 1,000 RPM for specific cutters).",
+                "** Considering the appropriate horsepower and implement size for the intended acreage (e.g., 35-60 hp for 5-40 acres).",
+                "** Evaluating overall condition and potential maintenance needs of the tractor.",
+                "** Researching the market value range for used tractors in the specified power range (e.g., $3,500-$10,000 for a good used tractor)."
             ]
         },
         {
-            "task": "Consider factors affecting tractor purchase for small farm operations.",
+            "task": "Inspecting tires and related components**",
             "subtasks": [
-                "Determine appropriate horsepower for land size.",
-                "Weigh costs against benefits of used versus new tractors.",
-                "Evaluate resale value and potential future investment.",
-                "Assess compatibility of tractor features with local farming practices."
+                "** Evaluating tire wear, dry cracking, and potential durability.",
+                "** Assessing the impact of tire condition on overall tractor functionality and cost."
             ]
         },
         {
-            "task": "MAINTASK: Evaluate a used tractor and its components for purchase.",
+            "task": "Steering and handling assessment**",
             "subtasks": [
-                "Check engine oil condition.",
-                "Inspect tires for wear and damage.",
-                "Assess steering play.",
-                "Consider hydraulic system integrity and functionality.",
-                "Evaluate power takeoff (PTO) system.",
-                "Confirm compatibility between tractor and agricultural implements.",
-                "Assess overall condition and suitability for intended use."
+                "** Checking steering responsiveness and alignment.",
+                "** Ensuring the presence and functionality of power steering."
             ]
         },
         {
-            "task": "Consider factors affecting tractor purchase for small farm operations.",
+            "task": "Hydraulic system evaluation**",
             "subtasks": [
-                "Determine appropriate horsepower for land size.",
-                "Weigh costs against benefits of used versus new tractors.",
-                "Evaluate resale value and potential future investment.",
-                "Assess compatibility of tractor features with local farming practices."
+                "** Detecting hydraulic oil leaks.",
+                "** Verifying the speed and efficiency of hydraulic lift operations."
+            ]
+        },
+        {
+            "task": "Power takeoff (PTO) inspection**",
+            "subtasks": [
+                "** Confirming smooth engagement and proper shutdown of the PTO.",
+                "** Evaluating PTO shaft type (540 vs. 1,000 RPM) to match intended use."
+            ]
+        },
+        {
+            "task": "Implement compatibility verification**",
+            "subtasks": [
+                "** Ensuring the tractor\u2019s PTO is compatible with the desired implement (e.g., bush hog cutter)."
+            ]
+        },
+        {
+            "task": "Determining appropriate horsepower and acreage match**",
+            "subtasks": [
+                "** Selecting an appropriate tractor and implement size based on land area (e.g., 35-60 hp for up to 40 acres)."
+            ]
+        },
+        {
+            "task": "Market value and resale consideration**",
+            "subtasks": [
+                "** Understanding the potential resale value of the tractor as it ages."
             ]
         }
     ]

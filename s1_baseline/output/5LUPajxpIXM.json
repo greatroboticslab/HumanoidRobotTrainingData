@@ -5,25 +5,71 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Participate in agricultural rituals",
+            "task": "Prepare for Mabon celebration",
             "subtasks": [
-                "Wield dough during bread making as part of ceremonies",
-                "Create corn dollies symbolizing grain spirits",
-                "Celebrate autumn equinox (Mabon) with pagan traditions",
-                "Acknowledge balance and gratitude during seasonal festivals"
+                "Research Mabon traditions and symbolism",
+                "Collect natural materials for corn dollies",
+                "Learn techniques for crafting corn dollies",
+                "Participate in bread-making rituals, using seasonal grains",
+                "Decorate space with corn dollies and other symbols",
+                "Hold thanksgiving prayers or rituals during Mabon celebration"
             ]
         },
         {
-            "task": "Participate in agricultural rituals. Then, the subtasks would be the individual components. So holding dough during bread making, creating corn dollies, and celebrating Mabon. But the problem is the Mabon celebration might be a bit broader, so maybe a subtask for that is acknowledging balance and gratitude during seasonal festivals. So that gives four tasks:",
-            "subtasks": []
+            "task": "Create corn dolly",
+            "subtasks": [
+                "Gather stalks of corn or other suitable grain",
+                "Scour grain from the stalks",
+                "Dry the grain thoroughly",
+                "Braiding or weaving the grain into a doll shape",
+                "Add decorations or symbolic elements to the corn dolly"
+            ]
         },
         {
-            "task": "MAINTASK: Participate in agricultural rituals",
+            "task": "Bake bread as part of Mabon",
             "subtasks": [
-                "Wield dough during bread making as part of ceremonies",
-                "Create corn dollies symbolizing grain spirits",
-                "Celebrate autumn equinox (Mabon) with pagan traditions",
-                "Acknowledge balance and gratitude during seasonal festivals"
+                "Select seasonal grains for the bread",
+                "Mill the grains into flour if necessary",
+                "Prepare dough using traditional methods",
+                "Let dough rise in a warm place",
+                "Shape the dough into loaves or other forms",
+                "Decorate the bread with grains or symbols",
+                "Bake the bread to the appropriate consistency",
+                "Cool and display the bread for the celebration"
+            ]
+        },
+        {
+            "task": "MAINTASK: Prepare for Mabon celebration",
+            "subtasks": [
+                "Research Mabon traditions and symbolism",
+                "Collect natural materials for corn dollies",
+                "Learn techniques for crafting corn dollies",
+                "Participate in bread-making rituals, using seasonal grains",
+                "Decorate space with corn dollies and other symbols",
+                "Hold thanksgiving prayers or rituals during Mabon celebration"
+            ]
+        },
+        {
+            "task": "Create corn dolly",
+            "subtasks": [
+                "Gather stalks of corn or other suitable grain",
+                "Scour grain from the stalks",
+                "Dry the grain thoroughly",
+                "Braiding or weaving the grain into a doll shape",
+                "Add decorations or symbolic elements to the corn dolly"
+            ]
+        },
+        {
+            "task": "Bake bread as part of Mabon",
+            "subtasks": [
+                "Select seasonal grains for the bread",
+                "Mill the grains into flour if necessary",
+                "Prepare dough using traditional methods",
+                "Let dough rise in a warm place",
+                "Shape the dough into loaves or other forms",
+                "Decorate the bread with grains or symbols",
+                "Bake the bread to the appropriate consistency",
+                "Cool and display the bread for the celebration"
             ]
         }
     ]

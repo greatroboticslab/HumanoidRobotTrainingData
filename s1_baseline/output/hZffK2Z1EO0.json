@@ -5,132 +5,104 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Admitting a vehicle to a farm or ranch for livestock transport",
+            "task": "Following biosecurity guidelines when transporting livestock.",
             "subtasks": [
-                "Responding to the farm's secure entry point instructions",
-                "Providing necessary contact information upon entry",
-                "Allowing farm staff to inspect the vehicle",
-                "Cleaning the vehicle if it is dirty or contaminated",
-                "Signing a log upon entry and exit",
-                "Receiving guidance on vehicle routing within the premises",
-                "Being shown the loading area and instructions"
+                "Identify designated secure entry points for empty trucks.",
+                "Contact farmer or rancher for admittance and necessary phone numbers.",
+                "Allow vehicles to be inspected before entering premises.",
+                "Clean or direct truck/trailer if mud or manure is present.",
+                "Sign entry log and provide contact information and equipment condition.",
+                "Follow specified routes during transportation.",
+                "Examine required paperwork before loading animals (e.g., CVI, brand certificate, bill of lading, bill of sale).",
+                "Ensure clean outs are closed and bedding is fresh before loading.",
+                "Examine animals for health before loading and remove sick/injured animals.",
+                "Double-check paperwork and ensure gates are closed upon completing loading.",
+                "Log departure time and any other necessary information."
             ]
         },
         {
-            "task": "Preparing for animal transport",
+            "task": "Admit and handle transportation procedures at the receiving facility.",
             "subtasks": [
-                "Reviewing required paperwork such as CVI, brand inspection certificate, bill of lading, and bill of sale",
-                "Ensuring footwear and coveralls are clean",
-                "Verifying clean outs and bedding on trailers",
-                "Examining animals during loading and rejecting sick or injured ones",
-                "Confirming the number and classes of animals loaded",
-                "Locking all gates after loading"
+                "Call ahead for admittance and follow specified entry procedures.",
+                "Follow routes given by facility staff.",
+                "Sign in and provide required information upon arrival.",
+                "Examine incoming animals' paperwork (CVI, brand certificate, bill of lading, bill of sale) upon arrival.",
+                "Verify and document animal numbers and classes.",
+                "Isolate sick animals as soon as possible during unloading.",
+                "Hoose down or clean transportation equipment once unloaded, if possible, to prevent further contamination."
             ]
         },
         {
-            "task": "Handling animal transport procedures at the destination farm",
-            "subtasks": [
-                "Gaining admittance to the premises for animal unloading",
-                "Following designated routes within the premises",
-                "Signing in at the facility if required",
-                "Examining transported animals' paperwork upon unloading",
-                "Verifying numbers and classes of animals unloaded",
-                "Identifying and segregating sick animals",
-                "Cleaning the transportation equipment after unloading"
-            ]
-        },
-        {
-            "task": "Admission procedures and vehicle preparation at farm entry",
-            "subtasks": [
-                "Inspect vehicle for dirt/contamination and clean if necessary",
-                "Verify required paperwork (such as CVI, brand inspection, bills)",
-                "Put on clean footwear and coveralls",
-                "Check trailers are clean and confirm bedding is fresh",
-                "Examine animals for health (look for signs of sickness; possible tasks like checking temperature, but the transcript says \"for signs of illness,\" so maybe this is task-appropriate)"
-            ]
-        },
-        {
-            "task": "Loading/unloading procedures",
-            "subtasks": [
-                "Verify paperwork upon arrival/loading",
-                "Inspect animals and segregate sick ones",
-                "Count and confirm numbers of animals loaded/unloaded",
-                "Ensure gates are securely closed after loading/unloading"
-            ]
-        },
-        {
-            "task": "Clean-up after transport",
-            "subtasks": [
-                "Clean vehicles/equipment using cleaning facilities or on-site (might involve water, brushes, etc.)",
-                "Perform thorough clean-out when back at home base (same as above)"
-            ]
-        },
-        {
-            "task": "Proper Admission and Preparation",
-            "subtasks": [
-                "Inspect vehicle for dirt and perform necessary cleaning",
-                "Check in with the farmer and verify necessary paperwork",
-                "Put on sanitized coveralls and footwear",
-                "Confirm previous clean-outs on trailers and ensure bedding is fresh"
-            ]
-        },
-        {
-            "task": "Animal Loading",
-            "subtasks": [
-                "Inspect animals for signs of illness and separate them if found",
-                "Count and verify the number and classes of animals being loaded",
-                "Close all gates securely after loading"
-            ]
-        },
-        {
-            "task": "Transportation Procedures at the Destination",
-            "subtasks": [
-                "Inspect required paperwork upon arrival/\u5378\u8d27",
-                "Count and verify the number and classes of animals being unloaded",
-                "Separate any sick animals immediately"
-            ]
-        },
-        {
-            "task": "Post-Transport Clean-Up",
-            "subtasks": [
-                "Clean transportation equipment at the facility's cleaning area or as directed",
-                "Perform thorough clean-out and disinfection when bringing equipment home"
-            ]
-        },
-        {
-            "task": "Admitting a vehicle to a farm for livestock transport",
+            "task": "Okay, so I need to generate tasks based on this transcript about biosecurity when transporting livestock. Let me read through it again and pick out the key physical tasks a person would perform. The main thing here is following biosecurity guidelines, which involves several steps. First, when you're bringing in new animals, you have to make sure you get permission to enter the farm, right? They probably have a specific entrance. Then you need to call the farmer and get any necessary numbers or passcodes to get in. So I think the task there is \"Following biosecurity guidelines when transporting livestock,\" and under that, the subtasks would be identifying the entrance, contacting the farmer, getting inspected, maybe cleaning the truck if needed, signing in, following routes, checking paperwork, making sure the truck is clean before leaving. Then when you're picking up animals, you do the same thing, right? You go through the process of getting permission, maybe inspecting the truck, loading the animals, checking paperwork again, unloading, and then cleaning the truck. So maybe the MAINTASK is \"Admitting and handling transportation procedures at the farm,\" which would include all those subtasks. Wait, but actually, the transcript talks about both picking up and delivering animals. Let me check.",
             "subtasks": []
         },
         {
-            "task": "Preparing and checking the equipment",
+            "task": "MAINTASK should be a general name for the entire process.",
             "subtasks": []
         },
         {
-            "task": "Loading animals safely",
+            "task": "when picking up animals and when delivering. But since the transcript combines both, maybe they need to be merged.",
             "subtasks": []
         },
         {
-            "task": "Unloading procedures",
-            "subtasks": []
-        },
-        {
-            "task": "Cleaning up after transport",
+            "task": "Admitting and handling entry procedures at a farm or ranch.",
             "subtasks": [
-                "** Check if the vehicle is dirty or contaminated and perform necessary cleaning if required (SUBTASK).",
-                "** Sign in, follow designated entry routes, and have vehicles inspected by farm staff (SUBTASKS).",
-                "** Verify previous clean-outs to ensure trailers are free of manure or dirt (SUBTASK).",
-                "** Confirm that fresh, unused bedding is present on trailers (SUBTASK).",
-                "** Wear sanitized coveralls and footwear provided by the farm (SUBTASK).",
-                "** Check for signs of illness or injury and reject any sick or injured animals (SUBTASK).",
-                "** Examine required documents such as CVI, brand inspection certificates, bills of lading, and bills of sale (SUBTASK).",
-                "** Accurately count the number and classes of animals being loaded (SUBTASK).",
-                "** Ensure all gates are closed and securely fastened after loading (SUBTASK).",
-                "** Check animal identification and documentation upon arrival at the destination (SUBTASK).",
-                "** Re-evaluate animals for any signs of health issues and separate them promptly (SUBTASK).",
-                "** Confirm the number and classes of animals unloaded from the transport (SUBTASK).",
-                "** Direct the transport vehicle to designated cleaning facilities for thorough sanitization (SUBTASK).",
-                "** Thoroughly clean the vehicle and equipment, removing manure and pathogens (SUBTASKS)."
+                ""
             ]
+        },
+        {
+            "task": "Observing transportation and\u5378\u8d27 procedures for livestock.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "But after thinking again, perhaps the MAINTASK is \"Performing livestock transportation with biosecurity measures,\" and the subtasks cover all the steps listed in the transcript, from approach to departure. So, from the moment you start toward the farm, to signing in, examining papers, loading, unloading, all the way to cleaning the truck. So maybe just one MAINTASK with too subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "\"Observing animal transportation biosecurity protocols,\" including all the steps: entry, paperwork, health checks, cleaning.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Performing livestock clean-out and transportation sanitation.",
+            "subtasks": [
+                "Ensuring trailers are clean before transporting animals.",
+                "Checking and closing cleanout covers on trailers during loading.",
+                "Applying fresh bedding material (e.g., straw, wood shavings) to trailers before loading.",
+                "Loading clean-out areas on received transportation equipment.",
+                "Thoroughly cleaning trucks/trailers at the end of the transport journey, including exterior and interior surfaces, and applying disinfectants.",
+                "Walking through designated entry and exit points at the farm/ranch.",
+                "Manual inspection of facilities and loading zones at pick-up and delivery."
+            ]
+        },
+        {
+            "task": "Adhering to health and sanitation protocols during livestock transport.",
+            "subtasks": [
+                "Changing into clean footwear and clothing when handling animals."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Performing livestock transport while adhering to biosecurity guidelines.",
+            "subtasks": [
+                "Drives to and from the farm (though this might not be explicitly a physical task as much as job-related.)"
+            ]
+        },
+        {
+            "task": "Conducting livestock transport with biosecurity measures.",
+            "subtasks": []
+        },
+        {
+            "task": "Transporting livestock while maintaining biosecurity.",
+            "subtasks": []
         }
     ]
 }

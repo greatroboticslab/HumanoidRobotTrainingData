@@ -5,38 +5,60 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Assessing rice field growth and addressing uneven germination.",
+            "task": "Assessing and managing uneven rice field growth due to drainage issues.",
             "subtasks": [
-                "Evaluate the field's drainage and seedling health in well-drained areas.",
-                "Note the robust growth of seedlings in well-drained regions.",
-                "Identify intermediate areas with fluctuating moisture levels and assess partial growth.",
-                "Note the establishment density in intermediate areas.",
-                "Recognize areas of complete seed failure due to excessive wetness.",
-                "Discuss the implications of uneven field growth on future crop uniformity.",
-                "Determine the percentage of affected areas (5-10%).",
-                "Decide on reseeding a portion of the field for recovery.",
-                "Plan reseeding timing considering potential maturation delays.",
-                "Reflect on equipment choices (laser vs. small local equipment).",
-                "Acknowledge the limitations of high-tech solutions in practical field conditions.",
-                "Prepare materials for reseeding, including storing water and rice seeds."
+                "Observing the drainage conditions of the field.",
+                "Evaluating the germination and growth rate of the rice seedlings in well-drained areas.",
+                "Noting the impact of intermediate drainage conditions on seedling health and growth density.",
+                "Identifying complete failure areas where rice seeds have died due to prolonged wetness.",
+                "Planning reseeding efforts for the failed areas.",
+                "Considering the timing and potential yield impact of reseeding.",
+                "Acknowledging the limitations of high-tech equipment in certain situations."
             ]
         },
         {
-            "task": "Reseeding affected areas.",
+            "task": "Preparing for reseeding the failed areas.",
             "subtasks": [
-                "Collect necessary supplies for reseeding (e.g., 15l fewgee bags, water, seeds).",
-                "Implement proper water management for seed germination in reseeded areas.",
-                "Monitor reseeded areas for successful establishment and growth."
+                "Gathering necessary seed and equipment (e.g., 15l fewgee bags, water).",
+                "Ensuring proper water conditions for effective seeding.",
+                "Mixing marine knowledge with traditional methods for optimal reseeding."
             ]
         },
         {
-            "task": "Reflecting on the experience and learning from the outcomes.",
+            "task": "MAINTASK: Assessing and managing uneven rice field growth due to drainage issues.",
             "subtasks": [
-                "Analyze the factors contributing to uneven seed germination (soil moisture, equipment precision).",
-                "Draw conclusions about the effectiveness of laser-guided machinery versus traditional methods.",
-                "Document the challenge of balancing technological advancements with practical field knowledge.",
-                "Consider the adaptability required when facing unexpected outcomes in agriculture."
+                "Observing the drainage conditions of the field.",
+                "Evaluating the germination and growth rate of the rice seedlings in well-drained areas.",
+                "Noting the impact of intermediate drainage conditions on seedling health and growth density.",
+                "Identifying complete failure areas where rice seeds have died due to prolonged wetness.",
+                "Planning reseeding efforts for the failed areas.",
+                "Considering the timing and potential yield impact of reseeding.",
+                "Acknowledging the limitations of high-tech equipment in certain situations."
             ]
+        },
+        {
+            "task": "Preparing for reseeding the failed areas.",
+            "subtasks": [
+                "Gathering necessary seed and equipment (e.g., 15l fewgee bags, water).",
+                "Ensuring proper water conditions for effective seeding.",
+                "Mixing marine knowledge with traditional methods for optimal reseeding."
+            ]
+        },
+        {
+            "task": "** MAINTASK: Assessing and managing uneven rice field growth due to drainage issues.",
+            "subtasks": []
+        },
+        {
+            "task": "Preparing for reseeding.",
+            "subtasks": []
+        },
+        {
+            "task": "** MAINTASK: Assessing and managing uneven rice field growth due to drainage issues.",
+            "subtasks": []
+        },
+        {
+            "task": "Preparing for reseeding.",
+            "subtasks": []
         }
     ]
 }

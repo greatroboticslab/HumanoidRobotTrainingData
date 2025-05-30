@@ -5,52 +5,31 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Using pesticides at home",
+            "task": "Applying pesticide after reading instructions.",
             "subtasks": [
-                "Choosing the appropriate pesticide product",
-                "Reading the pesticide label",
-                "Understanding the active ingredient",
-                "Learning first aid information",
-                "Preparing for potential medical treatment (if needed)",
-                "Assessing hazards to animals and humans",
-                "Checking for bee-related statements",
-                "Following directions for use",
-                "Proper storage of pesticide",
-                "Safe disposal of pesticide container"
+                "Choose the appropriate pesticide product.",
+                "Read the pesticide label.",
+                "Look up the label online if difficult to read.",
+                "Identify active ingredient from the label.",
+                "Understand first aid statements on the label.",
+                "Know how to properly dispose of the container.",
+                "Protect animals from potential hazards.",
+                "Protect oneself from potential hazards.",
+                "Consider bee effects if relevant.",
+                "Follow directions for use as per the label."
             ]
         },
         {
-            "task": "MAINTASK is \"Using pesticides at home,\" then breaking it down into subtasks like choosing the product (so that's going to a store maybe? ), reading the label (physical act of handling the label), understanding components (like active ingredient), knowing first aid (mental but maybe subtasks related to that), preparing for medical treatment (maybe packing the label? ), checking hazards (like looking for specific info on the label), following directions (applying the pesticide), proper storage (locking it up, etc.), and safe disposal. Each of these is a physical action related to using pesticides. The user had to select all relevant steps. The transcript covers all these aspects. So the final answer would present these tasks with MAINTASK as using pesticides at home, followed by each subtask. The part about going to the internet for labels if difficult to read might not be a physical task, so perhaps excluded that. Let's check again. Oh, the transcript mentions navigating the internet as a secondary point. If you can't read the label, you can look it up online. That\u2019s helpful, but since the main task is already \"using pesticides at home,\" maybe that's part of the process. If someone can't read the label, getting a readable version online is another step, but since it's not explicitly a physical task, perhaps not included. Thus, the key physical tasks related to applying, handling, storing, etc., are the main ones. So the final list is ten subtasks under \"Using pesticides at home.\"",
-            "subtasks": []
-        },
-        {
-            "task": "Using pesticides at home",
+            "task": "Verifying label compatibility.",
             "subtasks": [
-                "Choosing the appropriate pesticide product",
-                "Reading the pesticide label",
-                "Understanding the active ingredient",
-                "Learning first aid information",
-                "Preparing for potential medical treatment (if needed)",
-                "Assessing hazards to animals and humans",
-                "Checking for bee-related statements",
-                "Following directions for use",
-                "Proper storage of pesticide",
-                "Safe disposal of pesticide container"
+                "Check if additional readable label is available online."
             ]
         },
         {
-            "task": "Using pesticides at home**",
+            "task": "Disposing of pesticide container.",
             "subtasks": [
-                "Choosing the appropriate pesticide product",
-                "Reading the pesticide label",
-                "Understanding the active ingredient",
-                "Learning first aid information",
-                "Preparing for potential medical treatment (if needed)",
-                "Assessing hazards to animals and humans",
-                "Checking for bee-related statements",
-                "Following directions for use",
-                "Proper storage of pesticide",
-                "Safe disposal of pesticide container"
+                "Follow storage instructions on label.",
+                "Properly discard the container after use."
             ]
         }
     ]

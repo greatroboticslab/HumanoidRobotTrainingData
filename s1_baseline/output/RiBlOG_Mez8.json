@@ -7,55 +7,65 @@
         {
             "task": "Planting seeds in a garden.",
             "subtasks": [
-                "Rip open tarragon seed pods.",
-                "Spread tarragon seeds across the soil.",
-                "Repeat process with dill seed pods.",
-                "Water planted seeds to keep them moist.",
-                "Ensure seeds are sown to an eighth-inch depth."
+                "Rip open tarragon seeds.",
+                "Scatter seeds on the planting surface.",
+                "Distribute seeds evenly across the planting area.",
+                "Ensure seeds are approximately an eighth inch deep.",
+                "Water the planted seeds to keep them moist."
             ]
         },
         {
-            "task": "Maintaining newly planted seeds.",
+            "task": "Planting dill seeds.",
             "subtasks": [
-                "Check on seedlings as they grow.",
-                "Soak seeds if necessary to prevent drying.",
-                "Cover seeds once planted."
+                "Break open dill seed pods.",
+                "Disperse seeds from dill pods.",
+                "Soak planted dill seeds to prevent drying out."
             ]
         },
         {
-            "task": "Planting seeds in a garden.",
+            "task": "General garden maintenance.",
             "subtasks": [
-                "Rip open tarragon seed pods.",
-                "Spread tarragon seeds across the soil.",
-                "Repeat process with dill seed pods.",
-                "Water planted seeds to keep them down.",
-                "Ensure seeds are sown to an eighth-inch depth."
+                "Check on seedlings' growth progress.",
+                "Regularly water and care for growing plants."
             ]
         },
         {
-            "task": "Maintaining newly planted seeds.",
+            "task": "Documenting garden activities.",
             "subtasks": [
-                "Check on seedlings as they grow.",
-                "Soak seeds if necessary to prevent drying.",
-                "Cover seeds once planted."
+                "Record garden progress on specific dates (e.g., May 25th, May 30th, May 31st).",
+                "Share garden updates with audience."
             ]
         },
         {
-            "task": "MAINTASK: Planting seeds in a garden.",
+            "task": "1. **Planting Seeds** (MAINTASK)",
             "subtasks": [
-                "Rip open tarragon seed pods.",
-                "Spread tarragon seeds across the soil.",
-                "Repeat process with dill seed pods.",
-                "Water planted seeds to keep them down.",
-                "Ensure seeds are sown to an eighth-inch depth."
+                "- **Rip open tarragon seeds** (SUBTASK)",
+                "- **Scatter seeds** (SUBTASK)",
+                "- **Distribute seeds evenly** (SUBTASK)",
+                "\"an eighth inch deep\")",
+                "- **Water the seeds** (SUBTASK)"
             ]
         },
         {
-            "task": "Maintaining newly planted seeds.",
+            "task": "2. **Planting Dill** (MAINTASK)",
             "subtasks": [
-                "Check on seedlings as they grow.",
-                "Soak seeds if necessary to prevent drying.",
-                "Cover seeds once planted."
+                "- **Break open dill seed pods** (SUBTASK)",
+                "- **Disperse seeds** (SUBTASK)",
+                "- **Soak planted seeds** (SUBTASK)"
+            ]
+        },
+        {
+            "task": "3. **General Garden Care** (MAINTASK)",
+            "subtasks": [
+                "- **Check on seedling growth** (SUBTASK)",
+                "- **Regular watering and maintenance** (SUBTASK)"
+            ]
+        },
+        {
+            "task": "4. **Documentation** (MAINTASK)",
+            "subtasks": [
+                "- **Record garden dates** (e.g., May 25th, May 31st) (SUBTASK)",
+                "- **Share updates with viewers** (SUBTASK)"
             ]
         }
     ]

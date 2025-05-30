@@ -5,124 +5,50 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Conducting potato farming and breeding activities",
+            "task": "Answer gardeners' potato-related questions",
             "subtasks": [
-                "Understanding potato botany and classification",
-                "Explaining potato production in North Dakota and neighboring states",
-                "Propagating potatoes through clonal propagation",
-                "Planting potatoes with appropriate spacing and fertilization",
-                "Implementing hilling and weed control practices",
-                "Managing pests and diseases in the potato garden",
-                "Harvesting and storing potatoes properly",
-                "Addressing common potato issues and disorders"
+                "Explain the importance of proper soil pH for potato growth",
+                "Describe the benefits of crop rotation and seed treatment for disease management",
+                "Provide information on the best varieties for seed potatoes and storage",
+                "Offer advice on integrating pest management techniques (e.g., handpicking, organic treatments) into home gardens",
+                "Explain the effects of water stress on potato plants and the importance of consistent irrigation",
+                "Discuss the role of fertilization in potato production, including recommended NPK ratios and application methods",
+                "Provide guidance on weed control methods suitable for home gardens"
             ]
         },
         {
-            "task": "Understand and perform potato agricultural practices",
-            "subtasks": []
-        },
-        {
-            "task": "Let me think of the broader actions a farmer would take in potato production. So start with site preparation, planting, growing season management, harvest, and storage. Each of these would be MAINTASKs.",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare soil for potato planting",
-            "subtasks": []
-        },
-        {
-            "task": "Plant potatoes",
-            "subtasks": []
-        },
-        {
-            "task": "Manage potato crop during growing season",
-            "subtasks": []
-        },
-        {
-            "task": "Harvest potatoes",
-            "subtasks": []
-        },
-        {
-            "task": "Store harvested potatoes",
-            "subtasks": []
-        },
-        {
-            "task": "Propagate and grow potato plants",
-            "subtasks": []
-        },
-        {
-            "task": "Manage pests and diseases",
-            "subtasks": []
-        },
-        {
-            "task": "Harvest and store potatoes",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "Understand and manage potato propagation and planting",
-            "subtasks": []
-        },
-        {
-            "task": "Implement hill management practices",
-            "subtasks": []
-        },
-        {
-            "task": "Apply fertilizer and manage soil moisture",
-            "subtasks": []
-        },
-        {
-            "task": "Monitor and control pests and diseases",
-            "subtasks": []
-        },
-        {
-            "task": "Harvest and store potatoes properly",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "Plant and care for potato crops",
+            "task": "MAINTASK: Discuss key aspects of potato cultivation for home gardeners",
             "subtasks": [
-                "Select and treat seed potatoes for propagation",
-                "Properly plant seed potatoes in prepared soil",
-                "Manage hills to protect developing tubers and prevent greening"
+                "Explain the origin and botany of potatoes",
+                "Describe the potato production industry and its challenges",
+                "Explain the importance of proper planting techniques and spacing",
+                "Provide guidance on fertilization and soil management",
+                "Discuss weed control and pest management in home gardens"
             ]
         },
         {
-            "task": "Maintain potato plants and control pests/diseases",
+            "task": "MAINTASK: Outline steps involved in potato cultivation and management",
             "subtasks": [
-                "Regularly monitor for common pests and diseases",
-                "Implement sustainable pest management techniques",
-                "Address visible signs of disease with appropriate measures"
+                "Discuss the benefits and importance of potato breeding programs",
+                "Explain the propagation methods used for potato cultivation",
+                "Provide information on tuber formation and storage conditions"
             ]
         },
         {
-            "task": "Harvest and store potatoes",
+            "task": "MAINTASK: Generate tasks based on the farmer's discussion of potato farming techniques",
             "subtasks": [
-                "Monitor plant growth and soil conditions before harvesting",
-                "Harvest potatoes carefully to minimize damage",
-                "Store harvested potatoes appropriately"
+                "Explain the potato's place in agriculture and home gardens",
+                "Discuss nutritional benefits of potatoes",
+                "Describe potato breeding programs and cultivar development",
+                "Explain planting, propagation, and care techniques for home gardens"
             ]
         },
         {
-            "task": "This includes the key actions covered in the presentation. Each MAINTASK has three to four subtasks, keeping it concise. Since the transcript is a presentation, not a hands-on demonstration, some practical steps like specific timings (e.g., planting after last frost) might not be included, but the main practices are there.",
+            "task": "Generate a list of physical tasks related to potato farming and gardening based on the transcript.",
             "subtasks": []
         },
         {
-            "task": "\"Prepare soil for potato planting\"). But since it was mentioned briefly in her speech, but given soil testing wasn't discussed, it\u2019s probably part of general soil preparation.",
-            "subtasks": []
-        },
-        {
-            "task": "Similarly, her mention of common issues like common scab can be captured in the MAINTASK related to pest and disease management.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Conducting potato farming and breeding activities.",
+            "task": "MAINTASK: Generate tasks based on the provided transcript related to potato farming",
             "subtasks": []
         }
     ]

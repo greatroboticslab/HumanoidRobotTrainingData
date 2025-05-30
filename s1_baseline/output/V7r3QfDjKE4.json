@@ -5,64 +5,117 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Follow biosecurity protocols when transporting livestock.",
+            "task": "Follow biosecurity guidelines when transporting livestock.",
             "subtasks": [
-                "Identify designated farm entry points.",
-                "Contact farm for admittance procedures.",
-                "Inspect and clean trucks and trailers.",
-                "Adhere to farm-specific entry procedures.",
-                "Verify paperwork (CVI, brand inspection, bill of lading, bill of sale).",
-                "Check cleanliness of footwear and coveralls.",
-                "Ensure trailers are clean before loading.",
-                "Examine and load animals, avoiding sick or injured ones.",
-                "Confirm loaded animals' paperwork and numbers.",
-                "Work with producers on animal separation and monitoring.",
-                "Clean trailers after unloading."
+                "Check for designated entry points.",
+                "Contact farm for admission details.",
+                "Inspect truck and trailer by farm personnel.",
+                "Clean equipment if necessary.",
+                "Respond to facility entry requirements (e.g., signing logs, providing contact info).",
+                "Follow prescribed routes within the premises.",
+                "Verify required paperwork before loading/unloading (e.g., CVI, bill of lading, bill of sale).",
+                "Examine animals during loading/unloading and exclude sick/injured animals.",
+                "Double-check paperwork and secure gates after loading/unloading.",
+                "Admit to premises for delivery pickup or drop-off.",
+                "Follow farm-specific instructions for unloading and verifying animals.",
+                "Quarantine sick animals upon arrival.",
+                "Clean equipment after transport to prevent pathogen spread."
             ]
         },
         {
-            "task": "Examine required livestock documents.",
+            "task": "Examine required documentation for animal transportation.",
             "subtasks": [
-                "Check for certificates of veterinary inspection.",
-                "Verify brand inspections for livestock like cattle.",
-                "Confirm bill of lading details.",
-                "Validate bill of sale information."
+                "Check for certificate of veterinary inspection (CVI).",
+                "Confirm brand inspection certificate for cattle.",
+                "Verify bill of lading and bill of sale."
             ]
         },
         {
-            "task": "Adapt entry procedures at different farms.",
+            "task": "Properly handle sick or injured animals during transport.",
             "subtasks": [
-                "Obtain necessary phone numbers for farm admission.",
-                "Follow indicated entry routes specified by the farmer.",
-                "Record entry and exit information as required."
+                "Identify sick/injured animals before loading/unloading.",
+                "Work with producers to isolate ill animals.",
+                "Coordinate animal examination and potential treatment."
             ]
         },
         {
-            "task": "Transport livestock without spread of diseases.",
+            "task": "Ensure proper loading procedures.",
             "subtasks": [
-                "Clean trucks to remove mud or manure.",
-                "Use designated cleaning facilities if required.",
-                "Inspect trailers for cleanliness before loading.",
-                "Use clean bedding on trailers.",
-                "Escort loaded animals through the specified route.",
-                "Confirm animal numbers and classes at unloading.",
-                "Address sick animals promptly upon arrival.",
-                "Move contaminated transportation equipment to a clean area."
+                "Examine animals being loaded/unloaded.",
+                "Avoid loading sick or injured animals.",
+                "Confirm number and classes of animals loaded/unloaded.",
+                "Verify animal identification if applicable."
             ]
         },
         {
-            "task": "Confirm procedures for state-specific transport.",
+            "task": "Record keeping during transport.",
             "subtasks": [
-                "Contact state animal health officials for CVI requirements.",
-                "Adhere to state-specific brand inspection policies."
+                "Log entry and exit times.",
+                "Maintain records of transport conditions and animal health."
             ]
         },
         {
-            "task": "Execute proper loading and unloading practices.",
+            "task": "Clean transport equipment.",
             "subtasks": [
-                "Examine animals during loading.",
-                "Communicate with the producer during unloading.",
-                "Inspect transported animals for sickness during unloading."
+                "Perform thorough clean-out when possible.",
+                "Hosedown equipment if necessary before departure."
+            ]
+        },
+        {
+            "task": "Follow biosecurity guidelines when transporting livestock",
+            "subtasks": [
+                "** Check for designated entry points ( farms with designated secure entry points for empty trucks)",
+                "** Contact farm for admission details ( phone number or sign with contact info)",
+                "** Inspect truck and trailer by farm personnel ( look for mud, manure, etc.)",
+                "** Clean equipment if necessary ( follow instructions to clean if contaminated)",
+                "** Respond to facility entry requirements ( sign logs, provide contact info, confirm equipment condition )",
+                "** Follow prescribed routes within the premises ( shown what route to take)",
+                "** Verify required paperwork before loading/unloading ( CVI, bill of lading, bill of sale )",
+                "** Examine animals during loading/unloading and exclude sick/injured animals ( don\u2019t load sick or injured)",
+                "** Double-check paperwork and secure gates after loading/unloading ( confirm numbers and gates closed)",
+                "** Admit to premises for delivery pickup or drop-off ( call to gain admittance)",
+                "** Follow farm-specific instructions for unloading and verifying animals ( check numbers and IDs)",
+                "** Quarantine sick animals upon arrival ( work with producer to separate)",
+                "** Clean equipment after transport to prevent pathogen spread ( move to cleaning area or clean thoroughly)"
+            ]
+        },
+        {
+            "task": "Examine required documentation for animal transportation",
+            "subtasks": [
+                "** Check for certificate of veterinary inspection ( CVI)",
+                "** Confirm brand inspection certificate for cattle",
+                "** Verify bill of lading and bill of sale"
+            ]
+        },
+        {
+            "task": "Properly handle sick or injured animals during transport",
+            "subtasks": [
+                "** Identify sick/injured animals before loading/unloading",
+                "** Work with producers to isolate ill animals",
+                "** Coordinate animal examination and potential treatment"
+            ]
+        },
+        {
+            "task": "Ensure proper loading procedures",
+            "subtasks": [
+                "** Examine animals being loaded/unloaded",
+                "** Avoid loading sick or injured animals",
+                "** Confirm number and classes of animals loaded/unloaded",
+                "** Verify animal identification if applicable"
+            ]
+        },
+        {
+            "task": "Record keeping during transport",
+            "subtasks": [
+                "** Log entry and exit times",
+                "** Maintain records of transport conditions and animal health"
+            ]
+        },
+        {
+            "task": "Clean transport equipment",
+            "subtasks": [
+                "** Perform thorough clean-out when possible",
+                "** Hosedown equipment if necessary before departure"
             ]
         }
     ]

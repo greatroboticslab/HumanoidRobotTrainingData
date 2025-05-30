@@ -5,22 +5,39 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Given the transcript of a fruit entomologist discussing strawberry pest management, create a list of tasks related to physical farming activities including monitoring, chemical applications, cultural controls, and pollinator management.",
+            "task": "Insect Management for Commercial Strawberry Production",
+            "subtasks": []
+        },
+        {
+            "task": "Seasonal Pesticide Applications",
             "subtasks": [
-                "Monitoring two-spotted spider mite population by checking 10-5 mid-tier leaflets per acre under 10x magnification, applying miticides when thresholds are met (e.g., 5 mites per leaflet early in the season, 10 during fruiting).",
-                "Using Southeast Small Fruit Consortium strawberry IPM guide for pesticide selection and application timings.",
-                "Applying miticides such as Acromite, Vigilant, Canemite, Nialta, Portal, Agrimac, MP, horticultural oils, or predatory mites for spider mite control.",
-                "Employing bait buckets or placing sticky red cards to monitor sap beetle populations and removing ripe or damaged fruit regularly.",
-                "Implementing Thrips management strategies, including using Rotationalan, Chlorantraniliprole (Assail), Acetamiprid (Ciba), or biocontrol options like Azera and microtrol, along with cultural controls like mulching and sanitation.",
-                "Managing spotted wing Drosophila (SWD) through monitoring with red sticky traps, chemical applications (e.g., spinosad, pyrifos-based products, organophosphates), mechanical controls (e.g., exclusion nets, vacuuming, culling), and sanitation (prompt removal of overripe fruit).",
-                "Utilizing semi-permanent exclusion nets to prevent SWD infestation, choosing between overhead or under-tree drip irrigation for moisture management, and mulching to reduce humidity and larval survival.",
-                "Adjusting harvesting frequency to remove ripe fruit promptly and implementing post-harvest treatments (36\u00b0F for 3 days) to kill SWD larvae.",
-                "Selecting appropriate insecticides for worm and aphid control during planting and early growth stages, following recommended timing and application rates.",
-                "Monitoring flower thrips, slugs, snails, and fire ants, employing cultural controls, baits, and integrated management strategies as needed.",
-                "Developing and maintaining pollinator habitats, providing flowering resources, and minimizing pesticide exposure to support bee populations for improved strawberry pollination.",
-                "Monitoring beneficial insect populations through periodic surveys and adjusting pesticide applications to protect natural enemies when possible.",
-                "Adhering to resistance management practices for SWD and other pests by rotating insecticide classes and using multiple control strategies.",
-                "Staying informed with resources like the Southeast Small Fruit Consortium guide and IPM app for up-to-date pest management information and best practices."
+                "Cutworm and Aphid Control (fall to early winter)",
+                "Spider Mites Control (late winter to early spring)",
+                "Sap Beetles Management",
+                "Thrips Control",
+                "Spotted Wing Drosophila Management"
+            ]
+        },
+        {
+            "task": "Pollinator Management",
+            "subtasks": [
+                "Monitoring Bee Population",
+                "Integrated Pest Management (IPM) Practices"
+            ]
+        },
+        {
+            "task": "Field Sanitation and Cultural Practices",
+            "subtasks": [
+                "Managing Mistletoe",
+                "Irrigation and Mulching",
+                "Pruning and Pruning Timing"
+            ]
+        },
+        {
+            "task": "Monitoring and Thresholds",
+            "subtasks": [
+                "Seasonal Monitoring",
+                "Action Thresholds"
             ]
         }
     ]

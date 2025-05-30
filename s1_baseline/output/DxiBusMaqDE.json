@@ -5,137 +5,20 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Detailed inspection and maintenance of a worm bin.",
+            "task": "Vermicomposting maintenance tasks",
             "subtasks": [
-                "Checking the condition of the worm bedding and evaluating the feeding schedule.",
-                "Observing the activity levels and health of the worms.",
-                "Ensuring proper aeration and moisture balance in the worm bin.",
-                "Feeding appropriate and\u9002\u91cf food based on the worms' consumption.",
-                "Addressing common misconceptions about worm farming (impatience, overcomplication, excessive care)."
+                "Evaluate worm bin activity",
+                "Check food consumption rate",
+                "Assess worm and microorganism health",
+                "Address impatience in worm farming",
+                "Simplify worm farming practices",
+                "Avoid overfeeding worms",
+                "Monitor and adjust moisture levels",
+                "Observe and maintain ecological balance in worm bin",
+                "Rotate feeding locations to prevent uneven consumption",
+                "Balance slow and fast food additions for optimal decomposition",
+                "Practice moderation in bin inspections to avoid disturbing worms"
             ]
-        },
-        {
-            "task": "Explanation of proper worm bin management.",
-            "subtasks": [
-                "Educating viewers on realistic expectations of worm feeding rates and the role of biological activity.",
-                "Illustrating the process of adding new bedding and mixing food to optimize worm habitat.",
-                "Debunking common myths about worm care (soil moisture, dietary restrictions).",
-                "Discussing the importance of minimal disturbance to worms and adjusting feeding frequency accordingly."
-            ]
-        },
-        {
-            "task": "Demonstration of worm bin layering and feeding techniques.",
-            "subtasks": [
-                "Showing the process of adding food waste to different layers of the bin.",
-                "Mixing the food with bedding materials to facilitate decomposition.",
-                "Adjusting the bin layers to improve airflow and accessibility for worms.",
-                "Addressing the potential for and removal of partially consumed food items.",
-                "MAINTASK and then SUBTASKs for each physical action, and MAINTASK for the explanation portion. Then, perhaps adding a MAINTASK for \"Demonstration of layering and feeding techniques,\" but I think that's covered under the main task of maintaining the bin. For example, when she's talking, \"But let's look at the other layer... So here we are at the bottom level... \" That is part of the inspection."
-            ]
-        },
-        {
-            "task": "Inspecting and maintaining the worm bin. Then under that:",
-            "subtasks": []
-        },
-        {
-            "task": "Detailed inspection and maintenance of a worm bin.",
-            "subtasks": []
-        },
-        {
-            "task": "Explanation of common mistakes in worm farming and providing tips.",
-            "subtasks": []
-        },
-        {
-            "task": "Demonstration of layering and feeding techniques in a worm bin.",
-            "subtasks": []
-        },
-        {
-            "task": "However, it's possible that these two MAINTASKs (inspection/maintenance and explanation) could be considered under one overarching MAINTASK if the video focuses more on the inspection. But given the transcript moves into explaining her mistakes after the inspection, it's better to split these.",
-            "subtasks": []
-        },
-        {
-            "task": "Another way is to combine one MAINTASK with the maintenance (check/adjust the bin) and another with the explanation. But considering the user's request to generate tasks for physical actions related to farming, the examining/maintenance and demonstration aspects are covered under MAINTASKs.",
-            "subtasks": []
-        },
-        {
-            "task": "Detailed inspection and maintenance of a worm bin.",
-            "subtasks": []
-        },
-        {
-            "task": "Explanation of common mistakes in worm farming.",
-            "subtasks": []
-        },
-        {
-            "task": "Demonstration of specific actions like layering and feeding.",
-            "subtasks": []
-        },
-        {
-            "task": "But perhaps the first two MAINTASKs sufficiently cover the main activities. Unless the user requires a more detailed list.",
-            "subtasks": []
-        },
-        {
-            "task": "Alternatively, maybe all the subtasks for the explanation part could be considered as a single MAINTASK because they are part of the educational aspect. However, the transcript differentiates between the inspection (practical) and the three topics (theoretical advice). So separating them makes sense.",
-            "subtasks": []
-        },
-        {
-            "task": "Given that the user requested to generate a list of tasks based on the transcript, these three MAINTASKs cover all the physical actions mentioned, along with their subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "However, in that case, it might need to split the educational part into a MAINTASK if considered a distinct task. But here, the speaker is both showing and explaining. Alternatively, perhaps teaching someone else, so the main task is \"Performing and explaining worm bin maintenance,\" but that's too vague.",
-            "subtasks": []
-        },
-        {
-            "task": "Alternatively, the maintaining part can have a MAINTASK for the physical activities and a MAINTASK for the educational guidance.",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "Maintaining and examining a worm bin.",
-            "subtasks": []
-        },
-        {
-            "task": "Demonstrating and explaining worm bin care practices.",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "But given the transcript, it seems the person is giving a combined demonstration and instruction. So breaking it down into two MAINTASKs could suffice.",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "These two MAINTASKs cover all the significant actions mentioned in the transcript. The first is physical tasks related to inspection and maintenance, while the second includes the non-physical guidance. However, if you think it's appropriate, you can combine the educating part as part of the first task. But given that the video is structured first demonstrating the bin, then giving the advice, it makes sense to keep them as separate MAINTASKs.",
-            "subtasks": []
-        },
-        {
-            "task": "Another way, as the first MAINTASK is the physical inspection and care, which would cover feeding, adding bedding, reviewing the bin's condition. The second MAINTASK is educating others on how to perform these tasks effectively. In many job roles, combining maintenance and instruction, but here maybe the person is executing both roles, but the video splits it into demonstration and explanation. Hence, the answer wants separate MAINTASKs.",
-            "subtasks": []
-        },
-        {
-            "task": "Therefore, based on the transcript, the final answer will structure it into two main MAINTASKs as outlined above.",
-            "subtasks": []
-        },
-        {
-            "task": "Detailed Inspection and Maintenance of a Worm Bin**",
-            "subtasks": []
-        },
-        {
-            "task": "Explanation of Common Mistakes in Worm Farming**",
-            "subtasks": []
         }
     ]
 }

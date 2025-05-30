@@ -3,5 +3,72 @@
     "title": "Unknown Title",
     "url": "https://www.youtube.com/watch?v=maYiKt1W4VU",
     "category": "Unknown Category",
-    "tasks": []
+    "tasks": [
+        {
+            "task": "Drive a farm machine",
+            "subtasks": [
+                "Sit in the driver's seat",
+                "Operate the steering wheel",
+                "Engage the clutch",
+                "Control the gears with the stick shift",
+                "Monitor the machine's dashboard",
+                "Navigate the machine through the fields"
+            ]
+        },
+        {
+            "task": "Load hay onto a trailer",
+            "subtasks": [
+                "Hoist the hay using a lift arm",
+                "Secure the hay with ties or netting",
+                "Check the trailer's stability after loading",
+                "followed by each main task, each on a new line, then SUBTASK: for each subtask under that main task. Should do that below."
+            ]
+        },
+        {
+            "task": "Drive a farm machine",
+            "subtasks": [
+                "Sit in the driver's seat",
+                "Operate the steering wheel",
+                "Engage the clutch",
+                "Control the gears with the stick shift",
+                "Monitor the machine's dashboard",
+                "Navigate the machine through the fields"
+            ]
+        },
+        {
+            "task": "Load hay onto a trailer",
+            "subtasks": [
+                "Hoist the hay using a lift arm",
+                "Secure the hay with ties or netting",
+                "Check the trailer's stability after loading"
+            ]
+        },
+        {
+            "task": "MAINTASK: Drive a farm machine",
+            "subtasks": [
+                "Sit in the driver's seat",
+                "Operate the steering wheel",
+                "Engage the clutch",
+                "Control the gears with the stick shift",
+                "Monitor the machine's dashboard",
+                "Navigate the machine through the fields"
+            ]
+        },
+        {
+            "task": "Load hay onto a trailer",
+            "subtasks": [
+                "Hoist the hay using a lift arm",
+                "Secure the hay with ties or netting",
+                "Check the trailer's stability after loading"
+            ]
+        },
+        {
+            "task": "Drive a farm machine**",
+            "subtasks": []
+        },
+        {
+            "task": "Load hay onto a trailer**",
+            "subtasks": []
+        }
+    ]
 }

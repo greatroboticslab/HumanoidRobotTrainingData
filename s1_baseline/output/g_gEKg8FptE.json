@@ -5,145 +5,36 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Reading pesticide labels and safety measures",
+            "task": "Apply pesticides on a crop",
             "subtasks": [
-                "Determine the pest to control",
-                "Select appropriate chemical for control",
-                "Choose the correct pesticide formulation",
-                "Understand the product's brand name and formulation type",
-                "Identify active and non-active ingredients",
-                "Assess the pesticide's toxicity level",
-                "Locate first aid and physician information on the label",
-                "Follow instructions for applying the pesticide",
-                "Wear protective clothing and gloves",
-                "Cover sleeves and protect wrists",
-                "Use long pants, coveralls, and appropriate footwear",
-                "Wear goggles or face shield",
-                "Change clothes immediately after use",
-                "Clean protective gear after each use",
-                "Store pesticides safely in original labeled containers",
-                "Transport pesticides in a secured plastic tub",
-                "Select a cool, dry storage location away from water",
-                "Properly handle pesticide spills and disposal",
-                "Recognize symptoms of pesticide poisoning",
-                "Call paramedics if severe poisoning occurs"
+                "Determine pest to be controlled",
+                "Select appropriate pesticide (considering its type and formulation)",
+                "Read and understand pesticide label instructions",
+                "Wear protective clothing and equipment (e.g., full coverage, neoprene gloves, goggles)",
+                "Follow safety measures (e.g., avoid wind drift, keep unauthorized people away)",
+                "Administer first aid for pesticide poisoning if necessary"
             ]
         },
         {
-            "task": "Applying pesticides safely",
+            "task": "Store pesticides safely",
             "subtasks": [
-                "Use low pressure spray to avoid drift",
-                "Avoid applying in moderate or strong winds",
-                "Keep unauthorized people and children away",
-                "Monitor wind direction when operating equipment"
+                "Secure pesticide containers in a plastic tub or bucket",
+                "Dispose of pesticide containers properly after use",
+                "Store pesticides in a cool, dry place away from water and streams"
             ]
         },
         {
-            "task": "Environmental precautions",
+            "task": "Transfer pesticides from container to applicator",
             "subtasks": [
-                "Store pesticides out of reach of non-target animals",
-                "Prevent pesticide runoff into water sources",
-                "Dispose of containers properly by destroying or burying",
-                "Prevent leakage by securely storing containers",
-                "Reading pesticide labels and safety measures. Under that, the subtasks would involve determining the pest to control (SUBTASK), selecting the right chemical (SUBTASK), choosing the correct formulation (SUBTASK). Then on the label, there's information like brand name, active and non-active ingredients, toxicity levels, first aid, etc. So those would be individual subtasks like identifying brand name (SUBTASK), understanding active ingredients (SUBTASK), noting toxicity (SUBTASK), and so on.",
-                "Applying pesticides safely. This includes wearing protective clothing (full coverage, gloves, goggles), changing clothes afterward, cleaning gear, etc. Subtasks here would be putting on protective gear (SUBTASK: cover sleeves, wear long pants, etc.), changing clothes immediately (SUBTASK), cleaning protective equipment daily (SUBTASK).",
-                "Environmental precautions. This would cover storing pesticides safely (cool, dry place, away from water), transporting them properly (secured container), disposing of them correctly (no leakage, destroy containers), and preventing runoff and drift. Each of these forms a subtask like storing out of reach (SUBTASK), preventing water contamination (SUBTASK), proper disposal (SUBTASK: destroy or bury containers)."
+                "Mix pesticides with water as needed (for flowable formulations)",
+                "Use appropriate application equipment for the pesticide formulation (e.g., special equipment for solutions, low-pressure sprayers for some formulations)"
             ]
         },
         {
-            "task": "Responding to pesticide poisoning. Subtasks here would be knowing symptoms (mild to severe) and what actions to take (calling paramedics if severe, first aid from label instructions).",
-            "subtasks": []
-        },
-        {
-            "task": "Application safety, with subtasks like avoiding wind direction, keeping others away, and monitoring drift.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Reading pesticide labels and safety measures",
+            "task": "Apply pesticides to crops via spraying or other methods as per label instructions",
             "subtasks": [
-                "Determine the pest to control",
-                "Select appropriate chemical for control",
-                "Choose the correct pesticide formulation",
-                "Understand the product's brand name and formulation type",
-                "Identify active and non-active ingredients",
-                "Assess the pesticide's toxicity level",
-                "Locate first aid and physician information on the label",
-                "Follow instructions for applying the pesticide"
-            ]
-        },
-        {
-            "task": "Applying pesticides safely",
-            "subtasks": [
-                "Wear protective clothing and gloves",
-                "Cover sleeves and protect wrists",
-                "Use long pants, coveralls, and appropriate footwear",
-                "Wear goggles or face shield",
-                "Change clothes immediately after use",
-                "Clean protective gear after each use"
-            ]
-        },
-        {
-            "task": "Environmental precautions",
-            "subtasks": [
-                "Store pesticides safely in original labeled containers",
-                "Transport pesticides in a secured plastic tub",
-                "Select a cool, dry storage location away from water",
-                "Properly handle pesticide spills and disposal",
-                "Recognize symptoms of pesticide poisoning",
-                "Call paramedics if severe poisoning occurs"
-            ]
-        },
-        {
-            "task": "Application safety",
-            "subtasks": [
-                "Use low pressure spray to avoid drift",
-                "Avoid applying in moderate or strong winds",
-                "Keep unauthorized people and children away",
-                "Monitor wind direction when operating equipment"
-            ]
-        },
-        {
-            "task": "Reading pesticide labels and safety measures",
-            "subtasks": [
-                "Determine the pest to control",
-                "Select appropriate chemical for control",
-                "Choose the correct pesticide formulation",
-                "Understand the product's brand name and formulation type",
-                "Identify active and non-active ingredients",
-                "Assess the pesticide's toxicity level",
-                "Locate first aid and physician information on the label",
-                "Follow instructions for applying the pesticide"
-            ]
-        },
-        {
-            "task": "Applying pesticides safely",
-            "subtasks": [
-                "Wear protective clothing and gloves",
-                "Cover sleeves and protect wrists",
-                "Use long pants, coveralls, and appropriate footwear",
-                "Wear goggles or face shield",
-                "Change clothes immediately after use",
-                "Clean protective gear after each use"
-            ]
-        },
-        {
-            "task": "Environmental precautions",
-            "subtasks": [
-                "Store pesticides safely in original labeled containers",
-                "Transport pesticides in a secured plastic tub",
-                "Select a cool, dry storage location away from water",
-                "Properly handle pesticide spills and disposal",
-                "Recognize symptoms of pesticide poisoning",
-                "Call paramedics if severe poisoning occurs"
-            ]
-        },
-        {
-            "task": "Application safety",
-            "subtasks": [
-                "Use low pressure spray to avoid drift",
-                "Avoid applying in moderate or strong winds",
-                "Keep unauthorized people and children away",
-                "Monitor wind direction when operating equipment"
+                "Ensure proper coverage and target areas when applying pesticides",
+                "Monitor drift and take measures to prevent off-target contamination"
             ]
         }
     ]

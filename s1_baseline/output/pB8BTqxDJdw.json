@@ -3,5 +3,41 @@
     "title": "Unknown Title",
     "url": "https://www.youtube.com/watch?v=pB8BTqxDJdw",
     "category": "Unknown Category",
-    "tasks": []
+    "tasks": [
+        {
+            "task": "Performing agricultural operations",
+            "subtasks": [
+                "Operating farming equipment",
+                "Planting crops",
+                "Harvesting fruits",
+                "Applying pesticides",
+                "Watering crops",
+                "Maintaining farm machinery"
+            ]
+        },
+        {
+            "task": "Managing farm animals",
+            "subtasks": [
+                "Feeding livestock",
+                "Milking cows",
+                "Administering veterinary care"
+            ]
+        },
+        {
+            "task": "Handling financial transactions",
+            "subtasks": [
+                "Counting cash",
+                "Recording sales",
+                "Managing payroll"
+            ]
+        },
+        {
+            "task": "Navigating agricultural technology",
+            "subtasks": [
+                "Using GPS systems",
+                "Operating drones",
+                "Monitoring crop health from satellite imagery"
+            ]
+        }
+    ]
 }

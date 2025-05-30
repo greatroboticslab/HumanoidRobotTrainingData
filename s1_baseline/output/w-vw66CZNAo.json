@@ -5,14 +5,127 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Ignoring irrelevant parts, the transcript does not contain any specific actions related to physical work in agriculture or farming. Therefore, the video is considered irrelevant.",
+            "task": "Farming equipment operation",
+            "subtasks": [
+                "Operating a combine harvester to harvest grain",
+                "Guiding the harvester around the field",
+                "Attaching and detaching implements such as the header\u5272\u53f0)",
+                "Cleaning the harvested grain from the machine"
+            ]
+        },
+        {
+            "task": "Applying pesticides",
+            "subtasks": [
+                "Loading pesticide into the applicator",
+                "Guiding the applicator through the rows",
+                "Monitoring pressure and flow during application"
+            ]
+        },
+        {
+            "task": "Harrow operation",
+            "subtasks": [
+                "Attaching the harrow to the tractor",
+                "Operating the hydraulic lift to lower the harrow teeth",
+                "Driving across the field to break up the soil",
+                "Adjusting depth and angle of the harrow"
+            ]
+        },
+        {
+            "task": "Planting crops",
+            "subtasks": [
+                "Loading seed into the planter",
+                "Adjusting row spacing and depth settings",
+                "Starting the planter and driving through the prepared field",
+                "Checking seed drop and proper planting depth"
+            ]
+        },
+        {
+            "task": "Loading grain from trucks to grain storage",
+            "subtasks": [
+                "Operating a truck unloading system",
+                "Verifying grain quality before storage",
+                "Monitoring grain levels in the bin and managing ventilation"
+            ]
+        },
+        {
+            "task": "Repairing equipment",
+            "subtasks": [
+                "Inspecting a combine for worn parts",
+                "Replacing a damaged header lamp",
+                "Cleaning filters and hydraulic lines",
+                "Lifting the combine for access to internal components"
+            ]
+        },
+        {
+            "task": "Conducting field operation coordination",
+            "subtasks": [
+                "Assigning tasks to farm workers",
+                "Checking progress against the schedule",
+                "Adjusting plans based on weather or machine availability"
+            ]
+        },
+        {
+            "task": "Operating grain dryers and storage bins",
+            "subtasks": [
+                "Starting the grain dryer and regulating temperature and humidity",
+                "Monitoring grain moisture levels and adjusting settings",
+                "Unloading grain into bins and ensuring proper aeration"
+            ]
+        },
+        {
+            "task": "Using a bailer",
+            "subtasks": [
+                "Collecting residue from the field",
+                "Storing the baled material for later use or sale"
+            ]
+        },
+        {
+            "task": "Guiding equipment through the field",
+            "subtasks": [
+                "Adjusting the guidance system on a planter",
+                "Maintaining proper speed and direction to seed rows accurately",
+                "Responding to obstacles or areas requiring additional passes"
+            ]
+        },
+        {
+            "task": "Performing maintenance on a fertilizer spreader",
+            "subtasks": [
+                "Attaching the spreader to the tractor",
+                "Checking calibration for even distribution",
+                "Operating the spreader and evaluating coverage"
+            ]
+        },
+        {
+            "task": "Planting seeds by hand (as a backup)",
+            "subtasks": [
+                "Kneading the soil to create a proper seed bed",
+                "Inserting seeds at the correct depth and spacing",
+                "Covering the planted seeds with soil"
+            ]
+        },
+        {
+            "task": "Operating a sprayer with attachments",
+            "subtasks": [
+                "Connecting the sprayer to the tractor\u2019s hydraulic system",
+                "Selecting the appropriate nozzle and pressure setting",
+                "Applying fertilizer or treatment to the crop while covering the entire field"
+            ]
+        },
+        {
+            "task": "Driving a tractor with multiple implements",
+            "subtasks": [
+                "Coordinating the timing of instrument lateral movement",
+                "Adjusting speed to maintain proper overlap between passes",
+                "Ensuring even coverage across all applied treatments or plantings"
+            ]
+        },
+        {
+            "task": "!!!!TRANSCRIPT\\_IRRELEVANT: The transcript does not contain clear, relevant, physical tasks related to farming. It is primarily nondescript, contains unclear references, abstract discussions, and lacks specific action steps. !!DESCRIPTION: Disjointed conversation focusing on nonspecific farm equipment and abstract concepts.",
             "subtasks": []
         },
         {
-            "task": "** Ignoring irrelevant parts, the transcript does not contain any specific actions related to physical work in agriculture or farming. Therefore, the video is considered irrelevant.",
-            "subtasks": [
-                "** N/A"
-            ]
+            "task": "!!!TRANSCRIPT\\_IRRELEVANT: The transcript contains extensive, incoherent speech with no distinct agricultural tasks. It mentions farm equipment like a combine but does not describe actual operations. The content is too vague and abstract (`Profit`, `glory of God`, etc.) to derive specific tasks. Hence, the final answer reflects this irrelevance.",
+            "subtasks": []
         }
     ]
 }

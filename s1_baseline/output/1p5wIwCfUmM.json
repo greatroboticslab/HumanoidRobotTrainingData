@@ -5,364 +5,59 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Attach mulching machinery to the back of a tractor.",
+            "task": "Preparing land for planting",
             "subtasks": [
-                "Approach the tractor and locate the attachment points for the mulching machinery.",
-                "Lift the mulching machinery onto the tractor and position it correctly.",
-                "Connect the hydraulic lines between the mulching machinery and the tractor.",
-                "Secure the mulching machinery to the tractor to prevent it from falling off during operation."
+                "Walking between rows of plants",
+                "Moving a tiller or hoe through soil",
+                "Breaking up clumps or old plants left in the soil",
+                "Leveling out the soil for better seed bed"
             ]
         },
         {
-            "task": "Operate the tractor's mechanical blades or implement for shredding and mowing.",
+            "task": "Watering crops",
             "subtasks": [
-                "Start the tractor engine and ensure it is in the correct gear.",
-                "Engage the power take-off (PTO) shaft to drive the shredding/mowing implement.",
-                "Adjust the speed and direction of the PTO as needed to effectively shred the mulch."
+                "Walking to a nearby water source",
+                "Hooking up a hose or irrigation system to a water source",
+                "Moving the watering equipment through rows of crops",
+                "Ensuring even distribution of water to each plant or cluster"
             ]
         },
         {
-            "task": "Monitor and adjust the combination of shredded material and weeds pulled up by a cultivator.",
+            "task": "Harvesting ripe fruits",
             "subtasks": [
-                "Drive the tractor and cultivator through the field.",
-                "Observe the amount of shredded material and weeds being pulled up.",
-                "Stop occasionally to manually remove larger debris or rocks from the shredding mechanism."
+                "Identifying ripe fruits based on color and size",
+                "Climbing a ladder to reach higher branches if necessary",
+                "Cutting fruits from the tree using a knife or pruner",
+                "Collecting the harvested fruits into a basket or bag",
+                "[main task] followed by SUBTASK: [subtask] for each step. Use bullet points for clarity. The main idea is to capture the physical labor involved in each step of farming as depicted in the transcript."
             ]
         },
         {
-            "task": "Operate a hay bailer to collect and bundle hay into bales.",
+            "task": "Preparing Land for Planting",
             "subtasks": [
-                "Position the hay bailer near the hay stacks.",
-                "Load the hay into the bailer hopper one bale at a time.",
-                "Press the gooseneck lever at the right moment to engage the wire binder.",
-                "Assist in guiding the bale properly into the wrapping mechanism.",
-                "Collect the baled hay from the bailer and stack or transport it as needed."
+                "** Walking between rows of plants to ensure even treatment.",
+                "** Moving a tiller or hoe through the soil to aerate and loosen it.",
+                "** Breaking up clumps or removing residual vegetation from the soil.",
+                "** Leveling the soil surface to create a smooth seedbed."
             ]
         },
         {
-            "task": "Conduct a soil test to check nutrient levels.",
+            "task": "Watering Crops",
             "subtasks": [
-                "Collect soil samples from various parts of the fields.",
-                "Mix the collected soil samples thoroughly.",
-                "Send the soil sample to a lab for analysis.",
-                "Wait for the lab results to determine necessary fertilizer applications."
+                "** Walking to a nearby water source to retrieve water.",
+                "** Connecting a hose or irrigation system to the water source.",
+                "** Transporting the watering equipment through rows of crops.",
+                "** Ensuring water is evenly distributed to each plant or cluster."
             ]
         },
         {
-            "task": "Operate a seeder to plant seeds into the soil.",
+            "task": "Harvesting Ripe Fruits",
             "subtasks": [
-                "Attach the seeder to the tractor and set it to plant the appropriate depth and spacing.",
-                "Start the seeder and drive the tractor slowly to plant the seeds.",
-                "Check the spacing and coverage of the planted seeds to ensure even distribution."
+                "** Identifying ripe fruits based on their color and size.",
+                "** Climbing a ladder to access higher branches if necessary.",
+                "** Cutting fruits from the tree using a knife or pruning shears.",
+                "** Collecting the harvested fruits into a basket or similar container."
             ]
-        },
-        {
-            "task": "Operate a harvesting machine to cut and collect crops.",
-            "subtasks": [
-                "Assemble the harvesting machine and attach it to the tractor.",
-                "Drive the machine through the ripened crops, cutting them at the desired height.",
-                "Guide the machine to deposit the harvested crops into the collection bins."
-            ]
-        },
-        {
-            "task": "Drive a grain combine through a wheat field.",
-            "subtasks": [
-                "Secure the grain combine to the front of the tractor.",
-                "Adjust the combine's cutting height to match the wheat's maturity.",
-                "Drive the combine slowly through the field, allowing the combine to thresh the wheat.",
-                "Monitor the combine's performance and empty the grain tank periodically."
-            ]
-        },
-        {
-            "task": "Operate a potato digger to unearth potatoes from the ground.",
-            "subtasks": [
-                "Position the potato digger in front of the tractor.",
-                "Lower the digger into the ground to the appropriate depth.",
-                "Drive the tractor slowly over the field, activating the digger's tines to loosen the soil.",
-                "Allow the potatoes to roll onto the surface for harvest."
-            ]
-        },
-        {
-            "task": "Drive a forage harvester to collect and process hay or silage.",
-            "subtasks": [
-                "Attach the forage harvester to the tractor.",
-                "Adjust the cutter bar height for the desired crop height.",
-                "Start the cutter and conveyor systems of the forage harvester.",
-                "Monitor the collection process to ensure all crops are effectively processed.",
-                "Position the spinner directly behind the combine or harvester.",
-                "Run the spinner to dry the harvested grain until it reaches the appropriate moisture level.",
-                "Collect the dried grain from the spinner and transfer it to storage."
-            ]
-        },
-        {
-            "task": "Move a loader over a field to pick up crop residue or other materials.",
-            "subtasks": [
-                "Attach the loader to the tractor.",
-                "Drive the loader into the field and lower the bucket.",
-                "Grasp the crop residue with the loader bucket and scoop it up.",
-                "Transfer the loaded material to a designated area or processing equipment."
-            ]
-        },
-        {
-            "task": "Apply fertilizer to fields using a fertilizer spreader attached to a tractor.",
-            "subtasks": [
-                "Fill the spreader with the desired fertilizer.",
-                "Adjust the spread pattern and discharge rate of the spreader based on the field needs.",
-                "Drive the tractor slowly through the field while operating the spreader to distribute the fertilizer evenly."
-            ]
-        },
-        {
-            "task": "Water crops using a center pivot irrigation system.",
-            "subtasks": [
-                "Ensure all components of the pivot system are properly connected to the water source.",
-                "Start the pivot motor and begin rotating the irrigation boom.",
-                "Adjust the pivot speed and water application rate as needed for the crops' current stage of growth."
-            ]
-        },
-        {
-            "task": "Operate a cultivator to control weed growth between rows.",
-            "subtasks": [
-                "Attach the cultivator to the tractor and set it to the appropriate depth.",
-                "Drive the tractor slowly through the fields, activating the discs or sweeps on the cultivator.",
-                "Check the cultivation results and make adjustments if necessary for better weed suppression."
-            ]
-        },
-        {
-            "task": "Perform mechanical soil tillage with a disk harrow.",
-            "subtasks": [
-                "Connect the disk harrow to the tractor's drawbar.",
-                "Set the depth of the harrow according to the soil conditions and desired soil structure.",
-                "Drive the harrow through the field to break up clumps and prepare the soil for planting."
-            ]
-        },
-        {
-            "task": "Operate a sprayer to apply pesticides or herbicides.",
-            "subtasks": [
-                "Fill the sprayer tank with the appropriate chemical solution.",
-                "Calibrate the sprayer to ensure the correct application rate.",
-                "Drive the sprayer through the fields, maintaining even coverage while operating the spray boom."
-            ]
-        },
-        {
-            "task": "Attend to the operation of a baler for processing bales, e.g., grain, hay.",
-            "subtasks": [
-                "Position the baler in the desired location, such as next to a stack of hay or a granary.",
-                "Connect the baler to a pickup device or collect manually if necessary.",
-                "Feed the material into the baler and ensure it is compressed properly into the forming bale.",
-                "Bind each bale using wires or straps as needed.",
-                "Remove the bale from the baler and transport it to storage."
-            ]
-        },
-        {
-            "task": "Clean the hay as it is baled to remove dirt and debris.",
-            "subtasks": [
-                "Set up a hay cleaning system, such as a conditioner or blower.",
-                "Operate the cleaning system during the baling process to remove unwanted material from the hay."
-            ]
-        },
-        {
-            "task": "Drive a tractor equipped with a swather to cut crops and condition them for windrow, discs the swath to dry, and then cover it with a chopper guard.",
-            "subtasks": [
-                "Attach the swather to the tractor.",
-                "Set the swather's cutting height to match the crop type.",
-                "Drive the swather through the ripened crops, cutting them into windrows.",
-                "Adjust the swather's conditioning drum to ensure proper drying before harvesting.",
-                "Use the chopper guard to cover the swath if needed to protect from birds or further processing."
-            ]
-        },
-        {
-            "task": "Operate a combine to harvest rice.",
-            "subtasks": [
-                "Adjust the combine's header to the proper engagement for rice crops.",
-                "Set the combine's shaking mechanisms to handle rice straw properly.",
-                "Drive the combine through the rice fields, ensuring even harvest with the combine picking up the rice and separating the grain."
-            ]
-        },
-        {
-            "task": "Operate a disc mower to cut tall grass or other vegetation.",
-            "subtasks": [
-                "Attach the disc mower to the tractor.",
-                "Set the disc angles and spacing according to the grass type and desired cut height.",
-                "Drive the mower through the grass, using the tractor's power to drive the discs.",
-                "Check blade sharpness and perform maintenance as needed."
-            ]
-        },
-        {
-            "task": "Use a flail mower to create small, chopped pieces of vegetation.",
-            "subtasks": [
-                "Mount the flail mower on a suitable vehicle (if different from a tractor, specify).",
-                "Operate the flail mower by moving it through overgrown areas.",
-                "Adjust the height of the mower to the appropriate cutting length."
-            ]
-        },
-        {
-            "task": "Operate a parabolic disc mower to cut crops in a specific fashion.",
-            "subtasks": [
-                "Connect the parabolic disc mower to a piece of farm equipment (e.g., tractor).",
-                "Set the appropriate cutting height based on crop type and desired length.",
-                "Position the mower in the field and begin cutting, adjusting the tractor's speed for optimal slicing."
-            ]
-        },
-        {
-            "task": "Perform rotary hoeing with a rotary cultivator to prepare the soil.",
-            "subtasks": [
-                "Assemble the rotary cultivator and attach it to the tractor.",
-                "Set the depth of the shanks and their angle for proper soil turning.",
-                "Drive the cultivator through the field, breaking up clods and smoothing soil surface."
-            ]
-        },
-        {
-            "task": "Apply beneficial organisms to fields using a soil inoculator.",
-            "subtasks": [
-                "Connect the soil inoculator to the tractor.",
-                "Load the inoculant (e.g., bacteria, fungi) into the inoculator's hopper.",
-                "Operate the inoculator as the tractor travels through the field, dispensing the organisms into the soil."
-            ]
-        },
-        {
-            "task": "Drive a harvester to collect hay or forage from the field.",
-            "subtasks": [
-                "Operate the harvester to cut, condition, and collect the foraged material.",
-                "Attach the conditioner to a baler or separate harvester.",
-                "Prepare the seed drill by loading it with the desired seed type."
-            ]
-        },
-        {
-            "task": "Clear field structures or machinery pathways with a field cultivator.",
-            "subtasks": [
-                "Equip the field cultivator with appropriate sweeps or knives."
-            ]
-        },
-        {
-            "task": "Load a truck or trailer with harvested grain or other crops.",
-            "subtasks": [
-                "Unload the grain or crops from the combine or transport vehicle."
-            ]
-        },
-        {
-            "task": "Use a mulcher to tear up cover crops or residue.",
-            "subtasks": [
-                "Connect the mulcher to the tractor and ensure it\u2019s sharp."
-            ]
-        },
-        {
-            "task": "Harvest corn with a combine.",
-            "subtasks": [
-                "Attach the corn header to the combine."
-            ]
-        },
-        {
-            "task": "Operate a soybean harvester.",
-            "subtasks": [
-                "Connect the soybean harvester to the tractor."
-            ]
-        },
-        {
-            "task": "Operate a sheltered platform on the back of a combine to collect and distribute crops.",
-            "subtasks": [
-                "Step onto the sheltered platform, ensuring safety."
-            ]
-        },
-        {
-            "task": "Operate a silage processor to cut and homogenize forage.",
-            "subtasks": [
-                "Set up the silage harvester and attach the chopping knives."
-            ]
-        },
-        {
-            "task": "Plant trees using a tree planter.",
-            "subtasks": [
-                "Fill the tree planter boxes with saplings or small trees."
-            ]
-        },
-        {
-            "task": "Operate a steeping plant for thermopile application.",
-            "subtasks": [
-                "Position the steeping plant in the field."
-            ]
-        },
-        {
-            "task": "Handle the transport of mulch from its source to application areas using a power rake.",
-            "subtasks": [
-                "Securely attach the power rake to a truck or trailer."
-            ]
-        },
-        {
-            "task": "Operate a grain cart to receive grain from a combine and transfer it to a storage facility.",
-            "subtasks": [
-                "Park the grain cart near the combine's discharge point."
-            ]
-        },
-        {
-            "task": "Control a tether or line to move livestock for gathering or transport.",
-            "subtasks": [
-                "Attach the tether to the livestock's halter or a safe harness."
-            ]
-        },
-        {
-            "task": "Fix a leak on the hydraulic coupler of a piece of ag machinery using a pipe wrench.",
-            "subtasks": [
-                "Locate the leaking hydraulic coupler."
-            ]
-        },
-        {
-            "task": "Align and fix the transmission of an agricultural tractor with a front end loader.",
-            "subtasks": [
-                "Shut down the tractor and raise the front end loader onto safety stands."
-            ]
-        },
-        {
-            "task": "Use a soil probe to take samples for compaction testing.",
-            "subtasks": [
-                "Insert the soil probe into the ground at planned intervals."
-            ]
-        },
-        {
-            "task": "Operate a grain dryer to reduce moisture in crops.",
-            "subtasks": [
-                "Set up the grain dryer according to the type of grain being dried."
-            ]
-        },
-        {
-            "task": "Apply herbicides to crops using a sprayer attached to a tractor.",
-            "subtasks": [
-                "Calibrate the sprayer\u2019s nozzle and boom configuration properly."
-            ]
-        },
-        {
-            "task": "Operate a forklift to stack and organize hay bales in a barn.",
-            "subtasks": [
-                "Approach hay bales and load them onto the forklift."
-            ]
-        },
-        {
-            "task": "Operate a manure spreader to fertilize fields with livestock waste.",
-            "subtasks": [
-                "Load the manure spreader with the appropriate type of waste."
-            ]
-        },
-        {
-            "task": "Attend to the maintenance of a swather by cleaning and lubricating its knives and mechanisms.",
-            "subtasks": [
-                "Park the swather in a shaded area with easy access."
-            ]
-        },
-        {
-            "task": "Inspect soil for proper density and tilth using a soil buster.",
-            "subtasks": [
-                "Operate the soil buster (i.e., a deep-till implement) in the field.",
-                "Access the pivot's steering mechanism, which is typically controlled by a lever or joystick.",
-                "Monitor the logging machine\u2019s blade or chainsaw for defects or jams.",
-                "Position the pasture roller on the field, ensuring proper alignment.",
-                "Attach the roller to a tractor or small implement.",
-                "Deploy the spreader into the pasture and adjust the spread pattern to cover the entire area.",
-                "Locate the source of the leak on the tank.",
-                "Dry the steam tractor for a period to prepare it for operation."
-            ]
-        },
-        {
-            "task": "There seems to be a typo in the transcript where \"MUANTASK:\" is mentioned as \"MAINTASK:\" in several instances. This might indicate a mistake in capitalization or intended abbreviation. Some listed tasks use \"MAINTASK:\" while others start with \"MUANTASK:\" (possibly a typo). I maintained the original capitalization as per the transcript but noted that \"MUANTASK\" likely refers to \"maintainence task\" based on the context. However, since there may be some inconsistency, I made slight adjustments in some instances where maybe the \"U\" was mistakenly used, resulting in lowercase 'maint' at the start. However, given the various errors in capitalization in the original transcript, I decided to stick to the original capitalization to reflect the way the transcript was provided.",
-            "subtasks": []
         }
     ]
 }

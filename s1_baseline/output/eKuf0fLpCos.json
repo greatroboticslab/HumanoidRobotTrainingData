@@ -5,383 +5,47 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Ration Formulation for Backgrounding Cattle",
+            "task": "Identifying feed options and ration formulation for backgrounding cattle.",
             "subtasks": [
-                "Test for nitrate accumulation in forages",
-                "Conduct feed testing for variability and safety",
-                "Analyze feed costs and nutritional value of different feed sources",
-                "Determine average daily gain and adjust ration components accordingly",
-                "Consider using co-products like distillers grains and wheat middlings",
-                "Balance calcium and phosphorus in the ration",
-                "Use supplements like alfalfa hay and limestone when necessary",
-                "Evaluate the impact of energy and protein sources on feed efficiency",
-                "Implement feed management practices for optimal growth",
-                "Monitor water quality and availability"
+                "Testing forage and feed samples for nitrates and other contaminants.",
+                "Considering feed costs and availability, including locally produced co-products like distillers grains and wheat middlings.",
+                "Evaluating feed energy and protein content for different forages and grains (e.g., corn, alfalfa hay, grass hay, wheat straw).",
+                "Calculating feed requirements and ration balancing for desired average daily gains (e.g., 2-3 pounds per day) using various feed combinations.",
+                "Adjusting rations to manage macronutrient proportions (protein, energy) and mineral levels (e.g., calcium, phosphorus) based on feed quality.",
+                "Factoring in the impact of ionophores, implants, and feed additives (e.g., rements, bovitek) on feed efficiency and growth.",
+                "Managing feed moisture content (e.g., corn silage) and adjusting feed amounts accordingly.",
+                "Ensuring proper water quality and availability for cattle.",
+                "Assessing the cost-effectiveness of different rations considering energy and protein sources, management practices, and market goals."
             ]
         },
         {
-            "task": "Managing Nitrate Levels in Feeds",
+            "task": "Evaluating the impact of drought on cattle feed and management.",
             "subtasks": [
-                "Test forages for nitrate accumulation",
-                "Dilute high-nitrate feeds with low-nitrate feeds",
-                "Restrict feeding high-nitrate forages to pregnant cows"
+                "Monitoring nitrate accumulation in harvested forages and implementing dilution strategies.",
+                "Adjusting feeding strategies for drought-affected crops, such as corn silage with higher moisture content.",
+                "Considering alternative hay sources (e.g., grass hay, oat hay) and the role of high-fiber feeds (wheat straw, corn stalks) in backgrounding rations.",
+                "Evaluating the nutritional value of local by-products (e.g., beet pulp, corn gluten feed) and their availability during feed shortages.",
+                "Assessing the economic and logistical aspects of transporting feed during regional shortages or national demand spikes."
             ]
         },
         {
-            "task": "Water Management for Cattle",
+            "task": "Understanding the role of management practices in optimizing feed efficiency and calf performance.",
             "subtasks": [
-                "Ensure adequate water quality and availability",
-                "Monitor and maintain watering systems during cold weather"
+                "Implementing feed management practices such as regular feeding adjustments, maintaining clean feeding areas, and providing adequate water.",
+                "Managing cattle environment to minimize stress (e.g., bedding, shelter) and improve overall health.",
+                "Considering coccidiosis prevention and control through feed additives or management practices.",
+                "Evaluating the use of performance-enhancing tools like ionophores or implants to improve feed efficiency and gains.",
+                "Monitoring and adjusting rations based on cattle age, body condition, and market goals (e.g., finished cattle vs. backgrounders)."
             ]
         },
         {
-            "task": "Ration Adjustment for High Energy and Protein Needs",
+            "task": "Recognizing the importance of balanced nutrition and cost considerations in backgrounding programs.",
             "subtasks": [
-                "Increase corn silage or grain inclusion in rations when energy demand is high",
-                "Use high protein feeds like canola meal and soybean meal as needed",
-                "Adjust calcium and phosphorus supplementation based on feed analysis"
-            ]
-        },
-        {
-            "task": "Feed Cost Reduction Strategies",
-            "subtasks": [
-                "Utilize locally sourced feeds and co-products",
-                "Consider alternative feed sources based on cost and availability",
-                "Optimize ration formulation for balanced cost and gain",
-                "Explore transportation programs for reduced feed costs"
-            ]
-        },
-        {
-            "task": "Ionophore and Implant Use for Improved Feed Efficiency",
-            "subtasks": [
-                "Administer ionophores or implants to enhance feed efficiency",
-                "Monitor effectiveness and consult with extension specialists"
-            ]
-        },
-        {
-            "task": "Ration Formulation for Fall Backgrounding Cattle",
-            "subtasks": [
-                "Consider the effects of drought on feed quality and quantity",
-                "Use grass and alfalfa hay in combination with corn grain or silage",
-                "Balance fiber and protein levels in the diet",
-                "Adjust rations based on stage of production and market goals",
-                "Account for varying feed prices year-round"
-            ]
-        },
-        {
-            "task": "Ration Formulation for Backgrounding Cattle",
-            "subtasks": []
-        },
-        {
-            "task": "Test for nitrate accumulation in forages",
-            "subtasks": [
-                "Use a nitrate test kit to analyze forage samples",
-                "Collect representative samples from various areas of fields or feeds"
-            ]
-        },
-        {
-            "task": "Conduct feed testing",
-            "subtasks": [
-                "Collect feed samples from different sources",
-                "Send collected samples to a laboratory"
-            ]
-        },
-        {
-            "task": "Formulate feed rations",
-            "subtasks": [
-                "Calculate the required pounds of grain, hay, and supplements per day",
-                "Adjust formulas for desired average daily gain (2-3 pounds)"
-            ]
-        },
-        {
-            "task": "Mix and distribute feed components",
-            "subtasks": [
-                "Weigh corn grain, distillers grains, and alfalfa hay",
-                "Mix components using a feed mixer or manual scoops",
-                "Distribute feed into feeders, ensuring even coverage"
-            ]
-        },
-        {
-            "task": "Check pens for animal health",
-            "subtasks": [
-                "Inspect cattle daily for signs of illness or distress",
-                "Monitor feed intake and weight gain trends"
-            ]
-        },
-        {
-            "task": "Inspect water sources",
-            "subtasks": [
-                "Clean and refill water tanks or troughs as needed",
-                "Test water quality periodically for contaminants"
-            ]
-        },
-        {
-            "task": "on each line followed by subtasks. Let's see:",
-            "subtasks": []
-        },
-        {
-            "task": "Test for nitrate accumulation in forages during drought (subtask: collect samples)",
-            "subtasks": []
-        },
-        {
-            "task": "Conduct feed testing (subtask: collect and send samples for analysis)",
-            "subtasks": []
-        },
-        {
-            "task": "Formulate feed rations (subtask: calculate required components, subtask: adjust for 3-lb gain)",
-            "subtasks": []
-        },
-        {
-            "task": "Mix and distribute feed (measure components, distribute into feeders)",
-            "subtasks": []
-        },
-        {
-            "task": "Check pens daily for health (subtask: observe each animal, subtask: note any issues)",
-            "subtasks": []
-        },
-        {
-            "task": "Inspect water sources (check troughs, ensure clean water)",
-            "subtasks": []
-        },
-        {
-            "task": "Conduct feed testing\" perhaps just \"Test feeds for nutritional components\" instead?",
-            "subtasks": []
-        },
-        {
-            "task": "Test for nitrate accumulation in forages",
-            "subtasks": [
-                "Physically check fields for nitrate-stained forages",
-                "Collect samples for nitrate analysis using a sampling tool"
-            ]
-        },
-        {
-            "task": "Conduct feed testing",
-            "subtasks": [
-                "Take feed samples from different sources and send them to a lab for analysis (including forages, grain, co-products)"
-            ]
-        },
-        {
-            "task": "Formulate rations for backgrounding cattle",
-            "subtasks": [
-                "Calculate the correct proportions of corn grain, hay, and co-products to achieve a desired average daily gain (e.g., 2.8 pounds)",
-                "Adjust calcium and phosphorus levels as needed (adding limestone, etc.)"
-            ]
-        },
-        {
-            "task": "Mix feed components and distribute to cattle",
-            "subtasks": [
-                "Weight out the corn grain, hay, and supplements",
-                "Combine components in the correct ratios",
-                "Distribute the mixed feed into feeders or troughs"
-            ]
-        },
-        {
-            "task": "Inspect water sources and troughs",
-            "subtasks": [
-                "Ensure water troughs are clean and free of ice",
-                "Verify water quality and safety (checking for contaminants)"
-            ]
-        },
-        {
-            "task": "Check for feed contamination and take preventive measures (e.g., screening out unnatural materials)",
-            "subtasks": []
-        },
-        {
-            "task": "Monitor pens for signs of health issues",
-            "subtasks": [
-                "Walk through the cattle pens daily",
-                "Look for any sick animals, decreased feed intake, or other anomalies",
-                "Address any health issues immediately (e.g., treatment with medication or isolation)"
-            ]
-        },
-        {
-            "task": "Test for nitrate accumulation in forages",
-            "subtasks": [
-                "Collect forage samples using a trowel or shovel",
-                "Test samples using a nitrate test kit"
-            ]
-        },
-        {
-            "task": "Conduct feed testing",
-            "subtasks": [
-                "Take feed samples from various sources (forages, grains, co-products)",
-                "Submit samples to a lab for analysis"
-            ]
-        },
-        {
-            "task": "Formulate feed rations",
-            "subtasks": [
-                "Calculate pounds of corn grain, alfalfa hay, distillers grains, etc., needed for 2.8 pounds/day gain",
-                "Balance calcium and phosphorus with limestone or other additives"
-            ]
-        },
-        {
-            "task": "Mix feed components and distribute",
-            "subtasks": [
-                "Weigh and measure all feed components before mixing",
-                "Properly mix ingredients to ensure a uniform ration",
-                "Distribute the mixed feed to cattle efficiently"
-            ]
-        },
-        {
-            "task": "Check water and troughs",
-            "subtasks": [
-                "Ensure water sources are clean and unfrozen",
-                "Test water quality if necessary (checking pH, etc.)"
-            ]
-        },
-        {
-            "task": "Monitor cattle for health",
-            "subtasks": [
-                "Walk through pens daily",
-                "Screen cattle for any signs of illness",
-                "Log any health issues and address them promptly"
-            ]
-        },
-        {
-            "task": "Assess feed quality and adjust as necessary",
-            "subtasks": [
-                "Regularly check for mold or contaminants in feeds",
-                "Adjust rations based on new feed analysis results"
-            ]
-        },
-        {
-            "task": "Use appropriate feed additives",
-            "subtasks": [
-                "Administer ionophores as feed additives to improve feed efficiency",
-                "Apply coccidiosis treatments if needed"
-            ]
-        },
-        {
-            "task": "followed by multiple subtasks) and without a strict word limit, the initial list:",
-            "subtasks": []
-        },
-        {
-            "task": "Test for nitrates in forages \\",
-            "subtasks": [
-                "Collect samples using a spade or trowel \\",
-                "Use a nitrate test kit to measure concentration \\",
-                "Evaluate results to determine safety for feeding \\"
-            ]
-        },
-        {
-            "task": "Conduct feed testing",
-            "subtasks": [
-                "Collect feed samples from various sources (hay, corn, co-products)",
-                "Send samples to a lab for analysis (provides exact nutrient analyses)",
-                "Receive and interpret results for protein, fiber, energy, etc."
-            ]
-        },
-        {
-            "task": "Formulate feed rations for backgrounding cattle",
-            "subtasks": [
-                "Determine the percent of corn grain, hay, wheat middlings, and distillers grains needed for 3 pounds gain",
-                "Include necessary additives (e.g., limestone, salt) according to feed analysis",
-                "Adjust crutched protein levels as per desired gain and cost targets"
-            ]
-        },
-        {
-            "task": "Mix and deliver feed",
-            "subtasks": [
-                "Weigh out corn grain, silage, wheat midd, distillers",
-                "Combine all components in correct proportions",
-                "Distribute the mix evenly into feed bunks or troughs"
-            ]
-        },
-        {
-            "task": "Monitor cattle for health issues",
-            "subtasks": [
-                "Perform daily checks to ensure all animals are eating and appear healthy",
-                "Check for any signs of illness (e.g., diarrhea, lethargy, reduced appetite)",
-                "Isolate sick animals and consult with a veterinarian if necessary"
-            ]
-        },
-        {
-            "task": "Inspect water sources",
-            "subtasks": [
-                "Ensure troughs are clean and water is fresh",
-                "Break any ice in troughs to make water accessible"
-            ]
-        },
-        {
-            "task": "Plan for additional feed purchases",
-            "subtasks": [
-                "Anticipate future feed needs based on grass harvest and cattle growth",
-                "Contract for feed delivery to secure supply"
-            ]
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "**",
-            "subtasks": []
-        },
-        {
-            "task": "Test for nitrate accumulation in forages",
-            "subtasks": [
-                "Physically check fields for drought-stressed corn and collect samples",
-                "Use a nitrate test kit to determine if the forage is safe for cattle"
-            ]
-        },
-        {
-            "task": "Conduct feed testing",
-            "subtasks": [
-                "Collect feed samples from different sources (corn, soy, hay)",
-                "Submit sample(s) to a laboratory for analysis of protein, fiber, mineral content"
-            ]
-        },
-        {
-            "task": "Formulate rations for cattle",
-            "subtasks": [
-                "Calculate the appropriate pounds of corn grain, hay, distillers grains, and supplements per day to achieve 2.8 pounds per day gain",
-                "Include necessary additives (like limestone for calcium) according to feed analysis"
-            ]
-        },
-        {
-            "task": "Mix and distribute feed",
-            "subtasks": [
-                "Weigh out the dry matter of each component (corn grain, hay, supplements)",
-                "Combine the components using a feed mixer or manual stirring",
-                "Distribute the mixture evenly among cattle feeders"
-            ]
-        },
-        {
-            "task": "Inspect and maintain water sources",
-            "subtasks": [
-                "Clean water troughs regularly to prevent contamination",
-                "Check that water is flowing freely and there's no ice forming in winter"
-            ]
-        },
-        {
-            "task": "Monitor cattle health",
-            "subtasks": [
-                "Inspect all cattle daily for signs of illness or decreased performance",
-                "Address any health issues promptly by providing treatment or isolation"
-            ]
-        },
-        {
-            "task": "Check for feed contamination and adjust rations accordingly",
-            "subtasks": [
-                "Inspect delivered feed for any moldy or lodging parts",
-                "Exclude contaminated feed from the ration to prevent digestive issues or reduced gain"
-            ]
-        },
-        {
-            "task": "This list is now broken down into main tasks and their associated sub-tasks, directly linked to the actions required based on the transcript. Each MAINTASK is tied to a key activity mentioned, such as testing for nitrates, formulating a balanced ration, distributing feed, etc., with practical steps indicated under each.",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "Administer feed additives for coccidiosis control",
-            "subtasks": [
-                "Regularly check cattle for stress or potential coccidiosis outbreaks",
-                "Mix emamectin benzoate or other approved medication into the feed as per recommended dosages",
-                "Overall, these MAINTASk and SUBTASKs cover the major physical activities involved in implementing the feed management advice presented in the video. They present concrete steps tied to the specific feed ratios, nitrate testing, ration adjustment based on feed costs, and essential husbandry practices like daily pen checks and water management."
+                "Analyzing the balance between energy and protein costs in ration formulation.",
+                "Utilizing on-farm protein sources (e.g., soybeans, sunflowers) alongside commercial feeds.",
+                "Considering the long-term impact of rate of gain on cattle health and market performance.",
+                "Assessing the value of higher cost, high-performing rations versus lower cost, lower performance options based on market demand and margins.",
+                "Aligning ration goals with marketing strategies and understanding the relationship between feed cost, gain, and market price."
             ]
         }
     ]

@@ -7,24 +7,206 @@
         {
             "task": "Planting sweetcorn",
             "subtasks": [
-                "Inspect seed packet expiration date",
-                "Count seeds in packet",
+                "Verify seed packet expiration date",
+                "Check number of seeds in packet",
+                "Contact seed company if seeds are undercounted",
                 "Prepare planting containers with soil",
-                "Place stones in pots",
-                "Plant seeds at proper depth",
-                "Ensure seed germination temperature",
-                "Plan planting location for optimal sunshine",
-                "Consider cross pollination when planting",
-                "Note seeds' germination timeline",
-                "Document seedling progress via video updates"
+                "Add stones or similar to pots for drainage",
+                "Sow seeds at proper depth",
+                "Ensure warm growing conditions (above 60 degrees)",
+                "Plant corn in blocks for cross-pollination",
+                "Consider future spacing needs (15 inches apart)",
+                "Plan for potential surplus and alternative uses (e.g., feeding chickens)"
             ]
         },
         {
-            "task": "Address underfilled seed packet",
+            "task": "Monitor germination progress",
             "subtasks": [
-                "Identify seed count discrepancy",
-                "Consider contacting seed supplier for resolution"
+                "Check for signs of germination after 10 days",
+                "Plan for future correspondence with seed vendor regarding seed count issues"
             ]
+        },
+        {
+            "task": "Planting sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Planting sweetcorn",
+            "subtasks": [
+                "Open seed packet and check for expiration date",
+                "Verify number of seeds and contact supplier if necessary (if undercounted)",
+                "Prepare planting containers with soil (if needed) and place stones at the bottom for drainage"
+            ]
+        },
+        {
+            "task": "Plant sweetcorn seeds",
+            "subtasks": [
+                "Verify seed packet's expiration date and quantity",
+                "If necessary, contact the seed supplier to report undercounting",
+                "Add drainage stones to the planting containers",
+                "Plant seeds at the recommended depth (1/2 inch)"
+            ]
+        },
+        {
+            "task": "Plant sweetcorn seeds",
+            "subtasks": []
+        },
+        {
+            "task": "Planting sweetcorn seeds",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn seeds",
+            "subtasks": []
+        },
+        {
+            "task": "\"Monitor sweetcorn growth\" with subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "If we make MAINTASK \"Planting sweetcorn\" as main, then all subsequent steps are subtasks, but perhaps splitting into several so it's less overwhelming.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Monitor sweetcorn growth",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "\"Plant sweetcorn\" with these subtasks. Alternatively, splitting into more:",
+            "subtasks": []
+        },
+        {
+            "task": "Planting sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare and plant sweetcorn seedlings",
+            "subtasks": []
+        },
+        {
+            "task": "Planting sweetcorn",
+            "subtasks": [
+                "Verify seed packet expiration date",
+                "Check number of seeds in packet",
+                "Contact seed company if undercount",
+                "Prepare planting containers with suitable soil",
+                "Add drainage stones to containers",
+                "Sow seeds at the correct depth",
+                "Ensure proper warmth and moisture",
+                "Plan for cross-pollination and future uses (e.g., feeding chickens)"
+            ]
+        },
+        {
+            "task": "Monitor seedling growth",
+            "subtasks": [
+                "Check for signs of germination after 10 days"
+            ]
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn seeds",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Planting sweetcorn with several subtasks covering each step in the planting process.",
+            "subtasks": []
+        },
+        {
+            "task": "1. Planting sweetcorn (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn into containers",
+            "subtasks": []
+        },
+        {
+            "task": "Complete planting of sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": [
+                "Verify seed packet's date and quantity"
+            ]
+        },
+        {
+            "task": "So the main actions. However, while John is planting in containers, the subsequent task could be transplanting them to the garden, but he's not doing that. Wait, in this case, task completion ends with the seeds in the containers, assuming he doesn't plan to move them later. So the MAINTASK would be \"Planting sweetcorn into containers.\"",
+            "subtasks": []
+        },
+        {
+            "task": "Install sweetcorn in containers",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn in containers",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Complete the planting of sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Planting sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Sow sweetcorn seeds into pots",
+            "subtasks": []
+        },
+        {
+            "task": "Plant sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Monitor sweetcorn growth",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Planting sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Monitor sweetcorn growth",
+            "subtasks": []
+        },
+        {
+            "task": "Planting sweetcorn",
+            "subtasks": []
+        },
+        {
+            "task": "Monitor sweetcorn growth",
+            "subtasks": []
         }
     ]
 }

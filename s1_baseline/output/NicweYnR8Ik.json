@@ -5,23 +5,38 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Evaluating Planter Settings and Seed Planting Conditions During Early Planting Season",
+            "task": "Monitoring planter depth during planting season.",
             "subtasks": [
-                "Adjusting planter depth based on field conditions",
-                "Using measuring tools to check planting depth accurately",
-                "Verifying seed spacing and row placement for optimal yield",
-                "Monitoring soil temperature for\u9002\u5b9c\u7684minimum temperature and trends",
-                "Considering short-term weather forecasts for planting delays when necessary"
+                "Checking planting depth in different fields.",
+                "Using Pioneer measuring tools to verify planting depth.",
+                "Assessing row spacing and seed population.",
+                "Ensuring soil temperature meets minimum requirements.",
+                "Adjusting planting schedule based on weather forecast.",
+                "Verifying planter settings periodically during planting season."
             ]
         },
         {
-            "task": "Ensuring Successful Corn Planting Through Proper Setup and Monitoring",
+            "task": "Monitoring planter depth during planting season to ensure proper seed placement.",
             "subtasks": [
-                "Regularly checking planter depth throughout the planting season",
-                "Accounting for varying field conditions when setting up planters",
-                "Maintaining accurate seed spacing on specified row widths (e.g., 30 inches)",
-                "Adapting planting plans based on daily soil temperature readings and forecasts",
-                "Being prepared to adjust planters or delay planting to avoid unfavorable weather conditions"
+                "Check planter depth in each field before starting to plant, adjusting as field conditions vary.",
+                "Use Pioneer measuring tools to verify the depth of planted seeds.",
+                "Confirm the number of seeds per row and the row spacing to ensure correct population.",
+                "Monitor soil temperature around planting time, aiming for a minimum of 50\u00b0F with a warming trend.",
+                "Adjust planting schedule if weather forecasts predict cold spells or rain to avoid delaying germination."
+            ]
+        },
+        {
+            "task": "MAINTASK: Monitoring planter depth during planting season.",
+            "subtasks": []
+        },
+        {
+            "task": "Monitoring planter depth during planting season.",
+            "subtasks": [
+                "Check planter depth in each field before starting to plant, adjusting as field conditions vary.",
+                "Use Pioneer measuring tools to verify the depth of planted seeds.",
+                "Confirm the number of seeds per row and the row spacing to ensure correct population.",
+                "Monitor soil temperature around planting time, aiming for a minimum of 50\u00b0F with a warming trend.",
+                "Adjust planting schedule if weather forecasts predict cold spells or rain."
             ]
         }
     ]

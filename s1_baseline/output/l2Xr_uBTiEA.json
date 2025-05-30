@@ -5,25 +5,29 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Pruning a branch on a plant or tree.",
+            "task": "Pruning a tree branch to promote growth of a specific bud",
             "subtasks": [
-                "Observing the angle of the branch (45 degrees).",
-                "Identifying the location of auxins and hormones around the branch tip.",
-                "Locating the bud below the tip.",
-                "Determining the direction the bud will grow in based on the cutting location.",
-                "Cutting the branch at the correct node to direct the bud's growth outward and up.",
-                "Avoiding cutting the branch at an angle that would make the bud grow vertically instead of outward."
+                "Observing the angle of the branch (45 degrees)",
+                "Identifying the location of auxins and hormones around the branch's tip",
+                "Locating the target bud beneath the tip",
+                "Determining the effect of incorrect cutting positions (e.g., vertical growth)",
+                "Making a cutting decision based on desired bud orientation (outward vs upward)"
             ]
         },
         {
-            "task": "MAINTASK: Pruning a branch on a plant or tree.",
+            "task": "Understanding bud angles and their impact on growth direction",
             "subtasks": [
-                "Observing the angle of the branch (45 degrees).",
-                "Identifying the location of auxins and hormones around the branch tip.",
-                "Locating the bud below the tip.",
-                "Determining the direction the bud will grow in based on the cutting location.",
-                "Cutting the branch at the correct node to direct the bud's growth outward and up.",
-                "Avoiding cutting the branch at an angle that would make the bud grow vertically instead of outward."
+                "Recognizing the upward-growing bud's current position",
+                "Assessing the consequences of cutting the branch at different locations (top versus bottom)",
+                "Predicting the growth pattern of the bud when cut at the bottom outward facing node"
+            ]
+        },
+        {
+            "task": "Bisecting a tree angle to manage bud development",
+            "subtasks": [
+                "Identifying the corner tip where auxin is concentrated",
+                "Halving the angle to determine the optimal cutting point for bud stimulation",
+                "Ensuring the cut maintains or redirects the desired growth trajectory"
             ]
         }
     ]

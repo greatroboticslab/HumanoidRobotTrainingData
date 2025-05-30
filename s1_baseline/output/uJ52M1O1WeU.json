@@ -5,107 +5,365 @@
     "category": "Film & Animation",
     "tasks": [
         {
-            "task": "Riding a quad bike across rocky terrain",
+            "task": "Feeding cows",
             "subtasks": [
-                "Sitting on the quad bike",
-                "Steering the quad bike",
-                "Maintaining balance on the quad bike",
-                "Navigating over rocky surfaces",
-                "Adjusting speed to avoid obstacles"
+                "Approach the feeding area",
+                "Open the gate to the feeding area",
+                "Place the feed into the designated area"
             ]
         },
         {
-            "task": "Getting on and off the quad bike",
+            "task": "Cleaning the barn",
             "subtasks": [
-                "Leaning to get on the quad bike",
-                "Jumping down from the quad bike"
+                "Enter the barn",
+                "Remove manure from stalls",
+                "Sweep the floors",
+                "Wash the stalls with the high-pressure spray"
             ]
         },
         {
-            "task": "Checking crops with a drone",
+            "task": "Treating a sick cow",
             "subtasks": [
-                "Operating the drone's controls",
-                "Flying the drone over crops",
-                "Inspecting crop health from the drone"
+                "Locate the sick cow in the barn",
+                "Approach the cow calmly",
+                "Check the cow's symptoms",
+                "Administer the prescribed medication",
+                "Ensure the cow is comfortable and monitored"
             ]
         },
         {
-            "task": "Walking through sugar cane fields",
+            "task": "Milking the cows",
             "subtasks": [
-                "Moving through rows of sugar cane",
-                "Bending over to check sugar cane",
-                "Evaluating the growth and health of sugar cane"
+                "Position the milking machine on the cow",
+                "Attach the suction cups to the teats",
+                "Start the milking process",
+                "Collect the milk into the container",
+                "Detach the machine and clean the teats"
             ]
         },
         {
-            "task": "Checking machinery for damages",
+            "task": "Checking the calving pen",
             "subtasks": [
-                "Inspecting the machinery's exterior",
-                "Looking for visible signs of wear or damage",
-                "Checking fluid levels and gauges",
-                "and then subtasks with SUBTASK:. Also, the answer should be in the specified format with MAINTASK: and then each subtask on a new line. Got it."
+                "Go to the calving pen area",
+                "Observe the cows for signs of calving",
+                "Assist in the delivery if necessary",
+                "Clean the area after the delivery"
             ]
         },
         {
-            "task": "Riding a quad bike across rocky terrain",
+            "task": "Transporting goods to the truck",
             "subtasks": [
-                "Sitting on the quad bike",
-                "Steering the quad bike",
-                "Maintaining balance on the quad bike",
-                "Navigating over rocky surfaces",
-                "Adjusting speed to avoid obstacles"
+                "Drive the tractor to the storage area",
+                "Load the hay bales onto the truck",
+                "Secure the load for transport",
+                "Return the tractor to the storage shed"
             ]
         },
         {
-            "task": "Getting on and off the quad bike",
+            "task": "Operating the irrigation system",
             "subtasks": [
-                "Leaning to get on the quad bike",
-                "Jumping down from the quad bike"
+                "Access the irrigation control panel",
+                "Set the schedule for watering different fields",
+                "Manually turn on the sprinklers for immediate needs"
             ]
         },
         {
-            "task": "Checking crops with a drone",
+            "task": "Fixing a broken fence",
             "subtasks": [
-                "Operating the drone's controls",
-                "Flying the drone over crops",
-                "Inspecting crop health from the drone"
+                "Walk around the pasture to locate the damage",
+                "Gather tools needed for repair",
+                "Remove the damaged posts or sections",
+                "Replace or reinforce the fence panels",
+                "Check the tension and straightness of the new sections"
             ]
         },
         {
-            "task": "Walking through sugar cane fields",
+            "task": "Potting plants from the greenhouse",
             "subtasks": [
-                "Moving through rows of sugar cane",
-                "Bending over to check sugar cane",
-                "Evaluating the growth and health of sugar cane"
+                "Retrieve containers from the greenhouse storage",
+                "Transfer saplings from the nursery beds to the containers",
+                "Fill the pots with substrate",
+                "Carefully plant the saplings in the pots",
+                "Water the newly potted plants"
             ]
         },
         {
-            "task": "Checking machinery for damages",
+            "task": "Applying fertilizer to the fields",
             "subtasks": [
-                "Inspecting the machinery's exterior",
-                "Looking for visible signs of wear or damage",
-                "Checking fluid levels and gauges"
+                "Choose the appropriate fertilizer based on the crop needs",
+                "Use the spreader to distribute the fertilizer evenly",
+                "Monitor the application rate to prevent over-fertilization"
             ]
         },
         {
-            "task": "Riding a quad bike across rocky terrain**",
-            "subtasks": []
+            "task": "Collecting eggs from the coop",
+            "subtasks": [
+                "Open the chicken coop door",
+                "Gently pick up the eggs from the nesting boxes",
+                "Place the eggs into a basket or container",
+                "Close the coop door securely"
+            ]
         },
         {
-            "task": "Getting on and off the quad bike**",
-            "subtasks": []
+            "task": "Winterizing the tractors and equipment",
+            "subtasks": [
+                "Drain the coolant and lubricating oil from the engines",
+                "Apply antifreeze to the reservoirs",
+                "Cover exposed metal parts with protective grease",
+                "Store the equipment in a sheltered area"
+            ]
         },
         {
-            "task": "Checking crops with a drone**",
-            "subtasks": []
+            "task": "Planting crops in the greenhouse",
+            "subtasks": [
+                "Measure and mark the planting lines",
+                "Prepare the soil with the trowel or cultivator",
+                "Plant the seeds at the correct depth",
+                "Water the newly planted seeds"
+            ]
         },
         {
-            "task": "Walking through sugar cane fields**",
-            "subtasks": []
+            "task": "Harvesting ripe fruits from the orchard",
+            "subtasks": [
+                "Select ripe fruits from different trees",
+                "Use a ladder or pick-up pole to reach high branches",
+                "Carefully remove the fruits without damaging the tree",
+                "Place the harvested fruits in baskets"
+            ]
         },
         {
-            "task": "Checking machinery for damages**",
-            "subtasks": []
+            "task": "Repairing a leaky pipe",
+            "subtasks": [
+                "Locate the source of the leak in the pipe",
+                "Gather the pipe repair kit including clamps, adhesive, or patch",
+                "Turn off the water supply to the affected area",
+                "Clean the area around the leak",
+                "Apply the repair material or clamp as per instructions",
+                "Test the repaired pipe for leaks"
+            ]
+        },
+        {
+            "task": "Walking dogs in the farm",
+            "subtasks": [
+                "Gather the dog collars and leashes from the porch",
+                "Walk the dogs around the farm property",
+                "Ensure the dogs are on the paths and do not stray",
+                "Provide any necessary breaks or water"
+            ]
+        },
+        {
+            "task": "Applying herbicides to garden beds",
+            "subtasks": [
+                "Identify the weeds in the garden beds",
+                "Mark the perimeter of the affected areas",
+                "Pour the herbicide into the sprayer container",
+                "Attach the sprayer to the garden hose or use a handheld sprayer",
+                "Spray the herbicide uniformly over the weeds",
+                "Dispose of leftover spray and clean the equipment"
+            ]
+        },
+        {
+            "task": "Cleaning the milking parlor",
+            "subtasks": [
+                "Remove manure and residue from the parlor floor",
+                "Wash the milking stalls with soap and water",
+                "BaseServiceDisinfect the area with a suitable disinfectant",
+                "Dry the stalls and check for any remaining residue"
+            ]
+        },
+        {
+            "task": "Repairing a leaky roof",
+            "subtasks": [
+                "Identify and assess the extent of the roof damage",
+                "Gather the necessary materials such as tar paper, screws, and roofing nails",
+                "Securely fasten a tarp over the leak area to prevent further water ingress",
+                "Start replacing or repairing the damaged roof shingles or tiles",
+                "Seal all edges and connections with roofing caulk or cement",
+                "Inspect the repaired area for proper sealing and water tightness"
+            ]
+        },
+        {
+            "task": "Repairing a broken leg on a calf",
+            "subtasks": [
+                "Approach the calf carefully, ensuring not to startle it",
+                "Inspect the leg for any signs of fracture or sprain",
+                "Clean the wound with antiseptic solution",
+                "Apply a splint or bandage to stabilize the leg",
+                "Administer pain relievers if necessary",
+                "Keep the calf isolated until healed to prevent spreading injuries"
+            ]
+        },
+        {
+            "task": "Applying pesticides to the crops",
+            "subtasks": [
+                "Choose the right pesticide based on the pests identified",
+                "Mix the pesticide according to the label instructions",
+                "Apply the pesticide using the sprayer over the crops",
+                "Monitor the application to cover all areas affected by pests",
+                "Follow safety protocols for handling and disposing of pesticides"
+            ]
+        },
+        {
+            "task": "Winterizing the feed storage bins",
+            "subtasks": [
+                "Empty the feed bins to prevent spoilage during freezing",
+                "Clean the bins thoroughly to remove leftover feed",
+                "Store the bins in a dry, frost-free shed or basement",
+                "Cover the openings with waterproof tarps or doors"
+            ]
+        },
+        {
+            "task": "Attracting beneficial insects to the garden",
+            "subtasks": [
+                "Research which insects are beneficial for the specific crops",
+                "Purchase ladybugs, lacewings, or parasitic wasps from a supplier",
+                "Release the beneficial insects into the garden during the appropriate time",
+                "Monitor the garden for the presence and activity of the beneficials"
+            ]
+        },
+        {
+            "task": "Checking the water supply for livestock",
+            "subtasks": [
+                "Inspect the water troughs or tanks for the livestock",
+                "Ensure the water is running properly from the sources",
+                "Check the water lines for any leaks or blockages",
+                "Refill the water containers if necessary"
+            ]
+        },
+        {
+            "task": "Applying lime to adjust soil pH",
+            "subtasks": [
+                "Calculate the amount of lime needed based on soil test results",
+                "Spread the lime evenly over the field using a broadcasting spreader",
+                "Walk in different directions to cover all areas",
+                "Wait for the lime to settle before tilling or planting"
+            ]
+        },
+        {
+            "task": "Fertilizing the pastures",
+            "subtasks": [
+                "Determine the nutrient needs of the pasture grasses",
+                "Mix the customized fertilizer blend including NPK and minerals",
+                "Use a rotary spreader to distribute the fertilizer over the pasture",
+                "Regulate the speed to maintain a uniform spread",
+                "Monitor weather conditions to avoid heavy rain immediately after application"
+            ]
+        },
+        {
+            "task": "Fixing a damaged windmill",
+            "subtasks": [
+                "Identify the part of the windmill that is damaged (e.g., blades, pump mechanism)",
+                "Gather the replacement parts or tools needed for repair",
+                "Disassemble the windmill to access the faulty components",
+                "Replace the damaged blades or repair the pump system",
+                "Reassemble the windmill and check for proper alignment",
+                "Test the windmill operation to ensure it functions correctly"
+            ]
+        },
+        {
+            "task": "Cleaning and oiling farm machinery",
+            "subtasks": [
+                "Disassemble the machinery to access all parts",
+                "Wipe down and inspect each component for wear or damage",
+                "Apply appropriate oil or grease lubricants to moving parts",
+                "Tighten any loose bolts or screws",
+                "Reassemble the machinery and perform test runs"
+            ]
+        },
+        {
+            "task": "Installing a solar panel system",
+            "subtasks": [
+                "Survey the farm for ideal locations for solar panels (south-facing roofs or open areas)",
+                "Calculate the energy needs and determine the number of panels required",
+                "Purchase the solar panels, inverters, wiring, and mounting hardware",
+                "Install the mounting structure according to local building codes",
+                "Attach the solar panels and ensure they are securely fastened",
+                "Connect the panels to the inverters and wiring system",
+                "Test the system for proper energy production"
+            ]
+        },
+        {
+            "task": "Maintaining the bee hives",
+            "subtasks": [
+                "Open the beehive boxes to inspect the colonies",
+                "Check for signs of pests or diseases (e.g., varroa mites, American foulbrood)",
+                "Remove any dead bees or debris from the hive",
+                "Feed the bees with sugar syrup if necessary",
+                "Apply treatments or medications as per the inspection findings",
+                "Tighten any loose frames or replace damaged ones",
+                "Re-close the hives and ensure they are secure"
+            ]
+        },
+        {
+            "task": "Ventilating the chicken coop",
+            "subtasks": [
+                "Open the windows on the north and south sides of the coop",
+                "Adjust the vents to improve cross-ventilation",
+                "Install additional fans if necessary to ensure proper air circulation",
+                "Keep the vents clean to prevent blockages",
+                "Monitor outside temperatures and adjust ventilation opening accordingly"
+            ]
+        },
+        {
+            "task": "Conducting a soil test",
+            "subtasks": [
+                "Collect soil samples from various parts of the field",
+                "Send the samples to a laboratory for nutrient analysis",
+                "Review the test results to determine deficiencies or imbalances",
+                "Create a fertilization plan based on the test results",
+                "Adjust maintenance practices based on soil health"
+            ]
+        },
+        {
+            "task": "Labelling planting materials",
+            "subtasks": [
+                "Prepare seed trays or packets for labeling",
+                "Write the cultivar name, dates, and any relevant field notes",
+                "Apply the labels to the containers or trays",
+                "Organize the labeled materials in a systematic manner"
+            ]
+        },
+        {
+            "task": "Driving the tractor to plow a field",
+            "subtasks": [
+                "Check the fuel and oil levels before starting",
+                "Engage the necessary implements (e.g., plow) attached to the tractor",
+                "Start the tractor and operate it at the desired speed for plowing",
+                "Monitor the plow depth and make adjustments as needed",
+                "Turn around or drive back to complete the field passes",
+                "Store the tractor and attached implements safely in the shed"
+            ]
+        },
+        {
+            "task": "Using a pitchfork to load hay",
+            "subtasks": [
+                "Approach the hay pile or baler",
+                "Gather a small amount of hay with the pitchfork",
+                "Position the load onto the flatbed or wagon",
+                "Repeat the process until the load is full",
+                "Secure the hay with ties or nets if using a wagon"
+            ]
+        },
+        {
+            "task": "Gathering eggs from the poultry yard",
+            "subtasks": [
+                "Open the main door of the poultry yard",
+                "Walk through the yard with a basket",
+                "Pick up eggs from the ground or nests",
+                "Keep an eye out for injured or abandoned chicks",
+                "Securely transport the eggs to the storage area"
+            ]
+        },
+        {
+            "task": "Replacing a broken fence post",
+            "subtasks": [
+                "Identify the broken post and its position",
+                "Remove any existing posts or damaged sections",
+                "Dig a new hole for the replacement post",
+                "Set the new post into the hole and straighten it",
+                "Compact the soil around the base to secure the post",
+                "Add horizontal tension wires or braces if needed"
+            ]
         }
     ]
 }

@@ -7,79 +7,106 @@
         {
             "task": "Operating a mechanical harvester",
             "subtasks": [
+                "Positioning the harvester in the field",
                 "Starting the harvester's engine",
                 "Guiding the harvester across the field",
-                "Ensuring the rotating spindles are properly engaged",
-                "Monitoring the harvester's progress and efficiency"
+                "Monitoring the harvesting process"
             ]
         },
         {
-            "task": "Preparing the harvester for operation",
+            "task": "Managing the mechanical harvester's front unit",
             "subtasks": [
-                "Inspecting the harvester before use",
-                "Attaching necessary equipment or tools to the harvester"
+                "Ensuring proper alignment of the rotating spindles",
+                "Adjusting spindle rotation for optimal fiber collection"
             ]
         },
         {
-            "task": "Maneuvering the harvester around the field",
+            "task": "Preventing damage to the cabbage",
             "subtasks": [
-                "Navigating the harvester through rows of crops",
-                "Adjusting the harvester's direction and speed as needed"
+                "Verifying the harvester's settings prevent plant damage",
+                "Inspecting harvested areas for undamaged crops"
             ]
         },
         {
-            "task": "Maintaining the harvester during operation",
-            "subtasks": [
-                "Checking the harvester's performance and making adjustments if necessary",
-                "Verifying that the cotton fibers are being properly extracted"
-            ]
+            "task": "Operating a mechanical harvester.",
+            "subtasks": []
         },
         {
-            "task": "Monitoring the harvested crops",
-            "subtasks": [
-                "Observing the collected cotton to ensure quality",
-                "Identifying any potential issues in the harvesting process"
-            ]
+            "task": "followed by each main task, each on a new line, then their respective subtasks. Like this:",
+            "subtasks": []
         },
         {
             "task": "Operating a mechanical harvester",
+            "subtasks": [
+                "Positioning the harvester in the field",
+                "Starting the harvester's engine",
+                "Guiding the harvester across the field",
+                "Monitoring the harvesting process"
+            ]
+        },
+        {
+            "task": "Managing the mechanical harvester's front unit",
+            "subtasks": [
+                "Ensuring proper alignment of the rotating spindles",
+                "Adjusting spindle rotation for optimal fiber collection"
+            ]
+        },
+        {
+            "task": "Preventing damage to the cabbage",
+            "subtasks": [
+                "Verifying the harvester's settings prevent plant damage",
+                "Inspecting harvested areas for undamaged crops"
+            ]
+        },
+        {
+            "task": "because it's about ensuring the crops are not damaged. The subtasks there would be checking the machine's settings (like speed or spindle pressure? Perhaps the operator can adjust these manually) and physically inspecting the harvested areas.",
             "subtasks": []
         },
         {
-            "task": "Preparing the harvester for operation",
-            "subtasks": []
+            "task": "Operating a mechanical harvester",
+            "subtasks": [
+                "Positioning the harvester in the field",
+                "Starting the harvester's engine",
+                "Guiding the harvester across the field",
+                "Monitoring the harvesting process"
+            ]
         },
         {
-            "task": "Maneuvering the harvester around the field",
-            "subtasks": []
+            "task": "Managing the mechanical harvester's front unit",
+            "subtasks": [
+                "Ensuring proper alignment of the rotating spindles",
+                "Adjusting spindle rotation for optimal fiber collection"
+            ]
         },
         {
-            "task": "Maintaining the harvester during operation",
-            "subtasks": []
-        },
-        {
-            "task": "Monitoring the harvested crops",
-            "subtasks": []
+            "task": "Preventing damage to the cabbage",
+            "subtasks": [
+                "Verifying the harvester's settings prevent plant damage",
+                "Inspecting harvested areas for undamaged crops"
+            ]
         },
         {
             "task": "MAINTASK: Operating a mechanical harvester",
-            "subtasks": []
+            "subtasks": [
+                "Positioning the harvester in the field",
+                "Starting the harvester's engine",
+                "Guiding the harvester across the field",
+                "Monitoring the harvesting process"
+            ]
         },
         {
-            "task": "Preparing the harvester for operation",
-            "subtasks": []
+            "task": "Managing the mechanical harvester's front unit",
+            "subtasks": [
+                "Ensuring proper alignment of the rotating spindles",
+                "Adjusting spindle rotation for optimal fiber collection"
+            ]
         },
         {
-            "task": "Maneuvering the harvester around the field",
-            "subtasks": []
-        },
-        {
-            "task": "Maintaining the harvester during operation",
-            "subtasks": []
-        },
-        {
-            "task": "Monitoring the harvested crops",
-            "subtasks": []
+            "task": "Preventing damage to the cabbage",
+            "subtasks": [
+                "Verifying the harvester's settings prevent plant damage",
+                "Inspecting harvested areas for undamaged crops"
+            ]
         }
     ]
 }

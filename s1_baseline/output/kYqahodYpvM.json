@@ -5,181 +5,21 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Plant and cultivate garlic for commercial purposes.",
+            "task": "Farming tasks related to growing garlic commercially.",
             "subtasks": [
-                "Sterilize seed garlic by soaking in vodka.",
-                "Prepare compost tea with fish emulsion and mycorrhizal inoculant.",
-                "Plant garlic cloves in deep compost mulch with appropriate spacing.",
-                "Apply insect netting to protect garlic from pests.",
-                "Remove scapes to increase bulb size.",
-                "Harvest garlic when leaves turn brown.",
-                "Cure garlic in a controlled environment to prevent mold and spoilage.",
-                "Store cured garlic in a cool dry place."
-            ]
-        },
-        {
-            "task": "Prepare and manage garden beds for garlic cultivation.",
-            "subtasks": [
-                "Apply tarping and cover cropping to suppress weeds.",
-                "Use sheet mulch and companion planting to improve soil health.",
-                "Construct raised beds with proper drainage.",
-                "Apply compost and wood chips as mulch.",
-                "Irrigate and monitor plant growth without overwatering.",
-                "Implement mechanical weed control measures.",
-                "Hand-pull weeds if necessary."
-            ]
-        },
-        {
-            "task": "Manage garden infrastructure.",
-            "subtasks": [
-                "Transport materials to leased property.",
-                "Measure and mark planting beds accurately.",
-                "Use manual tools to plant garlic cloves.",
-                "Organize compost tea treatment containers.",
-                "Manually soak and plant garlic cloves with compost tea.",
-                "Prepare storage crates for harvested garlic.",
-                "Install and operate dehumidifier and ventilation system for curing."
-            ]
-        },
-        {
-            "task": "Handle and process garlic scapes for market.",
-            "subtasks": [
-                "Collect and prepare garlic scapes for sale.",
-                "Package and distribute garlic scapes or use them in cooking."
-            ]
-        },
-        {
-            "task": "Market and distribute garlic products.",
-            "subtasks": [
-                "Plan and harvest garlic according to demand.",
-                "Package and store garlic bulbs for long-term sale."
-            ]
-        },
-        {
-            "task": "she mentions sterilizing the seed with vodka, which is to kill pathogens. So that's a key step. Then she makes a compost tea with fish emulsion and a mycorrhizal inoculant. The compost tea is used to soak the cloves before planting. That's another subtask, making and using the compost tea.",
-            "subtasks": []
-        },
-        {
-            "task": "So that's the overall flow. Under the MAINTASK of plant and cultivate garlic, there are subtasks related to seed handling, composting, planting techniques, pest management, harvesting, curing, and storage. Also, some of the infrastructure setup like creating raised beds and using a curing tent.",
-            "subtasks": []
-        },
-        {
-            "task": "Additionally, she mentions using a home office for storage, so there's a bit of MAINTASK around that. But probably, the main focus is on the agricultural tasks related to growing the garlic. Does that seem right? Let me check for any other steps I might have missed. She talks about using organic practices and non-certified methods. The use of vodka instead of formal fumigation methods (since she's not certified organic). The wine-soaked containers for storage. All these little steps are part of the cultivation process. How is this?",
-            "subtasks": []
-        },
-        {
-            "task": "\"Make compost tea for garlic cultivation,\" which includes mixing the compost, water, and supplements. That becomes a subtask under preparation. Then planting could be the next MAINTASK: \"Plant garlic cloves.\" Curing would be something like \"Cure garlic after harvest.\" Each of these tasks would have their own subtasks. But the key is to distill these into general tasks that someone could perform physically in the field or garden.",
-            "subtasks": []
-        },
-        {
-            "task": "Alternatively, maybe the infrastructure setup is more of a separate task. Like \"Prepare and manage garden infrastructure\" which includes setting up the curing tent, compost area, and planting beds. But perhaps it's better to categorize those as subtasks under the main MAINTASKs. For instance, under \"Plant and cultivate garlic,\" there's a subtask of \"Apply tarping and cover cropping to suppress weeds.\" Another subtask under that could be \"Use sheet mulch and companion planting to improve soil health.\"",
-            "subtasks": []
-        },
-        {
-            "task": "\"Handle and process garlic scapes for market\" might be necessary. She mentions that scapes are useful, and that harvesting them can increase bulb size. So she's selling/scraping scapes as a profitable crop, so handling them would be a task.",
-            "subtasks": []
-        },
-        {
-            "task": "But perhaps it's better to have a separate MAINTASK for handling scapes. So whenever she talks about \"scapes make a tasty and profitable early season crop,\" that makes it worth a subtask. Then \"Market and distribute garlic products\" could have a subtask as \"Sell garlic scapes at farmer's markets or through other channels.\"",
-            "subtasks": []
-        },
-        {
-            "task": "Plant and cultivate garlic for commercial purposes.",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare and manage garden beds.",
-            "subtasks": []
-        },
-        {
-            "task": "Manage garden infrastructure.",
-            "subtasks": []
-        },
-        {
-            "task": "Handle garlic scapes.",
-            "subtasks": []
-        },
-        {
-            "task": "Market and distribute garlic products.",
-            "subtasks": [
-                "But given the prompt instructs to \"keep the tasks high-level and denote with MAINTASK and SUBTASK,\" perhaps combining some. Alternatively, breaking it down further. The number of tasks can depend on how much detail is needed, but given that the initial video covers a lot, perhaps the higher-level view suffices. Let me check for any omissions."
-            ]
-        },
-        {
-            "task": "Spacing is another critical component. In the bedding preparation, they mark 3 rows at 6-inch spacing. They're using a tape measure to ensure accuracy. This relates to \u201cspacious\u201d during planting. So that could be another subtask under the planting MAINTASK.",
-            "subtasks": []
-        },
-        {
-            "task": "under MAINTASK \u201cPrepare and manage garden beds\u201d could include creating raised beds with compost and mulch, but breaking down the steps might involve subtasks like:",
-            "subtasks": []
-        },
-        {
-            "task": "could \"Handle and process garlic scapes for market\" be considered a subtask under \"Market and distribute garlic products\"? The video mentions that \"scapes are edible and can be a tasty and profitable early season crop,\" so processing them would be part of marketing. But since she gets two crops\u2014bulbs and scapes\u2014it's reasonable to have it as a separate MAINTASK. So when they do collect the scapes, cut them, use in cooking or sell, that's a distinct task.",
-            "subtasks": []
-        },
-        {
-            "task": "Similarly, selling garlic could be another MAINTASK. But when she's talking about \"selling a small amount\" and \"building up seed stock,\" perhaps the marketing is included under the main cultivation tasks. But since the video devotes some time to discussing the scapes and their benefits, it's worth considering as a separate MAINTASK.",
-            "subtasks": []
-        },
-        {
-            "task": "Plant and cultivate garlic for commercial purposes.",
-            "subtasks": [
-                "Sterilize your seed stock by soaking in a solution.",
-                "Prepare a compost tea with organic fertilizers and inoculants.",
-                "Plant garlic cloves with proper spacing and orientation.",
-                "Protect the crop from pests using natural methods.",
-                "Remove scapes to enhance bulb growth.",
-                "Harvest garlic bulbs at the appropriate time.",
-                "Cure garlic in a controlled environment to prevent mold."
-            ]
-        },
-        {
-            "task": "Prepare and manage garden beds for garlic.",
-            "subtasks": [
-                "Apply tarping and cover cropping techniques to prepare soil.",
-                "Use sheet mulch and companion planting to enrich soil.",
-                "Construct raised beds with proper drainage.",
-                "Apply compost and wood chips as mulch.",
-                "Irrigate and monitor plant growth without overwatering."
-            ]
-        },
-        {
-            "task": "Manage garden infrastructure.",
-            "subtasks": [
-                "Operate a grow tent for garlic curing.",
-                "Transport materials to and from the leased property."
-            ]
-        },
-        {
-            "task": "Handle and process garlic scapes.",
-            "subtasks": [
-                "Harvest and manage scapes from the garlic plants."
-            ]
-        },
-        {
-            "task": "Market and distribute garlic products.",
-            "subtasks": [
-                "Time harvest and storage for optimal market conditions."
-            ]
-        },
-        {
-            "task": "when she talks about building a seed stock, which might not be necessary until after a few years. Maybe the first two MAINTASKs are focused on initial setup, the third on ongoing maintenance, and the fourth on harvest.",
-            "subtasks": []
-        },
-        {
-            "task": "To generate tasks based on the provided video transcript about growing garlic, the main task is **MAINTASK: Plant and cultivate garlic for commercial purposes**, which involves several subtasks:",
-            "subtasks": []
-        },
-        {
-            "task": "Plant and cultivate garlic for commercial purposes.",
-            "subtasks": [
-                "Sterilize your seed stock by soaking in a solution.",
-                "Prepare a compost tea with organic fertilizers and inoculants.",
-                "Plant garlic cloves with proper spacing and orientation.",
-                "Protect the crop from pests using natural methods.",
-                "Remove scapes to enhance bulb growth.",
-                "Harvest garlic bulbs at the appropriate time.",
-                "Cure garlic in a controlled environment to prevent mold."
+                "Saving seed stock by multiplying cloves year after year.",
+                "Choosing the right planting date (December 20th in author's climate).",
+                "Preparing the soil with compost and mulch (composted manure and wood chips).",
+                "Breaking bulbs into individual cloves and soaking them in vodka.",
+                "Mixing compost tea with mycorrhizal inoculants for garlic cloves.",
+                "Planting cloves at the appropriate depth and spacing in prepared beds.",
+                "Protecting garlic from pests with insect netting and cultural practices.",
+                "Removing scapes to maximize bulb size.",
+                "Monitoring bulbs for harvest readiness (when bottom leaves turn brown).",
+                "Harvesting garlic by pulling bulbs from the compost mulch.",
+                "Trimming tops to 6-10 inches post-harvest.",
+                "Drying and curing garlic indoors to avoid mold, using a dehumidifier and ventilation.",
+                "Storage of cured garlic in mesh bags at optimal humidity."
             ]
         }
     ]

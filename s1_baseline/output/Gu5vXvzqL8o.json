@@ -5,80 +5,85 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Driving a combine harvester",
+            "task": "Crosscountry riding",
             "subtasks": [
-                "Observing the surroundings to ensure safe operation",
-                "Navigating the combine through the field, maintaining proper speed and direction",
-                "Monitoring the harvest operation (e.g., crop cut height, separation efficiency)",
-                "Adjusting settings on the combine as needed (e.g., auger speed, fan speed)",
-                "Checking the grain tank level and managing grain discharge",
-                "Troubleshooting mechanical or operational issues if they arise"
+                "Sitting on a horse",
+                "Moving a horse's hindquarters over an obstacle",
+                "Turning a horse's hindquarters",
+                "Riding over a hill"
             ]
         },
         {
-            "task": "Checking the moisture content of crops",
+            "task": "Loading a horse onto a trailer",
             "subtasks": [
-                "Stopping the combine to collect a random sample of the harvested crop",
-                "Measuring the moisture content of the sample using a handheld meter or test strips",
-                "Comparing the moisture content to the desired threshold for storage or immediate sale",
-                "Adjusting harvesting operations or post-harvest processing accordingly"
+                "Approaching the horse",
+                "Guiding the horse into the trailer",
+                "Positioning the horse in the trailer"
             ]
         },
         {
-            "task": "Loading harvested grain onto a truck",
+            "task": "Following a horse during a ride",
             "subtasks": [
-                "Positioning the combine's unloading chute over the truck bed",
-                "Initiating the unloading process and monitoring grain quality and flow",
-                "Ensuring the truck is properly weighed before and after loading to verify the amount hauled",
-                "Cleaning up spilled grain and maintaining hygiene in the work area"
+                "Keeping pace with the horse",
+                "Observing the horse's surroundings"
             ]
         },
         {
-            "task": "Performing routine maintenance checks on the combine",
+            "task": "Refining motion",
             "subtasks": [
-                "Inspecting the combine\u2019s mechanical components (e.g., engine, transmission) for damage or wear",
-                "Checking fluid levels (e.g., oil, coolant, fuel)",
-                "Replacing or refilling any consumed supplies as needed (e.g., filter, lubricants)",
-                "Verifying safety features are functioning properly",
-                "Documenting maintenance activities and scheduling further checks"
+                "Adjusting body position while riding",
+                "Timing movement to transfer to a wheelbarrow",
+                "Maintaining balance when dismounting",
+                "Walking with a steady gait"
             ]
         },
         {
-            "task": "MAINTASK: Driving a combine harvester",
+            "task": "Loading a trailer with a wheelbarrow",
             "subtasks": [
-                "Observing surroundings for safe operation",
-                "Navigating through the field, adjusting speed and direction",
-                "Monitoring harvest efficiency (e.g., crop cut height, separation)",
-                "Adjusting combine settings (e.g., auger, fan speeds) as needed",
-                "Checking grain tank level and managing discharge",
-                "Troubleshooting operational issues"
+                "Maneuvering a wheelbarrow",
+                "Unloading materials from a wheelbarrow",
+                "Properly distributing weight in the wheelbarrow"
             ]
         },
         {
-            "task": "Checking the moisture content of crops",
+            "task": "Crosscountry riding",
             "subtasks": [
-                "Collecting a sample from the combine's discharge",
-                "Measuring moisture using a handheld meter or test strips",
-                "Determining if adjustments are needed for harvesting or post-harvest processing"
+                "Sitting on a horse",
+                "Moving a horse's hindquarters over an obstacle",
+                "Turning a horse's hindquarters",
+                "Riding over a hill"
             ]
         },
         {
-            "task": "Loading harvested grain onto a truck",
+            "task": "Loading a horse onto a trailer",
             "subtasks": [
-                "Positioning the combine's chute over the truck bed",
-                "Initiating and monitoring grain unloading",
-                "Weighing the truck before and after loading to verify grain quantity",
-                "Cleaning up any spills or maintaining hygiene"
+                "Approaching the horse",
+                "Guiding the horse into the trailer",
+                "Positioning the horse in the trailer"
             ]
         },
         {
-            "task": "Performing routine maintenance checks on the combine",
+            "task": "Following a horse during a ride",
             "subtasks": [
-                "Inspecting mechanical components for damage or wear",
-                "Verifying fluid levels (e.g., oil, coolant, fuel)",
-                "Replacing filters or refilling as necessary",
-                "Ensuring safety features are functioning properly",
-                "Documenting maintenance activities and scheduling future checks"
+                "Keeping pace with the horse",
+                "Observing the horse's surroundings"
+            ]
+        },
+        {
+            "task": "Refining motion",
+            "subtasks": [
+                "Adjusting body position while riding",
+                "Timing movement to transfer to a wheelbarrow",
+                "Maintaining balance when dismounting",
+                "Walking with a steady gait"
+            ]
+        },
+        {
+            "task": "Loading a trailer with a wheelbarrow",
+            "subtasks": [
+                "Maneuvering a wheelbarrow",
+                "Unloading materials from a wheelbarrow",
+                "Properly distributing weight in the wheelbarrow"
             ]
         }
     ]

@@ -7,26 +7,59 @@
         {
             "task": "Milking a dairy cow",
             "subtasks": [
-                "Prepare teat dip for sanitization",
-                "Apply teat dip to cow's teats",
-                "Allow teat dip to sit for 30 seconds",
-                "Wipe off teat dip",
-                "Position hand around cow's udder to manually express milk",
-                "Use milking machine (claw) to suction milk from quarters",
-                "Check milk quality and udder condition through manual expression"
+                "Prepare the cow for milking",
+                "Hand express milk from each quarter",
+                "Clean and sanitize teats again",
+                "Attach the milk machine (claw)"
+            ]
+        },
+        {
+            "task": "Operating the milk machine",
+            "subtasks": [
+                "Ensure proper attachment to teats"
+            ]
+        },
+        {
+            "task": "Maintaining hygiene during milking",
+            "subtasks": [
+                "Sanitize teats before and after milking",
+                "Inspect milk quality"
+            ]
+        },
+        {
+            "task": "Checking the udder's condition",
+            "subtasks": [
+                "Observe udder for any abnormalities",
+                "Assess milk quality"
             ]
         },
         {
             "task": "MAINTASK: Milking a dairy cow",
             "subtasks": [
-                "Apply teat dip sanitizer to cow's teats",
-                "Wait 30 seconds for teat dip to sit",
-                "Wipe off teat dip",
-                "Manually express milk from each quarter to check quality and udder condition",
-                "Apply second teat dip sanitizer to cow's teats",
-                "Wait 30 seconds for teat dip to sit",
-                "Wipe off teat dip",
-                "Activate milking machine (claw) to suction milk from quarters"
+                "Prepare the cow for milking",
+                "Hand express milk from each quarter",
+                "Clean and sanitize teats again",
+                "Attach the milk machine (claw)"
+            ]
+        },
+        {
+            "task": "Operating the milk machine",
+            "subtasks": [
+                "Ensure proper attachment to teats"
+            ]
+        },
+        {
+            "task": "Maintaining hygiene during milking",
+            "subtasks": [
+                "Sanitize teats before and after milking",
+                "Inspect milk quality"
+            ]
+        },
+        {
+            "task": "Checking the udder's condition",
+            "subtasks": [
+                "Observe udder for any abnormalities",
+                "Assess milk quality"
             ]
         }
     ]

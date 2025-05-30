@@ -5,195 +5,56 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Planting crops",
+            "task": "Driving a combine harvester",
             "subtasks": [
-                "Walking to rows of planted corn",
-                "Observing corn plants' ear development",
-                "Driving a tractor to apply fertilizer to the fields",
-                "Cleaning equipment to prevent crop diseases"
+                "Sit in the operator's seat",
+                "Monitor the display panel",
+                "Control the steering with arms and hands",
+                "Operate the throttle and rpm controls with hands",
+                "Adjust combine settings using buttons or levers",
+                "Oversee the harvesting process",
+                "Navigate the combine through fields"
             ]
         },
         {
-            "task": "Operating heavy machinery",
+            "task": "Operating a forklift",
             "subtasks": [
-                "Starting a combine harvester",
-                "Guiding a combine through corn fields",
-                "Loading grain into a truck",
-                "Unloading grain from a train"
+                "Approach and load bales onto the forklift",
+                "Lift the bales using the forks",
+                "Transport the bales to storage area",
+                "Position the forklift accurately",
+                "Lower the bales safely onto the ground or rack"
             ]
         },
         {
-            "task": "Driving a pickup truck",
+            "task": "Unloading feed silage",
             "subtasks": [
-                "Transporting hay bales to the barn",
-                "Moving farm machinery to the field"
+                "Drive the vehicle to the feed area",
+                "Stop the vehicle at the proper location",
+                "Engage the unloading mechanism",
+                "Monitor the unloading process",
+                "Adjust the unloading angle or position if necessary"
             ]
         },
         {
-            "task": "Feeding livestock",
+            "task": "Driving a sprayer",
             "subtasks": [
-                "Filling feed bins with grain",
-                "Mixing feed for animals",
-                "Hand feeding hay to horses"
+                "Inspect the sprayer before use",
+                "Fill the sprayer tank with pesticide or fertilizer",
+                "Attach nozzles to the sprayer",
+                "Drive the sprayer through fields",
+                "Control the spray pattern and rate",
+                "Adjust speed as needed",
+                "Monitor the spray system for leaks or malfunctions"
             ]
         },
         {
-            "task": "Repairing farm equipment",
+            "task": "Mowing grass around buildings",
             "subtasks": [
-                "Diagnosing issues with a tractor's rear drive wheels",
-                "Replacing a broken bushing on a tractor"
-            ]
-        },
-        {
-            "task": "Managing farm operations",
-            "subtasks": [
-                "Checking daily tasks completion on a to-do list app",
-                "Organizing field work schedule"
-            ]
-        },
-        {
-            "task": "Further physical labor",
-            "subtasks": [
-                "Painting barn walls",
-                "Gathering eggs from chickens",
-                "Tilling soil before planting",
-                "Building a garden fence MAINTASK: Spraying crops",
-                "Applying herbicide to corn rows",
-                "Hand weeding around corn plants",
-                "Using a sprayer to distribute pesticides"
-            ]
-        },
-        {
-            "task": "Harvesting crops",
-            "subtasks": [
-                "Collecting corn from a combine harvester",
-                "Raking hay from the field",
-                "Stacking bales in the barn"
-            ]
-        },
-        {
-            "task": "at the start of each main task, then each subtask underneath. Some tasks might have multiple subtasks if necessary, but in many cases, they\u2019re single actions. Let me check each one:",
-            "subtasks": [
-                "at the top and SUBTASK: for each subtask. Let me check if there's any redundancy."
-            ]
-        },
-        {
-            "task": "Planting crops",
-            "subtasks": []
-        },
-        {
-            "task": "Applying fertilizers",
-            "subtasks": []
-        },
-        {
-            "task": "Operating heavy machinery",
-            "subtasks": []
-        },
-        {
-            "task": "Transportation",
-            "subtasks": []
-        },
-        {
-            "task": "Feeding livestock",
-            "subtasks": []
-        },
-        {
-            "task": "Equipment repair",
-            "subtasks": []
-        },
-        {
-            "task": "Farm management",
-            "subtasks": []
-        },
-        {
-            "task": "Additional physical labor",
-            "subtasks": []
-        },
-        {
-            "task": "Spraying herbicides",
-            "subtasks": []
-        },
-        {
-            "task": "Harvesting crops",
-            "subtasks": [
-                "and SUBTASK: as per instructions."
-            ]
-        },
-        {
-            "task": "Planting crops",
-            "subtasks": [
-                "Walking to rows of planted corn",
-                "Observing corn plants' ear development"
-            ]
-        },
-        {
-            "task": "Applying fertilizers",
-            "subtasks": [
-                "Driving a tractor to apply fertilizer to the fields",
-                "Cleaning equipment to prevent crop diseases"
-            ]
-        },
-        {
-            "task": "Operating heavy machinery",
-            "subtasks": [
-                "Starting a combine harvester",
-                "Guiding a combine through corn fields",
-                "Loading grain into a truck",
-                "Unloading grain from a train"
-            ]
-        },
-        {
-            "task": "Driving a pickup truck",
-            "subtasks": [
-                "Transporting hay bales to the barn",
-                "Moving farm machinery to the field"
-            ]
-        },
-        {
-            "task": "Feeding livestock",
-            "subtasks": [
-                "Filling feed bins with grain",
-                "Mixing feed for animals",
-                "Hand feeding hay to horses"
-            ]
-        },
-        {
-            "task": "Repairing farm equipment",
-            "subtasks": [
-                "Diagnosing issues with a tractor's rear drive wheels",
-                "Replacing a broken bushing on a tractor"
-            ]
-        },
-        {
-            "task": "Managing farm operations",
-            "subtasks": [
-                "Checking daily tasks completion on a to-do list app",
-                "Organizing field work schedule"
-            ]
-        },
-        {
-            "task": "Further physical labor",
-            "subtasks": [
-                "Painting barn walls",
-                "Gathering eggs from chickens",
-                "Tilling soil before planting",
-                "Building a garden fence"
-            ]
-        },
-        {
-            "task": "Spraying crops",
-            "subtasks": [
-                "Applying herbicide to corn rows",
-                "Hand weeding around corn plants",
-                "Using a sprayer to distribute pesticides"
-            ]
-        },
-        {
-            "task": "Harvesting crops",
-            "subtasks": [
-                "Collecting corn from a combine harvester",
-                "Raking hay from the field",
-                "Stacking bales in the barn"
+                "Start the mower",
+                "Drive the mower around the buildings",
+                "Cut the grass or weeds",
+                "Remove debris ortrimming as needed"
             ]
         }
     ]

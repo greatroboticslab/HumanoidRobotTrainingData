@@ -5,15 +5,40 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Assessing a cover crop mix in a farming field",
+            "task": "Assessing cover crop mix in a field",
             "subtasks": [
-                "Observing the timing of planting and current growth stage",
-                "Noting volunteer wheat appearance and managing potential weed issues",
-                "Evaluating the flowering of buckwheat and addressing seed production concerns",
-                "Inspecting radishes for nitrogen deficiencies and noting their growth",
-                "Identifying additional crops\u5982soybeans, corn, sunflowers in the mix and assessing their progress",
-                "Considering the decomposition and management challenges for sunflower stems",
-                "Monitoring the growth of clover and its potential dominance in the spring"
+                "Observe the stage of growth (time of visit)",
+                "Identify the presence of volunteer wheat",
+                "Note the flowering stage of buckwheat and potential seed production",
+                "Observe the condition and size of radishes",
+                "Check the growth of soybean and corn in the mix",
+                "Assess the growth of sunflowers and anticipate management challenges",
+                "Evaluate the presence and growth of clover"
+            ]
+        },
+        {
+            "task": "Evaluating cover crop performance",
+            "subtasks": [
+                "Consider the balance between different species in the mix",
+                "Address potential nutrient deficiencies (e.g., nitrogen\u4e0d\u8db3 in radishes)",
+                "Anticipate decomposition and management of buckwheat and radish residues",
+                "Plan for the transition to winter wheat (if applicable)"
+            ]
+        },
+        {
+            "task": "The main task related to the transcript is **MAINTASK: Assessing cover crop mix in a field**. This task comprises several subtasks:",
+            "subtasks": [
+                "Observe the stage of growth**",
+                "Identify the presence of volunteer wheat**",
+                "Note the flowering stage of buckwheat and potential seed production**",
+                "Observe the condition and size of radishes**",
+                "Check the growth of soybean and corn in the mix**",
+                "Assess the growth of sunflowers and anticipate management challenges**",
+                "Evaluate the presence and growth of clover**",
+                "Evaluate the balance between different species in the mix**",
+                "Address potential nutrient deficiencies**",
+                "Anticipate decomposition and management of buckwheat and radish residues**",
+                "Plan for the transition to winter wheat (if applicable)**"
             ]
         }
     ]
