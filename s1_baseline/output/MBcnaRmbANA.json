@@ -5,11 +5,90 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Identify irrelevant transcript",
+            "task": "Follow the sheep and make sure they stay in the field.",
             "subtasks": [
-                "Determine if the provided transcript contains any relevant information for generating physical tasks related to farming.",
-                "Conclude that the transcript \"absolutely\" (absolument) is too short and lacks context, making it irrelevant."
+                "Hold the sheep dog lead.",
+                "Lead the sheep dog to the field.",
+                "Keep an eye on the sheep to ensure they don't escape.",
+                "Maybe lead the sheep back to the field if they try to leave."
             ]
+        },
+        {
+            "task": "Drive the tractor and attach the flails to mow hay.",
+            "subtasks": [
+                "Secure the flail attachment onto the tractor.",
+                "Operate the tractor to drive around the field.",
+                "Start the flail mower and adjust its speed.",
+                "Guide the tractor around the field to cut the hay evenly."
+            ]
+        },
+        {
+            "task": "Check the feed lines for the bees.",
+            "subtasks": []
+        },
+        {
+            "task": "Load the hay into the trailer.",
+            "subtasks": []
+        },
+        {
+            "task": "Gather eggs from the chickens.",
+            "subtasks": []
+        },
+        {
+            "task": "Clean the chicken coop.",
+            "subtasks": []
+        },
+        {
+            "task": "Inspect the irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant potatoes by hand.",
+            "subtasks": []
+        },
+        {
+            "task": "Check for signs of animal grazing in the fields.",
+            "subtasks": []
+        },
+        {
+            "task": "Milking the goats.",
+            "subtasks": []
+        },
+        {
+            "task": "Gather the bees and move them to a new location.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the forage harvester to collect hay.",
+            "subtasks": []
+        },
+        {
+            "task": "Maintain the irrigation system with a maintenance tractor.**",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the baler to collect hay.**",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the flail mower to cut hay.**",
+            "subtasks": []
+        },
+        {
+            "task": "Check the beehive and ensure proper queen activity.**",
+            "subtasks": []
+        },
+        {
+            "task": "Reset the henhouse after egg collection.**",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "\\boxed{MAINTASKS}",
+            "subtasks": []
         }
     ]
 }

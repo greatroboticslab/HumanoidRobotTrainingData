@@ -5,211 +5,191 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Change fields using tractors and farming equipment",
+            "task": "Prepare and drive a vehicle to the farm",
             "subtasks": [
-                "Start the tractor",
-                "Drive the tractor to the field",
-                "Attach the plow or harrow to the tractor",
-                "Operate the farming equipment to turn over the soil",
-                "Monitor the equipment's performance and make adjustments as needed"
+                "Check fuel level and fill up if necessary",
+                "Inspect vehicle for any damages or issues before driving",
+                "Ensure seatbelt is fastened while driving"
             ]
         },
         {
-            "task": "Apply fertilizer to the fields",
+            "task": "Access the barn to check on animals",
             "subtasks": [
-                "Calculate the amount of fertilizer needed for the crop",
-                "Load the fertilizer onto the spreader or apply it manually",
-                "Drive the tractor with the spreader attached to the field",
-                "Ensure even distribution of fertilizer across the field",
-                "Check for any equipment malfunctions during application"
+                "Open the barn door or gate",
+                "Walk into the barn, assessing animal conditions",
+                "Check for any abnormal behaviors or signs of illness in the animals",
+                "Provide necessary care or treat animals as needed"
             ]
         },
         {
-            "task": "Plant crops in the prepared fields",
+            "task": "Attend to hay bales or stacked hay",
             "subtasks": [
-                "Load seeds into the planter attachments on the tractor or drill",
-                "Guide the planter through the fields, ensuring proper seed spacing and depth",
-                "Verify that planting depth and seed spacing are correct",
-                "Monitor the planter for any clogs or other issues and address them"
+                "Push or move hay bales with a fork or similar tool",
+                "Stack hay bales neatly in designated areas",
+                "Monitor hay quality and freshness"
             ]
         },
         {
-            "task": "Water the planted fields",
+            "task": "Conduct a visual inspection of the pasture",
             "subtasks": [
-                "Operate the irrigation system, whether it's a center-pivot, drip, or furrow irrigation",
-                "Adjust irrigation timers based on crop needs and weather forecasts",
-                "Observe the fields for proper water penetration and distribution",
-                "Check for any leaks or malfunctions in the irrigation system"
+                "Walk through the pasture, observing plant growth and health",
+                "Check fence lines for any damage or needed repairs",
+                "Look for signs of overgrazing or undergrazing"
             ]
         },
         {
-            "task": "Monitor and maintain crop growth",
+            "task": "Prepare the tractor for farm work",
             "subtasks": [
-                "Regularly visit fields to assess crop health and growth",
-                "Check for signs of pests or diseases and take necessary actions",
-                "Apply pesticides or other treatments as needed",
-                "Harvest the crops when they reach maturity",
-                "Operate combines, trucks, or other harvesting equipment to collect the crops"
+                "Start the tractor engine",
+                "Check the tractor for any mechanical issues",
+                "Fasten seatbelt while operating the tractor"
             ]
         },
         {
-            "task": "Repair any mechanical issues on the equipment",
+            "task": "Operate a mechanical tool (presumably related to farming)",
             "subtasks": [
-                "Identify mechanical problems with tractors, implements, and other machinery",
-                "Perform basic maintenance tasks to keep equipment operational",
-                "Contact a mechanic or repair service if major repairs are needed"
+                "Use a blade or disc to prepare soil for planting",
+                "Guide the tractor while the blade is engaged",
+                "Check the depth and evenness of the furrows created"
             ]
         },
         {
-            "task": "Adhere to safety protocols while working with heavy machinery",
+            "task": "Rest at midday",
             "subtasks": [
-                "Follow proper procedures to secure equipment before operation",
-                "Use safety gear such as helmets, safety glasses, and gloves",
-                "Practice safe driving techniques, especially when operating in grain fields",
-                "Ensure that kids and non-employees stay away from equipment and work areas",
-                "Follow local regulations and company policies regarding equipment operation"
+                "Dismount from the tractor or other vehicle",
+                "Take a short break in a shaded area if possible",
+                "Maybe eat a meal or have some water"
             ]
         },
         {
-            "task": "Follow the application of agricultural chemicals",
+            "task": "check fuel levels? If they say \"Change of Gas,\" perhaps that's a task. So maybe MAINTASK: Check and possibly change fuel in the tractor or vehicle.",
             "subtasks": [
-                "Properly mix and apply pesticides, herbicides, or fertilizers according to labels",
-                "Wear appropriate PPE during chemical handling",
-                "Dispose of empty containers and waste materials according to regulations",
-                "Record application rates and timings for future reference"
+                "Access the barn to check on animals. Subtasks: Open the barn door (if it's closed) \u2013 SUBTASK: Open barn door/gate. Walk into the barn and SUBTASK: Assess animal conditions. Are animals showing any signs of illness or needing care? Maybe SUBTASK: Check for abnormal behaviors. If needed, SUBTASK: Provide necessary care. So, checking animals could include feeding, cleaning stalls, etc., but it's not detailed here.",
+                "\"there, I am lacking access to hay bales or stacked hay.\" So he's in the barn, perhaps. So MAINTASK: Attend to hay bales or stacked hay. Subtasks: Move hay with a fork (if they need to be rearranged) \u2013 SUBTASK: Push hay bales with a fork. Stack them neatly \u2013 SUBTASK: Stack hay bales. Also, check the quality and freshness \u2013 SUBTASK: Monitor hay quality.",
+                "Conduct a visual inspection of the pasture. Subtasks: Walk through the pasture \u2013 SUBTASK: Walk through. Observe plant growth and health \u2013 maybe SUBTASK: Check for proper growth (if they grow grass, crops). Check fence lines \u2013 SUBTASK: Inspect fence lines for damage or needed repairs. Signs of overgrazing or undergrazing \u2013 maybe SUBTASK: Assess grazing patterns.",
+                "Maybe the tractor needs preparation. The transcript mentions \"there, I lack preparation of the tractor for farm work.\" Then, start the engine, check for issues, ensure seatbelt is fastened \u2013 which is part of SUBTASKS: Starting the tractor, checking for issues, etc. So, MAINTASK: Prepare the tractor for farm work. Subtasks: Start engine, check under the hood, ensure safety features are on (seatbelt, etc.) maybe check fluid levels."
             ]
         },
         {
-            "task": "Prepare for the next season by performing fall field work",
-            "subtasks": [
-                "Conduct soil testing and sample to assess nutrient levels",
-                "Plan planting schedule and seed selection for the upcoming season",
-                "Store equipment and check winterization procedures",
-                "Attend farm meetings or training sessions to stay informed about upcoming farming practices"
-            ]
-        },
-        {
-            "task": "Though the video transcript mentions \"change of gas\" at noon, which could relate to refueling equipment, it doesn't seem to be a primary task. Therefore, more extensive tasks such as changing fields and performing daily operations are included instead. The tasks are presented with steps that a person would physically perform, focusing on the agricultural setting as per the transcript. Each MAINTASK is followed by relevant subtasks that a farmer would carry out.",
+            "task": "Operate a mechanical tool. Subtasks: Use a blade or disc to prepare the soil (like a disk harrow or cultivator). Guiding the tractor while operating the blade. Check the depth and evenness of the furrows.",
             "subtasks": []
         },
         {
-            "task": "Change fields using tractors and farming equipment**",
+            "task": "Rest at midday. Subtasks: Dismount from the tractor, maybe go under a tree or into a shade. Take a break. Eat a meal maybe, if possible. Water and hydrate.",
             "subtasks": []
         },
         {
-            "task": "Apply fertilizer**",
-            "subtasks": []
-        },
-        {
-            "task": "Plant crops**",
-            "subtasks": []
-        },
-        {
-            "task": "Water the fields**",
-            "subtasks": []
-        },
-        {
-            "task": "Monitor and maintain crop growth**",
-            "subtasks": []
-        },
-        {
-            "task": "Repair equipment**",
-            "subtasks": []
-        },
-        {
-            "task": "Adhere to safety protocols**",
-            "subtasks": []
-        },
-        {
-            "task": "Follow chemical application**",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare for next season**",
-            "subtasks": []
-        },
-        {
-            "task": "Change fields using tractors and farming equipment",
+            "task": "Prepare and drive a vehicle to the farm",
             "subtasks": [
-                "Start the tractor",
-                "Drive the tractor to the field",
-                "Attach the plow or harrow to the tractor",
-                "Operate the farming equipment to turn over the soil",
-                "Monitor the equipment's performance and make adjustments as needed"
+                "Check fuel level and fill up if necessary",
+                "Inspect vehicle for any damages or issues before driving",
+                "Ensure seatbelt is fastened while driving"
             ]
         },
         {
-            "task": "Apply fertilizer to the fields",
+            "task": "Access the barn to check on animals",
             "subtasks": [
-                "Calculate the amount of fertilizer needed for the crop",
-                "Load the fertilizer onto the spreader or apply it manually",
-                "Drive the tractor with the spreader attached to the field",
-                "Ensure even distribution of fertilizer across the field",
-                "Check for any equipment malfunctions during application"
+                "Open the barn door or gate",
+                "Walk into the barn, assessing animal conditions",
+                "Check for any abnormal behaviors or signs of illness in the animals",
+                "Provide necessary care or treat animals as needed"
             ]
         },
         {
-            "task": "Plant crops in the prepared fields",
+            "task": "Attend to hay bales or stacked hay",
             "subtasks": [
-                "Load seeds into the planter attachments on the tractor or drill",
-                "Guide the planter through the fields, ensuring proper seed spacing and depth",
-                "Verify that planting depth and seed spacing are correct",
-                "Monitor the planter for any clogs or other issues and address them"
+                "Push or move hay bales with a fork or similar tool",
+                "Stack hay bales neatly in designated areas",
+                "Monitor hay quality and freshness"
             ]
         },
         {
-            "task": "Water the planted fields",
+            "task": "Conduct a visual inspection of the pasture",
             "subtasks": [
-                "Operate the irrigation system, whether it's a center-pivot, drip, or furrow irrigation",
-                "Adjust irrigation timers based on crop needs and weather forecasts",
-                "Observe the fields for proper water penetration and distribution",
-                "Check for any leaks or malfunctions in the irrigation system"
+                "Walk through the pasture, observing plant growth and health",
+                "Check fence lines for any damage or needed repairs",
+                "Look for signs of overgrazing or undergrazing"
             ]
         },
         {
-            "task": "Monitor and maintain crop growth",
+            "task": "Prepare the tractor for farm work",
             "subtasks": [
-                "Regularly visit fields to assess crop health and growth",
-                "Check for signs of pests or diseases and take necessary actions",
-                "Apply pesticides or other treatments as needed",
-                "Harvest the crops when they reach maturity",
-                "Operate combines, trucks, or other harvesting equipment to collect the crops"
+                "Start the tractor engine",
+                "Check the tractor for any mechanical issues",
+                "Fasten seatbelt while operating the tractor"
             ]
         },
         {
-            "task": "Repair any mechanical issues on the equipment",
+            "task": "Operate a mechanical tool (presumably related to farming)",
             "subtasks": [
-                "Identify mechanical problems with tractors, implements, and other machinery",
-                "Perform basic maintenance tasks to keep equipment operational",
-                "Contact a mechanic or repair service if major repairs are needed"
+                "Use a blade or disc to prepare soil for planting",
+                "Guide the tractor while the blade is engaged",
+                "Check the depth and evenness of the furrows created"
             ]
         },
         {
-            "task": "Adhere to safety protocols while working with heavy machinery",
+            "task": "Rest at midday",
             "subtasks": [
-                "Follow proper procedures to secure equipment before operation",
-                "Use safety gear such as helmets, safety glasses, and gloves",
-                "Practice safe driving techniques, especially when operating in grain fields",
-                "Ensure that kids and non-employees stay away from equipment and work areas",
-                "Follow local regulations and company policies regarding equipment operation"
+                "Dismount from the tractor or other vehicle",
+                "Take a short break in a shaded area if possible",
+                "Maybe eat a meal or have some water"
             ]
         },
         {
-            "task": "Follow the application of agricultural chemicals",
+            "task": "Prepare and drive a vehicle to the farm",
             "subtasks": [
-                "Properly mix and apply pesticides, herbicides, or fertilizers according to labels",
-                "Wear appropriate PPE during chemical handling",
-                "Dispose of empty containers and waste materials according to regulations",
-                "Record application rates and timings for future reference"
+                "Check fuel level and fill up if necessary",
+                "Inspect vehicle for any damages or issues before driving",
+                "Ensure seatbelt is fastened while driving"
             ]
         },
         {
-            "task": "Prepare for the next season by performing fall field work",
+            "task": "Access the barn to check on animals",
             "subtasks": [
-                "Conduct soil testing and sample to assess nutrient levels",
-                "Plan planting schedule and seed selection for the upcoming season",
-                "Store equipment and check winterization procedures",
-                "Attend farm meetings or training sessions to stay informed about upcoming farming practices"
+                "Open the barn door or gate",
+                "Walk into the barn, assessing animal conditions",
+                "Check for any abnormal behaviors or signs of illness in the animals",
+                "Provide necessary care or treat animals as needed"
+            ]
+        },
+        {
+            "task": "Attend to hay bales or stacked hay",
+            "subtasks": [
+                "Push or move hay bales with a fork or similar tool",
+                "Stack hay bales neatly in designated areas",
+                "Monitor hay quality and freshness"
+            ]
+        },
+        {
+            "task": "Conduct a visual inspection of the pasture",
+            "subtasks": [
+                "Walk through the pasture, observing plant growth and health",
+                "Check fence lines for any damage or needed repairs",
+                "Look for signs of overgrazing or undergrazing"
+            ]
+        },
+        {
+            "task": "Prepare the tractor for farm work",
+            "subtasks": [
+                "Start the tractor engine",
+                "Check the tractor for any mechanical issues",
+                "Fasten seatbelt while operating the tractor"
+            ]
+        },
+        {
+            "task": "Operate a mechanical tool (presumably related to farming)",
+            "subtasks": [
+                "Use a blade or disc to prepare soil for planting",
+                "Guide the tractor while the blade is engaged",
+                "Check the depth and evenness of the furrows created"
+            ]
+        },
+        {
+            "task": "Rest at midday",
+            "subtasks": [
+                "Dismount from the tractor or other vehicle",
+                "Take a short break in a shaded area if possible",
+                "Maybe eat a meal or have some water"
             ]
         }
     ]

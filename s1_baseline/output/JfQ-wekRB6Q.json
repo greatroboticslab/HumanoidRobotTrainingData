@@ -5,37 +5,36 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Operation of a Chalmers tractor and bi-fold wheel rake for flipping hay windrows to aid in drying.",
+            "task": "Operating a Hay Rake and Baler",
             "subtasks": [
-                "Checking hay after cutting to ensure it is flat on the ground.",
-                "Addressing un-raked areas to maintain even coverage.",
-                "Using the hay rake to flip cut hay rows, exposing the underside to sunlight.",
-                "Merging flipped hay rows to form a manageable windrow for baling.",
-                "Timing raking activities to avoid hay becoming too dry and brittle, which can reduce biomass.",
-                "Waiting for dew to dry before proceeding to bale, considering weather forecast and humidity.",
-                "Preparing the field for baling in the afternoon after adequate drying."
+                "Start the Chalmers tractor and bi-fold wheel rake",
+                "Drive the tractor through the hay field",
+                "Use the hay rake to flip over recently cut hay rows",
+                "Ensure the hay is properly exposed to sunlight",
+                "Merge the hay rows for easier baling",
+                "Wait for dew to dry before proceeding",
+                "Monitor weather forecast for optimal drying conditions",
+                "Bale the hay using a baler once conditions are right"
             ]
         },
         {
-            "task": "Switching from square to round baling due to forecasted weather conditions.",
+            "task": "Preparing for Hay Baling",
             "subtasks": [
-                "Assessing the weather situation to determine the best type of baling.",
-                "Beginning baling operations with a round baler despite initial plans for square baling.",
-                "Maximizing efficiency with a round baler by quickly covering ground and completing the task."
+                "Assess hay quality and moisture content",
+                "Adjust hay rake settings for maximum effectiveness",
+                "Monitor hay drying progress throughout the day",
+                "Determine baling strategy based on weather conditions"
             ]
         },
         {
-            "task": "Managing hay drying processes through raking and monitoring.",
+            "task": "Adapting to Weather Changes",
             "subtasks": [
-                "Monitoring hay moisture levels influenced by sunlight and humidity.",
-                "Making adjustments in raking based on relative humidity forecasts."
-            ]
-        },
-        {
-            "task": "Handling potential wet hay conditions.",
-            "subtasks": [
-                "Considering the impact of recent rain (a few sprinkles) on the hay's moisture level.",
-                "Adapting raking and baling schedules based on precipitation."
+                "Consider weather forecast when planning baling techniques",
+                "Switch from square to round baling if necessary due to weather",
+                "Adapt baling speed based on weather conditions",
+                "Complete baling as quickly as possible when weather permits MAINTASK: Mobility and Route Adjustment",
+                "Monitor tractor and equipment mobility on farm roads",
+                "Plan alternate routes in case of inclement weather"
             ]
         }
     ]

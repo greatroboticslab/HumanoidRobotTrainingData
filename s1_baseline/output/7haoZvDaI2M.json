@@ -5,85 +5,75 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Fill fuel container for riding mower",
+            "task": "Fueling a meadow mower",
             "subtasks": [
-                "Locate fuel container",
-                "Open fuel container cap",
-                "Measure required fuel quantity",
-                "Pour fuel into container",
-                "Close fuel container cap"
+                "Locate the fuel cap",
+                "Open the fuel cap",
+                "Pour fuel into the tank",
+                "Close the fuel cap"
             ]
         },
         {
-            "task": "Transport fuel container to riding mower",
+            "task": "Starting a meadow mower",
             "subtasks": [
-                "Lift fuel container onto shoulder",
-                "Walk from current location to riding mower",
-                "Lower fuel container onto ground near mower"
+                "Press the start button",
+                "Check the fuel gauge"
             ]
         },
         {
-            "task": "Add fuel to riding mower",
+            "task": "Cutting the grass in a field",
             "subtasks": [
-                "Remove fuel cap from mower",
-                "Connect fuel hose to mower's fuel system",
-                "Pour fuel from container into hose",
-                "Detach fuel hose and replace fuel cap"
+                "Drive the meadow mower forward",
+                "Operate the steering to guide the mower",
+                "Adjust the height of the mower deck"
             ]
         },
         {
-            "task": "Deliver fuel to riding mower for maintenance",
+            "task": "Moving the meadow mower to a new location",
             "subtasks": [
-                "Drive to storage area to collect fuel container",
-                "Retrieve fuel container from storage",
-                "Repeat fueling process as above"
+                "Lift the mower deck",
+                "Maneuver the mower to the next area",
+                "Lower the mower deck"
             ]
         },
         {
-            "task": "Check riding mower's fuel level during operation",
+            "task": "Dealing with grass clippings",
             "subtasks": [
-                "Observe fuel gauge or attempt to locate fuel cap during use"
+                "Discharge the grass clippings",
+                "Clean up any clippings scattered on the ground"
             ]
         },
         {
-            "task": "Fill fuel container for riding mower",
+            "task": "Dealing with engine overheating",
             "subtasks": [
-                "** Locate fuel container",
-                "** Open fuel container cap",
-                "** Measure required fuel quantity",
-                "** Pour fuel into container",
-                "** Close fuel container cap"
+                "Shut down the mower",
+                "Allow the engine to cool down",
+                "Check the air filter or other cooling components"
             ]
         },
         {
-            "task": "Transport fuel container to riding mower",
+            "task": "Handling a stuck deck",
             "subtasks": [
-                "** Lift fuel container onto shoulder",
-                "** Walk from current location to riding mower",
-                "** Lower fuel container onto ground near mower"
+                "Stop the mower",
+                "Lift the mower deck",
+                "Clear any obstruction from the deck",
+                "Lower the mower deck"
             ]
         },
         {
-            "task": "Add fuel to riding mower",
+            "task": "Using a battery-powered mower instead",
             "subtasks": [
-                "** Remove fuel cap from mower",
-                "** Connect fuel hose to mower's fuel system",
-                "** Pour fuel from container into hose",
-                "** Detach fuel hose and replace fuel cap"
+                "Charge the battery before use",
+                "Transfer the battery to the mower",
+                "Start the battery-powered mower"
             ]
         },
         {
-            "task": "Deliver fuel to riding mower for maintenance",
+            "task": "Cleaning the mower after use",
             "subtasks": [
-                "** Drive to storage area to collect fuel container",
-                "** Retrieve fuel container from storage",
-                "** Repeat fueling process as above"
-            ]
-        },
-        {
-            "task": "Check riding mower's fuel level during operation",
-            "subtasks": [
-                "** Observe fuel gauge or attempt to locate fuel cap during use"
+                "Wipe down the mower",
+                "Check for damage or wear",
+                "Store the mower in a dry place"
             ]
         }
     ]

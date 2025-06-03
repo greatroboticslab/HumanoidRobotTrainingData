@@ -5,237 +5,58 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Drive the tractor.",
+            "task": "Drive a farming tractor",
             "subtasks": [
-                "Sit and operate the steering wheel.",
-                "Use the pedals (accelerator, brake, clutch).",
-                "Manipulate the steering wheel to adjust direction.",
-                "Engage the clutch before shifting gears.",
-                "Shift gears manually while driving."
+                "Sit in the driver's seat",
+                "Adjust seat and mirrors for visibility",
+                "Engage the engine and check gauges",
+                "Operate the steering wheel to maneuver the tractor",
+                "Use pedals to control speed and implement",
+                "Attach plow to the front of the tractor",
+                "Uncouple the plow at the end of the field",
+                "Check the plow's engagement and disengagement mechanism",
+                "Navigate the tractor around obstacles in the field",
+                "Monitor the progress and adjust the plow depth as needed",
+                "Check the fuel level and add fuel if necessary",
+                "Adjust the tractor's speed based on soil conditions",
+                "Manage the noise and dust while operating the tractor"
             ]
         },
         {
-            "task": "Attach the cultivator implement.",
+            "task": "Use a plow to prepare soil",
             "subtasks": [
-                "Lower the hydraulics to position the implement.",
-                "Align the cultivator's front wheels with the tractor's front wheels.",
-                "Secure the implement using safety locks or pins."
+                "Securely attach the plow to the tractor",
+                "Lower the plow into the soil",
+                "Operate the tilting mechanism to adjust the plow depth",
+                "Push the plow through the field by driving the tractor",
+                "Rotate the plow to work different areas",
+                "Monitor the soil disturbance and adjust as necessary",
+                "Back up the tractor to uncouple the plow",
+                "Properly store the plow when not in use"
             ]
         },
         {
-            "task": "Perform walking while operating the tractor.",
+            "task": "Maintain farming tools and equipment",
             "subtasks": [
-                "Walk around fields to inspect crops.",
-                "Adjust machine position by taking steps to different locations."
+                "Check the wear and tear of the plow blades",
+                "Lubricate moving parts of the plow",
+                "Assess any damage to the plow frame or materials",
+                "Tighten bolts or replace damaged components",
+                "Inspect the tractor's hydraulic system for leaks or issues",
+                "Replace any necessary filters or fluid"
             ]
         },
         {
-            "task": "Operate hydraulic controls.",
+            "task": "Manage a farm",
             "subtasks": [
-                "Press lever to lower or raise hydraulic implements.",
-                "Monitor hydraulic fluid levels and pressure."
+                "Plan the planting schedule",
+                "Allocate resources such as fuel and labor",
+                "Supervise the field operations",
+                "Address any unforeseen challenges during the process",
+                "Record progress and any maintenance done",
+                "Ensure adherence to safety protocols",
+                "Coordinate with other farm workers or machinery operators"
             ]
-        },
-        {
-            "task": "Maintain lateral control of the tractor and implement.",
-            "subtasks": [
-                "Keep the cultivator's outline within the desired field path.",
-                "Adapt to uneven terrain while keeping the cultivator stable."
-            ]
-        },
-        {
-            "task": "Shift and negotiate turns.",
-            "subtasks": [
-                "Use the clutch while turning to prevent overheating.",
-                "Shift gears appropriately based on the turn's curvature."
-            ]
-        },
-        {
-            "task": "Fertilizer application (presumed, inferred).",
-            "subtasks": [
-                "Monitor the planter or spreader mechanisms.",
-                "Follow specified application rates and patterns."
-            ]
-        },
-        {
-            "task": "Understand and follow farmer\u2019s instructions.",
-            "subtasks": [
-                "Pay attention to specific areas needing special attention.",
-                "Adjust operations based on feedback from the farmer."
-            ]
-        },
-        {
-            "task": "Complete the day's work.",
-            "subtasks": [
-                "Drive to the different field locations as directed.",
-                "Finish the pass with the cultivator or other attachment.",
-                "Shut down the tractor properly."
-            ]
-        },
-        {
-            "task": "Drive the tractor.",
-            "subtasks": [
-                "Sit and operate the steering wheel.",
-                "Use the pedals (accelerator, brake, clutch).",
-                "Manipulate the steering wheel to adjust direction.",
-                "Engage the clutch before shifting gears.",
-                "Shift gears manually while driving."
-            ]
-        },
-        {
-            "task": "Attach the cultivator implement.",
-            "subtasks": [
-                "Lower the hydraulics to position the implement.",
-                "Align the cultivator's front wheels with the tractor's front wheels.",
-                "Secure the implement using safety locks or pins."
-            ]
-        },
-        {
-            "task": "Perform walking while operating the tractor.",
-            "subtasks": [
-                "Walk around fields to inspect crops.",
-                "Adjust machine position by taking steps to different locations."
-            ]
-        },
-        {
-            "task": "Operate hydraulic controls.",
-            "subtasks": [
-                "Press lever to lower or raise hydraulic implements.",
-                "Monitor hydraulic fluid levels and pressure."
-            ]
-        },
-        {
-            "task": "Maintain lateral control of the tractor and implement.",
-            "subtasks": [
-                "Keep the cultivator's outline within the desired field path.",
-                "Adapt to uneven terrain while keeping the cultivator stable."
-            ]
-        },
-        {
-            "task": "Shift and negotiate turns.",
-            "subtasks": [
-                "Use the clutch while turning to prevent overheating.",
-                "Shift gears appropriately based on the turn's curvature."
-            ]
-        },
-        {
-            "task": "Fertilizer application (presumed, inferred).",
-            "subtasks": [
-                "Monitor the planter or spreader mechanisms.",
-                "Follow specified application rates and patterns."
-            ]
-        },
-        {
-            "task": "Understand and follow farmer\u2019s instructions.",
-            "subtasks": [
-                "Pay attention to specific areas needing special attention.",
-                "Adjust operations based on feedback from the farmer."
-            ]
-        },
-        {
-            "task": "Complete the day's work.",
-            "subtasks": [
-                "Drive to the different field locations as directed.",
-                "Finish the pass with the cultivator or other attachment.",
-                "Shut down the tractor properly."
-            ]
-        },
-        {
-            "task": "\"MAINTASK: Given this transcript, please generate a list of physical tasks a person would have to perform with their body in relation to the transcript. Separate the tasks by a new line character: . . . 6,000 . 6 . . . . . 01410-9794\"",
-            "subtasks": []
-        },
-        {
-            "task": "Drive the tractor.",
-            "subtasks": [
-                "Sit and operate the steering wheel.",
-                "Use the pedals (accelerator, brake, clutch)."
-            ]
-        },
-        {
-            "task": "Drive the tractor.",
-            "subtasks": []
-        },
-        {
-            "task": "Attach the cultivator.",
-            "subtasks": []
-        },
-        {
-            "task": "Conduct inspections.",
-            "subtasks": []
-        },
-        {
-            "task": "Operate hydraulics.",
-            "subtasks": []
-        },
-        {
-            "task": "Maintain control.",
-            "subtasks": []
-        },
-        {
-            "task": "Shift and turn.",
-            "subtasks": []
-        },
-        {
-            "task": "Apply fertilizer.",
-            "subtasks": [
-                "But given the structure of the question demands a response. Since I need to output structured tasks hierarchically, with MAINTASKs and SUBTASKs."
-            ]
-        },
-        {
-            "task": "Drive the tractor.",
-            "subtasks": []
-        },
-        {
-            "task": "Operate the hydraulic system.",
-            "subtasks": []
-        },
-        {
-            "task": "Perform field work.",
-            "subtasks": []
-        },
-        {
-            "task": "Complete the task.",
-            "subtasks": [
-                "",
-                "if the video shows a tractor being operated, then the task list is about tractor operation. Therefore, this task breakdown suffices. Therefore, I can proceed to provide the MAINTASKs and SUBTASKs above.",
-                "In summary, proceeding with the most common farm operation tasks related to a tractor and cultivator, generating the tasks with their subtasks through the standard method. Thus, the final answer includes the MAINTASKs and SUBTASKs outlined earlier."
-            ]
-        },
-        {
-            "task": "Drive the tractor.",
-            "subtasks": []
-        },
-        {
-            "task": "Attach the cultivator implement.",
-            "subtasks": []
-        },
-        {
-            "task": "Perform walking while operating the tractor.",
-            "subtasks": []
-        },
-        {
-            "task": "Operate hydraulic controls.",
-            "subtasks": []
-        },
-        {
-            "task": "Maintain lateral control of the tractor and implement.",
-            "subtasks": []
-        },
-        {
-            "task": "Shift and negotiate turns.",
-            "subtasks": []
-        },
-        {
-            "task": "Fertilizer application.",
-            "subtasks": []
-        },
-        {
-            "task": "Understand and follow farmer\u2019s instructions.",
-            "subtasks": []
-        },
-        {
-            "task": "Complete the day's work.",
-            "subtasks": []
         }
     ]
 }

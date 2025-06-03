@@ -5,265 +5,103 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Attaching a plow to a tractor.",
+            "task": "Operating a combine harvester",
             "subtasks": [
-                "Identify the plow attachment.",
-                "Align the plow with the tractor's hitch.",
-                "Secure the plow onto the tractor."
+                "Starting the combine engine",
+                "Adjusting the combine's cutting height",
+                "Monitoring grain flow through the combine",
+                "Ensuring hydraulic systems function properly",
+                "Checking grain tank levels"
             ]
         },
         {
-            "task": "Steering the tractor to follow the plow.",
+            "task": "Driving a grain truck",
             "subtasks": [
-                "Position the operator's seat.",
-                "Adjust the steering wheel or controls.",
-                "Maintain a steady path behind the plow."
+                "Loading grain into the truck",
+                "Securing grain during transport",
+                "Navigating farm roads with loaded grain truck"
             ]
         },
         {
-            "task": "Operating the plow mechanism.",
+            "task": "Harvesting wheat",
             "subtasks": [
-                "Monitor the depth of the plow.",
-                "Adjust the depth as needed."
+                "Using a no-till drill for planting",
+                "Applying fertilizer using a spreader",
+                "Planting wheat seed",
+                "Implementing no-till farming practices"
             ]
         },
         {
-            "task": "Gathering materials and preparing field.",
+            "task": "Managing a farm animal (sheep)",
             "subtasks": [
-                "Identify the field to be prepared.",
-                "Examine the soil condition.",
-                "Gather any necessary tools or equipment."
+                "Feeding sheep hay",
+                "Checking sheep for health issues",
+                "Collecting wool from sheep"
             ]
         },
         {
-            "task": "Walking alongside the tractor.",
+            "task": "Operating a fuel tanker",
             "subtasks": [
-                "Observe the plowing progress.",
-                "Check for any equipment issues.",
-                "Guide the tractor operator if necessary."
+                "Delivering fuel to the farm",
+                "Unloading fuel from the tanker",
+                "Ensuring fuel dispensing equipment functions"
             ]
         },
         {
-            "task": "Unloading harvested crops.",
+            "task": "Working in a feed room",
             "subtasks": [
-                "Position the vehicle or equipment.",
-                "Operate the unloading mechanism.",
-                "Handle and stack the crops."
+                "Mixing feed ingredients",
+                "Measuring out feed portions",
+                "Storing feed supplies"
             ]
         },
         {
-            "task": "Adjusting the air compressor.",
+            "task": "Operating a forklift",
             "subtasks": [
-                "Locate the air compressor.",
-                "Determine the necessary pressure.",
-                "Adjust the compressor settings accordingly."
+                "Unloading supplies from a trailer",
+                "Moving feed sacks within the barn",
+                "Loading grain into storage bins"
             ]
         },
         {
-            "task": "Using hand tools.",
+            "task": "Filling grain bins",
             "subtasks": [
-                "Select appropriate tool.",
-                "Apply force to the tool.",
-                "Adjust grip or handling."
+                "Directing grain flow into bins",
+                "Leveling grain in bins",
+                "Monitoring grain temperature and moisture"
             ]
         },
         {
-            "task": "Attaching a hitch to a plow.",
-            "subtasks": [
-                "Identify the correct hitch point.",
-                "Position the plow.",
-                "Connect the hitch securely."
-            ]
-        },
-        {
-            "task": "Preparing the field for planting.",
-            "subtasks": [
-                "Clear the field of debris.",
-                "Level the ground.",
-                "Apply fertilizer or seeds.",
-                "Compact the soil."
-            ]
-        },
-        {
-            "task": "Repairing a plow blade.",
-            "subtasks": [
-                "Remove the plow from the tractor.",
-                "Inspect the blade for damage.",
-                "Replace or fix the blade.",
-                "Reattach the plow to the tractor."
-            ]
-        },
-        {
-            "task": "Performing ground steering.",
-            "subtasks": [
-                "Determine the required direction.",
-                "Shift the tractor's wheels.",
-                "Ensure smooth turning."
-            ]
-        },
-        {
-            "task": "Subtask:Plowing adjacent rows.",
-            "subtasks": [
-                "Align the plow in the next row.",
-                "Continue plowing without overlapping."
-            ]
-        },
-        {
-            "task": "Manual plowing in corners.",
-            "subtasks": [
-                "Approach the corner.",
-                "Guide the plow around the corner.",
-                "Reorient the direction when turning."
-            ]
-        },
-        {
-            "task": "Planting seeds.",
-            "subtasks": [
-                "Operate the seeder attachment.",
-                "Adjust the planting depth.",
-                "Regulate the seed flow.",
-                "Monitor the planted rows."
-            ]
-        },
-        {
-            "task": "Checking energy levels.",
-            "subtasks": [
-                "Recognize signs of fatigue.",
-                "Take necessary breaks.",
-                "Apron changing task in a different context is not relevant but mentioned in the transcript, likely part of an unrelated activity. As a result, I have excluded it as a task related to farming."
-            ]
-        },
-        {
-            "task": "may already cover raking/grading considerations, so perhaps retaining that.",
+            "task": "Operating a combine harvester",
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Attaching a plow to a tractor.",
-            "subtasks": [
-                "Identify the plow attachment.",
-                "Align the plow with the tractor's hitch.",
-                "Secure the plow onto the tractor."
-            ]
+            "task": "Driving a grain truck",
+            "subtasks": []
         },
         {
-            "task": "Steering the tractor to follow the plow.",
-            "subtasks": [
-                "Position the operator's seat.",
-                "Adjust the steering wheel or controls.",
-                "Maintain a steady path behind the plow."
-            ]
+            "task": "Harvesting wheat",
+            "subtasks": []
         },
         {
-            "task": "Operating the plow mechanism.",
-            "subtasks": [
-                "Monitor the depth of the plow.",
-                "Adjust the depth as needed."
-            ]
+            "task": "Managing a farm animal (sheep)",
+            "subtasks": []
         },
         {
-            "task": "Gathering materials and preparing field.",
-            "subtasks": [
-                "Identify the field to be prepared.",
-                "Examine the soil condition.",
-                "Gather any necessary tools or equipment."
-            ]
+            "task": "Operating a fuel tanker",
+            "subtasks": []
         },
         {
-            "task": "Walking alongside the tractor.",
-            "subtasks": [
-                "Observe the plowing progress.",
-                "Check for any equipment issues.",
-                "Guide the tractor operator if necessary."
-            ]
+            "task": "Working in a feed room",
+            "subtasks": []
         },
         {
-            "task": "Unloading harvested crops.",
-            "subtasks": [
-                "Position the vehicle or equipment.",
-                "Operate the unloading mechanism.",
-                "Handle and stack the crops."
-            ]
+            "task": "Operating a forklift",
+            "subtasks": []
         },
         {
-            "task": "Adjusting the air compressor.",
-            "subtasks": [
-                "Locate the air compressor.",
-                "Determine the necessary pressure.",
-                "Adjust the compressor settings accordingly."
-            ]
-        },
-        {
-            "task": "Using hand tools.",
-            "subtasks": [
-                "Select appropriate tool.",
-                "Apply force to the tool.",
-                "Adjust grip or handling."
-            ]
-        },
-        {
-            "task": "Attaching a hitch to a plow.",
-            "subtasks": [
-                "Identify the correct hitch point.",
-                "Position the plow.",
-                "Connect the hitch securely."
-            ]
-        },
-        {
-            "task": "Preparing the field for planting.",
-            "subtasks": [
-                "Clear the field of debris.",
-                "Level the ground.",
-                "Apply fertilizer or seeds.",
-                "Compact the soil."
-            ]
-        },
-        {
-            "task": "Repairing a plow blade.",
-            "subtasks": [
-                "Remove the plow from the tractor.",
-                "Inspect the blade for damage.",
-                "Replace or fix the blade.",
-                "Reattach the plow to the tractor."
-            ]
-        },
-        {
-            "task": "Performing ground steering.",
-            "subtasks": [
-                "Determine the required direction.",
-                "Shift the tractor's wheels.",
-                "Ensure smooth turning."
-            ]
-        },
-        {
-            "task": "Subtask: Plowing adjacent rows.",
-            "subtasks": [
-                "Align the plow in the next row.",
-                "Continue plowing without overlapping."
-            ]
-        },
-        {
-            "task": "Manual plowing in corners.",
-            "subtasks": [
-                "Approach the corner.",
-                "Guide the plow around the corner.",
-                "Reorient the direction when turning."
-            ]
-        },
-        {
-            "task": "Planting seeds.",
-            "subtasks": [
-                "Operate the seeder attachment.",
-                "Adjust the planting depth.",
-                "Regulate the seed flow.",
-                "Monitor the planted rows."
-            ]
-        },
-        {
-            "task": "Checking energy levels.",
-            "subtasks": [
-                "Recognize signs of fatigue.",
-                "Take necessary breaks."
-            ]
+            "task": "Filling grain bins",
+            "subtasks": []
         }
     ]
 }

@@ -5,31 +5,68 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Construct a simple vegetable box for starting seeds.",
+            "task": "Construct a simple vegetable box for seedling starts",
             "subtasks": [
-                "Gather materials: 7 redwood fence boards, 1 cedar fence runner (2x4), nails, soaker hose, wire, and organic soil.",
-                "Cut the fence boards to create the sides of the box (each board cut to 6 feet minus the dog ear, which is removed to make a 6-foot length).",
-                "Arrange the fence boards into a rectangular box, with the dog-ear-cut boards used for the ends.",
-                "Install the soaker hose (a 20-foot spool cut to the length needed for each plant line) under the wire frame, suspended above the soil surface.",
-                "Use wire to secure the soaker hose in place, attaching it to the fence board edges with nails for tension.",
-                "Prepare the organic soil by adding food waste at the bottom of the box for composting.",
-                "Sow seeds densely according to their germination rates and plant spacing needs."
+                "Gather required materials (3 redwood fence boards, 1 cedar fence runner, soaker hose, wire, nails)",
+                "Cut fence boards to size (6 feet and 30 inches)",
+                "Assemble the box framework",
+                "Secure wire along plant lines for hanging soaker hose",
+                "Set up soaker hose to provide moisture",
+                "Prepare organic soil for planting seeds",
+                "Plant seeds in the prepared soil, considering germination rates and spacing",
+                "Add food waste to the bottom of the box for composting"
             ]
         },
         {
-            "task": "Compost food waste in the vegetable box.",
+            "task": "Create a composting layer in the vegetable box",
             "subtasks": [
-                "Collect food scraps (e.g., avocado husks, banana peels) from meal preparation.",
-                "Lay the food waste at the bottom of the box before adding the organic soil.",
-                "Allow the food waste to decompose, releasing nutrients into the soil over time."
+                "Collect food waste (e.g., avocado husks, banana peels, fruit pulp)",
+                "Place food waste between the soil and the fence boards at the bottom of the box",
+                "Secure the material to prevent displacement during watering"
             ]
         },
         {
-            "task": "Water the seedlings using a soaker hose system.",
+            "task": "Monitor seedling growth and irrigation",
             "subtasks": [
-                "Turn on the soaker hose to deliver water directly to the plant roots.",
-                "Monitor water delivery to ensure consistency and adjust wire support if necessary to protect seedlings from hose interference."
+                "Observe seedling emergence (e.g., spinach, carrots, cilantro)",
+                "Ensure consistent moisture levels using the soaker hose system",
+                "Maintain a warm microclimate in the vegetable box to facilitate early-season planting",
+                "Address any emerging pests or issues with seedling care and supportighbelow"
             ]
+        },
+        {
+            "task": "Construct a vegetable box",
+            "subtasks": [
+                "Gather materials (fence boards, soaker hose, wire, nails)",
+                "Cut fence boards to desired length (6 feet and 30 inches)",
+                "Assemble box frame",
+                "Attach wire for hanging the soaker hose",
+                "Install soaker hose and set irrigation schedule",
+                "Prepare soil mix (organic, 1.5 cubic feet per bag)",
+                "Plant seeds (considering germination rates)",
+                "Add compost layer (food waste) to the bottom of the box"
+            ]
+        },
+        {
+            "task": "Monitor seedlings",
+            "subtasks": [
+                "Check for emergence and proper growing conditions",
+                "Maintain moisture levels using soaker hose",
+                "Ensure the compost layer is decomposing",
+                "Look for any pests or issues and address as needed"
+            ]
+        },
+        {
+            "task": "Construct a Vegetable Box",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the Soil",
+            "subtasks": []
+        },
+        {
+            "task": "Monitor Seedling Growth",
+            "subtasks": []
         }
     ]
 }

@@ -7,12 +7,30 @@
         {
             "task": "Troubleshoot a malfunctioning sprinkler system zone using a voltmeter.",
             "subtasks": [
-                "Verify the controller is working properly by measuring voltage.",
-                "Check the common wire terminal on the controller.",
-                "Assess the voltage reading when the suspect zone is activated.",
-                "Evaluate the resistance between the common terminal and zone terminal.",
-                "Investigate potential issues with the solenoid or wiring at the valve box.",
-                "Use online resources or valve specifications for further diagnostics."
+                "Identify the problem (zone won't stop running, won't come on fully, or won't come on at all).",
+                "Check the controller's voltage output for the affected zone.",
+                "Measure resistance on the valve's solenoid using the voltmeter.",
+                "Check wiring connections at the valve box for continuity.",
+                "Replace faulty valve or wiring components as necessary."
+            ]
+        },
+        {
+            "task": "Upgrade or replace a malfunctioning controller.",
+            "subtasks": [
+                "Assess controller compatibility and available terminals.",
+                "Replace faulty modules or upgrade to a smart controller.",
+                "Check for program errors or module seating issues.",
+                "Consider smart controller features (e.g., smartphone integration).",
+                "Purchase and install a new controller if needed."
+            ]
+        },
+        {
+            "task": "Identify electrical components involved in valve activation.",
+            "subtasks": [
+                "Understand the role of the controller, solenoid, and common wire.",
+                "Differentiate between AC and DC solenoids.",
+                "Research valve and solenoid resistance specifications online.",
+                "Transitional step for battery-operated controllers (not applicable here)."
             ]
         }
     ]

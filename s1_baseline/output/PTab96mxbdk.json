@@ -5,33 +5,61 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Farmers and ranchers have multiple responsibilities including producing food and protecting natural resources.",
+            "task": "Farmers and ranchers have many responsibilities related to producing food and protecting natural resources.",
             "subtasks": [
-                "Producing food involves managing animals and crops.",
-                "Protecting natural resources includes conserving soil, water, air, plants, and animals.",
-                "Balancing food production and resource protection involves allocating resources such as time and money."
+                "Producing food involves managing livestock and crops.",
+                "- Feeding and caring for animals (SUBTASK)",
+                "- Planting, cultivating, and harvesting crops (SUBTASK)",
+                "Protecting natural resources includes maintaining soil, water, air, plants, and animals.",
+                "- Soil management practices (SUBTASK)",
+                "- Water quality management (SUBTASK)",
+                "- Air quality management (SUBTASK)",
+                "- Plant conservation (SUBTASK)",
+                "- Wildlife habitat management (SUBTASK)"
             ]
         },
         {
-            "task": "Conservation practices are implemented to balance environmental goals with agricultural needs.",
+            "task": "Balancing agricultural objectives with environmental goals through conservation practices.",
             "subtasks": [
-                "Conservation practices include manure storage, proper application of nutrients, livestock grazing management, and cover cropping.",
-                "These practices benefit soil health, water quality, and air quality while supporting productive livestock and cropping systems."
+                "Conserving soil health through measures like cover crop planting (SUBTASK)",
+                "Managing livestock grazing to prevent overgrazing and promote vegetation (SUBTASK)",
+                "Proper manure storage and application to prevent nutrient runoff (SUBTASK)",
+                "Implementing cover crops to reduce topsoil erosion and nutrient loss (SUBTASK)",
+                "Using technical and financial assistance programs for conservation (SUBTASK)",
+                "Developing contracts with local NRCS or conservation districts for specific conservation practices (SUBTASK)"
             ]
         },
         {
-            "task": "Technical and financial assistance is available for implementing conservation practices.",
+            "task": "Adapting conservation practices to individual farm needs and local conditions.",
             "subtasks": [
-                "Assistance is provided through the U.S. Department of Agriculture's Natural Resources Conservation Service, local conservation districts, and other programs.",
-                "Producers can access both technical support to design and implement practices and financial help to offset costs."
+                "Tailoring conservation measures to specific soil types and locations (SUBTASK)",
+                "Considering management practices and site-specific conditions (SUBTASK)",
+                "Customizing conservation plans to prioritize environmental benefits (SUBTASK)"
             ]
         },
         {
-            "task": "Conservation practices are tailored to individual farm conditions and needs.",
+            "task": "Farmers and ranchers have many responsibilities.",
             "subtasks": [
-                "Conservation plans are customized to account for unique soil, location, and management factors.",
-                "Tailored practices maximize benefits to natural resources and are specified in contracts between producers and NRCS."
+                "Producing food by managing livestock and crops (feeding, caring, planting, cultivating, harvesting)",
+                "Protecting natural resources such as soil, water, air, plants, and animals (e.g., using conservation practices, managing manure, implementing soil health measures)"
             ]
+        },
+        {
+            "task": "Balancing the objectives of producing food and protecting natural resources through conservation practices.",
+            "subtasks": [
+                "Using technical and financial assistance programs (e.g., USDA NRCS, local conservation districts)",
+                "Developing and customizing conservation practices based on individual farm needs and local conditions"
+            ]
+        },
+        {
+            "task": "Working with local organizations to implement conservation practices.",
+            "subtasks": [
+                "Tailoring conservation measures to specific soil types, locations, management practices, and site-specific conditions"
+            ]
+        },
+        {
+            "task": "Adhering to regulatory requirements and voluntary measures for environmental sustainability.",
+            "subtasks": []
         }
     ]
 }

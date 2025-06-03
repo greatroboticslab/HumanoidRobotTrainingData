@@ -5,98 +5,293 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Put on protective gear before handling farm equipment.",
+            "task": "Driving a tractor onto a field",
             "subtasks": [
-                "Choose appropriate safety apparel.",
-                "Wear a helmet.",
-                "Fasten across-the-eye goggles.",
-                "Don oil-resistant gloves.",
-                "Secure pants with elastic legs.",
-                "Button up the protective coat."
+                "Sit in the driver's seat",
+                "Engage the key to start the engine",
+                "Check mirrors and adjust view"
             ]
         },
         {
-            "task": "Board a combine harvester for grain harvesting.",
+            "task": "Navigating the tractor through the terrain",
             "subtasks": [
-                "Ascend onto the combine's platform.",
-                "Position self into the driver\u2019s seat.",
-                "Operate the start lever or button.",
-                "Adjust dashboard controls to desired settings."
+                "Operate steering wheel or lever",
+                "Adjust speed using throttle or pedals"
             ]
         },
         {
-            "task": "Operate a combine harvester for harvesting grain crops.",
+            "task": "Attaching a plow to the tractor",
             "subtasks": [
-                "Manipulate the\u6536\u5272\u673a\u7684\u524d\u8fdb\u548c\u540e\u9000\u63a7\u5236\u3002",
-                "Control the header height.",
-                "Monitor the combine\u2019s threshing efficiency.",
-                "Adjust cutterbar position for optimal grain pickup.",
-                "Tend to the grain tank level.",
-                "Use the pitch hydration system (if needed)."
+                "Lowering the plow onto the ground",
+                "Aligning the plow with the field's edge"
             ]
         },
         {
-            "task": "Perform daily maintenance on a combine harvester.",
+            "task": "Operating the plow to turn over soil",
             "subtasks": [
-                "Inspect tire pressure and adjust if necessary.",
-                "Check and tighten belts and tension springs.",
-                "Lubricate moving parts with appropriate oils.",
-                "Replace or clean air filters.",
-                "Inspect hydraulic systems for leaks.",
-                "Test all safety mechanisms and alarms."
+                "Move tractor forward to engage blades",
+                "Monitor depth and direction of tillage"
             ]
         },
         {
-            "task": "Unload harvested grain from the combine.",
+            "task": "Loading wheat into the combine",
             "subtasks": [
-                "Position the combine at the unloading site.",
-                "Activate the unloading/unheader function.",
-                "Guide the grain through the auger or chute.",
-                "Manage grain flow to prevent blockages."
+                "Open the combine\u2019s hopper or doors",
+                "Guide the combine over the wheat stalks",
+                "Close the doors after filling"
             ]
         },
         {
-            "task": "Store grain in a bin or silo.",
+            "task": "Guiding the combine through the wheat field",
             "subtasks": [
-                "Drive the grain transport vehicle to the storage area.",
-                "Unload the grain from the transport.",
-                "Evaluate grain and quality before storage.",
-                "Protect grain from insects and moisture.",
-                "Monitor stored grain for spoilage."
+                "Adjust speed to match combining efficiency",
+                "Overcome fluctuations in crop height"
             ]
         },
         {
-            "task": "Participate in the selection and placement of crops for the next planting season.",
+            "task": "Using a spray boom to apply pesticide",
             "subtasks": [
-                "Examine soil conditions and fertility.",
-                "Evaluate crop performance and yield data.",
-                "Consider market demands and prices.",
-                "Decide on crop varieties and rotations.",
-                "Plan the layout of fields for planting."
+                "Drive the vehicle ahead for optimal coverage",
+                "Adjust the spray pattern through settings",
+                "Check and refill pesticide tanks"
             ]
         },
         {
-            "task": "Address verbal communication during the harvest with other farm workers.",
+            "task": "Lowering and raising the sprayer",
             "subtasks": [
-                "Give instructions to field hands.",
-                "Coordinate unload schedules.",
-                "Check on grain drying processes (if applicable)."
+                "Operate the hydraulic control levers",
+                "Ensure proper connections on nozzles"
             ]
         },
         {
-            "task": "Record daily harvesting activities and maintenance.",
+            "task": "Climbing on top of a grain silo",
             "subtasks": [
-                "Update crop records with current yield.",
-                "Note any equipment malfunctions and repairs.",
-                "Track fuel consumption and expenses."
+                "Use a ladder or aerial lift safely",
+                "Access the silo to check on grain levels"
             ]
         },
         {
-            "task": "Adapt to varying weather conditions during operations.",
+            "task": "Operating a grain dryer",
             "subtasks": [
-                "Modify harvesting techniques based on rain/sun.",
-                "Manage moisture levels for drying/granulation.",
-                "Plan ahead for unexpected weather changes."
+                "Load samples for moisture testing",
+                "Adjust temperature and airflow settings",
+                "Monitor drying progress and grain quality"
+            ]
+        },
+        {
+            "task": "Driving a grain cart",
+            "subtasks": [
+                "Attach the grain cart to the combine",
+                "Clear guide chutes for efficient flow",
+                "Operate the auger or conveyor",
+                "Transfer grain to the storage facility"
+            ]
+        },
+        {
+            "task": "Applying GPS guidance to field operations",
+            "subtasks": [
+                "Enter field boundaries into the navigation system",
+                "Follow pre-programmed paths to minimize overlap",
+                "Make real-time adjustments for efficiency"
+            ]
+        },
+        {
+            "task": "Interacting with IoT devices for smart farming",
+            "subtasks": [
+                "Connect to the network or mobile app",
+                "Review data feeds on yield, weather, soil moisture",
+                "Make informed decisions based on collected data"
+            ]
+        },
+        {
+            "task": "Checking for electrical issues in equipment",
+            "subtasks": [
+                "Inspect wiring harnesses and connections",
+                "Access under the machine for internal checks",
+                "Replace broken wires or faulty components"
+            ]
+        },
+        {
+            "task": "Manual irrigation using a center pivot",
+            "subtasks": [
+                "Align the pivot\u2019s starting position",
+                "Track the pivot\u2019s movement and adjust as needed",
+                "Check for leaks or irrigation uniformity"
+            ]
+        },
+        {
+            "task": "Using remote start technology on farming equipment",
+            "subtasks": [
+                "Input start command through app or dashboard",
+                "Confirm successful start after delay",
+                "Monitor equipment status post-start"
+            ]
+        },
+        {
+            "task": "Riding a horse-drawn plow",
+            "subtasks": [
+                "Secure the\u5de5horse harness",
+                "Guide the horse using reins",
+                "Monitor plowing depth and direction"
+            ]
+        },
+        {
+            "task": "Manual weeding using hand tools",
+            "subtasks": [
+                "Select appropriate tool for the type of weed",
+                "Hand pull or hoe weeds from rows",
+                "Tamp soil around plants to secure roots"
+            ]
+        },
+        {
+            "task": "Collecting harvest in a cornfield",
+            "subtasks": [
+                "Use a combine\u2019s pick-up header or",
+                "Cut standing corn stalks and direct them into the combine",
+                "Overcome any mechanical issues of the header"
+            ]
+        },
+        {
+            "task": "Checking on livestock in a barn",
+            "subtasks": [
+                "Enter and exit the barn safely",
+                "Inspect animals for signs of illness or distress",
+                "Feed and water the animals appropriately"
+            ]
+        },
+        {
+            "task": "Feeding chickens and collecting eggs",
+            "subtasks": [
+                "Open the chicken coop door",
+                "Distribute feed along the floor or in feeders",
+                "Collect eggs and check nest boxes",
+                "Clean the coop to maintain hygiene"
+            ]
+        },
+        {
+            "task": "Checking water levels in feeders and waterers",
+            "subtasks": [
+                "Position a watering can or hose",
+                "Refill dishes to prevent animals from going thirsty",
+                "Check for leaks or clogs affecting water flow"
+            ]
+        },
+        {
+            "task": "Milk cows using a milking parlor",
+            "subtasks": [
+                "Secure positioning of the cow in the stall",
+                "Clean teats and apply disinfectant",
+                "Connect milking machine teats with appropriate cups",
+                "Monitor milk flow and machine operation",
+                "Disinfect the machine and clean equipment after milking"
+            ]
+        },
+        {
+            "task": "Performing a feed ration calculation for pigs",
+            "subtasks": [
+                "Weigh the current feed supply",
+                "Estimate the number of pigs and their weights",
+                "Calculate required feed based on tables or formula",
+                "Adjust feeding schedule as needed"
+            ]
+        },
+        {
+            "task": "Inspecting a field for weeds during scouting",
+            "subtasks": [
+                "Walk or ride through the field in planned routes",
+                "Note the presence and spread of unwanted plants",
+                "Collect samples for identification or testing"
+            ]
+        },
+        {
+            "task": "Planting trees using a tractor-attached planter",
+            "subtasks": [
+                "Adjust the planter's depth and spacing settings",
+                "Ensure rows are straight and aligned",
+                "Load tree seedlings into the seed box",
+                "Oversee the operation to plant the trees"
+            ]
+        },
+        {
+            "task": "Operating a potato harvester",
+            "subtasks": [
+                "Drive the harvester through the field",
+                "Adjust for soil conditions and crop load",
+                "Check and manage the chain frequency"
+            ]
+        },
+        {
+            "task": "Testing the soil for nutrient content",
+            "subtasks": [
+                "Collect soil samples from various field locations",
+                "Use a soil probe or auger to obtain samples",
+                "Package the samples for laboratory analysis"
+            ]
+        },
+        {
+            "task": "Training a new farmhand in motor fungicide application",
+            "subtasks": [
+                "Explain the application process and safety measures",
+                "Demonstrate proper use of protective gear",
+                "Supervise the application and assess for errors",
+                "Provide feedback and corrective instructions"
+            ]
+        },
+        {
+            "task": "Feeding horses in a paddock",
+            "subtasks": [
+                "Deliver hay or grain to the designated areas",
+                "Secure food in a place accessible to horses",
+                "Clean up feed residues to prevent waste"
+            ]
+        },
+        {
+            "task": "Caulking barn doors to prevent draft",
+            "subtasks": [
+                "Access the area around the door frame",
+                "Apply caulk around the edges of the door",
+                "Press the caulk into place and smooth finish"
+            ]
+        },
+        {
+            "task": "Cleaning hydraulic oil filters",
+            "subtasks": [
+                "Locate the oil filter on the machine",
+                "Drain old oil into a collection container",
+                "Disconnect filters and insert new ones",
+                "Refill with filtered oil and recheck for leaks"
+            ]
+        },
+        {
+            "task": "Using a remote start for irrigation system",
+            "subtasks": [
+                "Access the irrigation control box",
+                "Initiate the start sequence through a button or digital interface",
+                "Monitor the start-up process and system activation"
+            ]
+        },
+        {
+            "task": "Applying a different rate of fertilizer in a spreader",
+            "subtasks": [
+                "Adjust the discharge speed or opening of the spreader",
+                "Confirm even distribution across the field"
+            ]
+        },
+        {
+            "task": "Applying seed preservative at the planter",
+            "subtasks": [
+                "Open the hopper and place the preservative",
+                "Monitor the mixing with seeds as they are delivered",
+                "Rinse the hopper when done"
+            ]
+        },
+        {
+            "task": "Connecting a sprayer to a tank truck",
+            "subtasks": [
+                "Ensure the correct nozzles are attached",
+                "Connect the fill hose to the sprayer\u2019s fill port",
+                "Transfer liquid from the truck to the sprayer tank",
+                "Secure connections to prevent spillage"
             ]
         }
     ]

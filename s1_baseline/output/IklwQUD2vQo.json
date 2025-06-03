@@ -5,33 +5,43 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Assist a goat during childbirth",
+            "task": "Assisting in the birth of baby goats during Easter.",
             "subtasks": [
-                "Prepare supplies for assisting birth (puppy pads, towels)",
-                "Monitor labor progress (checking for nose, contractions)",
-                "Ensure safe delivery space (keeping area clean)",
-                "Support mother during delivery (allowing natural process unless complications)",
-                "Care for newborns (wiping airways, positioning)",
-                "Facilitate first nursing (coaxing mother to nurse, assisting if needed)",
-                "Check nursing progress and overall health of mother and newborns"
+                "Observing active labor and not interfering unless necessary.",
+                "Preparing a clean area for birth, using towels and puppy pads.",
+                "Cleaning newborn goats' airways.",
+                "Ensuring proper latching and nursing during the first feeding.",
+                "Monitoring the mother's care and support for the newborns."
             ]
         },
         {
-            "task": "Feed and care for newborn goats",
+            "task": "Feeding goats at feeding time.",
             "subtasks": [
-                "Ensure post-birth nutrition (providing grain and milk replacer)",
-                "Monitor mother's milk expression (assuring sufficient milk supply)",
-                "Manage multiple offspring (soothing and keeping them separated if necessary)",
-                "Maintain cleanliness (cleaning areas where newborns feed)"
+                "Managing food distribution to the mother and newborns.",
+                "Ensuring all goats, including the new arrivals, have access to food."
             ]
         },
         {
-            "task": "Manage older goats during birthing assistance",
+            "task": "Checking on newborns post-feeding.",
             "subtasks": [
-                "Observe senior goats' assistance (Ruby helping during birth)",
-                "Ensure retired goats do not interfere (gently directing Ruby if needed)",
-                "Assess mother's and older goats' well-being (checking health and comfort)"
+                "Observing the newborn goats' condition and feeding.",
+                "Assisting with nursing if needed, such as using fingers to help latch."
             ]
+        },
+        {
+            "task": "Performing routine care during a family gathering.",
+            "subtasks": [
+                "Coaxing the mother to attend to her newborns despite being distracted by family events.",
+                "Maintaining care of the newborns while hosting guests."
+            ]
+        },
+        {
+            "task": "Each of these actions is a task. So starting with assisting in delivery, that's the primary MAINTASK. The subtasks would be the steps involved in helping the birth. Like observing for active labor, preparing a clean area, helping with positioning, cleaning the baby's airways. Cleaning the nose is a specific step. Then feeding time is another MAINTASK. That has subtasks of setting up food, making sure the babies are nursing, and possibly helping them if the mother isn\u2019t. Also, monitoring the mother's care for the babies. And then dealing with the family being there might be a MAINTASK of its own, but maybe it's part of just general caretaking? Like needing to balance helping the goats and being with family.",
+            "subtasks": []
+        },
+        {
+            "task": "But let me check if all of that makes sense. The transcript mentions \"clean spot to be delivered,\" so setting that up. Then, \"I'm going to wipe off the airways and put it up by her face\"\u2014that's a subtask of assisting the birth. Also, mentioning \"first feeding the first night\"\u2014so the next day, checking on them. So that's a MAINTASK of checking on the kids the next day. But overall, the main tasks are related to the goat birth and care. But is there any farming-related tasks besides animal care? Like maybe setting up feed or supplies? Hmm, the transcript mentions getting puppy pads and towels, which for the birthing area. Setting up those supplies is a task. Or maybe the family gathering is an event, but I think the core tasks here are animal farming-related.",
+            "subtasks": []
         }
     ]
 }

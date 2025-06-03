@@ -5,27 +5,66 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Reading and understanding a tractor manual.",
+            "task": "Tire setup and operation",
             "subtasks": [
-                "Checking engine speed to engage the PTO (1500 RPMs or less).",
-                "Determining proper tire direction based on machine usage (loader operations vs. directional arrows).",
-                "Retrieving correct tire setup instructions for different tractor series.",
-                "Fixing safety hazards by ensuring tires are correctly mounted with valve stems facing outward.",
-                "Properly greasing the lube shuttle for easier maintenance and increased machine longevity.",
-                "Adjusting ROPS (Roll Over Protection Structures) to the correct position for safety during transport and operation.",
-                "Closing the fuel shutoff valve when transporting a machine on a trailer.",
-                "Understanding correct loader bucket positions for leveling and scraping tasks (adjusting elevation in reverse and maintaining float).",
-                "Mastering rear wheel positioning (up to 8 different positions for better stability and control).",
-                "Removing material from piles by accessing the top first to prevent collapse."
+                "Check front tire rolling direction",
+                "Align front tires with directional arrows",
+                "Consider reversing tire lug direction for loader operations to increase tire life and traction",
+                "Properly install wheels with valve stems facing outward"
             ]
         },
         {
-            "task": "Addressing safety concerns and proper machine operation.",
+            "task": "Implement safety procedures when stuck in mud",
             "subtasks": [
-                "Ensuring correct tire direction for improved tire life and increased traction.",
-                "Tipping the machine back when stuck to avoid overturning.",
-                "Driving the machine in reverse to avoid damaging the bucket while leveling.",
-                "Removing material from the top of a pile to maintain control and prevent collapse."
+                "Never drive forward when stuck; instead, back the tractor out",
+                "Unhook towed implements if applicable",
+                "Remove mud from behind rear wheels; use boards or similar"
+            ]
+        },
+        {
+            "task": "Understand coolant service intervals",
+            "subtasks": [
+                "Extend service intervals to 6 years or 6,000 hours with annual coolant checks"
+            ]
+        },
+        {
+            "task": "Lubrication and maintenance",
+            "subtasks": [
+                "Regularly apply grease using the Rethink greasing system to prevent leaks and improve machine performance"
+            ]
+        },
+        {
+            "task": "Seatbelt and roll-over protection system (ROPS) usage",
+            "subtasks": [
+                "Remove seatbelt when ROPS is folded and not in use"
+            ]
+        },
+        {
+            "task": "Trailering procedures",
+            "subtasks": [
+                "Close fuel shutoff valve before transporting on a trailer",
+                "Position machine on trailer so hood or engine cover opens from rear"
+            ]
+        },
+        {
+            "task": "Loader operation techniques",
+            "subtasks": [
+                "Leveling in reverse: position bucket less than 40 degrees below level to prevent damage",
+                "Scrape forward: keep bucket slightly raised or in float position to prevent damage"
+            ]
+        },
+        {
+            "task": "Rim and tire adjustment",
+            "subtasks": [
+                "Re-position rear wheels (up to 8 positions) for maximum lateral stability (51-75 inches wide)",
+                "Use offset plate for front wheels, noting limitations when using the loader in wide position"
+            ]
+        },
+        {
+            "task": "Excavation techniques",
+            "subtasks": [
+                "For high piles, remove the top layer first before scooping material",
+                "Approach and enter piles with a level bucket."
             ]
         }
     ]

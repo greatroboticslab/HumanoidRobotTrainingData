@@ -5,33 +5,880 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "The task is not applicable due to the transcript being irrelevant.",
-            "subtasks": []
-        },
-        {
-            "task": "\"Given this transcript, please generate a list of physical tasks,\" but if the transcript is unrelated, then the answer would start with \"MAINTASK: The task is not applicable due to the transcript being irrelevant.\" followed by a subtask that states the reason.",
+            "task": "Inspect field for crop health",
             "subtasks": [
-                "\"MAINTASK: The task is not applicable due to the transcript being irrelevant. SUBTASK: The transcript provided contains no information related to farming, agriculture, or operating farming equipment.\" or similar. But since in this case, there actually is a transcript but it's not provided here (as per the original user interaction), I need to do that. However, in this current context where we can look back, the thought process might give clues. Wait, no, the user started this way: \"Given this transcript,\" which was apparently part of the original Interaction.",
-                ""
+                "Walk through the rows of crops in the field",
+                "Check for signs of pests or disease",
+                "Note any unusually affected plants"
             ]
         },
         {
-            "task": "The task is not applicable due to the transcript being irrelevant.",
+            "task": "Calibrate farm machinery",
             "subtasks": [
-                "The transcript provided contains no information related to farming, agriculture, or operating farming equipment.",
-                "Since in the Final Answer section, I need to answer based on the provided information here (which is missing the transcript), which is why I jump to the conclusion that the transcript given is irrelevant (assuming it's not present here) and the correct answer is to flag the inapplicability of the task. Therefore, the answer is a single MAINTASK followed by a SUBTASK giving the reason."
+                "Enter data into precision agriculture software",
+                "Adjust the settings on the farm equipment",
+                "Test the machinery to ensure accurate application"
             ]
         },
         {
-            "task": "The task is not applicable due to the transcript being irrelevant.",
+            "task": "Install irrigation system",
             "subtasks": [
-                "The transcript provided contains no information related to farming, agriculture, or operating farming equipment."
+                "Lay out pipes and hoses for water distribution",
+                "Connect components and check for leaks",
+                "Program irrigator timing according to crop needs"
             ]
         },
         {
-            "task": "The task is not applicable due to the transcript being irrelevant.**",
+            "task": "Apply fertilizers or pesticides",
             "subtasks": [
-                "The transcript contains no information related to farming, agriculture, or operating farming equipment.**"
+                "Load the equipment with the appropriate chemicals",
+                "Operate the sprayer or spreader to apply the substances",
+                "Monitor coverage and adjust application as needed"
+            ]
+        },
+        {
+            "task": "Hand-weed crops",
+            "subtasks": [
+                "Kneel or squat to reach between plants",
+                "Remove weeds by hand, ensuring not to damage crops",
+                "Disposed of weeds properly"
+            ]
+        },
+        {
+            "task": "Harvest ripe produce",
+            "subtasks": [
+                "Bend over or crouch to reach low-hanging fruits",
+                "Clip or cut the produce from the plants",
+                "Sort and place the harvested items into containers"
+            ]
+        },
+        {
+            "task": "Load onto transportation vehicle",
+            "subtasks": [
+                "Bend down and lift the produce into the vehicle",
+                "Secure the load to prevent shifting during transport"
+            ]
+        },
+        {
+            "task": "Prepare soil for planting",
+            "subtasks": [
+                "Tiller the soil to aerate and mix in organic matter",
+                "Spray or spread soil amendments as required",
+                "Plant seeds at the appropriate depth and spacing"
+            ]
+        },
+        {
+            "task": "Maintain livestock facility",
+            "subtasks": [
+                "Check the condition of barn or shed structures",
+                "Refill feed and water troughs",
+                "Examine animals for signs of illness or injury"
+            ]
+        },
+        {
+            "task": "Sow seeds",
+            "subtasks": [
+                "Mix seeds with a carrier or fertilizer",
+                "Drill the seeds into the ground using a planter",
+                "Cover the planted area with mulch or straw"
+            ]
+        },
+        {
+            "task": "Drive tractors and other farm vehicles",
+            "subtasks": [
+                "Board the tractor seat, secure straps",
+                "Operate the steering, gears, and hydraulics",
+                "Navigate the fields safely and efficiently",
+                "Maintain speed appropriate for the task"
+            ]
+        },
+        {
+            "task": "Perform routine equipment maintenance",
+            "subtasks": [
+                "Inspect machines for wear or damage",
+                "Lubricate moving parts as needed",
+                "Replace any missing parts or blades"
+            ]
+        },
+        {
+            "task": "Transport livestock to market",
+            "subtasks": [
+                "Handle the animals to load them onto the transport vehicle",
+                "Secure the animals inside to prevent escape",
+                "Monitor the health of the animals during transit"
+            ]
+        },
+        {
+            "task": "Process meat products",
+            "subtasks": [
+                "Slaughter the animals in a humane manner",
+                "Skin, eviscerate, and age the carcasses",
+                "Cut and package the meat for sale"
+            ]
+        },
+        {
+            "task": "Construct or repair fencing",
+            "subtasks": [
+                "Measure the area required for fencing",
+                "Assemble the fence posts and wires",
+                "Drive stakes into the ground securely",
+                "String the wires to the correct tension"
+            ]
+        },
+        {
+            "task": "Operate livestock handling equipment",
+            "subtasks": [
+                "Use a goatherd or similar tool to move animals",
+                "Keep the animals contained during movement",
+                "Ensure smooth and safe passage through gates"
+            ]
+        },
+        {
+            "task": "Collect eggs",
+            "subtasks": [
+                "Open the coop or chicken run",
+                "Gather eggs from the nesting boxes",
+                "Clean the eggs as needed and place them in a basket"
+            ]
+        },
+        {
+            "task": "Feed animals",
+            "subtasks": [
+                "Mix and measure out the feed rations",
+                "Distribute the feed evenly to the animals",
+                "Refill water sources daily"
+            ]
+        },
+        {
+            "task": "Mow grass or hayfields",
+            "subtasks": [
+                "Position the ride mower or mower-conditioner",
+                "Start the engine and set the cutting height",
+                "Navigate the rows, maintaining a straight path",
+                "Adjust the swath width and repeat as necessary"
+            ]
+        },
+        {
+            "task": "Use a cultivator",
+            "subtasks": [
+                "Attach the cultivator implements to the tractor",
+                "Plow the rows to disrupt weed growth",
+                "Level the soil after cultivation"
+            ]
+        },
+        {
+            "task": "Deliver crops to market",
+            "subtasks": [
+                "Pre-pack or arrange the produce in displays",
+                "Price and label items for sale",
+                "Communicate with customers or wait staff"
+            ]
+        },
+        {
+            "task": "Apply plastic mulch",
+            "subtasks": [
+                "Measure and cut the mulch film to the field dimensions",
+                "Pull the mulch strips through the field using equipment",
+                "Roll out the mulch and secure the edges"
+            ]
+        },
+        {
+            "task": "Trim trees or brush",
+            "subtasks": [
+                "Saw or shear overgrown branches",
+                "Clear the area around the structures or planting beds"
+            ]
+        },
+        {
+            "task": "Dig irrigation ditches",
+            "subtasks": [
+                "Mark the course of the water channel",
+                "Use a shovel or plow to dig the ditch",
+                "Straighten the bottom and sides of the ditch"
+            ]
+        },
+        {
+            "task": "Perform crop picking",
+            "subtasks": [
+                "Use hand tools or specialized picking machinery",
+                "Collect the ripe crop from the field",
+                "Organize the collected produce for further processing"
+            ]
+        },
+        {
+            "task": "Set up gates or barriers",
+            "subtasks": [
+                "Measure and mark the placement for the gates",
+                "Fasten the gate posts securely into the ground",
+                "Attach horizontal bars and hinges to create the gate"
+            ]
+        },
+        {
+            "task": "Measure soil moisture content",
+            "subtasks": [
+                "Use a moisture meter to test various spots in the field",
+                "Record the readings for future reference or adjustment",
+                "Compare the data to the crop\u2019s water requirements"
+            ]
+        },
+        {
+            "task": "Conduct a land survey",
+            "subtasks": [
+                "Walk the perimeter of the property with measuring tools",
+                "Note boundaries, existing structures, and topography",
+                "Use a GPS or surveying app to document the layout"
+            ]
+        },
+        {
+            "task": "Attend a farm conference",
+            "subtasks": [
+                "Park the vehicle in a suitable parking area",
+                "Enter the conference venue and find a seat",
+                "Take notes during the presentations or workshops",
+                "Network with other farmers or industry professionals"
+            ]
+        },
+        {
+            "task": "Plan crop rotation",
+            "subtasks": [
+                "Review historical yield data for each field",
+                "Consider pest and disease pressures, soil health",
+                "Draft a rotation schedule for the upcoming season"
+            ]
+        },
+        {
+            "task": "Apply growth regulators",
+            "subtasks": [
+                "Mix the chemical solution according to labels",
+                "Spray the plants with the regulator, targeting the correct stages",
+                "Evaluate the treated area for effectiveness"
+            ]
+        },
+        {
+            "task": "Install windbreaks",
+            "subtasks": [
+                "Determine the layout and number of trees needed",
+                "Prepare the ground by tilling and adding amendments",
+                "Plant the selected windbreak species",
+                "Water and protect the seedlings until established"
+            ]
+        },
+        {
+            "task": "Install shade structures",
+            "subtasks": [
+                "Set up the piping and frame for the shade house",
+                "Cover with appropriate shade cloth or netting",
+                "Secure the edges and anchors",
+                "Check for stability in windy conditions"
+            ]
+        },
+        {
+            "task": "Trim grapevines",
+            "subtasks": [
+                "Use loppers or shears to remove excessive growth",
+                "Maintain the desired shape for optimal sun exposure",
+                "Prune dead or diseased branches",
+                "Stump the remaining canes before new growth"
+            ]
+        },
+        {
+            "task": "Conduct a soil test",
+            "subtasks": [
+                "Collect soil samples from different areas of the field",
+                "Send samples to a lab for nutrient analysis",
+                "Interpret the results and plan amendments"
+            ]
+        },
+        {
+            "task": "Manage farm labor",
+            "subtasks": [
+                "Assign tasks to workers based on their expertise",
+                "Schedule shifts and breaks to comply with regulations",
+                "Communicate deadlines and expectations clearly"
+            ]
+        },
+        {
+            "task": "Repair farm equipment",
+            "subtasks": [
+                "Identify the source of the malfunction",
+                "Gather replacement parts from the storage",
+                "Disassemble the damaged components and reassemble correctly"
+            ]
+        },
+        {
+            "task": "Conduct yearly automotive checkup",
+            "subtasks": [
+                "Inspect the vehicle\u2019s exterior for damage",
+                "Test all mechanical systems, including brakes and fluids",
+                "Change the oil and filter as necessary",
+                "Check tire pressure and rotate tires if needed"
+            ]
+        },
+        {
+            "task": "Prepare equipment for winter storage",
+            "subtasks": [
+                "Clean and lubricate the machinery",
+                "Protect mechanical parts against rust and cold with appropriate coatings",
+                "Secure implements for the season to prevent damage"
+            ]
+        },
+        {
+            "task": "Monitor livestock health",
+            "subtasks": [
+                "Keep a daily log of feed intake and waste production",
+                "Conduct temperature checks or look for specific symptoms",
+                "Adjust feed or medication as needed based on health status"
+            ]
+        },
+        {
+            "task": "Milk cows",
+            "subtasks": [
+                "Clean the udder and teats thoroughly",
+                "Attach the milking machine and let down the milk",
+                "Collect the milk in a sanitized container",
+                "Check for signs of mastitis or other issues"
+            ]
+        },
+        {
+            "task": "Prepare silage",
+            "subtasks": [
+                "Harvest the crop when it reaches the appropriate moisture level",
+                "Chop the crop into small pieces using a chopper",
+                "Pack the material tightly into silo structures",
+                "Cover the top to minimize air exposure"
+            ]
+        },
+        {
+            "task": "Handle equipment breakdown",
+            "subtasks": [
+                "Communicate the problem to the appropriate staff member",
+                "Remove the malfunctioning equipment from the field if safe",
+                "Summon a repair service or call the manufacturer's support"
+            ]
+        },
+        {
+            "task": "Manure spread",
+            "subtasks": [
+                "Attach the manure spreader to the tractor",
+                "Apply the manure to the fields, ensuring even distribution",
+                "Avoid over-application in any one area to prevent runoff"
+            ]
+        },
+        {
+            "task": "Clean chicken coop",
+            "subtasks": [
+                "Remove manure and soiled bedding from the coop",
+                "Disinfect the interior surfaces with appropriate solutions",
+                "Re-fill the feed and water stations"
+            ]
+        },
+        {
+            "task": "Apply fertilizer granules",
+            "subtasks": [
+                "Broadcast the fertilizer over the field using a spreader",
+                "Adjust the machine\u2019s width and speed to cover the area uniformly",
+                "Overlap and check for skips or dense areas"
+            ]
+        },
+        {
+            "task": "Conduct a market analysis",
+            "subtasks": [
+                "Research current prices and demand for different crops",
+                "Analyze competitors\u2019 offerings and pricing strategies",
+                "Update business plans with new financial projections"
+            ]
+        },
+        {
+            "task": "Implement drip irrigation",
+            "subtasks": [
+                "Install the drip lines through the field",
+                "Connect to the main water supply and pressure regulator",
+                "Test the system for leaks and ensure proper flow rates"
+            ]
+        },
+        {
+            "task": "Compost organic materials",
+            "subtasks": [
+                "Turn the compost pile regularly to aerate the mixture",
+                "Check the moisture and carbon-to-nitrogen ratio",
+                "Harvest the finished compost and use it in the gardens or fields"
+            ]
+        },
+        {
+            "task": "Baled hay unloading",
+            "subtasks": [
+                "Grapple the bale with a forklift and deposit onto the ground",
+                "Use a dolly or special equipment to move the bale into the storage",
+                "Stagger the bales to allow airflow and prevent moisture buildup"
+            ]
+        },
+        {
+            "task": "Administer medical treatments to livestock",
+            "subtasks": [
+                "Inject vaccinations or administer antibiotics",
+                "Apply dust mites or other external parasiticides",
+                "Take careful notes on treatments given and revaccinate as necessary"
+            ]
+        },
+        {
+            "task": "Manage rotational grazing",
+            "subtasks": [
+                "Divide the pasture into paddocks using temporary fencing",
+                "Rotate the livestock to fresh grazing areas regularly",
+                "Monitor the rate of grass consumption and adjust grazing times"
+            ]
+        },
+        {
+            "task": "Apply pesticides",
+            "subtasks": [
+                "Spray the fields with a backpack sprayer handheld",
+                "Wear the appropriate personal protective equipment",
+                "Stay downwind and walk perpendicular to the wind direction",
+                "Monitor coverage and adjust the nozzle position as needed"
+            ]
+        },
+        {
+            "task": "Operate a combine harvester",
+            "subtasks": [
+                "Enter the combine and adjust settings for the type of crop",
+                "Harvest the field by driving the combine through the rows",
+                "Separate the grain from the chaff and store it safely"
+            ]
+        },
+        {
+            "task": "Host a farmers' market",
+            "subtasks": [
+                "Arrange tables and displays for the produce",
+                "Prepare promotional materials and marketing signs",
+                "Greet customers and take their orders",
+                "Process transactions and pack purchases into bags"
+            ]
+        },
+        {
+            "task": "Conduct soil preparation for planting",
+            "subtasks": [
+                "Plow the field to break up the soil and remove debris",
+                "Rotary till the soil to incorporate amendments and manage residue",
+                "Create furrows or ridges as needed for planting orientation"
+            ]
+        },
+        {
+            "task": "Operate a sprayer",
+            "subtasks": [
+                "Fill the sprayer with the desired chemical solution",
+                "Calibrate the nozzle tips for the correct spray pattern",
+                "Operate the sprayer while moving through the field, maintaining the specified speed",
+                "Apply the spray evenly without overlapping too much or too little"
+            ]
+        },
+        {
+            "task": "Drive a cherry picker",
+            "subtasks": [
+                "Ascend to the desired height on the cherry picker",
+                "Collect the ripe fruits from high branches",
+                "Ensure safety by using the proper harness and positioning"
+            ]
+        },
+        {
+            "task": "Apply seed coatings",
+            "subtasks": [
+                "Mix the seed with a fungicide or other protectants",
+                "Use a seed meter or planter to apply the treated seed",
+                "Monitor the application rate and ensure even distribution"
+            ]
+        },
+        {
+            "task": "Manage crop drying",
+            "subtasks": [
+                "Use a dehydrator or hang the produce in a well-ventilated area",
+                "Monitor the moisture content and timing for removal",
+                "Store the dried product properly to avoid contamination"
+            ]
+        },
+        {
+            "task": "Plant trees or shrubs",
+            "subtasks": [
+                "Dig the appropriate hole for the root ball",
+                "Carefully lower the plant into the hole, ensuring it is plumb",
+                "Backfill with soil mixed with amendments",
+                "Water thoroughly and mulch around the base"
+            ]
+        },
+        {
+            "task": "Conduct a soil physical test",
+            "subtasks": [
+                "Push a probe into the ground to measure bulk density",
+                "Take notes on the ease of penetration for future tillage",
+                "Compare to standard tests or resources"
+            ]
+        },
+        {
+            "task": "Stock feed stores",
+            "subtasks": [
+                "Arrange the feed in the bins or silos",
+                "Check expiration dates and rotate stock as needed",
+                "Inventory weekly to avoid stockouts"
+            ]
+        },
+        {
+            "task": "Use a no-till drill",
+            "subtasks": [
+                "Assemble the drill and secure the appropriate seeds",
+                "Drive the implements across the field, planting at the correct depth",
+                "Overlap rows slightly to ensure coverage and minimal gaps"
+            ]
+        },
+        {
+            "task": "Prepare horse pasture",
+            "subtasks": [
+                "Fertilize and lime the pasture areas",
+                "Plant or overseed with grasses suitable for horses",
+                "Mow and maintain the pasture regularly"
+            ]
+        },
+        {
+            "task": "Write a business plan",
+            "subtasks": [
+                "Outline the goals and strategies for the upcoming year",
+                "Include financial projections, marketing plans, and operations",
+                "Get input from advisors and finalise the document"
+            ]
+        },
+        {
+            "task": "Conduct a soil test for pH",
+            "subtasks": [
+                "Collect a composite sample from various parts of the field",
+                "Send the sample to a testing lab",
+                "Interpret the pH result and plan lime applications if necessary"
+            ]
+        },
+        {
+            "task": "Harvest haylage",
+            "subtasks": [
+                "Cut the hay at the proper stage and immediately wilt it",
+                "Pack into a silo or tube for anaerobic fermentation",
+                "Seal the silo to prevent oxygen from entering"
+            ]
+        },
+        {
+            "task": "Prepare seedbeds",
+            "subtasks": [
+                "Tidy the land, tilling if necessary, to make it ready for sowing",
+                "Arrange seed in rows or blocks according to the crop type",
+                "Firm the seedbed by raking or rolling"
+            ]
+        },
+        {
+            "task": "Process meat for aging",
+            "subtasks": [
+                "Hang carcasses in a temperature-controlled cooler",
+                "Check daily for optimal aging conditions (humidity and temperature)",
+                "Condition the meat by allowing it to rest before cutting"
+            ]
+        },
+        {
+            "task": "Apply fertilizer solution",
+            "subtasks": [
+                "Mix the fertilizer concentrate with water according to PPM",
+                "Use a boom sprayer to evenly distribute the solution over the crop",
+                "Maintain precise application rates without over-spraying"
+            ]
+        },
+        {
+            "task": "Install drip irrigation pipes",
+            "subtasks": [
+                "Lay out the drip irrigation tubing through the rows",
+                "Connect the pipes to the main water supply",
+                "Secure the connections with appropriate clamps or connectors"
+            ]
+        },
+        {
+            "task": "Check automatic equipment",
+            "subtasks": [
+                "Test the irrigation system during the off-peak hour to check timing",
+                "Inspect automated gates or barriers for proper operation",
+                "Ensure remote controls function correctly"
+            ]
+        },
+        {
+            "task": "Conduct livestock performance monitoring",
+            "subtasks": [
+                "Weigh individual animals or groups at regular intervals",
+                "Collect data on growth rates, feed efficiency, etc.",
+                "Compare to breed standards and adjust feeding as needed"
+            ]
+        },
+        {
+            "task": "Ensure proper grounding for equipment",
+            "subtasks": [
+                "Identify electrical components that need grounding",
+                "Check the condition of grounding rods and conductors",
+                "Test the efficacy with a ground tester and re-ground if necessary"
+            ]
+        },
+        {
+            "task": "Manage bees",
+            "subtasks": [
+                "Inspect beehives for swarm activity or illness",
+                "Feed or re-queen if needed",
+                "Take protective measures when handling the hives"
+            ]
+        },
+        {
+            "task": "Glue tree tags",
+            "subtasks": [
+                "Affix tags to the trunks of new plantings for identification",
+                "Use a deadbolt glue that sets quickly",
+                "Space tags far enough to not interfere with trunk growth"
+            ]
+        },
+        {
+            "task": "Calculate crop yield",
+            "subtasks": [
+                "Measure the area of a representative sample",
+                "Assess the number of harvestable units per unit area",
+                "Multiply to estimate total production"
+            ]
+        },
+        {
+            "task": "Administer veterinarian care",
+            "subtasks": [
+                "Collect a sample from the animal for diagnostic testing",
+                "Discuss treatment options with a veterinarian",
+                "Administer medications after approval, if necessary"
+            ]
+        },
+        {
+            "task": "Plan irrigation schedules",
+            "subtasks": [
+                "Consider soil type, temperature, and evapotranspiration rates",
+                "Schedule irrigations based on crop development stages",
+                "Log the timing and volume of each event for monitoring"
+            ]
+        },
+        {
+            "task": "Plant hedge rows",
+            "subtasks": [
+                "Select native species for windbreak or erosion control",
+                "Prepare the planting beds, adding organic matter if needed",
+                "Space plants properly for mature size and prune for structure"
+            ]
+        },
+        {
+            "task": "Pre-harvest inspection",
+            "subtasks": [
+                "Walk the fields looking for signs of premature ripening or disease",
+                "Sample-crop and test for maturity or contamination",
+                "Organize harvesting plans based on the findings"
+            ]
+        },
+        {
+            "task": "Conduct a land appraisal",
+            "subtasks": [
+                "Gather data on current land values, size, and boundaries",
+                "Use online resources or consult with a real estate agent",
+                "Determine fair market value for potential purchase or sale"
+            ]
+        },
+        {
+            "task": "Service farm equipment",
+            "subtasks": [
+                "Inspect belts, chains, and other moving parts for wear",
+                "Grease or replace hydraulic seals",
+                "Check the air and oil filters and change them if necessary"
+            ]
+        },
+        {
+            "task": "Mix pesticide concentrate",
+            "subtasks": [
+                "Weigh or measure the active ingredients according to label directions",
+                "Dilute the concentrate in water using a measuring device",
+                "Pour the mixture into a spray tank, label the container"
+            ]
+        },
+        {
+            "task": "Implement crop protection",
+            "subtasks": [
+                "Apply herbicides, insecticides, or fungicides as needed",
+                "Evaluate the effect of the application and adjust treatments if necessary",
+                "Document application dates and rates for record-keeping"
+            ]
+        },
+        {
+            "task": "Secure livestock from wildlife",
+            "subtasks": [
+                "Erect or reinforce fencing near critical areas",
+                "Use predator deterrents, such as scarecrows or motion sensors",
+                "Conduct regular inspections to monitor effectiveness"
+            ]
+        },
+        {
+            "task": "Prune orchard trees",
+            "subtasks": [
+                "Remove dead or crossing branches",
+                "Thin the fruit to improve yield and quality",
+                "Sharpen pruning shears before starting",
+                "Apply a fungicide or dormant oil spray after pruning"
+            ]
+        },
+        {
+            "task": "Apply straw bale houses",
+            "subtasks": [
+                "Position the straw bales close together with minimal gaps",
+                "Use wire mesh support around the bales for a stable structure",
+                "Cover the exterior with siding or paint for durability"
+            ]
+        },
+        {
+            "task": "Conduct phenological observations",
+            "subtasks": [
+                "Track the development stages of the crops (e.g., bud break, flowering)",
+                "Adjust management practices as the crop progresses",
+                "Share observations with extension agents or record in a journal"
+            ]
+        },
+        {
+            "task": "Inspect tool functionality",
+            "subtasks": [
+                "Test shovels, rakes, and other manual tools for sharpness or needing replacement",
+                "Oil and store tools properly to extend their life",
+                "Replace any damaged or missing components"
+            ]
+        },
+        {
+            "task": "Plan storage solutions",
+            "subtasks": [
+                "Evaluate the capacity and durability of existing storage structures",
+                "Design or source new storage units based on future needs",
+                "Schedule construction or ordering for the next planting season"
+            ]
+        },
+        {
+            "task": "Apply cover crop seed",
+            "subtasks": [
+                "Mix cover crop species with fertilizer if necessary",
+                "Distribute the seed evenly over the surface of the field",
+                "Set the cultipacker to press the seed into the soil"
+            ]
+        },
+        {
+            "task": "Manage pasture weeds",
+            "subtasks": [
+                "Identify non-native or problematic plants",
+                "Choose the appropriate method for control (mowing, herbicide)",
+                "Apply treatment appropriately and monitor outcomes"
+            ]
+        },
+        {
+            "task": "Clean processing equipment",
+            "subtasks": [
+                "Disassemble machinery after use to remove debris",
+                "Rinse with water or sanitizing solution",
+                "Lubricate moving parts and store in a dry place"
+            ]
+        },
+        {
+            "task": "Conduct a safety check",
+            "subtasks": [
+                "Inspect PPE (\u4e2a\u4eba\u9632\u62a4\u88c5\u5907) for wear or tear",
+                "Test emergency stop buttons on equipment",
+                "Review OSHA compliance and facility safety"
+            ]
+        },
+        {
+            "task": "Prepare and apply manure compost",
+            "subtasks": [
+                "Mix well-aged compost with soil amendments",
+                "Broadcast or band apply the compost to the growing area",
+                "Confirm no hot spots or over-concentrations"
+            ]
+        },
+        {
+            "task": "Organize farm records",
+            "subtasks": [
+                "Categorize and file paperwork related to production, finances, and permits",
+                "Input data into a computer or spreadsheet system",
+                "Back up data regularly to prevent loss"
+            ]
+        },
+        {
+            "task": "Apply bird netting",
+            "subtasks": [
+                "Install the netting over crops to prevent pecking",
+                "Attach to existing posts or replace damaged supports",
+                "Tack or staple the edges securely to the ground"
+            ]
+        },
+        {
+            "task": "Conduct surveys for pest infestations",
+            "subtasks": [
+                "Check traps or visual inspections for pest activity",
+                "Take samples to a lab for identification and population assessment",
+                "Plan control measures based on survey results"
+            ]
+        },
+        {
+            "task": "Plan and implement a rotational grazing system",
+            "subtasks": [
+                "Divide the pasture into paddocks with appropriate fencing",
+                "Create a schedule for moving livestock among the different areas",
+                "Monitor animal behavior and make adjustments as needed"
+            ]
+        },
+        {
+            "task": "Harvest greenhouse crops",
+            "subtasks": [
+                "Pick the ripe produce from the indoor plants",
+                "Sort and clean the harvested items",
+                "Deliver to storage or market promptly"
+            ]
+        },
+        {
+            "task": "Repair livestc\u00edp handling gates",
+            "subtasks": [
+                "Test the gate hinges and latches for strength",
+                "Repair any rusted areas or broken parts",
+                "Test the gate\u2019s operation in both open and closed positions"
+            ]
+        },
+        {
+            "task": "Plan irrigation schedules",
+            "subtasks": [
+                "Schedule regular deep soak irrigation for trees and established crops",
+                "Spaced shallower irrigations for seedlings and annuals",
+                "Adapt based on weather forecasts and soil moisture"
+            ]
+        },
+        {
+            "task": "Conduct yield monitoring",
+            "subtasks": [
+                "Use GPS and yield monitor on the combine during harvest",
+                "Record and adjust inputs and irrigation according to yield data",
+                "Analyze results quarterly to make informed decisions.",
+                "ALL MAINTASK AND SUBTASKS HAVE BEEN COMPLETED.",
+                "1px solid #000; border-top:1px solid #000;} .uneqa-finalanswer span{font-family:'Courier New', Courier, monospace;} .uneqa-finalanswer p{padding:5px 10px; margin:0;} .uneqa-finalanswer{background:#FAFAFA; outline:1px dotted #aaa;} MAINTASK: Inspect field for crop health SUBTASK: Walk through the rows of crops in the field SUBTASK: Check for signs of pests or disease SUBTASK: Note any unusually affected plants MAINTASK: Calibrate farm machinery SUBTASK: Enter data into precision agriculture software SUBTASK: Adjust the settings on the farm equipment SUBTASK: Test the machinery to ensure accurate application MAINTASK: Install irrigation system SUBTASK: Lay out pipes and hoses for water distribution SUBTASK: Connect components and check for leaks SUBTASK: Program irrigator timing according to crop needs MAINTASK: Apply fertilizers or pesticides SUBTASK: Load the equipment with the appropriate chemicals SUBTASK: Operate the sprayer or spreader to apply the substances SUBTASK: Monitor coverage and adjust application as needed MAINTASK: Hand-weed crops SUBTASK: Kneel or squat to reach between plants SUBTASK: Remove weeds by hand, ensuring not to damage crops SUBTASK: Disposed of weeds properly MAINTASK: Harvest ripe produce SUBTASK: Bend over or crouch to reach low-hanging fruits SUBTASK: Clip or cut the produce from the plants SUBTASK: Sort and place the harvested items into containers MAINTASK: Load onto transportation vehicle SUBTASK: Bend down and lift the produce into the vehicle SUBTASK: Secure the load to prevent shifting during transport MAINTASK: Prepare soil for planting SUBTASK: Tiller the soil to aerate and mix in organic matter SUBTASK: Spray or spread soil amendments as required SUBTASK: Plant seeds at the appropriate depth and spacing MAINTASK: Maintain livestock facility SUBTASK: Check the condition of barn or shed structures SUBTASK: Refill feed and water troughs SUBTASK: Examine animals for signs of illness or injury MAINTASK: Sow seeds SUBTASK: Mix seeds with a carrier or fertilizer SUBTASK: Drill the seeds into the ground using a planter SUBTASK: Cover the planted area with mulch or straw MAINTASK: Drive tractors and other farm vehicles SUBTASK: Board the tractor seat, secure straps SUBTASK: Operate the steering, gears, and hydraulics SUBTASK: Navigate the fields safely and efficiently SUBTASK: Maintain speed appropriate for the task MAINTASK: Perform routine equipment maintenance SUBTASK: Inspect machines for wear or damage SUBTASK: Lubricate moving parts as needed SUBTASK: Replace any missing parts or blades MAINTASK: Transport livestock to market SUBTASK: Handle the animals to load them onto the transport vehicle SUBTASK: Secure the animals inside to prevent escape SUBTASK: Monitor the health of the animals during transit MAINTASK: Process meat products SUBTASK: Slaughter the animals in a humane manner SUBTASK: Skin, eviscerate, and age the carcasses SUBTASK: Cut and package the meat for sale MAINTASK: Construct or repair fencing SUBTASK: Measure the area required for fencing SUBTASK: Assemble the fence posts and wires SUBTASK: Drive stakes into the ground securely SUBTASK: String the wires to the correct tension MAINTASK: Operate livestock handling equipment SUBTASK: Use a goatherd or similar tool to move animals SUBTASK: Keep the animals contained during movement SUBTASK: Ensure smooth and safe passage through gates MAINTASK: Collect eggs SUBTASK: Open the coop or chicken run SUBTASK: Gather eggs from the nesting boxes SUBTASK: Clean the eggs as needed and place them in a basket MAINTASK: Feed animals SUBTASK: Mix and measure out the feed rations SUBTASK: Distribute the feed evenly to the animals SUBTASK: Refill water sources daily MAINTASK: Mow grass or hayfields SUBTASK: Position the ride mower or mower-conditioner SUBTASK: Start the engine and set the cutting height SUBTASK: Navigate the rows, maintaining a straight path SUBTASK: Adjust the swath width and repeat as necessary MAINTASK: Use a cultivator SUBTASK: Attach the cultivator implements to the tractor SUBTASK: Plow the rows to disrupt weed growth SUBTASK: Level the soil after cultivation MAINTASK: Deliver crops to market SUBTASK: Pre-pack or arrange the produce in displays SUBTASK: Price and label items for sale SUBTASK: Communicate with customers or wait staff MAINTASK: Apply plastic mulch SUBTASK: Measure and cut the mulch film to the field dimensions SUBTASK: Pull the mulch strips through the field using equipment SUBTASK: Roll out the mulch and secure the edges MAINTASK: Trim trees or brush SUBTASK: Saw or shear overgrown branches SUBTASK: Clear the area around the structures or planting beds MAINTASK: Dig irrigation ditches SUBTASK: Mark the course of the water channel SUBTASK: Use a shovel or plow to dig the ditch SUBTASK: Straighten the bottom and sides of the ditch MAINTASK: Perform crop picking SUBTASK: Use hand tools or specialized picking machinery SUBTASK: Collect the ripe crop from the field SUBTASK: Organize the collected produce for further processing MAINTASK: Set up gates or barriers SUBTASK: Measure and mark the placement for the gates SUBTASK: Fasten the gate posts securely into the ground SUBTASK: Attach horizontal bars and hinges to create the gate MAINTASK: Measure soil moisture content SUBTASK: Use a moisture meter to test various spots in the field SUBTASK: Record the readings for future reference or adjustment SUBTASK: Compare the data to the crop\u2019s water requirements MAINTASK: Conduct a land survey SUBTASK: Walk the perimeter of the property with measuring tools SUBTASK: Note boundaries, existing structures, and topography SUBTASK: Use a GPS or surveying app to document the layout MAINTASK: Attend a farm conference SUBTASK: Park the vehicle in a suitable parking area SUBTASK: Enter the conference venue and find a seat SUBTASK: Take notes during the presentations or workshops SUBTASK: Network with other farmers or industry professionals MAINTASK: Plan crop rotation SUBTASK: Review historical yield data for each field SUBTASK: Consider pest and disease pressures, soil health SUBTASK: Draft a rotation schedule for the upcoming season MAINTASK: Apply growth regulators SUBTASK: Mix the chemical solution according to labels SUBTASK: Spray the plants with the regulator, targeting the correct stages SUBTASK: Evaluate the treated area for effectiveness MAINTASK: Install windbreaks SUBTASK: Determine the layout and number of trees needed SUBTASK: Prepare the ground by tilling and adding amendments SUBTASK: Plant the selected windbreak species SUBTASK: Water and protect the seedlings until established MAINTASK: Install shade structures SUBTASK: Set up the piping and frame for the shade house SUBTASK: Cover with appropriate shade cloth or netting SUBTASK: Secure the edges and anchors SUBTASK: Check for stability in windy conditions MAINTASK: Trim grapevines SUBTASK: Use loppers or shears to remove excessive growth SUBTASK: Maintain the desired shape for optimal sun exposure SUBTASK: Prune dead or diseased branches SUBTASK: Stump the remaining canes before new growth MAINTASK: Conduct a soil test SUBTASK: Collect soil samples from different areas of the field SUBTASK: Send samples to a lab for nutrient analysis SUBTASK: Interpret the results and plan amendments MAINTASK: Manage farm labor SUBTASK: Assign tasks to workers based on their expertise SUBTASK: Schedule shifts and breaks to comply with regulations SUBTASK: Communicate deadlines and expectations clearly MAINTASK: Repair farm equipment SUBTASK: Identify the source of the malfunction SUBTASK: Gather replacement parts from the storage SUBTASK: Disassemble the damaged components and reassemble correctly MAINTASK: Conduct yearly automotive checkup SUBTASK: Inspect the vehicle\u2019s exterior for damage SUBTASK: Test all mechanical systems, including brakes and fluids SUBTASK: Change the oil and filter as necessary SUBTASK: Check tire pressure and rotate tires if needed MAINTASK: Prepare equipment for winter storage SUBTASK: Clean and lubricate the machinery SUBTASK: Protect mechanical parts against rust and cold with appropriate coatings SUBTASK: Secure implements for the season to prevent damage MAINTASK: Monitor livestock health SUBTASK: Keep a daily log of feed intake and waste production SUBTASK: Conduct temperature checks or look for specific symptoms SUBTASK: Adjust feed or medication as needed based on health status MAINTASK: Milk cows SUBTASK: Clean the udder and teats thoroughly SUBTASK: Attach the milking machine and let down the milk SUBTASK: Collect the milk in a sanitized container SUBTASK: Check for signs of mastitis or other issues MAINTASK: Prepare silage SUBTASK: Harvest the crop when it reaches the appropriate moisture level SUBTASK: Chop the crop into small pieces using a chopper SUBTASK: Pack the material tightly into silo structures SUBTASK: Cover the top to minimize air exposure MAINTASK: Handle equipment breakdown SUBTASK: Communicate the problem to the appropriate staff member SUBTASK: Remove the malfunctioning equipment from the field if safe SUB TASK: Summon a repair service or call the manufacturer's support MAINTASK: Manure spread SUBTASK: Attach the manure spreader to the tractor SUBTASK: Apply the manure to the fields, ensuring even distribution SUBTASK: Avoid over-application in any one area to prevent runoff MAINTASK: Clean chicken coop SUBTASK: Remove manure and soiled bedding from the coop SUBTASK: Disinfect the interior surfaces with appropriate solutions SUBTASK: Re-fill the feed and water stations MAINTASK: Apply fertilizer granules SUBTASK: Broadcast the fertilizer over the field using a spreader SUBTASK: Adjust the machine\u2019s width and speed to cover the area uniformly SUBTASK: Overlap and check for skips or dense areas MAINTASK: Conduct a market analysis SUBTASK: Research current prices and demand for different crops SUBTASK: Analyze competitors\u2019 offerings and pricing strategies SUBTASK: Update business plans with new financial projections MAINTASK: Implement drip irrigation SUBTASK: Install the drip lines through the field SUBTASK: Connect to the main water supply and pressure regulator SUBTASK: Test the system for leaks and ensure proper flow rates MAINTASK: Compost organic materials SUBTASK: Turn the compost pile regularly to aerate the mixture SUBTASK: Check the moisture and carbon-to-nitrogen ratio SUBTASK: Harvest the finished compost and use it in the gardens or fields MAINTASK: Baled hay unloading SUBTASK: Grapple the bale with a forklift and deposit onto the ground SUBTASK: Use a dolly or special equipment to move the bale into the storage SUBTASK: Stagger the bales to allow airflow and prevent moisture buildup MAINTASK: Administer medical treatments to livestock SUBTASK: Inject vaccinations or administer antibiotics SUBTASK: Apply dust mites or other external parasiticides SUBTASK: Take careful notes on treatments given and revaccinate as necessary MAINTASK: Manage rotational grazing SUBTASK: Divide the pasture into paddocks using temporary fencing SUBTASK: Rotate the livestock to fresh grazing areas regularly SUBTASK: Monitor the rate of grass consumption and adjust grazing times MAINTASK: Apply pesticides SUBTASK: Spray the fields with a backpack sprayer handheld SUBTASK: Wear the appropriate personal protective equipment SUBTASK: Stay downwind and walk perpendicular to the wind direction SUBTASK: Monitor coverage and adjust the nozzle position as needed MAINTASK: Operate a combine harvester SUBTASK: Enter the combine and adjust settings for the type of crop SUBTASK: Harvest the field by driving the combine through the rows SUBTASK: Separate the grain from the chaff and store it safely MAINTASK: Host a farmers' market SUBTASK: Arrange tables and displays for the produce SUBTASK: Prepare promotional materials and marketing signs SUBTASK: Greet customers and take their orders SUBTASK: Process transactions and pack purchases into bags MAINTASK: Conduct soil preparation for planting SUBTASK: Plow the field to break up the soil and remove debris SUBTASK: Rotary till the soil to incorporate amendments and manage residue SUBTASK: Create furrows or ridges as needed for planting orientation MAINTASK: Operate a sprayer SUBTASK: Fill the sprayer with the desired chemical solution SUBTASK: Calibrate the nozzle tips for the correct spray pattern SUBTASK: Operate the sprayer while moving through the field, maintaining the specified speed SUBTASK: Apply the spray evenly without overlapping too much or too little MAINTASK: Drive a cherry picker SUBTASK: Ascend to the desired height on the cherry picker SUBTASK: Collect the ripe fruits from high branches SUBTASK: Ensure safety by using the proper harness and positioning MAINTASK: Apply seed coatings SUBTASK: Mix the seed with a fungicide or other protectants SUBTASK: Use a seed meter or planter to apply the treated seed SUBTASK: Monitor the application rate and ensure even distribution MAINTASK: Manage crop drying SUBTASK: Use a dehydrator or hang the produce in a well-ventilated area SUBTASK: Monitor the moisture content and timing for removal SUBTASK: Store the dried product properly to avoid contamination MAINTASK: Plant trees or shrubs SUBTASK: Dig the appropriate hole for the root ball SUBTASK: Carefully lower the plant into the hole, ensuring it is plumb SUBTASK: Backfill with soil mixed with amendments SUBTASK: Water thoroughly and mulch around the base MAINTASK: Conduct a soil physical test SUBTASK: Push a probe into the ground to measure bulk density SUBTASK: Take notes on the ease of penetration for future tillage SUBTASK: Compare to standard tests or resources MAINTASK: Stock feed stores SUBTASK: Arrange the feed in the bins or silos SUBTASK: Check expiration dates and rotate stock as needed SUBTASK: Inventory weekly to avoid stockouts MAINTASK: Use a no-till drill SUBTASK: Assemble the drill and secure the appropriate seeds SUBTASK: Drive the implements across the field, planting at the correct depth SUBTASK: Overlap rows slightly to ensure coverage and minimal gaps MAINTASK: Prepare horse pasture SUBTASK: Fertilize and lime the pasture areas SUBTASK: Plant or overseed with grasses suitable for horses SUBTASK: Mow and maintain the pasture regularly MAINTASK: Write a business plan SUBTASK: Outline the goals and strategies for the upcoming year SUBTASK: Include financial projections, marketing plans, and operations SUBTASK: Get input from advisors and finalise the document MAINTASK: Conduct a soil test for pH SUBTASK: Collect a composite sample from various parts of the field SUBTASK: Send the sample to a testing lab SUBTASK: Interpret the pH result and plan lime applications if necessary MAINTASK: Harvest haylage SUBTASK: Cut the hay at the proper stage and immediately wilt it SUBTASK: Pack into a silo or tube for anaerobic fermentation SUBTASK: Seal the silo to prevent oxygen from entering MAINTASK: Prepare seedbeds SUBTASK: Tidy the land, tilling if necessary, to make it ready for sowing SUBTASK: Arrange seed in rows or blocks according to the crop type SUBTASK: Firm the seedbed by raking or rolling MAINTASK: Process meat for aging SUBTASK: Hang carcasses in a temperature-controlled cooler SUBTASK: Check daily for optimal aging conditions (humidity and temperature) SUBTASK: Condition the meat by allowing it to rest before cutting MAINTASK: Apply fertilizer solution SUBTASK: Mix the fertilizer concentrate with water according to PPM SUBTASK: Use a boom sprayer to evenly distribute the solution over the crop SUBTASK: Maintain precise application rates without over-spraying MAINTASK: Install drip irrigation pipes SUBTASK: Lay out the drip irrigation tubing through the rows SUBTASK: Connect the pipes to the main water supply SUBTASK: Secure the connections with appropriate clamps or connectors MAINTASK: Check automatic equipment SUBTASK: Test the irrigation system during the off-peak hour to check timing SUBTASK: Inspect automated gates or barriers for proper operation SUBTASK: Ensure remote controls function correctly MAINTASK: Conduct livestock performance monitoring SUBTASK: Weigh individual animals or groups at regular intervals SUBTASK: Collect data on growth rates, feed efficiency, etc. SUBTASK: Compare to breed standards and adjust feeding as needed MAINTASK: Ensure proper grounding for equipment SUBTASK: Identify electrical components that need grounding SUBTASK: Check the condition of grounding rods and conductors SUBTASK: Test the efficacy with a ground tester and re-ground if necessary MAINTASK: Manage bees SUBTASK: Inspect beehives for swarm activity or illness SUBTASK: Feed or re-queen if needed SUBTASK: Take protective measures when handling the hives MAINTASK: Glue tree tags SUBTASK: Affix tags to the trunks of new plantings for identification SUBTASK: Use a deadbolt glue that sets quickly SUBTASK: Space tags far enough to not interfere with trunk growth MAINTASK: Calculate crop yield SUBTASK: Measure the area of a representative sample SUBTASK: Assess the number of harvestable units per unit area SUBTASK: Multiply to estimate total production MAINTASK: Administer veterinarian care SUBTASK: Collect a sample from the animal for diagnostic testing SUBTASK: Discuss treatment options with a veterinarian SUBTASK: Administer medications after approval, if necessary MAINTASK: Plan irrigation schedules SUBTASK: Consider soil type, temperature, and evapotranspiration rates SUBTASK: Schedule irrigations based on crop development stages SUBTASK: Log the timing and volume of each event for monitoring MAINTASK: Plant hedge rows SUBTASK: Select native species for windbreak or erosion control SUBTASK: Prepare the planting beds, adding organic matter if needed SUBTASK: Space plants properly for mature size and prune for structure MAINTASK: Pre-harvest inspection SUBTASK: Walk the fields looking for signs of premature ripening or disease SUBTASK: Sample-crop and test for maturity or contamination SUBTASK: Organize harvesting plans based on the findings MAINTASK: Conduct a land appraisal SUBTASK: Gather data on current land values, size, and boundaries SUBTASK: Use online resources or consult with a real estate agent SUBTASK: Determine fair market value for potential purchase or sale MAINTASK: Service farm equipment SUBTASK: Inspect belts, chains, and other moving parts for wear SUBTASK: Grease or replace hydraulic seals SUBTASK: Check the air and oil filters and change them if necessary MAINTASK: Mix pesticide concentrate SUBTASK: Weigh or measure the active ingredients according to label directions SUBTASK: Dilute the concentrate in water using a measuring device SUBTASK: Pour the mixture into a spray tank, label the container MAINTASK: Implement crop protection SUBTASK: Apply herbicides, insecticides, or fungicides as needed SUBTASK: Evaluate the effect of the application and adjust treatments if necessary SUBTASK: Document application dates and rates for record-keeping MAINTASK: Secure livestock from wildlife SUBTASK: Erect or reinforce fencing near critical areas SUBTASK: Use predator deterrents, such as scarecrows or motion sensors SUBTASK: Conduct regular inspections to monitor effectiveness MAINTASK: Prune orchard trees SUBTASK: Remove dead or crossing branches SUBTASK: Thin the fruit to improve yield and quality SUBTASK: Sharpen pruning shears before starting SUBTASK: Apply a fungicide or dormant oil spray after pruning MAINTASK: Apply straw bale houses SUBTASK: Position the straw bales close together with minimal gaps SUBTASK: Use wire mesh support around the bales for a stable structure SUBTASK: Cover the exterior with siding or paint for durability MAINTASK: Conduct phenological observations SUBTASK: Track the development stages of the crops (e.g., bud break, flowering) SUBTASK: Adjust management practices as the crop progresses SUBTASK: Share observations with extension agents or record in a journal MAINTASK: Inspect tool functionality SUBTASK: Test shovels, rakes, and other manual tools for sharpness or needing replacement SUBTASK: Oil and store tools properly to extend their life SUBTASK: Replace any damaged or missing components MAINTASK: Plan storage solutions SUBTASK: Evaluate the capacity and durability of existing storage structures SUBTASK: Design or source new storage units based on future needs SUBTASK: Schedule construction or ordering for the next planting season MAINTASK: Apply cover crop seed SUBTASK: Mix cover crop species with fertilizer if necessary SUBTASK: Distribute the seed evenly over the surface of the field SUBTASK: Set the cultipacker to press the seed into the soil MAINTASK: Manage pasture weeds SUBTASK: Identify non-native or problematic plants SUBTASK: Choose the appropriate method for control (mowing, herbicide) SUBTASK: Apply treatment appropriately and monitor outcomes MAINTASK: Clean processing equipment SUBTASK: Disassemble machinery after use to remove debris SUBTASK: Rinse with water or sanitizing solution SUBTASK: Lubricate moving parts and store in a dry place MAINTASK: Conduct a safety check SUBTASK: Inspect PPE (personal protective equipment) for wear or tear SUBTASK: Test emergency stop buttons on equipment SUBTASK: Review OSHA compliance and facility safety MAINTASK: Prepare and apply manure compost SUBTASK: Mix well-aged compost with soil amendments SUBTASK: Broadcast or band apply the compost to the growing area SUBTASK: Confirm no hot spots or over-concentrations MAINTASK: Organize farm records SUBTASK: Categorize and file paperwork related to production, finances, and permits SUBTASK: Input data into a computer or spreadsheet system SUBTASK: Back up data regularly to prevent loss MAINTASK: Apply bird netting SUBTASK: Install the netting over crops to prevent pecking SUBSTITUTE edges STTICKY: ATTACH to existing posts or replace damaged supports SUBTASK: Test the netting\u2019s stability and secureness MAINTASK: Conduct surveys for pest infestations SUBTASK: Check traps or visual inspections for pest activity SUBTASK: Take samples to a lab for identification and population assessment SUBTASK:Plan control measures based on survey results MAINTASK: Plan and implement a rotational grazing system SUBTASK: Divide the pasture into paddocks with appropriate fencing SUBTASK: Create a schedule for moving livestock among the different areas SUBTASK: Monitor animal behavior and make adjustments as needed MAINTASK: Harvest greenhouse crops SUBTASK: Pick the ripe produce from the indoor plants SUBTASK: Sort and clean the harvested items SUBTASK: Deliver to storage or market promptly MAINTASK: Repair livestock handling gates SUBTASK: Test the gate hinges and latches for strength SUBTASK: Repair any rusted areas or broken parts SUBTASK: Test the gate's operation in both open and closed positions MAINTASK: Plan irrigation schedules SUBTASK: Schedule regular deep soak irrigation for trees and established crops SUBTASK: Apply shallower irrigations for seedlings and annuals SUBTASK: Adapt based on weather forecasts and soil moisture MAINTASK: Conduct yield monitoring SUBTASK: Use GPS and yield monitor on the combine during harvest SUBTASK: Record and adjust inputs and irrigation according to yield data SUBTASK: Analyze results quarterly to make informed decisions.",
+                "- Walk through rows (SUBTASK)",
+                "- Note affected plants (SUBTASK)",
+                "- Adjust settings, test machinery (SUBTASKS)",
+                "- Lay pipes, check for leaks, program timing (SUBTASKS)",
+                "- Load equipment, apply substances, check coverage (SUBTASKS)",
+                "- Remove weeds by hand, ensuring crops aren\u2019t damaged (SUBTASKs)",
+                "- Collect fruits, grains, etc., from farms (SUBTASKs)",
+                "- Board, operate, and maintain tractors, trucks (SUBTASKs)",
+                "- Inspect, lubricate, replace parts (SUBTASKs)",
+                "- Move animals using goatherds, etc., ensuring safety (SUBTASKs)",
+                "- Mix, plant, cover with mulch (SUBTASKs)",
+                "- Refill feed/water, check animal health (SUBTASKs)",
+                "- Dig holes, plant trees, string wires (SUBTASKs)",
+                "- Slaughter, skin, age, cut, package meat (SUBTASKs)",
+                "- Cut hay, pack into silos (SUBTASKs)",
+                "- Lay mulch, ensure proper coverage (SUBTASKs)",
+                "- Arrange, market, sell produce (SUBTASKs)",
+                "- Research pricing, competitors (SUBTASKs)",
+                "- Outline strategies, financial projections (SUBTASKs)",
+                "- Install to prevent losses (SUBTASKs)",
+                "- Reinforce fencing, use deterrents (SUBTASKs)",
+                "- Remove dead branches, thin fruits (SUBTASKs)"
             ]
         }
     ]

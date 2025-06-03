@@ -7,27 +7,31 @@
         {
             "task": "Harvesting aeroponic orange cherry tomatoes from a tower garden.",
             "subtasks": [
-                "Approach tower garden.",
-                "Gather harvesting tools (if necessary).",
-                "Inspect tomatoes for ripeness.",
-                "Grasp tomatoes carefully to avoid damaging the plant.",
-                "Twist or gently pull tomatoes off the vine.",
-                "Place harvested tomatoes in a container.",
-                "Rinse harvested tomatoes under water if necessary.",
-                "Inspect harvest for any damages or diseases.",
-                "Place damaged tomatoes in separate container (if needed).",
-                "Repeat harvesting process on adjacent plants."
+                "Approach the tower garden.",
+                "Reach towards the tomatoes in the tower garden.",
+                "Grasp the tomatoes carefully.",
+                "Detach the tomatoes from the plants.",
+                "Remove any debris or wilted leaves around the tomatoes.",
+                "Inspect the tomatoes for quality.",
+                "Place the harvested tomatoes into a collection container."
             ]
         },
         {
-            "task": "Understanding the aeroponic farming method.",
+            "task": "Explaining aeroponic farming method.",
             "subtasks": [
-                "Learn about aeroponic cultivation.",
-                "Understand how plants are grown without soil.",
-                "Explain the use of water and mineral nutrient solution.",
-                "Identify the role of ionic minerals and trace elements in plant growth.",
-                "Observe the color of the tomatoes to gauge ripeness (Though this may already be done during harvesting)."
+                "Describe aeroponic tomato cultivation.",
+                "Explain the use of aeroponics instead of soil.",
+                "Highlight the use of water and nutrient solution.",
+                "Mention the provision of essential minerals and trace elements."
             ]
+        },
+        {
+            "task": "MAINTASK: Harvesting aeroponic orange cherry tomatoes from a tower garden.",
+            "subtasks": []
+        },
+        {
+            "task": "Explaining aeroponic farming method.",
+            "subtasks": []
         }
     ]
 }

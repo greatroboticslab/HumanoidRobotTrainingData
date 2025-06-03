@@ -5,37 +5,68 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Evaluate the situation of a broken tractor and offer advice.",
+            "task": "Responding to an equipment failure and offering advice to a fellow farmer.",
             "subtasks": [
-                "Recognize the issue with the rear axles breaking during leaf blowing.",
-                "Assess the costs and potential repairs (approximately $11,500 in repairs).",
-                "Suggest that the owner consider selling the tractor as-is to minimize losses.",
-                "Recommend checking insurance coverage for the accident.",
-                "Mention the potential demand for replacement parts and sources like 247parts.com."
+                "Rolling out a tractor for leaf blowing.",
+                "Backing up misaligned to the roll of leaves.",
+                "Applying forward pedal, resulting in axle breakage.",
+                "Tractor rolling down a hill.",
+                "Rear axles breaking upon impact with a tree.",
+                "Discussing the accelerated wear of drive shaft U-joints in older tractors.",
+                "Ingesting large sums for rear axle replacements.",
+                "Scouring for replacement parts or selling the scrap."
             ]
         },
         {
-            "task": "Share personal experience with previous similar incidents.",
+            "task": "Sharing farming equipment knowledge and experiences.",
             "subtasks": [
-                "Describe a John Deere 2320 that suffered a catastrophic U-joint failure.",
-                "Explain the repair costs and decision-making process related to selling the damaged equipment.",
-                "Compare the current situation with another tractor repair experience involving a $4,500 repair."
+                "Describing past experiences with equipment failures, including a John Deere 2320 with a U-joint failure.",
+                "Discussing the financial implications of repairs versus part replacement.",
+                "Recommending DIY repairs and part scavenging for economic efficiency.",
+                "Addressing the importance of regular maintenance and safety measures.",
+                "Promoting safety solutions like RimGuard for tractor stability.",
+                "Advocating the use of video subscriptions and website resources for equipment information.",
+                "Encouraging community support and market information sharing."
             ]
         },
         {
-            "task": "Promote safety and product (RimGuard Solutions) in tractor operation.",
+            "task": "Responding to an equipment failure and offering advice to a fellow farmer. Under that, there are the subtasks related to the incident: rolling the tractor (first subtask), backing up misaligned (second), applying the forward pedal (third), which leads to the axle breakage (fourth). Then the tractor rolling down the hill and hitting a tree (fifth), causing more damage.",
+            "subtasks": []
+        },
+        {
+            "task": "there's a bit about past experiences with tractors and the advice given. So another major task would be MAINTASK: Sharing farming equipment knowledge and experiences. Under this, the subtasks include discussing their own past equipment failures (like the John Deere 2320)(subtask), explaining the financial aspects of repairs versus part replacement (subtask), giving DIY advice on part scavenging versus selling the whole thing (subtask). They also mention safety (RimGuard) and resources (GoodWorktractors.com), which are their promotions, so perhaps that's another subtask in sharing info.",
+            "subtasks": []
+        },
+        {
+            "task": "Responding to an equipment failure and offering advice to a fellow farmer.",
+            "subtasks": []
+        },
+        {
+            "task": "Sharing farming equipment knowledge and experiences.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Discussing safety in farming operations.",
             "subtasks": [
-                "Highlight the importance of tractor safety, especially regarding weight distribution.",
-                "Introduce RimGuard Solutions as a safety product for tractors.",
-                "Promote RimGuard Solutions and provide their website link."
+                "Promoting RimGuard for safety."
             ]
         },
         {
-            "task": "Conclude the video and engage the audience.",
+            "task": "Responding to an equipment failure and offering advice to a fellow farmer.",
             "subtasks": [
-                "Request subscriptions and engagement with the channel.",
-                "Provide the website for purchasing attachments (goodworkstractors.com).",
-                "Encourage viewer safety and\u518d\u89c1 (farewell in Chinese)."
+                "Rolling the tractor while attempting leaf blowing.",
+                "Backing up misaligned, leading to a miscalculation.",
+                "Applying forward pedal, causing axles to break.",
+                "Tractor rolling down a hill, hitting a tree, and incurring more damage.",
+                "Discussing the anticipated repair costs and potential issues."
+            ]
+        },
+        {
+            "task": "Sharing farming equipment knowledge and experiences.",
+            "subtasks": [
+                "Reflecting on past tractor repairs, specifically a U-joint failure.",
+                "Comparing the financial viability of repairs versus part replacement.",
+                "Promoting the use of rim guards for tractor safety."
             ]
         }
     ]

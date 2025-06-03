@@ -5,26 +5,34 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Construct a barrel tumbler for making T13 seasoning",
+            "task": "Building a barrel tumbler for seasoning production.",
             "subtasks": [
-                "Weld the base structure of the tumbler",
-                "Drill holes for pillow block bearings",
-                "Assemble the basket to hold the barrel",
-                "Weld axles onto the tumbler structure",
-                "Add sides to the basket for barrel retention",
-                "Balance-test the assembled component parts",
-                "Align and attach uprights using a fireball tool square",
-                "Test the fit and function of the assembled tumbler",
-                "Weld top bar hinges for opening and closing the tumbler",
-                "Attach an end cap for latch mechanisms",
-                "Add crossmembers with flanges to prevent upright bowing",
-                "Secure the base for stability",
-                "Position pads to reduce internal movement",
-                "Install a sprocket and counterweight system",
-                "Upgrade the motor to handle the barrel's weight",
-                "Construct a motor mount for proper chain tension",
-                "Paint and finalize the tumbler",
-                "Conduct a test run with the motor and seasoned barrel"
+                "Marking positions for pillow block bearings."
+            ]
+        },
+        {
+            "task": "Constructing the barrel tumbler's basket.",
+            "subtasks": [
+                "Welding axles into the base.",
+                "Building the sides of the basket.",
+                "Balancing the tumbler.",
+                "Integrating top bar hinges for latching.",
+                "Attaching end caps and crossmembers."
+            ]
+        },
+        {
+            "task": "Installing the motor.",
+            "subtasks": [
+                "Choosing a motor for power.",
+                "Mounting the motor.",
+                "Verifying motor performance."
+            ]
+        },
+        {
+            "task": "Painting and testing the completed tumbler.",
+            "subtasks": [
+                "Applying protective finish.",
+                "Conducting final test runs."
             ]
         }
     ]

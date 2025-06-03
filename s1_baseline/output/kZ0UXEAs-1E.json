@@ -5,27 +5,106 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Thanking someone.",
+            "task": "Put on safety equipment before operating farm machinery.",
             "subtasks": [
-                "Moving lips to form words.",
-                "Producing voice to speak.",
-                "Raising hand in gesture of appreciation.",
-                "Nodding head in agreement or gratitude."
+                "Choose appropriate safety gear.",
+                "Adjust safety gear for comfort.",
+                "Fasten seat belt or other restraints.",
+                "Check safety glasses for fogging and adjust if necessary."
             ]
         },
         {
-            "task": "Responding to gratitude.",
+            "task": "Climb into the cab of a combine harvester.",
             "subtasks": [
-                "Smiling in acknowledgment.",
-                "Returning the gesture of appreciation."
+                "Step onto the ladder or steps.",
+                "Grip handrails while ascending.",
+                "Sit in the driver's seat, adjusting posture.",
+                "Align feet on pedals."
             ]
         },
         {
-            "task": "Acknowledging a thank you.",
+            "task": "Start the combine harvester engine.",
             "subtasks": [
-                "Maintaining eye contact.",
-                "Verbal confirmation of gratitude."
+                "Insert key into ignition.",
+                "Turn key to start engine.",
+                "Monitor engine sounds for normal operation."
             ]
+        },
+        {
+            "task": "Adjust combine header settings.",
+            "subtasks": [
+                "Raise and lower header using controls.",
+                "Check header height for consistency.",
+                "Engage or disengage cutting mechanisms."
+            ]
+        },
+        {
+            "task": "Operate the combine harvester.",
+            "subtasks": [
+                "Shift gears to appropriate setting.",
+                "Use control levers to steer.",
+                "Monitor grain flow and adjust augers if necessary.",
+                "Engage or disengage concave on the feeder house."
+            ]
+        },
+        {
+            "task": "Clear debris from the combine.",
+            "subtasks": [
+                "Identify stuck kernel valves or auger flights.",
+                "Stop machine and disengage power take-off (PTO).",
+                "Remove blockages manually or with tool.",
+                "Clear grain impeller or separator blocks."
+            ]
+        },
+        {
+            "task": "Unload the combine harvester.",
+            "subtasks": [
+                "Engage or disengage lift platform.",
+                "Lower platform safely to ground.",
+                "Open bin doors or discharge auger.",
+                "Directly load grain into bins or trucks."
+            ]
+        },
+        {
+            "task": "Perform maintenance during harvest.",
+            "subtasks": [
+                "Check grain moisture and adjust settings as needed.",
+                "Replace filter elements if necessary.",
+                "Lube moving parts as needed.",
+                "Check fluid levels and refill if required."
+            ]
+        },
+        {
+            "task": "Putting on safety equipment before operating farm machinery.",
+            "subtasks": []
+        },
+        {
+            "task": "Climbing into the combine harvester's cab.",
+            "subtasks": []
+        },
+        {
+            "task": "Starting the engine.",
+            "subtasks": []
+        },
+        {
+            "task": "Adjusting header settings, which might involve raising/lowering parts and ensuring proper cutting edge engagement.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating the combine, which includes shifting gears, steering, managing grain flow, and adjusting parts like the concave.",
+            "subtasks": []
+        },
+        {
+            "task": "Clearing blockages in the machine that could affect performance, requiring careful disengagement of PTO, manual removal of debris, and clearing grain issues.",
+            "subtasks": []
+        },
+        {
+            "task": "Unloading the harvested grain, which involves lowering the lift platform safely, opening doors/augers, and physically directing the grain into storage.",
+            "subtasks": []
+        },
+        {
+            "task": "Conducting maintenance during the harvest season to ensure continuous operation, such as checking moisture settings, replacing filters, lubing components, and refilling fluids.",
+            "subtasks": []
         }
     ]
 }

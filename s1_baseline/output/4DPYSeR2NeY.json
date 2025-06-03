@@ -5,69 +5,153 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Operating a combine harvester on a wheat field.",
+            "task": "Loading hay into a horse's trailer",
             "subtasks": [
-                "Starting the combine harvester.",
-                "Guiding the combine harvester through the wheat field.",
-                "Overseeing the combine harvester's operation to ensure efficient grain harvesting.",
-                "Monitoring the combine harvester's grain collection."
+                "Approach the hay shed",
+                "Grasp bales of hay and pick them up",
+                "Carry hay bales towards the trailer",
+                "Open the trailer doors",
+                "Align the hay with the trailer\u2019s loading ramp",
+                "Place hay bales onto the trailer",
+                "Secure the hay to prevent shifting during transport"
             ]
         },
         {
-            "task": "Loading harvested wheat onto a truck.",
+            "task": "Attaching the horse to the trailer",
             "subtasks": [
-                "Moving to the loading area.",
-                "Checking the truck's capacity for harvested wheat.",
-                "Using a forklift or similar equipment to load the wheat onto the truck."
+                "Approach the horse's stall or holding area",
+                "Lead the horse to the trailer",
+                "Open the trailer's side or rear gate",
+                "Assist the horse into the trailer, using a halter or lead",
+                "Secure the horse inside the trailer"
             ]
         },
         {
-            "task": "Driving the loaded truck to the grain storage facility.",
+            "task": "Driving the horse-drawn trailer to a parking location",
             "subtasks": [
-                "Starting the truck's engine.",
-                "Checking the truck's brakes and tires for safety.",
-                "Navigating the farm roads to the grain storage facility."
+                "Buckle up the seatbelt",
+                "Start the truck engine",
+                "Back the truck into the parking area",
+                "Park the truck in a suitable spot"
             ]
         },
         {
-            "task": "Unloading wheat from the truck into the storage facility.",
+            "task": "Unloading hay from the trailer at the destination",
             "subtasks": [
-                "Parking the truck in the designated unloading area.",
-                "Using a conveyor belt or similar system to unload the wheat.",
-                "Verifying the amount of wheat unloaded and reported to the grain office."
+                "Approach the unloading area",
+                "Open the trailer doors",
+                "Grasp hay bales from the trailer and pick them up",
+                "Carry hay bales to the destination location",
+                "Arrange the hay bales in the designated area"
             ]
         },
         {
-            "task": "MAINTASK: Operating a combine harvester on a wheat field.",
+            "task": "Unsecuring the horse from the trailer",
             "subtasks": [
-                "Starting the combine harvester.",
-                "Guiding the combine harvester through the wheat field.",
-                "Overseeing the combine harvester's operation to ensure efficient grain harvesting.",
-                "Monitoring the combine harvester's grain collection."
+                "Ascend into the trailer",
+                "Loosen the horse's securement",
+                "Assist the horse to exit the trailer",
+                "Guide the horse down the trailer steps",
+                "Lead the horse to a safe area"
             ]
         },
         {
-            "task": "Loading harvested wheat onto a truck.",
+            "task": "Stabling the horse",
             "subtasks": [
-                "Moving to the loading area.",
-                "Checking the truck's capacity for harvested wheat.",
-                "Using a forklift or similar equipment to load the wheat onto the truck."
+                "Lead the horse to the stall",
+                "Remove the halter and lead line",
+                "Water and feed the horse",
+                "Clean the stall or provide bedding"
             ]
         },
         {
-            "task": "Driving the loaded truck to the grain storage facility.",
+            "task": "Walking the horse for exercise",
             "subtasks": [
-                "Starting the truck's engine.",
-                "Checking the truck's brakes and tires for safety.",
-                "Navigating the farm roads to the grain storage facility."
+                "Attach the halter to the horse",
+                "Mount the horse or lead with a lead line",
+                "Walk the horse around the fields or paddock"
             ]
         },
         {
-            "task": "Unloading wheat from the truck into the storage facility.",
+            "task": "Inspecting the trailers after use",
             "subtasks": [
-                "Parking the truck in the designated unloading area.",
-                "Using a conveyor belt or similar system to unload the wheat.",
-                "Verifying the amount of wheat unloaded and reported to the grain office."
+                "Check the trailer's condition for damage",
+                "Look for necessary maintenance or repairs"
+            ]
+        },
+        {
+            "task": "MAINTASK: Loading hay into a horse's trailer",
+            "subtasks": [
+                "Approach the hay shed",
+                "Grasp bales of hay and pick them up",
+                "Carry hay bales towards the trailer",
+                "Open the trailer doors",
+                "Align the hay with the trailer\u2019s loading ramp",
+                "Place hay bales onto the trailer",
+                "Secure the hay to prevent shifting during transport"
+            ]
+        },
+        {
+            "task": "Attaching the horse to the trailer",
+            "subtasks": [
+                "Approach the horse's stall or holding area",
+                "Lead the horse to the trailer",
+                "Open the trailer's side or rear gate",
+                "Assist the horse into the trailer, using a halter or lead",
+                "Secure the horse inside the trailer"
+            ]
+        },
+        {
+            "task": "Driving the horse-drawn trailer to a parking location",
+            "subtasks": [
+                "Buckle up the seatbelt",
+                "Start the truck engine",
+                "Back the truck into the parking area",
+                "Park the truck in a suitable spot"
+            ]
+        },
+        {
+            "task": "Unloading hay from the trailer at the destination",
+            "subtasks": [
+                "Approach the unloading area",
+                "Open the trailer doors",
+                "Grasp hay bales from the trailer and pick them up",
+                "Carry hay bales to the destination location",
+                "Arrange the hay bales in the designated area"
+            ]
+        },
+        {
+            "task": "Unsecuring the horse from the trailer",
+            "subtasks": [
+                "Ascend into the trailer",
+                "Loosen the horse's securement",
+                "Assist the horse to exit the trailer",
+                "Guide the horse down the trailer steps",
+                "Lead the horse to a safe area"
+            ]
+        },
+        {
+            "task": "Stabling the horse",
+            "subtasks": [
+                "Lead the horse to the stall",
+                "Remove the halter and lead line",
+                "Water and feed the horse",
+                "Clean the stall or provide bedding"
+            ]
+        },
+        {
+            "task": "Walking the horse for exercise",
+            "subtasks": [
+                "Attach the halter to the horse",
+                "Mount the horse or lead with a lead line",
+                "Walk the horse around the fields or paddock"
+            ]
+        },
+        {
+            "task": "Inspecting the trailers after use",
+            "subtasks": [
+                "Check the trailer's condition for damage",
+                "Look for necessary maintenance or repairs"
             ]
         }
     ]

@@ -5,14 +5,59 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Fixing a water pump at the lower cistern.",
+            "task": "Fixing a water pump at the lower cistern",
             "subtasks": [
-                "Checking the existing diaphragm pump's performance and identifying the need for replacement.",
-                "Installing a new Aquamarine submersible DC pump.",
-                "Drilling holes in the cistern for pumping lines and ensuring proper connection.",
-                "Securing a float valve to prevent over-pumping.",
-                "Wiring the pump with solar panel power and configuring the float switch.",
-                "Sealing entry points with silicone to prevent critter access."
+                "Using a SureFlow diaphragm pump for pressure siphoning",
+                "Installing a new Aquamarine-made 24V DC submersible pump",
+                "Drilling holes in the cistern for pumping lines",
+                "Installing a float valve to prevent pump burnout",
+                "Connecting electrical wires to the pump and float switch",
+                "Insulating holes with silicone to prevent critter entry",
+                "Ensuring proper orientation of float switch for safety"
+            ]
+        },
+        {
+            "task": "Setting up a solar panel system for pump power",
+            "subtasks": [
+                "Installing a 10-gauge amplifier wire 100 feet long",
+                "Wiring solar panels in parallel for 12V with high amperage",
+                "Considering series connection for 24V in future"
+            ]
+        },
+        {
+            "task": "Maintaining the spring and overflow system",
+            "subtasks": [
+                "Checking for and addressing leakage issues",
+                "Removing and preventing roly-poly insects",
+                "Shielding the system from sunlight to prevent algae growth"
+            ]
+        },
+        {
+            "task": "Fixing a water pump at the lower cistern",
+            "subtasks": [
+                "Using a SureFlow diaphragm pump for pressure siphoning",
+                "Installing a new Aquamarine-made 24V DC submersible pump",
+                "Drilling holes in the cistern for pumping lines",
+                "Installing a float valve to prevent pump burnout",
+                "Connecting electrical wires to the pump and float switch",
+                "Insulating holes with silicone to prevent critter entry",
+                "Ensuring proper orientation of float switch for safety"
+            ]
+        },
+        {
+            "task": "Setting up a solar panel system for pump power",
+            "subtasks": [
+                "Installing a 10-gauge amplifier wire 100 feet long",
+                "Wiring solar panels in parallel for 12V with high amperage",
+                "Considering series connection for 24V in future"
+            ]
+        },
+        {
+            "task": "Maintaining the spring and overflow system",
+            "subtasks": [
+                "Checking for and addressing leakage issues",
+                "Removing and preventing roly-poly insects",
+                "Shielding the system from sunlight to prevent algae growth"
             ]
         }
     ]

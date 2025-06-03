@@ -7,14 +7,18 @@
         {
             "task": "Installing a solar panel system on a roof.",
             "subtasks": [
-                "Assembling solar components.",
-                "Measuring and layout for solar panel placement.",
-                "Installing rails for solar panels.",
-                "Connecting microinverters to solar panels.",
-                "Running wires and conduit from roof to combiner box.",
-                "Installing combiner box and AC disconnect.",
-                "Connecting performance meter and ensuring safe operation."
+                "Obtaining and arranging solar system components including a 295 watt solar panel, microinverter, performance meter, AC disconnect, mounting racks, combiner, and wire connections.",
+                "Measuring and layout of solar panel positions on the roof, ensuring appropriate spacing and secure fastener placement.",
+                "Assembling and securing solar panel mounting racks to the roof using drill holes, string lines, and couplings.",
+                "Installing individual microinverters for each solar panel and connecting their DC wires to the panels.",
+                "Connecting AC wires from the microinverters to J-boxes and using conduit to run wires down to the combiner box and AC disconnect.",
+                "Assembling the combiner box and connecting wires from multiple strings to aggregate power.",
+                "Testing the system under partial cloud cover and observing initial power output and performance tracking."
             ]
+        },
+        {
+            "task": "The main task is **MAINTASK: Installing a solar panel system on a roof**. This involves several subtasks:",
+            "subtasks": []
         }
     ]
 }

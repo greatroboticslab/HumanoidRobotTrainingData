@@ -5,22 +5,7 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Calibrating a manure spreader to determine application rate.",
-            "subtasks": [
-                "Understand variables affecting application rates (tractor speed, gearbox settings, apron/hydraulic push gate settings).",
-                "Determine appropriate application rate based on crop/pasture needs and regulations (e.g., Minnesota's nitrogen limitation).",
-                "Choose calibration method (load area or tarp method) based on available equipment.",
-                "(For load area method) Weigh the spreader fully loaded with manure and empty, calculate manure weight.",
-                "Measure the area over which manure is spread (length x width) and convert to square feet.",
-                "Calculate application rate by dividing manure weight by area (in square feet), then multiplying by 21.8 to convert to tons per acre; repeat at least three times for accuracy.",
-                "(For tarp method) Weigh empty tarp, secure it in the spreader's path, measure tarp area, spread manure over the tarp.",
-                "Calculate manure weight per tarp, average over multiple tarps if necessary; divide by tarp area and convert to tons per acre.",
-                "Adjust speed, gearbox, or spreader gate settings if application rate is too low or high.",
-                "Determine calibration frequency (e.g., when conditions change, annually, or every couple years)."
-            ]
-        },
-        {
-            "task": "Using calibration results to create a manure management plan, ensuring nutrient application meets crop needs without excess.",
+            "task": "Calibrate a solid manure spreader.",
             "subtasks": []
         }
     ]

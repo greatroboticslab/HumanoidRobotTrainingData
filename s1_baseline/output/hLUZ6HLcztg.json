@@ -5,28 +5,22 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Soilsampling",
+            "task": "Taking a soil sample for nutrient deficiencies",
             "subtasks": [
-                "Considering timing of sample",
-                "Avoiding non-representative locations",
-                "Sampling poor and healthy areas for comparison",
-                "Determining appropriate soil depth (top 30 cm or deeper)",
-                "Using spade test to collect soil profile samples"
+                "Considering the timing of the sample collection",
+                "Avoiding misleading areas when taking samples",
+                "Comparing sample results from affected and healthy areas",
+                "Determining the appropriate depth for soil sampling"
             ]
         },
         {
-            "task": "MAINTASK: Soilsampling",
+            "task": "Performing a spade test",
             "subtasks": [
-                "Considering timing of sample",
-                "Avoiding non-representative locations",
-                "Sampling poor and healthy areas for comparison",
-                "Determining appropriate soil depth (top 30 cm or deeper)",
-                "Using spade test to collect soil profile samples"
+                "Digging a hole to access the soil profile",
+                "Testing soil pH in the subsurface",
+                "Checking soil sodicity in the subsample",
+                "Assessing soil texture in the collected sample"
             ]
-        },
-        {
-            "task": "Soilsampling",
-            "subtasks": []
         }
     ]
 }

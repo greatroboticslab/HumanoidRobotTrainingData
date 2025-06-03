@@ -5,45 +5,77 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Farming tasks in peach orchards and processing facilities.",
+            "task": "Farming operations in peach orchards and processing facilities.",
             "subtasks": [
                 "Planting peach trees in late winter or early spring.",
-                "Soil preparation for peach trees.",
-                "Selecting peach tree varieties.",
-                "Pruning peach trees to promote growth and manage foliage.",
-                "Pollination using honeybees.",
-                "Assessing and thinning peach fruit density.",
-                "Harvesting peaches by hand.",
-                "Sorting peaches immediately after harvest.",
+                "Selecting peach varieties.",
+                "Preparing soil with optimal pH levels.",
+                "Ensuring peach trees receive macronutrients and minerals.",
+                "Pruning peach trees to direct nutrients and manage canopy.",
+                "Assessing fruit density post-pollination.",
+                "Hand harvesting peaches early in the morning.",
+                "Gently twisting peaches to detach them from branches without damage.",
+                "Sorting peaches into baskets or bins for transport.",
+                "Using specialized scales at packing facilities to sort peaches by weight."
+            ]
+        },
+        {
+            "task": "Processing peach products.",
+            "subtasks": [
                 "Cooling harvested peaches to remove field heat.",
-                "Washing and inspecting peaches at packing facilities.",
+                "Inspecting and washing peaches for freshness and cleanliness.",
                 "Sorting peaches by size and quality.",
-                "Blanching peaches for peeling.",
-                "Slicing and pitting peaches for processing."
+                "Blanching peaches in hot water to facilitate peeling.",
+                "Peeling peeled peaches to prepare them for slicing or pureeing.",
+                "Slicing or pitting peaches depending on the final product.",
+                "Producing canned peaches, syrup, dried peaches, or peach puree."
             ]
         },
         {
-            "task": "Labor tasks in peach orchards.",
+            "task": "Farming operations in peach orchards and processing facilities.** Then breaking it down into subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting and caring for peach trees.** Subtasks would include:",
+            "subtasks": []
+        },
+        {
+            "task": "Planting peach trees in late winter or early spring.**",
+            "subtasks": []
+        },
+        {
+            "task": "Preparing soil for peach trees.**",
+            "subtasks": []
+        },
+        {
+            "task": "Pruning peach trees.**",
+            "subtasks": []
+        },
+        {
+            "task": "Assessing fruit density after pollination.**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting peaches.**",
+            "subtasks": []
+        },
+        {
+            "task": "Sorting harvested peaches.**",
+            "subtasks": []
+        },
+        {
+            "task": "Processing peach products.**",
             "subtasks": [
-                "Pruning peach trees by workers.",
-                "Harvesting peaches by hand.",
-                "Sorting peaches during harvest."
+                "To finish, putting the MAINTASK and SUBTASKS accordingly."
             ]
         },
         {
-            "task": "Transitioning peaches from farms to processing facilities.",
-            "subtasks": [
-                "Transporting peaches from orchards to packing facilities.",
-                "Inspecting peaches at packing facilities.",
-                "Sizing and grading peaches for different products."
-            ]
+            "task": "Farming operations in peach orchards and processing facilities.**",
+            "subtasks": []
         },
         {
-            "task": "Distribution and marketing of peaches.",
-            "subtasks": [
-                "Packing peaches into bins or containers.",
-                "Selling peaches to consumers, wholesalers, or processing facilities."
-            ]
+            "task": "MAINTASK: Farming operations in peach orchards and processing facilities.",
+            "subtasks": []
         }
     ]
 }

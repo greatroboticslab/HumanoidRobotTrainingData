@@ -5,20 +5,49 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Attend a webinar on Florida's sugar cane burning issue.",
+            "task": "Attend a virtual panel discussion on combustive cane harvesting in Brazil and its implications for Florida.",
             "subtasks": [
-                "Enable closed captioning during the webinar (if not already enabled).",
-                "Select preferred language (English or Portuguese) through the interpretation option.",
-                "Wait for the webinar to start as other participants join.",
-                "Listen to introductions and panelists' bios.",
-                "Understand the reasoning behind Brazil's phase-out of sugar cane burning from a health perspective.",
-                "Learn about the health impacts of sugarcane burning (e.g., respiratory symptoms, hospital admissions, premature birth).",
-                "Grasp the agricultural adjustments made in Brazil to transition from burning to mechanical harvesting (e.g., purchasing new machinery, worker training, pest management).",
-                "Compare the timeline and challenges of adopting mechanical harvesting in Florida versus Brazil.",
-                "Evaluate arguments for and against adopting alternative harvesting methods in Florida, considering pest control, worker safety, and soil fertility.",
-                "Discuss the role of air monitoring and the necessity for more regulation in Florida.",
-                "Consider the economic impacts of transitioning away from sugar cane burning, both positive (environmental) and potential job losses.",
-                "Reflect on the broader implications of sugar cane burning on air quality and public health."
+                "Visit the ProPublica website to view the recorded event.",
+                "Listen to the host, Rocio Ortega, introduce the panelists and session topics.",
+                "Activate closed captioning or language interpretation for accessibility.",
+                "Pay attention to the panelists' credentials and their expertise in meteorology, environmental policy, and agriculture."
+            ]
+        },
+        {
+            "task": "Discuss the health impacts of sugarcane burning.",
+            "subtasks": [
+                "Recall Dr. Elena Gibero's research on respiratory symptoms in children exposed to sugarcane fire smoke in low-income areas.",
+                "Note the association between sugarcane burning and increased hospital admissions for respiratory issues in affected communities.",
+                "Understand the role of climate factors such as temperature inversions in exacerbating pollution dispersion issues."
+            ]
+        },
+        {
+            "task": "Explore the environmental and health benefits of transitioning from burning to mechanical sugarcane harvesting.",
+            "subtasks": [
+                "Review Dr. Rafaela Roseto's explanation of the agricultural challenges and solutions during the transition to raw cane harvesting.",
+                "Acknowledge the improved soil health and reduced pest problems associated with non-burned cane methods."
+            ]
+        },
+        {
+            "task": "Analyze the regulatory shifts in Brazil and their impact on the sugar industry.",
+            "subtasks": [
+                "Examine Antonio Queiroz's description of how environmental agencies worked with the industry to implement a phased ban on sugarcane burning.",
+                "Consider the public health and environmental considerations that led to the gradual phase-out of burning and the industry's compliance."
+            ]
+        },
+        {
+            "task": "Consider the feasibility and challenges of adopting green harvesting practices in Florida.",
+            "subtasks": [
+                "Reflect on Dr. Rafaela Roseto's perspective on the possibility of transitioning Florida's sugar industry away from burning and the role of innovation and time.",
+                "Note the agricultural, economic, and worker safety considerations raised by Dr. Elena Gibero and her research team."
+            ]
+        },
+        {
+            "task": "Examine current monitoring efforts and future needs in Florida.",
+            "subtasks": [
+                "Recognize the limitations of existing air quality monitoring in Florida's sugar-growing region and the potential role of low-cost sensors and satellite data.",
+                "Assess the political and economic factors influencing the adoption of environmental regulations in the sugar industry.",
+                "Consider the broader implications of sugarcane burning for air quality and public health in Florida, as addressed by the panelists."
             ]
         }
     ]

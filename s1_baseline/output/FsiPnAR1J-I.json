@@ -5,67 +5,57 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Conducting crop rotation involving leguminous and non-leguminous plants.",
+            "task": "Crop Rotation",
             "subtasks": [
-                "Plant leguminous plants in a field.",
-                "Plant non-leguminous plants in a field.",
-                "Ensure soil nitrogen levels are present.",
-                "Promote plant survivability.",
-                "Cultivate and maintain the field."
+                "Choose leguminous and non-leguminous crops to rotate",
+                "Plant leguminous plants in the first field",
+                "Allow non-leguminous plants to grow in the first field after leguminous plants",
+                "Assess soil nitrogen levels",
+                "Rotate crops to the next field",
+                "Cultivate the field before replanting"
             ]
         },
         {
-            "task": "Alternating leguminous and non-leguminous crops in rotation.",
+            "task": "Planting Leguminous Plants",
             "subtasks": [
-                "Rotate crops between different fields."
+                "Select leguminous plant species",
+                "Prepare the soil for planting",
+                "Sow leguminous seeds in the field"
             ]
         },
         {
-            "task": "Conducting crop rotation involving leguminous and non-leguminous plants.",
+            "task": "Grow Non-Leguminous Plants",
             "subtasks": [
-                "Plant leguminous plants in a field.",
-                "Plant non-leguminous plants in a field.",
-                "Ensure soil nitrogen levels are present.",
-                "Promote plant survivability.",
-                "Cultivate and maintain the field."
+                "Allow non-leguminous plants to mature in the field",
+                "Monitor plant health and remove weeds"
             ]
         },
         {
-            "task": "Alternating leguminous and non-leguminous crops in rotation.",
+            "task": "Assess Nitrogen Contribution",
             "subtasks": [
-                "Rotate crops between different fields."
+                "Test soil for nitrogen content after leguminous plant growth",
+                "Apply additional nitrogen if necessary"
             ]
         },
         {
-            "task": "Conducting crop rotation involving leguminous and non-leguminous plants.",
-            "subtasks": []
-        },
-        {
-            "task": "Alternating leguminous and non-leguminous crops in rotation.",
-            "subtasks": []
-        },
-        {
-            "task": "Conducting crop rotation involving leguminous and non-leguminous plants.",
-            "subtasks": []
-        },
-        {
-            "task": "Alternating leguminous and non-leguminous crops in rotation.",
-            "subtasks": []
-        },
-        {
-            "task": "Conducting crop rotation involving leguminous and non-leguminous plants.**",
+            "task": "Rotate Crops",
             "subtasks": [
-                "Plant leguminous plants in a field.**",
-                "Plant non-leguminous plants in a field.**",
-                "Ensure soil nitrogen levels are present.**",
-                "Promote plant survivability.**",
-                "Cultivate and maintain the field.**"
+                "Identify the next field for crop rotation",
+                "Prepare the new field for planting"
             ]
         },
         {
-            "task": "Alternating leguminous and non-leguminous crops in rotation.**",
+            "task": "Cultivate StringField",
             "subtasks": [
-                "Rotate crops between different fields.**"
+                "Use equipment to till the soil in the field",
+                "Level the field for planting"
+            ]
+        },
+        {
+            "task": "Replant Field",
+            "subtasks": [
+                "Determine the appropriate non-leguminous crop for planting",
+                "Plant the non-leguminous crop in the prepared field"
             ]
         }
     ]

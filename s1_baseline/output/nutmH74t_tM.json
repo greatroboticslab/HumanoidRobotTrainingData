@@ -5,31 +5,22 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Applying pesticide after reading instructions.",
+            "task": "Read and understand pesticide labels.",
             "subtasks": [
-                "Choose the appropriate pesticide product.",
-                "Read the pesticide label.",
-                "Look up the label online if difficult to read.",
-                "Identify active ingredient from the label.",
-                "Understand first aid statements on the label.",
-                "Know how to properly dispose of the container.",
-                "Protect animals from potential hazards.",
-                "Protect oneself from potential hazards.",
-                "Consider bee effects if relevant.",
-                "Follow directions for use as per the label."
+                "Identify active ingredient.",
+                "Understand first aid statements.",
+                "Retrieve label for medical treatment if needed.",
+                "Note hazards to animals.",
+                "Note hazards to human health.",
+                "Learn about bee impacts.",
+                "Follow directions for use.",
+                "Properly store and dispose of container."
             ]
         },
         {
-            "task": "Verifying label compatibility.",
+            "task": "Research unclear labels online.",
             "subtasks": [
-                "Check if additional readable label is available online."
-            ]
-        },
-        {
-            "task": "Disposing of pesticide container.",
-            "subtasks": [
-                "Follow storage instructions on label.",
-                "Properly discard the container after use."
+                "Search product name and \"label\" in web browser."
             ]
         }
     ]

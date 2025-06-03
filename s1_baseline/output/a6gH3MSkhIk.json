@@ -5,49 +5,106 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "",
+            "task": "Setting up a timer for a solar-powered fountain.",
             "subtasks": [
-                "Gathering materials (e.g., extension cord)",
-                "Examining the existing solar power system",
-                "Preparing the manual timer",
-                "Connecting the manual timer to the inverter",
-                "Testing the system"
+                "Parking the truck at the solar power box location.",
+                "Fetching materials needed for the timer setup from the truck.",
+                "Explaining the existing solar power system components (battery, solar charger, regulator, inverter, pond pump).",
+                "Identifying the issue with the previous manual timer (constant inverter draw).",
+                "Installing a 12V DC digital timer to control the inverter.",
+                "Configuring the timer to schedule fountain operation (turning on/off at specified times).",
+                "Testing the new setup to ensure proper operation and timing.",
+                "Adjusting the timer schedule for optimal solar charging and aeration."
+            ]
+        },
+        {
+            "task": "Beneficiary subtask: Improving energy efficiency in a solar-powered irrigation system.",
+            "subtasks": [
+                "Understanding the system's energy consumption before the timer change.",
+                "Calculating the reduced power draw on the inverter with the new timer.",
+                "Verifying the battery charging efficiency with the adjusted schedule.",
+                "Ensuring consistent aeration for the pond during operating hours."
+            ]
+        },
+        {
+            "task": "Hands-on troubleshooting with a DIY irrigation setup.",
+            "subtasks": [
+                "Identifying the problem (fountain not turning on) and hypothesizing the cause (constant inverter on).",
+                "Researching alternative solutions (Arduino, twino board) before deciding on a digital timer.",
+                "Wiring the timer to the solar power system (connecting to battery and inverter).",
+                "Testing the timer setup and resolving any issues (e.g., incorrect timing)."
+            ]
+        },
+        {
+            "task": "Environmental awareness during agricultural practices.",
+            "subtasks": [
+                "Maintaining an environmentally-friendly irrigation system using renewable solar power.",
+                "Minimizing battery drain through efficient system design and scheduling.",
+                "Promoting water conservation by optimally aerating the pond during sunlit hours."
+            ]
+        },
+        {
+            "task": "Community engagement through YouTube video production.",
+            "subtasks": [
+                "Sharing knowledge and experience with fellow farmers and hobbyists.",
+                "Encouraging viewer participation through comments and suggestions.",
+                "Maintaining a safety-first mindset in agricultural endeavors."
+            ]
+        },
+        {
+            "task": "Setting up a timer for a solar-powered fountain.",
+            "subtasks": [
+                "Parking the truck and obtaining the needed components.",
+                "Explaining the existing system and understanding its components.",
+                "Identifying issues with the manual timer.",
+                "Installing the digital timer.",
+                "Testing the new setup.",
+                "Adjusting the schedule for optimal use."
+            ]
+        },
+        {
+            "task": "Setting up a solar-powered timer system for a fountain.",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up a solar-powered timer system for a fountain.",
+            "subtasks": [
+                "Park the truck and access materials needed for the setup.",
+                "Explain the components of the existing solar power box (battery, solar charger, regulator, inverter, pump).",
+                "Identify the problem with the previous manual timer (inverter drain).",
+                "Research and choose a digital timer compatible with the system.",
+                "Connect the digital timer to the solar power box, ensuring proper wiring.",
+                "Test the timer's functionality and adjust the schedule for optimal operation.",
+                "Verify the system's efficiency and water conservation benefits.",
+                "Ensure safety procedures were followed during setup.",
+                "Share knowledge on a community platform (presumably YouTube) and engage with viewers."
             ]
         },
         {
             "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Transitioning a solar-powered fountain system from manual to automated control using a digital timer.",
             "subtasks": [
-                "Identifying the problem with previous manual timer setup",
-                "Researching alternatives",
-                "Implementing a Digital Timer",
-                "Debugging the system",
-                "Optimizing the aeration schedule",
-                "Scheduling and maintenance"
+                "Diagnosing the issue with constant inverter operation (manual timer).",
+                "Researching or selecting a suitable digital timer.",
+                "Disassembling the existing setup to replace the manual timer with the digital one.",
+                "Reassembling the system with the\u65b0\u7684\u5b9a\u65f6\u5668.",
+                "Testing the system to confirm proper operation of the fountain and timer."
             ]
         },
         {
-            "task": "",
-            "subtasks": [
-                "Preparing the DIY sump pump for the fountain",
-                "Connecting the sump pump to the inverter",
-                "Testing the fountain's operation",
-                "Adjusting the timing for optimal performance"
-            ]
+            "task": "Setting up a digital timer for a solar-powered fountain.",
+            "subtasks": []
         },
         {
-            "task": "",
+            "task": "Setting up a digital timer for a solar-powered fountain.}",
             "subtasks": [
-                "Regular system check-ups",
-                "Addressing battery-related issues",
-                "Evaluating inverter performance and efficiency"
-            ]
-        },
-        {
-            "task": "",
-            "subtasks": [
-                "Understanding the role of solar panels, charge controllers, and batteries",
-                "Learning about inverters and their connectivity options",
-                "Exploring automation options beyond manual timers"
+                "Parking the truck and obtaining materials.}",
+                "Identifying the existing system's issues.}",
+                "Connecting the digital timer to the solar power box.}",
+                "Testing the timer and adjusting the schedule.}"
             ]
         }
     ]

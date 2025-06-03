@@ -5,48 +5,182 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Starting a mixed vegetable farm",
+            "task": "Conducting a farm business in Spearfish Valley, South Dakota",
             "subtasks": [
-                "Renting or purchasing land and setting up a farm stand",
-                "Rotating crops on a four-year or eight-year cycle",
-                "Implementing no-till farming techniques",
-                "Mulching and cover cropping fields"
+                "Introducing oneself (Jeremy Smith and Trish Jenkins)",
+                "Describing the farm's location and climate (western South Dakota, near Wyoming, Black Hills)",
+                "Explaining the evolution of the farm's marketing strategy (starting with farmers markets, moving to farm stand)",
+                "Detailing crop rotation practices (four-year and eight-year rotations)",
+                "Discussing no-till farming methods and their benefits (soil resiliency, organic matter increase)",
+                "Mentioning the community's support and growth in local food awareness"
             ]
         },
         {
-            "task": "Conducting soil health practices",
+            "task": "Implementing sustainable farming practices",
             "subtasks": [
-                "Maintaining soil coverage",
-                "Managing dry periods with water resiliency"
+                "Describing soil management techniques (mulching, cover cropping)",
+                "Highlighting water conservation and stress management",
+                "Emphasizing organic farming and minimizing off-farm inputs",
+                "Discussing composting and nutrient cycling"
             ]
         },
         {
-            "task": "Managing crop planting and seedling care",
+            "task": "Engaging with the local community and food system",
             "subtasks": [
-                "Planting diverse vegetable crops",
-                "Handling small seeds with no-till methods"
+                "Mentioning interactions with local restaurants",
+                "Sharing the farm's impact on the community and local food system development",
+                "Expressing satisfaction with the multifaceted aspects of farming"
             ]
         },
         {
-            "task": "Organizing farm sales",
+            "task": "Is there a specific format you need for the tasks? Should I write each main task as a MAINTASK line followed by subtasks, or list all tasks together?",
             "subtasks": [
-                "Operating a farmers market stall",
-                "Running a farm stand",
-                "Supplying produce to local restaurants"
+                "give a list of subtasks, one per line.\" So it's a hierarchy where the MAINTASK is the major task, and then SUBTASKs (one per line) are the subtasks under each MAINTASK."
             ]
         },
         {
-            "task": "Engaging with the local food system",
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Conducting a farm business in Spearfish Valley",
+            "subtasks": []
+        },
+        {
+            "task": "Conduct farm operations",
+            "subtasks": []
+        },
+        {
+            "task": "Conducting a farm business in Spearfish Valley",
             "subtasks": [
-                "Supporting community awareness of local food"
+                "Operating the farm stand (e.g., setting up, handling customer transactions, scheduling)",
+                "Supplying produce to local restaurants (showing up with goods, negotiating orders, deliveries)",
+                "Implementing crop rotation plan (planning each season's crops, succession planting)",
+                "Using no-till methods (mulching, cover cropping)",
+                "Practicing organic farming (composting, nutrient cycling)"
             ]
         },
         {
-            "task": "Overcoming farming challenges",
+            "task": "Engaging with community",
             "subtasks": [
-                "Embracing the complexity of farming",
-                "Promoting multifaceted benefits of farming",
-                "Feeling rewarded in various aspects of farming"
+                "Interacting with customers at the farm stand (serving, promoting the farm)"
+            ]
+        },
+        {
+            "task": "Crop Rotation Management",
+            "subtasks": []
+        },
+        {
+            "task": "No-Till Farming Implementation",
+            "subtasks": []
+        },
+        {
+            "task": "Organic Farming Practices",
+            "subtasks": []
+        },
+        {
+            "task": "Customer Interaction at Farm Stand",
+            "subtasks": []
+        },
+        {
+            "task": "Community Engagement",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Conduct a farm business in Spearfish Valley",
+            "subtasks": [
+                "Operate the farm stand",
+                "Supply produce to local restaurants",
+                "Maintain a four-year and eight-year crop rotation",
+                "Apply no-till methods and cover cropping",
+                "Practice organic farming and eliminate external inputs"
+            ]
+        },
+        {
+            "task": "Engage with the local community",
+            "subtasks": [
+                "Serve customers at the farm stand",
+                "Deliver produce to local eateries",
+                "Foster relationships with local community members"
+            ]
+        },
+        {
+            "task": "1. Conduct a farm business in Spearfish Valley (MAINTASK)",
+            "subtasks": [
+                "- Operate the farm stand (SUBTASK)",
+                "- Supply produce to local restaurants (SUBTASK)",
+                "- Rotate crops as per four-year and eight-year cycles (SUBTASK)",
+                "seed cover crops when needed)",
+                "create and apply compost)"
+            ]
+        },
+        {
+            "task": "2. Maintain soil health and resilience (MAINTASK)",
+            "subtasks": [
+                "- Apply mulch and cover crops regularly (SUBTASK)",
+                "- Adapt irrigation practices when water is limited (SUBTASK)"
+            ]
+        },
+        {
+            "task": "3. Engage with the local community (MAINTASK)",
+            "subtasks": [
+                "- Serve customers at the farm stand (SUBTASK)",
+                "harvest and prepare items for delivery)",
+                "participating in community events)"
+            ]
+        },
+        {
+            "task": "Operating a mixed vegetable farm in Spearfish Valley, South Dakota",
+            "subtasks": [
+                "Overseeing the farm's daily operations"
+            ]
+        },
+        {
+            "task": "Grow and harvest vegetables using sustainable methods",
+            "subtasks": [
+                "Implement four-year and eight-year crop rotation",
+                "Use no-till methods, including mulching and cover cropping",
+                "Engage in organic farming, minimizing external inputs (e.g., composting)"
+            ]
+        },
+        {
+            "task": "Manage farm resources to sustain operations during dry periods",
+            "subtasks": [
+                "Monitor and adjust irrigation as needed"
+            ]
+        },
+        {
+            "task": "Engage with the local community to support local food systems",
+            "subtasks": [
+                "Operate the farm stand to sell directly to customers",
+                "Deliver produce to local restaurants",
+                "Participate in local food initiatives and community events"
+            ]
+        },
+        {
+            "task": "| Conducting a farm business in Spearfish Valley with a focus on sustainable agriculture |",
+            "subtasks": [
+                "| Operating the farm stand and directly selling to customers |",
+                "| Supplying produce to local restaurants |",
+                "| Implementing a four-year crop rotation and eight-year rotation |",
+                "| Practicing no-till farming methods and cover cropping |",
+                "| Engaging with the local community and supporting the local food system |"
+            ]
+        },
+        {
+            "task": "MAINTASK: Conducting a farm business in Spearfish Valley, South Dakota",
+            "subtasks": [
+                "Operating the farm stand and directly selling to customers",
+                "Supplying produce to local restaurants",
+                "Implementing a rotating crop system (four-year and eight-year cycles)",
+                "Practicing no-till farming methods and cover cropping",
+                "Engaging with the local community and supporting the local food system"
             ]
         }
     ]

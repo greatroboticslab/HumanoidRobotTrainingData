@@ -5,70 +5,205 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Raising Improved Kienyeji Chickens",
+            "task": "Raising improved Kienyeji chickens for profit",
             "subtasks": [
-                "Choosing the right breed of Kienyeji chicken",
-                "Building a coop for Kienyeji chickens",
-                "Feeding Kienyeji chickens an appropriate diet",
-                "Brooding Kienyeji chicks",
-                "Protecting Kienyeji chickens from diseases and predators"
+                "Selecting the right breed",
+                "Choosing between free-range, semi-free-range, or system unit chicken farming",
+                "Understanding the different methods of keeping chickens",
+                "Understanding the Brooder System",
+                "Local sourcing vs. buying day-old chicks",
+                "Brooding chicks for the first few weeks through traditional or artificial methods",
+                "Feeding chicks according to age and type",
+                "Protecting the chickens from diseases and predators",
+                "Maintaining coop hygiene and equipment"
             ]
         },
         {
-            "task": "Maintaining a Chicken Coop",
+            "task": "Building a chicken coop",
             "subtasks": [
-                "Cleaning the coop regularly",
-                "Ensuring proper heat and light for chickens",
+                "Designing the layout for chickens to eat, roost, and lay eggs",
+                "Installing feeding and drinking equipment",
+                "Choosing and preparing flooring materials",
+                "Implementing a good waste management system",
+                "Ensuring proper ventilation and lighting"
+            ]
+        },
+        {
+            "task": "Managing a chicken flock",
+            "subtasks": [
+                "Managing housing and feeding routines",
+                "Monitoring chicken health and intervening when necessary",
+                "Collecting eggs and managing egg storage",
+                "Providing water for chickens in their enclosure",
+                "Handling and storing feed for optimal shelf life"
+            ]
+        },
+        {
+            "task": "Handling and processing chickens for meat",
+            "subtasks": [
+                "Choosing the right time for slaughter",
+                "Properly restraining the chicken for butchering",
+                "Meat preparation techniques",
+                "Storage and distribution of meat products"
+            ]
+        },
+        {
+            "task": "Managing commercial egg production",
+            "subtasks": [
+                "Collecting eggs multiple times a day",
+                "Storing and packing eggs for transport and sale",
+                "Managing the egg-laying period and adjusting feeding accordingly",
+                "Implementing natural versus artificial lighting",
+                "Ensuring feed and water are available 24/7",
+                "Setting up a timer to control the 23 hours of light",
+                "Understanding how to adjust the light schedule with the changing seasons"
+            ]
+        },
+        {
+            "task": "Building a chicken coop",
+            "subtasks": [
+                "Designing the coop layout for adequate space for chickens",
+                "Ensuring proper ratios for size of coop versus the number of chickens",
+                "Installing feeding and drinking stations in strategic locations",
+                "Designing nesting boxes based on the number of laying hens",
+                "Ensuring easy entry and exit for chickens, while preventing escaping"
+            ]
+        },
+        {
+            "task": "Feeding and managing a chicken flock",
+            "subtasks": [
+                "Feeding chicks different types of feed based on age",
+                "Adjusting feed types as the chickens mature",
+                "Monitoring the take-up rate to prevent waste",
+                "Ensuring access to clean water at all times",
+                "Maintaining feeding and drinking equipment, making sure they are always clean"
+            ]
+        },
+        {
+            "task": "Protecting the chickens from diseases and predators",
+            "subtasks": [
+                "Quarantining new chickens to prevent the spread of diseases",
+                "Properly disposing of sick or dead birds to prevent infections",
+                "Ensuring no pests can enter the coop (e.g., rat proofing)",
+                "Regularly checking for signs of parasites or diseases and treating accordingly"
+            ]
+        },
+        {
+            "task": "Collecting and selling eggs",
+            "subtasks": [
+                "Regularly collecting eggs from nests and distributing them efficiently",
+                "Storing eggs under appropriate conditions (temperature and humidity)",
+                "Packing eggs for market, using proper techniques to protect the shell",
+                "Managing inventory and sales channels for the eggs"
+            ]
+        },
+        {
+            "task": "Taking care of legal and marketing aspects",
+            "subtasks": [
+                "Joining local farmer networks for information sharing",
+                "Staying updated with agricultural policies and regulations",
+                "Understanding the demand for Kienyeji eggs and meat in your area",
+                "Keeping records of sales and expenses for financial planning"
+            ]
+        },
+        {
+            "task": "Raising Improved Kienyeji Chickens for Profit",
+            "subtasks": []
+        },
+        {
+            "task": "Each of these main points\u2014breeding, farming system, brooding, feeding, protecting, collecting, and marketing\u2014becomes a MAINTASK. Under each MAINTASK, there are subtasks breaking down each component. For instance, selecting the right breed includes subtasks like understanding each breed's growth rate, egg-laying capacity, and feed requirements.",
+            "subtasks": []
+        },
+        {
+            "task": "For building a chicken coop (main task 2), there's designing the layout, installing feeding and drinking stations, and designing nesting boxes. Each of these would require specific skills. Making the coop has subtasks like measuring space, cutting wood, attaching panels, etc. If this was a detailed script for building a coop, I'd need more subtasks. But since the transcript just mentions laying out the space, it's the MAINTASK here.",
+            "subtasks": []
+        },
+        {
+            "task": "So within each main task, there are a few sub-tasks that would require physical action. The user can take each MAINTASK, and to perform those tasks, they would need to bend and stretch, use their hands, maybe even do some construction work. However, the tasks related to marketing and regulations are more mental than physical. But if the user is a manager supervising others, they would need to delegate those.",
+            "subtasks": []
+        },
+        {
+            "task": "pulling out a plug, connecting a cord, turning on the light. Changing the timer as seasons change. So perhaps another subtask: ensuring consistent light schedule.",
+            "subtasks": []
+        },
+        {
+            "task": "Raising improved Kienyeji chickens for profit",
+            "subtasks": [
+                "Select the right breed based on growth rates, egg-laying capacity, and feed requirements.",
+                "Choose between free-range, semi-free range, or system unit farming systems.",
+                "Brood chicks using traditional or artificial methods suitable for commercial purposes.",
+                "Feed chicks different types of feed appropriate to their age (chick mash, growers\u2019 mash, layers' mash).",
+                "Monitor feed consumption and adjust according to the flock's needs.",
+                "Ensure constant access to clean water, maintaining drinking equipment.",
+                "Protect chickens from diseases through biosecurity measures and regular health checks.",
+                "Administer treatments for parasites or diseases as necessary.",
+                "Manage predators and pests by implementing rodent control measures."
+            ]
+        },
+        {
+            "task": "Housing and Coop Maintenance",
+            "subtasks": [
+                "Designate areas for eating, sleeping, and laying in the coop.",
+                "Install feeding and drinking stations appropriate to the number of chickens.",
+                "Arrange nesting boxes based on the number of laying hens.",
+                "Maintain the chicken coop\u2019s cleanliness with regular waste management.",
+                "Ensure proper ventilation and lighting conditions."
+            ]
+        },
+        {
+            "task": "Egg and Meat Management",
+            "subtasks": [
+                "Collect eggs multiple times daily and distribute them efficiently.",
+                "Store eggs under appropriate temperature and humidity conditions.",
+                "Prepare and package eggs for market.",
+                "Manage the egg-laying cycle and adjust feeding accordingly.",
+                "Plan for slaughtering meat birds at the optimal time.",
+                "Properly restrain and process meat chickens."
+            ]
+        },
+        {
+            "task": "Legal and Marketing Aspects",
+            "subtasks": [
+                "Stay informed about agricultural policies and regulations.",
+                "Join and participate in local farmer networks for advice and support.",
+                "Understand market demand for Kienyeji eggs and meat.",
+                "Keep financial records of sales and expenses."
+            ]
+        },
+        {
+            "task": "Raising improved Kienyeji chickens for profit",
+            "subtasks": [
+                "Selecting the right breed",
+                "Choosing between free-range, semi-free-range, or system unit chicken farming",
+                "Artificial brooding for chicks",
+                "Feeding chicks with appropriate mash based on age",
                 "Maintaining clean drinking and feeding equipment",
-                "Disinfecting the coop area with a footbath"
+                "Implementing biosecurity measures to protect against diseases",
+                "Rodent control and managing other predators"
             ]
         },
         {
-            "task": "Managing Kienyeji Chickens",
+            "task": "Building a chicken coop",
             "subtasks": [
-                "Monitoring chicks' growth and health",
-                "Transitioning chicks to the appropriate feed stages",
-                "Managing flock separation to prevent disease spread"
+                "Designing eating, sleeping, and nesting areas",
+                "Installing feeding and drinking stations",
+                "Managing coop cleanliness",
+                "Ensuring proper ventilation and lighting"
             ]
         },
         {
-            "task": "Protecting against Predators",
+            "task": "Collecting and selling eggs",
             "subtasks": [
-                "Securing the coop from rodents and wild animals",
-                "Checking forentry points and sealing them"
+                "Regularly collecting eggs",
+                "Storing eggs properly",
+                "Selling eggs through local networks"
             ]
         },
         {
-            "task": "Raising Improved Kienyeji Chickens",
+            "task": "Financial and marketing aspects",
             "subtasks": [
-                "Choosing the right breed**",
-                "Building a coop for Kienyeji chickens**",
-                "Feeding Kienyeji chickens an appropriate diet**",
-                "Brooding Kienyeji chicks**",
-                "Protecting Kienyeji chickens from diseases and enemies**"
-            ]
-        },
-        {
-            "task": "Maintaining a Chicken Coop",
-            "subtasks": [
-                "Cleaning the coop regularly**",
-                "Ensuring proper heat and light for chickens**",
-                "Maintaining clean drinking and feeding equipment**",
-                "Disinfecting the coop area with a footbath**"
-            ]
-        },
-        {
-            "task": "Managing Kienyeji Chickens",
-            "subtasks": [
-                "Monitoring chicks' growth and health**",
-                "Transitioning chicks to the appropriate feed stages**",
-                "Managing flock separation to prevent disease spread**"
-            ]
-        },
-        {
-            "task": "Protecting against Predators",
-            "subtasks": [
-                "Securing the coop from rodents and wild animals**"
+                "Tracking sales and expenses",
+                "Joining community groups for support"
             ]
         }
     ]

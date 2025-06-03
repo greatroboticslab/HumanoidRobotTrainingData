@@ -5,40 +5,52 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Driving and operating a fertilizer spreader to apply fertilizer to fields.",
+            "task": "Farm operations and counting hay bales.",
             "subtasks": [
-                "Loading the granular fertilizer into the hopper.",
-                "Aligning the fertilizer trailer with the skid steer.",
-                "Activating the locking mechanism on the trailer to engage the fertilizer spreader.",
-                "Monitoring the gate opening to control the flow rate (200 pounds per acre).",
-                "Adjusting the speed of the vehicle (5-7 mph) to achieve the desired application rate."
+                "Walk through hay fields and count bales.",
+                "Move to different hay fields and record bale counts.",
+                "Take a shortcut between fields and check bale count.",
+                "Confirm total number of hay bales after thorough check."
             ]
         },
         {
-            "task": "Driving through the fields to spread fertilizer evenly.",
+            "task": "Fertilizer distribution.",
             "subtasks": [
-                "Navigating around obstacles and field rows while driving."
+                "Operate a fertilizer trailer.",
+                "Adjust hopper and conveyor belt systems.",
+                "Apply fertilizer at the correct rate using a spreader."
             ]
         },
         {
-            "task": "Checking for new calves and ear tagging them.",
+            "task": "Cattle husbandry and calf care.",
             "subtasks": [
-                "Identifying new calves born to the herd.",
-                "Retrieving ear tags and inserting them into the calves."
+                "Identify a new calf at the farm.",
+                "Attempt to tag the new calf with an ear tag.",
+                "Check on other pregnant cows, including Oreo."
             ]
         },
         {
-            "task": "Returning the rented fertilizer spreader buggy to the co-op.",
+            "task": "Post-harvest tasks.",
             "subtasks": [
-                "Operating the buggy to drive back to the coop before closing."
+                "Plan and prepare for brush hogging operations.",
+                "Return rented equipment (fertilizer buggy) to the co-op."
             ]
         },
         {
-            "task": "Brush hogging to clear vegetation.",
-            "subtasks": [
-                "Locating areas overgrown with briars.",
-                "Operating the brush hog equipment to cut vegetation."
-            ]
+            "task": "Farm Operations and Counting Hay Bales**",
+            "subtasks": []
+        },
+        {
+            "task": "Fertilizer Distribution**",
+            "subtasks": []
+        },
+        {
+            "task": "Cattle Husbandry and Calving**",
+            "subtasks": []
+        },
+        {
+            "task": "Post-Harvest Maintenance**",
+            "subtasks": []
         }
     ]
 }

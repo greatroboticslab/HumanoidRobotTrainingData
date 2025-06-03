@@ -5,26 +5,136 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Planting stevia from seeds",
+            "task": "Planting stevia seedlings",
             "subtasks": [
-                "Prepare planting area",
-                "Water soil",
-                "Plant stevia seeds into the soil",
-                "Cover seeds with soil",
-                "Mark planting area",
-                "Water soil again"
+                "Retrieve stevia seedlings from storage",
+                "Prepare planting area by weeding or loosening soil",
+                "Space stevia seedlings appropriately in the field",
+                "Ensure proper orientation of stevia plants when planting",
+                "Water planted stevia seedlings"
             ]
         },
         {
-            "task": "Planting out stevia",
+            "task": "Verifying seed germination rate",
             "subtasks": [
-                "Assess number of seedlings",
-                "Select optimal plants for transplanting",
-                "Dig holes for transplants",
-                "Gently remove stevia seedlings from growing medium",
-                "Plant stevia into prepared holes",
-                "Water transplanted stevia",
-                "Mark planting area"
+                "Count the number of stevia plants emerged from the seeds",
+                "Compare expected number of plants with actual count",
+                "Note the discrepancy in germination rate",
+                "Adjust future planting strategy based on observed germination rate"
+            ]
+        },
+        {
+            "task": "Verifying seed germination rate",
+            "subtasks": []
+        },
+        {
+            "task": "Planting stevia seedlings",
+            "subtasks": []
+        },
+        {
+            "task": "Verifying seed germination rate",
+            "subtasks": [
+                "Count the number of plants emerged",
+                "Compare to the number of seeds planted",
+                "Note the germination rate",
+                "Adjust future planting strategy"
+            ]
+        },
+        {
+            "task": "Planting stevia",
+            "subtasks": [
+                "Retrieve seedlings",
+                "Prepare the planting area",
+                "Space plants appropriately",
+                "Plant with correct orientation",
+                "Water the newly planted seedlings"
+            ]
+        },
+        {
+            "task": "Planting out stevia seedlings. This includes steps from retrieving them, planting, spacing, orientation, and watering.",
+            "subtasks": []
+        },
+        {
+            "task": "Verifying the germination rate of stevia seed. This involves counting the emerged plants, understanding the rate, and possibly adjusting future planting plans.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting stevia seedlings",
+            "subtasks": []
+        },
+        {
+            "task": "Verifying seed germination rate",
+            "subtasks": []
+        },
+        {
+            "task": "Planting out stevia seedlings",
+            "subtasks": []
+        },
+        {
+            "task": "Verify the germination rate of stevia seedlings. Then, MAINTASK: Planting out stevia seedlings.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Prepare and plant stevia based on germination rate.",
+            "subtasks": []
+        },
+        {
+            "task": "Verify the germination rate of stevia seedlings (earlier event, inferred from his speech); and",
+            "subtasks": []
+        },
+        {
+            "task": "Planting out stevia seedlings (current activity, as indicated by \"I'm back. I'm also planting out\").",
+            "subtasks": []
+        },
+        {
+            "task": "Planting out stevia seedlings",
+            "subtasks": []
+        },
+        {
+            "task": "Verify the germination rate of stevia seed",
+            "subtasks": []
+        },
+        {
+            "task": "Plant out stevia seedlings",
+            "subtasks": []
+        },
+        {
+            "task": "Planting stevia seedlings",
+            "subtasks": [
+                "Retrieve stevia seedlings from storage",
+                "Prepare planting area by weeding or loosening soil",
+                "Space stevia seedlings appropriately in the field",
+                "Ensure proper orientation of stevia plants when planting",
+                "Water planted stevia seedlings"
+            ]
+        },
+        {
+            "task": "Verifying seed germination rate",
+            "subtasks": [
+                "Count the number of stevia plants emerged from the seeds",
+                "Compare expected number of plants with actual count",
+                "Note the discrepancy in germination rate",
+                "Adjust future planting strategy based on observed germination rate",
+                "Planting stevia seedlings ... SUBTASK: ... SUBTASK: ... MAINTASK: Verifying seed germination rate ... }"
+            ]
+        },
+        {
+            "task": "MAINTASK: Planting stevia seedlings",
+            "subtasks": [
+                "Retrieve stevia seedlings from storage",
+                "Prepare planting area by weeding or loosening soil",
+                "Space stevia seedlings appropriately in the field",
+                "Ensure proper orientation of stevia plants when planting",
+                "Water planted stevia seedlings"
+            ]
+        },
+        {
+            "task": "Verifying seed germination rate",
+            "subtasks": [
+                "Count the number of stevia plants emerged from the seeds",
+                "Compare expected number of plants with actual count",
+                "Note the discrepancy in germination rate",
+                "Adjust future planting strategy based on observed germination rate"
             ]
         }
     ]

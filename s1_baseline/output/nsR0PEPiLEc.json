@@ -5,19 +5,608 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Farming preparation and equipment setup",
+            "task": "Planting seeds",
             "subtasks": [
-                "Retrieve a pot",
-                "Clean the growing area",
-                "Prepare to change the heat source"
+                "Gather seeds",
+                "Retrieve pots",
+                "Clean ground"
             ]
         },
         {
-            "task": "Possibly conducting a class or seminar",
+            "task": "Checking soil moisture",
             "subtasks": [
-                "Addressing the audience",
-                "Initiating a class or seminar"
+                "Assess soil conditions",
+                "Determine watering needs"
             ]
+        },
+        {
+            "task": "Watering plants",
+            "subtasks": [
+                "Locate watering device",
+                "Irrigate plants"
+            ]
+        },
+        {
+            "task": "Transferring plants",
+            "subtasks": [
+                "Dig planting holes",
+                "Lift and transport plants"
+            ]
+        },
+        {
+            "task": "Collecting soil samples",
+            "subtasks": [
+                "Use soil testing kit",
+                "Analyze sample results"
+            ]
+        },
+        {
+            "task": "Verifying plant labels",
+            "subtasks": [
+                "Inspect plant tags",
+                "Check against records"
+            ]
+        },
+        {
+            "task": "Preparing for a class event",
+            "subtasks": [
+                "Coordinate with group",
+                "Setup demonstration area",
+                "Prepare educational materials"
+            ]
+        },
+        {
+            "task": "Managing time constraints",
+            "subtasks": [
+                "Plan schedule",
+                "Prioritize tasks",
+                "Adjust schedule as needed"
+            ]
+        },
+        {
+            "task": "Broadcasting to an audience",
+            "subtasks": [
+                "Engage with viewers",
+                "Provide information in real-time"
+            ]
+        },
+        {
+            "task": "Dress appropriately for weather",
+            "subtasks": [
+                "Check current conditions",
+                "Select appropriate clothing"
+            ]
+        },
+        {
+            "task": "Handling tools and equipment",
+            "subtasks": [
+                "Safely operate gardening tools",
+                "Maintain equipment"
+            ]
+        },
+        {
+            "task": "Ensuring safety during outdoor activities",
+            "subtasks": [
+                "Use protective gear",
+                "Watch for hazards"
+            ]
+        },
+        {
+            "task": "Answering questions from viewers",
+            "subtasks": [
+                "Listen to inquiries",
+                "Respond accurately"
+            ]
+        },
+        {
+            "task": "Keeping track of timer",
+            "subtasks": [
+                "Monitor elapsed time",
+                "Notify when time is up"
+            ]
+        },
+        {
+            "task": "Planting seeds",
+            "subtasks": [
+                "Gather seeds",
+                "Retrieve pots",
+                "Clean ground"
+            ]
+        },
+        {
+            "task": "Checking soil moisture",
+            "subtasks": [
+                "Assess soil conditions",
+                "Determine watering needs"
+            ]
+        },
+        {
+            "task": "Watering plants",
+            "subtasks": [
+                "Locate watering device",
+                "Irrigate plants"
+            ]
+        },
+        {
+            "task": "Transferring plants",
+            "subtasks": [
+                "Dig planting holes",
+                "Lift and transport plants"
+            ]
+        },
+        {
+            "task": "Collecting soil samples",
+            "subtasks": [
+                "Use soil testing kit",
+                "Analyze sample results"
+            ]
+        },
+        {
+            "task": "Verifying plant labels",
+            "subtasks": [
+                "Inspect plant tags",
+                "Check against records"
+            ]
+        },
+        {
+            "task": "Preparing for a class event",
+            "subtasks": [
+                "Coordinate with group",
+                "Setup demonstration area",
+                "Prepare educational materials"
+            ]
+        },
+        {
+            "task": "Managing time constraints",
+            "subtasks": [
+                "Plan schedule",
+                "Prioritize tasks",
+                "Adjust schedule as needed"
+            ]
+        },
+        {
+            "task": "Broadcasting to an audience",
+            "subtasks": [
+                "Engage with viewers",
+                "Provide information in real-time"
+            ]
+        },
+        {
+            "task": "Dress appropriately for weather",
+            "subtasks": [
+                "Check current conditions",
+                "Select appropriate clothing"
+            ]
+        },
+        {
+            "task": "Handling tools and equipment",
+            "subtasks": [
+                "Safely operate gardening tools",
+                "Maintain equipment"
+            ]
+        },
+        {
+            "task": "Ensuring safety during outdoor activities",
+            "subtasks": [
+                "Use protective gear",
+                "Watch for hazards"
+            ]
+        },
+        {
+            "task": "Answering questions from viewers",
+            "subtasks": [
+                "Listen to inquiries",
+                "Respond accurately"
+            ]
+        },
+        {
+            "task": "Keeping track of timer",
+            "subtasks": [
+                "Monitor elapsed time",
+                "Notify when time is up"
+            ]
+        },
+        {
+            "task": "So total tasks. Let me check again. The MAINTASKs should be the major actions.",
+            "subtasks": []
+        },
+        {
+            "task": "before every task.",
+            "subtasks": []
+        },
+        {
+            "task": "give a list of subtasks, one per line.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting/transplanting",
+            "subtasks": [
+                "Gather materials (pot)",
+                "Prepare planting area (clean ground, moving pots)",
+                "Sow/seeds or transplant"
+            ]
+        },
+        {
+            "task": "Planting Seeds/Transplanting",
+            "subtasks": []
+        },
+        {
+            "task": "Checking Soil",
+            "subtasks": []
+        },
+        {
+            "task": "Watering",
+            "subtasks": []
+        },
+        {
+            "task": "Transferring Plants/Labelling",
+            "subtasks": []
+        },
+        {
+            "task": "Verifying Plant Labels",
+            "subtasks": []
+        },
+        {
+            "task": "Preparing for a Class (including setup)",
+            "subtasks": []
+        },
+        {
+            "task": "Managing Time",
+            "subtasks": []
+        },
+        {
+            "task": "Dress Appropriately",
+            "subtasks": []
+        },
+        {
+            "task": "Handling Tools",
+            "subtasks": []
+        },
+        {
+            "task": "Ensuring Safety",
+            "subtasks": []
+        },
+        {
+            "task": "Responding to Questions (in context of ongoing tasks)",
+            "subtasks": []
+        },
+        {
+            "task": "Monitoring Time (for the class)",
+            "subtasks": []
+        },
+        {
+            "task": "Planting/Moving Seeds",
+            "subtasks": [
+                "Gather planting materials",
+                "Prepare planting area",
+                "Plant the seeds or transplant"
+            ]
+        },
+        {
+            "task": "Checking Soil/Moisture Testing",
+            "subtasks": [
+                "Use a soil moisture meter",
+                "Test soil samples"
+            ]
+        },
+        {
+            "task": "Watering Plants",
+            "subtasks": [
+                "Use a watering can",
+                "Distribute water"
+            ]
+        },
+        {
+            "task": "Transferring Plants",
+            "subtasks": [
+                "Dig up existing plants",
+                "Transport plants to new location",
+                "Plant into new holes"
+            ]
+        },
+        {
+            "task": "Verifying Plant Labels",
+            "subtasks": [
+                "Inspect label information",
+                "Ensure accuracy"
+            ]
+        },
+        {
+            "task": "Preparing for a Class/Presentation",
+            "subtasks": [
+                "Organize materials",
+                "Set up demonstration area",
+                "Coordinate with participants"
+            ]
+        },
+        {
+            "task": "Managing Time",
+            "subtasks": [
+                "Plan schedule",
+                "Allocate time for tasks",
+                "Adjust as needed"
+            ]
+        },
+        {
+            "task": "Managing Time",
+            "subtasks": [
+                "Plan, allocate, adjust"
+            ]
+        },
+        {
+            "task": "Managing Time",
+            "subtasks": [
+                "Monitor time elapsed",
+                "Notify when time is up"
+            ]
+        },
+        {
+            "task": "Planting/Transplanting (Seeds/Vegetables)",
+            "subtasks": []
+        },
+        {
+            "task": "Checking Soil (Moisture/Conditions)",
+            "subtasks": []
+        },
+        {
+            "task": "Irrigating (Watering)",
+            "subtasks": []
+        },
+        {
+            "task": "Moving Plants (Transplanting)",
+            "subtasks": []
+        },
+        {
+            "task": "Verifying Labels (Plant Identification)",
+            "subtasks": []
+        },
+        {
+            "task": "Preparing for a Class (Setup)",
+            "subtasks": []
+        },
+        {
+            "task": "Managing Time (Scheduling)",
+            "subtasks": []
+        },
+        {
+            "task": "Dressing Appropriately (Weather Check)",
+            "subtasks": []
+        },
+        {
+            "task": "Handling Tools (Gardening Equipment)",
+            "subtasks": []
+        },
+        {
+            "task": "Ensuring Safety (Outdoor Activities)",
+            "subtasks": []
+        },
+        {
+            "task": "Responding to Questions (Audience Interaction)",
+            "subtasks": []
+        },
+        {
+            "task": "Monitoring Time (Class Duration)",
+            "subtasks": []
+        },
+        {
+            "task": "Planting",
+            "subtasks": [
+                "Gather materials (pots, seeds)",
+                "Prepare ground/beds",
+                "Plant seeds"
+            ]
+        },
+        {
+            "task": "Watering",
+            "subtasks": [
+                "Irrigate plants"
+            ]
+        },
+        {
+            "task": "Transferring",
+            "subtasks": [
+                "Dig up existing plants",
+                "Transport and plant in new location"
+            ]
+        },
+        {
+            "task": "Verifying Labels",
+            "subtasks": [
+                "Inspect existing labels",
+                "Check against records"
+            ]
+        },
+        {
+            "task": "Preparing for a Class",
+            "subtasks": [
+                "Organize materials",
+                "Set up demonstration area",
+                "Coordinate with participants"
+            ]
+        },
+        {
+            "task": "Managing Time",
+            "subtasks": [
+                "Plan schedule",
+                "Allocate time to tasks",
+                "Adjust as needed"
+            ]
+        },
+        {
+            "task": "Dressing Appropriately",
+            "subtasks": [
+                "Check weather",
+                "Select clothes"
+            ]
+        },
+        {
+            "task": "Handling Tools",
+            "subtasks": [
+                "Operate gardening equipment safely"
+            ]
+        },
+        {
+            "task": "Ensuring Safety",
+            "subtasks": [
+                "Use protective gear",
+                "Check for hazards"
+            ]
+        },
+        {
+            "task": "Answering Questions",
+            "subtasks": [
+                "Listen to questions",
+                "Respond appropriately"
+            ]
+        },
+        {
+            "task": "Monitoring Time",
+            "subtasks": [
+                "Keep track of elapsed time",
+                "Notify when time is up"
+            ]
+        },
+        {
+            "task": "1. Planting Seeds \u2192 MAINTASK",
+            "subtasks": []
+        },
+        {
+            "task": "2. Watering \u2192 MAINTASK",
+            "subtasks": []
+        },
+        {
+            "task": "3. Transferring Plants \u2192 MAINTASK",
+            "subtasks": []
+        },
+        {
+            "task": "4. Verifying Plant Labels \u2192 MAINTASK",
+            "subtasks": []
+        },
+        {
+            "task": "5. Preparing for a Class \u2192 MAINTASK",
+            "subtasks": []
+        },
+        {
+            "task": "6. Dressing Appropriately \u2192 MAINTASK",
+            "subtasks": []
+        },
+        {
+            "task": "7. Handling Tools \u2192 MAINTASK",
+            "subtasks": []
+        },
+        {
+            "task": "8. Ensuring Safety \u2192 MAINTASK",
+            "subtasks": []
+        },
+        {
+            "task": "9. Answering Questions \u2192 MAINTASK",
+            "subtasks": []
+        },
+        {
+            "task": "10. Managing Time \u2192 MAINTASK",
+            "subtasks": [
+                "11. Monitoring Time \u2192 SUBTASK of Managing Time"
+            ]
+        },
+        {
+            "task": "But originally, there were 12 MAINTASKs when I listed everything, like Preparing for class, labels, time management, etc.",
+            "subtasks": []
+        },
+        {
+            "task": "Farming Activities (Planting/Transplanting, Watering, Label Verification)",
+            "subtasks": []
+        },
+        {
+            "task": "Class and Audience Management (Preparation, Q&A)",
+            "subtasks": []
+        },
+        {
+            "task": "Personal Preparation (Dressing, Safety)",
+            "subtasks": []
+        },
+        {
+            "task": "Tool Management (Handling Tools)",
+            "subtasks": []
+        },
+        {
+            "task": "Activity Management (Time Management)",
+            "subtasks": []
+        },
+        {
+            "task": "Planting",
+            "subtasks": [
+                "Retrieve pots",
+                "Clean ground",
+                "Nurture seedlings (adjust temperature)"
+            ]
+        },
+        {
+            "task": "Soil Management",
+            "subtasks": [
+                "Check moisture levels",
+                "Collect soil samples"
+            ]
+        },
+        {
+            "task": "Watering",
+            "subtasks": [
+                "Irrigate plants"
+            ]
+        },
+        {
+            "task": "Plant Care",
+            "subtasks": [
+                "Transfer plants",
+                "Water appropriately"
+            ]
+        },
+        {
+            "task": "Inventory Management",
+            "subtasks": [
+                "Verify plant labels"
+            ]
+        },
+        {
+            "task": "Class Preparation",
+            "subtasks": [
+                "Set up demonstration area",
+                "Enroll participants"
+            ]
+        },
+        {
+            "task": "Time Management",
+            "subtasks": [
+                "Monitor elapsed time",
+                "Adjust schedule as needed"
+            ]
+        },
+        {
+            "task": "Dress Appropriately",
+            "subtasks": [
+                "Check weather",
+                "Choose clothing"
+            ]
+        },
+        {
+            "task": "Safety Measures",
+            "subtasks": [
+                "Use protective gear",
+                "Inspect surroundings for hazards"
+            ]
+        },
+        {
+            "task": "Tool Usage",
+            "subtasks": [
+                "Safely operate equipment"
+            ]
+        },
+        {
+            "task": "- Answering Questions \u2190 This could be a separate MAINTASK if questions are handled during specific times. Perhaps part of the class preparation.",
+            "subtasks": []
+        },
+        {
+            "task": "Final Answer would be in the structured text form, each MAINTASK with its subtasks as per the structured text above.",
+            "subtasks": []
         }
     ]
 }

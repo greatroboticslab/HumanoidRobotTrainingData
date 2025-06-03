@@ -5,19 +5,53 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Host seminar on agricultural technology diffusion and teacher training.",
+            "task": "Hosting and presenting a seminar on the diffusion of agricultural technology in Bangladesh using a specific example of the System of Rice Intensification (SRI).",
             "subtasks": [
-                "Introduce co-authors and outline paper's objective on SRI technology diffusion.",
-                "Explain systems of rice intensification (SRI) benefits and challenges.",
-                "Describe experimental design, including village selection, assignment rules, and treatments.",
-                "Detail teacher trainee selection and incentivization methods.",
-                "Address weighting and stratified sampling considerations for analysis.",
-                "Discuss average treatment effects on SRI adoption and agricultural performance.",
-                "Analyze quiz scores and knowledge transmission between teachers and students.",
-                "Compare adoption rates between incentivized and non-incentivized teachers.",
-                "Examine influence of nominated vs. randomly assigned students on adoption.",
-                "Interpret results and discuss social return on intervention."
+                "Introduce collaborators and research objectives.",
+                "Explain the challenge of targeting beneficiaries for agricultural technology training.",
+                "Describe the use of model farmers (trainee farmers) to teach other farmers.",
+                "Detail the experimental design, including treatment groups, incentives, and assignment mechanisms.",
+                "Justify the use of weights for proper statistical analysis considering non-random assignment.",
+                "Present results on increased adoptions and yields among teacher trainees and their students.",
+                "Discuss the role of knowledge transfer versus example-setting in adoption rates.",
+                "Highlight the social return on investment for the training program."
             ]
+        },
+        {
+            "task": "Hosting and presenting a seminar on the diffusion of agricultural technology in Bangladesh using a specific example of the System of Rice Intensification (SRI).\" That covers the overall main event.",
+            "subtasks": [
+                "The transcript mentions Marcel introducing his co-authors (Assad Islam, Abdul-Malek, and Debyean Pakrashi). Then he gives an overview of the research objectives. So a subtask could be \"SUBTASK: Introduce collaborators and research objectives.\"",
+                "He discusses the challenge of targeting beneficiaries for agricultural technology training. The system SRI (which doesn't require additional inputs but is difficult to master) makes this challenging. He mentions that training everyone is costly. Then they tried a referral method but found it didn't work as expected. So a subtask could be \"SUBTASK: Explain the challenge of targeting beneficiaries for agricultural technology training.\"",
+                "Describe the use of model farmers (trainee farmers) to teach other farmers.\"",
+                "Detail the experimental design, including treatment groups, incentives, and assignment mechanisms.\"",
+                "Justify the use of weights for proper statistical analysis considering non-random assignment.\"",
+                "Present results on increased adoptions and yields among teacher trainees and their students.\"",
+                "Discuss the role of knowledge transfer versus example-setting in adoption rates.\"  (He mentioned both knowledge and modeling channels might contribute.)",
+                "He did a cost-benefit analysis, finding a high social return on investment. Subtask: \"SUBTASK: Highlight the social return on investment for the training program.\"",
+                "When he says \"role models,\" they used a baseline where farmers nominated each other as role models for agricultural technology. In the assignment, some students were assigned to teachers they nominated (above median) versus those they didn't. So there's a subtask here: \"SUBTASK: Detail the role of being a 'role model' in the assignment mechanism and discuss the results related to such nominations.\""
+            ]
+        },
+        {
+            "task": "Hosting and presenting a seminar on the diffusion of agricultural technology in Bangladesh using SRI.",
+            "subtasks": [
+                "Introduce collaborators and research objectives (focusing on BRAC's efforts to train farmers on SRI).",
+                "Explain the challenge of targeting beneficiaries for SRI training (difficulty in mastering, expensive training, earlier methods like referrals didn't work as intended).",
+                "Describe the intervention: using model farmers (trainees who teach two farmers each) with incentives, balanced via weights, and matched on role models (some criteria students vs. unlisted).",
+                "Detail the experimental setup: villages, BRAC\u2019s identification of 30 potential adopters, randomization, teacher selection, and matching.",
+                "Justify how they accounted for non-random assignment using weighting (stratified sampling).",
+                "Present statistical results: higher SRI adoption and higher yields in teacher trainees and students, with students' quiz performance related to teacher knowledge.",
+                "Discuss the role of knowledge transmission versus example in the success (students learned more when matched to role models and model teachers, but this also depends on the students' previous knowledge and skill).",
+                "Highlight the social return on investment (about 150% return, justifying the program despite some over-adoption in the incentivized group).",
+                "Analyze the impact of incentives on adoption and teacher performance.\" Another nuance\u2014students whose teachers were incentivized performed slightly better on the quiz (perhaps because teachers paid more attention to the course material)."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Hosting and presenting a seminar on the diffusion of agricultural technology in Bangladesh using the System of Rice Intensification (SRI) as a case study.",
+            "subtasks": []
         }
     ]
 }

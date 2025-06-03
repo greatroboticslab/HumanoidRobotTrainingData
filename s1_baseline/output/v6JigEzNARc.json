@@ -5,69 +5,79 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Operate combine harvester",
+            "task": "Farming task - Operating a mechanical corn planter",
             "subtasks": [
-                "Sit on the combine's seat",
-                "Engage the steering wheel to direct the machine",
-                "Monitor the controls and instruments",
-                "Adjust the combine settings as needed",
-                "Collect the harvested crops into the combine's bin",
-                "Use the forward and reverse gears to navigate fields",
-                "Manage the combine's speed to optimize harvest efficiency",
-                "Check for crop debris and clean equipment as required",
-                "Use the engine controls to start and stop the machine"
+                "A farmer climbs into the combine's cab",
+                "The user turns a clip of explaining the corn planter",
+                "The user turns to explain the planter buttons and levers",
+                "Show the farmer pressing the \"Corn Plant\" button and adjusting the seed depth with a lever",
+                "Show the farmer reversing the tractor to prepare for planting",
+                "The user turns back to explain key pitfall of high plant populations",
+                "Show the farmer checking the seed bag and seed flow using a clamp",
+                "The farmer steps out to unplug the planter and reset seed depth",
+                "The planter is plugged back in, the lever is set again",
+                "The farmer proceeds to planting rows",
+                "Show the farmer making corrections mid-planting",
+                "Farmer finishes planting and exits the combine"
             ]
         },
         {
-            "task": "Load harvested crops onto trailer",
+            "task": "Checking and maintaining the planter equipment",
             "subtasks": [
-                "Stop the combine when approaching the trailer",
-                "Align the combine's discharge chute with the trailer's entrance",
-                "Open the combine's unloading mechanism",
-                "Monitor the weight of crops being loaded",
-                "Close the unloading mechanism once the trailer is full",
-                "Wait for the trailer to be unloaded before resuming harvest"
+                "Farmer ensures the planter is properly attached and tensioned",
+                "Adjusting the closing wheels and seed depth as necessary",
+                "Verifying the seed flow and no seed bridging"
             ]
         },
         {
-            "task": "Check and maintain agricultural machinery",
+            "task": "Planting crop in fields",
             "subtasks": [
-                "Inspect the combine for any visible damage",
-                "Test the combine's mechanical functions",
-                "Lubricate moving parts of the combine",
-                "Check and adjust the combine's ventilation system",
-                "Clean the combine's cab and external surfaces"
+                "Preparing a field for corn planting",
+                "Marking rows or grid points where the planter will operate"
             ]
         },
         {
-            "task": "Drive tractor",
+            "task": "Adjusting the corn planter settings based on soil conditions",
             "subtasks": [
-                "Sit on the tractor's seat",
-                "Operate the steering wheel or control levers",
-                "Use foot pedals for speed and direction",
-                "Engage the transmission to select gears",
-                "Apply the brakes when stopping",
-                "Manage the tractor's tilt for field operations"
+                "The farmer makes adjustments to planter speed and row spacing",
+                "Choosing appropriate seed depth and spacing for optimal germination"
             ]
         },
         {
-            "task": "Operate semiAuto pickup attachment",
+            "task": "Verifying proper seed depth",
             "subtasks": [
-                "Secure the pickup attachment to the combine",
-                "Connect the pickup's hydraulic lines to the combine",
-                "Program the pickup's settings for crop type",
-                "Adjust the pickup's speed relative to the combine"
+                "Checking the seed depth using a meter or probe",
+                "Adjusting the planter depth based on soil firmness and moisture"
             ]
         },
         {
-            "task": "Perform field management tasks",
+            "task": "Ensuring consistent planting speed",
             "subtasks": [
-                "Obtain crop samples for moisture testing",
-                "Adjust combine settings based on real-time crop conditions",
-                "Check the grain grade and cleanliness",
-                "Inspect the field for any leftover plant parts",
-                "Note down observation results for record-keeping",
-                "Troubleshoot any machinery malfunctions during operation"
+                "Adjusting the planter's travel speed to match the operator's pace",
+                "Using GPS to guide planting and adhere to a specific speed"
+            ]
+        },
+        {
+            "task": "Addressing a key concern - avoiding high plant populations",
+            "subtasks": [
+                "The farmer discusses the risk of overplanting and its effects",
+                "Recommending checking seed moisture and adjusting rates accordingly",
+                "Observing the established corn areas and noting their density"
+            ]
+        },
+        {
+            "task": "Seed bin management",
+            "subtasks": [
+                "Checking the seed level in the hopper",
+                "Shaking the hopper to ensure even seed distribution",
+                "Adding more seed when needed and refilling the bin"
+            ]
+        },
+        {
+            "task": "Dealing with planter malfunctions (hypothetical)",
+            "subtasks": [
+                "The farmer identifies a sticking seed gate or silo plug",
+                "Troubleshooting and clearing the seed flow issue"
             ]
         }
     ]

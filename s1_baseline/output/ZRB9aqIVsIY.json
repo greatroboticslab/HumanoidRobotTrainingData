@@ -5,30 +5,62 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Perform hydraulic reservoir draining and line flushing on a New Holland machine due to water contamination.",
-            "subtasks": []
-        },
-        {
-            "task": "",
+            "task": "The task involves fixing a water contamination issue in a New Holland hydraulic system.",
             "subtasks": [
-                "Identify water contamination in hydraulic lines (white, milky oil).",
-                "Remove dipstick securely and connect pump to reservoir.",
-                "Transfer contaminated oil to a bucket using the pump.",
-                "Inspect reservoir cap and filter for proper placement and condition.",
-                "Examine gasket seals around the reservoir cap and replace as necessary.",
-                "Reinstall reservoir cap and ensure proper sealing.",
-                "Refill reservoir with clean hydraulic fluid.",
-                "Operate machine to cycle fluid through auxiliary lines.",
-                "Drain auxiliary lines into a bucket while bleeding air/faulty fluid.",
-                "Repeat fluid checks and line bleeds until only clean hydraulic fluid is present.",
-                "Install new hydraulic filter to replace contaminated one.",
-                "Seal reservoir cover with a modified container and silicone sealant.",
-                "Confirm no water contamination in fluid by visual inspection and testing."
+                "Remove the dipstick to check the contaminated hydraulic fluid (white and milky).",
+                "Use a pump to drain the reservoir and siphon contaminated oil into a bucket.",
+                "Inspect and replace damaged gaskets and seals around the reservoir cap to prevent future water ingress.",
+                "Apply silicone sealant to the existing gasket to reinforce the seal around the reservoir.",
+                "Cover the reservoir cap with a plastic container to prevent water entry.",
+                "Check and possibly replace the hydraulic filter.",
+                "Drain and flush auxiliary hydraulic lines by bleeding each line and collecting output in a bucket.",
+                "Refill the reservoir with clean hydraulic fluid after draining.",
+                "Operate the machine briefly to circulate the new fluid through the lines.",
+                "Re-bleed the hydraulic system to ensure all air is expelled and fluid is properly distributed."
             ]
         },
         {
-            "task": "Perform hydraulic reservoir draining and line flushing on a New Holland machine due to water contamination.",
+            "task": "Change the hydraulic filter.",
+            "subtasks": [
+                "Remove the old filter and install a new one."
+            ]
+        },
+        {
+            "task": "Apply silicone sealant to other potential water entry points.",
+            "subtasks": [
+                "Seal around the dipstick and any other openings prone to water ingress."
+            ]
+        },
+        {
+            "task": "Fixing water contamination in a New Holland hydraulic system**",
             "subtasks": []
+        },
+        {
+            "task": "The task involves fixing a water contamination issue in a New Holland hydraulic system.",
+            "subtasks": [
+                "Remove the dipstick to check the contaminated hydraulic fluid (white and milky).",
+                "Use a pump to drain the reservoir and siphon contaminated oil into a bucket.",
+                "Inspect and replace damaged gaskets and seals around the reservoir cap to prevent future water ingress.",
+                "Apply silicone sealant to the existing gasket to reinforce the seal around the reservoir.",
+                "Cover the reservoir cap with a plastic container to prevent water entry.",
+                "Check and possibly replace the hydraulic filter.",
+                "Drain and flush auxiliary hydraulic lines by bleeding each line and collecting output in a bucket.",
+                "Refill the reservoir with clean hydraulic fluid after draining.",
+                "Operate the machine briefly to circulate the new fluid through the lines.",
+                "Re-bleed the hydraulic system to ensure all air is expelled and fluid is properly distributed."
+            ]
+        },
+        {
+            "task": "Change the hydraulic filter.",
+            "subtasks": [
+                "Remove the old filter and install a new one."
+            ]
+        },
+        {
+            "task": "Apply silicone sealant to other potential water entry points.",
+            "subtasks": [
+                "Seal around the dipstick and any other openings prone to water ingress."
+            ]
         }
     ]
 }

@@ -3,5 +3,649 @@
     "title": "How can we achieve sustainable plant production systems to feed the world?",
     "url": "https://www.youtube.com/watch?v=i0HNPHpCvV4",
     "category": "Nonprofits & Activism",
-    "tasks": []
+    "tasks": [
+        {
+            "task": "Driving a combine harvester in a field**",
+            "subtasks": [
+                "Climb onto the combine harvester (actor)",
+                "Sit in the driver's seat (actor)",
+                "Put the key into the ignition and start the engine (actor)",
+                "Adjust the combine's speed (actor)",
+                "Direct the combine to move through the field (actor)",
+                "Monitor the combine's progress (actor)",
+                "Ensure the combine is functioning correctly (actor)",
+                "Disengage the combine when done (actor)"
+            ]
+        },
+        {
+            "task": "Operating a baler to bale hay**",
+            "subtasks": [
+                "Drive the baler to the hay field (actor)",
+                "Station the baler at the field's edge (actor)",
+                "Attach the baler's tongue to the tractor (actor)",
+                "Position the baler correctly (actor)",
+                "Engage the baler to begin baling (actor)",
+                "Monitor the bales as they form (actor)",
+                "Disengage the baler when finished (actor)"
+            ]
+        },
+        {
+            "task": "Transporting hay bales to a storage shed**",
+            "subtasks": [
+                "Drive the tractor equipped with a bale grab or lift bed to the field (actor)",
+                "Position near the bales to be transported (actor)",
+                "Use the bale grab or lift bed to load the bales onto the tractor (actor)",
+                "Secure the bales on the tractor (actor)",
+                "Drive the tractor with bales to the storage shed (actor)",
+                "Unload the bales at the storage shed (actor)",
+                "Stack the bales inside the shed (actor)"
+            ]
+        },
+        {
+            "task": "Applying fertilizer to a field**",
+            "subtasks": [
+                "Drive a fertilizer broadcast spreader or spreader attached to a tractor (actor)",
+                "Position the spreader at the field's edge (actor)",
+                "Adjust the spreader's settings as needed (actor)",
+                "Engage the spreader mechanism to apply fertilizer (actor)",
+                "Monitor the distribution of the fertilizer (actor)",
+                "Adjust speed and spread pattern as necessary (actor)",
+                "Disengage the spreader when done (actor)"
+            ]
+        },
+        {
+            "task": "Installing a new irrigation system in a field**",
+            "subtasks": [
+                "Survey the field to plan irrigation system layout (observer)",
+                "Measure distances between planting rows (observer)",
+                "Mark the positions for irrigation pipes (observer)",
+                "Dig trenches for the irrigation pipes (worker)",
+                "Lay and secure the irrigation pipes (worker)",
+                "Connect the pipes to the water supply (worker)",
+                "Test the irrigation system for leaks or proper flow (observer)"
+            ]
+        },
+        {
+            "task": "Applying pesticide to crops via drone**",
+            "subtasks": [
+                "Operate a drone fitted with a pesticide spray system (operator)",
+                "Calibrate the drone's pesticide payload (operator)",
+                "Fly the drone over the crops, applying pesticide (operator)",
+                "Monitor the coverage and application rate of the pesticide (operator)",
+                "Check the drone's batteries and reload if necessary (operator)",
+                "Land the drone after completing the pesticide application (operator)"
+            ]
+        },
+        {
+            "task": "Planting corn using a row crop planter**",
+            "subtasks": [
+                "Prepare the field by cultivating with a cultivator (operator)",
+                "Assemble and set up the row crop planter (operator)",
+                "Align the planter with crop rows (operator)",
+                "Plant corn seeds at the correct depth and spacing (operator)",
+                "Monitor seed placement and spacing (operator)",
+                "Disengage the planter when the job is done (operator)",
+                "Clean the planter and store for next use (operator)"
+            ]
+        },
+        {
+            "task": "Harvesting apples from an orchard**",
+            "subtasks": [
+                "Ascend a ladder to reach the apple branches ( climber)",
+                "Shake the apple branches to dislodge fruit (actor)",
+                "Collect the falling apples into bags or baskets (gatherer)",
+                "Descend the ladder safely (climber)",
+                "Load the harvested apples onto a pickup truck or trailer (loadr)",
+                "Transport apples to a storage facility or wash area (driv)",
+                "Sort and grade the apples (sorter)"
+            ]
+        },
+        {
+            "task": "Repairing a broken tractor seat belt**",
+            "subtasks": [
+                "Locate the seat belt on the damaged tractor (inspector)",
+                "Determine the extent of the damage (inspector)",
+                "Retrieve necessary tools for repair (gatherer)",
+                "Disassemble the belt to access breaks or tears ( repairman )",
+                "Repair the breaks using replacement parts or adhesive ( repairman )",
+                "Reassemble the seat belt (repairman)",
+                "Test the seat belt for safety (test-driver)"
+            ]
+        },
+        {
+            "task": "Feeding cattle in a confined feedlot**",
+            "subtasks": [
+                "Drive a utility vehicle or truck to the feedlot pens (driver)",
+                "Unload feed into a feeder or onto the ground (unloader)",
+                "Distribute feed evenly across each pen (distributor)",
+                "Monitor the cattle's feeding behavior and health (observer)",
+                "Return to the storage area to reload if necessary (reload)",
+                "Repeat until all pens are fed (repeat)"
+            ]
+        },
+        {
+            "task": "Checking the water level in a cattle trough**",
+            "subtasks": [
+                "Approach the cattle trough (approacher)",
+                "Assess the depth of the water (inspector)",
+                "Compare current level to desired depth (inspector)",
+                "Determine if additional water is needed from a hydrant or tank (decider)",
+                "Connect hoses or move water containers to refill (handler)",
+                "Refill the trough to the appropriate level (SQ operator)",
+                "Check that the water is directed properly (SQ observer)"
+            ]
+        },
+        {
+            "task": "Fixing a broken pipe in an irrigation system**",
+            "subtasks": [
+                "Locate the broken pipe in the field (inspector)",
+                "Dig around the broken pipe to access it (worker)",
+                "Remove the old pipe section (remover)",
+                "Insert a new pipe section (installer)",
+                "Connect the new pipe to the existing system (installer)",
+                "Backfill the excavation area (worker)",
+                "Test the connection for leaks (SQ observer)",
+                "Adjust system settings if needed (SQ operator)"
+            ]
+        },
+        {
+            "task": "Planting trees in a new orchard**",
+            "subtasks": [
+                "Excavate holes for tree plantings with a shovel or backhoe (digger)",
+                "Assess hole depth and width (inspector)",
+                "Position each tree at the correct depth (plant operator)",
+                "Fill the hole with soil, tamping as necessary (plant operator)",
+                "Water each newly planted tree (waterer)",
+                "Install stakes and ties for support (installer)",
+                "Prune excess branches if needed (pruner)"
+            ]
+        },
+        {
+            "task": "Collecting dripping milk from a dairy barn**",
+            "subtasks": [
+                "Navigate through the dairy barn to reach the q-milk system (SQ operator)",
+                "Connect collection containers to the q-milk system lines (SQ operator)",
+                "Open valves to divert dripped milk into the containers (SQ operator)",
+                "Monitor the collection process (SQ operator)",
+                "Transfer collected milk to the bulk tank (SQ operator)",
+                "Record the amount of dripped milk collected (SQ operator)",
+                "Clean and sanitize the collection equipment (SQ operator)",
+                "Report any issues to maintenance (SQ operator)"
+            ]
+        },
+        {
+            "task": "Checking pivot irrigator alignment and operation**",
+            "subtasks": [
+                "Drive a tractor to the pivot irrigator (SQ operator)",
+                "Power up the pivot system (SQ operator)",
+                "Inspect the pivot structure for any misalignments (SQ inspector)",
+                "Adjust pivot joints or drive wheels as needed (SQ operator)",
+                "Test the rotation of the pivot to ensure even coverage (SQ operator)",
+                "Check water pressure and spray patterns (SQ inspector)",
+                "Lubricate moving parts if necessary (SQ operator)"
+            ]
+        },
+        {
+            "task": "Checking the milk flow in a dairy operation**",
+            "subtasks": [
+                "Enter the dairy barn to check milk q-systems (SQ operator)",
+                "Open a valve to check the flow rate (SQ operator)",
+                "Compare the flow to standard thresholds (SQ operator)",
+                "Record the flow data (SQ operator)",
+                "Investigate any deviations from normal flow (SQ operator)",
+                "Ensure that the cooling system is functioning (SQ operator)",
+                "Verify that the milk is at the correct temperature (SQ operator)"
+            ]
+        },
+        {
+            "task": "Cultivating a field with a cultivator**",
+            "subtasks": [
+                "Position the cultivator behind a tractor (SQ operator)",
+                "Adjust the cultivator blades to the appropriate depth (SQ operator)",
+                "Drive the tractor through the field (SQ operator)",
+                "Monitor the cultivation progress (SQ operator)",
+                "Adjust direction or depth as necessary (SQ operator)",
+                "Disengage the cultivator when done (SQ operator)",
+                "Clean and store the cultivator (SQ operator)"
+            ]
+        },
+        {
+            "task": "Adjusting the fence to prevent cattle escapes**",
+            "subtasks": [
+                "Approach the fence line around the pasture (SQ operator)",
+                "Identify weak or damaged sections (SQ inspector)",
+                "Replace or secure damaged posts and wiring (SQ operator)",
+                "Tighten any loose sections (SQ operator)",
+                "Test the fence's effectiveness by attempting to move a cow through (SQ operator)",
+                "Document any areas that need further attention (SQ inspector)"
+            ]
+        },
+        {
+            "task": "Managing a herd of dairy cows**",
+            "subtasks": [
+                "Walk through the dairy barn to monitor cow health (SQ inspector)",
+                "Check feed delivery systems (SQ operator)",
+                "Ensure waterers are functional (SQ operator)",
+                "Address any broken feeders or waterers (SQ operator)",
+                "Replenish feed as needed (SQ operator)",
+                "Identify and treat sick or injured cows (SQ veterinarian)",
+                "Record daily activities and health check results (SQ operator)"
+            ]
+        },
+        {
+            "task": "Planting a soybean crop in a field**",
+            "subtasks": [
+                "Operate a soybean drill or planter (SQ operator)",
+                "Plant soy seeds at the required depth and spacing (SQ operator)",
+                "Adjust settings for the soil conditions (SQ operator)",
+                "Drive the implement through the field (SQ operator)",
+                "Check proper planting depth and spacing (SQ operator)",
+                "Disengage and store the planter (SQ operator)",
+                "Clean the equipment after use (SQ operator)"
+            ]
+        },
+        {
+            "task": "Operating a pivot irrigator during planting**",
+            "subtasks": [
+                "Align the pivot irrigator over a planting row (SQ operator)",
+                "Ensure even water distribution while planting (SQ operator)",
+                "Monitor potatoes emerging from the ground (SQ operator)",
+                "Adjust water flow to avoid flooding (SQ operator)",
+                "Check for seed-to-soil contact (SQ operator)",
+                "Log irrigation and planting progress (SQ operator)"
+            ]
+        },
+        {
+            "task": "Driving a sprayer to apply insecticide**",
+            "subtasks": [
+                "Load the sprayer with insecticide (SQ operator)",
+                "Calibrate the sprayer's nozzle settings (SQ operator)",
+                "Drive the sprayer through the field (SQ operator)",
+                "Monitor the application rate and coverage (SQ operator)",
+                "Stop the sprayer to avoid overlap or under-spray (SQ operator)",
+                "Dispose of any remaining insecticide properly (SQ operator)",
+                "Clean the sprayer after use (SQ operator)"
+            ]
+        },
+        {
+            "task": "Planting potatoes using a potato planter**",
+            "subtasks": [
+                "Assemble and attach a potato planter to a tractor (SQ operator)",
+                "Align the planter to the rows (SQ operator)",
+                "Open the seed box to dispense potatoes (SQ operator)",
+                "Monitor the planting depth and spacing (SQ operator)",
+                "Discard any damaged or sprouted seed potatoes (SQ operator)",
+                "Store the remaining seed potatoes for future use (SQ operator)",
+                "Close the seed box when planting is complete (SQ operator)"
+            ]
+        },
+        {
+            "task": "Applying fertilizer to a vegetable garden**",
+            "subtasks": [
+                "Measure out the required amount of fertilizer (SQ operator)",
+                "Spread the fertilizer evenly over the garden (SQ operator)",
+                "Rake or hoe the fertilizer into the soil (SQ operator)",
+                "Water the garden to help absorb the fertilizer (SQ operator)",
+                "Monitor for over-fertilization symptoms (SQ inspector)",
+                "Cover or mulch the garden if needed (SQ operator)",
+                "Document the application (SQ operator)"
+            ]
+        },
+        {
+            "task": "Checking a pivot irrigator before planting**",
+            "subtasks": [
+                "Check the pivot irrigator for damage or wear (SQ inspector)",
+                "Lubricate moving parts (SQ operator)",
+                "Test the pivot's rotation (SQ operator)",
+                "Inspect nozzles and apply any necessary adjustments (SQ operator)",
+                "Prepare the pivot for moving into planting position (SQ operator)"
+            ]
+        },
+        {
+            "task": "Preparing compost for garden use**",
+            "subtasks": [
+                "Collect organic waste from the farm (SQ operator)",
+                "Chop or shred the organic material into small pieces (SQ operator)",
+                "Mix the organic material with water to create a slurry (SQ operator)",
+                "Transfer the slurry to compost bins (SQ operator)",
+                "Maintain proper moisture, aeration, and temperature (SQ operator)",
+                "Turn the compost regularly to hasten decomposition (SQ operator)",
+                "Screen the mature compost for use in planting (SQ operator)"
+            ]
+        },
+        {
+            "task": "Cleaning a haybaler after use**",
+            "subtasks": [
+                "Stop the haybaler and disconnect it from the tractor (SQ operator)",
+                "Remove the hay bales from the bale clamp (SQ operator)",
+                "Clean the bale clamp and any moving parts (SQ operator)",
+                "Inspect the baling wire or straps for damage (SQ inspector)",
+                "Disinfect any areas that come into contact with hay (SQ operator)",
+                "Store the haybaler parts separately (SQ operator)",
+                "Adjust the bale clamp settings for next use (SQ operator)",
+                "Given the video transcript's content, the following tasks and subtasks have been derived to cover the physical tasks a person would perform in agriculture related to operating farming equipment and conducting farm operations. Each task is generalized into major activities (MAINTASK) with associated subtasks (SUBTASK) that detail specific actions. The list includes tasks such as driving a combine harvester, operating a baler, transporting hay bales, applying fertilizer, repairing equipment, planting crops, harvesting fruits, managing livestock, maintaining irrigation systems, and applying pesticides. Each task is designed to reflect common agricultural practices and the physical labor involved, ensuring a comprehensive coverage of the activities mentioned in the transcript."
+            ]
+        },
+        {
+            "task": "Driving a combine harvester in a field",
+            "subtasks": [
+                "Climb onto the combine harvester (actor)",
+                "Sit in the driver's seat (actor)",
+                "Put the key into the ignition and start the engine (actor)",
+                "Adjust the combine's speed (actor)",
+                "Direct the combine to move through the field (actor)",
+                "Monitor the combine's progress (actor)",
+                "Ensure the combine is functioning correctly (actor)",
+                "Disengage the combine when done (actor)"
+            ]
+        },
+        {
+            "task": "Operating a baler to bale hay",
+            "subtasks": [
+                "Drive the baler to the hay field (actor)",
+                "Station the baler at the field's edge (actor)",
+                "Attach the baler's tongue to the tractor (actor)",
+                "Position the baler correctly (actor)",
+                "Engage the baler to begin baling (actor)",
+                "Monitor the bales as they form (actor)",
+                "Disengage the baler when finished (actor)"
+            ]
+        },
+        {
+            "task": "Transporting hay bales to a storage shed",
+            "subtasks": [
+                "Drive the tractor equipped with a bale grab or lift bed to the field (actor)",
+                "Position near the bales to be transported (actor)",
+                "Use the bale grab or lift bed to load the bales onto the tractor (actor)",
+                "Secure the bales on the tractor (actor)",
+                "Drive the tractor with bales to the storage shed (actor)",
+                "Unload the bales at the storage shed (actor)",
+                "Stack the bales inside the shed (actor)"
+            ]
+        },
+        {
+            "task": "Applying fertilizer to a field",
+            "subtasks": [
+                "Drive a fertilizer broadcast spreader or spreader attached to a tractor (actor)",
+                "Position the spreader at the field's edge (actor)",
+                "Adjust the spreader's settings as needed (actor)",
+                "Engage the spreader mechanism to apply fertilizer (actor)",
+                "Monitor the distribution of the fertilizer (actor)",
+                "Adjust speed and spread pattern as necessary (actor)",
+                "Disengage the spreader when done (actor)"
+            ]
+        },
+        {
+            "task": "Installing a new irrigation system in a field",
+            "subtasks": [
+                "Survey the field to plan irrigation system layout (observer)",
+                "Measure distances between planting rows (observer)",
+                "Mark the positions for irrigation pipes (observer)",
+                "Dig trenches for the irrigation pipes (worker)",
+                "Lay and secure the irrigation pipes (worker)",
+                "Connect the pipes to the water supply (worker)",
+                "Test the irrigation system for leaks or proper flow (observer)"
+            ]
+        },
+        {
+            "task": "Applying pesticide to crops via drone",
+            "subtasks": [
+                "Operate a drone fitted with a pesticide spray system (operator)",
+                "Calibrate the drone's pesticide payload (operator)",
+                "Fly the drone over the crops, applying pesticide (operator)",
+                "Monitor the coverage and application rate of the pesticide (operator)",
+                "Check the drone's batteries and reload if necessary (operator)",
+                "Land the drone after completing the pesticide application (operator)"
+            ]
+        },
+        {
+            "task": "Planting corn using a row crop planter",
+            "subtasks": [
+                "Prepare the field by cultivating with a cultivator (operator)",
+                "Assemble and set up the row crop planter (operator)",
+                "Align the planter with crop rows (operator)",
+                "Plant corn seeds at the correct depth and spacing (operator)",
+                "Monitor seed placement and spacing (operator)",
+                "Disengage the planter when the job is done (operator)",
+                "Clean the planter and store for next use (operator)"
+            ]
+        },
+        {
+            "task": "Harvesting apples from an orchard",
+            "subtasks": [
+                "Ascend a ladder to reach the apple branches (climber)",
+                "Shake the apple branches to dislodge fruit (actor)",
+                "Collect the falling apples into bags or baskets (gatherer)",
+                "Descend the ladder safely (climber)",
+                "Load the harvested apples onto a pickup truck or trailer (loader)",
+                "Transport apples to a storage facility or wash area (driver)",
+                "Sort and grade the apples (sorter)"
+            ]
+        },
+        {
+            "task": "Repairing a broken tractor seat belt",
+            "subtasks": [
+                "Locate the seat belt on the damaged tractor (inspector)",
+                "Determine the extent of the damage (inspector)",
+                "Retrieve necessary tools for repair (gatherer)",
+                "Disassemble the belt to access breaks or tears (repairman)",
+                "Repair the breaks using replacement parts or adhesive (repairman)",
+                "Reassemble the seat belt (repairman)",
+                "Test the seat belt for safety (test-driver)"
+            ]
+        },
+        {
+            "task": "Feeding cattle in a confined feedlot",
+            "subtasks": [
+                "Drive a utility vehicle or truck to the feedlot pens (driver)",
+                "Unload feed into a feeder or onto the ground (unloader)",
+                "Distribute feed evenly across each pen (distributor)",
+                "Monitor the cattle's feeding behavior and health (observer)",
+                "Return to the storage area to reload if necessary (reload)",
+                "Repeat until all pens are fed (repeat)"
+            ]
+        },
+        {
+            "task": "Checking the water level in a cattle trough",
+            "subtasks": [
+                "Approach the cattle trough (approacher)",
+                "Assess the depth of the water (inspector)",
+                "Compare current level to desired depth (inspector)",
+                "Determine if additional water is needed from a hydrant or tank (decider)",
+                "Connect hoses or move water containers to refill (handler)",
+                "Refill the trough to the appropriate level (SQ operator)",
+                "Check that the water is directed properly (SQ observer)"
+            ]
+        },
+        {
+            "task": "Fixing a broken pipe in an irrigation system",
+            "subtasks": [
+                "Locate the broken pipe in the field (inspector)",
+                "Dig around the broken pipe to access it (worker)",
+                "Remove the old pipe section (remover)",
+                "Insert a new pipe section (installer)",
+                "Connect the new pipe to the existing system (installer)",
+                "Backfill the excavation area (worker)",
+                "Test the connection for leaks (SQ observer)",
+                "Adjust system settings if needed (SQ operator)"
+            ]
+        },
+        {
+            "task": "Planting trees in a new orchard",
+            "subtasks": [
+                "Excavate holes for tree plantings with a shovel or backhoe (digger)",
+                "Assess hole depth and width (inspector)",
+                "Position each tree at the correct depth (plant operator)",
+                "Fill the hole with soil, tamping as necessary (plant operator)",
+                "Water each newly planted tree (waterer)",
+                "Install stakes and ties for support (installer)",
+                "Prune excess branches if needed (pruner)"
+            ]
+        },
+        {
+            "task": "Collecting dripping milk from a dairy barn",
+            "subtasks": [
+                "Navigate through the dairy barn to reach the q-milk system (SQ operator)",
+                "Connect collection containers to the q-milk system lines (SQ operator)",
+                "Open valves to divert dripped milk into the containers (SQ operator)",
+                "Monitor the collection process (SQ operator)",
+                "Transfer collected milk to the bulk tank (SQ operator)",
+                "Record the amount of dripped milk collected (SQ operator)",
+                "Clean and sanitize the collection equipment (SQ operator)",
+                "Report any issues to maintenance (SQ operator)"
+            ]
+        },
+        {
+            "task": "Checking pivot irrigator alignment and operation",
+            "subtasks": [
+                "Drive a tractor to the pivot irrigator (SQ operator)",
+                "Power up the pivot system (SQ operator)",
+                "Inspect the pivot structure for any misalignments (SQ inspector)",
+                "Adjust pivot joints or drive wheels as needed (SQ operator)",
+                "Test the rotation of the pivot to ensure even coverage (SQ operator)",
+                "Check water pressure and spray patterns (SQ inspector)",
+                "Lubricate moving parts if necessary (SQ operator)"
+            ]
+        },
+        {
+            "task": "Checking the milk flow in a dairy operation",
+            "subtasks": [
+                "Enter the dairy barn to check milk q-systems (SQ operator)",
+                "Open a valve to check the flow rate (SQ operator)",
+                "Compare the flow to standard thresholds (SQ operator)",
+                "Record the flow data (SQ operator)",
+                "Investigate any deviations from normal flow (SQ operator)",
+                "Ensure that the cooling system is functioning (SQ operator)",
+                "Verify that the milk is at the correct temperature (SQ operator)"
+            ]
+        },
+        {
+            "task": "Cultivating a field with a cultivator",
+            "subtasks": [
+                "Position the cultivator behind a tractor (SQ operator)",
+                "Adjust the cultivator blades to the appropriate depth (SQ operator)",
+                "Drive the tractor through the field (SQ operator)",
+                "Monitor the cultivation progress (SQ operator)",
+                "Adjust direction or depth as necessary (SQ operator)",
+                "Disengage the cultivator when done (SQ operator)",
+                "Clean and store the cultivator (SQ operator)"
+            ]
+        },
+        {
+            "task": "Adjusting the fence to prevent cattle escapes",
+            "subtasks": [
+                "Approach the fence line around the pasture (SQ operator)",
+                "Identify weak or damaged sections (SQ inspector)",
+                "Replace or secure damaged posts and wiring (SQ operator)",
+                "Tighten any loose sections (SQ operator)",
+                "Test the fence's effectiveness by attempting to move a cow through (SQ operator)",
+                "Document any areas that need further attention (SQ inspector)"
+            ]
+        },
+        {
+            "task": "Managing a herd of dairy cows",
+            "subtasks": [
+                "Walk through the dairy barn to monitor cow health (SQ inspector)",
+                "Check feed delivery systems (SQ operator)",
+                "Ensure waterers are functional (SQ operator)",
+                "Address any broken feeders or waterers (SQ operator)",
+                "Replenish feed as needed (SQ operator)",
+                "Identify and treat sick or injured cows (SQ veterinarian)",
+                "Record daily activities and health check results (SQ operator)"
+            ]
+        },
+        {
+            "task": "Planting a soybean crop in a field",
+            "subtasks": [
+                "Operate a soybean drill or planter (SQ operator)",
+                "Plant soy seeds at the required depth and spacing (SQ operator)",
+                "Adjust settings for the soil conditions (SQ operator)",
+                "Drive the implement through the field (SQ operator)",
+                "Check proper planting depth and spacing (SQ operator)",
+                "Disengage and store the planter (SQ operator)",
+                "Clean the equipment after use (SQ operator)"
+            ]
+        },
+        {
+            "task": "Operating a pivot irrigator during planting",
+            "subtasks": [
+                "Align the pivot irrigator over a planting row (SQ operator)",
+                "Ensure even water distribution while planting (SQ operator)",
+                "Monitor potatoes emerging from the ground (SQ operator)",
+                "Adjust water flow to avoid flooding (SQ operator)",
+                "Check for seed-to-soil contact (SQ operator)",
+                "Log irrigation and planting progress (SQ operator)"
+            ]
+        },
+        {
+            "task": "Driving a sprayer to apply insecticide",
+            "subtasks": [
+                "Load the sprayer with insecticide (SQ operator)",
+                "Calibrate the sprayer's nozzle settings (SQ operator)",
+                "Drive the sprayer through the field (SQ operator)",
+                "Monitor the application rate and coverage (SQ operator)",
+                "Stop the sprayer to avoid overlap or under-spray (SQ operator)",
+                "Dispose of any remaining insecticide properly (SQ operator)",
+                "Clean the sprayer after use (SQ operator)"
+            ]
+        },
+        {
+            "task": "Planting potatoes using a potato planter",
+            "subtasks": [
+                "Assemble and attach a potato planter to a tractor (SQ operator)",
+                "Align the planter to the rows (SQ operator)",
+                "Open the seed box to dispense potatoes (SQ operator)",
+                "Monitor the planting depth and spacing (SQ operator)",
+                "Discard any damaged or sprouted seed potatoes (SQ operator)",
+                "Store the remaining seed potatoes for future use (SQ operator)",
+                "Close the seed box when planting is complete (SQ operator)"
+            ]
+        },
+        {
+            "task": "Applying fertilizer to a vegetable garden",
+            "subtasks": [
+                "Measure out the required amount of fertilizer (SQ operator)",
+                "Spread the fertilizer evenly over the garden (SQ operator)",
+                "Rake or hoe the fertilizer into the soil (SQ operator)",
+                "Water the garden to help absorb the fertilizer (SQ operator)",
+                "Monitor for over-fertilization symptoms (SQ inspector)",
+                "Cover or mulch the garden if needed (SQ operator)",
+                "Document the application (SQ operator)"
+            ]
+        },
+        {
+            "task": "Checking a pivot irrigator before planting",
+            "subtasks": [
+                "Check the pivot irrigator for damage or wear (SQ inspector)",
+                "Lubricate moving parts (SQ operator)",
+                "Test the pivot's rotation (SQ operator)",
+                "Inspect nozzles and apply any necessary adjustments (SQ operator)",
+                "Prepare the pivot for moving into planting position (SQ operator)"
+            ]
+        },
+        {
+            "task": "Preparing compost for garden use",
+            "subtasks": [
+                "Collect organic waste from the farm (SQ operator)",
+                "Chop or shred the organic material into small pieces (SQ operator)",
+                "Mix the organic material with water to create a slurry (SQ operator)",
+                "Transfer the slurry to compost bins (SQ operator)",
+                "Maintain proper moisture, aeration, and temperature (SQ operator)",
+                "Turn the compost regularly to hasten decomposition (SQ operator)",
+                "Screen the mature compost for use in planting (SQ operator)"
+            ]
+        },
+        {
+            "task": "Cleaning a haybaler after use",
+            "subtasks": [
+                "Stop the haybaler and disconnect it from the tractor (SQ operator)",
+                "Remove the hay bales from the bale clamp (SQ operator)",
+                "Clean the bale clamp and any moving parts (SQ operator)",
+                "Inspect the baling wire or straps for damage (SQ inspector)",
+                "Disinfect any areas that come into contact with hay (SQ operator)",
+                "Store the haybaler parts separately (SQ operator)",
+                "Adjust the bale clamp settings for next use (SQ operator)"
+            ]
+        }
+    ]
 }

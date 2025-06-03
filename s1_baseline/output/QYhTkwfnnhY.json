@@ -5,36 +5,35 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Determine seeding rate and bushel weight for cover crop seeds.",
+            "task": "Understanding and Setting Seeding Rates for Cover Crop Seeds",
             "subtasks": [
-                "Refer to seed analysis sheet for seeding rate.",
-                "Calculate seeding rate using seed weight and acres.",
-                "Understand drill settings based on bushel weight.",
-                "Use bushel weight apparatus or mathematical calculation for setting.",
-                "Calibrate seed drill for accurate planting.",
-                "Use drive wheel circumference for drill calibration.",
-                "Measure seed tarp collection during calibration.",
-                "Calculate pounds per acre using collected seed and area."
+                "Retrieving seeding rate information from the seed analysis sheet",
+                "Calculating seeding rate if bushel weight is not provided",
+                "Determining bushel weight for a seed mix",
+                "Adjusting drill settings based on bushel weight",
+                "Performing a drill calibration using empirical methods",
+                "Using a bushel weight apparatus for setting the drill"
             ]
         },
         {
-            "task": "Determine how to set a seed drill for planting cover crops.",
+            "task": "Managing Seed Analysis Sheets and Product Delivery",
             "subtasks": [
-                "Check seed analysis for seeding rate.",
-                "If needed, calculate seeding rate by dividing seed weight by acres.",
-                "Understand that drills measure volume (bushels), not weight.",
-                "Use a bushel weight gauge or perform calculations to find your seed's bushel weight.",
-                "Calibrate the drill's seed compartment using drive wheel circumference, seed collection, and calculated settings."
+                "Accessing seed analysis sheets in seed tote",
+                "Checking for bushel weight and seeding rate information on delivered seed"
             ]
         },
         {
-            "task": "Determine seeding rate and adjust seed drill settings.",
+            "task": "Exploring Alternative Calibration Methods",
             "subtasks": [
-                "Refer to seed analysis sheet.",
-                "Calculate seeding rate using weights if needed.",
-                "Use bushel weight for drill setting.",
-                "Calibrate drill using drive wheel circumference."
+                "Using an example mix to convert pounds to bushels",
+                "Highlighting differences in settings required for different seeds",
+                "Performing a manual drill calibration calculations",
+                "Reminding users of the importance of calibration over adjusting future orders"
             ]
+        },
+        {
+            "task": "All tasks relate to the physical actions required in handling seed analysis, determining seeding rates, calibrating planting equipment, and managing seed delivery within the context of cover crop planting. Each subtask breaks down the overall maintenance (MAINTASK) needed to effectively seed cover crops.",
+            "subtasks": []
         }
     ]
 }

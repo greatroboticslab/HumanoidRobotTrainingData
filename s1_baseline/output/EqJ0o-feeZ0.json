@@ -5,148 +5,118 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Go to the greenhouse entrance.",
-            "subtasks": []
+            "task": "Operating combine harvester for corn harvesting",
+            "subtasks": [
+                "Enter the combine harvester",
+                "Secure seatbelt",
+                "Familiarize with controls and dashboard",
+                "Adjust combine settings for corn type",
+                "Position combine in field",
+                "Start combine engine",
+                "Begin row by row corn harvesting",
+                "Monitor combine performance",
+                "Adjust operators' walking pace to match machinery speed",
+                "Handle emergency stops and troubleshooting",
+                "Stop combine when field is completed",
+                "Unstrap and exit combine"
+            ]
         },
         {
-            "task": "Open the kitchen door.",
-            "subtasks": []
+            "task": "Unload combine bin",
+            "subtasks": [
+                "Position combine near grain storage facility",
+                "Open combine bin door",
+                "Connect auger or conveyor to grain bin",
+                "Start auger/conveyor",
+                "Oversee bin fill",
+                "Stop auger/conveyor when bin is full or combine is empty"
+            ]
         },
         {
-            "task": "Walk towards the edge of the fabric.",
-            "subtasks": []
+            "task": "Clean combine and tools",
+            "subtasks": [
+                "Disassemble combine to clean components",
+                "Wash combine with water and detergent",
+                "Dry combine after washing",
+                "Inspect tools for maintenance needs",
+                "Sharpen blades and replace worn parts",
+                "Lubricate moving parts",
+                "Test tools operation"
+            ]
         },
         {
-            "task": "Walk to backyard.",
-            "subtasks": []
+            "task": "Load combine onto trailer",
+            "subtasks": [
+                "Position combine under tow bar",
+                "Attach trailer hitch",
+                "Secure combine to trailer",
+                "Lower trailer hydraulics into position",
+                "Connect air brakes and electrical",
+                "Cover combine to prevent damage during transport"
+            ]
         },
         {
-            "task": "Walk to the side of the building.",
-            "subtasks": []
+            "task": "Prepare for next harvest",
+            "subtasks": [
+                "Plan future combine routes",
+                "Arrange grain delivery schedules",
+                "Determine seed mixes and fertilizer applications for next year",
+                "Set up irrigation systems if needed",
+                "Prepare tools for next season",
+                "Organize records for farm management"
+            ]
         },
         {
-            "task": "Remove weeds from the garden.",
-            "subtasks": []
+            "task": "Drill corn into the ground",
+            "subtasks": [
+                "Mount drill onto tractor",
+                "Assemble corn seed boxes",
+                "Fill seed boxes with corn",
+                "Distribute seed even across drill rows",
+                "Position drill in field",
+                "Adjust seed depth and spacing",
+                "Operate drill, ensuring straight lines",
+                "Check seed coverage and moisture",
+                "Repeat process over entire field"
+            ]
         },
         {
-            "task": "Enter the bedroom.",
-            "subtasks": []
+            "task": "Equipment maintenance",
+            "subtasks": [
+                "Clean and inspect combine before next use",
+                "Service drill for next planting season",
+                "Check all implements for winter storage",
+                "Stockpile replacement parts",
+                "Tidy up workshop"
+            ]
         },
         {
-            "task": "Exit the house.",
-            "subtasks": []
+            "task": "Seed and fertilizer application",
+            "subtasks": [
+                "Determine required amounts based on yield goals",
+                "Load fertilizer and seeds into spreader",
+                "Check calibration of spreader for even distribution",
+                "Apply fertilizer and seeds to field",
+                "Cover with soil or mulch if necessary"
+            ]
         },
         {
-            "task": "Enter the barn door.",
-            "subtasks": []
+            "task": "Field inspection",
+            "subtasks": [
+                "Walk through fields checking for crop health",
+                "Note any pest or disease infestations",
+                "Take soil samples",
+                "Assess irrigation needs"
+            ]
         },
         {
-            "task": "Load the hay into the truck.",
-            "subtasks": []
-        },
-        {
-            "task": "Spray the crops with pesticide.",
-            "subtasks": []
-        },
-        {
-            "task": "Carry watering can to garden.",
-            "subtasks": []
-        },
-        {
-            "task": "Go to the greenhouse entrance.",
-            "subtasks": []
-        },
-        {
-            "task": "Open the kitchen door. Then enter. So, subtasks there: find the door, open it, enter.",
-            "subtasks": []
-        },
-        {
-            "task": "After the lesson, perhaps the person goes to the kitchen. So, starting fresh, if the MAINTASK is entering a kitchen, that's another task. But maybe the initial tasks were entering the greenhouse, walking around, so maybe they went through different rooms. Wait, the transcript might not be in order. The user just gave a series of actions that may or may not be consecutive. But since the user wants the list broken down into tasks, I need to generalize the movements into major tasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Go to the greenhouse entrance. Subtasks: find entrance, approach, open door, enter.)",
-            "subtasks": []
-        },
-        {
-            "task": "Open the kitchen door. (Subtasks: locate, open, enter.)",
-            "subtasks": []
-        },
-        {
-            "task": "Walk to backyard. (Subtasks: find it, walk there.)",
-            "subtasks": []
-        },
-        {
-            "task": "Walk to the side of the building. (Subtasks: find the building, walk there.)",
-            "subtasks": []
-        },
-        {
-            "task": "Remove weeds (Subtasks: find weeds, handle them, dispose.)",
-            "subtasks": []
-        },
-        {
-            "task": "Enter the bedroom. (Subtasks: find door, open, enter.)",
-            "subtasks": []
-        },
-        {
-            "task": "Exit the house. (Subtasks: find entry, leave.)",
-            "subtasks": []
-        },
-        {
-            "task": "Enter the barn. (Subtasks: find door, open, enter.)",
-            "subtasks": []
-        },
-        {
-            "task": "Load hay. (Subtasks: get hay, move to truck, load.)",
-            "subtasks": []
-        },
-        {
-            "task": "Spray pesticide. (Subtasks: get pesticide, apply, move arms.)",
-            "subtasks": []
-        },
-        {
-            "task": "Carry watering can. (Subtasks: find can, carry to garden, water plants.)",
-            "subtasks": []
-        },
-        {
-            "task": "Enter the barn \u2192 enter, open door, walk in. Maybe the term \"house\" refers to a farmhouse where tools or supplies are kept.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Load hay. Subtasks: Lift bales, carry to truck, place.",
-            "subtasks": []
-        },
-        {
-            "task": "Say \"Thank you.\" But that doesn't seem physical. Wait, maybe \"Thank you\" here is a sign-off, similar to a video's end. Or perhaps \"100\" refers to a specific task number, like the 100th lesson.",
-            "subtasks": []
-        },
-        {
-            "task": "Enter the kitchen.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Enter the house.",
-            "subtasks": []
-        },
-        {
-            "task": "Exit the classroom. Subtasks: Find door, go to door, open door, walk out.)",
-            "subtasks": []
-        },
-        {
-            "task": "Enter the kitchen.",
-            "subtasks": []
-        },
-        {
-            "task": "Apply pesticide to crops.",
-            "subtasks": []
-        },
-        {
-            "task": "Spraying crops with pesticide. (Subtasks: similar to above.)",
-            "subtasks": []
-        },
-        {
-            "task": "Remove weeds from the garden.",
-            "subtasks": []
+            "task": "Fertilizer and pesticide application",
+            "subtasks": [
+                "Mix pesticides and fertilizers if needed",
+                "Load application equipment",
+                "Conduct aerial or ground spraying",
+                "Evacuate from treated areas per safety guidelines"
+            ]
         }
     ]
 }

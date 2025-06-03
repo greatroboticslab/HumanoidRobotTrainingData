@@ -5,38 +5,41 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Prepare livestock for winter.",
+            "task": "Prepare animals for winter",
             "subtasks": [
-                "Bring turkeys inside.",
-                "Clean out the brooder side of the barn.",
-                "Check on bees to ensure they are insulated.",
-                "Move chicken water inside.",
-                "Ensure chickens dry off if they get wet.",
-                "Prepare barn for colder temperatures (e.g., add straw for warmth)."
+                "Ensure turkeys have access to heat lamps and fresh straw",
+                "Check and maintain water sources for turkeys and chickens, preventing freezing",
+                "Clean the brooder area in the barn for turkeys to use",
+                "Verify bees are well-insulated and don't require additional care",
+                "Move chickens' water inside to protect them from frostbite risks",
+                "Monitor chicken behavior and protect them from getting wet to prevent frostbite"
             ]
         },
         {
-            "task": "Distribute straw to animals.",
+            "task": "Manage livestock preparation for winter",
             "subtasks": [
-                "Spread straw in designated areas.",
-                "Encourage animals to use their new bedding."
+                "Answer viewers' questions about winter preparations for livestock",
+                "Address comments about spreading straw and ensuring animals have adequate bedding\u8e09\u8dc4"
             ]
         },
         {
-            "task": "Prepare livestock for winter.",
+            "task": "Prepare animals for winter",
             "subtasks": [
-                "Bring turkeys inside.",
-                "Clean out the brooder side of the barn.",
-                "Check on bees to ensure they are insulated.",
-                "Move chicken water inside.",
-                "Ensure chickens dry off if they get wet."
+                "Ensure turkeys have heat lamps and fresh straw",
+                "Check and maintain water sources for turkeys and chickens",
+                "Clean brooder area for turkeys to use",
+                "Verify bees are insulated and do not need additional care",
+                "Move chickens' water inside and monitor for wetness"
             ]
         },
         {
-            "task": "Distribute straw to animals.",
+            "task": "MAINTASK: Prepare animals for winter",
             "subtasks": [
-                "Spread straw in designated areas.",
-                "Encourage animals to use their new bedding."
+                "Ensure turkeys have access to heat lamps and fresh straw",
+                "Check and maintain water sources for turkeys and chickens to prevent freezing",
+                "Clean the brooder area in the barn for turkeys to use during colder weather",
+                "Verify that bees are insulated and do not require additional care",
+                "Move chickens' water inside to protect them from frostbite risks and monitor their behavior to prevent wetness and related issues"
             ]
         }
     ]

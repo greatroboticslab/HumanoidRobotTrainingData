@@ -5,41 +5,28 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Conducting field trials for evaluating furrow irrigation design parameters",
-            "subtasks": [
-                "Selecting a representative segment of the furrow field",
-                "Choosing a range of stream sizes (e.g., Q_max, higher and lower values)",
-                "Measuring elapsed time for waterfront movement downstream",
-                "Plotting advance curves for different stream sizes",
-                "Determining the maximum allowable non-erosive stream size (Q_max)",
-                "Verifying Q_max using empirical data from field trials",
-                "Adjusting length of the furrow segment through iterative procedure if necessary",
-                "Evaluating distribution pattern efficiency (FAR) and adjusting parameters accordingly",
-                "Checking cutoff time and computing maximum depth of flow (D_max) for level basin design",
-                "Considering application efficiency (Ea) in designing irrigation systems"
-            ]
+            "task": "Conducting a field trial for verifying furrow irrigation design parameters.",
+            "subtasks": []
         },
         {
-            "task": "Designing level basin irrigation systems",
-            "subtasks": [
-                "Using empirical tables for area allocation based on soil type",
-                "Defining unit stream size (Q divided by width of basin)",
-                "Calculating time of advance (Tna) using hydraulic relationships",
-                "Determining length of the level basin",
-                "Ensuring that time of advance does not exceed cutoff time for reliable infiltration",
-                "Calculating ridge size based on maximum depth of flow (D_max)",
-                "Considering distribution pattern efficiency for optimal water distribution"
-            ]
+            "task": "Ensuring proper stream size and furrow length in the field.",
+            "subtasks": []
         },
         {
-            "task": "Ensuring accurate water application through trial runs and adjusting parameters",
-            "subtasks": [
-                "Evaluating trial runs to check alignment with empirical data",
-                "Iteratively adjusting parameters such as furrow length or stream size to optimize water use",
-                "Verifying design parameters using observed advance times and erosion levels",
-                "Using different efficiency metrics (e.g., distribution pattern ratio) to fine-tune designs",
-                "Confirming that irrigation methods meet desired efficiency and erosion control goals"
-            ]
+            "task": "Evaluating design parameters for level basin systems.",
+            "subtasks": []
+        },
+        {
+            "task": "Researchers checking field trials for furrow irrigation design consistency.",
+            "subtasks": []
+        },
+        {
+            "task": "Ensuring proper drainage by adjusting ridge height.",
+            "subtasks": []
+        },
+        {
+            "task": "Evaluating the suitability of level basins for low to moderate infiltration soils.",
+            "subtasks": []
         }
     ]
 }

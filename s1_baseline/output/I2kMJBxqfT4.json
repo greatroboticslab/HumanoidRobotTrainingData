@@ -7,45 +7,75 @@
         {
             "task": "Harvesting lentils",
             "subtasks": [
-                "Setting up the harvester",
-                "Adjusting ground pressure monitoring",
-                "Minimizing fire risk during harvest",
-                "Storing harvested lentils in a shed"
+                "Setting up harvester",
+                "Monitoring ground pressure",
+                "Adjusting concave and rotor",
+                "Managing fire risk"
             ]
         },
         {
-            "task": "Preparing the paddock",
+            "task": "Preparing paddocks",
             "subtasks": [
-                "Cleaning up stumps with chaining",
-                "Proper seeding and rolling"
+                "Trimming stumps",
+                "Tilling soil"
             ]
         },
         {
-            "task": "Choosing suitable varieties",
+            "task": "Planting lentils",
             "subtasks": [
-                "Considering new varieties like Highland and Hallmark",
-                "Sowing early in April"
+                "Choosing varieties",
+                "Timing sowing"
             ]
         },
         {
-            "task": "Harvesting setups for legumes",
+            "task": "Storing lentils",
             "subtasks": [
-                "Using modern header technology",
-                "Adjusting concave opening",
-                "Regulating rotor speed",
-                "Matching sieve settings to wheat"
+                "Building storage shed",
+                "Covering with tarp"
             ]
         },
         {
-            "task": "Protecting harvested lentils",
+            "task": "Research and innovation",
             "subtasks": [
-                "Using thermal blankets to reduce fire risk"
+                "Developing new varieties",
+                "Improved harvesting practices"
             ]
         },
         {
-            "task": "Rotational cropping considerations",
+            "task": "MAINTASK: Harvesting lentils",
             "subtasks": [
-                "Viewing lentils as an additional break crop"
+                "Setting up harvester",
+                "Monitoring ground pressure",
+                "Adjusting concave and rotor",
+                "Managing fire risk"
+            ]
+        },
+        {
+            "task": "Preparing paddocks",
+            "subtasks": [
+                "Trimming stumps",
+                "Tilling soil"
+            ]
+        },
+        {
+            "task": "Planting lentils",
+            "subtasks": [
+                "Choosing varieties",
+                "Timing sowing"
+            ]
+        },
+        {
+            "task": "Storing lentils",
+            "subtasks": [
+                "Building storage shed",
+                "Covering with tarp"
+            ]
+        },
+        {
+            "task": "Research and innovation",
+            "subtasks": [
+                "Developing new varieties",
+                "Improved harvesting practices"
             ]
         }
     ]

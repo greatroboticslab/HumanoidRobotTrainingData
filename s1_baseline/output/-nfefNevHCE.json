@@ -5,30 +5,18 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Identify profitable crops for small-scale farmers.",
+            "task": "Generate a list of tasks a small-scale farmer would need to perform based on the given transcript.",
             "subtasks": [
-                "Calculate profit margins for various crops.",
-                "Assess beans as the first profitable crop.",
-                "Consider garden peas (Minji) as a profitable crop.",
-                "Evaluate coriander as the most profitable crop.",
-                "Analyze green maize as a profitable crop.",
-                "Highlight indigenous vegetables as a profitable option.",
-                "Understand the factors contributing to the profitability of each crop."
+                "Note the five most profitable crops for small-scale farmers discussed in the transcript.",
+                "List the tasks associated with growing each crop mentioned.",
+                "Ensure all tasks are relevant to physical farming activities and not just financial advice."
             ]
         },
         {
-            "task": "Provide guidance on calculating profit in agriculture.",
+            "task": "Generate a list of tasks a small-scale farmer would need to perform based on the given transcript.",
             "subtasks": [
-                "Explain the difference between revenue and profit.",
-                "Factor in production costs for accurate profit calculation.",
-                "Consider additional costs such as labor and resources."
-            ]
-        },
-        {
-            "task": "Discuss the importance of market demand and consistency.",
-            "subtasks": [
-                "Encourage tapping into niche markets.",
-                "Stress the value of consistent supply to local grocery stores."
+                "Note the five most profitable crops discussed:",
+                "List tasks associated with growing each crop:"
             ]
         }
     ]

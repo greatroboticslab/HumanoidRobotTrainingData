@@ -5,28 +5,37 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Thanking individuals",
+            "task": "Express gratitude",
             "subtasks": [
-                "Lift arms upwards",
-                "Bring hands together",
+                "Raise arms upwards in gesture of thanks",
                 "Lean forward slightly",
-                "Smirk or smile"
+                "Smile"
             ]
         },
         {
-            "task": "Expressing gratitude repeatedly",
+            "task": "Acknowledge appreciation",
             "subtasks": [
-                "Repeat \"Thank you\" multiple times",
-                "Maintain facial expression of gratitude"
+                "Nod head",
+                "Say \"Thank you\" verbally",
+                "Maintain eye contact with speaker",
+                "MAINTASK: Express gratitude ( acknowledgement, words and non-words) with the following subtasks: Nod head MAINTASK: say \"Thank you\" SUBTASK: open mouth and say \"Tha\" then \"nik you\" MAINTASK: Lean forward slightly MAINTASK: Raise arms upwards MAINTASK: Smile MAINTASK: Maintain eye contact. Wait, but is maintaining eye contact a physical task? That might be more of a social cue. Hmm. Let me check whether the behavior of the speaker is described. The transcript just has \"Thank you\" repeated. So I might have to base the tasks on typical expressions of gratitude. So when someone says thank you, they often make eye contact, lean forward slightly, nod, smile, raise their arms if it's more enthusiastic. So each of those could be considered a task. So the main task would be to express gratitude (with multiple subtasks), including the non-verbal gestures."
             ]
         },
         {
-            "task": "Thanking individuals**",
-            "subtasks": []
+            "task": "MAINTASK: Express gratitude",
+            "subtasks": [
+                "Raise arms upwards in gesture of thanks",
+                "Lean forward slightly",
+                "Smile"
+            ]
         },
         {
-            "task": "Expressing gratitude repeatedly**",
-            "subtasks": []
+            "task": "Acknowledge appreciation",
+            "subtasks": [
+                "Nod head",
+                "Say \"Thank you\" verbally",
+                "Maintain eye contact with speaker"
+            ]
         }
     ]
 }

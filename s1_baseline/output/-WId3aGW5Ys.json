@@ -5,24 +5,55 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Summer cropping issues reminder",
+            "task": "Checking soil moisture and nitrogen levels in flooded paddocks before summer cropping.",
             "subtasks": [
-                "Checking flooded paddock moisture levels using soil corer or probe",
-                "Considering denitrification risks in wet verticols",
-                "Conducting soil nitrate tests before nitrogen applications",
-                "Monitoring winter cereal crops' soil moisture drawdown",
-                "Evaluating double cropping (e.g., mung beans) prospects"
+                "Visiting flooded paddocks.",
+                "Using a soil corer or probe to check soil moisture levels.",
+                "Considering high clay soils' tendency to seal.",
+                "Monitoring potential denitrification caused by waterlogging.",
+                "Testing soil nitrate levels to avoid overapplying nitrogen fertilizer.",
+                "Assessing soil moisture depth to plan future crop needs."
             ]
         },
         {
-            "task": "MAINTASK: Summer cropping issues reminder",
+            "task": "Considering delayed nitrogen availability in flooded paddocks.",
             "subtasks": [
-                "Checking flooded paddock moisture levels using soil corer or probe",
-                "Considering denitrification risks in wet verticols",
-                "Conducting soil nitrate tests before nitrogen applications",
-                "Monitoring winter cereal crops' soil moisture drawdown",
-                "Evaluating double cropping (e.g., mung beans) prospects"
+                "Noting how denitrification may push nitrate further into the soil profile.",
+                "Recognizing that available nitrogen may not be immediately useful.",
+                "Planning nitrogen application timing based on crop growth stages."
             ]
+        },
+        {
+            "task": "Evaluating double cropping possibilities for mung beans.",
+            "subtasks": [
+                "Considering current winter cereal crop health and moisture usage.",
+                "Weighing the risk of depleting soil moisture for summer crops.",
+                "Waiting until closer to the decision-making period (with a few months of growth remaining)."
+            ]
+        },
+        {
+            "task": "Informing oneself about paddock conditions before making cropping decisions.",
+            "subtasks": [
+                "Assessing overall paddock suitability for summer crops.",
+                "Collecting data on soil moisture, nitrogen, and other factors.",
+                "Making informed decisions based on current paddock conditions."
+            ]
+        },
+        {
+            "task": "Checking soil moisture and nitrogen levels in flooded paddocks before summer cropping.",
+            "subtasks": []
+        },
+        {
+            "task": "Considering delayed nitrogen availability in flooded paddocks.",
+            "subtasks": []
+        },
+        {
+            "task": "Evaluating double cropping possibilities for mung beans.",
+            "subtasks": []
+        },
+        {
+            "task": "Informing oneself about paddock conditions before making cropping decisions.",
+            "subtasks": []
         }
     ]
 }

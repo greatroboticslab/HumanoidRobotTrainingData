@@ -7,95 +7,23 @@
         {
             "task": "Wear extra protection when mixing and loading pesticides.",
             "subtasks": [
-                "Put on protective eyewear.",
                 "Use an apron over protective equipment.",
-                "Wear appropriate clothing (mention not specified in transcript, inferred based on context)."
+                "Wear protective eyewear."
             ]
         },
         {
-            "task": "Open pesticide containers safely.",
+            "task": "Carefully open pesticide containers to prevent dust from disbursing.",
             "subtasks": [
-                "Place pesticide container on a low, flat surface.",
-                "Use a sharp knife or scissors to open the container (specifically avoiding ripping).",
-                "Wash knife or scissors with soap and water after use.",
-                "Only use the knife/scissors for opening pesticide containers."
+                "Choose a low, flat surface for container placement.",
+                "Use a sharp knife or scissors, then clean them with soap and water before reuse for pesticide containers only."
             ]
         },
         {
-            "task": "Measure pesticide accurately.",
+            "task": "Measure and pour pesticides correctly following label instructions.",
             "subtasks": [
-                "Refer to the label for the correct amount.",
-                "Measure pesticide carefully (verb)."
-            ]
-        },
-        {
-            "task": "Pour pesticide safely.",
-            "subtasks": [
+                "Check label for required amount.",
                 "Pour liquids slowly and carefully to avoid splashes.",
-                "Keep face and eyes well above the container during pouring.",
-                "Take additional precautions (not specified, inferred from context, like maintaining balance or using aids if needed)."
-            ]
-        },
-        {
-            "task": "Wear extra protection when mixing and loading pesticides.",
-            "subtasks": [
-                "Put on protective eyewear.",
-                "Use an apron over your protective equipment.",
-                "(Assumed: Put on regular protective clothing, if not already assumed)"
-            ]
-        },
-        {
-            "task": "Open pesticide containers safely.",
-            "subtasks": [
-                "Put the pesticide container on a low, flat surface.",
-                "Use a sharp knife or scissors (use only for this purpose; wash afterwards).",
-                "Wash the knife or scissors with soap and water before and after use.",
-                "Only use the knife or scissors for opening pesticide containers."
-            ]
-        },
-        {
-            "task": "Measure pesticide accurately.",
-            "subtasks": [
-                "Follow the label directions to find out how much pesticide is needed.",
-                "Measure the pesticide carefully."
-            ]
-        },
-        {
-            "task": "Pour pesticide safely.",
-            "subtasks": [
-                "Pour the pesticide slowly and carefully to avoid splashes.",
-                "Keep your face and eyes well above the container while pouring."
-            ]
-        },
-        {
-            "task": "**Wear extra protection when mixing and loading pesticides.**",
-            "subtasks": [
-                "Wear protective eyewear.",
-                "Use an apron over your protective equipment.",
-                "Ensure your clothing is appropriate for the task."
-            ]
-        },
-        {
-            "task": "**Open pesticide containers safely.**",
-            "subtasks": [
-                "Place the pesticide container on a low, flat surface.",
-                "Use a sharp knife or scissors to open the container (preventing dust from escaping).",
-                "Wash the knife or scissors with soap and water after use.",
-                "Use the tool only for opening pesticide containers."
-            ]
-        },
-        {
-            "task": "**Measure pesticide accurately.**",
-            "subtasks": [
-                "Follow the label instructions to determine the correct amount.",
-                "Measure the pesticide carefully to avoid oversights."
-            ]
-        },
-        {
-            "task": "**Pour pesticide safely.**",
-            "subtasks": [
-                "Pour the pesticide slowly and carefully to prevent splashes.",
-                "Keep your face and eyes well above the pesticide container during pouring."
+                "Position face and eyes well above the pesticide container during pouring."
             ]
         }
     ]

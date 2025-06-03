@@ -5,50 +5,278 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Visiting a Pioneer hybrid corn demonstration.",
+            "task": "Visit a corn field to compare open-pollinated corn vs. Pioneer hybrid corn.",
             "subtasks": [
-                "Meeting Bob Garst and Charlie Thomas.",
-                "Observing open-pollinated corn field versus Pioneer hybrid corn field.",
-                "Analyzing the differences in stalk rigidity and ear position.",
-                "Examining root systems of open-pollinated vs. hybrid corn.",
-                "Demonstrating mechanical corn picker efficiency on Pioneer hybrid corn.",
-                "Processing and transporting the harvested corn."
+                "Observe the appearance of open-pollinated corn fields.",
+                "Compare the root structure of open-pollinated corn vs. Pioneer hybrid corn.",
+                "Assess the differences in corn ear characteristics between the two types.",
+                "Evaluate the mechanical corn picking efficiency of Pioneer hybrid corn.",
+                "Consider the yield and economic benefits of Pioneer hybrid corn."
             ]
         },
         {
-            "task": "Bob Garst and Charlie Thomas are mentioned. So there's a subtask related to meeting them, maybe. But Wait, the main point is the demonstration of hybrid corn. So the primary task is likely \"Visiting a Pioneer hybrid corn demonstration,\" hence the MAINTASK.",
+            "task": "Tour the Pioneer hybrid seed corn processing facility.",
+            "subtasks": [
+                "Visit the warehouse and observe the drying, sorting, grading, and bagging processes.",
+                "Learn about the visitor experience and educational aspects of the facility."
+            ]
+        },
+        {
+            "task": "Understand the principles of hybrid corn reproduction.",
+            "subtasks": [
+                "Grasp the concept of known genetics in hybrid corn (selecting fathers and grandfathers).",
+                "Analyze the consequences of hybrid corn's controlled pollination."
+            ]
+        },
+        {
+            "task": "Observe the overall benefits of hybrid corn farming.",
+            "subtasks": [
+                "Acknowledge the transition to mechanical corn picking and its efficiency.",
+                "Recognize the future direction of corn farming (reduction to a science)."
+            ]
+        },
+        {
+            "task": "It's obvious that the main task here is visiting a corn field to compare the two types of corn. The video describes touring both a field of open pollinated corn and a field of Pioneer hybrid corn. So one main task would be to visit a corn field and observe the differences. But since the transcript is structured with different sections\u2014introduction, field visit, processing facility, etc.\u2014I need to break it down into subtasks.",
             "subtasks": []
         },
         {
-            "task": "Visiting a Pioneer hybrid corn demonstration.",
+            "task": "note uniformity, root system depth, ease of picking, etc.",
+            "subtasks": []
+        },
+        {
+            "task": "\"Visit the seed corn processing facility.\" Under this task, subtasks would include observing the warehouse capacity, the sorting process, and understanding the visitor experience.",
+            "subtasks": []
+        },
+        {
+            "task": "Lastly, the video concludes with the benefits of hybrid corn farming, including mechanical picking efficiency and higher yield. So a MAINTASK there could be \"Evaluate the benefits of hybrid corn farming.\"",
+            "subtasks": []
+        },
+        {
+            "task": "Visit a corn field to compare open-pollinated corn vs. Pioneer hybrid corn.",
             "subtasks": [
-                "Noting the physical differences between open-pollinated and hybrid corn in the fields.",
-                "Analyzing the root systems of corn plants.",
-                "Observing the mechanical corn picker operation.",
-                "Harvesting corn from the hybrid field and loading it onto trucks."
+                "Observe the appearance of open-pollinated corn fields (shagginess, broken stalks, uneven ears, etc.)",
+                "Note stalk breakage and resultant issues (chaffy, rotten ears)",
+                "Observe Pioneer hybrid corn fields (uniform ears, straight stalks, heavy roots)",
+                "Understand the controlled pollination benefits (no unknown parentage, uniform quality)",
+                "Evaluate mechanical picking efficiency in hybrid corn"
             ]
         },
         {
-            "task": "Visiting a Pioneer hybrid corn demonstration.",
+            "task": "Tour the Pioneer hybrid seed corn processing facility.",
             "subtasks": [
-                "Conduct a visual inspection of an open-pollinated corn field, noting characteristics such as shagginess, broken stalks, and ear drop.",
-                "Conduct a visual inspection of a Pioneer hybrid corn field, noting characteristics like rigid stalks, uniform ear height, and absence of fallen ears.",
-                "Analyze the root systems of open-pollinated and hybrid corn plants by comparing size and structure.",
-                "Demonstrate operation of a mechanical corn picker to harvest hybrid corn.",
-                "Harvest corn from the hybrid field using the mechanical picker and load it onto waiting trucks.",
-                "Transport harvested corn from the field to the processing plant."
+                "Observe the warehouse capacity and processing procedures (drying, sorting, grading)",
+                "Understand the scale of operations (100k+ bushels per year)"
             ]
         },
         {
-            "task": "MAINTASK: Visiting a Pioneer hybrid corn demonstration.",
+            "task": "Understand the principles behind hybrid corn's superior performance.",
             "subtasks": [
-                "Conducting a visual inspection and noting the characteristics of open-pollinated corn in the field, including shagginess, broken stalks, and ear drop.",
-                "Conducting a visual inspection and noting the characteristics of Pioneer hybrid corn in the field, such as rigid stalks, uniform ear height, and absence of fallen ears.",
-                "Analyzing the root systems of open-pollinated and hybrid corn by comparing their size and structure.",
-                "Demonstrating the operation of a mechanical corn picker on hybrid corn.",
-                "Harvesting corn using the mechanical picker and loading it onto trucks.",
-                "Observing the transport of harvested corn to the processing plant."
+                "Grasp the importance of known genetics (selecting father and grandfather plants)"
             ]
+        },
+        {
+            "task": "Consider the economic and practical benefits of hybrid corn.",
+            "subtasks": [
+                "Note higher yields and better market value",
+                "Acknowledge the transition to mechanical farming"
+            ]
+        },
+        {
+            "task": "Walk through a field of open-pollinated corn and take note of its characteristics.",
+            "subtasks": [
+                "Observe the general appearance of the field (shagginess, bent stalks).",
+                "Check for fallen ears and assess the impact on yield (physically walking through the field).",
+                "Note stalk breakage and ear position (picking ears from different heights, possibly using hands to bend stalks slightly)."
+            ]
+        },
+        {
+            "task": "Walk through a field of Pioneer hybrid corn and compare to open-pollinated field.",
+            "subtasks": [
+                "Note uniform height and vigor of the corn plants (walking through the field, standing and looking).",
+                "Observe ear characteristics (stiffness, size, and arrangement; physically looking at ears on the stalks and noting their consistency)."
+            ]
+        },
+        {
+            "task": "Visit the corn processing facility.",
+            "subtasks": [
+                "Walk through the facility and observe the sorting and bagging process (likely involves walking past machines and stockpiles, not physically performing tasks, but just observing).",
+                "Note the capacity of the warehouse (counting bushels, but not a physical task, perhaps just observing numbers)."
+            ]
+        },
+        {
+            "task": "Handle corn ears during the demonstration.",
+            "subtasks": [
+                "Pick ears from the hybrid corn (using hands to grasp and remove ears)."
+            ]
+        },
+        {
+            "task": "Experience a tour comparing open-pollinated vs. Pioneer hybrid corn fields.",
+            "subtasks": [
+                "Walk through an open-pollinated corn field, observing its characteristics.",
+                "Walk through a Pioneer hybrid corn field, observing its characteristics.",
+                "Experience mechanical corn picking of hybrid corn."
+            ]
+        },
+        {
+            "task": "Understand the principles of hybrid corn production.",
+            "subtasks": [
+                "Compare natural (open-pollinated) vs. controlled (hybrid) pollination methods."
+            ]
+        },
+        {
+            "task": "Learn about corn processing and handling.",
+            "subtasks": [
+                "Observe the drying, sorting, grading, and bagging processes at the facility."
+            ]
+        },
+        {
+            "task": "Handle and compare corn ears.",
+            "subtasks": [
+                "Pick ears from hybrid corn plants (practical task)."
+            ]
+        },
+        {
+            "task": "Compare open-pollinated corn vs. Pioneer hybrid corn.",
+            "subtasks": [
+                "Walk through the open-pollinated corn field and observe characteristics.",
+                "Walk through the Pioneer hybrid corn field and observe characteristics.",
+                "Pick corn ears from both types and compare them."
+            ]
+        },
+        {
+            "task": "Walk through the fields observing corn characteristics.",
+            "subtasks": []
+        },
+        {
+            "task": "Participate in or observe corn processing.",
+            "subtasks": []
+        },
+        {
+            "task": "Compare hand-picking vs. mechanical corn picking (possibly by witnessing both).",
+            "subtasks": []
+        },
+        {
+            "task": "Witness the mechanical corn picking operation.",
+            "subtasks": [
+                "Count the number of corn rows processed and measure the distance (needs physical actions)."
+            ]
+        },
+        {
+            "task": "Experience extracting corn roots from the ground.",
+            "subtasks": []
+        },
+        {
+            "task": "Tour a corn field and processing facility.",
+            "subtasks": [
+                "Walk through open-pollinated corn fields and note characteristics (shagginess, etc.) (physical walking).",
+                "Walk through Pioneer hybrid corn fields and note characteristics (uniformity, strong roots) (physical walking).",
+                "Watch the mechanical corn picker operation (observational, but requires being in proximity to machinery)."
+            ]
+        },
+        {
+            "task": "Tour a corn field and processing facility.",
+            "subtasks": []
+        },
+        {
+            "task": "Explain the principles of hybrid corn production.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Comprehend the replication principles in hybrid corn production.",
+            "subtasks": []
+        },
+        {
+            "task": "Perform a tour of corn production facilities.",
+            "subtasks": [
+                "Walk through an open-pollinated corn field and assess its condition (shabby, fallen stalks, etc.) (physical walking and observation).",
+                "Walk through a Pioneer hybrid corn field and assess its condition (uniform, strong, etc.) (physical walking and observation).",
+                "Witness the seed corn processing facility's operations (drying, sorting, grading) (physical movement through the facility).",
+                "Handle corn ears and compare picked ears from both types (physical picking and comparing)."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Compare open-pollinated and Pioneer hybrid corn fields.",
+            "subtasks": [
+                "Walk through open-pollinated corn fields and note their characteristics (physical experience).",
+                "Walk through Pioneer hybrid corn fields and note their characteristics (physical experience).",
+                "Pick corn ears from both types and compare (physical action)."
+            ]
+        },
+        {
+            "task": "Visit a seed corn processing facility.",
+            "subtasks": [
+                "Walk through the facility and observe the processing steps (physical experience)."
+            ]
+        },
+        {
+            "task": "Maybe this is more straightforward. This gives a total of four MAINTASKs, each with subtasks related to the physical experience. Decisions decisions...",
+            "subtasks": []
+        },
+        {
+            "task": "Compare open-pollinated and hybrid corn production.",
+            "subtasks": [
+                "Walk through an open-pollinated corn field and note its characteristics (shagginess, fallen stalks).",
+                "Walk through a Pioneer hybrid corn field and note its characteristics (uniformity, straight stalks, heavy roots).",
+                "Participate in or observe corn picking (mechanical vs. manual) to compare efficiency and ease."
+            ]
+        },
+        {
+            "task": "Alternatively, as there's no physical task for manual picking, it's omitted. Then MAINTASKs would remain the two field visits and the processing facility tour.",
+            "subtasks": []
+        },
+        {
+            "task": "Compare open-pollinated and hybrid corn production.",
+            "subtasks": [
+                "Walk through an open-pollinated corn field and compare to hybrid."
+            ]
+        },
+        {
+            "task": "Visit the seed corn processing facility.",
+            "subtasks": []
+        },
+        {
+            "task": "Tour the processing facility.",
+            "subtasks": []
+        },
+        {
+            "task": "Experience a tour of corn production facilities, comparing open-pollinated and hybrid corn.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Demonstrate knowledge of open-pollinated vs. hybrid corn.",
+            "subtasks": []
+        },
+        {
+            "task": "The video transcript is about a tour of corn production facilities, highlighting the differences between open-pollinated and Pioneer hybrid corn. The key MAINTASKs involve walking through corn fields and processing facilities. The transcript is relevant to farming and agricultural operations, so tasks must focus on these experiences.",
+            "subtasks": []
+        },
+        {
+            "task": "Compare Open-Pollinated vs. Hybrid Corn Fields**",
+            "subtasks": []
+        },
+        {
+            "task": "Tour the Seed Corn Processing Facility**",
+            "subtasks": []
+        },
+        {
+            "task": "Experience Mechanical Corn Harvesting**",
+            "subtasks": []
+        },
+        {
+            "task": "Understand Controlled Hybrid Pollination Principles**",
+            "subtasks": []
         }
     ]
 }

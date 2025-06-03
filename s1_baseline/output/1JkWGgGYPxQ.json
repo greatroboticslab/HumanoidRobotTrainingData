@@ -5,120 +5,302 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Conducting an agricultural labor task on a farm.",
+            "task": "Drive a combine harvester",
             "subtasks": [
-                "Operating a tractor to drive through fields.",
-                "Maneuvering a harvester attachment for harvesting crops.",
-                "Loading harvested crops onto the tractor for transport."
+                "Sit in driver seat",
+                "Operate control lever",
+                "Adjust header height",
+                "Activate grain auger",
+                "Engage harvesting attachments"
             ]
         },
         {
-            "task": "Fixing farm equipment.",
+            "task": "Load grain cart",
             "subtasks": [
-                "Using tools to disassemble a broken farming machine.",
-                "Inspecting parts for damage or necessary repairs.",
-                "Replacing worn or broken components on the machine."
+                "Manually push divider into position",
+                "Guide cart using steering mechanism",
+                "Uncouple cart from combine"
             ]
         },
         {
-            "task": "Harvesting crops manually.",
+            "task": "Perform field pesticide application",
             "subtasks": [
-                "Walking through rows of plants to cut them down.",
-                "Storing harvested crops in a designated area."
+                "Mount pesticide sprayer",
+                "Connect tank to sprayer",
+                "Check nozzles for blockages",
+                "Apply pesticide according to label"
             ]
         },
         {
-            "task": "Driving a tractor uphill.",
+            "task": "Conduct manual soil sampling",
             "subtasks": [
-                "Adjusting speed while going up an incline.",
-                "Maintaining traction and control on the hill."
+                "Insert soil probe into earth",
+                "Collect core samples",
+                "Store samples properly"
             ]
         },
         {
-            "task": "Attaching implements to a tractor.",
+            "task": "Lubricate farm machinery",
             "subtasks": [
-                "Aligning the implement with the tractor's drawbar.",
-                "Securing all connections to prevent accidental detachment."
+                "Identify mechanisms requiring lubrication",
+                "Access lubrication points",
+                "Apply lubricant to components"
             ]
         },
         {
-            "task": "Planting seeds.",
+            "task": "Harvest oat crop",
             "subtasks": [
-                "Filling seed boxes or compartments.",
-                "Driving the tractor while maintaining the correct speed.",
-                "Adjusting seed depth and spacing as needed."
+                "Adjust combine for oat harvest",
+                "Monitor grain moisture content",
+                "Keep combine moving through field"
             ]
         },
         {
-            "task": "Operating a\u64ad\u79cd\u673a (seed drill) to plant seeds.",
+            "task": "Clean machine after use",
             "subtasks": [
-                "Adjusting settings on the seed drill for desired seed rate.",
-                "Following the intended path while planting.",
-                "Ensuring even distribution of seeds."
+                "Disassemble components for cleaning",
+                "Wash equipment",
+                "Lubricate after cleaning"
             ]
         },
         {
-            "task": "Driving a four-wheeled, open-air, agricultural vehicle.",
+            "task": "Operate aerial sprayer",
             "subtasks": [
-                "Steering the vehicle to follow the desired field path.",
-                "Maintaining a steady speed for efficiency."
+                "Enter cab of sprayer",
+                "Identify target area using GPS",
+                "Calibrate spray nozzles",
+                "Spray according to predetermined route"
             ]
         },
         {
-            "task": "Using a digger to turn over soil.",
+            "task": "Inspect equipment for damage",
             "subtasks": [
-                "Starting the digger attachment on the tractor.",
-                "Operating the controls to turn the soil effectively.",
-                "Ensuring the depth of the plowing is consistent."
+                "Check for visible wear and tear",
+                "Test operation of critical functions",
+                "Note any needed repairs"
             ]
         },
         {
-            "task": "Applying fertilizers or chemicals to crops.",
+            "task": "Apply post-harvest management practices",
             "subtasks": [
-                "Loading the sprayer with the necessary solution.",
-                "Calibration of spray nozzles for proper coverage.",
-                "Driving through the fields while administering the treatment."
+                "Conduct residue assessment",
+                "Plan next cropping schedule",
+                "Apply necessary soil amendments"
             ]
         },
         {
-            "task": "Climbing onto farm equipment.",
+            "task": "Grader operator",
             "subtasks": [
-                "Scaling up onto the tractor cab steps.",
-                "Securely entering the cab to begin operation.",
-                "Finding a suitable spot to pause work.",
-                "Taking food and drink items from the break area.",
-                "Enjoying a snack or meal while resting."
+                "Position grader along field boundary",
+                "Direct blade movement for surface leveling",
+                "Monitor grade for consistency"
             ]
         },
         {
-            "task": "Cutting trees or vegetation.",
+            "task": "Manage livestock watering",
             "subtasks": [
-                "Using a chainsaw to fell trees.",
-                "Clearing debris from the fields.",
-                "** This task involves maneuvering a tractor to navigate through farms (SUBTASK) and ensuring smooth operation (part of the main task).",
-                "** Examples include adding harvester parts for crop collection (SUBTASK) and seed drills for planting (SUBTASK).",
-                "** Involves filling seed boxes, adjusting the speed of the tractor, and precise adjustment of planting depth and spacing (SUBTASK).",
-                "** This includes starting and controlling the digger to plow soil uniformly (SUBTASK).",
-                "** This starts with disassembling broken machinery to check for issues (SUBTASK), inspecting parts (SUBTASK), and replacing worn components (SUBTASK).",
-                "** Such as tractors, which requires safely ascending steps or ladders (SUBTASK).",
-                "** Workers walk through fields cutting crops by hand (SUBTASK), then storing them (SUBTASK). This relates to both the physical activity and storage aspects.",
-                "** Intricacies include loading the sprayer correctly (SUBTASK), calibrating nozzles (SUBTASK), and safely driving the tractor through fields during application (SUBTASK).",
-                "** This might involve using tools like chainsaws (SUBTASK) for tasks such as clearing paths or maintaining areas around the farm.",
-                "** Requires adjusting speed and maintaining control (SUBTASK), ensuring no loss of grip or control."
+                "Check water supply levels",
+                "Clean waterers",
+                "Test water quality"
             ]
         },
         {
-            "task": "** MAINTASK: Conducting various farm operations.",
+            "task": "Conduct soil pH testing",
             "subtasks": [
-                "Driving a tractor;",
-                "Attaching/handling implements;",
-                "Planting seeds;",
-                "Operating a digger;",
-                "Fixing equipment;",
-                "Manual harvesting;",
-                "Using a sprayer;",
-                "C waking onto equipment;",
-                "** \\nMAINTASK: Conducting an agricultural labor task on a farm.\\nSUBTASK: Operating a tractor to drive through fields.\\nSUBTASK: Maneuvering a harvester attachment for harvesting crops.\\nSUBTASK: Loading harvested crops onto the tractor for transport.\\nMAINTASK: Fixing farm equipment.\\nSUBTASK: Using tools to disassemble a broken farming machine.\\nSUBTASK: Inspecting parts for damage or necessary repairs.\\nSUBTASK: Replacing worn or broken components on the machine.\\nMAINTASK: Harvesting crops manually.\\nSUBTASK: Walking through rows of plants to cut them down.\\nSUBTASK: Storing harvested crops in a designated area.\\nMAINTASK: Driving a tractor uphill.\\nSUBTASK: Adjusting speed while going up an incline.\\nSUBTASK: Maintaining traction and control on the hill.\\nMAINTASK: Attaching implements to a tractor.\\nSUBTASK: Aligning the implement with the tractor's drawbar.\\nSUBTASK: Securing all connections to prevent accidental detachment.\\nMAINTASK: Planting seeds.\\nSUBTASK: Filling seed boxes or compartments.\\nSUBTASK: Driving the tractor while maintaining the correct speed.\\nSUBTASK: Adjusting seed depth and spacing as needed.\\nMAINTASK: Operating a\u64ad\u79cd\u673a (seed drill) to plant seeds.\\n.SUBTASK: Adjusting settings on the seed drill for desired seed rate.\\nSUBTASK: Following the intended path while planting.\\nSUBTASK: Ensuring even distribution of seeds.\\nMAINTASK: Driving a four-wheeled, open-air, agricultural vehicle.\\nSUBTASK: Steering the vehicle to follow the desired field path.\\nSUBTASK: Maintaining a steady speed for efficiency.\\nMAINTASK: Using a digger to turn over soil.\\nSUBTASK: Starting the digger attachment on the tractor.\\nSUBTASK: Operating the controls to turn the soil effectively.\\nSUBTASK: Ensuring the depth of the plowing is consistent.\\nMAINTASK: Applying fertilizers or chemicals to crops.\\nSUBTASK: Loading the sprayer with the necessary solution.\\nSUBTASK: Calibration of spray nozzles for proper coverage.\\nSUBTASK: Driving through the fields while administering the treatment.\\nMAINTASK: Climbing onto farm equipment.\\nSUBTASK: Scaling up onto the tractor cab steps.\\nSUBTASK: Securely entering the cab to begin operation.\\n**Final Answer** involves multiple tasks involving operating, maintaining, and using various farm machinery, as well as performing manual labor such as harvesting and planting. These activities reflect the physical nature of farming as depicted in the video. However, as noted, the transcript touches on different areas, including vegetation management (tree cutting) and short breaks, though the latter may not be central to agricultural tasks. The primary tasks are those directly related to operating farm equipment, planting, and harvesting, as these are integral to farming operations."
+                "Collect soil samples from various sites",
+                "Mix samples in bucket",
+                "Prepare pH testing solution",
+                "Use pH meter to test samples"
+            ]
+        },
+        {
+            "task": "Apply nitrogen fertilizer to soybeans",
+            "subtasks": [
+                "Adjust spreader settings",
+                "Distribute fertilizer evenly over field",
+                "Evaluate soybean field growth stage"
+            ]
+        },
+        {
+            "task": "Feed livestock",
+            "subtasks": [
+                "Prepare feed mixture",
+                "Distribute feed across barn or pasture",
+                "Monitor animals' consumption"
+            ]
+        },
+        {
+            "task": "Check equipment for proper functioning",
+            "subtasks": [
+                "Test engine start-up",
+                "Perform fluid level checks",
+                "Inspect belts and chains"
+            ]
+        },
+        {
+            "task": "Apply fertilizer to wheat fields",
+            "subtasks": [
+                "Determine appropriate application rate",
+                "Calibrate fertilization equipment",
+                "Begin application over the field"
+            ]
+        },
+        {
+            "task": "Start up combine harvester",
+            "subtasks": [
+                "Perform pre-operation checks",
+                "Grease moving parts",
+                "Check fuel and coolant levels",
+                "ICAL \u0110i\u1ec1u n\u00e0y c\u00f3 li\u00ean quan \u0111\u1ebfn nhanh kh\u00f4ng? Vi\u1ec7c generater thels d\u1ef1a tr\u00ean transcript n\u00ean c\u1ea7n \u0111\u1ec3 r\u00f5 c\u00e1c task v\u00e0 subtask, nh\u01b0ng kh\u00f4ng r\u00f5 v\u1ea5n \u0111\u1ec1 \u1edf \u0111\u00e2u trong transcript n\u00e0y. Theo nh\u01b0 m\u00ecnh hi\u1ec3u, \u0111\u1ec1 b\u00e0i y\u00eau c\u1ea7u \u0111\u01b0a ra danh s\u00e1ch c\u00e1c c\u00f4ng vi\u1ec7c th\u1ec3 ch\u1ea5t m\u00e0 ng\u01b0\u1eddi th\u1ee3 n\u00f4ng tr\u01b0\u1eddng s\u1ebd th\u1ef1c hi\u1ec7n li\u00ean quan \u0111\u1ebfn transcript, \u0111\u01b0\u1ee3c vi\u1ebft theo t\u1eebng t\u00e1c v\u1ee5 ch\u00ednh (MAINTASK) v\u00e0 c\u00e1c subtask con (SUBTASK). Tuy nhi\u00ean, trong transcript cung c\u1ea5p kh\u00f4ng c\u00f3 t\u1eeb \"Star S05\" hay \"That's right\" khi b\u1eaft \u0111\u1ea7u c\u00e2u tr\u1ea3 l\u1eddi. File n\u00e0y c\u00f3 l\u1ebd l\u00e0 m\u1ed9t file transcript t\u1eeb m\u1ed9t video, nh\u01b0ng kh\u00f4ng c\u00f3 th\u00f4ng tin v\u1ec1 n\u1ed9i dung c\u1ee5 th\u1ec3."
+            ]
+        },
+        {
+            "task": "Drive a combine harvester",
+            "subtasks": [
+                "** Sit in driver seat",
+                "** Operate control lever",
+                "** Adjust header height",
+                "** Activate grain auger",
+                "** Engage harvesting attachments"
+            ]
+        },
+        {
+            "task": "Load grain cart",
+            "subtasks": [
+                "** Manually push divider into position",
+                "** Guide cart using steering mechanism",
+                "** Uncouple cart from combine"
+            ]
+        },
+        {
+            "task": "Perform field pesticide application",
+            "subtasks": [
+                "** Mount pesticide sprayer",
+                "** Connect tank to sprayer",
+                "** Check nozzles for blockages",
+                "** Apply pesticide according to label"
+            ]
+        },
+        {
+            "task": "Conduct manual soil sampling",
+            "subtasks": [
+                "** Insert soil probe into earth",
+                "** Collect core samples",
+                "** Store samples properly"
+            ]
+        },
+        {
+            "task": "Lubricate farm machinery",
+            "subtasks": [
+                "** Identify mechanisms requiring lubrication",
+                "** Access lubrication points",
+                "** Apply lubricant to components"
+            ]
+        },
+        {
+            "task": "Harvest oat crop",
+            "subtasks": [
+                "** Adjust combine for oat harvest",
+                "** Monitor grain moisture content",
+                "** Keep combine moving through field"
+            ]
+        },
+        {
+            "task": "Clean machine after use",
+            "subtasks": [
+                "** Disassemble components for cleaning",
+                "** Wash equipment",
+                "** Lubricate after cleaning"
+            ]
+        },
+        {
+            "task": "Operate aerial sprayer",
+            "subtasks": [
+                "** Enter cab of sprayer",
+                "** Identify target area using GPS",
+                "** Calibrate spray nozzles",
+                "** Spray according to predetermined route"
+            ]
+        },
+        {
+            "task": "Inspect equipment for damage",
+            "subtasks": [
+                "** Check for visible wear and tear",
+                "** Test operation of critical functions",
+                "** Note any needed repairs"
+            ]
+        },
+        {
+            "task": "Apply post-harvest management practices",
+            "subtasks": [
+                "** Conduct residue assessment",
+                "** Plan next cropping schedule",
+                "** Apply necessary soil amendments"
+            ]
+        },
+        {
+            "task": "Grader operator",
+            "subtasks": [
+                "** Position grader along field boundary",
+                "** Direct blade movement for surface leveling",
+                "** Monitor grade for consistency"
+            ]
+        },
+        {
+            "task": "Manage livestock watering",
+            "subtasks": [
+                "** Check water supply levels",
+                "** Clean waterers",
+                "** Test water quality"
+            ]
+        },
+        {
+            "task": "Conduct soil pH testing",
+            "subtasks": [
+                "** Collect soil samples from various sites",
+                "** Mix samples in bucket",
+                "** Prepare pH testing solution",
+                "** Use pH meter to test samples"
+            ]
+        },
+        {
+            "task": "Apply nitrogen fertilizer to soybeans",
+            "subtasks": [
+                "** Adjust spreader settings",
+                "** Distribute fertilizer evenly over field",
+                "** Evaluate soybean field growth stage"
+            ]
+        },
+        {
+            "task": "Feed livestock",
+            "subtasks": [
+                "** Prepare feed mixture",
+                "** Distribute feed across barn or pasture",
+                "** Monitor animals' consumption"
+            ]
+        },
+        {
+            "task": "Check equipment for proper functioning",
+            "subtasks": [
+                "** Test engine start-up",
+                "** Perform fluid level checks",
+                "** Inspect belts and chains"
+            ]
+        },
+        {
+            "task": "Apply fertilizer to wheat fields",
+            "subtasks": [
+                "** Determine appropriate application rate",
+                "** Calibrate fertilization equipment",
+                "** Begin application over the field"
+            ]
+        },
+        {
+            "task": "Start up combine harvester",
+            "subtasks": [
+                "** Perform pre-operation checks",
+                "** Grease moving parts",
+                "** Check fuel and coolant levels"
             ]
         }
     ]

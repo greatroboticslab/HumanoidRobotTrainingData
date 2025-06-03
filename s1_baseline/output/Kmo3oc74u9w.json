@@ -5,8 +5,240 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "followed by subtasks. However, if there are no relevant tasks, then I can't generate any. Hence, the only appropriate response is to indicate the transcript is irrelevant.",
-            "subtasks": []
+            "task": "Load hay onto a vehicle.",
+            "subtasks": [
+                "Drive tractor with front-end loader.",
+                "Attach hay bales to the vehicle.",
+                "Safely drive the vehicle to a storage location."
+            ]
+        },
+        {
+            "task": "Unload hay bales from a vehicle into a barn.",
+            "subtasks": [
+                "Dismount the vehicle and approach the barn.",
+                "Manually carry hay bales up the barn stairs.",
+                "Place hay bales into designated storage areas."
+            ]
+        },
+        {
+            "task": "Feed animals.",
+            "subtasks": [
+                "Mix feed into a suitable container.",
+                "Distribute feed to the animals in their stalls or pens."
+            ]
+        },
+        {
+            "task": "Check water supplies.",
+            "subtasks": [
+                "Inspect water troughs or tanks.",
+                "Refill water containers as needed."
+            ]
+        },
+        {
+            "task": "Maintain equipment.",
+            "subtasks": [
+                "Inspect the condition of the tractor and loader.",
+                "Lubricate parts as necessary.",
+                "Check for loose or missing bolts."
+            ]
+        },
+        {
+            "task": "Enter and exit the tractor safely.",
+            "subtasks": [
+                "Adjust the seat and mirrors to the correct position.",
+                "Verify all controls are within reach.",
+                "Buckle the seat belt before starting.",
+                "Open the cab door while keeping balance.",
+                "Exit the tractor by reversing the entry process."
+            ]
+        },
+        {
+            "task": "Operate the front-end loader to handle bales.",
+            "subtasks": [
+                "Raise the loader bucket to pick up a hay bale.",
+                "Drive the tractor slowly to transport the bale.",
+                "Lower the bucket carefully near the vehicle.",
+                "Repeat for each bale needing transport."
+            ]
+        },
+        {
+            "task": "Hoist hay bales onto the vehicle.",
+            "subtasks": [
+                "Position the loader bucket around the bale.",
+                "Use the loader arms to lift the bale onto the vehicle.",
+                "Secure the bale with the vehicle's tie-downs if necessary.",
+                "Lower the loader bucket back to the ground."
+            ]
+        },
+        {
+            "task": "Check the tire pressure of the tractor.",
+            "subtasks": [
+                "Refer to the tires for the correct pressure levels.",
+                "Use a tire gauge to measure the pressure.",
+                "Add air if the pressure is below the minimum.",
+                "Dispose of any excess air."
+            ]
+        },
+        {
+            "task": "Refuel the tractor.",
+            "subtasks": [
+                "Locate the fuel access point on the tractor.",
+                "Connect the fueling hose to the tractor.",
+                "Monitor the fuel level until it reaches the desired mark.",
+                "Disconnect the hose and clean up any spills."
+            ]
+        },
+        {
+            "task": "Consolidate hay bales into a windrow.",
+            "subtasks": [
+                "Drive the tractor with the loader to the field.",
+                "Position the loader at the edge of a stack of hay.",
+                "Push the hay bales with the loader into a neat row.",
+                "Adjust the loader's height as needed for efficiency."
+            ]
+        },
+        {
+            "task": "Conduct routine barn checks.",
+            "subtasks": [
+                "Inspect the roof for any signs of leakage.",
+                "Check the walls for structural integrity.",
+                "Examine the flooring for stability and slip resistance."
+            ]
+        },
+        {
+            "task": "Disinfect the barn area.",
+            "subtasks": [
+                "Gather cleaning supplies such as brushes and disinfectant.",
+                "Apply disinfectant to surfaces and equipment.",
+                "Allow the disinfectant to dry or as per instructions."
+            ]
+        },
+        {
+            "task": "Install or check water and feed automation systems.",
+            "subtasks": [
+                "Walk through the barn to locate the system's control panel.",
+                "Ensure that all water and feed lines are properly connected.",
+                "Test the system to make sure it operates correctly.",
+                "Make adjustments or repairs if needed."
+            ]
+        },
+        {
+            "task": "MAINTASK: Load hay onto a vehicle.",
+            "subtasks": [
+                "Drive tractor with front-end loader.",
+                "Attach hay bales to the vehicle.",
+                "Safely drive the vehicle to a storage location."
+            ]
+        },
+        {
+            "task": "Unload hay bales from a vehicle into a barn.",
+            "subtasks": [
+                "Dismount the vehicle and approach the barn.",
+                "Manually carry hay bales up the barn stairs.",
+                "Place hay bales into designated storage areas."
+            ]
+        },
+        {
+            "task": "Feed animals.",
+            "subtasks": [
+                "Mix feed into a suitable container.",
+                "Distribute feed to the animals in their stalls or pens."
+            ]
+        },
+        {
+            "task": "Check water supplies.",
+            "subtasks": [
+                "Inspect water troughs or tanks.",
+                "Refill water containers as needed."
+            ]
+        },
+        {
+            "task": "Maintain equipment.",
+            "subtasks": [
+                "Inspect the condition of the tractor and loader.",
+                "Lubricate parts as necessary.",
+                "Check for loose or missing bolts."
+            ]
+        },
+        {
+            "task": "Enter and exit the tractor safely.",
+            "subtasks": [
+                "Adjust the seat and mirrors to the correct position.",
+                "Verify all controls are within reach.",
+                "Buckle the seat belt before starting.",
+                "Open the cab door while keeping balance.",
+                "Exit the tractor by reversing the entry process."
+            ]
+        },
+        {
+            "task": "Operate the front-end loader to handle bales.",
+            "subtasks": [
+                "Raise the loader bucket to pick up a hay bale.",
+                "Drive the tractor slowly to transport the bale.",
+                "Lower the bucket carefully near the vehicle.",
+                "Repeat for each bale needing transport."
+            ]
+        },
+        {
+            "task": "Hoist hay bales onto the vehicle.",
+            "subtasks": [
+                "Position the loader bucket around the bale.",
+                "Use the loader arms to lift the bale onto the vehicle.",
+                "Secure the bale with the vehicle's tie-downs if necessary.",
+                "Lower the loader bucket back to the ground."
+            ]
+        },
+        {
+            "task": "Check the tire pressure of the tractor.",
+            "subtasks": [
+                "Refer to the tires for the correct pressure levels.",
+                "Use a tire gauge to measure the pressure.",
+                "Add air if the pressure is below the minimum.",
+                "Dispose of any excess air."
+            ]
+        },
+        {
+            "task": "Refuel the tractor.",
+            "subtasks": [
+                "Locate the fuel access point on the tractor.",
+                "Connect the fueling hose to the tractor.",
+                "Monitor the fuel level until it reaches the desired mark.",
+                "Disconnect the hose and clean up any spills."
+            ]
+        },
+        {
+            "task": "Consolidate hay bales into a windrow.",
+            "subtasks": [
+                "Drive the tractor with the loader to the field.",
+                "Position the loader at the edge of a stack of hay.",
+                "Push the hay bales with the loader into a neat row.",
+                "Adjust the loader's height as needed for efficiency."
+            ]
+        },
+        {
+            "task": "Conduct routine barn checks.",
+            "subtasks": [
+                "Inspect the roof for any signs of leakage.",
+                "Check the walls for structural integrity.",
+                "Examine the flooring for stability and slip resistance."
+            ]
+        },
+        {
+            "task": "Disinfect the barn area.",
+            "subtasks": [
+                "Gather cleaning supplies such as brushes and disinfectant.",
+                "Apply disinfectant to surfaces and equipment.",
+                "Allow the disinfectant to dry or as per instructions."
+            ]
+        },
+        {
+            "task": "Install or check water and feed automation systems.",
+            "subtasks": [
+                "Walk through the barn to locate the system's control panel.",
+                "Ensure that all water and feed lines are properly connected.",
+                "Test the system to make sure it operates correctly.",
+                "Make adjustments or repairs if needed."
+            ]
         }
     ]
 }

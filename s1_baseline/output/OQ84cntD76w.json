@@ -5,29 +5,87 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Preparing and planting onion containers.",
+            "task": "Planting onions from seeds in containers",
             "subtasks": [
-                "Gathering materials and tools.",
-                "Mixing potting soil with additives.",
-                "Arranging onions for planting.",
-                "Separating onion bulbs gently.",
-                "Ensuring proper planting depth.",
-                "Watering and mulching the planted onions."
+                "Gather materials (containers, potting soil, onion seeds)",
+                "Mix peat moss and potting soil for better drainage",
+                "Sprinkle granular bone meal (for root growth) into soil",
+                "Soak onion seeds in water to loosen them for separation (not mentioned but implied)",
+                "Gently separate onion roots without damaging them",
+                "Plant onions at proper depth (not too deep), ensuring roots are covered",
+                "Water the planted onions thoroughly",
+                "Consider thinning out onions later for better spacing",
+                "Prepare for mulching with dried leaves (not done in the video but planned)"
             ]
         },
         {
-            "task": "Using a garden kneeler for comfort.",
+            "task": "Using a garden kneeler for planting comfort",
             "subtasks": [
-                "Setting up the garden kneeler.",
-                "Demonstrating ergonomic planting technique."
+                "Sit on the kneeler to reduce back and knee strain while planting",
+                "Use the kneeler in various gardening activities (both indoor and outdoor)"
             ]
         },
         {
-            "task": "Discussing onion varieties and care.",
+            "task": "Thinning onions and managing spacing",
             "subtasks": [
-                "Identifying suitable onion varieties for the region.",
-                "Providing tips for onion planting and maintenance."
+                "Identify and remove smaller onions for immediate use",
+                "Thin onions to the desired final spacing, considering their mature size"
             ]
+        },
+        {
+            "task": "Preparing for mulching season",
+            "subtasks": [
+                "Collect and store dried leaves as a future mulch material",
+                "Plan to apply mulch when onions have established themselves"
+            ]
+        },
+        {
+            "task": "using a garden kneeler to sit while planting. So, I can write MAINTASK: Using a garden kneeler for planting comfort. Then the subtasks would be sitting on the kneeler to reduce strain on back and knees, and using it for various gardening activities.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting onions in containers. Subtasks: gathering materials, mixing potting soil, adding fertilizer, and watering.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Thinning onions. Subtasks: identifying smaller onions, removing them. They also mention mulching with dried leaves, which might be another task: preparing for mulching. But they didn't do it in the video\u2014just planning to collect leaves. So that could be a separate MAINTASK: Collecting mulch material, with a subtask of raking up leaves. Then applying the mulch later.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting onions in containers",
+            "subtasks": []
+        },
+        {
+            "task": "Using a garden kneeler for planting comfort",
+            "subtasks": []
+        },
+        {
+            "task": "Thinning onions",
+            "subtasks": []
+        },
+        {
+            "task": "Collecting mulch material",
+            "subtasks": []
+        },
+        {
+            "task": "Adding fertilizer to soil.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting Onions in Containers",
+            "subtasks": []
+        },
+        {
+            "task": "Using a Garden Kneeler for Planting Comfort",
+            "subtasks": []
+        },
+        {
+            "task": "Thinning Onions",
+            "subtasks": []
+        },
+        {
+            "task": "Collecting Mulch Material",
+            "subtasks": []
         }
     ]
 }

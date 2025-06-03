@@ -7,15 +7,31 @@
         {
             "task": "Harvest raspberries",
             "subtasks": [
-                "Drive the raspberry harvester along the rows",
-                "Monitor the harvester's progress through each row"
+                "Drive raspberry harvester",
+                "Navigate rows of raspberry bushes",
+                "Collect ripe raspberries"
             ]
         },
         {
-            "task": "MAINTASK: Harvest raspberries",
+            "task": "Operate raspberry harvester",
             "subtasks": [
-                "Drive the raspberry harvester along the rows",
-                "Monitor the harvester's progress through each row"
+                "Start harvester",
+                "Adjust harvester settings",
+                "Monitor harvester operation"
+            ]
+        },
+        {
+            "task": "Monitor raspberry harvest",
+            "subtasks": [
+                "Check raspberry ripeness",
+                "Ensure even coverage of the rows"
+            ]
+        },
+        {
+            "task": "Gather raspberries",
+            "subtasks": [
+                "Collect berries from harvester",
+                "Sort and store ripe berries"
             ]
         }
     ]

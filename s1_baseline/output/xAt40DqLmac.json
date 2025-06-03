@@ -5,55 +5,27 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Operate a farm during a drought.",
+            "task": "Drought conditions affecting farming operations",
             "subtasks": [
-                "Feed hay to cattle.",
-                "Purchase hay.",
-                "Test hay quality.",
-                "Supplement cattle feed.",
-                "Support cattle during drought conditions."
+                "Evaluating current economic situation (forecasts of poor year, purchasing hay, dealing with decreased hay production)",
+                "Considering future market trends (hoping for higher cattle prices, observing demand in sale barn)",
+                "Dealing with increased number of cows at sale barn (interpreting market signals)",
+                "Managing cattle feeding operations (weaning calves, backgrounding)",
+                "Determining hay purchasing and supplementing needs (quality assessment, considering to have hay tested)",
+                "Implementing feeding strategies (using liquid feed, salt mix)",
+                "Adapting to challenging market conditions (not selling off herds unless necessary)"
             ]
         },
         {
-            "task": "Sell cattle at a sale barn.",
+            "task": "Responding to natural disaster (drought)",
             "subtasks": [
-                "Respond to inquiries about cattle market.",
-                "Notice increased cattle sales at the barn."
+                "Managing resource allocation (feeding hay, purchasing supplements)",
+                "Monitoring weather patterns and their impact (looking for rain, noting lack of moisture)",
+                "Adjusting farming practices (using supplements, considering rainy weather's effect on forage)",
+                "Managing cattle herds (weaning, keeping cows vs. selling)",
+                "Maintaining market perspective (advising buyers, considering supply and demand)",
+                "Drought conditions affecting farming operations)(SUBTASK: Evaluating current economic situation)(SUBTASK: Considering future market trends)(SUBTASK: Dealing with increased number of cows at sale barn)(SUBTASK: Managing cattle feeding operations)(SUBTASK: Determining hay purchasing and supplementing needs)(SUBTASK: Implementing feeding strategies)(SUBTASK: Adapting to challenging market conditions)(MAINTASK: Responding to natural disaster)(SUBTASK: Managing resource allocation)(SUBTASK: Monitoring weather patterns and their impact)(SUBTASK: Adjusting farming practices)(SUBTASK: Managing cattle herds)(SUBTASK: Maintaining market perspective)\""
             ]
-        },
-        {
-            "task": "Manage cattle herd.",
-            "subtasks": [
-                "Decide whether to sell cows.",
-                "Wean calves.",
-                "Background cattle."
-            ]
-        },
-        {
-            "task": "Assess cattle market impact.",
-            "subtasks": [
-                "Evaluate cattle price trends.",
-                "Consider grain prices and availability."
-            ]
-        },
-        {
-            "task": "Plan for future farming.",
-            "subtasks": [
-                "Hope for better rainfall and cattle market.",
-                "Prepare for potential higher hay costs."
-            ]
-        },
-        {
-            "task": "Operate a farm during a drought.**",
-            "subtasks": []
-        },
-        {
-            "task": "Support cattle during drought conditions.**",
-            "subtasks": []
-        },
-        {
-            "task": "Assess and plan for the cattle market and future.**",
-            "subtasks": []
         }
     ]
 }

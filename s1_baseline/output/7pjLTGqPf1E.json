@@ -5,16 +5,52 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Drift irrigation system design for an ecological orchard",
+            "task": "Designing a drift irrigation system for an orchard",
+            "subtasks": []
+        },
+        {
+            "task": "Understand water sources and pressure regulation",
             "subtasks": [
-                "Determine water source location and distribution",
-                "Install pressure regulator to manage high water pressure",
-                "Understand drip irrigation system components (emitters, filters, valves)",
-                "Calculate water requirements based on crop and environmental factors",
-                "Choose appropriate irrigation method (tree irrigation in this case)",
-                "Design pipe layout considering pressure drop and energy savings",
-                "Implement volumetric control and pressure measurement for each irrigation zone",
-                "Ensure uniform water distribution across all orchard plots"
+                "Identify water source (Canal Isabel II)",
+                "Use pressure regulator to manage high water pressure (>17 meters)"
+            ]
+        },
+        {
+            "task": "Install necessary irrigation components",
+            "subtasks": [
+                "Use hydraulics valves and pressure reducers",
+                "Equip with filters (e.g., DICS filters) to prevent emitter clogging",
+                "Choose appropriate drippers (e.g., online emitters, intra-line emitters)"
+            ]
+        },
+        {
+            "task": "Plan water distribution",
+            "subtasks": [
+                "Calculate water requirements based on climatic factors",
+                "Determine optimal discharge rates for irrigation emitters",
+                "Design pipe diameters and layouts for primary and tertiary pipes",
+                "Installelectro valves and pressure reducers for automated control"
+            ]
+        },
+        {
+            "task": "Monitor system performance",
+            "subtasks": [
+                "Use pressure buttons and digital manometers for real-time pressure checks",
+                "Implement volume meters (water meters) for irrigation scheduling"
+            ]
+        },
+        {
+            "task": "Design and install a drift irrigation system for organic orchards",
+            "subtasks": [
+                "Source water from Canal Isabel II",
+                "Regulate water pressure with regulators and pressure reducers",
+                "Install filters (e.g., DICS) to prevent emitter clogging",
+                "Select and configure drippers and emitters (e.g., online, intra-line models)",
+                "Calculate water requirements and discharge rates",
+                "Plan pipe diameters and layouts for primary and tertiary distribution",
+                "Install electro valves and pressure reducers",
+                "Monitor pressure using buttons and manometers",
+                "Utilize volume meters for irrigation scheduling"
             ]
         }
     ]

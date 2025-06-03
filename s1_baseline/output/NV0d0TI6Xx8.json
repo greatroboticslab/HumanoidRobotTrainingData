@@ -5,14 +5,18 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Set up solar panels for off-grid living.",
+            "task": "Set up solar panels and related equipment for off-grid living.",
             "subtasks": [
-                "Assemble 18 solar panels, each 550 watts.",
-                "Position the solar panels for optimal sunlight exposure.",
-                "Install a 7 kilowatt inverter.",
-                "Connect two 10 kilowatt lithium battery systems.",
-                "Set up Starlink satellite internet for off-grid internet access.",
-                "Harvest rainwater from the flat roof."
+                "Place solar panels on the property (18 panels, 550 watts each).",
+                "Install 7 kilowatt inverter.",
+                "Equip 20 kilowatt lithium batteries.",
+                "Set up Starlink for internet connectivity."
+            ]
+        },
+        {
+            "task": "Collect rainwater from the roof.",
+            "subtasks": [
+                "Directly channel rainwater from a flat roof to storage."
             ]
         }
     ]

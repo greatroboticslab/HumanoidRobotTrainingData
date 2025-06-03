@@ -5,23 +5,27 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Install drip irrigation system",
+            "task": "Assemble a drip irrigation system for a garden.",
             "subtasks": [
-                "Identify components of the drip irrigation system",
-                "Connect water hose faucet to battery timer",
-                "Adapt system for different garden types (vegetable garden, raised bed, container pots)"
+                "Identify components of the drip irrigation system.",
+                "Connect the system to a water hose faucet.",
+                "Install a battery timer for the irrigation system.",
+                "Adapt the system for different garden types (vegetable garden, raised bed, container pots)."
             ]
         },
         {
-            "task": "Install drip irrigation system. Subtasks would include identifying components, connecting the water hose to battery timer, and adapting for different garden types. That makes sense. Let me confirm. Yeah, this is directly related to agricultural practices, especially for maintaining gardens, which is a common task in farming. So the final answer should present these three main subtasks under the main task of installing the drip irrigation system. The transcript is relevant as it provides steps for setting up an irrigation system, which is a physical task. So I'll add a summary note at the end to confirm that.",
-            "subtasks": []
+            "task": "Operate the battery timer for the drip irrigation system.",
+            "subtasks": [
+                "Set up the battery timer.",
+                "Check the timer operation."
+            ]
         },
         {
-            "task": "Install drip irrigation system",
+            "task": "Troubleshoot common issues with the drip irrigation system.",
             "subtasks": [
-                "Identify components of the drip irrigation system",
-                "Connect water hose faucet to battery timer",
-                "Adapt system for different garden types (vegetable garden, raised bed, container pots)"
+                "Check water pressure and flow.",
+                "Inspect for leaks or clogs.",
+                "Adjust the timer settings as needed."
             ]
         }
     ]

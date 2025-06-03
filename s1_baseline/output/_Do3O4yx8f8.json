@@ -5,14 +5,57 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Determine optimal spacing for seedlings during the thinning process.",
+            "task": "Transplanting seedlings and thinning them properly.",
             "subtasks": [
-                "Assess the number of seedlings in a small cell.",
-                "Compare the observed number against recommended spacing.",
-                "Identify overcrowded seedlings competing for resources.",
-                "Remove excess seedlings to prevent weakness and spindly growth.",
-                "Repeat thinning as necessary over several weeks."
+                "Assess the number of seedlings in each cell.",
+                "Monitor seedling growth to check for weakness or spindly appearance.",
+                "Remove excess seedlings to prevent overcrowding in cells.",
+                "Ensure sufficient space and nutrition for remaining seedlings."
             ]
+        },
+        {
+            "task": "Thinning seedlings to optimize growth.",
+            "subtasks": [
+                "Identify overcrowded seedling cells.",
+                "Carefully transplant healthy seedlings to larger containers or replant them in the field.",
+                "Dispose of removed seedlings properly."
+            ]
+        },
+        {
+            "task": "Thinning seedlings to prevent overcrowding.",
+            "subtasks": [
+                "Assess seedling growth in each cell.",
+                "Identify weak or spindly seedlings resulting from overcrowding.",
+                "Remove excess seedlings to ensure each remaining plant has enough space and nutrients."
+            ]
+        },
+        {
+            "task": "Control overcrowding of seedlings in cells.",
+            "subtasks": [
+                "Regularly check seedling trays for proper spacing.",
+                "Transplant or destroy removed seedlings."
+            ]
+        },
+        {
+            "task": "Ensure seedlings are not overcrowded in cells.",
+            "subtasks": [
+                "Check the number of seedlings in each cell at regular intervals (e.g., every few days).",
+                "If overcrowding is detected (roots are weak, seedlings are spindly), remove excess seedlings.",
+                "Transplant or destroy the removed seedlings."
+            ]
+        },
+        {
+            "task": "Thin seedlings in cells to prevent overcrowding.",
+            "subtasks": [
+                "Monitor seedlings for signs of root competition (weakness, spindly growth).",
+                "Remove excess seedlings to give remaining plants adequate space and resources.",
+                "Repeat thinning process over the next few weeks as needed.",
+                ""
+            ]
+        },
+        {
+            "task": "MAINTASK: Thin seedlings to prevent overcrowding.",
+            "subtasks": []
         }
     ]
 }

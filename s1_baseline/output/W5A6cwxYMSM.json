@@ -5,132 +5,370 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Operate advanced agricultural machinery for precision farming.",
+            "task": "Operating advanced agricultural machinery and vehicles",
             "subtasks": [
-                "Drive the Munov Harvest Machine to rotate blades and collect apples directly into processing unit.",
-                "Adjust the cutting height and speed of the Munov Harvest Machine as needed.",
-                "Use the TU Blind Retriever\u2019s 10-bale grapple to handle small square bales efficiently.",
-                "Operate the Strawberry Harvesting Robot with AI sensors to pick ripe strawberries gently.",
-                "Manage Kiwi Fruit Harvesting Robot for automated picking and pollination under human supervision.",
-                "Operate the Delroy Mobile Versatile Cauliflower Harvester\u2019s dual cutting heads for precise separation.",
-                "Transport flower pots using the Compact Flower Pot Transport Robot through tight spaces."
+                "Driving a Munov Harvest Machine for apple harvesting",
+                "Using a TU Blind Retriever to handle small square bales on a skid-steer loader",
+                "Operating a Strawberry Harvesting Robot for strawberry picking",
+                "Managing Kiwi Fruit Harvesting Robots for both harvesting and pollination",
+                "Using the Delroy Mobile Versatile Cauliflower Harvester for cauliflower stalk and floret separation",
+                "Employing a Compact Flower Pot Transport Robot for moving flower pots on varying terrain",
+                "Operating an OB-100 root-picking machine for root crop harvesting",
+                "Using the Rupa Keo 2 potato harvester for potato harvesting and processing",
+                "Employing a Green Onion Harvester for large-scale onion harvesting",
+                "Grasping the operational aspects of a John Deere 6150R for bale loading",
+                "Understanding the functionality of a John Deere 6620 bale press",
+                "Monitoring a powerful fruit harvester for efficient large-scale fruit harvesting",
+                "Operating a tomato harvester with attention to quality preservation",
+                "Navigating through operations involving semi-automatic citrus peelers",
+                "Utilizing a carrot harvester for potato lifting"
             ]
         },
         {
-            "task": "Utilize high-capacity harvesters for root and potato crops.",
+            "task": "Observing and understanding poultry farming technology",
             "subtasks": [
-                "Navigate the OB-100 root-picking machine over large areas.",
-                "Operate the Rupa Keo potato harvester with a 7.5-ton bunker capacity."
+                "Assisting with chick care and nutrition after hatching"
             ]
         },
         {
-            "task": "Streamline onion and hay harvesting.",
+            "task": "Inspecting and operating unmanned aerial vehicles (UAVs) for pesticide spraying",
             "subtasks": [
-                "Guide the Green Onion Harvester through onion fields.",
-                "Load bales onto the John Deere 6150R for efficient bale handling.",
-                "Operate the John Deere 6620 for reliable hay bale processing."
+                "Using a GPS and LiDAR-equipped robot for row-wise weed control",
+                "Operating an egg-breaking machine for high-volume handling",
+                "Employing a soil-digging machine for land preparation"
             ]
         },
         {
-            "task": "Automate fruit and vegetable harvesting with advanced technology.",
+            "task": "Working in the post-harvest processing of various crops",
             "subtasks": [
-                "Operate a large-scale fruit harvester for efficient collection.",
-                "Use a tomato harvester to protect produce quality during rapid gathering."
+                "Monitoring the process of newborn lambs being transported with a sheep shearing robot",
+                "Participating in sweet corn harvest and packing in the field",
+                "Assisting in dairy farming with milk yield-enhancing machinery",
+                "Handling chicken transportation using a chicken catching machine"
             ]
         },
         {
-            "task": "Process high-demand crops like cranberries and citrus with specialized machinery.",
+            "task": "Managing agricultural logistics",
             "subtasks": [
-                "Prepare cranberry goods through semi-automatic processes.",
-                "Peel citrus fruits efficiently using an advanced peeler."
+                "Transporting agricultural produce via a cable car",
+                "Supervising the washing, sorting, and packing of watermelons in a factory",
+                "Overseeing the mango processing sequence in a factory",
+                "Operating a C485 lawn mower for maintaining fields or orchards",
+                "Ensuring efficient weed control using a precision GPS-guided robot",
+                "Part of a workflow involving a robust plowing machine for soil preparation"
             ]
         },
         {
-            "task": "Handle post-harvest tasks for root crops.",
+            "task": "MAINTASK: Operating advanced agricultural machinery",
             "subtasks": [
-                "Harvest carrots using specialized blades and conveyor systems."
+                "Operating a Munov Harvest Machine for precise apple harvesting",
+                "Managing the TU Blind Retriever for secure small bale handling",
+                "Supervising the Strawberry Harvesting Robot for AI-assisted picking",
+                "Overseeing Kiwi Fruit Harvesting Robots for efficient pollination and picking",
+                "Operating the Delroy Mobile Versatile Cauliflower Harvester for accurate stalk and floret separation",
+                "Controlling the Compact Flower Pot Transport Robot for terrain-adaptive pot movement",
+                "Driving the OB-100 root-picking machine for carrot and potato harvesting",
+                "Using the Rupa Keo 2 for potato bunker loading and transport",
+                "Operating the Green Onion Harvester for efficient large-scale onion picking",
+                "Loading and unloading bales with a John Deere 6150R loader for hay operations",
+                "Monitoring a John Deere 6620 for bale press operation and efficiency",
+                "Handling a large-scale fruit harvester for rapid fruit collection",
+                "Operating a tomato harvester for quality-preserving picking",
+                "Using a semi-automatic citrus peeler for precise fruit preparation",
+                "Employing a carrot harvester for root crop excavation"
             ]
         },
         {
-            "task": "Manage chicks post-hatching through critical care phases.",
+            "task": "Handling UAVs and precision agriculture",
             "subtasks": [
-                "Provide immediate care and nutrition to chicks.",
-                "Monitor chicks\u2019 growth and development post-hatching."
+                "Piloting an unmanned aerial vehicle for pesticide application",
+                "Operating a robot equipped with GPS and LiDAR for weed control",
+                "Programming a grass harvester for automated maintenance",
+                "Utilizing a GPS-equipped pruning machine for precise tree care",
+                "Managing a tulip bulb harvester for efficient bulb collection",
+                "Overseeing the processing of harvested crops in a factory"
             ]
         },
         {
-            "task": "Use UAVs for precise pesticide application.",
+            "task": "Livestock handling and milking",
             "subtasks": [
-                "Operate UAVs to spray crops efficiently."
+                "Operating a chicken catching machine for streamlined transport",
+                "Assisting in the process of chick hatching and early care",
+                "Supervising milking operations with high-yielding equipment"
             ]
         },
         {
-            "task": "Maintain tree and livestock health with automated tools.",
+            "task": "Agricultural logistics and transportation",
             "subtasks": [
-                "Prune trees with a motorized machine.",
-                "Harvest tulip bulbs using a precision machine.",
-                "Monitor a papaya garden and harvest fruits manually.",
-                "Plant trees using a tree planting machine.",
-                "Guide a robot for GPS-assisted weed elimination.",
-                "Shear sheep using a sheep shearing robot."
+                "Transporting produce via a cable car",
+                "Directing the sorting, washing, and packing of watermelons",
+                "Managing mango processing from harvest to packaging",
+                "Operating a reliable lawn mower for field maintenance"
             ]
         },
         {
-            "task": "Efficiently handle watermelon and mango harvests.",
+            "task": "Soil preparation and land management",
             "subtasks": [
-                "Clean watermelons for market readiness.",
-                "Process mangoes through sorting, washing, and packaging."
+                "Operating a robust plow for large-scale soil breaking"
             ]
         },
         {
-            "task": "Ensure land preparation with robust machinery.",
+            "task": "Operating advanced agricultural machinery and vehicles",
             "subtasks": [
-                "Break up soil using a plowshare-equipped machine.",
-                "Condition soil with a soil-digging machine."
+                "Driving a Munov Harvest Machine for apple harvesting",
+                "Using a TU Blind Retriever to handle small square bales on a skid-steer loader",
+                "Operating a Strawberry Harvesting Robot for strawberry picking",
+                "Managing Kiwi Fruit Harvesting Robots for both harvesting and pollination",
+                "Using the Delroy Mobile Versatile Cauliflower Harvester for cauliflower stalk and floret separation",
+                "Employing a Compact Flower Pot Transport Robot for moving flower pots on varying terrain",
+                "Operating an OB-100 root-picking machine for root crop harvesting",
+                "Using the Rupa Keo 2 potato harvester for potato harvesting and processing",
+                "Employing a Green Onion Harvester for large-scale onion harvesting",
+                "Grasping the operational aspects of a John Deere 6150R for bale loading",
+                "Understanding the functionality of a John Deere 6620 bale press"
             ]
         },
         {
-            "task": "Facilitate produce transport and storage.",
+            "task": "Observing and understanding poultry farming technology",
             "subtasks": [
-                "Use a cable car to rapidly transport agricultural goods.",
-                "Guide a chicken catching machine for smooth bird transportation."
+                "Assisting with chick care and nutrition after hatching"
             ]
         },
         {
-            "task": "Maintain high milk yields in dairy farming.",
+            "task": "Inspecting and operating unmanned aerial vehicles (UAVs) for pesticide spraying",
             "subtasks": [
-                "Manage dairy cows with efficient milking machinery."
+                "Using a GPS and LiDAR-equipped robot for row-wise weed control",
+                "Operating an egg-breaking machine for high-volume handling",
+                "Employing a soil-digging machine for land preparation"
             ]
         },
         {
-            "task": "Operate equipment for poultry farming.",
+            "task": "Working in the post-harvest processing of various crops",
             "subtasks": [
-                "Transport live chickens using a chicken catching machine."
+                "Monitoring the process of newborn lambs being transported with a sheep shearing robot",
+                "Participating in sweet corn harvest and packing in the field",
+                "Assisting in dairy farming with milk yield-enhancing machinery",
+                "Handling chicken transportation using a chicken catching machine"
             ]
         },
         {
-            "task": "Process sweet corn from field to market.",
+            "task": "Managing agricultural logistics",
             "subtasks": [
-                "Pick and pack sweet corn directly in the field."
+                "Transporting agricultural produce via a cable car",
+                "Supervising the washing, sorting, and packing of watermelons in a factory",
+                "Overseeing the mango processing sequence in a factory",
+                "Operating a C485 lawn mower for maintaining fields or orchards",
+                "Ensuring efficient weed control using a precision GPS-guided robot",
+                "Part of a workflow involving a robust plowing machine for soil preparation"
             ]
         },
         {
-            "task": "Operate advanced agricultural machinery for precision farming.",
+            "task": "Operating advanced agricultural machinery and vehicles",
             "subtasks": [
-                "Drive the Munov Harvest Machine to rotate blades and collect apples directly into processing unit.",
-                "Adjust the cutting height and speed of the Munov Harvest Machine as needed.",
-                "Use the TU Blind Retriever\u2019s 10-bale grapple to handle small square bales efficiently.",
-                "Operate the Strawberry Harvesting Robot with AI sensors to pick ripe strawberries gently.",
-                "Manage Kiwi Fruit Harvesting Robot for automated picking and pollination under human supervision.",
-                "Operate the Delroy Mobile Versatile Cauliflower Harvester\u2019s dual cutting heads for precise separation.",
-                "Transport flower pots using the Compact Flower Pot Transport Robot through tight spaces."
+                "Driving a Munov Harvest Machine for apple harvesting",
+                "Using a TU Blind Retriever to handle small square bales on a skid-steer loader",
+                "Operating a Strawberry Harvesting Robot for strawberry picking",
+                "Managing Kiwi Fruit Harvesting Robots for both harvesting and pollination",
+                "Using the Delroy Mobile Versatile Cauliflower Harvester for cauliflower stalk and floret separation",
+                "Employing a Compact Flower Pot Transport Robot for moving flower pots on varying terrain",
+                "Operating an OB-100 root-picking machine for root crop harvesting",
+                "Using the Rupa Keo 2 potato harvester for potato harvesting and processing",
+                "Employing a Green Onion Harvester for large-scale onion harvesting",
+                "Grasping the operational aspects of a John Deere 6150R for bale loading",
+                "Understanding the functionality of a John Deere 6620 bale press"
             ]
         },
         {
-            "task": "Operate advanced agricultural machinery for precision farming.",
+            "task": "Observing and understanding poultry farming technology",
             "subtasks": [
-                "Drive the Munov Harvest Machine, adjust its settings, handle bales with the TU Blind Retriever, operate strawberries and kiwi robots, manage potato harvesters, drive Green Onion and bale handling machines, process fruits, handle post-harvest tasks, manage UAVs, operate tree pruning, sheep shearing, and livestock transport machines, including those for dairy and poultry. Tasks cover field preparation, efficient land use, processing, and transportation."
+                "Assisting with chick care and nutrition after hatching"
             ]
+        },
+        {
+            "task": "Inspecting and operating unmanned aerial vehicles (UAVs) for pesticide spraying",
+            "subtasks": [
+                "Using a GPS and LiDAR-equipped robot for row-wise weed control",
+                "Operating an egg-breaking machine for high-volume handling",
+                "Employing a soil-digging machine for land preparation"
+            ]
+        },
+        {
+            "task": "Working in the post-harvest processing of various crops",
+            "subtasks": [
+                "Monitoring the process of newborn lambs being transported with a sheep shearing robot",
+                "Participating in sweet corn harvest and packing in the field",
+                "Assisting in dairy farming with milk yield-enhancing machinery",
+                "Handling chicken transportation using a chicken catching machine"
+            ]
+        },
+        {
+            "task": "Managing agricultural logistics",
+            "subtasks": [
+                "Transporting agricultural produce via a cable car",
+                "Supervising the washing, sorting, and packing of watermelons in a factory",
+                "Overseeing the mango processing sequence in a factory",
+                "Operating a C485 lawn mower for maintaining fields or orchards",
+                "Ensuring efficient weed control using a precision GPS-guided robot",
+                "Part of a workflow involving a robust plowing machine for soil preparation"
+            ]
+        },
+        {
+            "task": "Operating advanced agricultural machinery and vehicles",
+            "subtasks": [
+                "Driving a Munov Harvest Machine for apple harvesting (including adjusting cutting height and speed, ensuring precision)",
+                "Using a TU Blind Retriever to handle small square bales on a skid-steer loader (safe operation and handling, minimizing damage)",
+                "Operating a Strawberry Harvesting Robot for strawberry picking (monitoring sensors, maintaining picking quality)",
+                "Managing Kiwi Fruit Harvesting Robots for harvesting and pollination (programming AI, ensuring proper fruit selection)",
+                "Using the Delroy Mobile Versatile Cauliflower Harvester for stalk and floret separation (setting speed and adjusting cutting heads)",
+                "Controlling the Compact Flower Pot Transport Robot for efficient pot transport over varied terrain (maneuvering and loading/unloading)",
+                "Operating an OB-100 root-picking machine (starting the machine, adjusting depth, ensuring effective root lifting)",
+                "Using the Rupa Keo 2 potato harvester (loading bales, monitoring capacity, checking potato transport)",
+                "Operating a Green Onion Harvester for large-scale harvesting (managing machine speed, ensuring coverage, verifying onion collection)",
+                "Driving a John Deere 6150R for bale loading (safe operation, stacking bales, checking attachment connections)",
+                "Understanding the John Deere 6620 bale press operation (monitoring performance, adjusting settings for optimal bale density)"
+            ]
+        },
+        {
+            "task": "Observing and understanding poultry farming technology",
+            "subtasks": [
+                "Assisting with chick care after hatching (nutrition, immediate hygiene, monitoring growth)"
+            ]
+        },
+        {
+            "task": "Machine operations for post-harvest processing",
+            "subtasks": [
+                "Operating a UAV for pesticide spraying (loading chemicals, setting flight paths, safety checks)",
+                "Using a robot with GPS and LiDAR sensors for weed elimination (programming routes, verifying coverage)",
+                "Operating an egg-breaking machine (loading eggs, maintaining volume, cleaning)",
+                "Using a soil-digging machine for land preparation (adjusting plow depth, checking soil breaking efficiency)"
+            ]
+        },
+        {
+            "task": "Processing and transport logistics",
+            "subtasks": [
+                "Transferring harvested crops via a cable car (guiding, monitoring speed, ensuring safety)",
+                "Supervising watermelon washing and packing (quality checks, maintaining hygiene, coordinating staff)",
+                "Processing mangoes in the factory (grading, washing, packaging)",
+                "Operating a C485 lawn mower for field maintenance (adjusting blades, checking battery, mowing terrain)",
+                "Applying precision weed control using a GPS-guided robot (setting parameters, verifying results)",
+                "Managing a robust plowing machine for new planting (adjusting share width, depth, checking soil condition)"
+            ]
+        },
+        {
+            "task": "Operating advanced agricultural machinery and vehicles",
+            "subtasks": [
+                "Operating a Munov Harvest Machine for apple harvesting (adjusting cutting height, inspecting transported apples)",
+                "Using a TU Blind Retriever for bale handling (manually operating grapple, ensuring securely stored bales)",
+                "Operating a Strawberry Harvesting Robot (setting sensor parameters, checking harvesting accuracy)",
+                "Managing Kiwi Fruit Harvesting Robots (programming pollination paths, verifying picking efficiency)",
+                "Using the Delroy Mobile Versatile Cauliflower Harvester (adjusting stalk separation settings, verifying floret collection)",
+                "Operating the Compact Flower Pot Transport Robot (maneuvering through terrain, checking pot integrity)",
+                "Operating an OB-100 root-picking machine (monitoring root lift efficiency, ensuring soil disturbance is minimal)",
+                "Using the Rupa Keo 2 potato harvester (loading and unloading bales, inspecting potato damage)",
+                "Operating a Green Onion Harvester (adjusting cutting depth, managing speed over large fields)",
+                "Grasping the operation of a John Deere 6150R (using the loader for bale stacking, ensuring proper attachment)",
+                "Operating a John Deere 6620 bale press (monitoring bale density, using the machine for efficient baling operations)"
+            ]
+        },
+        {
+            "task": "Handling livestock and milking",
+            "subtasks": [
+                "Assisting in chick care (providing immediate post-hatching nutrition and hygiene)"
+            ]
+        },
+        {
+            "task": "Machine operations for post-harvest processing",
+            "subtasks": [
+                "Operating UAVs for pesticide application (loading chemicals, programming sprayer)",
+                "Using a precision spray weed control robot (manually setting fields, adjusting turning points)",
+                "Operating an egg-breaking machine (maintaining high-volume egg processing)",
+                "Employing a soil-turning machine for land preparation (starting the machine, adjusting depth settings)"
+            ]
+        },
+        {
+            "task": "Processing and transporting finished products",
+            "subtasks": [
+                "Transferring harvested crops via cable car (managing load, ensuring safe passage)",
+                "Sorting and packing watermelons (checking for defects, ensuring market-ready appearance)",
+                "Supervising mango processing (grinding fruit, sorting and packing)",
+                "Operating a lawn mower for field maintenance (mowing hay fields, managing rubber tires)"
+            ]
+        },
+        {
+            "task": "Operating advanced agricultural machinery",
+            "subtasks": [
+                "Operating a Munov Harvest Machine for precise apple picking",
+                "Using a TU Blind Retriever for secure bale handling",
+                "Managing a Strawberry Harvesting Robot for efficient strawberry picking",
+                "Operating a Kiwi Fruit Harvesting Robot for harvesting and pollination",
+                "Using a Cauliflower Harvester for thorough stalk and floret separation",
+                "Using a Pot Transport Robot to move flower pots over uneven terrain",
+                "Operating a Root-picking Machine for carrot and potato harvesting",
+                "Using a Potato Harvester for large-scale potato picking and processing",
+                "Operating a Green Onion Harvester for onion harvesting",
+                "Operating a Bale loader and John Deere machines for field operations"
+            ]
+        },
+        {
+            "task": "Understanding and operating UAVs",
+            "subtasks": [
+                "Deploying a UAV for pesticide spraying",
+                "Using a Weeding robot with GPS and LiDAR",
+                "Using a pruning robot with GPS",
+                "Using a bulb harvester"
+            ]
+        },
+        {
+            "task": "Managing post-harvest processing",
+            "subtasks": [
+                "Managing chicks after hatching",
+                "Using and monitoring a Milk yield enhancement machine",
+                "Operating a Cable car for produce transport",
+                "Packing and grading watermelons",
+                "Processing Mangoes in a factory",
+                "Using a lawn mower for field management"
+            ]
+        },
+        {
+            "task": "Operating advanced agricultural machinery",
+            "subtasks": [
+                "Operating a Munov Harvest Machine for precise apple cutting",
+                "Using a TU Blind Retriever to manage small bales",
+                "Operating a Strawberry Harvesting Robot for accurate picking",
+                "Monitoring Kiwi Fruit Harvesting Robots for efficient pollination and collection",
+                "Operating a Cauliflower Harvester for stalk and floret separation",
+                "Moving flower pots with a Compact Flower Pot Transport Robot",
+                "Operating a Root-picking Machine for carrot harvest",
+                "Using a Potato Harvester for large-scale potato harvesting",
+                "Operating a Green Onion Harvester for fast harvesting",
+                "Operating a Bale Loader and John Deere machines for hayfield operations"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Operating advanced agricultural machinery and performing related tasks",
+            "subtasks": [
+                "Operating **Munov Apple Harvester**",
+                "Managing **TU Blind Retriever**",
+                "Operating **Strawberry Harvesting Robot**",
+                "Running **KIWI Fruit Harvesting Robots**",
+                "Using **Cauliflower Harvester**",
+                "Operating **Compact Flower Pot Transport Robot**",
+                "Using **OB-100 Root-Picking Machine** for harvesting",
+                "Managing **PotatoHarvester (Rupa Keo2)**",
+                "Operating **Green OnionHarvester** on large fields",
+                "Running **BaleLoaders (John Deere machinery)** for bale management.",
+                "Operating **UnmannedAerialVehicles for Spraying**.",
+                "Using **SheepShearing Robot** systems.",
+                "Caring for **Chicks post-hatching**."
+            ]
+        },
+        {
+            "task": "**\u64cd\u4f5c\u73b0\u4ee3\u519c\u4e1a\u673a\u68b0\u8bbe\u5907**",
+            "subtasks": []
         }
     ]
 }

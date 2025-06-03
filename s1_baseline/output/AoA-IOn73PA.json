@@ -5,169 +5,463 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Operate a combine harvester",
+            "task": "Drive a tractor in corn field",
             "subtasks": [
-                "Sit on the combine operator's seat",
-                "Engage the engine and start the combine",
-                "Adjust the combine's harvesting settings",
-                "Drive the combine through the crop field",
-                "Monitor the combine's performance during harvesting",
-                "Use telehandlers or similar equipment for placing bales",
-                "Insert bale pointers into bales to secure them",
-                "Stack and organize the bales as needed"
+                "Sit in the tractor seat",
+                "Operate tractor's steering wheel to navigate through corn field",
+                "Use hydraulics to lower or raise implement",
+                "Engage gears to move tractor forward or backward",
+                "Monitor directions via GPS system"
             ]
         },
         {
-            "task": "Transport harvested crops",
+            "task": "Attach the combine",
             "subtasks": [
-                "Load combine into a trailer or other transport vehicle",
-                "Secure the crops in the trailer with ties or straps",
-                "Drive the trailer to the desired location",
-                "Unload the crops from the combine or trailer",
-                "Discharge the crops into the appropriate storage or processing area"
+                "Align the combine with the tractor",
+                "Securely attach the combine to the tractor using hitch pins or other fasteners"
             ]
         },
         {
-            "task": "Prepare land for planting",
+            "task": "Drive the combine in the corn field",
             "subtasks": [
-                "Position the combine implement into the right position for land preparation",
-                "Engage the implements to work the soil, such as tilling or cultivating",
-                "Monitor the soil conditions and adjust the implement's settings as needed",
-                "Operate the soil-working equipment to prepare seedbeds"
+                "Sit in the combine seat",
+                "Use steering wheel to direct the combine through the field",
+                "Engage proper speed to maintain efficient harvesting",
+                "Monitor combine gauges for performance indicators"
             ]
         },
         {
-            "task": "Apply fertilizers and chemicals",
+            "task": "Operate the combine to harvest corn",
             "subtasks": [
-                "Attach or connect fertilizer or chemical applicator tools to the combine",
-                "Set the appropriate rates and distribution patterns for spreaders",
-                "Operate the spreader or applicator while moving through the field",
-                "Check the coverage and adjust the spreader settings if necessary"
+                "Monitor corn ears feeding into the combine",
+                "Adjust cutting height as needed",
+                "Use controls to open or close the combine's cleaning system",
+                "Check grain tank levels periodically"
             ]
         },
         {
-            "task": "Plant crops",
+            "task": "Load grain into the grain truck",
             "subtasks": [
-                "Attach planting implements to the combine or tractor",
-                "Adjust the planting depth and planter settings",
-                "Drive through the field, planting seeds into the prepared soil",
-                "Monitor the planting process and ensure consistent row spacing and depth"
+                "Stop the combine at the designated unloading location",
+                "Open the grain unloading gate",
+                "Operate the combine's auger to transfer grain into the truck",
+                "Monitor grain flow and ensure proper loading"
             ]
         },
         {
-            "task": "Harvest crops",
+            "task": "Unload grain from the grain truck",
             "subtasks": [
-                "Position the combine in the field to start harvesting",
-                "Adjust the combine's header to match the crop type (e.g., wheat, soybeans)",
-                "Navigate the combine through the crop rows, harvesting in sections",
-                "Check the grain quality and separator settings during harvest",
-                "Load harvested grain into bins or trucks as needed"
+                "Drive the grain truck to the bin location",
+                "Position the truck under the bin's unload chute",
+                "Connect the auger from the bin to the truck",
+                "Start the unloading process"
             ]
         },
         {
-            "task": "Maintain and service farm equipment",
+            "task": "Drive the grain truck to the grain bin",
             "subtasks": [
-                "Inspect the combine for any issues before and after operations",
-                "Clean and lubricate moving parts of the combine and attachments",
-                "Replace worn or damaged parts on the equipment",
-                "Follow safety protocols when servicing the combine or other equipment"
+                "Align the grain truck with the bin's unload chute",
+                "Engage proper driving to ensure safe movement",
+                "Monitor trailer connections and release when close enough to the bin"
             ]
         },
         {
-            "task": "Operate a combine harvester**",
+            "task": "Unload grain from the grain truck into the bin",
+            "subtasks": [
+                "Start the auger at the bin to begin unloading",
+                "Monitor grain unload rate and adjust as needed",
+                "Communicate with combine operator to coordinate loading and unloading timing"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "- Monitor GPS (SUBTASKS)."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "- Securily attach using fasteners (SUBTASKS)."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "- Monitor gauges (SUBTASKS)."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "- Check grain levels (SUBTASKS)."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "- Monitor flow (SUBTASKS)."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "- Start process (SUBTASKS)."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "- Start auger and manage unload rate (SUBTASKS)."
+            ]
+        },
+        {
+            "task": "Drive a tractor in corn field} \\\\",
+            "subtasks": [
+                "Sit in the tractor seat} \\\\",
+                "Operate tractor's steering wheel to navigate through corn field} \\\\",
+                "Use hydraulics to lower or raise implement} \\\\",
+                "Engage gears to move tractor forward or backward} \\\\",
+                "Monitor directions via GPS system} \\\\"
+            ]
+        },
+        {
+            "task": "Attach the combine} \\\\",
+            "subtasks": [
+                "Align the combine with the tractor} \\\\",
+                "Securely attach the combine to the tractor using hitch pins or other fasteners} \\\\"
+            ]
+        },
+        {
+            "task": "Drive the combine in the corn field} \\\\",
+            "subtasks": [
+                "Sit in the combine seat} \\\\",
+                "Use steering wheel to direct the combine through the field} \\\\",
+                "Engage proper speed to maintain efficient harvesting} \\\\",
+                "Monitor combine gauges for performance indicators} \\\\"
+            ]
+        },
+        {
+            "task": "Operate the combine to harvest corn} \\\\",
+            "subtasks": [
+                "Monitor corn ears feeding into the combine} \\\\",
+                "Adjust cutting height as needed} \\\\",
+                "Use controls to open or close the combine's cleaning system} \\\\",
+                "Check grain tank levels periodically} \\\\"
+            ]
+        },
+        {
+            "task": "Load grain into the grain truck} \\\\",
+            "subtasks": [
+                "Stop the combine at the designated unloading location} \\\\",
+                "Open the grain unloading gate} \\\\",
+                "Operate the combine's auger to transfer grain into the truck} \\\\",
+                "Monitor grain flow and ensure proper loading} \\\\"
+            ]
+        },
+        {
+            "task": "Unload grain from the grain truck} \\\\",
+            "subtasks": [
+                "Drive the grain truck to the bin location} \\\\",
+                "Position the truck under the bin's unload chute} \\\\",
+                "Connect the auger from the bin to the truck} \\\\",
+                "Start the unloading process} \\\\"
+            ]
+        },
+        {
+            "task": "Drive the grain truck to the grain bin} \\\\",
+            "subtasks": [
+                "Align the grain truck with the bin's unload chute} \\\\",
+                "Engage proper driving to ensure safe movement} \\\\",
+                "Monitor trailer connections and release when close enough to the bin} \\\\"
+            ]
+        },
+        {
+            "task": "Unload grain from the grain truck into the bin} \\\\",
+            "subtasks": [
+                "Start the auger at the bin to begin unloading} \\\\",
+                "Monitor grain unload rate and adjust as needed} \\\\",
+                "Communicate with combine operator to coordinate loading and unloading timing}"
+            ]
+        },
+        {
+            "task": "",
             "subtasks": []
         },
         {
-            "task": "Transport harvested crops**",
+            "task": "",
             "subtasks": []
         },
         {
-            "task": "Prepare land for planting**",
+            "task": "",
             "subtasks": []
         },
         {
-            "task": "Apply fertilizers and chemicals**",
+            "task": "",
             "subtasks": []
         },
         {
-            "task": "Plant crops**",
+            "task": "",
             "subtasks": []
         },
         {
-            "task": "Harvest crops**",
-            "subtasks": []
-        },
-        {
-            "task": "Maintain and service farm equipment**",
-            "subtasks": []
-        },
-        {
-            "task": "Operate a combine harvester",
+            "task": "Drive a tractor in corn field} \\\\",
             "subtasks": [
-                "Sit on the combine operator's seat",
-                "Engage the engine and start the combine",
-                "Adjust the combine's harvesting settings",
-                "Drive the combine through the crop field",
-                "Monitor the combine's performance during harvesting",
-                "Use telehandlers or similar equipment for placing bales",
-                "Insert bale pointers into bales to secure them",
-                "Stack and organize the bales as needed"
+                "Sit in the tractor seat} \\\\",
+                "Operate tractor's steering wheel to navigate through corn field} \\\\",
+                "Use hydraulics to lower or raise implement} \\\\",
+                "Engage gears to move tractor forward or backward} \\\\",
+                "Monitor directions via GPS system} \\\\"
             ]
         },
         {
-            "task": "Transport harvested crops",
+            "task": "Attach the combine} \\\\",
             "subtasks": [
-                "Load combine into a trailer or other transport vehicle",
-                "Secure the crops in the trailer with ties or straps",
-                "Drive the trailer to the desired location",
-                "Unload the crops from the combine or trailer",
-                "Discharge the crops into the appropriate storage or processing area"
+                "Align the combine with the tractor} \\\\",
+                "Securely attach the combine to the tractor using hitch pins or other fasteners} \\\\"
             ]
         },
         {
-            "task": "Prepare land for planting",
+            "task": "Drive the combine in the corn field} \\\\",
             "subtasks": [
-                "Position the combine implement into the right position for land preparation",
-                "Engage the implements to work the soil",
-                "Monitor the soil conditions and adjust the implement's settings as needed",
-                "Operate the soil-working equipment to prepare seedbeds"
+                "Sit in the combine seat} \\\\",
+                "Use steering wheel to direct the combine through the field} \\\\",
+                "Engage proper speed to maintain efficient harvesting} \\\\",
+                "Monitor combine gauges for performance indicators} \\\\"
             ]
         },
         {
-            "task": "Apply fertilizers and chemicals",
+            "task": "Operate the combine to harvest corn} \\\\",
             "subtasks": [
-                "Attach or connect fertilizer or chemical applicator tools to the combine",
-                "Set the appropriate rates and distribution patterns for spreaders",
-                "Operate the spreader or applicator while moving through the field",
-                "Check the coverage and adjust the spreader settings if necessary"
+                "Monitor corn ears feeding into the combine} \\\\",
+                "Adjust cutting height as needed} \\\\",
+                "Use controls to open or close the combine's cleaning system} \\\\",
+                "Check grain tank levels periodically} \\\\"
             ]
         },
         {
-            "task": "Plant crops",
+            "task": "Load grain into the grain truck} \\\\",
             "subtasks": [
-                "Attach planting implements to the combine or tractor",
-                "Adjust the planting depth and planter settings",
-                "Drive through the field, planting seeds into the prepared soil",
-                "Monitor the planting process and ensure consistent row spacing and depth"
+                "Stop the combine at the designated unloading location} \\\\",
+                "Open the grain unloading gate} \\\\",
+                "Operate the combine's auger to transfer grain into the truck} \\\\",
+                "Monitor grain flow and ensure proper loading} \\\\"
             ]
         },
         {
-            "task": "Harvest crops",
+            "task": "Unload grain from the grain truck} \\\\",
             "subtasks": [
-                "Position the combine in the field to start harvesting",
-                "Adjust the combine's header to match the crop type",
-                "Navigate the combine through the crop rows, harvesting in sections",
-                "Check the grain quality and separator settings during harvest",
-                "Load harvested grain into bins or trucks as needed"
+                "Drive the grain truck to the bin location} \\\\",
+                "Position the truck under the bin's unload chute} \\\\",
+                "Connect the auger from the bin to the truck} \\\\",
+                "Start the unloading process} \\\\"
             ]
         },
         {
-            "task": "Maintain and service farm equipment",
+            "task": "Drive the grain truck to the grain bin} \\\\",
             "subtasks": [
-                "Inspect the combine for any issues before and after operations",
-                "Clean and lubricate moving parts of the combine and attachments",
-                "Replace worn or damaged parts on the equipment",
-                "Follow safety protocols when servicing the combine or other equipment"
+                "Align the grain truck with the bin's unload chute} \\\\",
+                "Engage proper driving to ensure safe movement} \\\\",
+                "Monitor trailer connections and release when close enough to the bin} \\\\"
+            ]
+        },
+        {
+            "task": "Unload grain from the grain truck into the bin} \\\\",
+            "subtasks": [
+                "Start the auger at the bin to begin unloading} \\\\",
+                "Monitor grain unload rate and adjust as needed} \\\\",
+                "Communicate with combine operator to coordinate loading and unloading timing}"
+            ]
+        },
+        {
+            "task": "Drive a tractor in corn field} \\\\",
+            "subtasks": [
+                "Sit in the tractor seat} \\\\\\\\",
+                "Operate tractor's steering wheel to navigate through corn field} \\\\\\\\",
+                "Use hydraulics to lower or raise implement} \\\\\\\\",
+                "Engage gears to move tractor forward or backward} \\\\\\\\",
+                "Monitor directions via GPS system} \\\\\\\\"
+            ]
+        },
+        {
+            "task": "Attach the combine} \\\\",
+            "subtasks": [
+                "Align the combine with the tractor} \\\\\\\\",
+                "Securely attach the combine to the tractor using hitch pins or other fasteners} \\\\\\\\"
+            ]
+        },
+        {
+            "task": "Drive the combine in the corn field} \\\\",
+            "subtasks": [
+                "Sit in the combine seat} \\\\\\\\",
+                "Use steering wheel to direct the combine through the field} \\\\\\\\",
+                "Engage proper speed to maintain efficient harvesting} \\\\\\\\",
+                "Monitor combine gauges for performance indicators} \\\\\\\\"
+            ]
+        },
+        {
+            "task": "Operate the combine to harvest corn} \\\\",
+            "subtasks": [
+                "Monitor corn ears feeding into the combine} \\\\\\\\",
+                "Adjust cutting height as needed} \\\\\\\\",
+                "Use controls to open or close the combine's cleaning system} \\\\\\\\",
+                "Check grain tank levels periodically} \\\\\\\\"
+            ]
+        },
+        {
+            "task": "Load grain into the grain truck} \\\\",
+            "subtasks": [
+                "Stop the combine at the designated unloading location} \\\\\\\\",
+                "Open the grain unloading gate} \\\\\\\\",
+                "Operate the combine's auger to transfer grain into the truck} \\\\\\\\",
+                "Monitor grain flow and ensure proper loading} \\\\\\\\"
+            ]
+        },
+        {
+            "task": "Unload grain from the grain truck} \\\\",
+            "subtasks": [
+                "Drive the grain truck to the bin location} \\\\\\\\",
+                "Position the truck under the bin's unload chute} \\\\\\\\",
+                "Connect the auger from the bin to the truck} \\\\\\\\",
+                "Start the unloading process} \\\\\\\\"
+            ]
+        },
+        {
+            "task": "Drive the grain truck to the grain bin} \\\\",
+            "subtasks": [
+                "Align the grain truck with the bin's unload chute} \\\\\\\\",
+                "Engage proper driving to ensure safe movement} \\\\\\\\",
+                "Monitor trailer connections and release when close enough to the bin} \\\\\\\\"
+            ]
+        },
+        {
+            "task": "Unload grain from the grain truck into the bin} \\\\",
+            "subtasks": [
+                "Start the auger at the bin to begin unloading} \\\\\\\\",
+                "Monitor grain unload rate and adjust as needed} \\\\\\\\",
+                "Communicate with combine operator to coordinate loading and unloading timing}"
+            ]
+        },
+        {
+            "task": "Drive a tractor in corn field} \\\\",
+            "subtasks": [
+                "Sit in the tractor seat} \\\\",
+                "Operate tractor's steering wheel to navigate through corn field} \\\\",
+                "Use hydraulics to lower or raise implement} \\\\",
+                "Engage gears to move tractor forward or backward} \\\\",
+                "Monitor directions via GPS system} \\\\"
+            ]
+        },
+        {
+            "task": "Attach the combine} \\\\",
+            "subtasks": [
+                "Align the combine with the tractor} \\\\",
+                "Securely attach the combine to the tractor using hitch pins or other fasteners} \\\\"
+            ]
+        },
+        {
+            "task": "Drive the combine in the corn field} \\\\",
+            "subtasks": [
+                "Sit in the combine seat} \\\\",
+                "Use steering wheel to direct the combine through the field} \\\\",
+                "Engage proper speed to maintain efficient harvesting} \\\\",
+                "Monitor combine gauges for performance indicators} \\\\"
+            ]
+        },
+        {
+            "task": "Operate the combine to harvest corn} \\\\",
+            "subtasks": [
+                "Monitor corn ears feeding into the combine} \\\\",
+                "Adjust cutting height as needed} \\\\",
+                "Use controls to open or close the combine's cleaning system} \\\\",
+                "Check grain tank levels periodically} \\\\"
+            ]
+        },
+        {
+            "task": "Load grain into the grain truck} \\\\",
+            "subtasks": [
+                "Stop the combine at the designated unloading location} \\\\",
+                "Open the grain unloading gate} \\\\",
+                "Operate the combine's auger to transfer grain into the truck} \\\\",
+                "Monitor grain flow and ensure proper loading} \\\\"
+            ]
+        },
+        {
+            "task": "Unload grain from the grain truck} \\\\",
+            "subtasks": [
+                "Drive the grain truck to the bin location} \\\\",
+                "Position the truck under the bin's unload chute} \\\\",
+                "Connect the auger from the bin to the truck} \\\\",
+                "Start the unloading process} \\\\"
+            ]
+        },
+        {
+            "task": "Drive the grain truck to the grain bin} \\\\",
+            "subtasks": [
+                "Align the grain truck with the bin's unload chute} \\\\",
+                "Engage proper driving to ensure safe movement} \\\\",
+                "Monitor trailer connections and release when close enough to the bin} \\\\"
+            ]
+        },
+        {
+            "task": "Unload grain from the grain truck into the bin} \\\\",
+            "subtasks": [
+                "Start the auger at the bin to begin unloading} \\\\",
+                "Monitor grain unload rate and adjust as needed} \\\\",
+                "Communicate with combine operator to coordinate loading and unloading timing}"
+            ]
+        },
+        {
+            "task": "Drive a tractor in corn field} \\\\",
+            "subtasks": [
+                "Sit in the tractor seat} \\\\",
+                "Use steering wheel to navigate through corn field} \\\\",
+                "Use hydraulics to lower or raise implement} \\\\",
+                "Engage gears to move tractor} \\\\",
+                "Monitor GPS directions} \\\\"
+            ]
+        },
+        {
+            "task": "Attach the combine} \\\\",
+            "subtasks": [
+                "Align with the tractor} \\\\",
+                "Secure using fasteners} \\\\"
+            ]
+        },
+        {
+            "task": "Drive combine in corn field} \\\\",
+            "subtasks": [
+                "Sit in combine seat} \\\\",
+                "Steer with steering wheel} \\\\",
+                "Adjust speed and performance} \\\\",
+                "Monitor gauges} \\\\"
+            ]
+        },
+        {
+            "task": "Harvest corn with combine} \\\\",
+            "subtasks": [
+                "Monitor corn feed} \\\\",
+                "Adjust cutting height} \\\\",
+                "Control cleaning system} \\\\",
+                "Check grain levels} \\\\"
+            ]
+        },
+        {
+            "task": "Load grain into truck} \\\\",
+            "subtasks": [
+                "Stop combine at unloading location} \\\\",
+                "Open unloading gate} \\\\",
+                "Operate combine's auger} \\\\",
+                "Monitor grain flow} \\\\"
+            ]
+        },
+        {
+            "task": "Unload grain into bin} \\\\",
+            "subtasks": [
+                "Drive grain truck to bin location} \\\\",
+                "Position under bin's unload chute} \\\\",
+                "Connect bin's auger to truck} \\\\",
+                "Start unloading process} \\\\"
             ]
         }
     ]

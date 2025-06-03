@@ -5,52 +5,111 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Siting and building a quality pond.",
+            "task": "Attending a pond construction seminar",
             "subtasks": [
-                "Consider the amount of soil to be moved.",
-                "Determine the volume of water to be held.",
-                "Ensure at least 8 feet depth (15 feet if possible) to prevent winter kills.",
-                "Use clay-rich soil for the dam as it compacts well and holds water.",
-                "Check natural pinch points in the watershed to minimize soil movement.",
-                "Examine the watershed's soil and nutrient content for suitability.",
-                "Ensure the dam has a 3:1 slope (1 foot rise per 3 feet run) for aquatic plants and fish habitat.",
-                "Clear trees near the pond edge for fish habitat and to reduce shading."
+                "Listens to the speaker introduce themselves",
+                "Note the role of the speaker ( fisheries and aquaculture extension specialist at Iowa State University)",
+                "Follow along as the speaker presents on pond siting and construction",
+                "Considerations for pond size and depth ( minimum of 8 feet, 15 feet is better)",
+                "Soil analysis for dam construction (opt for clay, minimal sand)",
+                "Identify natural pinch points in the watershed for water retention",
+                "Assess the watershed's soil and vegetation for sediment control and nutrient reduction",
+                "Consider the shape and slope of the dam for optimal fish habitat and plant growth control",
+                "Note the recommendation to remove trees near the dam and its benefits for fish habitat",
+                "Take contact information for further questions (speakers name and role provided)"
             ]
         },
         {
-            "task": "Contacting the fisheries and aquaculture extension specialist.",
+            "task": "Planning a new pond construction",
             "subtasks": [
-                "Reach out to Alan Patilla for further inquiries related to pond construction."
+                "Evaluate potential pond sites within a watershed",
+                "Assess soil and topography for dam construction feasibility",
+                "Determine the volume of water needed and correlate with dam size",
+                "Plan the dam's depth and shape to prevent winter kills and manage aquatic plants",
+                "Design the watershed management considering sediment and nutrient loads",
+                "Consider fish habitat creation through dam design features"
             ]
         },
         {
-            "task": "Soil and Water Volume Considerations**",
+            "task": "Site Visit to Assess Pond Potential",
             "subtasks": [
-                "** Assess the amount of soil needed for the pond. (Ponds require significant soil movement; it's the primary expense.)",
-                "** Determine the optimal water volume. (Volume affects dam design and fish survival.)"
+                "Walk the proposed dam location to assess topography",
+                "Measure the soil's clay content at the proposed pond site",
+                "Look for natural pinch points to determine water retention capacity",
+                "Estimate the amount of soil that will need to be moved",
+                "Check the depth of the proposed pond area and confirm it meets the 8-foot requirement",
+                "Identify any trees near the dam site that need to be cut for fish habitat improvement",
+                "Mark potential sites for future sampling or construction work"
             ]
         },
         {
-            "task": "Dam Construction**",
+            "task": "Planning and siting a new pond",
+            "subtasks": []
+        },
+        {
+            "task": "Attending a pond construction seminar (listens, takes notes)",
+            "subtasks": []
+        },
+        {
+            "task": "Planning a new pond (site evaluation, soil and topography, depth considerations, slope, trees, etc.)",
+            "subtasks": []
+        },
+        {
+            "task": "Plan and site a new pond for aquaculture\u201d with subtasks like identifying the watershed\u2019s pinch points (using an\u65e0\u4eba\u673a\u53ef\u80fd\u662f categoryName but for the Chinese version of this, perhaps \"\u8bc6\u522b\u6c34\u6d41\u6c47\u805a\u70b9\" sometimes translated as \"\u627e\u51fa\u6c47\u6c34\u5730\u70b9\"). Maybe in this case, translating to \"identifying natural pinch points\" can be considered a physical task. Similarly:",
+            "subtasks": []
+        },
+        {
+            "task": "Identify natural pinch points in the watershed",
+            "subtasks": []
+        },
+        {
+            "task": "Walk around the proposed pond site",
             "subtasks": [
-                "** Choose the right soil type. (Clay compacts well and retains water better than sand.)",
-                "** Ensure depth for winter survival (8 feet is minimum; 15 feet preferred). (Prevent winter kills.)",
-                "** Select appropriate dam slope. (3:1 slope prevents aquatic plant growth beyond 10 feet.)",
-                "** Check watershed for natural pinch points. (These minimize soil movement and maximize water retention.)"
+                "Examine the topography of the area"
             ]
         },
         {
-            "task": "Habitat Enhancement**",
+            "task": "Attend a pond construction seminar",
             "subtasks": [
-                "** Remove trees next to the dam for fish habitat. (Promotes congregation of fish.)",
-                "** Clear trees to reduce shading (which can affect aquatic plant growth)."
+                "Listen to the speaker introduce their role",
+                "Note the role of the speaker (fisheries and aquaculture extension specialist at Iowa State University)",
+                "Follow the discussion on pond construction and consideration factors",
+                "Understand the depth requirement (minimum 8 feet, 15 feet for better water retention)",
+                "Identify the need for clay-rich soil in the dam with minimal sand",
+                "Look for natural pinch points in the watershed for efficient water retention",
+                "Assess the benefits of prairie watershed in reducing soil sediments and nutrient loads",
+                "Consider the dam's three-to-one slope ratio for managing aquatic plant growth",
+                "Note the benefits of removing trees near the dam to create fish habitat"
             ]
         },
         {
-            "task": "Consultation**",
+            "task": "Plan and site a new pond",
             "subtasks": [
-                "** Contact Alan Patilla for further advice (his name and contact info are provided)."
+                "Walk the proposed pond site to evaluate topography and identify natural features",
+                "Assess the soil type and clay content for dam construction",
+                "Estimate the amount of soil to be moved for dam building",
+                "Determine the depth and volume requirements for the pond",
+                "Locate and consider natural pinch points for minimal soil excavation",
+                "Plan the dam's shape and slope to prevent winter kills and manage aquatic plants",
+                "Evaluate the watershed vegetation's impact on sediment and nutrient loads",
+                "Identify potential trees for removal to enhance fish habitat"
             ]
+        },
+        {
+            "task": "MAINTASK: Attending a Pond Construction Seminar",
+            "subtasks": []
+        },
+        {
+            "task": "Planning and Siting a New Pond",
+            "subtasks": []
+        },
+        {
+            "task": "Attending a Pond Construction Seminar",
+            "subtasks": []
+        },
+        {
+            "task": "Planning and Siting a New Pond",
+            "subtasks": []
         }
     ]
 }

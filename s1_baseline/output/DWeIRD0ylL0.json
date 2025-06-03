@@ -7,25 +7,22 @@
         {
             "task": "Setting up an off-grid garden irrigation system",
             "subtasks": [
-                "Obtaining necessary components (solar panels, charge controller, well pump, drip system components)",
-                "Assembling solar panel structure (crate, pallet)",
-                "Connecting solar panels to charge controller and battery",
-                "Configuring solar pump and timer",
-                "Installing pressure gauge on the irrigation system",
-                "Setting up drip system with drip tape and testing for proper flow",
-                "Adapting to higher-than-expected system pressure by considering a pressure regulator"
+                "Assembling the solar panel structure",
+                "Installing the solar panels on the crate",
+                "Connecting the solar panels to the charge controller",
+                "Wiring the charge controller to the battery",
+                "Connecting the battery to the well pump",
+                "Configuring the 12-volt timer for the pump",
+                "Setting up the drip irrigation system components",
+                "Attaching the drip tape to the irrigation pipe",
+                "Connecting the drip tape to the pump supply",
+                "Testing the system with water pressure and flow regulation"
             ]
         },
         {
-            "task": "MAINTASK: Setting up an off-grid garden irrigation system",
+            "task": "Addressing excess pressure in the drip system",
             "subtasks": [
-                "Obtaining necessary components (solar panels, charge controller, well pump, drip system components)",
-                "Assembling solar panel structure (crate, pallet)",
-                "Connecting solar panels to charge controller and battery",
-                "Configuring solar pump and timer",
-                "Installing pressure gauge on the irrigation system",
-                "Setting up drip system with drip tape and testing for proper flow",
-                "Adapting to higher-than-expected system pressure by considering a pressure regulator"
+                "Evaluating the need for a pressure regulator"
             ]
         }
     ]

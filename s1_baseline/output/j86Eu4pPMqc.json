@@ -5,61 +5,94 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Raise chicks in a basement or house",
+            "task": "Raising baby chicks in a home environment",
             "subtasks": [
-                "Obtain a mother hen",
-                "Use a cardboard box as a mother hen",
-                "Provide water for chicks",
-                "Use apple cider vinegar in water to boost immunity",
-                "Feed chicks organic non-medicated starter feed",
-                "Provide feed using a mason jar or similar feeder",
-                "Use a heat source (e.g., ceramic heat bulb) if needed",
-                "Ensure proper placement of heat source to prevent fires",
-                "Keep chicks in a pen with bedding (e.g., pine shavings or shredded paper)",
-                "Use a dog kennel modified with zip ties for side enclosures",
-                "Regularly compost bedding material"
+                "Providing a mother hen for\u5b89\u9759\u4f5c\u7528",
+                "Ensuring proper hydration with a water source",
+                "Feeding the chicks with organic starter feed",
+                "Using a heat source (e.g., ceramic bulb or infrared) for warmth",
+                "Managing bedding material (e.g., pine shavings, shredded paper)",
+                "Containing the chicks in an appropriate pen with modified cardboard for enclosure stability"
             ]
         },
         {
-            "task": "Operate a homesteading channel on YouTube",
+            "task": "Maintaining a homestead setting",
             "subtasks": [
-                "Create educational content on self-sufficiency",
-                "Share personal experiences in raising chickens",
-                "Provide product recommendations and links",
-                "Encourage audience engagement (thumbs up, subscribing)"
+                "Considering the impact of raising chicks on household noise (using a mother hen for quiet)",
+                "Accessing supplemental heat if needed (like near a wood stove)",
+                "Subscribing to the channel for homesteading advice"
             ]
         },
         {
-            "task": "Prepare chicks for outdoor integration",
+            "task": "each general task followed by subtasks. Start with MAINTASK for each main activity.",
+            "subtasks": []
+        },
+        {
+            "task": "Raising baby chicks in a home environment",
             "subtasks": [
-                "Transition chicks to outdoor pen when weather permits",
-                "Plan for future chicken-raising (e.g., springtime start)"
+                "Acquiring and positioning a cardboard mother hen box to keep chicks quiet",
+                "Setting up an appropriate water source (e.g., big bell for 5-15 chicks, gallon container for more)",
+                "Providing organic chick starter feed in feeders (like mason jars or plastic cups)",
+                "Using a heat source (e.g., ceramic heat bulb) to keep chicks warm if necessary",
+                "Managing bedding material (e.g., pine shavings, shredded paper) and maintaining cleanliness",
+                "Setting up a suitable pen or enclosure for the chicks (e.g., modifying a dog kennel with cardboard)"
             ]
         },
         {
-            "task": "Raising Happy, Healthy Chicks",
+            "task": "Maintaining a homestead setting",
             "subtasks": [
-                "Secure a mother hen (cardboard box) for quieting chicks at night.",
-                "Procure a suitable waterer (e.g., big bell for up to 25 chicks) and consider apple cider vinegar as a health measure.",
-                "Provide organic non-medicated chick starter feed and explore feeders (e.g., mason jars, plastic cups).",
-                "Set up a heat source (e.g., ceramic heat bulb) if needed, ensuring safety.",
-                "Use a pen with appropriate bedding (e.g., pine shavings, shredded paper) and modify spaces (e.g., dog kennel with zip ties) for containment.",
-                "Regularly compost bedding material to manage waste.",
-                "Plan for transitioning chicks to outdoor environments as weather permits."
+                "Considering the impacts of raising chicks on household noise (using the mother hen strategy)",
+                "Taking safety measures with heat sources to prevent fires",
+                "Subscribing to the channel (though this might be more of a call to action)",
+                "\"Give one task per line. Write MAINTASK: before every task. After writing MAINTASK: give a list of subtasks, one per line. A for each subtask, write SUBTASK: before every subtask.\" Yes. So each main task (MAINTASK) should be broken down into subtasks."
             ]
         },
         {
-            "task": "Operating a Homesteading YouTube Channel",
+            "task": "1. Raising baby chicks in a home environment (MAINTASK)",
             "subtasks": [
-                "Create educational content on homesteading, self-sufficiency, and freedom.",
-                "Share personal experiences and product recommendations.",
-                "Encourage viewer engagement through likes and subscriptions."
+                "- Acquiring and positioning a cardboard mother hen box (SUBTASK)",
+                "- Setting up a water source (SUBTASK)",
+                "- Providing feed in appropriate containers (SUBTASK)",
+                "- Using a heat source (SUBTASK)",
+                "- Managing bedding (SUBTASK)",
+                "- Setting up a pen or enclosure (SUBTASK)"
             ]
         },
         {
-            "task": "Long-Term Investment for Self-Sufficiency",
+            "task": "2. Considering the homesteading aspect (MAINTASK)",
             "subtasks": [
-                "Consider future planning and continuous learning in sustainable living practices."
+                "- Minimizing noise disturbances (SUBTASK)",
+                "- Ensuring safety with heat sources (SUBTASK)"
+            ]
+        },
+        {
+            "task": "1. Raising baby chicks at home (MAINTASK)",
+            "subtasks": [
+                "- Get mother hen box (SUBTASK)",
+                "- Set up water source (SUBTASK)",
+                "- Place feeders (SUBTASK)",
+                "- Provide heat if needed (SUBTASK)",
+                "- Manage bedding (SUBTASK)",
+                "- Set up pen (SUBTASK)"
+            ]
+        },
+        {
+            "task": "2. Homesteading consideration (MAINTASK)",
+            "subtasks": [
+                "- Use mother hen for quiet (SUBTASK)",
+                "- Be mindful of heat safety (SUBTASK)"
+            ]
+        },
+        {
+            "task": "Raising Baby Chicks at Home",
+            "subtasks": [
+                "**"
+            ]
+        },
+        {
+            "task": "Homesteading Considerations",
+            "subtasks": [
+                "**"
             ]
         }
     ]

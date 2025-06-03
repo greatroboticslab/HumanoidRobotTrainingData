@@ -5,26 +5,18 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Construct a simple and efficient crop farm.",
+            "task": "Construct an automated crop farm using various in-game materials and mechanisms.",
             "subtasks": [
-                "Gather materials.",
-                "Build double chests at the starting point.",
-                "Position hoppers on chests and confirm correct direction.",
-                "Measure and place an 8x8 dirt plot.",
-                "Add another 8x7 dirt plot adjacent to the first.",
-                "Create water troughs by placing blocks around fields.",
-                "Construct walls around the farm to contain water.",
-                "Pour water into designated buckets to fill the troughs.",
-                "Cover the water and secure walls along all sides.",
-                "Install dispensers around the perimeter of the farm.",
-                "Fill dispensers with water buckets.",
-                "Place blocks over dispensers to cover them.",
-                "Set up redstone circuit: place redstone blocks and button.",
-                "Position a redstone repeater to ensure proper bucket dispensing.",
-                "Decorate the farm with glass walls.",
-                "Activate the redstone circuit by pressing the button.",
-                "Plant crops in the prepared dirt plots.",
-                "Watch the automated system harvest and collect crops."
+                "Gather required materials (water buckets, blocks, dirt, glass, hoppers, redstone, repeater, button, dispensers, chests, crop seeds).",
+                "Build a double chest at the farm\u2019s base and connect a hopper to one chest.",
+                "Create an 8x8 field of dirt and an 8x7 field adjacent to it.",
+                "Construct a water trough around the farm area using chosen blocks to retain water.",
+                "Ensure the water flow by placing water buckets in designated dispensers along the trough.",
+                "Frame the farm perimeter with a two-block-high wall to contain crops and water.",
+                "Set up a redstone circuit with a button to activate the water dispensers.",
+                "Position a repeater to extend redstone power to all dispensers.",
+                "Plant crops in the prepared fields and ensure their automatic harvesting when the system is activated.",
+                "Monitor the chest for harvested crops and replant fields as necessary."
             ]
         }
     ]

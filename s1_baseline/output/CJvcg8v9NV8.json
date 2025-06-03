@@ -5,94 +5,481 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "As Milo organizes his farm repairs, he undertakes several crucial steps to keep his agricultural operations running smoothly.",
+            "task": "Ride a motorcycle to the lagoon",
             "subtasks": [
-                "Inspects the equipment to identify the specific malfunctions.",
-                "Operates tools or machinery to fix the identified issues.",
-                "Ensures all safety procedures are followed during repairs.",
-                "Maintains records or logs of any maintenance performed."
+                "Sit on motorcycle seat",
+                "Grip motorcycle handles",
+                "Accelerate towards lagoon",
+                "Navigate turns on route to lagoon",
+                "Stop motorcycle at lagoon"
             ]
         },
         {
-            "task": "As Milo organizes his farm repairs, he undertakes several crucial steps to keep his agricultural operations running smoothly.",
+            "task": "Drive ATV to field",
             "subtasks": [
-                "Inspects the equipment to identify the specific malfunctions.",
-                "Operates tools or machinery to fix the identified issues.",
-                "Ensures all safety procedures are followed during repairs.",
-                "Maintains records or logs of any maintenance performed."
+                "Sit on ATV seat",
+                "Grip ATV handles",
+                "Operate steering mechanism",
+                "Accelerate ATV towards field",
+                "Navigate through field",
+                "Stop ATV at target location"
             ]
         },
         {
-            "task": "As Milo organizes his farm repairs, he undertakes several crucial steps to keep his agricultural operations running smoothly.",
+            "task": "Mow the lawn",
             "subtasks": [
-                "Inspects the equipment to identify the specific malfunctions.",
-                "Operates tools or machinery to fix the identified issues.",
-                "Ensures all safety procedures are followed during repairs.",
-                "Maintains records or logs of any maintenance performed."
+                "Operate riding mower",
+                "Drive mower to starting point",
+                "Adjust mower height",
+                "Maneuver mower through lawn",
+                "Cut grass along edges",
+                "Operate controls to direct mower"
             ]
         },
         {
-            "task": "As Milo organizes his farm repairs, he undertakes several crucial steps to keep his agricultural operations running smoothly.",
+            "task": "Harvest crops",
             "subtasks": [
-                "Inspects the equipment to identify the specific malfunctions.",
-                "Operates tools or machinery to fix the identified issues.",
-                "Ensures all safety procedures are followed during repairs.",
-                "Maintains records or logs of any maintenance performed."
+                "Operate combine harvester",
+                "Drive combine towards crops",
+                "Adjust combine settings",
+                "Harvest crops from field",
+                "Load harvested crops onto truck"
             ]
         },
         {
-            "task": "As Milo organizes his farm repairs, he undertakes several crucial steps to keep his agricultural operations running smoothly.",
+            "task": "Herd cattle",
             "subtasks": [
-                "Inspects the equipment to identify the specific malfunctions.",
-                "Operates tools or machinery to fix the identified issues.",
-                "Ensures all safety procedures are followed during repairs.",
-                "Maintains records or logs of any maintenance performed."
+                "Ride horse to field",
+                "Guide horse with reins",
+                "Separate cattle from herd",
+                "Push cattle towards destination"
             ]
         },
         {
-            "task": "As Milo addresses his farm's operational issues, he implements necessary repairs and maintenances.",
+            "task": "Plant seeds",
             "subtasks": [
-                "Diagnoses problems affecting farm functions.",
-                "Uses appropriate tools and techniques to fix identified issues.",
-                "Adheres to safety guidelines during repair work.",
-                "Updates maintenance logs with details of actions taken."
+                "Operate tractor with seeder attachment",
+                "Navigate tractor through field",
+                "Secure seeder attachment",
+                "Plant seeds at correct depth"
             ]
         },
         {
-            "task": "Dealing with equipment malfunctions on his farm, Milo conducts necessary inspections and repairs.",
+            "task": "Pump water into lagoon",
             "subtasks": [
-                "Identifies the faulty parts or systems causing the stops.",
-                "Assembles the required tools and materials for repair work.",
-                "Performs maintenance tasks such as cleaning, greasing, or replacing components.",
-                "Verifies that all maintenance activities comply with safety protocols.",
-                "Documents the repair process and parts used for future reference."
+                "Operate water pump",
+                "Connect hose to pump",
+                "Position hose over lagoon",
+                "Start pumping water into lagoon"
             ]
         },
         {
-            "task": "Organizing farm repairs due to operational issues, Milo takes several steps.",
+            "task": "Fence a field",
             "subtasks": [
-                "Inspects machinery to pinpoint malfunctions.",
-                "Operates tools and machinery to effect repairs.",
-                "Ensures safety measures are in place during repairs.",
-                "Keeps a log of all maintenance activities."
+                "Measure field dimensions",
+                "String fencing wire",
+                "Attach fence posts to ground",
+                "Secure wire to fence posts",
+                "Check fence for tightness"
             ]
         },
         {
-            "task": "Analyzing and resolving equipment malfunctions on his farm.",
+            "task": "Milk cows",
             "subtasks": [
-                "Conducting a thorough inspection of the problematic equipment.",
-                "Utilizing repair tools and techniques to fix the issues.",
-                "Adhering to safety protocols during the repair process.",
-                "Updating the maintenance log with the repair details."
+                "Approach milking parlor",
+                "Position cow for milking",
+                "Attach milking machine to cow",
+                "Monitor milk flow",
+                "Discontinue milking when done"
             ]
         },
         {
-            "task": "Organizing farm repairs",
+            "task": "Move hay bales",
             "subtasks": [
-                "Inspecting the equipment to find malfunctions",
-                "Operating tools or machinery to fix the problems",
-                "Ensuring all safety procedures are followed during repairs",
-                "Maintaining records or logs of the work done"
+                "Lift hay bale from stack",
+                "Carry hay bale to storage",
+                "Place hay bale on elevated shelf",
+                "Return to stack for next bale"
+            ]
+        },
+        {
+            "task": "Apply herbicide to field",
+            "subtasks": [
+                "Load herbicide into sprayer",
+                "Drive sprayer through field",
+                "Operate sprayer valves",
+                "Apply herbicide evenly to field"
+            ]
+        },
+        {
+            "task": "Gather eggs from coop",
+            "subtasks": [
+                "Open chicken coop door",
+                "Walk through coop",
+                "Collect eggs from ground and nesting boxes",
+                "Close coop door"
+            ]
+        },
+        {
+            "task": "Repair machinery",
+            "subtasks": [
+                "Access malfunctioning machine",
+                "Identify problem area",
+                "Remove parts for inspection",
+                "Replace faulty components",
+                "Reassemble machine and test"
+            ]
+        },
+        {
+            "task": "Check equipment temperatures",
+            "subtasks": [
+                "Locate temperature sensors",
+                "Take temperature readings",
+                "Compare readings to safe limits",
+                "Record temperature data"
+            ]
+        },
+        {
+            "task": "Build a barn",
+            "subtasks": [
+                "Gather construction materials",
+                "Layout foundation plan",
+                "Excavate site for foundation",
+                "Pour concrete foundation",
+                "Frame barn structure",
+                "Sheathe walls with lumber",
+                "Install roof trusses and covering",
+                "Finish interior and exterior surfaces"
+            ]
+        },
+        {
+            "task": "Plow a field",
+            "subtasks": [
+                "Attach plow to tractor",
+                "Drive tractor in straight lines",
+                "Lower and raise plow as needed",
+                "Adjust plow depth",
+                "Turn field edges to prepare rows"
+            ]
+        },
+        {
+            "task": "Check irrigation system",
+            "subtasks": [
+                "Inspect sprinkler heads",
+                "Check pipe connections for leaks",
+                "Adjust spray patterns as needed",
+                "Run irrigation test"
+            ]
+        },
+        {
+            "task": "Load fertilizer into spreader",
+            "subtasks": [
+                "Open spreader access door",
+                "Insert fertilizer into hopper",
+                "Secure fertilizer load",
+                "Operate spreader valves",
+                "Distribute fertilizer evenly over field"
+            ]
+        },
+        {
+            "task": "Apply manure to field",
+            "subtasks": [
+                "Attach manure spreader to tractor",
+                "Drive tractor slowly over field",
+                "Operate spreader to distribute manure",
+                "Adjust spread pattern as needed"
+            ]
+        },
+        {
+            "task": "Produce lumber",
+            "subtasks": [
+                "Select trees for cutting",
+                "Prepare logging area",
+                "Secure felling equipment",
+                "Cut trees down",
+                "Debranch and debark timber",
+                "Transport logs to sawmill",
+                "Cut logs into lumber",
+                "Dry lumber in kiln"
+            ]
+        },
+        {
+            "task": "Ride a motorcycle to the lagoon.",
+            "subtasks": []
+        },
+        {
+            "task": "Drive ATV to field.",
+            "subtasks": []
+        },
+        {
+            "task": "Mow the lawn.",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest crops.",
+            "subtasks": []
+        },
+        {
+            "task": "Herd cattle.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant seeds.",
+            "subtasks": []
+        },
+        {
+            "task": "Pump water into lagoon.",
+            "subtasks": []
+        },
+        {
+            "task": "Fence a field.",
+            "subtasks": []
+        },
+        {
+            "task": "Milk cows.",
+            "subtasks": []
+        },
+        {
+            "task": "Move hay bales.",
+            "subtasks": []
+        },
+        {
+            "task": "Apply herbicide to field.",
+            "subtasks": []
+        },
+        {
+            "task": "Gather eggs from coop.",
+            "subtasks": []
+        },
+        {
+            "task": "Repair machinery.",
+            "subtasks": []
+        },
+        {
+            "task": "Check equipment temperatures.",
+            "subtasks": []
+        },
+        {
+            "task": "Build a barn.",
+            "subtasks": []
+        },
+        {
+            "task": "Plow a field.",
+            "subtasks": []
+        },
+        {
+            "task": "Check irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Load fertilizer into spreader.",
+            "subtasks": []
+        },
+        {
+            "task": "Apply manure to field.",
+            "subtasks": []
+        },
+        {
+            "task": "Produce lumber.",
+            "subtasks": []
+        },
+        {
+            "task": "Ride a motorcycle to the lagoon",
+            "subtasks": [
+                "Sit on motorcycle seat",
+                "Grip motorcycle handles",
+                "Accelerate towards lagoon",
+                "Navigate turns on route to lagoon",
+                "Stop motorcycle at lagoon"
+            ]
+        },
+        {
+            "task": "Drive ATV to field",
+            "subtasks": [
+                "Sit on ATV seat",
+                "Grip ATV handles",
+                "Operate steering mechanism",
+                "Accelerate ATV towards field",
+                "Navigate through field",
+                "Stop ATV at target location"
+            ]
+        },
+        {
+            "task": "Mow the lawn",
+            "subtasks": [
+                "Operate riding mower",
+                "Drive mower to starting point",
+                "Adjust mower height",
+                "Maneuver mower through lawn",
+                "Cut grass along edges",
+                "Operate controls to direct mower"
+            ]
+        },
+        {
+            "task": "Harvest crops",
+            "subtasks": [
+                "Operate combine harvester",
+                "Drive combine towards crops",
+                "Adjust combine settings",
+                "Harvest crops from field",
+                "Load harvested crops onto truck"
+            ]
+        },
+        {
+            "task": "Herd cattle",
+            "subtasks": [
+                "Ride horse to field",
+                "Guide horse with reins",
+                "Separate cattle from herd",
+                "Push cattle towards destination"
+            ]
+        },
+        {
+            "task": "Plant seeds",
+            "subtasks": [
+                "Operate tractor with seeder attachment",
+                "Navigate tractor through field",
+                "Secure seeder attachment",
+                "Plant seeds at correct depth"
+            ]
+        },
+        {
+            "task": "Pump water into lagoon",
+            "subtasks": [
+                "Operate water pump",
+                "Connect hose to pump",
+                "Position hose over lagoon",
+                "Start pumping water into lagoon"
+            ]
+        },
+        {
+            "task": "Fence a field",
+            "subtasks": [
+                "Measure field dimensions",
+                "String fencing wire",
+                "Attach fence posts to ground",
+                "Secure wire to fence posts",
+                "Check fence for tightness"
+            ]
+        },
+        {
+            "task": "Milk cows",
+            "subtasks": [
+                "Approach milking parlor",
+                "Position cow for milking",
+                "Attach milking machine to cow",
+                "Monitor milk flow",
+                "Discontinue milking when done"
+            ]
+        },
+        {
+            "task": "Move hay bales",
+            "subtasks": [
+                "Lift hay bale from stack",
+                "Carry hay bale to storage",
+                "Place hay bale on elevated shelf",
+                "Return to stack for next bale"
+            ]
+        },
+        {
+            "task": "Apply herbicide to field",
+            "subtasks": [
+                "Load herbicide into sprayer",
+                "Drive sprayer through field",
+                "Operate sprayer valves",
+                "Apply herbicide evenly to field"
+            ]
+        },
+        {
+            "task": "Gather eggs from coop",
+            "subtasks": [
+                "Open chicken coop door",
+                "Walk through coop",
+                "Collect eggs from ground and nesting boxes",
+                "Close coop door"
+            ]
+        },
+        {
+            "task": "Repair machinery",
+            "subtasks": [
+                "Access malfunctioning machine",
+                "Identify problem area",
+                "Remove parts for inspection",
+                "Replace faulty components",
+                "Reassemble machine and test"
+            ]
+        },
+        {
+            "task": "Check equipment temperatures",
+            "subtasks": [
+                "Locate temperature sensors",
+                "Take temperature readings",
+                "Compare readings to safe limits",
+                "Record temperature data"
+            ]
+        },
+        {
+            "task": "Build a barn",
+            "subtasks": [
+                "Gather construction materials",
+                "Layout foundation plan",
+                "Excavate site for foundation",
+                "Pour concrete foundation",
+                "Frame barn structure",
+                "Sheathe walls with lumber",
+                "Install roof trusses and covering",
+                "Finish interior and exterior surfaces"
+            ]
+        },
+        {
+            "task": "Plow a field",
+            "subtasks": [
+                "Attach plow to tractor",
+                "Drive tractor in straight lines",
+                "Lower and raise plow as needed",
+                "Adjust plow depth",
+                "Turn field edges to prepare rows"
+            ]
+        },
+        {
+            "task": "Check irrigation system",
+            "subtasks": [
+                "Inspect sprinkler heads",
+                "Check pipe connections for leaks",
+                "Adjust spray patterns as needed",
+                "Run irrigation test"
+            ]
+        },
+        {
+            "task": "Load fertilizer into spreader",
+            "subtasks": [
+                "Open spreader access door",
+                "Insert fertilizer into hopper",
+                "Secure fertilizer load",
+                "Operate spreader valves",
+                "Distribute fertilizer evenly over field"
+            ]
+        },
+        {
+            "task": "Apply manure to field",
+            "subtasks": [
+                "Attach manure spreader to tractor",
+                "Drive tractor slowly over field",
+                "Operate spreader to distribute manure",
+                "Adjust spread pattern as needed"
+            ]
+        },
+        {
+            "task": "Produce lumber",
+            "subtasks": [
+                "Select trees for cutting",
+                "Prepare logging area",
+                "Secure felling equipment",
+                "Cut trees down",
+                "Debranch and debark timber",
+                "Transport logs to sawmill",
+                "Cut logs into lumber",
+                "Dry lumber in kiln"
             ]
         }
     ]

@@ -5,73 +5,93 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Driving a tractor to transport crops from a field",
+            "task": "Planting corn",
             "subtasks": [
-                "Sit in the driver's seat of the tractor",
-                "Adjust seat for comfort and control",
-                "Engage the tractor's engine",
-                "Operate steering wheel to navigate the tractor",
-                "Use foot pedals to control speed and direction",
-                "Attach crop carrier or trailer to the rear of the tractor",
-                "Guide the trailer into the field where crops are located",
-                "Use hydraulic lift or pull pins to secure the trailer to the tractor",
-                "Drive tractor forward, moving the carrier/trailer through the field",
-                "Stop periodically to check the load and add any necessary securing measures",
-                "Remove crops from the field into the carrier/trailer",
-                "Continue transporting crops until the trailer is full",
-                "Drive tractor to the next location or to the field's edge"
+                "Putting on farming clothing",
+                "Walking to the field",
+                "Using a tractor to drive to the corn rows",
+                "Lowering the corn planter onto the soil",
+                "Adjusting the planting depth",
+                "Ensuring proper spacing between seeds",
+                "Starting the planting process",
+                "Monitoring the planter's progress"
             ]
         },
         {
-            "task": "Loading the crop carrier onto a truck",
+            "task": "Applying fertilizer",
             "subtasks": [
-                "Align the carrier/trailer with the bed of the truck",
-                "Lift the tailgate or use ramps to access the truck bed",
-                "Maneuver the carrier/trailer onto the truck bed, ensuring balance and stability",
-                "Secure the carrier/trailer to the truck using straps, chains, or locks to prevent movement during transport",
-                "Close the tailgate or remove ramps once the carrier is in place"
+                "Loading fertilizer into the spreader",
+                "Guiding the spreader to the field",
+                "Activating the fertilizer spreader",
+                "Driving through the rows while distributing fertilizer",
+                "Checking fertilizer coverage"
             ]
         },
         {
-            "task": "Unloading crops from the carrier at the farm's main location",
+            "task": "Driving a tractor",
             "subtasks": [
-                "Position the truck carrying the crops near the designated unloading area",
-                "Operate the tailgate or ramps to allow access to the truck bed",
-                "Release any securing devices (straps/locks) on the carrier",
-                "Lift the carrier from the truck bed, possibly using a forklift or manual lifting, if necessary",
-                "Place the carrier onto designated storage or processing areas",
-                "Check the integrity of the load after unloading to ensure that all crops have been safely removed",
-                "Clean any residue or debris from the carrier/trailer before returning it to service"
+                "Climbing onto the tractor seat",
+                "Starting the tractor engine",
+                "Checking mirrors and surroundings",
+                "Adjusting the tractor's speed",
+                "Operating the planter or spreader attachments",
+                "Controlling steering to maintain straight rows",
+                "Monitoring fuel levels and making refills as needed"
             ]
         },
         {
-            "task": "Attaching the carrier to the tractor for transport",
+            "task": "Checking the corn plants",
             "subtasks": [
-                "Position the tractor near the carrier/trailer",
-                "Lower the hydraulic lift or insert pins into the attachment points",
-                "Connect the carrier/trailer to the tractor's hitch or drawbar",
-                "Verify the connection is secure and properly locked",
-                "Check for any obstructions or loose parts that could interfere with driving",
-                "Start the tractor and conduct a test run to ensure the connection is stable and no issues arise during operation"
+                "Walking through the corn rows",
+                "Examining individual plants for damage or stress",
+                "Inspecting soil moisture and nutrient levels",
+                "Looking for pests or weeds",
+                "Noting areas for irrigation adjustments"
             ]
         },
         {
-            "task": "Securing the load on the carrier",
+            "task": "Planting corn**",
             "subtasks": [
-                "Inspect the load to ensure it is stable and not at risk of shifting",
-                "Attach securing straps or chains around the crops to prevent movement",
-                "Tighten the straps with a ratchet or similar tool to ensure a secure fit",
-                "Cross-check all secured points to make sure nothing is loose",
-                "Mark any areas that need further attention or additional securing measures"
+                "** Putting on farming clothing",
+                "** Walking to the field",
+                "** Using a tractor to drive to the corn rows",
+                "** Lowering the corn planter onto the soil",
+                "** Adjusting the planting depth",
+                "** Ensuring proper spacing between seeds",
+                "** Starting the planting process",
+                "** Monitoring the planter's progress"
             ]
         },
         {
-            "task": "Aligning the carrier with the truck for transport",
+            "task": "Applying fertilizer**",
             "subtasks": [
-                "Ensure the carrier is correctly positioned adjacent to the truck",
-                "Make any necessary adjustments to the carrier's wheels or positioning to align with the truck bed",
-                "Extend ramps or lower tailgates if required to ease the transition",
-                "Inspect the gap between the carrier and truck to prevent damage and ensure a smooth connection"
+                "** Loading fertilizer into the spreader",
+                "** Guiding the spreader to the field",
+                "** Activating the fertilizer spreader",
+                "** Driving through the rows while distributing fertilizer",
+                "** Checking fertilizer coverage"
+            ]
+        },
+        {
+            "task": "Driving a tractor**",
+            "subtasks": [
+                "** Climbing onto the tractor seat",
+                "** Starting the tractor engine",
+                "** Checking mirrors and surroundings",
+                "** Adjusting the tractor's speed",
+                "** Operating the planter or spreader attachments",
+                "** Controlling steering to maintain straight rows",
+                "** Monitoring fuel levels and making refills as needed"
+            ]
+        },
+        {
+            "task": "Checking the corn plants**",
+            "subtasks": [
+                "** Walking through the corn rows",
+                "** Examining individual plants for damage or stress",
+                "** Inspecting soil moisture and nutrient levels",
+                "** Looking for pests or weeds",
+                "** Noting areas for irrigation adjustments"
             ]
         }
     ]

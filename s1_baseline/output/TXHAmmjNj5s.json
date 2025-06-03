@@ -5,20 +5,34 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Calibrating grain drills for optimal seed distribution in agricultural operations.",
+            "task": "Proper grain drill calibration",
             "subtasks": [
-                "Gather necessary equipment (tape measure, ruler, calculator, scale, duct tape, cups, and a calibration magnet sheet).",
-                "Consult the Rice Tech website for seed per pound rate and desired planting rate.",
-                "Adjust grain drill transmission settings to the lowest drive setting and set the notch to the appropriate number (e.g., 60 for 8-inch drill models).",
-                "Measure the circumference of the gauge wheel in inches and convert to feet.",
-                "Using the Rice Tech calibration worksheet, compute the required pounds per acre based on seeds per pound and desired seeds per acre.",
-                "For Great Plains and John Deere box drills, set the transmission to the lowest setting and adjust the clamp to the correct row spacing (e.g., 18 inches or 15 inches).",
-                "Remove seed from the grain drill's seed cups and measure the number of seeds needed for calibration using the calculated pounds per acre.",
-                "Use the seed cups or cups marked for catch, turn the gauge wheel 15 revolutions, zero out the scale, and measure the seed weight.",
-                "Use a metal ruler to measure the number of teeth on the seed cup coil and adjust the metering lever accordingly for precise calibration (average 1.25 mm per tooth adjustment).",
-                "Repeat the calibration process on the opposite side of the drill, using the ruler and metering lever to ensure even distribution.",
-                "Record the final calibration settings on the magnet sheet and affix it to the drill for future reference.",
-                "Regularly check calibration during field operations by monitoring seed distribution and adjusting as needed."
+                "Obtain seed per pound rate information",
+                "Determine the desired number of seeds per acre",
+                "Calculate pounds per acre needed to achieve desired seeding rate",
+                "Use calibration worksheet to derive seed catch amount",
+                "Prepare necessary tools (tape measure, ruler, calculator, duct tape, scale, cups)",
+                "Set grain drill to starting point (e.g., transmission in lowest setting, correct gauge wheel notch)",
+                "Measure gauge wheel circumference",
+                "Collect seed samples from specified number of row units (e.g., five for a Great Plains drill)",
+                "Empty seed cups, prime drill with seed, and turn gauge wheel a specified number of revolutions (e.g., 15 turns)",
+                "Zero out scale and weigh collected seed",
+                "Adjust seed distributor cog position using ruler for precise measurement",
+                "Repeat calibration process on other side of drill if necessary",
+                "Mark calibration settings with magnets or similar devices",
+                "Verify calibration in the field by checking periodically"
+            ]
+        },
+        {
+            "task": "Calibrate John Deere type box drill (same general steps as above)",
+            "subtasks": []
+        },
+        {
+            "task": "Calibrate air seeder (same general steps as above)",
+            "subtasks": [
+                "Adjust settings specific to John Deere and air seeder models",
+                "Measure transmission wheel circumference for John Deere drills",
+                "Use catch pan or cups to collect seed samples for John Deere and air seeder calibration"
             ]
         }
     ]

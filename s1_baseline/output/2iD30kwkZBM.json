@@ -5,130 +5,48 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Determining crop readiness for harvest**",
+            "task": "Assessing crop readiness for harvest",
             "subtasks": [
-                "** Assessing grain color (proportion of straw yellow grains)",
-                "** Checking grain hardness",
-                "** Measuring moisture content using a moisture meter",
-                "** Taking representative samples from different areas of the field",
-                "** Considering weather conditions and soil moisture for irrigation decisions",
-                "** Deciding whether to irrigate or allow natural drying",
-                "** Timing the harvest based on current crop maturity and expected moisture levels"
+                "Observe grain color",
+                "Check grain hardness",
+                "Measure moisture content using a moisture meter",
+                "Collect representative samples from the field",
+                "Determine appropriate harvest timing considering soil moisture and weather conditions"
             ]
         },
         {
-            "task": "Irrigation Decision**",
+            "task": "Irrigation decision for future crop stages",
             "subtasks": [
-                "** Evaluating soil moisture and potential for lodging",
-                "** Weighing the risk of excessive moisture on combine operation",
-                "** Consulting with experts (e.g., post-harvest specialist) for professional advice"
+                "Evaluate current soil moisture",
+                "Assess expected weather conditions",
+                "Decide whether to irrigate based on combine feasibility and lodging potential"
             ]
         },
         {
-            "task": "Moisture Meter Use**",
-            "subtasks": [
-                "** Collecting grain samples for moisture testing",
-                "** Operating the moisture meter to obtain readings",
-                "** Averaging multiple samples for a more accurate moisture content assessment"
-            ]
-        },
-        {
-            "task": "Soil Conditioning and Equipment Considerations**",
-            "subtasks": [
-                "** Ensuring soil is suitable for combine harvesting (adequate drying)",
-                "** Considering the impact of soil type (e.g., heavy clay) on equipment performance"
-            ]
-        },
-        {
-            "task": "Weather Monitoring**",
-            "subtasks": [
-                "** Checking current weather conditions (hot and dry)",
-                "** Predicting future weather patterns (hoping for light rain)",
-                "** Factoring weather forecasts into harvest timing"
-            ]
-        },
-        {
-            "task": "Harvest Planning**",
-            "subtasks": [
-                "** Estimating time until harvest (10-14 days)",
-                "** Scheduling harvest date (aiming for May 2nd)",
-                "** Preparing for combine harvesting at the optimal time"
-            ]
-        },
-        {
-            "task": "Evolving Agricultural Practices**",
-            "subtasks": [
-                "** Adapting practices based on previous experiences and evolutions in cultivation methods",
-                "** Prioritizing the best approach for soil moisture management and crop health"
-            ]
-        },
-        {
-            "task": "Determining crop readiness for harvest",
-            "subtasks": [
-                "Assessing grain color",
-                "Checking grain hardness",
-                "Using a moisture meter",
-                "Taking representative samples",
-                "Deciding whether to irrigate",
-                "Evaluating soil moisture and potential for lodging",
-                "Considering equipment performance on clay soil",
-                "Timing the harvest"
-            ]
-        },
-        {
-            "task": "Moisture Meter Use",
-            "subtasks": [
-                "Collecting grain samples",
-                "Operating the moisture meter",
-                "Averaging readings"
-            ]
-        },
-        {
-            "task": "Irrigation Decision",
-            "subtasks": [
-                "Checking weather and soil moisture",
-                "Considering crop maturation and external factors",
-                "Consulting with experts"
-            ]
-        },
-        {
-            "task": "Soil Conditioning and Equipment Considerations",
-            "subtasks": [
-                "Ensuring combine can operate on the current soil moisture"
-            ]
-        },
-        {
-            "task": "Harvest Planning",
-            "subtasks": [
-                "Estimating harvest timeline",
-                "Scheduling for optimal conditions"
-            ]
-        },
-        {
-            "task": "Evolving Agricultural Practices",
-            "subtasks": [
-                "Adapting methods based on past experiences"
-            ]
-        },
-        {
-            "task": "Determining Crop Readiness for Harvest",
+            "task": "Assessing crop readiness for harvest",
             "subtasks": []
         },
         {
-            "task": "Making Irrigation Decisions",
+            "task": "Irrigation decision for future crop stages",
             "subtasks": []
         },
         {
-            "task": "Harvest Planning",
-            "subtasks": []
+            "task": "MAINTASK: Assessing crop readiness for harvest",
+            "subtasks": [
+                "Observe the proportion of grains in the panicle that are straw yellow (80% indicator).",
+                "Check the hardness of grains in the lower part of the panicle (dough stage).",
+                "Use a moisture meter to measure grain moisture content by crushing samples.",
+                "Collect multiple representative samples from the field to ensure a representative average.",
+                "Determine the optimal harvest timing considering soil moisture levels, expected weather conditions, and potential lodging."
+            ]
         },
         {
-            "task": "Weather Monitoring",
-            "subtasks": []
-        },
-        {
-            "task": "Evolving Agricultural Practices",
-            "subtasks": []
+            "task": "Irrigation decision for future crop stages",
+            "subtasks": [
+                "Evaluate the current soil moisture level (considering it's heavy clay).",
+                "Assess the expected weather conditions (forecasted heat and dryness).",
+                "Decide whether to irrigate based on the risk to combine operations and the proximity to harvest (voting to withhold irrigation for two weeks)."
+            ]
         }
     ]
 }

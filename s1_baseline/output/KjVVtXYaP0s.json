@@ -5,76 +5,70 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Driving a John Deere 8R-70 tractor to apply fertilizer.",
+            "task": "Applying 2in1 into coffee plants",
             "subtasks": [
-                "Sit in the driver's seat of the tractor.",
-                "Start the tractor's engine.",
-                "Shift gears to move the tractor forward.",
-                "Operate the fertilizer spreader attachment.",
-                "Control the speed and direction of the tractor."
+                "Traveling to the field with the sprayer",
+                "Positioning the sprayer near the coffee plants",
+                "Pouring 2in1 into the sprayer tank",
+                "Connecting the nozzle to the sprayer",
+                "Adjusting the sprayer settings for application",
+                "Wearing personal protective equipment (PPE)"
             ]
         },
         {
-            "task": "Loading the fertilizer into the spreader.",
+            "task": "Monitoring the application process",
             "subtasks": [
-                "Approach the fertilizer bin or truck.",
-                "Lift the loader attachment to pick up the fertilizer bags.",
-                "Place the fertilizer bags into the hopper of the spreader.",
-                "Close the hopper lid and secure it.",
-                "Connect the spreader to the tractor.",
-                "Set the spreader for the appropriate setting based on the type of fertilizer.",
-                "Perform a check to ensure all connections are secure."
+                "Ensuring even coverage of 2in1 on the plants",
+                "Observing the wind direction and speed to prevent drift",
+                "Keeping an eye on the sprayer's flow rate"
             ]
         },
         {
-            "task": "Applying fertilizer to a field.",
+            "task": "Cleaning the sprayer after use",
             "subtasks": [
-                "Position the tractor and spreader over the first row of the field.",
-                "Engage the spreader and start moving forward.",
-                "Monitor the spreader's operation to ensure even distribution.",
-                "Adjust the spreader settings or position as needed during application.",
-                "Stop the application when reaching the end of the section or turning around.",
-                "Repeat the process for adjacent rows."
+                "Disconnecting the nozzle from the sprayer",
+                "Detaching the sprayer hose",
+                "Emptying any remaining 2in1 from the sprayer",
+                "Washing the sprayer according to manufacturer instructions"
             ]
         },
         {
-            "task": "Securing the unspread fertilizer.",
+            "task": "Returning to the storage area",
             "subtasks": [
-                "Identify any leftover fertilizer that did not get spread.",
-                "Collect loose fertilizer from the ground if spreader malfunctions.",
-                "Return leftover fertilizer to the bin or appropriate storage."
+                "Transporting the empty sprayer back to the storage",
+                "Storing the sprayer in the appropriate location",
+                "Putting on clean clothes and removing PPE"
             ]
         },
         {
-            "task": "Cleaning the spreader after use.",
+            "task": "Documenting the application",
             "subtasks": [
-                "Halt the tractor and disengage the spreader.",
-                "Open the hopper and remove any remaining fertilizer.",
-                "Check and clean the spreader mechanism for any clogs or debris.",
-                "Lubricate the moving parts if necessary.",
-                "Store the spreader properly when not in use."
+                "Noting the date and amount of 2in1 applied",
+                "Checking if adjacent fields need similar treatment"
             ]
         },
         {
-            "task": "Driving a John Deere 8R-70 tractor to apply fertilizer**",
-            "subtasks": []
-        },
-        {
-            "task": "Loading the fertilizer into the spreader**",
-            "subtasks": []
-        },
-        {
-            "task": "Applying fertilizer to a field**",
-            "subtasks": []
-        },
-        {
-            "task": "Securing the unspread fertilizer**",
-            "subtasks": []
-        },
-        {
-            "task": "Cleaning the spreader after use**",
+            "task": "Checking plants for any visible signs of disease",
             "subtasks": [
-                "Each **MAINTASK** represents a major action an operator must perform, broken down into **SUBTASKS** that specify the detailed steps involved. These tasks encompass driving, loading, applying, managing unapplied material, and cleaning equipment \u2013 essential components of precision agriculture and fertilizer application."
+                "Observing the leaves and stems for fungal spots or wilting",
+                "Inspecting the canopy for uneven infection",
+                "Reporting any findings to the farm manager"
+            ]
+        },
+        {
+            "task": "Conducting routine maintenance on equipment",
+            "subtasks": [
+                "Checking the sprayer's fluid levels",
+                "Inspecting nozzles for clogs or wear",
+                "Tightening loose connections on the sprayer"
+            ]
+        },
+        {
+            "task": "Preparing for the next day's work",
+            "subtasks": [
+                "Gathering necessary supplies for the next day's crop treatment",
+                "Checking weather forecast for\u9002\u5b9c\u7684\u6761\u4ef6 to apply chemicals",
+                "Ensuring all required PPE is accounted for"
             ]
         }
     ]

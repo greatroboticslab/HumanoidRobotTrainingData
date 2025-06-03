@@ -7,30 +7,29 @@
         {
             "task": "Operate a flail mower",
             "subtasks": [
-                "Sit on the machine",
-                "Control hydraulic systems (if applicable)",
-                "Manually offset the mower",
-                "Tilt the mower (if applicable)",
-                "Maneuver around obstacles",
-                "Mow grass and fields",
-                "Cut brush and thick vegetation",
-                "Maintain regular lawn cutting"
+                "Identify a flail mower as a versatile tool",
+                "Recognize the flail mower as one of the best-sold items",
+                "Understand the flail mower's ability to replace a finished mower and a brush hog",
+                "Realize the cost-saving benefits of using a flail mower",
+                "Comprehend the space-saving feature of using a flail mower",
+                "Recognize the precision cutting capability of a flail mower for lawn maintenance",
+                "Understand the flexibility of using a flail mower for various field tasks",
+                "Acknowledge the unique ability to offset the flail mower to the side",
+                "Adapt the flail mower for ditches, ponds, trees, and fence rows",
+                "Appreciate the compact design of the flail mower for easy maneuverability",
+                "Understand the offset capability through manual or hydraulic means",
+                "Familiarize with tilt feature in advanced flail mower models",
+                "Recognize the widespread use of flail mowers across different terrains",
+                "Access product information from the provided website"
             ]
         },
         {
-            "task": "Ship flail mowers",
-            "subtasks": [
-                "Package flail mowers",
-                "Load flail mowers onto transport (if applicable)",
-                "Ship flail mowers nationwide"
-            ]
+            "task": "(Initialized by MAINTASK for operating a flail mower based on the transcript details)",
+            "subtasks": []
         },
         {
-            "task": "Visit website for information",
-            "subtasks": [
-                "Navigate to goodworkstractors.com",
-                "Find relevant product information"
-            ]
+            "task": "MAINTASK: Operate a flail mower",
+            "subtasks": []
         }
     ]
 }

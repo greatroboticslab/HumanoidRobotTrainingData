@@ -5,19 +5,171 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Set up and test a garden watering control system using a Raspberry Pi and HTML5 canvas.",
+            "task": "Set up and test a garden watering control system using a Raspberry Pi, HTML5 canvas, Node.js, and hardware components.",
             "subtasks": [
-                "Access the Raspberry Pi via SSH.",
-                "Configure a relay control board connected to the Raspberry Pi.",
-                "Set up valves (manual and controlled) for water distribution.",
-                "Write a Node.js daemon to control the relay board.",
-                "Create an HTML5 canvas-based interface to visualize valve states.",
-                "Implement an override function for valve control.",
-                "Test the system by activating different zones.",
-                "Bleed pressure from the system to check for leaks.",
-                "Plan for integrating water source selection (rain tank vs. house water).",
-                "Consider adding soil moisture sensors and tank level monitors."
+                "Connect to the Raspberry Pi via SSH.",
+                "Ensure the RTC module is functioning on the Raspberry Pi.",
+                "Set up a relay control board for valve activation.",
+                "Develop or configure a control panel applet for user interface.",
+                "Create a command line interface for system communication.",
+                "Write scripts for the daemon to manage valve states.",
+                "Implement automatic scheduling or event-driven system triggers.",
+                "Test valve overrides using the control interface.",
+                "Monitor the system's Node.js server for state updates.",
+                "Disable unused valves and check valve components (as per design).",
+                "Set up water sources (rain tank and house water supply).",
+                "Configure pressure differencing to prevent backflow.",
+                "Integrate soil moisture sensors for watering decisions.",
+                "Add a rain tank level sensor.",
+                "Develop logic to switch water sources based on pressure and sensor inputs."
             ]
+        },
+        {
+            "task": "Assemble a gardening tool trailer and connect it to the watering system.",
+            "subtasks": [
+                "Construct a trailer frame from wood or metal.",
+                "Attach wheels and axles for mobility.",
+                "Install hydraulic lift system for raising and lowering the trailer.",
+                "Integrate water tanks or reservoirs onto the trailer.",
+                "Connect valves and tubing from the trailer to the house water supply and rain tank.",
+                "Ensure all connections are watertight and secure.",
+                "Test the trailer's ability to switch water sources."
+            ]
+        },
+        {
+            "task": "Assemble a gardening tool trailer and connect it to the watering system.\" Then they list subtasks: construct the frame, attach wheels, install hydraulic lift, integrate water tanks, connect valves and tubing. So yeah, that does seem like a physical task related to agriculture if you're moving irrigation equipment around.",
+            "subtasks": []
+        },
+        {
+            "task": "1. Set up control system (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Setup and Test Garden Watering Control System",
+            "subtasks": [
+                "Connect to Raspberry Pi via SSH",
+                "Install and configure RTC module",
+                "Set up relay control board for valve activation",
+                "Wire and connect irrigation valves to the Raspberry Pi board",
+                "Code commands for zone activation and valve state changes (using Node.js)",
+                "Test valve overrides and scheduled activations",
+                "Calibrate future sensors like flow meter and soil moisture sensors"
+            ]
+        },
+        {
+            "task": "Connect gardening tool trailer to the watering system.",
+            "subtasks": [
+                "Attach the trailer to the irrigation setup.",
+                "Install water tank and reservoirs on the trailer",
+                "Route valves and tubing from trailer to house water supply and rain tank."
+            ]
+        },
+        {
+            "task": "Set up the garden watering control system for testing.",
+            "subtasks": [
+                "Connect the first zone to the relay control board.",
+                "Establish a water source for each zone (rain tank and house water).",
+                "Implement valve activation via Node.js server updates.",
+                "Test valve overrides and LED indicators."
+            ]
+        },
+        {
+            "task": "Set up and test a garden watering control system that includes manually activating and scheduling different irrigation zones.",
+            "subtasks": []
+        },
+        {
+            "task": "Demonstrate and test a prototype garden watering control system with three irrigation zones.",
+            "subtasks": []
+        },
+        {
+            "task": "1. Set up a Node.js server to control irrigation valves (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "2. Connect irrigation valves to the Raspberry Pi (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "3. Implement automatic watering schedules (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Assemble components of a garden watering control system.",
+            "subtasks": [
+                "Set up a Raspberry Pi with necessary modules (RTC, relay board)",
+                "Write software for valve control using Node.js.",
+                "Connect valves to the relay board and test activation."
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and test an irrigation control system using a Raspberry Pi, Node.js, and relay board.",
+            "subtasks": []
+        },
+        {
+            "task": "setting up the control system and assembling the trailer. However, since the trailer isn't built in the video, the user is just demonstrating the control aspect.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and test an irrigation control system with a water tank, three valve zones, and Node.js server",
+            "subtasks": []
+        },
+        {
+            "task": "Demonstrate the functionality of a garden watering control system using real-time valve control overrides.",
+            "subtasks": [
+                "Connect to Raspberry Pi and SSH into the system.",
+                "Ensure the RTC module is active and functioning.",
+                "Activate each zone manually via the control interface and verify LED indicators.",
+                "Toggle valve states (open, closed) and check visual feedback on the HTML5 canvas.",
+                "Test manual overrides on each zone and observe changes in valve statuses."
+            ]
+        },
+        {
+            "task": "Connect an existing gardening tool trailer to an irrigation control system.",
+            "subtasks": [
+                "Mount water tanks and reservoirs onto the trailer.",
+                "Route water hoses and valves from the trailer to the irrigation lines.",
+                "Test the trailer's ability to switch between water sources automatically."
+            ]
+        },
+        {
+            "task": "Test the garden irrigation control system by manually activating zones and overriding valve states. Additionally, setting up water sources and ensuring proper water flow. Subtasks include connecting valves to the control board, establishing water supply lines, running tests via the Node.js interface, and verifying functionality.",
+            "subtasks": []
+        },
+        {
+            "task": "Test the garden irrigation control system by manually activating zones and overriding valve states.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and test a smart garden irrigation system. Subtasks 1-5 are as per above.",
+            "subtasks": []
+        },
+        {
+            "task": "Alternatively, the MAINTASK could be \"Install and configure a Raspberry Pi-based irrigation system.\"",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Alternatively, since the main focus of the demonstration is the interactive setup and testing, the MAINTASK would be \"Interact with a Raspberry Pi-based irrigation control system,\" with subtasks for activating zones, overridding statuses, etc.",
+            "subtasks": []
+        },
+        {
+            "task": "But the most important thing here is that according to the transcript, what is the user\u2019s physical involvement in the system? They are connecting the nodes, activating the system, and testing it. So the MAINTASK would involve this physical setup.",
+            "subtasks": []
+        },
+        {
+            "task": "Test the garden irrigation control system by manually activating zones and overriding valve states.",
+            "subtasks": []
         }
     ]
 }

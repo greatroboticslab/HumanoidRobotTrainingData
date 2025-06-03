@@ -5,31 +5,39 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Define and discuss agricultural extension.",
+            "task": "Deliver agricultural extension education programming.",
             "subtasks": [
-                "Explain that agricultural extension applies new knowledge from applied research to agricultural practices.",
-                "Describe the purpose of extension as transferring new knowledge and facilitating its adoption by the sector.",
-                "Mention that extension can focus on any aspect of agriculture, such as climate change adaptation and mitigation.",
-                "Explain the importance of two-way communication between researchers and farmers in extension.",
-                "Highlight the role of relationships and cooperation in effective extension service delivery.",
-                "Discuss the structure of the Cooperative Extension Service in the U.S. involving federal, state, local governments, and land-grant universities.",
-                "Emphasize extension's role in addressing complex sustainability challenges in agriculture."
+                "Understand new agricultural knowledge.",
+                "Transfer new knowledge to farmers.",
+                "Facilitate two-way communication between farmers and researchers.",
+                "Build cooperative relationships among farmers, extension personnel, and researchers.",
+                "Address complex sustainability challenges like climate change."
             ]
         },
         {
-            "task": "Discuss the necessity of agricultural extension.",
+            "task": "Operate the Cooperative Extension Service.",
             "subtasks": [
-                "Highlight the power and potential of agricultural extension.",
-                "Explain how extension can advance climate change mitigation and adaptation."
+                "Collaborate between federal, state, and local governments.",
+                "Partner with land-grant universities.",
+                "Mobilize sector advancement and change through cooperation."
             ]
         },
         {
-            "task": "Clarify the concept of agricultural extension.",
+            "task": "* MAINTASK-Deliver agricultural extension education programming",
             "subtasks": [
-                "Provide examples of different types of extension (e.g., youth development, economic development, community extension).",
-                "Describe the central methodology of extension as transferring knowledge created through applied research.",
-                "Emphasize the importance of farmer engagement and education programming in extension.",
-                "Discuss the role of extension in facilitating communication between researchers and practitioners."
+                "* SUBTASK-Understand new agricultural knowledge",
+                "* SUBTASK-Transfer new knowledge to farmers",
+                "* SUBTASK-Facilitate two-way communication between farmers and researchers",
+                "* SUBTASK-Build cooperative relationships among farmers, extension personnel, and researchers",
+                "* SUBTASK-Address complex sustainability challenges like climate change"
+            ]
+        },
+        {
+            "task": "* MAINTASK-Operate the Cooperative Extension Service",
+            "subtasks": [
+                "* SUBTASK-Collaborate between federal, state, and local governments",
+                "* SUBTASK-Partner with land-grant universities",
+                "* SUBTASK-Mobilize sector advancement and change through cooperation"
             ]
         }
     ]

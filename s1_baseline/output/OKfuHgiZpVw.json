@@ -5,27 +5,80 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Assembling a Create Crop Farm using the Gantry Carriage System",
+            "task": "Construct a fully automatic crop farming system using the Gantry Carriage System in Minecraft.",
+            "subtasks": [
+                "Assemble the Gantry Shaft.",
+                "Position the Gantry Carriage at one end of the Gantry Shaft.",
+                "Attach Linear Chassis to the Gantry Carriage.",
+                "Place harvesters on both sides of the Linear Chassis.",
+                "Install redstone contacts at each end of the Gantry Carriage.",
+                "Connect redstone links to the redstone contacts.",
+                "Set up storage for crop output.",
+                "Create a portable storage interface for output.",
+                "Configure redstone receivers to detect harvester arrival.",
+                "Arrange toggle latch to reverse Gantry Shaft rotation.",
+                "Arrange gear shift to control machine movement.",
+                "Implement an off switch with a sticky piston and lever.",
+                "Customize redstone link frequency to prevent interference.",
+                "Set up a funnel and chest for crop unloading.",
+                "Ensure starting plants are positioned beyond the machine's travel range."
+            ]
+        },
+        {
+            "task": "Explain the operation of the Gantry Carriage System.",
+            "subtasks": [
+                "Describe how the machine uses redstone signals to toggle the gear shift.",
+                "Clarify the direction movement based on Gantry Shaft rotation.",
+                "Explain the role of the rotation speed in the machine's performance.",
+                "Mention the use of a water wheel's RPM as a variable."
+            ]
+        },
+        {
+            "task": "Okay, so I need to generate tasks based on this video transcript about building a crop farm in Minecraft. The main task should be constructing the farm, right? So, the general MAINTASK would be something like \"Construct a fully automatic crop farming system using the Gantry Carriage System in Minecraft.\" Then, I think I need to break that down into subtasks. Let me think first.",
             "subtasks": []
         },
         {
-            "task": "...Completed the fully automatic, expandable Create Crop Farm using the Gantry Carriage System. Answer: To construct the farm, assemble the Gantry Shaft, attach the Gantry Carriage and chassis, position the harvesters, set up redstone contacts for rotation control, plant crops away from the machine's moving parts, configure the toggle latch and gear shift, and establish a chute system for crop output. The process ensures automated operation with minimal manual intervention. [[.SafeBoat]] [[Minecraft Command Blocks]]",
+            "task": "Gantry Shaft and Carriage. Then they need to add redstone contacts and links for the toggle mechanism. Storage and output setup. The farms use some kind of rotation to bring the harvesters around. They have to position the crops away from the turning points where the machine would hit them. Also, the gear shift and the toggle power latch. Some people might want to add an off-switch, so that's another thing. Redstone frequency setup as a precaution. Then the chute and chest for output. So for the MAINTASK of constructing the farm, I need to list all these subtasks.",
             "subtasks": []
         },
         {
-            "task": "Assembling a Create Crop Farm using the Gantry Carriage System",
+            "task": "explaining the operation. So maybe two main tasks: building and explaining. Let me check the transcript again.",
             "subtasks": []
         },
         {
-            "task": "Assembling a Create Crop Farm using the Gantry Carriage System",
+            "task": "First, the user says, \"Let's get into it. This is essentially our main machine. We have harvesters connected to a Gantry Carriage which goes along our Gantry Shaft.\" Then he goes into the mechanism. So the machine operates by the Gantry Carriage moving back and forth on the Shaft, powered by a rotation that's toggled via redstone signals when the carriage reaches the ends. The operation explanation is quite detailed. So that would be a separate MAINTASK.",
             "subtasks": []
         },
         {
-            "task": "Assembling a Create Crop Farm using the Gantry Carriage System",
+            "task": "Wait, the first MAINTASK could be \"Set up a fully automatic crop farming system using the Gantry Carriage System,\" and then break down into subtasks like placing the Gantry Shaft, Gantry Carriage, Linear Chassis, harvesters, redstone contacts, etc. Then a second MAINTASK could be \"Explain the operation of the Gantry Carriage System,\" with subtasks like how the rotation works, the role of redstone signals, movement direction, significance of rotation speed, etc. That way, each MAINTASK is a high-level action, and the subtasks are the steps within each.",
             "subtasks": []
         },
         {
-            "task": "** Assembling a Create Crop Farm using the Gantry Carriage System",
+            "task": "Alternatively, maybe combine all the physical setup into one MAINTASK as \"Construct a fully automatic, expandable and customizable Create Crop Farm,\" and include explanation of operation as part of the setup. But the transcript does spend a significant portion of the video explaining how it works, so perhaps separating it as two distinct tasks would be better. The viewer is both building the machine and learning how it operates, so the subtasks would need to cover both aspects.",
+            "subtasks": []
+        },
+        {
+            "task": "Anyway, the user first talks about how the machine works (the MAINTASK for explaining operation) before building it step by step. So even though the main activity is building, there's a part dedicated to explaining how it operates.",
+            "subtasks": []
+        },
+        {
+            "task": "Construct a fully automatic crop farming system using the Gantry Carriage System in Minecraft.",
+            "subtasks": []
+        },
+        {
+            "task": "Explain the operation of the Gantry Carriage System.",
+            "subtasks": []
+        },
+        {
+            "task": "These two MAINTASKs cover all the necessary information from the transcript. Are there any other steps mentioned that I've missed?",
+            "subtasks": []
+        },
+        {
+            "task": "Construct a fully automatic crop farming system using the Gantry Carriage System in Minecraft.",
+            "subtasks": []
+        },
+        {
+            "task": "Explain the operation of the Gantry Carriage System.",
             "subtasks": []
         }
     ]

@@ -5,134 +5,193 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Drive green road to pasture.",
+            "task": "Enter and exit a vehicle",
             "subtasks": [
-                "Sit in green road tractor.",
-                "Engage clutch and start engine.",
-                "Reverse tractor to back into pasture.",
-                "Align tractor with desired path.",
-                "Drive tractor forward into pasture."
+                "Open driver's side door of vehicle",
+                "Sit in driver's seat",
+                "Secure seatbelt",
+                "Close driver's side door of vehicle"
             ]
         },
         {
-            "task": "Load horses onto trailer.",
+            "task": "Drive a tractor through fields",
             "subtasks": [
-                "Approach trailer with tractor.",
-                "Align tractor's trailer rack with horse's halter.",
-                "Slowly drive tractor forward to load horse.",
-                "Secure horse in trailer.",
-                "Repeat for remaining horses."
+                "Engage tractor transmission",
+                "Operate steering wheel to navigate through fields",
+                "Adjust speed using clutch and accelerator pedals"
             ]
         },
         {
-            "task": "Retrieve horse from trailer.",
+            "task": "Operate implements on the tractor",
             "subtasks": [
-                "Approach trailer at gate.",
-                "Open trailer gate.",
-                "Safely lead horse from trailer to pasture.",
-                "Secure horse in pasture."
+                "Attach plow to front of tractor",
+                "Engage hydraulics to lower plow",
+                "Operate steering to drive over rows",
+                "Disengage hydraulics to raise plow",
+                "Detach plow from tractor",
+                "Attach harrow to front of tractor",
+                "Engage hydraulics to lower harrow",
+                "Pull harrow over rows behind tractor",
+                "Drive tractor around turn in field, adjusting orientation",
+                "Disengage hydraulics to lift harrow",
+                "Detach harrow from tractor"
             ]
         },
         {
-            "task": "Feed horses hay.",
+            "task": "Return vehicle to shed",
             "subtasks": [
-                "Locate hay bale.",
-                "Dislodge hay from bale.",
-                "Distribute hay into horse feeders or manger."
+                "Drive tractor towards shed",
+                "Align tractor with entrance",
+                "Navigate through shed door",
+                "Park tractor in designated spot",
+                "Turn off engine",
+                "Exit vehicle by opening driver's side door",
+                "Close driver's side door of vehicle"
             ]
         },
         {
-            "task": "Attach lights to side of tractor.",
+            "task": "Detach implements and place in storage",
             "subtasks": [
-                "Identify appropriate lights for attachment.",
-                "Detach existing lights or prepare attachment points.",
-                "Install mounting brackets or hitch on tractor.",
-                "Connect electrical harness or wires to lights.",
-                "Secure lights firmly to tractor."
+                "Lift plow off front of tractor using hydraulics",
+                "Disconnect plow from three-point hitch",
+                "Transport plow to storage area",
+                "Store plow vertically against wall",
+                "Repeat steps for harvesting machine",
+                "Elevate and remove rear section of harvesting machine",
+                "Place harvest forks in stackers",
+                "Roll rear section of machine towards storage",
+                "Lower rear section onto stackers for storage",
+                "Close access door to machine storage area"
             ]
         },
         {
-            "task": "Maintain tractor hydraulic system while driving.",
+            "task": "Check fuel levels and refill if necessary",
             "subtasks": [
-                "Monitor hydraulic fluid levels.",
-                "Check for leaks or irregularities in hydraulic lines.",
-                "Adjust hydraulic settings as needed during operation."
+                "Locate fuel tank on vehicle",
+                "Check fuel gauge",
+                "If necessary, drive to fuel station",
+                "Purchase fuel and return",
+                "Refuel tractor at designated pump"
             ]
         },
         {
-            "task": "Repair trailer hitch.",
+            "task": "Clean tractor and implement",
             "subtasks": [
-                "Identify damaged or loose components of trailer hitch.",
-                "Remove hitch pin or trailer coupler.",
-                "Inspect trailer hitch for wear or corrosion.",
-                "Replace or tighten parts as necessary.",
-                "Test hitch functionality by towing a light load."
+                "Remove surface dirt and debris from tractor with brush",
+                "Inspect hydraulic systems for leaks",
+                "Lubricate moving parts with oil"
             ]
         },
         {
-            "task": "Drive green road to pasture.} \\\\",
+            "task": "Apply seals and wax",
             "subtasks": [
-                "Sit in green road tractor.} \\\\",
-                "Engage clutch and start engine.} \\\\",
-                "Reverse tractor to back into pasture.} \\\\",
-                "Align tractor with desired path.} \\\\",
-                "Drive tractor forward into pasture.} \\\\"
+                "Check seals for wear and replace as necessary",
+                "Apply protective wax to painted surfaces"
             ]
         },
         {
-            "task": "Load horses onto trailer.} \\\\",
+            "task": "Drive tractor on public roads",
             "subtasks": [
-                "Approach trailer with tractor.} \\\\",
-                "Align tractor's trailer rack with horse's halter.} \\\\",
-                "Slowly drive tractor forward to load horse.} \\\\",
-                "Secure horse in trailer.} \\\\",
-                "Repeat for remaining horses.} \\\\"
+                "Signal turn using turn signal",
+                "Check mirrors for traffic",
+                "Accelerate and merge onto main road",
+                "Travel to market on public road"
             ]
         },
         {
-            "task": "Retrieve horse from trailer.} \\\\",
+            "task": "Load produce onto vehicle",
             "subtasks": [
-                "Approach trailer at gate.} \\\\",
-                "Open trailer gate.} \\\\",
-                "Safely lead horse from trailer to pasture.} \\\\",
-                "Secure horse in pasture.} \\\\"
+                "Pick produce from fields",
+                "Place produce into baskets or crates",
+                "Load baskets/crates into bed of vehicle",
+                "Secure produce with straps or tarp"
             ]
         },
         {
-            "task": "Feed horses hay.} \\\\",
+            "task": "Hand wash dishes at home",
+            "subtasks": []
+        },
+        {
+            "task": "Tend to children's needs at home",
+            "subtasks": []
+        },
+        {
+            "task": "Check in with daughter at school",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare for next day",
+            "subtasks": []
+        },
+        {
+            "task": "Refuel the farm vehicle",
+            "subtasks": []
+        },
+        {
+            "task": "Work as a lawyer",
+            "subtasks": []
+        },
+        {
+            "task": "Mow the lawn",
+            "subtasks": []
+        },
+        {
+            "task": "Wash a car",
+            "subtasks": []
+        },
+        {
+            "task": "Take out the garbage",
+            "subtasks": []
+        },
+        {
+            "task": "Remove a fence panel",
+            "subtasks": []
+        },
+        {
+            "task": "Replace a fence panel",
             "subtasks": [
-                "Locate hay bale.} \\\\",
-                "Dislodge hay from bale.} \\\\",
-                "Distribute hay into horse feeders or manger.} \\\\"
+                "Push the fence panels to close any gaps"
             ]
         },
         {
-            "task": "Attach lights to side of tractor.} \\\\",
-            "subtasks": [
-                "Identify appropriate lights for attachment.} \\\\",
-                "Detach existing lights or prepare attachment points.} \\\\",
-                "Install mounting brackets or hitch on tractor.} \\\\",
-                "Connect electrical harness or wires to lights.} \\\\",
-                "Secure lights firmly to tractor.} \\\\"
-            ]
+            "task": "Clean windows",
+            "subtasks": []
         },
         {
-            "task": "Maintain tractor hydraulic system while driving.} \\\\",
-            "subtasks": [
-                "Monitor hydraulic fluid levels.} \\\\",
-                "Check for leaks or irregularities in hydraulic lines.} \\\\",
-                "Adjust hydraulic settings as needed during operation.} \\\\"
-            ]
+            "task": "Paint a room",
+            "subtasks": []
         },
         {
-            "task": "Repair trailer hitch.} \\\\",
-            "subtasks": [
-                "Identify damaged or loose components of trailer hitch.} \\\\",
-                "Remove hitch pin or trailer coupler.} \\\\",
-                "Inspect trailer hitch for wear or corrosion.} \\\\",
-                "Replace or tighten parts as necessary.} \\\\",
-                "Test hitch functionality by towing a light load.}"
-            ]
+            "task": "Prepare for dinner",
+            "subtasks": []
+        },
+        {
+            "task": "Exercise at the gym",
+            "subtasks": []
+        },
+        {
+            "task": "Make bed",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare feeding the steers manure",
+            "subtasks": []
+        },
+        {
+            "task": "Apply clay/plaster to face",
+            "subtasks": []
+        },
+        {
+            "task": "Go to the public pool",
+            "subtasks": []
+        },
+        {
+            "task": "Plan and plant a vegetable garden",
+            "subtasks": []
+        },
+        {
+            "task": "Attend a family gathering",
+            "subtasks": []
         }
     ]
 }

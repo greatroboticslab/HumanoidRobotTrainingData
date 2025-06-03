@@ -5,37 +5,54 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Feeding and caring for baby chickens",
+            "task": "Caring for baby chickens",
             "subtasks": [
-                "Collecting and handling water and feed pans",
-                "Checking and adjusting temperature for brooding area",
-                "Monitoring chicken behavior and health",
-                "Cleaning and maintaining brooding area",
-                "Feeding the chickens nutritious crumble feed",
-                "Ensuring proper ventilation in the brooding area"
+                "Ensuring proper hydration by managing water pans daily",
+                "Maintaining appropriate temperature for the chicks (90-95\u00b0F or 30-32\u00b0C)",
+                "Providing adequate nutrition through feed (e.g., crumbles) and monitoring intake",
+                "Keeping the brooding area clean and monitoring for disease signs (ammonia buildup, stool color, respiratory issues)",
+                "Observing chick behavior (activity levels, feather growth, vocalization) to assess health and well-being"
             ]
         },
         {
-            "task": "Maintaining brooding area hygiene",
+            "task": "Managing chick brooding environment",
             "subtasks": [
-                "Adding and replacing treated paper or sawdust",
-                "Changing and sanitizing water sources",
-                "Daily cleaning of the brooding area"
+                "Using treated paper or sawdust for bedding and absorbent material",
+                "Ensuring adequate ventilation to prevent ammonia buildup",
+                "Monitoring temperature through natural sunlight and artificial light adjustments",
+                "Regularly checking and refilling water sources to prevent dehydration"
             ]
         },
         {
-            "task": "Observing chicken behavior",
+            "task": "Feeding chicks",
             "subtasks": [
-                "Checking for proper temperature regulation",
-                "Ensuring activity levels and vocalization",
-                "Observing feather growth"
+                "Providing appropriate feed (e.g., crumbles) when recommended by experts",
+                "Checking feed intake and adjusting as needed based on chick activity",
+                "Ensuring water cleanliness and frequent changes to prevent bacterial growth"
             ]
         },
         {
-            "task": "Managing chicken space",
+            "task": "Monitoring chick health",
             "subtasks": [
-                "Ensuring adequate space for growth",
-                "Transferring chickens to larger areas when necessary"
+                "Observing for signs of illness such as labored breathing or diarrhea",
+                "Inspecting stool color and consistency as an indicator of health",
+                "Cleaning the brooding area daily to prevent disease spread and odor accumulation"
+            ]
+        },
+        {
+            "task": "Housing and sanitation",
+            "subtasks": [
+                "Using sawdust or treated paper bedding in the brooding area",
+                "Replacing bedding material as needed to maintain dryness and hygiene",
+                "Ensuring proper ventilation to manage humidity and temperature"
+            ]
+        },
+        {
+            "task": "Behavioral observation",
+            "subtasks": [
+                "Noticing signs of activity or restlessness in chicks",
+                "Checking for feather development at appropriate stages",
+                "Listening for chick vocalizations to assess well-being"
             ]
         }
     ]

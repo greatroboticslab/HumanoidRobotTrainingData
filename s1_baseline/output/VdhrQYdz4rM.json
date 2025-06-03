@@ -5,58 +5,28 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Harvest and analyze sunflower for spiral counts and height. Subtasks: Identify mature sunflower, measure height, remove seed head, count spirals clockwise, count spirals counterclockwise, verify Fibonacci numbers.)",
-            "subtasks": []
-        },
-        {
-            "task": "Identify a mature sunflower",
+            "task": "Measuring and Observing Sunflower Maturity and Structure",
             "subtasks": [
-                "Wait for sunflowers to mature (petals fallen, seeds visible)",
-                "Check seed color (black/white/black)",
-                "Confirm florets have fallen off"
+                "Measure the height of a sunflower from the ground to the middle of the head.",
+                "Remove the sunflower head upon maturity, using appropriate tools when necessary.",
+                "Assess the maturity of the sunflower seeds by checking seed color and seed pattern clarity.",
+                "Count the number of green brackets (leaf structures) around the back of the head, though not applicable in this case.",
+                "Measure and record the height of the sunflower after removing the head.",
+                "Observe and count the number of spirals formed by the seeds on the sunflower head."
             ]
         },
         {
-            "task": "Measure the height of the sunflower",
+            "task": "Spirals Count and Identification",
             "subtasks": [
-                "Measure from base to the middle of the head",
-                "Note the exact height (using a measuring tape or stick)"
+                "When the sunflower head is mature, count the spirals in both clockwise and counterclockwise directions.",
+                "Verify the counts using a visual inspection or digital tools (e.g., photos and computer software)."
             ]
         },
         {
-            "task": "Harvest the seed head of a sunflower",
+            "task": "Fibonacci Number Verification",
             "subtasks": [
-                "Use scissors or hands to carefully remove the head",
-                "Ensure no damage to the seeds"
+                "Analyze the counts to check if they follow Fibonacci sequence numbers, which often occur in plant structures. Here, the spiral counts (34 and 21) are Fibonacci numbers."
             ]
-        },
-        {
-            "task": "Count the spirals in a sunflower seed head",
-            "subtasks": [
-                "Brush off the head to expose seeds",
-                "Start counting spirals in one direction (e.g., clockwise)",
-                "Number each spiral to avoid missing",
-                "Check count with a partner (Rimmer checking here)",
-                "Adjust count if necessary",
-                "Count spirals in the opposite direction (counterclockwise)",
-                "Verify Fibonacci sequence in counts"
-            ]
-        },
-        {
-            "task": "Identify a mature sunflower and perform spiral counts**",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze a mature sunflower for spiral counts and height",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze a mature sunflower\u2019s spiral counts and height",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze a mature sunflower for spiral counts and height. Subtasks: Identify maturity, measure height, harvest seed head, count clockwise spirals, note mold issues.)",
-            "subtasks": []
         }
     ]
 }

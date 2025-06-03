@@ -5,96 +5,103 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Entering and exiting the truck cab.",
+            "task": "Loading Hay into Storage",
             "subtasks": [
-                "Opening the truck cab door.",
-                "Sitting in the driver's seat.",
-                "Buckling the seatbelt."
+                "Driving hay from the truck bed into a storage area",
+                "Ensuring the hay is properly distributed"
             ]
         },
         {
-            "task": "Driving the truck to the field.",
+            "task": "Checking for Contamination",
             "subtasks": [
-                "Starting the truck engine.",
-                "Adjusting mirrors for safe driving.",
-                "Checking rearview mirrors for blind spots.",
-                "Putting the truck in drive/gear.",
-                "Accelerating the truck to the desired speed.",
-                "Steering the truck to the field location.",
-                "Applying brakes at the field entrance."
+                "Inspecting the hay for any foreign objects or residues"
             ]
         },
         {
-            "task": "Engaging the loader for driving.",
+            "task": "Unloading Hay Trucks",
             "subtasks": [
-                "Aligning the loader with the cab position.",
-                "Actuating the loader to sit properly.",
-                "Engaging the loader brakes."
+                "Guiding the hay truck into position",
+                "Operating the lift or forks to unload hay",
+                "Ensuring the truck is emptied completely"
             ]
         },
         {
-            "task": "Unloading the material from the flatbed.",
+            "task": "Preparing the Storage Area",
             "subtasks": [
-                "Ensuring the flatbed is securely attached.",
-                "Using the operator control to lower the flatbed.",
-                "Removing the unloaded portion of the flatbed.",
-                "Raising the flatbed back up.",
-                "Positioning the flatbed for the next load."
+                "Ensuring the storage area is clean and dry",
+                "Tidying the area to receive the hay"
             ]
         },
         {
-            "task": "Backing up the truck to the field.",
+            "task": "Feeding Livestock",
             "subtasks": [
-                "Checking for obstacles behind.",
-                "Using mirrors to back up safely.",
-                "Steering the truck in reverse.",
-                "Parking the truck in the appropriate location."
+                "Distributing hay to the dairy cows",
+                "Monitoring the amount each cow consumes"
             ]
         },
         {
-            "task": "Preparing the roller for field operations.",
+            "task": "Milk Production and Handling",
             "subtasks": [
-                "Starting the power take-off (PTO).",
-                "Engaging the roller.",
-                "Adjusting the roller tension."
+                "Collecting milk from the cows",
+                "Ensuring hygiene during milk collection",
+                "Checking for any signs of illness or distress in the cows"
             ]
         },
         {
-            "task": "Operating the roller on the field.",
+            "task": "Equipment Maintenance",
             "subtasks": [
-                "Moving the roller across the field rows.",
-                "Adjusting speed and pressure as needed.",
-                "Avoiding crops and ensuring even coverage."
+                "Cleaning and inspecting the milking equipment",
+                "Checking the condition of the hay handling tools"
             ]
         },
         {
-            "task": "Verifying the roll quality.",
+            "task": "Loading Hay into Storage",
             "subtasks": [
-                "Inspecting the field for smoothness.",
-                "Checking for any remaining rough spots."
+                "Driving hay from the truck bed into a storage area",
+                "Ensuring the hay is properly distributed"
             ]
         },
         {
-            "task": "Returning to the truck.",
+            "task": "Checking for Contamination",
             "subtasks": [
-                "Disengaging the roller.",
-                "Disengaging the PTO.",
-                "Securing any loose parts."
+                "Inspecting the hay for any foreign objects or residues"
             ]
         },
         {
-            "task": "Cleaning up the operator area.",
+            "task": "Unloading Hay Trucks",
             "subtasks": [
-                "Removing any debris from the cab.",
-                "Ensuring all equipment is put away properly."
+                "Guiding the hay truck into position",
+                "Operating the lift or forks to unload hay",
+                "Ensuring the truck is emptied completely"
             ]
         },
         {
-            "task": "Exiting the truck cab.",
+            "task": "Preparing the Storage Area",
             "subtasks": [
-                "Unbuckling the seatbelt.",
-                "Opening the truck cab door.",
-                "Walking away from the vehicle."
+                "Ensuring the storage area is clean and dry",
+                "Tidying the area to receive the hay"
+            ]
+        },
+        {
+            "task": "Feeding Livestock",
+            "subtasks": [
+                "Distributing hay to the dairy cows",
+                "Monitoring the amount each cow consumes"
+            ]
+        },
+        {
+            "task": "Milk Production and Handling",
+            "subtasks": [
+                "Collecting milk from the cows",
+                "Ensuring hygiene during milk collection",
+                "Checking for any signs of illness or distress in the cows"
+            ]
+        },
+        {
+            "task": "Equipment Maintenance",
+            "subtasks": [
+                "Cleaning and inspecting the milking equipment",
+                "Checking the condition of the hay handling tools"
             ]
         }
     ]

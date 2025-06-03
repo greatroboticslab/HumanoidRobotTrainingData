@@ -5,23 +5,83 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Analyze the impact of straw input on soil fertility, crop yields, and greenhouse gas emissions.",
+            "task": "Straw input",
             "subtasks": [
-                "Understand the benefits of straw input on soil fertility.",
-                "Recognize the potential negative effects of improper straw input on greenhouse gas emissions.",
-                "Evaluate the effectiveness of optimal management practices in reducing greenhouse gas emissions from straw input.",
-                "Identify specific management practices that contribute to lower emissions, such as low input rates, mulching, high C/N ratio, long-term input, and no-tillage.",
-                "Assess the compatibility of these practices with maintaining crop yields and soil quality."
+                "Collect straw from the farm or purchase it",
+                "Transport straw to the field",
+                "Spread straw evenly over the soil surface",
+                "Monitor C/N ratio before application"
             ]
         },
         {
-            "task": "Analyze the impact of straw input on soil fertility, crop yields, and greenhouse gas emissions.",
+            "task": "Apply straw with optimal management practices to improve soil fertility and reduce greenhouse gas emissions",
             "subtasks": [
-                "Understand the benefits of straw input on soil fertility.",
-                "Recognize the potential negative effects of improper straw input on greenhouse gas emissions.",
-                "Evaluate the effectiveness of optimal management practices in reducing greenhouse gas emissions from straw input.",
-                "Identify specific management practices that contribute to lower emissions, such as low input rates, mulching, high C/N ratio, long-term input, and no-tillage.",
-                "Assess the compatibility of these practices with maintaining crop yields and soil quality."
+                "Determine the appropriate straw input rate",
+                "Choose suitable times for straw application",
+                "Apply straw using appropriate equipment (e.g., spreader)",
+                "Monitor C/N ratio of straw",
+                "Implement no-tillage or minimum-tillage practices",
+                "Maintain long-term straw application consistency"
+            ]
+        },
+        {
+            "task": "Implement low straw input with high C/N ratio and mulching",
+            "subtasks": [
+                "Collect straw and ensure it has a high carbon to nitrogen ratio",
+                "Distribute straw evenly across the field using a spreader",
+                "Monitor soil fertility and adjust straw input as needed",
+                "Practice no-tillage farming"
+            ]
+        },
+        {
+            "task": "Integrate no-tillage with straw input",
+            "subtasks": [
+                "Prepare for no-tillage by adjusting farming equipment",
+                "Plant crops directly into the undisturbed soil",
+                "Time straw application to coincide with no-tillage planting"
+            ]
+        },
+        {
+            "task": "Apply straw as a soil amendment",
+            "subtasks": [
+                "Collect straw from the field or purchase"
+            ]
+        },
+        {
+            "task": "Manage straw input to optimize soil health and minimize emissions",
+            "subtasks": [
+                "Assess soil's C/N ratio",
+                "Determine straw application rate (low input)",
+                "Apply straw using a spreader or similar equipment",
+                "Ensure proper mulching if needed",
+                "Adhere to no-tillage practices when feasible",
+                "Repeat application annually or as needed based on soil analysis"
+            ]
+        },
+        {
+            "task": "Monitor and adjust straw input practices for optimal results.",
+            "subtasks": []
+        },
+        {
+            "task": "Straw input and proper management",
+            "subtasks": [
+                "Collect straw",
+                "Transport straw to field",
+                "Apply straw using spreader or similar equipment",
+                "Monitor C/N ratio",
+                "Practice no-tillage where possible",
+                "Continue long-term (possibly over multiple years)"
+            ]
+        },
+        {
+            "task": "Straw input and proper management",
+            "subtasks": [
+                "Collect straw",
+                "Transport straw to field",
+                "Apply straw using spreader or similar equipment",
+                "Monitor C/N ratio",
+                "Practice no-tillage where possible",
+                "Continue long-term application"
             ]
         }
     ]

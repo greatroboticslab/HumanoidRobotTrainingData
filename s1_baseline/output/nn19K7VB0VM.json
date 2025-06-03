@@ -5,41 +5,353 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Weeding a garden or high tunnel.",
+            "task": "Weeding a vegetable garden",
             "subtasks": [
-                "Identify and pull perennial weeds by their taproots.",
-                "Collect pulled weeds in a bucket for disposal.",
-                "Use a hoe or cultivation tool to kill small weeds.",
-                "Plant in straight rows to facilitate weeding.",
-                "Use weed barrier material around the garden perimeter."
+                "Identify perennial weeds",
+                "Remove weeds using tools like a weed hook or digging fork",
+                "Collect weeds in a bucket and dispose of them",
+                "Cultivate small weeds using a hand hoe or stirrup hoe",
+                "Create and maintain straight rows for easy weeding",
+                "Use weed mat around the perimeter to prevent weed growth"
             ]
         },
         {
-            "task": "Maintaining a high tunnel or greenhouse.",
+            "task": "Maintaining a greenhouse",
             "subtasks": [
-                "Eradicate weeds from the soil's surface.",
-                "Apply weed control techniques consistently on a regular schedule.",
-                "Maintain straight rows for easier weed removal.",
-                "Utilize weed barrier to prevent weed growth at the garden's edges."
+                "Use grid lines to create straight rows for consistent weeding",
+                "Check and clear weeds along plant spacing every week",
+                "Remove invaders and dead plants around the outside of the garden"
             ]
         },
         {
-            "task": "Weeding a garden or high tunnel.",
+            "task": "Consistent garden maintenance",
             "subtasks": [
-                "Identify and pull perennial weeds by their taproots.",
-                "Collect pulled weeds in a bucket for disposal.",
-                "Use a hoe or cultivation tool to kill small weeds.",
-                "Plant in straight rows to facilitate weeding.",
-                "Use weed barrier material around the garden perimeter."
+                "Allocate 15-20 minutes weekly for weeding and maintenance tasks",
+                "Continuously monitor and manage weeds to prevent overcrowding"
             ]
         },
         {
-            "task": "Maintaining a high tunnel or greenhouse.",
+            "task": "Operating farming equipment",
             "subtasks": [
-                "Eradicate weeds from the soil's surface.",
-                "Apply weed control techniques consistently on a regular schedule.",
-                "Maintain straight rows for easier weed removal.",
-                "Utilize weed barrier to prevent weed growth at the garden's edges."
+                "Using a hoe or stirrup hoe for weeding in large areas",
+                "Applying weed mat using manual placement"
+            ]
+        },
+        {
+            "task": "Managing new soil",
+            "subtasks": [
+                "Recognizing the need for initial heavy weed removal in new gardens",
+                "Regularly checking for perennial weeds in new soil"
+            ]
+        },
+        {
+            "task": "Spatial awareness and grid layout",
+            "subtasks": [
+                "Drawing grid lines on garden beds for precise spacing",
+                "Maintaining planting rows for efficient access and weeding"
+            ]
+        },
+        {
+            "task": "The core activity here is garden maintenance, which can be divided into physical tasks done by the person (like weeding, spacing) and maybe some minor equipment use. So maybe MAINTASK: \"Maintaining a small-scale vegetable garden\" with subtasks for weeding, spacing, using tools, etc. But since the garden is a commercial-sized one (a half-acre), some tasks may require more robust actions. Hmm.",
+            "subtasks": []
+        },
+        {
+            "task": "\"Weeding a large-scale vegetable garden\" with actions like identifying weeds, pulling, cultivating, straight rows, etc. Another MAINTASK: \"Using farming equipment\" which would include things like setting up and using the hoe. The other MAINTASK could be \"Maintaining garden layout,\" including the use of grid lines and weed mat.",
+            "subtasks": []
+        },
+        {
+            "task": "Keeping a garden weed-free",
+            "subtasks": [
+                "Identify and remove perennial weeds using tools",
+                "Cultivate small weeds using hand tools",
+                "Maintain straight rows for systematic weeding",
+                "Use weed mat to prevent weed growth around the perimeter"
+            ]
+        },
+        {
+            "task": "Operating farming equipment",
+            "subtasks": [
+                "Use manual weeding tools like hoers or cullins"
+            ]
+        },
+        {
+            "task": "Managing new garden soil",
+            "subtasks": [
+                "Regular weed removal in new garden beds"
+            ]
+        },
+        {
+            "task": "Consistent garden maintenance",
+            "subtasks": [
+                "Allocate time each week for maintenance tasks"
+            ]
+        },
+        {
+            "task": "Drawing grid lines on garden beds to facilitate consistent plant spacing",
+            "subtasks": [
+                "Use a tool (e.g., string, stakes, grid maker) to create straight rows",
+                "Align rows for efficient cultivation and weeding"
+            ]
+        },
+        {
+            "task": "\"Consistently maintaining a garden through regular small tasks\" with a subtask of \"Allocating time weekly for garden maintenance activities\"",
+            "subtasks": []
+        },
+        {
+            "task": "\"Managing weeds in new garden soil\" with subtasks like \"Regularly pulling perennial weeds with tools,\" \"Introducing weed mat over time to prevent recurrence.\"",
+            "subtasks": []
+        },
+        {
+            "task": "\"Scaling garden maintenance techniques from large-scale to home garden\" with subtasks like \"Identifying key maintenance steps\" or \"Adapting tools for smaller spaces.\"",
+            "subtasks": []
+        },
+        {
+            "task": "Weeding a garden",
+            "subtasks": []
+        },
+        {
+            "task": "Maintaining garden layout",
+            "subtasks": []
+        },
+        {
+            "task": "Using weed control methods",
+            "subtasks": []
+        },
+        {
+            "task": "Consistent garden care",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Remove weeds from the garden with tools",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Remove perennial weeds from the garden",
+            "subtasks": [
+                "Use tools (weed hook, digging fork) to pull weeds with taproots",
+                "Dispose of pulled weeds in a bucket and remove them from the garden"
+            ]
+        },
+        {
+            "task": "Cultivate small weeds",
+            "subtasks": [
+                "Use a hoe or stirrup hoe to turn over small weeds",
+                "Ensure weeds are turned upside down to die in sunlight"
+            ]
+        },
+        {
+            "task": "Create and maintain straight rows",
+            "subtasks": [
+                "Use a tool to draw grid lines on garden beds",
+                "Space plants uniformly in rows for easy weeding"
+            ]
+        },
+        {
+            "task": "Prevent weeds around the outside",
+            "subtasks": [
+                "Lay down weed mat around the perimeter to stop weed growth"
+            ]
+        },
+        {
+            "task": "Perform regular garden maintenance",
+            "subtasks": [
+                "Spend 15-20 minutes weekly on maintenance tasks"
+            ]
+        },
+        {
+            "task": "Use a hoe or stirrup hoe",
+            "subtasks": [
+                "Weed small areas by stirring the soil"
+            ]
+        },
+        {
+            "task": "Remove weeds by hand",
+            "subtasks": [
+                "Pull taproot weeds with a digging fork or weed hook",
+                "Dispose of pulled weeds"
+            ]
+        },
+        {
+            "task": "Apply weed mat",
+            "subtasks": [
+                "Place weed barrier material around the garden perimeter"
+            ]
+        },
+        {
+            "task": "Create grid lines in garden beds",
+            "subtasks": [
+                "Use a tool to draw straight rows on garden beds"
+            ]
+        },
+        {
+            "task": "Space plants uniformly",
+            "subtasks": [
+                "Maintain consistent spacing between plants for easy weeding"
+            ]
+        },
+        {
+            "task": "Weekly garden maintenance",
+            "subtasks": [
+                "Spend 15-20 minutes in the garden each week"
+            ]
+        },
+        {
+            "task": "Maintain a large-scale vegetable garden to prevent weeds",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Each of these would have a MAINTASK title and Subtask(s) underneath.",
+            "subtasks": [
+                "placing it around the perimeter."
+            ]
+        },
+        {
+            "task": "Remove perennial weeds",
+            "subtasks": [
+                "Pull weeds with root using a digging fork",
+                "Place pulled weeds in a bucket for disposal",
+                "Discard weeds from the garden"
+            ]
+        },
+        {
+            "task": "Cultivate weeds",
+            "subtasks": [
+                "Use a hoe or stirrup hoe to turn over small weeds",
+                "Turn weed roots upside down to die"
+            ]
+        },
+        {
+            "task": "Set up garden grid for straight rows",
+            "subtasks": [
+                "Use a tool to create grid lines on garden beds",
+                "Ensure all rows are straight"
+            ]
+        },
+        {
+            "task": "Apply weed barriers",
+            "subtasks": [
+                "Lay down weed mat around the perimeter",
+                "Secure weed mat to the soil"
+            ]
+        },
+        {
+            "task": "Conduct regular garden maintenance",
+            "subtasks": [
+                "Spend 10-15 minutes per week on maintenance activities",
+                "Repeat tasks every week as part of routine"
+            ]
+        },
+        {
+            "task": "Weekly garden maintenance",
+            "subtasks": [
+                "Remove perennial weeds",
+                "Cultivate small weeds",
+                "Check and adjust grid lines",
+                "Apply weed mat as needed"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Weeding a vegetable garden",
+            "subtasks": [
+                "Identify perennial weeds",
+                "Remove weeds using tools like a weed hook or digging fork",
+                "Collect weeds in a bucket and dispose of them",
+                "Cultivate small weeds using a hand hoe or stirrup hoe",
+                "Create and maintain straight rows for easy weeding",
+                "Use weed mat around the perimeter to prevent weed growth"
+            ]
+        },
+        {
+            "task": "Consistent garden maintenance",
+            "subtasks": [
+                "Allocate 15-20 minutes weekly for weeding and maintenance tasks",
+                "Continuously monitor and manage weeds to prevent overcrowding"
+            ]
+        },
+        {
+            "task": "Operating farming equipment",
+            "subtasks": [
+                "Using a hoe or stirrup hoe for weeding in large areas",
+                "Applying weed mat using manual placement"
+            ]
+        },
+        {
+            "task": "Managing new soil",
+            "subtasks": [
+                "Recognizing the need for initial heavy weed removal in new gardens",
+                "Regularly checking for perennial weeds in new soil"
+            ]
+        },
+        {
+            "task": "Spatial awareness and grid layout",
+            "subtasks": [
+                "Drawing grid lines on garden beds for precise spacing",
+                "Maintaining planting rows for efficient access and weeding"
+            ]
+        },
+        {
+            "task": "Remove Perennial Weeds**",
+            "subtasks": [
+                "** Identify and pull weeds with taproots using tools like a weed hook or digging fork.",
+                "** Collect pulled weeds in a bucket and remove them from the garden."
+            ]
+        },
+        {
+            "task": "Cultivate Small Weeds**",
+            "subtasks": [
+                "** Use a hand hoe or stirrup hoe to cultivate weeds when they are young (about the size of a quarter or smaller).",
+                "** Turn weeds over to expose roots to the sun, killing them."
+            ]
+        },
+        {
+            "task": "Create and Maintain Straight Rows**",
+            "subtasks": [
+                "** Use a tool to draw grid lines on garden beds for precise straight rows.",
+                "** Ensure consistent plant spacing every time you plant."
+            ]
+        },
+        {
+            "task": "Apply Weed Barrier**",
+            "subtasks": [
+                "** Lay down weed mat around the perimeter of the garden to prevent weed growth."
+            ]
+        },
+        {
+            "task": "Consistent Garden Maintenance**",
+            "subtasks": [
+                "** Allocate 15-20 minutes each week for garden maintenance tasks.",
+                "** Regularly check and manage weeds to prevent them from overwhelming the garden."
+            ]
+        },
+        {
+            "task": "Operate Farming Equipment**",
+            "subtasks": [
+                "** Use a hoe or stirrup hoe for efficient weeding in larger gardens.",
+                "** Properly handle and apply weed mat around the garden perimeter."
+            ]
+        },
+        {
+            "task": "Manage New Soil**",
+            "subtasks": [
+                "** Recognize the need for thorough weed removal in new garden soil.",
+                "** Continuously check for perennial weeds emerging in new soil beds."
+            ]
+        },
+        {
+            "task": "Spatial Awareness and Grid Layout**",
+            "subtasks": [
+                "** Mark straight rows on garden beds using a tool for precise spacing.",
+                "** Maintain grid lines to facilitate efficient cultivation and weed removal."
             ]
         }
     ]

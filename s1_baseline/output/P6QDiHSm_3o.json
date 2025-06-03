@@ -5,136 +5,38 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Prepare seed drill for planting",
+            "task": "Prepare and plant crops in a field.",
             "subtasks": [
-                "Gather the necessary tools for seed drill preparation",
-                "Check the seed drill's current condition",
-                "Adjust the seed drill's spacing mechanism",
-                "Clean the seed drill's mechanism to prevent malfunctions",
-                "Lubricate the seed drill's moving parts to ensure smooth operation",
-                "Set the seed drill's depth according to the crop requirements",
-                "Test the seed drill's mechanism to check if adjustments are needed"
+                "Identify the specific crop intended for planting (e.g., wheat, corn, soybeans).",
+                "Clear the field of debris and weeds.",
+                "Level the field using a tractor or farming implement.",
+                "Open the rows for planting using a cultivator or similar tool.",
+                "Mix soil amendments into the ground as needed.",
+                "Lay out the planting rows using a guide or marking device.",
+                "Place seeds into the ground at the correct depth and spacing using a planter.",
+                "Close the rows over the planted seeds, keeping rows straight and even."
             ]
         },
         {
-            "task": "Operate the seed drill during planting",
+            "task": "Operate a tractor for farm tasks.",
             "subtasks": [
-                "Secure the seed drill onto the farming vehicle",
-                "Attach the appropriate seed box to the seed drill",
-                "Fill the seed box with seeds, ensuring correct quantity and type",
-                "Set the seed drill's speed to match the farming vehicle's throttle",
-                "Adjust the depth gauge wheels to control the planting depth",
-                "Monitor the seed drill's operation while driving through the field",
-                "Check for proper seed placement and coverage after planting",
-                "Adjust the seed drill's settings as needed during the planting process"
+                "Select the appropriate tractor attachment for the task (e.g., plow, cultivator, planter).",
+                "Safely operate the tractor to transport the attachment to the field.",
+                "Attach the selected implement to the tractor.",
+                "Adjust the settings on the implement as needed for the task (e.g., depth, speed).",
+                "Drive the tractor and implement through the field, performing the intended task."
             ]
         },
         {
-            "task": "Maintain the crop during the growing period",
+            "task": "Conclude planting and perform post-planting activities.",
             "subtasks": [
-                "Regularly check the crop's growth and overall health",
-                "Monitor soil moisture levels and water the crops if necessary",
-                "Look for signs of pests or diseases and take appropriate actions",
-                "Apply fertilizers or other crop nutrients according to the crop's needs",
-                "Control weeds through mechanical or chemical means as needed",
-                "Monitor the weather and take protective measures if a storm is expected"
+                "Check the row spacing and ensure even planting.",
+                "Check the depth of the seeds to ensure proper germination.",
+                "Wet down the field if necessary to ensure proper water retention.",
+                "Check for any missed areas or issues with the rows and replant as needed.",
+                "Apply fertilizer or pesticides according to the crop needs and preferences.",
+                "Monitor the planted field for any signs of pest or weed infestations and take corrective action if necessary."
             ]
-        },
-        {
-            "task": "Harvest the mature crops",
-            "subtasks": [
-                "Determine the optimal harvest time based on crop maturity",
-                "Set up the harvesting machinery or equipment",
-                "Operate the harvesting equipment while moving through the fields",
-                "Collect and clean the harvested crops, separating good from unusable portions",
-                "Store the harvested crops properly to prevent spoilage"
-            ]
-        },
-        {
-            "task": "Clean and maintain the equipment after the harvest",
-            "subtasks": [
-                "Disassemble the harvesting equipment to clean individual components",
-                "Scrub the machinery surfaces to remove dirt and debris",
-                "Lubricate moving parts to prevent wear and tear during storage",
-                "Inspect the equipment for any damage or wear that requires repair",
-                "Store the machines in a dry location to protect them from moisture"
-            ]
-        },
-        {
-            "task": "Prepare seed drill for planting",
-            "subtasks": [
-                "Gather the necessary tools for seed drill preparation",
-                "Check the seed drill's current condition",
-                "Adjust the seed drill's spacing mechanism",
-                "Clean the seed drill's mechanism to prevent malfunctions",
-                "Lubricate the seed drill's moving parts to ensure smooth operation",
-                "Set the seed drill's depth according to the crop requirements",
-                "Test the seed drill's mechanism to check if adjustments are needed"
-            ]
-        },
-        {
-            "task": "Operate the seed drill during planting",
-            "subtasks": [
-                "Secure the seed drill onto the farming vehicle",
-                "Attach the appropriate seed box to the seed drill",
-                "Fill the seed box with seeds, ensuring correct quantity and type",
-                "Set the seed drill's speed to match the farming vehicle's throttle",
-                "Adjust the depth gauge wheels to control the planting depth",
-                "Monitor the seed drill's operation while driving through the field",
-                "Check for proper seed placement and coverage after planting",
-                "Adjust the seed drill's settings as needed during the planting process"
-            ]
-        },
-        {
-            "task": "Maintain the crop during the growing period",
-            "subtasks": [
-                "Regularly check the crop's growth and overall health",
-                "Monitor soil moisture levels and water the crops if necessary",
-                "Look for signs of pests or diseases and take appropriate actions",
-                "Apply fertilizers or other crop nutrients according to the crop's needs",
-                "Control weeds through mechanical or chemical means as needed",
-                "Monitor the weather and take protective measures if a storm is expected"
-            ]
-        },
-        {
-            "task": "Harvest the mature crops",
-            "subtasks": [
-                "Determine the optimal harvest time based on crop maturity",
-                "Set up the harvesting machinery or equipment",
-                "Operate the harvesting equipment while moving through the fields",
-                "Collect and clean the harvested crops, separating good from unusable portions",
-                "Store the harvested crops properly to prevent spoilage"
-            ]
-        },
-        {
-            "task": "Clean and maintain the equipment after the harvest",
-            "subtasks": [
-                "Disassemble the harvesting equipment to clean individual components",
-                "Scrub the machinery surfaces to remove dirt and debris",
-                "Lubricate moving parts to prevent wear and tear during storage",
-                "Inspect the equipment for any damage or wear that requires repair",
-                "Store the machines in a dry location to protect them from moisture"
-            ]
-        },
-        {
-            "task": "MAINTASK: Prepare seed drill for planting",
-            "subtasks": []
-        },
-        {
-            "task": "Operate the seed drill during planting",
-            "subtasks": []
-        },
-        {
-            "task": "Maintain the crop during the growing period",
-            "subtasks": []
-        },
-        {
-            "task": "Harvest the mature crops",
-            "subtasks": []
-        },
-        {
-            "task": "Clean and maintain the equipment after the harvest",
-            "subtasks": []
         }
     ]
 }

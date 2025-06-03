@@ -5,51 +5,187 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Ride a tractor",
+            "task": "Operating combine harvester",
             "subtasks": [
-                "Sit on the tractor seat",
-                "Grip the steering wheel or joystick",
-                "Make turns to move the tractor"
+                "Climbing on and off combine harvester",
+                "Sitting in driver's seat of combine harvester",
+                "Navigating combine harvester through field",
+                "Adjusting combine harvester settings",
+                "Overseeing combine harvester operation",
+                "Operating combine harvester controls",
+                "Observing combine harvester performance"
             ]
         },
         {
-            "task": "Operate lift arm",
+            "task": "Walking through soybean field",
             "subtasks": [
-                "Locate the lift arm control",
-                "Push or pull lift arm control to lift load",
-                "Release control to lower lift arm"
+                "Walking through rows of soybean plants",
+                "Observing soybean plants for maturity",
+                "Checking soybean plants for diseases or pests",
+                "Assessing soybean yield"
             ]
         },
         {
-            "task": "Attach a bucket to the lift arm",
+            "task": "Loading soybeans onto truck",
             "subtasks": [
-                "Approach the bucket and lift arm",
-                "Align bucket with lift arm",
-                "Secure bucket to lift arm"
+                "Manually lifting soybeans from combine harvester",
+                "Transporting soybeans in bins or sacks",
+                "Unloading soybeans onto truck bed",
+                "Securing soybeans on truck bed for transport"
             ]
         },
         {
-            "task": "Transport materials with the bucket",
+            "task": "Driving truck to storage facility",
             "subtasks": [
-                "Drive the tractor with loaded bucket to desired location",
-                "Carefully place the bucket to unload materials",
-                "Return to the origin point for more materials"
+                "Operating truck driving controls",
+                "Following road signs and markings",
+                "Navigating around obstacles or other vehicles",
+                "Parking truck at designated location"
             ]
         },
         {
-            "task": "Dump materials into a pile",
+            "task": "Unloading soyBeans from truck at storage facility",
             "subtasks": [
-                "Position the bucket over the pile",
-                "Release materials by lowering the bucket",
-                "Remove bucket from the pile"
+                "Removing soybeans from truck bed",
+                "Storing soybeans in bins or silos",
+                "Ensuring proper stacking and ventilation"
             ]
         },
         {
-            "task": "Disengage the hydraulic system",
+            "task": "Cleaning combine harvester",
             "subtasks": [
-                "Find the hydraulic release lever",
-                "Pull the lever to release hydraulic pressure",
-                "Ensure safe disengagement before disconnecting"
+                "Disassembling combine harvester components",
+                "Removing soybean debris from combine",
+                "Wiping down combine surfaces",
+                "Lubricating moving parts",
+                "Reassembling combine harvester components"
+            ]
+        },
+        {
+            "task": "Pesticide application",
+            "subtasks": [
+                "Selecting appropriate pesticide for soybeans",
+                "Preparing pesticide mixture",
+                "Loading pesticide into applicator",
+                "Calibrating applicator for proper coverage",
+                "Applying pesticide to soybean field",
+                "Monitoring pesticide application",
+                "Washing applicator after use"
+            ]
+        },
+        {
+            "task": "** Operating combine harvester",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "** Walking through soybean field",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "** Loading soybeans onto truck",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "** Driving truck to storage facility",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "** Unloading soybeans from truck at storage facility",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "** Cleaning combine harvester",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "** Pesticide application",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "In the walking through soybean field MAINTASK, the subtasks include observing maturity, checking for diseases or pests, and assessing yield. So the field check is covered there.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating combine harvester",
+            "subtasks": [
+                "Climbing on and off combine harvester",
+                "Sitting in driver's seat of combine harvester",
+                "Navigating combine harvester through field",
+                "Adjusting combine harvester settings",
+                "Overseeing combine harvester operation",
+                "Operating combine harvester controls",
+                "Observing combine harvester performance"
+            ]
+        },
+        {
+            "task": "Walking through soybean field",
+            "subtasks": [
+                "Walking through rows of soybean plants",
+                "Observing soybean plants for maturity",
+                "Checking soybean plants for diseases or pests",
+                "Assessing soybean yield"
+            ]
+        },
+        {
+            "task": "Loading soybeans onto truck",
+            "subtasks": [
+                "Manually lifting soybeans from combine harvester",
+                "Transporting soybeans in bins or sacks",
+                "Unloading soybeans onto truck bed",
+                "Securing soybeans on truck bed for transport"
+            ]
+        },
+        {
+            "task": "Driving truck to storage facility",
+            "subtasks": [
+                "Operating truck driving controls",
+                "Following road signs and markings",
+                "Navigating around obstacles or other vehicles",
+                "Parking truck at designated location"
+            ]
+        },
+        {
+            "task": "Unloading soybeans from truck at storage facility",
+            "subtasks": [
+                "Removing soybeans from truck bed",
+                "Storing soybeans in bins or silos",
+                "Ensuring proper stacking and ventilation"
+            ]
+        },
+        {
+            "task": "Cleaning combine harvester",
+            "subtasks": [
+                "Disassembling combine harvester components",
+                "Removing soybean debris from combine",
+                "Wiping down combine surfaces",
+                "Lubricating moving parts",
+                "Reassembling combine harvester components"
+            ]
+        },
+        {
+            "task": "Pesticide application",
+            "subtasks": [
+                "Selecting appropriate pesticide for soybeans",
+                "Preparing pesticide mixture",
+                "Loading pesticide into applicator",
+                "Calibrating applicator for proper coverage",
+                "Applying pesticide to soybean field",
+                "Monitoring pesticide application",
+                "Washing applicator after use"
             ]
         }
     ]

@@ -5,36 +5,21 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Use drones in agriculture.",
+            "task": "Operate drones used in agriculture",
             "subtasks": [
-                "Monitor crop health.",
-                "Check irrigation systems.",
-                "Identify pest infestations.",
-                "Apply resources (water, fertilizers, pesticides) with precision.",
-                "Map fields.",
-                "Detect nutrient deficiencies.",
-                "Detect water stress and plant vigor changes.",
-                "Cover large areas with fertilizers or pesticides.",
-                "Use high-resolution cameras and advanced sensors.",
-                "Perform real-time data collection.",
-                "Ensure centimeter-level accuracy for field maps."
+                "Read transcript",
+                "Identify relevant tasks",
+                "Generate task list",
+                "Verify relevance"
             ]
         },
         {
-            "task": "Recommend best drones for different farm sizes.",
+            "task": "MAINTASK: Operate drones used in agriculture",
             "subtasks": [
-                "For small and medium farms:",
-                "For large-scale farms:"
-            ]
-        },
-        {
-            "task": "Discuss benefits of drone technology in agriculture.",
-            "subtasks": [
-                "Increased efficiency compared to traditional methods.",
-                "Reduced costs by optimizing resource application.",
-                "Better yields through informed decision-making.",
-                "Allow for targeted interventions.",
-                "Save time by providing quicker data collection."
+                "Read transcript",
+                "Identify relevant tasks",
+                "Generate task list",
+                "Verify relevance"
             ]
         }
     ]

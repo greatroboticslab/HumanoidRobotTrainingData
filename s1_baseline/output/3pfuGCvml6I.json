@@ -7,131 +7,180 @@
         {
             "task": "Feeding goats pumpkins",
             "subtasks": [
-                "Approach and interact with goats",
-                "Prepare pumpkin openings for goats",
-                "Allow goats to access pumpkins",
-                "Observe goats' excitement while eating",
-                "Manage physical discomfort during activity"
+                "Open pumpkin for goats",
+                "Create hole in pumpkin for goats",
+                "Throw hay to goats"
             ]
         },
         {
-            "task": "Interacting with autumn quail",
+            "task": "Caring for pregnant goat",
             "subtasks": [
-                "Attentively check quail cages and areas",
-                "Ensure no hazard from standing on cages"
+                "Attend to pregnant goat's comfort",
+                "Acknowledge discomfort during pregnancy"
             ]
         },
         {
-            "task": "Assisting with pumpkin feeding activities",
+            "task": "Interaction with children or visitors",
             "subtasks": [
-                "Modify pumpkin holes for better access",
-                "Encourage sharing of pumpkins among animals"
+                "Engage children or visitors with goats",
+                "Answer questions from children or visitors",
+                "Share information about pregnancy with visitors"
             ]
         },
         {
-            "task": "Managing pregnancy-related discomfort",
+            "task": "Working with quail cages",
             "subtasks": [
-                "Acknowledge physical changes during pregnancy",
-                "Track progress of pregnancy (weeks remaining)"
+                "Warn against standing on quail cages"
             ]
         },
         {
-            "task": "Informing others about pregnancy developments",
+            "task": "Feeding pumpkins to goats",
             "subtasks": [
-                "Share ultrasound news and gender",
-                "Address family members' reactions to news"
+                "Split open pumpkin",
+                "Create hole in pumpkin for entry",
+                "Place pumpkin in feeding area"
             ]
         },
         {
-            "task": "Handling potential discomfort or complications",
+            "task": "Tending to pregnant doe",
             "subtasks": [
-                "Manage personal physical discomfort"
+                "Monitor pregnancy progress",
+                "Adjust activities for comfort",
+                "Address visitors' questions about pregnancy"
+            ]
+        },
+        {
+            "task": "Interacting with visitors",
+            "subtasks": [
+                "Guide visitors around farm",
+                "Demonstrate proper animal care",
+                "Answer questions about farm animals"
+            ]
+        },
+        {
+            "task": "Managing quail enclosures",
+            "subtasks": [
+                "Ensure cage safety for animals",
+                "Train staff on handling cages"
+            ]
+        },
+        {
+            "task": "Feeding goats pumpkins**",
+            "subtasks": []
+        },
+        {
+            "task": "Caring for a pregnant goat**",
+            "subtasks": []
+        },
+        {
+            "task": "Interacting with visitors and children**",
+            "subtasks": []
+        },
+        {
+            "task": "Ensuring safety around animal enclosures**",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Feeding pumpkins to goats",
+            "subtasks": [
+                "Open pumpkin",
+                "Create hole in pumpkin",
+                "Place pumpkin in feeding area"
+            ]
+        },
+        {
+            "task": "Caring for pregnant goat",
+            "subtasks": [
+                "Monitor pregnancy",
+                "Adjust behaviors for comfort",
+                "Address visitors' questions"
+            ]
+        },
+        {
+            "task": "Interacting with visitors",
+            "subtasks": [
+                "Engage with visitors",
+                "Teach proper animal handling",
+                "Answer questions about farm animals"
+            ]
+        },
+        {
+            "task": "Ensuring safety around animal enclosures",
+            "subtasks": [
+                "Warn against standing on quail cages"
             ]
         },
         {
             "task": "Feeding goats pumpkins",
             "subtasks": [
-                "Approach and interact with goats",
-                "Prepare pumpkin openings for goats",
-                "Allow goats to access pumpkins",
-                "Observe goats' excitement while eating",
-                "Manage physical discomfort during activity"
+                ""
             ]
         },
         {
-            "task": "Interacting with autumn quail",
+            "task": "Caring for pregnant goat",
             "subtasks": [
-                "Attentively check quail cages and areas",
-                "Ensure no hazard from standing on cages"
+                "",
+                "Answer questions about pregnancy"
             ]
         },
         {
-            "task": "Assisting with pumpkin feeding activities",
+            "task": "Visitor interaction",
             "subtasks": [
-                "Modify pumpkin holes for better access",
-                "Encourage sharing of pumpkins among animals"
+                ""
             ]
         },
         {
-            "task": "Managing pregnancy-related discomfort",
+            "task": "Ensuring safety",
             "subtasks": [
-                "Acknowledge physical changes during pregnancy",
-                "Track progress of pregnancy (weeks remaining)"
+                ""
             ]
         },
         {
-            "task": "Informing others about pregnancy developments",
+            "task": "Feeding pumpkins to goats",
             "subtasks": [
-                "Share ultrasound news and gender",
-                "Address family members' reactions to news"
+                "Open pumpkin",
+                "Create hole in pumpkin",
+                "Arrange feeding area"
             ]
         },
         {
-            "task": "Handling potential discomfort or complications",
+            "task": "Caring for pregnant goat",
             "subtasks": [
-                "Manage personal physical discomfort"
+                "Monitor health",
+                "Adjust activities for comfort"
             ]
         },
         {
-            "task": "Feeding goats pumpkins",
+            "task": "Interacting with visitors",
             "subtasks": [
-                "Approach and interact with goats",
-                "Prepare pumpkin openings for goats",
-                "Allow goats to access pumpkins",
-                "Observe goats' excitement while eating",
-                "Manage physical discomfort during activity"
+                "Engage and educate",
+                "Answer questions"
             ]
         },
         {
-            "task": "Interacting with autumn quail",
+            "task": "Ensuring safety",
             "subtasks": [
-                "Attentively check quail cages and areas",
-                "Ensure no hazard from standing on cages"
+                "Warn against standing on quail cages"
             ]
         },
         {
-            "task": "Assisting with pumpkin feeding activities",
-            "subtasks": [
-                "Modify pumpkin holes for better access",
-                "Encourage sharing of pumpkins among animals"
-            ]
+            "task": "The main answer should state that the video is relevant and then list the specific tasks (each as a MAINTASK with suitable subtasks). This is precisely what is done above.",
+            "subtasks": []
         },
         {
-            "task": "Managing pregnancy-related discomfort",
-            "subtasks": [
-                "Acknowledge physical changes during pregnancy",
-                "Track progress of pregnancy (weeks remaining)"
-            ]
+            "task": "Feeding Goats Pumpkin**",
+            "subtasks": []
         },
         {
-            "task": "Informing others about pregnancy developments",
-            "subtasks": [
-                "Share ultrasound news and gender",
-                "Address family members' reactions to news"
-            ]
+            "task": "Caring for Pregnant Goat**",
+            "subtasks": []
         },
         {
-            "task": "The transcript may include irrelevant content, but the MAINTASKs are focused on the main activities related to the farm.",
+            "task": "Engaging with Visitors**",
+            "subtasks": []
+        },
+        {
+            "task": "Ensuring Safety Around Enclosures**",
             "subtasks": []
         }
     ]

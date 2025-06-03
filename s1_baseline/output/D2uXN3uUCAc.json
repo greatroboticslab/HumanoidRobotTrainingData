@@ -5,129 +5,147 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Farmer adopting AI-powered crop monitoring",
+            "task": "Farming Technology Overview",
             "subtasks": [
-                "Reviewing satellite imagery",
-                "Monitoring soil health data",
-                "Tracking moisture levels",
-                "Detecting pest infestations",
-                "Receiving real-time alerts",
-                "Predicting optimal planting days",
-                "Identifying underperforming crop areas",
-                "Making data-driven irrigation schedule optimizations",
-                "Applying targeted pest control measures"
+                "Understanding AI-powered crop monitoring",
+                "Discussing Autonomous farming vehicles",
+                "Exploring Vertical farming systems",
+                "Analyzing Smart irrigation systems",
+                "Examining Blockchain in supply chain transparency",
+                "Predicting impact of these technologies on 2024 farming"
             ]
         },
         {
-            "task": "Implementing autonomous farming vehicles",
+            "task": "Setup and Maintenance of AI-Powered Crop Monitoring Systems",
             "subtasks": [
-                "Navigating fields with advanced GPS",
-                "Using machine learning for precision farming",
-                "Field operations without human intervention",
-                "Reducing labor costs",
-                "Minimizing soil compaction",
-                "Ensuring safe operations"
+                "Mounting sensors and cameras in the field",
+                "Configuring data analytics software",
+                "Calibrating sensors for accurate soil and moisture readings"
             ]
         },
         {
-            "task": "Setting up vertical farming systems",
+            "task": "Setup and Maintenance of AI-Powered Crop Monitoring Systems",
             "subtasks": [
-                "Utilizing hydroponic technology",
-                "Employing LED lighting",
-                "Growing crops indoors",
-                "Reducing water usage",
-                "Eliminating pesticide needs",
-                "Maximizing greens production",
-                "Utilizing vertical stacks",
-                "Integrating in urban and industrial spaces"
+                "Setting up satellite imagery and drone technology in fields",
+                "Installing ground sensors for real-time data collection",
+                "Configuring AI data analytics software for alerts",
+                "Regularly checking and cleaning field sensors"
             ]
         },
         {
-            "task": "Operating smart irrigation systems",
+            "task": "Operation and Maintenance of Autonomous Farming Vehicles",
             "subtasks": [
-                "Integrating weather forecasts",
-                "Using soil moisture sensors",
-                "Real-time monitoring of crops",
-                "Automatically adjusting water delivery",
-                "Preventing under- and over-watering",
-                "Reducing water usage by up to 50%",
-                "Conserving energy",
-                "Minimizing nutrient runoff"
+                "Setting up GPS markers and ground-truthing fields",
+                "Programming tractors and harvesters for autonomous operation",
+                "Maintenance of autonomous vehicle hardware and software"
             ]
         },
         {
-            "task": "Applying blockchain in agricultural supply chains",
+            "task": "Installation and Management of Vertical Farming Systems",
             "subtasks": [
-                "Providing transparent ledgers",
-                "Preventing supply chain fraud",
-                "Enhancing food traceability",
-                "Building consumer trust",
-                "Tracking products from farm to market",
-                "Implementing fair trade practices",
-                "Improving supply chain efficiency"
+                "Building vertical farming structures such as racks and hydroponic systems",
+                "Configuring LED lighting schedules and intensity",
+                "Managing indoor environmental controls (temperature, humidity)",
+                "Regularly checking and adjusting water and nutrient delivery"
             ]
         },
         {
-            "task": "MAINTASK: Farmer adopting AI-powered crop monitoring",
+            "task": "Setup and Calibration of Smart Irrigation Systems",
             "subtasks": [
-                "Reviewing satellite imagery",
-                "Monitoring soil health data",
-                "Tracking moisture levels",
-                "Detecting pest infestations",
-                "Receiving real-time alerts",
-                "Predicting optimal planting days",
-                "Identifying underperforming crop areas",
-                "Making data-driven irrigation schedule optimizations",
-                "Applying targeted pest control measures"
+                "Installing soil moisture sensors throughout fields",
+                "Configuring smart irrigation controllers with weather data",
+                "Regularly calibrating soil sensors for accuracy"
             ]
         },
         {
-            "task": "Implementing autonomous farming vehicles",
+            "task": "Data Management Using Blockchain Technology",
             "subtasks": [
-                "Navigating fields with advanced GPS",
-                "Using machine learning for precision farming",
-                "Field operations without human intervention",
-                "Reducing labor costs",
-                "Minimizing soil compaction",
-                "Ensuring safe operations"
+                "Inputting farm data into a blockchain system",
+                "Verifying logs and entries related to farm operations"
             ]
         },
         {
-            "task": "Setting up vertical farming systems",
+            "task": "Data Tracking and Record-Keeping.",
+            "subtasks": []
+        },
+        {
+            "task": "if a farmer has to perform data entry on a computer or mobile device, that is a physical task. So under MAINTASK: Blockchain for Supply Chain Transparency, the subtask could be \"Enter farm data into the blockchain system\". But since data entry is minimal, and more about tracking, perhaps it's not a significant physical task. The video mentions blockchain ensuring transparency but might not require active farmer participation. Therefore, maybe excluding that task.",
+            "subtasks": []
+        },
+        {
+            "task": "Setup and Maintenance of AI-Powered Crop Monitoring Systems",
             "subtasks": [
-                "Utilizing hydroponic technology",
-                "Employing LED lighting",
-                "Growing crops indoors",
-                "Reducing water usage",
-                "Eliminating pesticide needs",
-                "Maximizing greens production",
-                "Utilizing vertical stacks",
-                "Integrating in urban and industrial spaces"
+                "Mounting cameras and drones in fields",
+                "Configuring software for real-time data analysis",
+                "Calibrating ground sensors for accurate readings"
             ]
         },
         {
-            "task": "Operating smart irrigation systems",
+            "task": "Operation and Maintenance of Autonomous Farming Vehicles",
             "subtasks": [
-                "Integrating weather forecasts",
-                "Using soil moisture sensors",
-                "Real-time monitoring of crops",
-                "Automatically adjusting water delivery",
-                "Preventing under- and over-watering",
-                "Reducing water usage by up to 50%",
-                "Conserving energy",
-                "Minimizing nutrient runoff"
+                "Installing GPS markers in fields",
+                "Programming autonomous tractors for operation",
+                "Daily checks and maintenance of farming vehicles"
             ]
         },
         {
-            "task": "Applying blockchain in agricultural supply chains",
+            "task": "Installation and Management of Vertical Farming Systems",
             "subtasks": [
-                "Providing transparent ledgers",
-                "Preventing supply chain fraud",
-                "Enhancing food traceability",
-                "Building consumer trust",
-                "Tracking products from farm to market",
-                "Implementing fair trade practices",
-                "Improving supply chain efficiency"
+                "Building hydroponic grow racks within a structure",
+                "Adjusting LED lighting schedules",
+                "Monitoring environmental controls like temperature and humidity"
+            ]
+        },
+        {
+            "task": "Setup and Calibration of Smart Irrigation Systems",
+            "subtasks": [
+                "Installing soil moisture sensors in fields",
+                "Configuring systems with weather data",
+                "Regularly testing and calibrating soil sensors",
+                "Mounting cameras and drones in fields \u2014 covers physical placement of devices.",
+                "Configuring software for real-time data analysis \u2014 might be considered part of setup. However, since the task is ongoing (as data needs to be continuously analyzed), maybe it's a separate subtask."
+            ]
+        },
+        {
+            "task": "Farming Technology Overview",
+            "subtasks": [
+                "Understanding AI-powered crop monitoring",
+                "Discussing Autonomous farming vehicles",
+                "Exploring Vertical farming systems",
+                "Analyzing Smart irrigation systems",
+                "Examining Blockchain for supply chain transparency"
+            ]
+        },
+        {
+            "task": "Setup and Maintenance of AI-Powered Crop Monitoring Systems**",
+            "subtasks": [
+                "Mounting cameras and drones in fields",
+                "Configuring data analytics software",
+                "Calibrating ground sensors for accurate readings"
+            ]
+        },
+        {
+            "task": "Operation and Maintenance of Autonomous Farming Vehicles**",
+            "subtasks": [
+                "Installing GPS markers in fields",
+                "Programming tractors for autonomous operation",
+                "Daily vehicle checks and maintenance"
+            ]
+        },
+        {
+            "task": "Installation and Management of Vertical Farming Systems**",
+            "subtasks": [
+                "Building hydroponic grow racks within a structure",
+                "Adjusting LED lighting schedules",
+                "Monitoring environmental controls (temperature, humidity)"
+            ]
+        },
+        {
+            "task": "Setup and Calibration of Smart Irrigation Systems**",
+            "subtasks": [
+                "Installing soil moisture sensors in fields",
+                "Configuring systems with weather data",
+                "Regularly testing and calibrating soil sensors"
             ]
         }
     ]

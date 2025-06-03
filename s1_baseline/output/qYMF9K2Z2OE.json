@@ -5,21 +5,107 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Purchasing land for a homestead",
+            "task": "Locate and evaluate land for homesteading.",
             "subtasks": [
-                "Research location (growing zone, climate considerations)",
-                "Evaluate local resources and community (access to feed, agricultural support)",
-                "Assess property condition (soil test, water source, potential infrastructure issues)",
-                "Consider topography and potential challenges (rocky terrain, drainage)"
+                "Research growing zones suitable for year-round gardening.",
+                "Consider proximity to family versus solitude.",
+                "Assess local resources and infrastructure (e.g., feed stores, compost suppliers, well water).",
+                "Evaluate community support from agricultural extensions or similar organizations.",
+                "Conduct soil tests to ensure fertility."
             ]
         },
         {
-            "task": "Finalizing the purchase after evaluation",
+            "task": "Assess property condition.",
             "subtasks": [
-                "Verify soil test results and understand implications",
-                "Confirm infrastructure setup (well water, electrical hooks)",
-                "Confirm amenities and community support (ag extensions, feed stores)",
-                "(This might not count as tasks but for context) LT: https://www.youtube.com/watch?v=C_wRXr5ay9Q"
+                "Check soil composition and tilth.",
+                "Inquire about water sources (e.g., wells) and quality.",
+                "Examine topography and drainage.",
+                "Identify potential challenges like rocky soil or uneven terrain."
+            ]
+        },
+        {
+            "task": "Conduct a meeting on educational reform and development.",
+            "subtasks": [
+                "Introduce the main theme: promoting grassroots education reform and development.",
+                "Elaborate on key aspects Maitimate to the theme, such as curriculum updates, teacher training, technology integration, student engagement, and community involvement.",
+                "Present case studies or successful practices from other regions or countries.",
+                "Facilitate group discussions on current challenges and potential solutions in grassroots education.",
+                "Encourage participation from all attendees, including teachers, administrators, and community representatives.",
+                "Summarize key points discussed and agree on action steps for implementing reform initiatives.",
+                "Research land in a suitable growing zone.",
+                "Determine desired climate zone for gardening.",
+                "Check USDA growing zones for potential properties.",
+                "Assess local amenities and supplies needed for homesteading.",
+                "Visit feed stores and check for availability of necessary supplies.",
+                "Investigate proximity to farms or agricultural resources.",
+                "Check for local compost or mulch providers.",
+                "Evaluate availability of agricultural extension services or similar.",
+                "Contact local agricultural extension offices for resources.",
+                "Investigate nearby universities with agricultural programs.",
+                "Request a soil test on the property.",
+                "Hire a professional soil testing service.",
+                "Interpret test results for necessary amendments.",
+                "Inspect the land for existing structures and infrastructure.",
+                "Check for current fencing or barns.",
+                "Assess water sources (wells, creeks) and ensure availability.",
+                "Evaluate soil drainage and topography of the land.",
+                "Check for potential flooding areas.",
+                "Plan garden and farm layouts considering natural slopes.",
+                "Assess natural obstacles like large rocks or boulders.",
+                "Map locations of large stones and plan around them.",
+                "Determine whether dynamite might be needed (they mention needing dynamite for extra-large rocks, though that might be a future task).",
+                "Plan landscaping to manage existing rocks in the property."
+            ]
+        },
+        {
+            "task": "Purchase land for homesteading.",
+            "subtasks": [
+                "for the main task, then list subtasks as SUBTASK:. Alternatively, should MAINTASK: be used only for higher-level tasks and nested subtasks underneath? Let's see.",
+                "and then subsequent SUBTASK:"
+            ]
+        },
+        {
+            "task": "Purchase land for homesteading.",
+            "subtasks": [
+                "Research land in a suitable growing zone by determining desired climate zone and checking USDA zones.",
+                "Assess local amenities and supplies needed for homesteading, including visiting feed stores and checking crop suppliers.",
+                "Investigate local resources for agricultural support, such as contacting extension services or nearby universities.",
+                "Obtain a professional soil test to check for fertility and necessary amendments.",
+                "Inspect the property for existing structures, water sources, and assess topography and natural obstacles (like rocks and slopes).",
+                "Evaluate proximity to essential resources and services, such as feed stores, compost suppliers, and agricultural extensions.",
+                "Determine personal preferences regarding water sources (e.g., well vs. city water)."
+            ]
+        },
+        {
+            "task": "Purchase land for homesteading.",
+            "subtasks": [
+                "Research land in a suitable growing zone by determining desired climate zone and checking USDA zones.",
+                "Assess local amenities and supplies needed for homesteading, including visiting feed stores, compost suppliers, and determining personal water source preferences.",
+                "Investigate local resources for agricultural support, such as contacting extension services or nearby universities.",
+                "Obtain a professional soil test to check for fertility and necessary amendments.",
+                "Inspect the property for existing structures, water sources, and assess topography and natural obstacles (like rocks and slopes).",
+                "Evaluate proximity to essential resources and services, considering commute times and neighborliness.",
+                "Conduct a personal inspection of the land to assess soil appearance, drainage, and general fertility."
+            ]
+        },
+        {
+            "task": "Purchase land for homesteading.",
+            "subtasks": []
+        },
+        {
+            "task": "Each bullet corresponds to a crucial step discussed in the video. If in doubt, I might keep it as one MAINTASK with multiple subtasks since purchasing land for homesteading is the overarching goal. It's a high-level task with several necessary components. Each of these subtasks is a smaller step involved in the overall process.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Purchase land for homesteading.",
+            "subtasks": [
+                "Research land in a suitable growing zone.",
+                "Assess local amenities and supplies needed for homesteading.",
+                "Investigate local resources for agricultural support.",
+                "Obtain a professional soil test.",
+                "Inspect the property for existing structures and natural features.",
+                "Evaluate proximity to essential resources and services.",
+                "Determine personal water source preference."
             ]
         }
     ]

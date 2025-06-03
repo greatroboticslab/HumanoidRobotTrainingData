@@ -5,51 +5,142 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Performing combine harvester maintenance before the harvest season.",
+            "task": "Performing combine harvester maintenance before, during, and after harvest season.",
             "subtasks": [
-                "Check engine oil and coolant levels.",
-                "Examine belts and chains for proper tension and wear.",
-                "Inspect the cutting platform, including knives and guards.",
-                "Check the threshing mechanism and cleaning shoe.",
-                "Clean out debris from the previous season.",
-                "Test all lights and safety equipment."
+                "Inspecting engine oil and coolant levels.",
+                "Checking belt and chain tension and wear.",
+                "Examining cutting platform, including knives and guards.",
+                "Inspecting threshing mechanism and cleaning shoe.",
+                "Cleaning out debris from previous season.",
+                "Testing lights and safety equipment.",
+                "Greasing all fittings as per manufacturer's recommendations.",
+                "Checking fluid levels daily (engine oil, hydraulic oil, coolant).",
+                "Inspecting belts and chains for tension and wear.",
+                "Cleaning radiator and cooling components.",
+                "Emptying rock trap.",
+                "Checking tire pressure.",
+                "Cleaning grain tank and unloading auger.",
+                "Cleaning crop residue from machine at day's end.",
+                "Checking for loose or missing bolts.",
+                "Inspecting header for damage or wear.",
+                "Checking for oil leaks and addressing them.",
+                "Thoroughly cleaning combine after harvest.",
+                "Removing crop residue to prevent rust and rodent damage.",
+                "Changing all fluids and filters.",
+                "Lubricating necessary points.",
+                "Touching up paint to prevent rust.",
+                "Storing combine in a dry, covered area if possible, or covering with a tarp.",
+                "Troubleshooting common issues such as uneven cutting, inconsistent threshing, grain loss, engine problems, and hydraulic issues."
             ]
         },
         {
-            "task": "Conduct daily combine harvester maintenance during the harvest season.",
+            "task": "Contacting a professional if unsure about maintenance tasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Sharing combine maintenance tips in comments.",
+            "subtasks": []
+        },
+        {
+            "task": "Conducting pre-harvest inspecton and setup for combine harvester.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Checking and preparing the combine's electrical system [though mentioned briefly, perhaps under lights and safety equipment].",
+            "subtasks": []
+        },
+        {
+            "task": "Pre-Harvest Inspection and Setup",
             "subtasks": [
-                "Grease all fittings as per the manufacturer's recommendations.",
-                "Check fluid levels including engine oil, hydraulic oil, and coolant.",
-                "Inspect belts and chains for proper tension.",
-                "Clean the radiator and other cooling components.",
-                "Empty the rock trap.",
-                "Check tire pressure and adjust.",
-                "Clean the grain tank and unloading auger."
+                "Check engine oil level",
+                "Check coolant level",
+                "Inspect belts and chains",
+                "Examine cutting platform",
+                "Inspect threshing mechanism and cleaning shoe",
+                "Test lights and safety equipment"
             ]
         },
         {
-            "task": "Perform post-harvest care for the combine harvester.",
+            "task": "Daily Maintenance During Harvest",
             "subtasks": [
-                "Clean crop residue from the machine.",
-                "Check for loose or missing bolts.",
-                "Inspect the header for damage or wear.",
-                "Look for oil leaks and address them.",
-                "Give the combine a thorough cleaning.",
-                "Remove all crop residue.",
-                "Change all fluids and filters.",
-                "Lubricate necessary points.",
-                "Touch up paint to prevent rust."
+                "Grease fittings as per manufacturer's recommendations",
+                "Check fluid levels (engine oil, hydraulic oil, coolant)",
+                "Inspect belts and chains",
+                "Clean radiator and cooling components",
+                "Empty rock trap if equipped",
+                "Check tire pressure and adjust if necessary",
+                "Clean grain tank and unloading auger",
+                "Clean residue from machine at end of day",
+                "Check bolts and nuts for looseness",
+                "Inspect header for damage or wear",
+                "Check for oil leaks and address them"
             ]
         },
         {
-            "task": "Troubleshooting common issues with the combine harvester.",
+            "task": "Post-Harvest Care and Storage",
             "subtasks": [
-                "Check sickle sections and guards for uneven cutting.",
-                "Adjust concave clearance and rotor speed for inconsistent threshing.",
-                "Inspect sieves and adjust fan speed for grain loss.",
-                "Check fuel filters and lines for contamination if experiencing engine problems.",
-                "Look for leaks and check fluid levels for hydraulic issues."
+                "Thoroughly clean combine harvester",
+                "Remove all crop residue to prevent rust and rodent damage",
+                "Change all fluids and filters as per manufacturer's recommendations",
+                "Lubricate all necessary parts",
+                "Touch up paint to prevent rust",
+                "Store combine in a dry, covered area if possible",
+                "Use a tarp to protect combine from elements if stored outside"
             ]
+        },
+        {
+            "task": "Troubleshooting Common Combine Problems",
+            "subtasks": [
+                "Check sickle sections and guards for uneven cutting",
+                "Adjust concave clearance and rotor speed for inconsistent threshing",
+                "Inspect sieves and adjust fan speed for grain loss",
+                "Check fuel filters and lines for engine issues",
+                "Inspect hydraulic components for leaks and adjust fluid levels"
+            ]
+        },
+        {
+            "task": "MAINTASK: Contact professional for assistance with unclear maintenance tasks.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Seek professional help for unclear maintenance steps. Or perhaps it's embedded in the tasks. For example, if someone is unsure about adjusting the concave, they may need to consult a professional. So maybe it's part of the troubleshooting task.",
+            "subtasks": []
+        },
+        {
+            "task": "Pre-harvest inspection and setup",
+            "subtasks": []
+        },
+        {
+            "task": "Daily combine maintenance during harvest. Subtasks:",
+            "subtasks": []
+        },
+        {
+            "task": "Cleaning and storing combine after harvest. Subtasks:",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Contact professional for maintenance assistance.",
+            "subtasks": []
+        },
+        {
+            "task": "Performing combine harvester maintenance before, during, and after harvest season.",
+            "subtasks": []
+        },
+        {
+            "task": "Troubleshooting common combine issues after harvest",
+            "subtasks": []
+        },
+        {
+            "task": "Preparing and maintaining a combine harvester for optimal performance through regular inspection and care.",
+            "subtasks": []
+        },
+        {
+            "task": "Conducting combine harvester maintenance involves thorough pre-harvest setup, daily operation checks, post-harvest care, and troubleshooting common issues. Each phase requires specific physical tasks such as checking fluid levels, inspecting belts, cleaning components, changing filters, and addressing machine issues.",
+            "subtasks": []
+        },
+        {
+            "task": "Performing combine harvester maintenance involves multiple steps before, during, and after the harvest season. Key tasks include:",
+            "subtasks": []
         }
     ]
 }

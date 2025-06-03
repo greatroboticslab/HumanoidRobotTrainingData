@@ -5,72 +5,105 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Prepare for Mabon celebration",
+            "task": "Performing bread making rituals",
             "subtasks": [
-                "Research Mabon traditions and symbolism",
-                "Collect natural materials for corn dollies",
-                "Learn techniques for crafting corn dollies",
-                "Participate in bread-making rituals, using seasonal grains",
-                "Decorate space with corn dollies and other symbols",
-                "Hold thanksgiving prayers or rituals during Mabon celebration"
+                "Gathering ingredients (flour, water, yeast)",
+                "Mixing ingredients to create dough",
+                "Kneading dough on a clean surface",
+                "Shaping dough into desired bread form",
+                "Painting bread with egg wash",
+                "Placing bread in an oven to bake",
+                "Cooling bread to allow it to set"
             ]
         },
         {
-            "task": "Create corn dolly",
+            "task": "Crafting corn dollies",
             "subtasks": [
-                "Gather stalks of corn or other suitable grain",
-                "Scour grain from the stalks",
-                "Dry the grain thoroughly",
-                "Braiding or weaving the grain into a doll shape",
-                "Add decorations or symbolic elements to the corn dolly"
+                "Collecting ears of corn at the proper ripeness",
+                "Removing kernels from the cob",
+                "Straightening and arranging corn strands",
+                "Braiding corn strands to form the dolly",
+                "Adorning corn dolly with natural materials (leaves, etc.)",
+                "Displaying corn dolly as a symbol of grain spirit"
             ]
         },
         {
-            "task": "Bake bread as part of Mabon",
+            "task": "Observing the autumn equinox (Mabon)",
             "subtasks": [
-                "Select seasonal grains for the bread",
-                "Mill the grains into flour if necessary",
-                "Prepare dough using traditional methods",
-                "Let dough rise in a warm place",
-                "Shape the dough into loaves or other forms",
-                "Decorate the bread with grains or symbols",
-                "Bake the bread to the appropriate consistency",
-                "Cool and display the bread for the celebration"
+                "Researching Mabon traditions and meanings",
+                "Identifying symbols associated with Mabon",
+                "Commemorating balance and thanksgiving through rituals",
+                "Sharing knowledge of Mabon with others (community gatherings)"
             ]
         },
         {
-            "task": "MAINTASK: Prepare for Mabon celebration",
+            "task": "Bread making as a ritual practice for Mabon. Subtasks all related to building the bread, from start to finish. MAINTASK: Crafting corn dollies for Mabon rituals, with steps for gathering materials, making the dolly, and displaying it.",
+            "subtasks": []
+        },
+        {
+            "task": "Performing bread making rituals",
             "subtasks": [
-                "Research Mabon traditions and symbolism",
-                "Collect natural materials for corn dollies",
-                "Learn techniques for crafting corn dollies",
-                "Participate in bread-making rituals, using seasonal grains",
-                "Decorate space with corn dollies and other symbols",
-                "Hold thanksgiving prayers or rituals during Mabon celebration"
+                "Gather ingredients (flour, water, yeast)",
+                "Mix ingredients to create dough",
+                "Knead dough on a clean surface",
+                "Shape dough into desired bread form",
+                "Paint bread with egg wash",
+                "Place bread in an oven to bake",
+                "Cool bread to allow it to set"
             ]
         },
         {
-            "task": "Create corn dolly",
+            "task": "Crafting corn dollies",
             "subtasks": [
-                "Gather stalks of corn or other suitable grain",
-                "Scour grain from the stalks",
-                "Dry the grain thoroughly",
-                "Braiding or weaving the grain into a doll shape",
-                "Add decorations or symbolic elements to the corn dolly"
+                "Collect ears of corn at the proper ripeness",
+                "Remove kernels from the cob",
+                "Straighten and arrange corn strands",
+                "Braid corn strands to form the dolly",
+                "Adorn dolly with natural materials (leaves, etc.)",
+                "Display corn dolly as a symbol of grain spirit"
             ]
         },
         {
-            "task": "Bake bread as part of Mabon",
+            "task": "Observing the autumn equinox (Mabon)",
             "subtasks": [
-                "Select seasonal grains for the bread",
-                "Mill the grains into flour if necessary",
-                "Prepare dough using traditional methods",
-                "Let dough rise in a warm place",
-                "Shape the dough into loaves or other forms",
-                "Decorate the bread with grains or symbols",
-                "Bake the bread to the appropriate consistency",
-                "Cool and display the bread for the celebration"
+                "Research Mabon traditions and meanings",
+                "Identify symbols associated with Mabon",
+                "Commemorate balance and thanksgiving through rituals",
+                "Share knowledge of Mabon with others (community gatherings)"
             ]
+        },
+        {
+            "task": "_OBSERVING_MABON_, maybe include subtasks like socializing with other celebrants, but given that those aren't explicit in the transcript... unless the requirement is to base the tasks directly on the given transcript. The transcript states that \"crafting corn dollies is another common practice\", and many incorporate bread making. So I think the tasks under observing Mabon can be the rituals, which might involve making corn dolls and bread.",
+            "subtasks": [
+                "Hence, the SUBTASKs under Observing Mabon would be those related to the rituals performed, which presumably include making and using both the bread and corn dolls. Therefore, the MAINTASK and SUBTASKs as I listed should suffice."
+            ]
+        },
+        {
+            "task": "Performing bread making rituals",
+            "subtasks": [
+                "Gather ingredients (flour, water, yeast)",
+                "Mix ingredients to create dough",
+                "Knead dough on a clean surface",
+                "Shape dough into desired bread form",
+                "Paint bread with egg wash",
+                "Place bread in an oven to bake",
+                "Cool bread to allow it to set"
+            ]
+        },
+        {
+            "task": "Crafting corn dollies",
+            "subtasks": [
+                "Collect ears of corn at the proper ripeness",
+                "Remove kernels from the cob",
+                "Straighten and arrange corn strands",
+                "Braid corn strands to form the dolly",
+                "Adorn dolly with natural materials (leaves, etc.)",
+                "Display corn dolly as a symbol of grain spirit"
+            ]
+        },
+        {
+            "task": "Observing the autumn equinox (Mabon)",
+            "subtasks": []
         }
     ]
 }

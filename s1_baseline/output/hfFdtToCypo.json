@@ -5,48 +5,32 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Collecting and analyzing hay samples for nutritional assessment",
+            "task": "Collecting hay samples and having them analyzed.",
             "subtasks": [
-                "Determine the need for forage analysis",
-                "Gather necessary equipment for sampling",
-                "Collect hay samples using a forage probe",
-                "Insert probe at appropriate angles (90 degree angle for round bales, center for square bales)",
-                "Remove probe and empty into mixing bucket",
-                "Mix collected samples thoroughly",
-                "Take a sub-sample into a labeled bag",
-                "Complete an analysis form and submit with sample to a certified laboratory",
-                "Wait for test results within a two to three week period",
-                "Use the nutritional report to plan feed resources and supplementation",
-                "Consult with local extension agents for assistance"
+                "Obtain a forage probe.",
+                "Operate the forage probe with an electric drill.",
+                "Collect samples from each lot of forage.",
+                "Insert probe into the hay bale at a 90 degree angle.",
+                "For round bales, sample the curved side towards the center.",
+                "For square bales, sample the end of the bale in the center.",
+                "Empty the probe into a mixing bucket after each bale.",
+                "Mix the collected samples thoroughly in the bucket.",
+                "Take a sub sample from the mixed bucket, fill it at least half with the mixture.",
+                "Place the sub sample into a one quart plastic bag.",
+                "Label each collected sample properly.",
+                "Obtain an analysis form from a local source.",
+                "Submit both the sample and analysis form to a certified forage testing laboratory.",
+                "Wait for the test results, allowing time for the analysis."
             ]
         },
         {
-            "task": "Submitting hay samples for testing",
-            "subtasks": [
-                "Obtain a forage probe from the county extension office",
-                "Operate the forage probe using an electric drill",
-                "Sample multiple bales within each hay lot",
-                "Properly label the sample bag with relevant information",
-                "Accurately fill the sample bag to at least half full"
-            ]
+            "task": "Use the test results to create a supplementation plan for livestock.",
+            "subtasks": []
         },
         {
-            "task": "Ensuring accuracy in sample collection",
+            "task": "MAINTASK: Collect hay samples and get them analyzed.",
             "subtasks": [
-                "Define a hay lot (same harvest, field, conditions)",
-                "Collect 15-20 core samples from each bale within a lot",
-                "For round bales, sample the curved side towards the center",
-                "For square bales, insert into the center of the end",
-                "Correctly detach the probe and avoid cross-contamination"
-            ]
-        },
-        {
-            "task": "Understanding the process for feed resource decision-making",
-            "subtasks": [
-                "Recognize the purpose of forage analysis in livestock nutrition",
-                "Interpret the nutritional value report from the lab",
-                "Develop a supplementation plan based on test results",
-                "Utilize management practices to optimize feed efficiency"
+                ""
             ]
         }
     ]

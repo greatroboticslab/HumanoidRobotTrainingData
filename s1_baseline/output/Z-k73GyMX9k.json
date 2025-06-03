@@ -5,68 +5,122 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Growing Sriracha peppers",
+            "task": "Planting and caring for Sriracha pepper plants",
             "subtasks": [
-                "Starting seeds indoors",
-                "Germinating seeds in a warm environment",
-                "Transplanting seedlings when outdoor temperatures are consistently above 60\u00b0F",
-                "Planting outside in full sun (6-8 hours per day)",
-                "Maintaining proper soil conditions (well-draining, rich in organic matter, pH 6.0-6.8)",
-                "Watering regularly to keep soil moist but not waterlogged",
-                "Applying mulch around base of plants for moisture retention and root cooling",
-                "Companion planting with basil, carrots, onions, and tomatoes",
-                "Avoiding fennel near pepper plants",
-                "Caring for container-grown plants",
-                "Pest management (monitoring for aphids and spider mites, using organic controls)",
-                "Harvesting peppers for use in sauces, stir-fries, pickling, drying, or flavoring",
-                "Appreciating health benefits (capsaicin, vitamins A and C)"
+                "Following the correct timing and method for starting pepper seeds indoors",
+                "Ensuring the right temperature for seed germination",
+                "Transplanting seedlings once outdoor conditions are favorable",
+                "Proper spacing between plants in the garden",
+                "Watering the plants regularly and maintaining appropriate soil moisture",
+                "Applying mulch around the base of plants",
+                "Choosing companion plants to enhance growth and deter pests",
+                "Monitoring for pests and using appropriate organic controls",
+                "Protecting plants from frost and extending the growing season"
             ]
         },
         {
-            "task": "Creating Sriracha sauce",
+            "task": "Growing Sriracha peppers from seed to harvest",
             "subtasks": [
-                "Collecting mature Sriracha peppers",
-                "Drying peppers for sauce production",
-                "Processing dried peppers (grinding, mixing with vinegar, etc.)",
-                "Adjusting heat and flavor for desired sauce characteristics",
-                "Bottling and storing sauce"
+                "Identifying suitable growing conditions for Sriracha peppers",
+                "Providing full sun and sufficient sunlight exposure",
+                "Preparing soil with proper drainage, organic matter, and pH levels",
+                "Managing soil pH",
+                "Fertilizing plants as needed",
+                "Pruning or training plants for better yield",
+                "Harvesting mature peppers at the right time"
             ]
         },
         {
-            "task": "Growing Sriracha peppers",
+            "task": "Using Sriracha peppers in various culinary applications",
+            "subtasks": [
+                "Incorporating peppers into stir-fries, marinades, and sauces",
+                "Preservation methods such as pickling or drying",
+                "Understanding flavor profiles and heat levels for varied use",
+                "Utilizing the health benefits of Sriracha peppers in cooking",
+                "Sharing knowledge about growing and using Sriracha peppers through social media."
+            ]
+        },
+        {
+            "task": "how they're grown, how to grow them, their uses. So the main tasks would be planting, growing, and using the peppers. Let me break it down. First, there's a bunch of tasks related to planting and caring for the plants. That would be one main task. Then, once they're grown, there's using them in cooking. Hmm. So I should list the planting and care tasks under one maintask, then harvesting and cooking under another. Let me check: the transcript mentions starting seeds indoors, which is planting, then taking care of them until they're mature. Then harvesting and using them. So two maintasks? Or combine them? Think: Each main task should represent a general category. Starting seeds and transplanting are part of initial setup and ongoing care. Maybe combine them under \"Growing Sriracha Pepper Plants\"? Then the culinary uses are another main task. That seems right. So MAINTASK: Planting and caring for Sriracha pepper plants (with subtasks like starting seeds, transplanting, watering, etc.) Then MAINTASK: Using Sriracha peppers in the kitchen (subtasks like stir-fries, sauces, pickling). Also, the transcript mentions that they're easy to grow but need the right conditions. So part of \"caring\" would be ensuring proper conditions, like sun and soil. Probably good. Additionally, there's a bit about pest resistance and companion planting. Maybe those are subtasks under care? Yeah, because pest management and companion planting are part of maintaining plant health. Okay, so that gives me tasks for planting, ongoing care including pest control, and then harvesting and using. Let's tally that.",
             "subtasks": []
         },
         {
-            "task": "Creating Sriracha sauce (optional)",
+            "task": "one for growing and caring (with subtasks like planting, pest management, watering), and one for culinary uses (harvesting and using in recipes). Maybe also mention that starting seeds is part of growing. So MAINTASK: Planting and caring for Sriracha pepper plants: then could have subtasks like starting seeds in trays, transplanting to garden, spacing plants, mulching, regular watering, companion planting, pest control, harvest timing. Then MAINTASK: Using Sriracha peppers in cooking: subtasks like harvesting, preparing for different uses (sauces, stir-fries, pickling, etc.), and preserving. Then I also need to check if the transcript mentions fertilizer, but it doesn't. It's more about soil conditions and perhaps regular watering, which isn't fertilizing. But under \"Watering\" could imply fertilizing is part of it? Wait, but the transcript doesn't specify. It just says to keep the soil moist. So you would water regularly, which might involve fertilizers, but the transcript isn't specific. So maybe I shouldn't include fertilizing as a separate task here. For the purposes of this exercise, we have to create tasks based purely on the transcript's information. Since the transcript doesn\u2019t mention fertilizing, we can skip it. If in reality, you would need to fertilize, but it's not part of the given information, so we shouldn't include it.",
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Growing Sriracha peppers",
+            "task": "Planting and initial care (planting seeds, transplanting, spacing, mulching, watering) Then MAINTASK: Ongoing care and use (pest control, harvesting, cooking).",
+            "subtasks": []
+        },
+        {
+            "task": "Planting and caring for Sriracha pepper plants",
+            "subtasks": []
+        },
+        {
+            "task": "Using Sriracha peppers in the kitchen",
+            "subtasks": []
+        },
+        {
+            "task": "Planting and caring for Sriracha pepper plants",
             "subtasks": [
-                "Starting seeds indoors",
-                "Germinating seeds in a warm environment",
-                "Transplanting seedlings when outdoor temperatures are consistently above 60\u00b0F",
-                "Planting outside in full sun (6-8 hours per day)",
-                "Maintaining proper soil conditions (well-draining, rich in organic matter, pH 6.0-6.8)",
-                "Watering regularly to keep soil moist but not waterlogged",
-                "Applying mulch around base of plants for moisture retention and root cooling",
-                "Companion planting with basil, carrots, onions, and tomatoes",
-                "Avoiding fennel near pepper plants",
-                "Caring for container-grown plants",
-                "Pest management (monitoring for aphids and spider mites, using organic controls)",
-                "Harvesting peppers for use in sauces, stir-fries, pickling, drying, or flavoring",
-                "Appreciating health benefits (capsaicin, vitamins A and C)"
+                "Starting pepper seeds indoors 8-10 weeks before the last frost date.",
+                "Planting the seeds in seed trays with warm (70-80 degrees F) environment for germination.",
+                "Transplanting seedlings into the garden when outdoor temperatures are consistently above 60 degrees F and the seedlings are strong.",
+                "Spacing plants 18-24 inches apart in the garden bed.",
+                "Appying mulch around the base of the plants to retain moisture and cool roots.",
+                "Watering the plants regularly, keeping soil moist but not waterlogged.",
+                "Observing for pest infestations and using neem oil as a control method.",
+                "Monitoring companion plants for pest deterrence and adjust plant relationships as needed."
             ]
         },
         {
-            "task": "Creating Sriracha sauce",
+            "task": "Using Sriracha peppers in the kitchen",
             "subtasks": [
-                "Collecting mature Sriracha peppers",
-                "Drying peppers for sauce production",
-                "Processing dried peppers (grinding, mixing with vinegar, etc.)",
-                "Adjusting heat and flavor for desired sauce characteristics",
-                "Bottling and storing sauce"
+                "Harvesting peppers when mature (after 5-6 inches in length).",
+                "Using peppers in stir-fries, marinades, and sauces.",
+                "Pickling peppers for long-term storage.",
+                "Drying peppers to make chili flakes.",
+                "Experimenting with different applications to utilize the versatile flavor profile."
             ]
+        },
+        {
+            "task": "Planting and caring for Sriracha pepper plants.",
+            "subtasks": []
+        },
+        {
+            "task": "Using Sriracha peppers in cooking.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting and caring for Sriracha pepper plants",
+            "subtasks": [
+                "Starting pepper seeds indoors 8-10 weeks before the last frost date",
+                "Planting the seeds in a warm environment (70-80 degrees F) for germination",
+                "Transplanting seedlings into the garden when outdoor temperatures are consistently above 60 degrees Fahrenheit",
+                "Spacing plants 18-24 inches apart in the garden bed",
+                "Applying mulch around the base of the plants",
+                "Watering the plants regularly, keeping the soil moist but not waterlogged",
+                "Observing for pests like aphids and spider mites and using neem oil as a control method",
+                "Considering companion plants such as basil, carrots, onions, and tomatoes for pest deterrence and flavor enhancement"
+            ]
+        },
+        {
+            "task": "Using Sriracha peppers in the kitchen",
+            "subtasks": [
+                "Harvesting mature peppers when they are 5-6 inches in length",
+                "Using peppers in stir-fries, marinades, and sauces",
+                "Pickling peppers for long-term storage",
+                "Drying peppers to make chili flakes",
+                "Experimenting with different uses to maximize flavor and heat"
+            ]
+        },
+        {
+            "task": "Planting and caring for Sriracha pepper plants**",
+            "subtasks": []
+        },
+        {
+            "task": "Using Sriracha peppers in the kitchen**",
+            "subtasks": []
         }
     ]
 }

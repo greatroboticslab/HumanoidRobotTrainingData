@@ -7,16 +7,19 @@
         {
             "task": "Rice Transplanting",
             "subtasks": [
-                "Choose appropriate timing for transplanting",
-                "Prepare the nursery bed",
-                "Sow rice seeds in nursery bed",
-                "Care for seedlings in nursery bed",
-                "Prepare the main field",
-                "Transplant rice seedlings to main field using proper techniques",
-                "Manage water levels in the main field",
-                "Apply nutrients to the rice plants",
-                "Monitor and protect rice plants from pests and diseases"
+                "Plan seedling timing",
+                "Prepare main field",
+                "Transplant seedlings (manual or machine)",
+                "Post-transplant care"
             ]
+        },
+        {
+            "task": "Understand rice cultivation journey",
+            "subtasks": []
+        },
+        {
+            "task": "1. **Rice Transplanting (MAINTASK)**",
+            "subtasks": []
         }
     ]
 }

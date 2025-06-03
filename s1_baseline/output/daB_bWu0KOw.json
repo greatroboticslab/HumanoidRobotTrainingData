@@ -5,101 +5,180 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Preparing Custom Forms",
+            "task": "Slining hay bales",
             "subtasks": [
-                "Using tractor to till the land",
-                "Leveling the ground with grading tools",
-                "Setting up irrigation systems for the custom forms",
-                "Marking the boundaries of the custom forms"
+                "Driving a tractor",
+                "Attaching a hay bale processor to the tractor",
+                "Navigating the tractor along the rows of hay",
+                "Operating the hay bale processor to process hay bales",
+                "Transporting processed hay bales to the storage"
             ]
         },
         {
-            "task": "Planting Corn Cobs",
+            "task": "Cutting hay",
             "subtasks": [
-                "Loading corn cobs onto the farm equipment",
-                "Driving the planter through the fields, placing seeds in the ground",
-                "Ensuring proper spacing and depth of the seeds"
+                "Operating a combine harvester",
+                "Guiding the combine harvester through the hay field",
+                "Loading the hay into the combine harvester",
+                "Dumping the cut hay onto a wagon or trailer"
             ]
         },
         {
-            "task": "Managing Watering Systems",
+            "task": "Loading hay onto a vehicle",
             "subtasks": [
-                "Inspecting sprinkler systems for leaks or damages",
-                "Adjusting the flow rate of the irrigation system",
-                "Monitoring soil moisture levels using sensors"
+                "Guiding a wagon or trailer to the location of the processed hay",
+                "Securing the hay onto the wagon or trailer",
+                "Attaching the wagon or trailer to a vehicle",
+                "Driving the vehicle with the hay to the storage location"
             ]
         },
         {
-            "task": "Ensuring Soil Health",
+            "task": "Unloading hay at the storage location",
             "subtasks": [
-                "Mixing organic matter into the soil",
-                "Applying fertilizers and pest control treatments",
-                "Checking for weed growth and mechanically removing them"
+                "Decoupling the wagon or trailer from the vehicle",
+                "Guiding the wagon or trailer into the storage area",
+                "Unloading the hay from the wagon or trailer into the storage"
             ]
         },
         {
-            "task": "Operating Grain Harvester",
+            "task": "Slining hay bales",
             "subtasks": [
-                "Harvesting corn cobs by driving the harvester through the fields",
-                "Separating grain from the stalks",
-                "Ensuring proper cleaning of the grain before storage"
+                "Driving a tractor",
+                "Attaching a hay bale processor to the tractor",
+                "Navigating the tractor along the rows of hay",
+                "Operating the hay bale processor",
+                "Transporting processed hay bales to storage"
             ]
         },
         {
-            "task": "Post-Harvest Processing",
+            "task": "Cutting hay",
             "subtasks": [
-                "Storing harvested corn in silos or bins",
-                "Monitoring grain quality and temperature",
-                "Adjusting storage conditions for optimal preservation"
+                "Operating a combine harvester",
+                "Guiding the combine harvester through the field",
+                "Loading the hay onto a wagon or trailer",
+                "Unloading the hay at the storage location"
             ]
         },
         {
-            "task": "Operating a Custom Mixer",
+            "task": "Loading hay onto a vehicle",
             "subtasks": [
-                "Loading ingredients into the mixer",
-                "Mixing the custom blend according to the recipe",
-                "Distributing the mixture over the fields as required"
+                "Guiding the vehicle to the location of the processed hay",
+                "Securing the hay on the vehicle",
+                "Attaching the vehicle to the wagon or trailer",
+                "Driving the vehicle with hay to the storage"
             ]
         },
         {
-            "task": "Performing Equipment Maintenance",
+            "task": "Loading hay onto a vehicle. The steps would be: guiding the vehicle to the hay, securing the hay, attaching to the vehicle, driving off.",
+            "subtasks": []
+        },
+        {
+            "task": "Slining hay bales",
             "subtasks": [
-                "Cleaning and lubricating farm machinery after use",
-                "Checking tire pressure and replacing worn-out parts",
-                "Servicing irrigation systems and other agricultural equipment"
+                "Driving a tractor",
+                "Attaching a hay bale processor to the tractor",
+                "Navigating the tractor along the rows of hay",
+                "Operating the hay bale processor",
+                "Transporting processed hay bales to the storage"
             ]
         },
         {
-            "task": "Custom Form Adjustments",
+            "task": "Cutting hay",
             "subtasks": [
-                "Checking the alignment of custom forms after planting",
-                "Applying any necessary adjustments to the form structure",
-                "Ensuring proper spacing and support for the corn cobs"
+                "Operating a combine harvester",
+                "Guiding the combine harvester through the hay field",
+                "Loading the hay into the combine harvester",
+                "Dumping the cut hay onto a wagon or trailer"
             ]
         },
         {
-            "task": "Pest and Disease Management",
+            "task": "Loading hay onto a vehicle",
             "subtasks": [
-                "Observing plants for signs of pests or diseases",
-                "Applying biological or chemical treatments as needed",
-                "Monitoring the effectiveness of the treatments"
+                "Guiding a wagon or trailer to the location of the processed hay",
+                "Securing the hay onto the wagon or trailer",
+                "Attaching the wagon or trailer to a vehicle",
+                "Driving the vehicle with the hay to the storage location"
             ]
         },
         {
-            "task": "Harvest Crew Coordination",
+            "task": "Unloading hay at the storage location",
             "subtasks": [
-                "Assigning team members to different tasks during the harvest",
-                "Supervising the operation of the grain harvester",
-                "Coordinating with post-harvest processing staff"
+                "Decoupling the wagon or trailer from the vehicle",
+                "Guiding the wagon or trailer into the storage area",
+                "Unloading the hay from the wagon or trailer into the storage"
             ]
         },
         {
-            "task": "Record Keeping",
+            "task": "Unloading hay at the storage location, with related subtasks. So overall:",
+            "subtasks": []
+        },
+        {
+            "task": "Slining hay bales \u2192 driving tractor, attaching processor, dealing with bales, transport.",
+            "subtasks": []
+        },
+        {
+            "task": "Cutting hay \u2192 operating combine, guiding, loading, and dumping.",
+            "subtasks": []
+        },
+        {
+            "task": "Assuming that \"Operations\" here refer to day-to-day farm tasks, the operator (working with their body) would perform the tractor work, guidance, operating machines, loading hay, and transporting/storage. Hmm. Since these tasks can be detailed, hence four MAINTASKs.",
+            "subtasks": []
+        },
+        {
+            "task": "Slining hay bales",
             "subtasks": [
-                "Documenting planting dates, fertilizers used, and equipment operations",
-                "Tracking yields and quality of harvested crops",
-                "Preparing reports for farm management"
+                "Driving a tractor",
+                "Attaching a hay bale processor to the tractor",
+                "Navigating the tractor along the rows of hay",
+                "Operating the hay bale processor",
+                "Transporting processed hay bales to the storage"
             ]
+        },
+        {
+            "task": "Cutting hay",
+            "subtasks": [
+                "Operating a combine harvester",
+                "Guiding the combine harvester through the hay field",
+                "Loading the hay into the combine harvester",
+                "Dumping the cut hay onto a wagon or trailer"
+            ]
+        },
+        {
+            "task": "Loading hay onto a vehicle",
+            "subtasks": [
+                "Guiding a wagon or trailer to the location of the processed hay",
+                "Securing the hay onto the wagon or trailer",
+                "Attaching the wagon or trailer to a vehicle",
+                "Driving the vehicle with the hay to the storage location"
+            ]
+        },
+        {
+            "task": "Unloading hay at the storage location",
+            "subtasks": [
+                "Decoupling the wagon or trailer from the vehicle",
+                "Guiding the wagon or trailer into the storage area",
+                "Unloading the hay from the wagon or trailer into the storage"
+            ]
+        },
+        {
+            "task": "Cutting hay\" includes the operator's physical roles, from driving combine to unloading. The operator would do all these things in sequence.",
+            "subtasks": []
+        },
+        {
+            "task": "Slining hay bales",
+            "subtasks": []
+        },
+        {
+            "task": "Cutting hay",
+            "subtasks": []
+        },
+        {
+            "task": "Loading hay onto a vehicle",
+            "subtasks": []
+        },
+        {
+            "task": "Unloading hay at the storage location",
+            "subtasks": []
         }
     ]
 }

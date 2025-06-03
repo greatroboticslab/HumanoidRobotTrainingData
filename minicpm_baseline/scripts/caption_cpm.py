@@ -5,10 +5,7 @@ from transformers import AutoModelForCausalLM
 import os
 import argparse
 
-parser = argparse.ArgumentParser(description="Parse model argument")
-parser.add_argument('--input_file', type=str, default="", help='Caption this single image file')
-parser.add_argument('--input_folder', type=str, default="", help='Caption every image in this folder.')
-args = parser.parse_args()
+
 
 # Function to generate caption and return a string caption
 def generate_caption(image_path):
@@ -56,27 +53,75 @@ def generate_caption(image_path):
 
     return generated_caption
 
+def MakeCaptionFile(oFolder, fName, caption):
+    os.makedirs(oFolder, exist_ok=True)
+    outputFilePath = os.path.join(oFolder, fName) + ".txt"
+    cFile = open(outputFilePath, "w")
+    cFile.write(caption)
+    cFile.close()
 
-# Directory containing the images
-input_dir = '/home/mtsu/workspace/reshma/video_5_con_frames/Combat Robot Electronics For Beginners/'
-output_dir = '/home/mtsu/workspace/reshma/video_5_con_minicpm_captions'  # Folder where the .docx files will be saved
+def MakeCaptionsFromFolder(_inputFolder, _outputFolder):
 
-if args.input_folder != "":
+    if _inputFolder != "":
 
-    images = [
-        f for f in os.listdir(args.input_folder)
-        if f.lower().endswith(('.jpg', '.png'))
-    ]
+        images = [
+            f for f in os.listdir(_inputFolder)
+            if f.lower().endswith(('.jpg', '.png'))
+        ]
 
-    # Process all images from frame_0000 to frame_0099
-    for i in range(len(images)):
-        # Construct the image filename (e.g., frame_0000.jpg, frame_0001.jpg, ..., frame_0099.jpg)
-        image_filename = images[i]
-        image_path = os.path.join(args.input_folder, image_filename)
+        # Process all images in folder
+        for i in range(len(images)):
+            image_filename = images[i]
+            image_path = os.path.join(_inputFolder, image_filename)
 
-        # Check if the image file exists
-        if os.path.exists(image_path):
-            print(generate_caption(image_path))
-        else:
-            print(f"Image {image_filename} not found in {input_dir}. Skipping.")
+            # Check if the image file exists
+            if os.path.exists(image_path):
+                fName = os.path.basename(image_filename)
+                fName = os.path.splitext(fName)[0]
+                caption = generate_caption(image_path)
+                print(caption)
+                MakeCaptionFile(_outputFolder, fName, caption)
+            else:
+                print(f"Image {image_filename} not found in {input_path}. Skipping.")
 
+if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser(description="Parse model argument")
+    parser.add_argument('--input_file', type=str, default="", help='Caption this single image file')
+    parser.add_argument('--input_folder', type=str, default="", help='Caption every image in this folder.')
+    parser.add_argument('--output_folder', type=str, default="./", help='Where output file(s) are saves.')
+
+    args = parser.parse_args()
+
+    if args.input_folder != "":
+
+        images = [
+            f for f in os.listdir(args.input_folder)
+            if f.lower().endswith(('.jpg', '.png'))
+        ]
+
+        # Process all images in folder
+        for i in range(len(images)):
+            image_filename = images[i]
+            image_path = os.path.join(args.input_folder, image_filename)
+
+            # Check if the image file exists
+            if os.path.exists(image_path):
+                fName = os.path.basename(image_filename)
+                fName = os.path.splitext(fName)[0]
+                caption = generate_caption(image_path)
+                print(caption)
+                MakeCaptionFile(args.output_folder, fName, caption)
+            else:
+                print(f"Image {image_filename} not found in {input_path}. Skipping.")
+
+    else:
+        if args.input_file != "":
+            if os.path.exists(args.input_file):
+                fName = os.path.basename(args.input_file)
+                fName = os.path.splitext(fName)[0]
+                caption = generate_caption(args.input_file)
+                print(caption)
+                MakeCaptionFile(args.output_folder, fName, caption)
+            else:
+                print(f"Image {args.input_file} not found. Skipping.")

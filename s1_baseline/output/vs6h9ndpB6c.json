@@ -5,100 +5,69 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Driving a four-wheeler through the field at a controlled speed",
+            "task": "Drive a tractor through a field at a speed of 6 to 6.8 KPH.",
             "subtasks": [
-                "Sit on the four-wheeler",
-                "Engage the starting mechanism",
-                "Adjust the throttle to maintain 6-6.8 KPH",
-                "Navigate through the field, avoiding obstacles",
-                "Apply breaks to slow down or stop when necessary"
+                "Sit in the tractor's\u9a7e\u9a76 seat.",
+                "Adjust the tractor's speed to 6 to 6.8 KPH.",
+                "Operate the steering wheel to guide the tractor through the field.",
+                "Monitor the tractor's movement to ensure it stays on the desired path.",
+                "Adjust speed as necessary to avoid obstacles or uneven terrain.",
+                "Keep an eye on surroundings to maintain safe operation."
             ]
         },
         {
-            "task": "Inspecting crops from the four-wheeler",
+            "task": "Attach a hoe (replace with specific equipment if needed) to the tractor.",
             "subtasks": [
-                "Look out for weeds, pests, or nutrient deficiencies",
-                "Check for proper irrigation coverage",
-                "Observe row spacing and plant growth consistency"
+                "Approach the tractor hitch.",
+                "Align the hoe or attachment with the hitch.",
+                "Securely fasten the attachment to the tractor using appropriate hardware.",
+                "Check the attachment for stability and adjust as needed."
             ]
         },
         {
-            "task": "Loading hay into the four-wheeler\u2019s sled",
+            "task": "Use the attached equipment to cultivate the soil.",
             "subtasks": [
-                "Attach the sled to the four-wheeler",
-                "Drive to a hay field and stop near a hay pile",
-                "Lower the sled to collect hay",
-                "Operate the pitchfork to load hay onto the sled",
-                "Securely load hay onto the sled and adjust for balance"
+                "Start the equipment by following the operator's manual.",
+                "Adjust the depth and width of the tillage as needed.",
+                "Monitor the equipment's operation for effectiveness and efficiency.",
+                "Make minor adjustments to the equipment during use if necessary."
             ]
         },
         {
-            "task": "Transporting hay to storage area",
+            "task": "Load the soil into a cart or wagon attached to the tractor.",
             "subtasks": [
-                "Drive to the designated storage area",
-                "Align the sled with the storage location",
-                "Manually lift and unload hay from the sled",
-                "Stack hay on the storage shelves or racks"
+                "Wait for the soil to be ready to load.",
+                "Approach the cart or wagon.",
+                "Lift the soil into the cart or wagon using the tractor's hydraulic loader.",
+                "Check that the load is secure and even.",
+                "Repeat until the cart or wagon is fully loaded."
             ]
         },
         {
-            "task": "Cleaning the four-wheeler after use",
+            "task": "Transport the soil to a designated area.",
             "subtasks": [
-                "Park the four-wheeler in a shaded area",
-                "Remove debris and dirt from the vehicle",
-                "Check and refill fuel, water, and oil if needed",
-                "Store the pitchfork and other tools in the appropriate location"
+                "Drive the tractor with the loaded cart to the area.",
+                "Align the cart with the drop point.",
+                "Lower the soil from the cart onto the designated area.",
+                "Repeat until all loads have been transported."
             ]
         },
         {
-            "task": "MAINTASK: Driving a four-wheeler through the field at a controlled speed",
+            "task": "Unload the cart or wagon.",
             "subtasks": [
-                "Sit on the four-wheeler",
-                "Engage the starting mechanism",
-                "Adjust the throttle to maintain 6-6.8 KPH",
-                "Navigate through the field, avoiding obstacles",
-                "Apply breaks to slow down or stop when necessary"
+                "Position the cart or wagon at the unloading spot.",
+                "Raise the hydraulic loader to lift the soil from the cart.",
+                "Release the soil onto the ground or designated unloading area.",
+                "Lower the hydraulic loader and secure the cart or wagon."
             ]
         },
         {
-            "task": "Inspecting crops from the four-wheeler",
+            "task": "Repeat the process as needed to complete the day's work, which includes:",
             "subtasks": [
-                "Look out for weeds, pests, or nutrient deficiencies",
-                "Check for proper irrigation coverage",
-                "Observe row spacing and plant growth consistency"
+                "Continue moving through the field, repeating steps for driving, attaching equipment, cultivating, loading, transporting, and unloading until the area is properly cultivated and the soil is distributed as required.",
+                "Ensure that breaks are taken as needed for rest or lunch.",
+                "At the end of the day, clean equipment and prepare the tractor for storage."
             ]
-        },
-        {
-            "task": "Loading hay into the four-wheeler\u2019s sled",
-            "subtasks": [
-                "Attach the sled to the four-wheeler",
-                "Drive to a hay field and stop near a hay pile",
-                "Lower the sled to collect hay",
-                "Operate the pitchfork to load hay onto the sled",
-                "Securely load hay onto the sled and adjust for balance"
-            ]
-        },
-        {
-            "task": "Transporting hay to storage area",
-            "subtasks": [
-                "Drive to the designated storage area",
-                "Align the sled with the storage location",
-                "Manually lift and unload hay from the sled",
-                "Stack hay on the storage shelves or racks"
-            ]
-        },
-        {
-            "task": "Cleaning the four-wheeler after use",
-            "subtasks": [
-                "Park the four-wheeler in a shaded area",
-                "Remove debris and dirt from the vehicle",
-                "Check and refill fuel, water, and oil if needed",
-                "Store the pitchfork and other tools in the appropriate location"
-            ]
-        },
-        {
-            "task": "maintask Driving a four-wheeler through the field at a controlled speed \\n\\n**Subtasks**\\n1. Sit on the four-wheeler.\\n2. Engage the starting mechanism.\\n3. Adjust the throttle to maintain 6-6.8 KPH.\\n4. Navigate through the field, avoiding obstacles.\\n5. Apply breaks to slow down or stop when necessary.\\n\\n**MAINTASK** Inspecting crops from the four-wheeler.\\n\\n**Subtasks**\\n1. Look out for weeds.\\n2. Check for pests.\\n3. Monitor nutrient deficiencies.\\n4. Ensure proper irrigation coverage.\\n5. Observe row spacing and plant growth consistency.\\n\\n**MAINTASK** Loading hay into the four-wheeler\u2019s sled.\\n\\n**Subtasks**\\n1. Attach the sled to the four-wheeler.\\n2. Drive to a hay field and stop near a hay pile.\\n3. Lower the sled to collect hay.\\n4. Operate the pitchfork to load hay onto the sled.\\n5. Securely load hay onto the sled and adjust for balance.\\n\\n**MAINTASK** Transporting hay to storage area.\\n\\n**Subtasks**\\n1. Drive to the designated storage area.\\n2. Align the sled with the storage location.\\n3. Manually lift and unload hay from the sled.\\n4. Stack hay on the storage shelves or racks.\\n\\n**MAINTASK** Cleaning the four-wheeler after use.\\n\\n**Subtasks**\\n1. Park the four-wheeler in a shaded area.\\n2. Remove debris and dirt from the vehicle.\\n3. Check and refill fuel, water, and oil if needed.\\n4. Store the pitchfork and other tools in the appropriate location.",
-            "subtasks": []
         }
     ]
 }

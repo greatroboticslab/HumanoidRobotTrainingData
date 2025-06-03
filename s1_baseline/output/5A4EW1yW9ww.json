@@ -5,37 +5,447 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Engage in machinery operation and field preparation for planting.",
+            "task": "Operate a forklift to move bales of hay onto a trailer.",
             "subtasks": [
-                "Sit in the cab of the tractor.",
-                "Start the tractor engine and engage the transmission.",
-                "Use the steering controls to initiate movement in the intended direction.",
-                "Adjust the seed boxes to ensure proper spacing and alignment.",
-                "Apply tension to the seed planter's conveying system.",
-                "Monitor the planter's operation for correct seed distribution.",
-                "Communicate with crew member via hand signals to coordinate speed and direction adjustments.",
-                "Refill the seed hopper as necessary.",
-                "Adjust the seed metering mechanism for accurate planting.",
-                "Use the GPS receiver to guide the tractor along planned rows.",
-                "Adjust the planter's depth and tension using hydraulic controls during operation.",
-                "Inspect the planting equipment for malfunctions and perform on-the-spot repairs."
+                "Sit in the forklift seat.",
+                "Adjust seat to fit.",
+                "Start the forklift engine.",
+                "Operate the forks to pick up a bale of hay.",
+                "Drive the forklift to position it over the trailer.",
+                "Lower the bale onto the trailer.",
+                "Repeat steps for additional bales.",
+                "Safely secure the bales on the trailer."
             ]
         },
         {
-            "task": "Engage in machinery operation and field preparation for planting.**",
+            "task": "Load hay into a storage silo.",
             "subtasks": [
-                "** Sit in the cab of the tractor.",
-                "** Start the tractor engine and engage the transmission.",
-                "** Use the steering controls to initiate movement in the intended direction.",
-                "** Adjust the seed boxes to ensure proper spacing and alignment.",
-                "** Apply tension to the seed planter's conveying system.",
-                "** Monitor the planter's operation for correct seed distribution.",
-                "** Communicate with crew member via hand signals to coordinate speed and direction adjustments.",
-                "** Refill the seed hopper as necessary.",
-                "** Adjust the seed metering mechanism for accurate planting.",
-                "** Use the GPS receiver to guide the tractor along planned rows.",
-                "** Adjust the planter's depth and tension using hydraulic controls during operation.",
-                "** Inspect the planting equipment for malfunctions and perform on-the-spot repairs."
+                "Climb into the silo using a ladder.",
+                "Position in the silo to reach the hay delivery chute.",
+                "Open the hay delivery chute.",
+                "Direct the flow of hay into the silo using tarpaulins or such.",
+                "Continue until the silo is filled to capacity."
+            ]
+        },
+        {
+            "task": "Plant corn using a planter.",
+            "subtasks": [
+                "Approach the corn planter while driving a tractor.",
+                "Operate the seed hopper to ensure proper seed quantity.",
+                "Monitor the planter's depth and seed placement.",
+                "Adjust the planter settings if necessary, while driving."
+            ]
+        },
+        {
+            "task": "Apply herbicide to corn rows with a sprayer.",
+            "subtasks": [
+                "Maneuver the tractor and sprayer to the field edge.",
+                "Calibrate the sprayer according to herbicide label.",
+                "Drive through the rows, applying herbicide evenly.",
+                "Avoid overlap and ensure all areas are sprayed."
+            ]
+        },
+        {
+            "task": "Harvest soybeans with a combine.",
+            "subtasks": [
+                "Adjust the header for soybean size and type.",
+                "Operate the combine to cut the soybeans.",
+                "Separate the beans from the stalks using the combine threshing action.",
+                "Monitor the grain tank level and empty when full.",
+                "Perform necessary cleaning and maintenance on the combine."
+            ]
+        },
+        {
+            "task": "Plant wheat using a drill.",
+            "subtasks": [
+                "Drive a tractor equipped with a wheat drill.",
+                "Set the drill for the appropriate wheat planting depth.",
+                "Plant the wheat seeds at even intervals.",
+                "Review the planted rows for any missed spots or compaction issues."
+            ]
+        },
+        {
+            "task": "Conduct a soil pH test.",
+            "subtasks": [
+                "Collect soil samples from various field locations.",
+                "Mix the soil samples in a container.",
+                "Send the sample to a laboratory for analysis.",
+                "Interpret the pH results for soil management decisions."
+            ]
+        },
+        {
+            "task": "Milk cows using a milking machine.",
+            "subtasks": [
+                "Attach the milking machine to the cow's udder.",
+                "Start the milking machine to extract milk.",
+                "Clean the cow's udder after milking.",
+                "Separate cows into the next stages of the milking parlor."
+            ]
+        },
+        {
+            "task": "Prepare to bale hay.",
+            "subtasks": [
+                "Check the hay condition and moisture level.",
+                "Arrange the hay into windrows or piles.",
+                "Load hay onto a baler.",
+                "Operate the baler to form hay bales.",
+                "Stack the bales on a trailer or storage area."
+            ]
+        },
+        {
+            "task": "Apply fertilizer to fields with an aerial sprayer.",
+            "subtasks": [
+                "Operate the aerial sprayer aircraft.",
+                "Identify the flight path for even coverage.",
+                "Monitor the fertilizer application rate and distribution.",
+                "Adjust flying altitude or speed as needed."
+            ]
+        },
+        {
+            "task": "Construct earthen berms for drainage.",
+            "subtasks": [
+                "Survey the field to determine berm placement.",
+                "Mark the berm locations and levels.",
+                "Use a backhoe or excavator to dig the required trenches.",
+                "Build the berms using excavated earth and additional material if needed."
+            ]
+        },
+        {
+            "task": "Repair a broken irrigation pipe.",
+            "subtasks": [
+                "Locate the break in the pipe.",
+                "Disconnect the pipe near the break.",
+                "Cut out the damaged section.",
+                "Connect a new section of pipe.",
+                "Test the connection for leaks."
+            ]
+        },
+        {
+            "task": "Operate a seed planter with a vacuum seed pick-up.",
+            "subtasks": [
+                "Set up the vacuum system for optimal seed pickup.",
+                "Drive the planter through the field, using vacuum to draw seeds into the seed hopper.",
+                "Adjust depth settings to control planting depth.",
+                "Monitor seed placement to ensure proper coverage."
+            ]
+        },
+        {
+            "task": "Cultivate corn fields to control weeds.",
+            "subtasks": [
+                "Choose the appropriate tillage implement for the corn stage.",
+                "Operate the cultivator attachment on a tractor.",
+                "Drive the tractor through the rows, covering the targeted depth.",
+                "Monitor the cultivator's effectiveness on the weeds."
+            ]
+        },
+        {
+            "task": "Terminate a cover crop using a roller coaster.",
+            "subtasks": [
+                "Drive the roller coaster over the cover crop.",
+                "Set the roller arms to the appropriate pressure.",
+                "Maneuver the equipment to cover the entire field.",
+                "Check for even coverage and adjust as needed."
+            ]
+        },
+        {
+            "task": "Operate a forklift to move bales of hay onto a trailer.",
+            "subtasks": [
+                "Sit in the forklift seat.",
+                "Adjust seat to fit.",
+                "Start the forklift engine.",
+                "Operate the forks to pick up a bale of hay.",
+                "Drive the forklift to position it over the trailer.",
+                "Lower the bale onto the trailer.",
+                "Repeat steps for additional bales.",
+                "Safely secure the bales on the trailer."
+            ]
+        },
+        {
+            "task": "Load hay into a storage silo.",
+            "subtasks": [
+                "Climb into the silo using a ladder.",
+                "Position in the silo to reach the hay delivery chute.",
+                "Open the hay delivery chute.",
+                "Direct the flow of hay into the silo using tarpaulins or such.",
+                "Continue until the silo is filled to capacity."
+            ]
+        },
+        {
+            "task": "Plant corn using a planter.",
+            "subtasks": [
+                "Approach the corn planter while driving a tractor.",
+                "Operate the seed hopper to ensure proper seed quantity.",
+                "Monitor the planter's depth and seed placement.",
+                "Adjust the planter settings if necessary, while driving."
+            ]
+        },
+        {
+            "task": "Apply herbicide to corn rows with a sprayer.",
+            "subtasks": [
+                "Maneuver the tractor and sprayer to the field edge.",
+                "Calibrate the sprayer according to herbicide label.",
+                "Drive through the rows, applying herbicide evenly.",
+                "Avoid overlap and ensure all areas are sprayed."
+            ]
+        },
+        {
+            "task": "Harvest soybeans with a combine.",
+            "subtasks": [
+                "Adjust the header for soybean size and type.",
+                "Operate the combine to cut the soybeans.",
+                "Separate the beans from the stalks using the combine threshing action.",
+                "Monitor the grain tank level and empty when full.",
+                "Perform necessary cleaning and maintenance on the combine."
+            ]
+        },
+        {
+            "task": "Plant wheat using a drill.",
+            "subtasks": [
+                "Drive a tractor equipped with a wheat drill.",
+                "Set the drill for the appropriate wheat planting depth.",
+                "Plant the wheat seeds at even intervals.",
+                "Review the planted rows for any missed spots or compaction issues."
+            ]
+        },
+        {
+            "task": "Conduct a soil pH test.",
+            "subtasks": [
+                "Collect soil samples from various field locations.",
+                "Mix the soil samples in a container.",
+                "Send the sample to a laboratory for analysis.",
+                "Interpret the pH results for soil management decisions."
+            ]
+        },
+        {
+            "task": "Milk cows using a milking machine.",
+            "subtasks": [
+                "Attach the milking machine to the cow's udder.",
+                "Start the milking machine to extract milk.",
+                "Clean the cow's udder after milking.",
+                "Separate cows into the next stages of the milking parlor."
+            ]
+        },
+        {
+            "task": "Prepare to bale hay.",
+            "subtasks": [
+                "Check the hay condition and moisture level.",
+                "Arrange the hay into windrows or piles.",
+                "Load hay onto a baler.",
+                "Operate the baler to form hay bales.",
+                "Stack the bales on a trailer or storage area."
+            ]
+        },
+        {
+            "task": "Apply fertilizer to fields with an aerial sprayer.",
+            "subtasks": [
+                "Operate the aerial sprayer aircraft.",
+                "Identify the flight path for even coverage.",
+                "Monitor the fertilizer application rate and distribution.",
+                "Adjust flying altitude or speed as needed."
+            ]
+        },
+        {
+            "task": "Construct earthen berms for drainage.",
+            "subtasks": [
+                "Survey the field to determine berm placement.",
+                "Mark the berm locations and levels.",
+                "Use a backhoe or excavator to dig the required trenches.",
+                "Build the berms using excavated earth and additional material if needed."
+            ]
+        },
+        {
+            "task": "Repair a broken irrigation pipe.",
+            "subtasks": [
+                "Locate the break in the pipe.",
+                "Disconnect the pipe near the break.",
+                "Cut out the damaged section.",
+                "Connect a new section of pipe.",
+                "Test the connection for leaks."
+            ]
+        },
+        {
+            "task": "Operate a seed planter with a vacuum seed pick-up.",
+            "subtasks": [
+                "Set up the vacuum system for optimal seed pickup.",
+                "Drive the planter through the field, using vacuum to draw seeds into the seed hopper.",
+                "Adjust depth settings to control planting depth.",
+                "Monitor seed placement to ensure proper coverage."
+            ]
+        },
+        {
+            "task": "Cultivate corn fields to control weeds.",
+            "subtasks": [
+                "Choose the appropriate tillage implement for the corn stage.",
+                "Operate the cultivator attachment on a tractor.",
+                "Drive the tractor through the rows, covering the targeted depth.",
+                "Monitor the cultivator's effectiveness on the weeds."
+            ]
+        },
+        {
+            "task": "Terminate a cover crop using a roller coaster.",
+            "subtasks": [
+                "Drive the roller coaster over the cover crop.",
+                "Set the roller arms to the appropriate pressure.",
+                "Maneuver the equipment to cover the entire field.",
+                "Check for even coverage and adjust as needed.",
+                "operating a forklift would include checking the load, driving to the trailer, making sure the bales are secure. These are physical actions that involve the person's body. Similarly, with the sprayer, they would need to be in the aircraft (if aerial sprayer) or on the ground with the sprayer. The milking machine requires them to physically attach to the cow, operate the machine, clean up afterwards. Right, all these involve physical tasks that the person has to perform with their body. The tasks need to be relatable to the transcript. So going through the list above, I think all these are relevant if they're part of agricultural activities. Let me check if there's any other tasks mentioned in the transcript I might have missed. Let me recall: the initial part was about moving bales with a forklift, then loading them onto a trailer. Then it talked about loading hay into a silo. Then planting corn, applying herbicide, harvesting soybeans, planting wheat, testing pH, milking cows, preparing hay (maybe piling/stacking?), applying fertilizer, building berms, repairing pipes, operating a seed planter, cultivating corn, terminating cover crops. The roller coaster for terminating cover crops \u2013 yeah, that's a tool I've heard of in agronomy. Each of these is a separate physical task that someone might perform on a farm. For example, operating a combine to harvest soybeans would include driving the combine into the field, setting up the header, operating the threshing mechanism, cleaning the grain, etc. Maybe unloading grain, but that's part of the task. But combining would typically involve on-farm storage or transport, so okay. Similarly, constructing earth berms \u2013 building them is a physical task that involves manual labor or machine operation depending on scale. Repairs, especially on farms, involve soldering, welding, or general mechanical work. So even repairs would be on the list. Let me also think: the user said \"physical tasks a person would have to perform with their body.\" This rules out tasks that are, say, administrative or only require supervision. For example, debugging computer systems wouldn't be included. So all tasks need to involve physical labor. So moving bales, climbing silos, driving tractors, operating equipment like sprayers or combines, milking cows, handling livestock \u2013 all these are physical tasks where you have to use your body. The transcript seems to cover a wide range of agricultural activities, so that makes it easy; each activity is a potential main task. Now, what's the format for the answer? The user says \"Final Answer:\" followed by the list of maintasks and subtasks. Each maintask starts with \"MAINTASK:\" followed by the main task description, then subtasks start with \"SUBTASK:\" underneath. Each subtask should be a specific action related to the main task. So making sure each subtask is something a person needs to do physically. For example, under \"operate a forklift,\" subtasks include sitting in seat, starting engine, operating forks, driving, lowering, and securing. Okay, this seems right. Let me check the original instruction again: \"Please generate a list of physical tasks a person would have to perform with their body in relation to the transcript.\" So the list should be of physical tasks, no non-farming tasks. So far, all the tasks derived from the transcript relate to agriculture, so I don't think we need the \"!!!TRANSCRIPT_IRRELEVANT\" thing. So once I verify each task is farming-related and physical, I can input them here. I need to do this systematically. Let's go through each task I listed earlier:",
+                "followed by the task description, then each SUBTASK on a new line with SUBTASK:. For example:"
+            ]
+        },
+        {
+            "task": "Operate a forklift to move bales of hay onto a trailer.",
+            "subtasks": [
+                "Sit in the forklift seat.",
+                "Adjust seat to fit.",
+                "Start the forklift engine.",
+                "Operate the forks to pick up a bale of hay.",
+                "Drive the forklift to position it over the trailer.",
+                "Lower the bale onto the trailer.",
+                "Repeat steps for additional bales.",
+                "Safely secure the bales on the trailer."
+            ]
+        },
+        {
+            "task": "MAINTASK: Operate a forklift to move bales of hay onto a trailer.",
+            "subtasks": [
+                "Sit in the forklift seat.",
+                "Adjust seat to fit.",
+                "Start the forklift engine.",
+                "Operate the forks to pick up a bale of hay.",
+                "Drive the forklift to position it over the trailer.",
+                "Lower the bale onto the trailer.",
+                "Repeat steps for additional bales.",
+                "Safely secure the bales on the trailer."
+            ]
+        },
+        {
+            "task": "Load hay into a storage silo.",
+            "subtasks": [
+                "Climb into the silo using a ladder.",
+                "Position in the silo to reach the hay delivery chute.",
+                "Open the hay delivery chute.",
+                "Direct the flow of hay into the silo using tarpaulins or such.",
+                "Continue until the silo is filled to capacity."
+            ]
+        },
+        {
+            "task": "Plant corn using a planter.",
+            "subtasks": [
+                "Approach the corn planter while driving a tractor.",
+                "Operate the seed hopper to ensure proper seed quantity.",
+                "Monitor the planter's depth and seed placement.",
+                "Adjust the planter settings if necessary, while driving."
+            ]
+        },
+        {
+            "task": "Apply herbicide to corn rows with a sprayer.",
+            "subtasks": [
+                "Maneuver the tractor and sprayer to the field edge.",
+                "Calibrate the sprayer according to herbicide label.",
+                "Drive through the rows, applying herbicide evenly.",
+                "Avoid overlap and ensure all areas are sprayed."
+            ]
+        },
+        {
+            "task": "Harvest soybeans with a combine.",
+            "subtasks": [
+                "Adjust the header for soybean size and type.",
+                "Operate the combine to cut the soybeans.",
+                "Separate the beans from the stalks using the combine threshing action.",
+                "Monitor the grain tank level and empty when full.",
+                "Perform necessary cleaning and maintenance on the combine."
+            ]
+        },
+        {
+            "task": "Plant wheat using a drill.",
+            "subtasks": [
+                "Drive a tractor equipped with a wheat drill.",
+                "Set the drill for the appropriate wheat planting depth.",
+                "Plant the wheat seeds at even intervals.",
+                "Review the planted rows for any missed spots or compaction issues."
+            ]
+        },
+        {
+            "task": "Conduct a soil pH test.",
+            "subtasks": [
+                "Collect soil samples from various field locations.",
+                "Mix the soil samples in a container.",
+                "Send the sample to a laboratory for analysis.",
+                "Interpret the pH results for soil management decisions."
+            ]
+        },
+        {
+            "task": "Milk cows using a milking machine.",
+            "subtasks": [
+                "Attach the milking machine to the cow's udder.",
+                "Start the milking machine to extract milk.",
+                "Clean the cow's udder after milking.",
+                "Separate cows into the next stages of the milking parlor."
+            ]
+        },
+        {
+            "task": "Prepare to bale hay.",
+            "subtasks": [
+                "Check the hay condition and moisture level.",
+                "Arrange the hay into windrows or piles.",
+                "Load hay onto a baler.",
+                "Operate the baler to form hay bales.",
+                "Stack the bales on a trailer or storage area."
+            ]
+        },
+        {
+            "task": "Apply fertilizer to fields with an aerial sprayer.",
+            "subtasks": [
+                "Operate the aerial sprayer aircraft.",
+                "Identify the flight path for even coverage.",
+                "Monitor the fertilizer application rate and distribution.",
+                "Adjust flying altitude or speed as needed."
+            ]
+        },
+        {
+            "task": "Construct earthen berms for drainage.",
+            "subtasks": [
+                "Survey the field to determine berm placement.",
+                "Mark the berm locations and levels.",
+                "Use a backhoe or excavator to dig the required trenches.",
+                "Build the berms using excavated earth and additional material if needed."
+            ]
+        },
+        {
+            "task": "Repair a broken irrigation pipe.",
+            "subtasks": [
+                "Locate the break in the pipe.",
+                "Disconnect the pipe near the break.",
+                "Cut out the damaged section.",
+                "Connect a new section of pipe.",
+                "Test the connection for leaks."
+            ]
+        },
+        {
+            "task": "Operate a seed planter with a vacuum seed pick-up.",
+            "subtasks": [
+                "Set up the vacuum system for optimal seed pickup.",
+                "Drive the planter through the field, using vacuum to draw seeds into the seed hopper.",
+                "Adjust depth settings to control planting depth.",
+                "Monitor seed placement to ensure proper coverage."
+            ]
+        },
+        {
+            "task": "Cultivate corn fields to control weeds.",
+            "subtasks": [
+                "Choose the appropriate tillage implement for the corn stage.",
+                "Operate the cultivator attachment on a tractor.",
+                "Drive the tractor through the rows, covering the targeted depth.",
+                "Monitor the cultivator's effectiveness on the weeds."
+            ]
+        },
+        {
+            "task": "Terminate a cover crop using a roller coaster.",
+            "subtasks": [
+                "Drive the roller coaster over the cover crop.",
+                "Set the roller arms to the appropriate pressure.",
+                "Maneuver the equipment to cover the entire field.",
+                "Check for even coverage and adjust as needed."
             ]
         }
     ]

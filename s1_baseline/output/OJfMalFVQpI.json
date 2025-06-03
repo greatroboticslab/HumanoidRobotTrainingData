@@ -5,34 +5,38 @@
     "category": "Music",
     "tasks": [
         {
-            "task": "Presenting a problem statement and proposing a smart irrigation system",
+            "task": "Present and explain a smart irrigation system using IoT technology for agriculture.",
             "subtasks": [
-                "Introduce the team Prishy Shakti",
-                "Explain the problem of water scarcity in agriculture",
-                "Describe the limitations of traditional irrigation methods",
-                "Present the benefits of using a smart irrigation system",
-                "Detail the components of the robotic car, including sensors and controls",
-                "Explain how IoT and AI are utilized in data analysis",
-                "Describe the user interface for displaying collected data",
-                "Discuss the integration of GPRS for vehicle location tracking"
+                "Introduce Prishy Shakti team and problem statement ID 1554.",
+                "Explain the challenge of water scarcity in agriculture.",
+                "Describe traditional irrigation methods and their limitations.",
+                "Present the smart irrigation system's features (IoT, sensor data, real-time monitoring).",
+                "Detail the robotic car components (sensors, motor, user interface).",
+                "Explain the role of soil testing, moisture, temperature, nutritional levels, and rain detection.",
+                "Describe ESP826's function in controlling the car.",
+                "Outline the data analysis process using IoT Blink platform and AIML.",
+                "Explain the user interface display of temperature, water level, humidity, GPRS, nutrition, and insects.",
+                "Demonstrate the mechanism for fertilizer pumping based on farmer input.",
+                "Mention the GPS sensor for car location.",
+                "Highlight the car's omnidirectional mobility."
             ]
         },
         {
-            "task": "Demonstrate the functionality of the smart irrigation system",
+            "task": "Create a marketing video showcasing the smart irrigation system.",
             "subtasks": [
-                "Explain the process of soil testing and monitoring",
-                "Describe the use of sensors for soil moisture, temperature, and nutritional analysis",
-                "Illustrate the role of the ESP8266 in controlling the system",
-                "Show how real-time data influences irrigation scheduling",
-                "Demonstrate the motor control for the fertilizer pump based on farmer input"
+                "Prepare a video presentation.",
+                "Include real-time data from the irrigation system sensors.",
+                "Display the analyzed data on a user interface.",
+                "Show the robotic car's operation in a field scenario.",
+                "Integrate a demonstration of the system in action (already considered in the previous subtask)."
             ]
         },
         {
-            "task": "Conclude the presentation and thank the audience",
+            "task": "Gather feedback and incorporate improvements.",
             "subtasks": [
-                "Acknowledge the support of the farming community (Prishyajan)",
-                "Appreciate the viewers for their time",
-                "Thank for considering the proposed solution (smart irrigation system)"
+                "Collect feedback from potential farmers.",
+                "Analyze feedback and make necessary adjustments to the system.",
+                "Continuously update the firmware and sensors based on user input."
             ]
         }
     ]

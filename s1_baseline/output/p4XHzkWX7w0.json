@@ -5,15 +5,32 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Transporting pesticides securely",
+            "task": "Secure transport and handling of pesticides",
             "subtasks": [
-                "Ensure pesticides are in a secure vehicle such as a truck bed or cargo area",
-                "Avoid transporting near driver or passenger compartments",
-                "Verify container integrity before loading/unloading",
-                "Protect containers from damage during transport",
-                "Monitor pesticide containers during movement",
-                "Prevent unattended pesticide location",
-                "Utilize locked storage when feasible"
+                "Load pesticides into secure transport vehicles (truck bed, cargo area)",
+                "Inspect pesticide containers for leaks before loading and unloading",
+                "Protect pesticide containers from damage during transport (securely, prevent stacking, etc.)",
+                "Monitor pesticide containers during transport for any issues",
+                "Never leave pesticides unattended during transport",
+                "If possible, store pesticides in a locked area when not in use during transport"
+            ]
+        },
+        {
+            "task": "Secure transport and handling of pesticides.",
+            "subtasks": []
+        },
+        {
+            "task": "Secure transport and handling of pesticides",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Secure transport and handling of pesticides",
+            "subtasks": [
+                "Check pesticide containers for leaks before loading and unloading.",
+                "Protect containers from damage during transport (e.g., securing stacking, using covers).",
+                "Monitor containers for any issues during transport.",
+                "Never leave pesticides unattended during transport.",
+                "Store pesticides in a locked area when possible and feasible."
             ]
         }
     ]

@@ -5,106 +5,61 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Describe the process of converting cow manure into biochar through gasification.",
+            "task": "Operating and maintaining a gasification system for cow manure.",
             "subtasks": [
-                "Loading cow manure into the gasifier.",
-                "Monitoring and controlling the temperature in the gasifier.",
-                "Controlling feed rates and retention time for biochar quality.",
-                "Managing air supply through variable frequency drives.",
-                "Removing biochar from the gasifier."
+                "Loading cow manure and bedding into the gasification unit.",
+                "Monitoring and adjusting the airflow to control oxygen levels.",
+                "Regulating the feed rates of raw material and biochar using variable frequency drives.",
+                "Controlling the moisture content of the input material.",
+                "Monitoring the temperature inside the gasifier.",
+                "Collecting and managing the biochar output.",
+                "Ensuring proper combustion in the thermal oxidizer.",
+                "Adjusting the energy output and heat applications based on customer needs.",
+                "Maintaining equipment such as the rotary dryer for drying manure and bedding.",
+                "Constituting emissions and particulate matter through controlled air supply.",
+                "Evaluating the nutrient content and quality of the biochar.",
+                "Adapting the system to process various manure types (e.g., swine and poultry) and adjust for differences in moisture and nutrient content."
             ]
         },
         {
-            "task": "Explain the benefits of using biochar from manure gasification.",
+            "task": "Producing and utilizing biochar on a farm.",
             "subtasks": [
-                "Detailing the cleaning process of biochar (E. coli, growth hormones, residues).",
-                "Discuss nutrient content and applications of biochar (soil, feed, water filtration).",
-                "Highlight the environmental impact of manure gasification versus traditional land application."
+                "Distributing biochar as a soil amendment or feed supplement.",
+                "Storing biochar until needed.",
+                "Introducing biochar into agricultural practices to improve soil health or provide nutrients.",
+                "Monitoring the impact of biochar on crop yields or animal feed.",
+                "Adapting biochar applications based on specific farm needs."
             ]
         },
         {
-            "task": "Outline the operation and features of the gasification system at Frye Poultry.",
+            "task": "Managing manure barns and agricultural waste.",
             "subtasks": [
-                "Describe the system's capacity and daily processing.",
-                "Explain the integration with existing farm practices (manure barn, bedding).",
-                "Detail the energy production and its utilization."
+                "Ensuring proper waste management practices on the farm.",
+                "Supervising the collection and transport of manure and bedding to the gasification unit.",
+                "Implementing solid separation systems to retain nutrients in the manure before processing.",
+                "Storing and handling wet cow manure prior to drying.",
+                "Maintaining the manure barn to prevent environmental hazards (e.g., E. coli, pathogens).",
+                "Complying with environmental regulations related to manure disposal and biochar use."
             ]
         },
         {
-            "task": "Operate a biochar gasification system for cow manure.",
+            "task": "Operating and maintaining a gasification system for cow manure.",
             "subtasks": [
-                "Load manure into the gasifier (the user would use a shovel or similar to load manure).",
-                "Monitor the gasifier's temperature using controls, which may involve physical actuation.",
-                "Adjust air supply using a variable frequency drive, which could involve turning a knob or pressing buttons.",
-                "Remove the biochar when done, which might require using a scoop or similar tool."
+                "loading the system, adjusting air and feed rates, monitoring temperatures, collecting biochar, ensuring combustion, controlling moisture."
             ]
         },
         {
-            "task": "Integrate the gasification system into a farm operation.",
+            "task": "Producing and utilizing biochar.",
             "subtasks": [
-                "Connect the gasifier to the manure barn and bedding system.",
-                "Operate the rotary dryer for bedding, which involves starting and monitoring the machine."
+                "distributing biochar, storage, monitoring nutrient content, application in soil or feed."
             ]
         },
         {
-            "task": "Prepare manure for gasification.",
+            "task": "Managing manure barns and agricultural waste.",
             "subtasks": [
-                "Bring manure and bedding into a manure barn.",
-                "Dry the manure using a rotary dryer to the required moisture level."
+                "storing and handling manure and bedding, operating solid separation systems, ensuring environmental compliance (pathogens, E. coli), maintaining equipment like the rotary dryer.",
+                "Distributing biochar as animal bedding."
             ]
-        },
-        {
-            "task": "Operate a rotary dryer for animal bedding.",
-            "subtasks": [
-                "Start the rotary dryer and monitor the drying process.",
-                "Collect and use the dried bedding."
-            ]
-        },
-        {
-            "task": "Produce biochar and manage its applications.",
-            "subtasks": [
-                "Remove the biochar from the gasifier and handle it appropriately.",
-                "Apply biochar as a soil amendment, speed supplement, water filter, etc., based on its nutrient content."
-            ]
-        },
-        {
-            "task": "Operate a biochar gasification system, with subtasks for loading, monitoring, adjusting variables, removing products, and integrating with farm processes. Does that cover it? I think so.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Operate a biochar gasification system for cow manure.",
-            "subtasks": [
-                "Load manure into the gasifier.",
-                "Monitor temperature and adjust air supply using variable frequency drives.",
-                "Remove biochar from the gasifier.",
-                "Operate a rotary dryer for bedding."
-            ]
-        },
-        {
-            "task": "Explain the benefits and applications of biochar.",
-            "subtasks": [
-                "Discuss the cleanliness of biochar (E. coli removal, etc.).",
-                "Highlight nutrient content and various applications (soil, feed, water filtration)."
-            ]
-        },
-        {
-            "task": "Describe the system integration at the Frye Poultry farm.",
-            "subtasks": [
-                "Explain the system's capacity and setup.",
-                "Detail energy production and utilization."
-            ]
-        },
-        {
-            "task": "Describe the process of converting cow manure into biochar through gasification.",
-            "subtasks": []
-        },
-        {
-            "task": "Explain the benefits of using biochar made from manure gasification.",
-            "subtasks": []
-        },
-        {
-            "task": "Outline the operation and features of the gasification system at Frye Poultry.",
-            "subtasks": []
         }
     ]
 }

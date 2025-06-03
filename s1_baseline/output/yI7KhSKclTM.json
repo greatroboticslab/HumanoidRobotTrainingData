@@ -5,44 +5,59 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Operating a John Deere 1025R tractor with a 48-inch tiller.",
+            "task": "Operating a John Deere 1025R with a 48-inch tiller.",
             "subtasks": [
-                "Sitting in the tractor cab to guide the machine.",
-                "Monitoring the tiller's depth and angle during the first pass.",
-                "Making slight adjustments to the tiller for better performance on the first day.",
-                "Driving the tractor in a forward and backward motion for multiple passes.",
-                "Noticing the breakdown of sod, grass, and roots during tillage.",
-                "Identifying and handling small rocks encountered during tilling."
+                "Sit in the tractor cab and operate the steering wheel to guide the machine.",
+                "Monitor the tiller attachment and make adjustments as needed during operation.",
+                "Overlap passes by driving forward and backward to cover the entire area effectively.",
+                "Recognize and handle rocks and other debris that may affect trench efficiency.",
+                "Perform multiple passes to ensure thorough breakdown of existing vegetation and soil."
             ]
         },
         {
-            "task": "Preparing new ground for gardening or food plots.",
+            "task": "Preparing to till new ground.",
             "subtasks": [
-                "Assessing the need for multiple tilling passes in the first year.",
-                "Understanding the necessity of thorough initial tilling for consistent results in subsequent years."
+                "Check the tractor's power and ensure it matches the tiller's requirements.",
+                "Select the appropriate attachments for the tiller.",
+                "Adjust the tiller's settings for optimal performance on new ground.",
+                "Plan the overlapping pass pattern to cover the total area efficiently.",
+                "Forecast the duration needed for preparation based on tiller capacity."
             ]
         },
         {
-            "task": "First, the main task here is operating the tractor with the tiller, right? So the MAINTASK would be \"Operating a John Deere 1025R tractor with a 48-inch tiller.\" Then I need to think about what physical actions are involved in operating this equipment.",
+            "task": "Addressing sod and roots for new garden/food plot.",
+            "subtasks": [
+                "Break down thick sod layers with the tiller.",
+                "Chop up grass and roots left from previous vegetation.",
+                "Identify and remove larger debris such as rocks before final till.",
+                "Monitor the soil's moisture level to prevent compaction or excessive dust.",
+                "Evaluate the smoothness of the prepared ground after multiple passes."
+            ]
+        },
+        {
+            "task": "Recognizing the need for initial thorough preparation.",
+            "subtasks": [
+                "Assess the challenges posed by new ground requiring multiple passes.",
+                "Understand the importance of proper soil preparation for future crops or plants.",
+                "Consider the contrast between initial setup time and subsequent maintenance.",
+                "Adjust expectations for the first year's workload compared to ongoing care."
+            ]
+        },
+        {
+            "task": "Operating a John Deere 1025R with an ideal 48-inch tiller on new ground.",
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Operating a John Deere 1025R tractor with a 48-inch tiller.",
-            "subtasks": [
-                "Sitting in the tractor cab to guide the machine.",
-                "Monitoring the tiller\u2019s depth and angle during the first pass.",
-                "Making slight adjustments to the tiller for better performance on the first day.",
-                "Driving the tractor in a forward and backward motion for multiple passes.",
-                "Noticing the breakdown of sod, grass, and roots during tillage.",
-                "Identifying and handling small rocks encountered during tilling."
-            ]
+            "task": "Preparing new ground with a John Deere 1025R and 48-inch tiller.",
+            "subtasks": []
         },
         {
-            "task": "Preparing new ground for gardening or food plots.",
-            "subtasks": [
-                "Assessing the need for multiple tilling passes in the first year.",
-                "Understanding the necessity of thorough initial tilling for consistent results in subsequent years."
-            ]
+            "task": "Operating a John Deere 1025R with a 48-inch tiller to prepare new ground for planting.",
+            "subtasks": []
+        },
+        {
+            "task": "Use a John Deere 1025R and 48-inch tiller to till new ground, consisting of four passes\u2014all subtasks for that.",
+            "subtasks": []
         }
     ]
 }

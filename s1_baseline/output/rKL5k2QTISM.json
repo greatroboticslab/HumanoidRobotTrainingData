@@ -7,11 +7,57 @@
         {
             "task": "Learn how to grow a crop of rice.",
             "subtasks": [
-                "Find a suitable location for growing rice.",
-                "Acquire knowledge about best management practices for rice cultivation.",
-                "Participate in rice farming activities together.",
-                "Admit potential mistakes and challenges during the farming process.",
-                "Set a high yield target (7 tons per hectare) for the rice crop."
+                "Listen to Achim Dobermann\u4ecb\u7ecd himself and his role.",
+                "Listen to Lee Weil\u4ecb\u7ecd himself and his experience.",
+                "Understand the goal of practicing best management practices.",
+                "Recognize the intention to avoid theoretical knowledge and practical application.",
+                "Accept that both speakers are out of their comfort zones.",
+                "Acknowledge the target yield for the rice crop."
+            ]
+        },
+        {
+            "task": "Engage in the process of growing a rice crop.",
+            "subtasks": [
+                "Regularly visit the experimental station.",
+                "Potentially make mistakes during the process.",
+                "Collaborate with the speakers to achieve the yield goal."
+            ]
+        },
+        {
+            "task": "Set a high yield target for the rice crop.",
+            "subtasks": [
+                "Understand the relationship between best management practices and yield.",
+                "Recognize the potential yield based on conditions."
+            ]
+        },
+        {
+            "task": "like MAINTASK: Learn how to grow a crop of rice, with subtasks of setting a high yield target, understanding the goal, accepting the challenge, etc. Then, once they start growing the crop, there might be physical tasks like planting, irrigating, etc., but those aren't mentioned in the transcript. Since the transcript is about the setup, perhaps only include the tasks related to the learning and planning process. Alternatively, perhaps the MAINTASK is \"participate in the process of growing a rice crop,\" which includes both the learning aspect and the actual farming tasks. But in the transcript, it's mainly the commitment and the initial actions. Hmm. Let's check the transcript again.",
+            "subtasks": []
+        },
+        {
+            "task": "Learn how to grow a crop of rice.",
+            "subtasks": [
+                "Listen to Achim Dobermann introduce himself and his role.",
+                "Listen to Lee Weil introduce himself and his experience.",
+                "Understand the goal of practicing best management practices.",
+                "Recognize the intention to avoid theoretical knowledge and practical application.",
+                "Accept that both speakers are out of their comfort zones.",
+                "Acknowledge the target yield for the rice crop."
+            ]
+        },
+        {
+            "task": "Engage in the process of growing a rice crop.",
+            "subtasks": [
+                "Regularly visit the experimental station.",
+                "Potentially make mistakes during the process.",
+                "Collaborate with the speakers to achieve the yield goal."
+            ]
+        },
+        {
+            "task": "Set a high yield target for the rice crop.",
+            "subtasks": [
+                "Understand the relationship between best management practices and yield.",
+                "Recognize the potential yield based on conditions."
             ]
         }
     ]

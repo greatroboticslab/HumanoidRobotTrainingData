@@ -5,21 +5,52 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "No-till farming for organic farmers and home gardeners using light exclusion.",
+            "task": "Planting and maintaining crops using a no-till farming method",
             "subtasks": [
-                "Establish a cover crop. (e.g., planting five species such as cowpeas, forage radish, black mustard, oats, and buckwheat)",
-                "Use a roller to crush the cover crop or roll it down.",
-                "Apply durable polypropylene fabrics over the crushed cover crop. Secure the fabric edges with sandsacks or water-filled hoses.",
-                "Wait for one week to allow the cover crop to die from darkness and heat.",
-                "Remove the fabric and plant transplants, taking advantage of the decomposing cover crop nutrients."
+                "Establishing a cover crop by planting multiple seed types",
+                "Allowing the cover crop to grow vigorously",
+                "Using a roller to crush down the cover crop and terminate its growth",
+                "Laying durable woven plastic fabrics over the ground to exclude light",
+                "Securing the plastic edges with water-filled hoses or sandbags",
+                "Allowing the plastic to remain in place for one week to kill weeds and cover crop",
+                "Releasing the plastic and planting transplants in the prepared soil",
+                "Irrigating the planting area to hasten cover crop decomposition and nutrient release",
+                "Monitoring and addressing any remaining weeds through mechanical means or natural suppression",
+                "Timing planting to coincide with weather conditions for optimal growth and weed suppression"
             ]
         },
         {
-            "task": "Use plastic fabrics for weed control and pest management.",
+            "task": "Managing soil nematodes using a cover crop and plastic exclusion method",
             "subtasks": [
-                "Cover emerging weeds to prevent light and kill them.",
-                "Employ the same technique to control nematodes by baiting them with a susceptible crop and then removing the fabric before they reproduce."
+                "Planting a cover crop that is susceptible to nematodes",
+                "Allowing the cover crop to grow and attract nematodes",
+                "Covering the cover crop with the durable plastic fabric once nematodes are active",
+                "Allowing the covered crop to wither and die under the plastic to kill nematodes",
+                "Removing the plastic and planting a new crop that is resistant to nematodes"
             ]
+        },
+        {
+            "task": "Uncovering and preparing a previously covered area for new planting",
+            "subtasks": [
+                "Weighing down the durable plastic edges with water-filled hoses or sandbags",
+                "Allowing the covered area to remain under plastic for the specified time (e.g., one week)",
+                "Removing the plastic and preparing the soil for planting",
+                "Planting transplants directly into the soil without tillage",
+                "Ensuring proper irrigation and fertilization for new crop growth",
+                "Monitoring crop development and adjusting management practices as needed"
+            ]
+        },
+        {
+            "task": "1. MAINTASK: Planting and maintaining crops using a no-till farming method and its subtasks (covering steps 1-7).",
+            "subtasks": []
+        },
+        {
+            "task": "Managing soil nematodes using a cover crop and plastic exclusion method and its subtasks (steps 8-10).",
+            "subtasks": []
+        },
+        {
+            "task": "Uncovering and preparing a previously covered area for new planting and its subtasks (steps 11-13).",
+            "subtasks": []
         }
     ]
 }

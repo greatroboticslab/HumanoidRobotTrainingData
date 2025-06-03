@@ -5,239 +5,36 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Driving the tractor to transport materials to the field.",
+            "task": "Drive tractor",
             "subtasks": [
-                "Check the fuel level.",
-                "Engage the hydraulic system.",
-                "Operate the steering wheel to navigate the tractor.",
-                "Adjust the speed to match the terrain.",
-                "Attach the wagon to the tractor.",
-                "Secure the materials in the wagon."
+                "Sit in driver's seat",
+                "Adjust mirrors for visibility",
+                "Use steering wheel to navigate",
+                "Engage throttle to control speed",
+                "Shift gears using gearshift",
+                "Apply brakes to stop or slow down",
+                "Monitor instruments for engine health",
+                "Check rearview mirrors for obstacles"
             ]
         },
         {
-            "task": "Preparing the soil for planting.",
+            "task": "Guide tractor through fields",
             "subtasks": [
-                "Operate the tractor-drawn tiller to turn the soil.",
-                "Monitor soil moisture and adjust depth accordingly.",
-                "Ensure even coverage of soil over planted rows."
+                "Align tractor direction with field rows",
+                "Apply gentle steering inputs to maintain straight path",
+                "Adjust speed for optimal crop interaction",
+                "Overlap previous passes slightly to ensure coverage"
             ]
         },
         {
-            "task": "Planting seeds in the prepared soil.",
+            "task": "Operate hay baler (assumed from multiple mentions)",
             "subtasks": [
-                "Load seeds into the planter's seed boxes.",
-                "Adjust planting depth and spacing via the planter's settings.",
-                "Plant rows sequentially, moving the tractor slowly.",
-                "Monitor for any clogs or malfunctions in the planter."
-            ]
-        },
-        {
-            "task": "Applying fertilizer to the crops.",
-            "subtasks": [
-                "Couple the spreader to the tractor.",
-                "Set the application rate according to the crop needs.",
-                "Drive the tractor over the fields, distributing fertilizer uniformly."
-            ]
-        },
-        {
-            "task": "Harvesting the mature crops.",
-            "subtasks": [
-                "Detach the combine harvester from the transporter.",
-                "Align the combine with the first row of crops.",
-                "Set the elevation and width of the combine's cutting platform.",
-                "Start the combine and begin harvesting.",
-                "Monitor the quality of the harvested grain and adjust settings as needed.",
-                "Clean the combine after harvesting."
-            ]
-        },
-        {
-            "task": "Operating the irrigation system during drought periods.",
-            "subtasks": [
-                "Inspect the irrigation system's hoses and valves for leaks.",
-                "Program the controller to turn on the sprinklers at the appropriate time.",
-                "Check water pressure and adjust flow if necessary.",
-                "Monitor the water application during operation to avoid overwatering."
-            ]
-        },
-        {
-            "task": "Employing pesticides to protect the crops.",
-            "subtasks": [
-                "Mix the pesticides according to the instructions.",
-                "Connect the sprayer tank to the tractor.",
-                "Set pressure and nozzle angles for even coverage.",
-                "Drive the tractor through the field, applying the pesticide in a back-and-forth pattern.",
-                "Observe wind direction to prevent drift onto neighboring fields."
-            ]
-        },
-        {
-            "task": "Repairing a broken wire on the fence surrounding the farm.",
-            "subtasks": [
-                "Locate the damaged fence area.",
-                "Remove any vegetation or debris around the broken wire.",
-                "Unroll the replacement fencing material.",
-                "Splice the new wire into the existing fence.",
-                "Ensure all clips or staples are securely in place.",
-                "Test the fence's integrity by walking along the top."
-            ]
-        },
-        {
-            "task": "Driving the tractor to transport materials to the field.} \\\\",
-            "subtasks": [
-                "Check the fuel level.} \\\\",
-                "Engage the hydraulic system.} \\\\",
-                "Operate the steering wheel to navigate the tractor.} \\\\",
-                "Adjust the speed to match the terrain.} \\\\",
-                "Attach the wagon to the tractor.} \\\\",
-                "Secure the materials in the wagon.} \\\\"
-            ]
-        },
-        {
-            "task": "Preparing the soil for planting.} \\\\",
-            "subtasks": [
-                "Operate the tractor-drawn tiller to turn the soil.} \\\\",
-                "Monitor soil moisture and adjust depth accordingly.} \\\\",
-                "Ensure even coverage of soil over planted rows.} \\\\"
-            ]
-        },
-        {
-            "task": "Planting seeds in the prepared soil.} \\\\",
-            "subtasks": [
-                "Load seeds into the planter's seed boxes.} \\\\",
-                "Adjust planting depth and spacing via the planter's settings.} \\\\",
-                "Plant rows sequentially, moving the tractor slowly.} \\\\",
-                "Monitor for any clogs or malfunctions in the planter.} \\\\"
-            ]
-        },
-        {
-            "task": "Applying fertilizer to the crops.} \\\\",
-            "subtasks": [
-                "Couple the spreader to the tractor.} \\\\",
-                "Set the application rate according to the crop needs.} \\\\",
-                "Drive the tractor over the fields, distributing fertilizer uniformly.} \\\\"
-            ]
-        },
-        {
-            "task": "Harvesting the mature crops.} \\\\",
-            "subtasks": [
-                "Detach the combine harvester from the transporter.} \\\\",
-                "Align the combine with the first row of crops.} \\\\",
-                "Set the elevation and width of the combine's cutting platform.} \\\\",
-                "Start the combine and begin harvesting.} \\\\",
-                "Monitor the quality of the harvested grain and adjust settings as needed.} \\\\",
-                "Clean the combine after harvesting.} \\\\"
-            ]
-        },
-        {
-            "task": "Operating the irrigation system during drought periods.} \\\\",
-            "subtasks": [
-                "Inspect the irrigation system's hoses and valves for leaks.} \\\\",
-                "Program the controller to turn on the sprinklers at the appropriate time.} \\\\",
-                "Check water pressure and adjust flow if necessary.} \\\\",
-                "Monitor the water application during operation to avoid overwatering.} \\\\"
-            ]
-        },
-        {
-            "task": "Employing pesticides to protect the crops.} \\\\",
-            "subtasks": [
-                "Mix the pesticides according to the instructions.} \\\\",
-                "Connect the sprayer tank to the tractor.} \\\\",
-                "Set pressure and nozzle angles for even coverage.} \\\\",
-                "Drive the tractor through the field, applying the pesticide in a back-and-forth pattern.} \\\\",
-                "Observe wind direction to prevent drift onto neighboring fields.} \\\\"
-            ]
-        },
-        {
-            "task": "Repairing a broken wire on the fence surrounding the farm.} \\\\",
-            "subtasks": [
-                "Locate the damaged fence area.} \\\\",
-                "Remove any vegetation or debris around the broken wire.} \\\\",
-                "Unroll the replacement fencing material.} \\\\",
-                "Splice the new wire into the existing fence.} \\\\",
-                "Ensure all clips or staples are securely in place.} \\\\",
-                "Test the fence's integrity by walking along the top.}",
-                "**Driving the Tractor to Transport Materials.** So that would require checking the fuel (SUBTASK), making sure the hydraulic systems work (SUBTASK), operating the steering (SUBTASK), adjusting speed (SUBTASK), attaching the wagon (SUBTASK), and securing materials (SUBTASK). That breaks down the main task into several actions.",
-                "**Applying Fertilizer** would involve setting up the spreader. So that's coupling the spreader to the tractor (SUBTASK), setting the rate (SUBTASK), then actually driving over the fields to apply it uniformly. That could also include checking that the application is even.",
-                "**Harvesting the Mature Crops** - Detaching the combine from the tractor, aligning it with the first row (SUBTASK), setting the combine's cutting platform (SUBTASK), operating the combine (starting it? Driving it?), and monitoring the harvest quality. After harvesting, cleaning the combine would be necessary.",
-                "**Operating Irrigation Systems** during drought periods would need checking for leaks (SUBTASK), programming the irrigation schedule (probably through a controller), checking water pressure, and monitoring the application to prevent overwatering.",
-                "Lastly, **Repairing a Fence**. If there's a broken wire, they need to locate the damage (SUBTASK), clean up the area around the break (SUBTASK), get replacement wire, splice it into the existing fence (SUBTASK), ensure all connections are secure (SUBTASK), and test the fence's strength."
-            ]
-        },
-        {
-            "task": "Driving the tractor to transport materials to the field.",
-            "subtasks": [
-                "Check the fuel level.",
-                "Engage the hydraulic system.",
-                "Operate the steering wheel to navigate the tractor.",
-                "Adjust the speed to match the terrain.",
-                "Attach the wagon to the tractor.",
-                "Secure the materials in the wagon."
-            ]
-        },
-        {
-            "task": "Preparing the soil for planting.",
-            "subtasks": [
-                "Operate the tractor-drawn tiller to turn the soil.",
-                "Monitor soil moisture and adjust depth accordingly.",
-                "Ensure even coverage of soil over planted rows."
-            ]
-        },
-        {
-            "task": "Planting seeds in the prepared soil.",
-            "subtasks": [
-                "Load seeds into the planter's seed boxes.",
-                "Adjust planting depth and spacing via the planter's settings.",
-                "Plant rows sequentially, moving the tractor slowly.",
-                "Monitor for any clogs or malfunctions in the planter."
-            ]
-        },
-        {
-            "task": "Applying fertilizer to the crops.",
-            "subtasks": [
-                "Couple the spreader to the tractor.",
-                "Set the application rate according to the crop needs.",
-                "Drive the tractor over the fields, distributing fertilizer uniformly."
-            ]
-        },
-        {
-            "task": "Harvesting the mature crops.",
-            "subtasks": [
-                "Detach the combine harvester from the transporter.",
-                "Align the combine with the first row of crops.",
-                "Set the elevation and width of the combine's cutting platform.",
-                "Start the combine and begin harvesting.",
-                "Monitor the quality of the harvested grain and adjust settings as needed.",
-                "Clean the combine after harvesting."
-            ]
-        },
-        {
-            "task": "Operating the irrigation system during drought periods.",
-            "subtasks": [
-                "Inspect the irrigation system's hoses and valves for leaks.",
-                "Program the controller to turn on the sprinklers at the appropriate time.",
-                "Check water pressure and adjust flow if necessary.",
-                "Monitor the water application during operation to avoid overwatering."
-            ]
-        },
-        {
-            "task": "Employing pesticides to protect the crops.",
-            "subtasks": [
-                "Mix the pesticides according to the instructions.",
-                "Connect the sprayer tank to the tractor.",
-                "Set pressure and nozzle angles for even coverage.",
-                "Drive the tractor through the field, applying the pesticide in a back-and-forth pattern.",
-                "Observe wind direction to prevent drift onto neighboring fields."
-            ]
-        },
-        {
-            "task": "Repairing a broken wire on the fence surrounding the farm.",
-            "subtasks": [
-                "Locate the damaged fence area.",
-                "Remove any vegetation or debris around the broken wire.",
-                "Unroll the replacement fencing material.",
-                "Splice the new wire into the existing fence.",
-                "Ensure all clips or staples are securely in place.",
-                "Test the fence's integrity by walking along the top."
+                "Load hay into machine",
+                "Initiator, prime the machine for operation",
+                "Manipulate levers to engage baling process",
+                "Tend to bales as they form, adjusting if necessary",
+                "Position bale grip and release mechanism",
+                "Unclog feed tubes or hoppers if necessary"
             ]
         }
     ]

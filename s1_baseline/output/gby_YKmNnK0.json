@@ -5,39 +5,89 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Planting seeds",
+            "task": "Drive farm machinery",
             "subtasks": [
-                "Walking between rows",
-                "Bending over to plant seeds",
-                "Inserting seeds into soil"
+                "Start the tractor's engine",
+                "Adjust the valves while the engine is running",
+                "Operate the hydraulic system to lift attachments",
+                "Navigate the tractor through fields"
             ]
         },
         {
-            "task": "Watering plants",
+            "task": "Plant soybeans",
             "subtasks": [
-                "Walking to water source",
-                "Pouring water onto plants"
+                "Prepare seed furrows using the planter attachments",
+                "Place soybean seeds at the correct depth",
+                "Cover the planted seeds with soil"
             ]
         },
         {
-            "task": "Harvesting crops",
+            "task": "Conduct soil testing",
             "subtasks": [
-                "Identifying ripe crops",
-                "Cutting or plucking crops",
-                "Stacking or transporting harvested items"
+                "Collect soil samples from different field areas",
+                "Mix the soil samples thoroughly",
+                "Store the prepared sample in a container"
             ]
         },
         {
-            "task": "Planting seeds**",
-            "subtasks": []
+            "task": "Apply fertilizer to the fields",
+            "subtasks": [
+                "Load the fertilizer into the tractor's tank",
+                "Attach the spreader to the tractor",
+                "Calibrate the spreader for proper application rate",
+                "Drive the tractor across the field, applying fertilizer uniformly"
+            ]
         },
         {
-            "task": "Watering plants**",
-            "subtasks": []
+            "task": "Conduct field inspection",
+            "subtasks": [
+                "Walk through the soybean plants to check for growth",
+                "Look for signs of pest infestation or disease",
+                "Note any areas needing closer attention"
+            ]
         },
         {
-            "task": "Harvesting crops**",
-            "subtasks": []
+            "task": "Operate a combine harvester",
+            "subtasks": [
+                "Harvest soybeans by driving the combine through the fields",
+                "Separate the grain from the stalks using the combine's threshing mechanism",
+                "Collect the harvested grain into containers",
+                "Clean the combine after use"
+            ]
+        },
+        {
+            "task": "Load grain into storage",
+            "subtasks": [
+                "Transfer harvested grain from the combine to the storage bin",
+                "Measure the grain quantity and quality",
+                "Record the data for future reference"
+            ]
+        },
+        {
+            "task": "Maintain machinery",
+            "subtasks": [
+                "Check fluid levels in the tractor and combine at the start of the day",
+                "Inspect the equipment for any signs of damage",
+                "Lubricate moving parts as needed",
+                "Empty the fuel filter if necessary"
+            ]
+        },
+        {
+            "task": "Manage soybean irrigation",
+            "subtasks": [
+                "Check soil moisture levels using a soil probe or sensors",
+                "Operate the irrigation system to water the soybean field",
+                "Monitor water flow and distribution across the field"
+            ]
+        },
+        {
+            "task": "Apply pesticides",
+            "subtasks": [
+                "Mix the pesticide concentrate with water according to labels",
+                "Attach the sprayer boom to the tractor",
+                "Calibrate the sprayer for the correct application rate",
+                "Drive the tractor through the soybean field, applying the pesticide evenly"
+            ]
         }
     ]
 }

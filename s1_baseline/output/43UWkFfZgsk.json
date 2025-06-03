@@ -5,39 +5,51 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Conducting a wheat yield experiment under controlled irrigation conditions at a research station.",
+            "task": "Conducting a precision water control experiment to compare wheat yields under zero tillage and normal tillage.",
             "subtasks": [
-                "Establishing the research site at CIMMET's station in Obregon, Mexico."
+                "Managing water levels through irrigation.",
+                "Planting and maintaining wheat trials under controlled conditions.",
+                "Observing wheat growth and identifying yield differences.",
+                "Harvesting wheat using combine harvesters.",
+                "Analyzing grain yield results."
             ]
         },
         {
-            "task": "Implementing different wheat cultivation practices and irrigation treatments.",
+            "task": "Testing wheat lines' response to water stress.",
             "subtasks": [
-                "Setting up zero tillage and conventional tilled plots for wheat cultivation."
+                "Exposing wheat to varying water conditions.",
+                "Comparing zero tillage versus conventional tillage methods.",
+                "Evaluating grain fill and speculation quality under stress."
             ]
         },
         {
-            "task": "Conducting trials under varying water stress conditions.",
+            "task": "Conducting a precision water control experiment to compare wheat yields under zero tillage and normal tillage. That should cover the whole experiment.",
+            "subtasks": []
+        },
+        {
+            "task": "Another MAINTASK could be testing wheat lines' response to water stress, as the researcher was expecting differences based on how they compensate under stress. So maybe under different subtasks, they have exposing the wheat to stress (precisely controlling water), then comparing the grain.",
+            "subtasks": []
+        },
+        {
+            "task": "So yeah, that seems to be the key tasks here. The transcript is about agricultural research, specific to wheat trials in irrigation and tillage methods. So I think the \"ACCEPT\" here is that these tasks are directly related to farming, especially research and crop improvement. So giving the first MAINTASK as conducting the experiment, and then breaking down into water management, planting, observation, harvesting, and analysis. Then another MAINTASK about testing the wheat's stress response with subtasks related to subjecting them to drought/low water and comparing outcomes.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Conducting a precision water control experiment to compare wheat yields under zero tillage and normal tillage.",
             "subtasks": [
-                "Applying controlled irrigation levels to simulate drought and monsoon rains."
+                "Managing water levels through irrigation.",
+                "Planting and maintaining wheat trials under controlled conditions.",
+                "Observing wheat growth and identifying yield differences.",
+                "Harvesting wheat using combine harvesters.",
+                "Analyzing grain yield results."
             ]
         },
         {
-            "task": "Observing and comparing wheat yields across treatments.",
+            "task": "Testing wheat lines' response to water stress.",
             "subtasks": [
-                "Regularly inspecting wheat plants for growth stages and stress responses."
-            ]
-        },
-        {
-            "task": "Collecting and harvesting grain samples.",
-            "subtasks": [
-                "Using combine harvesters to gather grain from each treatment plot."
-            ]
-        },
-        {
-            "task": "Analyzing grain yields and quality.",
-            "subtasks": [
-                "Processing harvested grain to determine differences between zero tillage and conventional tilled fields under stress."
+                "Exposing wheat to varying water conditions.",
+                "Comparing zero tillage versus conventional tillage methods.",
+                "Evaluating grain fill and speculation quality under stress."
             ]
         }
     ]

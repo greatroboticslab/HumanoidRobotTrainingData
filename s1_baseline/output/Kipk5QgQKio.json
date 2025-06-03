@@ -5,30 +5,53 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Design and implement a water distribution system considering elevation changes on property.",
+            "task": "Building and maintaining a water system for irrigation and power generation.",
             "subtasks": [
-                "Assess elevation changes in the property.",
-                "Identify a spring source at the bottom of the property.",
-                "Plan water conveyance from the spring to higher elevations using gravity.",
-                "Install necessary infrastructure to store water at upper elevations.",
-                "Utilize gravity to irrigate pastures."
+                "Designing the water system considering elevation changes.",
+                "Installing a spring-fed water source at a lower elevation.",
+                "Propelling water uphill to store it at a higher elevation using gravity feed.",
+                "Exploring the possibility of a small hydroelectric plant utilizing the stored water.",
+                "Generating electricity at night by pumping water uphill and generating power as it flows downhill.",
+                "Ensuring consistent power supply by preventing over-reliance on generators."
             ]
         },
         {
-            "task": "Explore small-scale hydroelectric generation using gravity-fed water systems.",
+            "task": "Irrigation using gravity-fed water system.",
             "subtasks": [
-                "Design a two-inch PVC pipeline for nighttime water flow.",
-                "Integrate a hydroelectric plant into the pipeline for power generation.",
-                "Schedule power usage to utilize daytime and nighttime generation efficiently."
+                "Distributing water through irrigated pastures.",
+                "Expanding irrigation reach to further areas as needed."
             ]
         },
         {
-            "task": "Enhance irrigation capabilities to support potential herd expansion.",
+            "task": "Expanding the herd.",
             "subtasks": [
-                "Evaluate current irrigation methods.",
-                "Consider extending irrigation coverage to more areas.",
-                "Adjust herd management practices based on available water resources."
+                "Assessing the capacity to increase the animal population.",
+                "Planning and executing the growth of the livestock herd."
             ]
+        },
+        {
+            "task": "Building and maintaining a water system for irrigation and power generation.",
+            "subtasks": []
+        },
+        {
+            "task": "Irrigating pastures using gravity-fed water.",
+            "subtasks": []
+        },
+        {
+            "task": "Expanding the herd.",
+            "subtasks": []
+        },
+        {
+            "task": "Building and maintaining a water system for irrigation and power generation.",
+            "subtasks": []
+        },
+        {
+            "task": "Irrigating pastures using the gravity-fed system.",
+            "subtasks": []
+        },
+        {
+            "task": "Expanding the herd of livestock.",
+            "subtasks": []
         }
     ]
 }

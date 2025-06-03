@@ -5,14 +5,22 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Analyze satellite data for agricultural purposes",
+            "task": "Analyze satellite imagery for agricultural management.",
             "subtasks": [
-                "Identify locations of trees and crops using satellite imagery",
-                "Differentiate between types of plants based on growth patterns",
-                "Collaborate with agricultural organizations for crop identification",
-                "Utilize satellite instruments to monitor plant health",
-                "Detect water stress in plants via temperature changes",
-                "Measure plant temperature with high precision instruments"
+                "Review satellite records spanning 50+ years.",
+                "Identify tree and crop locations using satellite data.",
+                "Collaborate with USDA for crop identification.",
+                "Utilize spectral reflectance to detect crop types."
+            ]
+        },
+        {
+            "task": "Monitor plant health via satellite.",
+            "subtasks": [
+                "Track seasonal green-up patterns.",
+                "Assess plant thermal imagery for water stress.",
+                "Correlate elevated temperatures with drought conditions.",
+                "Deploy EcoStress instrument on ISS for precise measurements.",
+                "Quantify thermal anomalies indicative of stressed plants."
             ]
         }
     ]

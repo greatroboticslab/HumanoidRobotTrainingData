@@ -5,77 +5,176 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Starting the tractor and moving to the field",
+            "task": "Go to farm or field",
             "subtasks": [
-                "Engage the ignition on the tractor",
-                "Sit in the driver's seat of the tractor",
-                "Adjust the seat and mirrors for\u8212\u9002\u6027",
-                "Engage the brake and clutch pedals",
-                "Shift gears manually while moving",
-                "steering the tractor to the field"
+                "Walk to farm entrance",
+                "Enter farm premises",
+                "Approach designated work area"
             ]
         },
         {
-            "task": "Attaching the plow to the tractor",
+            "task": "Check crops",
             "subtasks": [
-                "Lower the lifting mechanism to raise the plow",
-                "Approach the plow to the rear of the tractor",
-                "Connect the drawbar or hydraulics to attach the plow"
+                "Bend down to inspect rows of crops",
+                "Observe crop health and growth"
             ]
         },
         {
-            "task": "Operating the plow by driving across the field",
+            "task": "Prepare soil for tilling",
             "subtasks": [
-                "Maintaining straight or curved paths as needed",
-                "Adjusting the plow depth while driving"
+                "Walk to tractor or tiller",
+                "Step onto tractor seat",
+                "Adjust seat for comfort and safety",
+                "Engage tractor gearshift",
+                "Operate steering wheel to turn tractor",
+                "Use pedals for throttle and brakes",
+                "Guide tractor along field rows"
             ]
         },
         {
-            "task": "Removing the plow after finishing the field",
+            "task": "Tend to livestock",
             "subtasks": [
-                "Reverse the direction to bring the tractor towards the plow",
-                "Using the lifting mechanism to raise the plow",
-                "Detaching the plow\u2019s drawbar or hydraulics"
+                "Walk to livestock area",
+                "Approach animals (e.g., cows or pigs)",
+                "Observe animals' behavior and health",
+                "Feed animals from feed container",
+                "Handle animals gently and securely"
             ]
         },
         {
-            "task": "Stopping the tractor and turning it off",
+            "task": "Water crops or livestock",
             "subtasks": [
-                "Applying the brake to stop the tractor",
-                "Turning off the ignition",
-                "Exiting the tractor and checking the attachment"
+                "Walk to well or water source",
+                "Operate water pump handle (if manual)",
+                "Connect hose to water source",
+                "Carry hose to crops or livestock area",
+                "Install sprinkler system or manually water plants/animals"
             ]
         },
         {
-            "task": "Possibly adjusting tractor seat for different tasks",
+            "task": "Fix broken equipment",
             "subtasks": [
-                "Re-positioning the seat to access better",
-                "Adjusting the seat cushion or backrest"
+                "Walk to broken tractor or implement",
+                "Inspect machine for problems (e.g., loose parts, damaged blades)",
+                "Retrieve tools from tool shed",
+                "Disassemble machine to access issues",
+                "Replace or tighten parts as needed",
+                "Lubricate moving parts"
             ]
         },
         {
-            "task": "Engaging the plow for detailed or second passes",
+            "task": "Gather eggs",
             "subtasks": [
-                "Slow down the tractor speed for precise adjustments",
-                "Using the plow handlebars or levers to make adjustments",
-                "Making minor corrections while plowing"
+                "Walk to chicken coop or henhouse",
+                "Open door to coop",
+                "Collect eggs from floor or nest boxes",
+                "Place eggs in basket or container"
             ]
         },
         {
-            "task": "Driving the tractor back to the starting point",
+            "task": "Spread mulch",
             "subtasks": [
-                "Reversing the tractor and guiding it back",
-                "Using mirrors to check rear and sides",
-                "Navigating around obstacles or uneven terrain"
+                "Walk to mulch storage area",
+                "Load mulch onto wheelbarrow or spreader",
+                "Push wheelbarrow to intended location",
+                "Spread mulch over soil or around plants"
             ]
         },
         {
-            "task": "Ensuring the tractor is parked correctly",
+            "task": "Pick weeds",
             "subtasks": [
-                "Choosing a safe place to park the tractor",
-                "Aligning the tractor with the entry/exit path",
-                "Applying appropriate measures to prevent roll-away, e.g., using blocking"
+                "Walk to weedy areas of the garden or field",
+                "Bend down to identify and uproot weeds",
+                "Place weeds in pile or compost",
+                "Discard or manage weeds appropriately"
             ]
+        },
+        {
+            "task": "Harvest fruits or vegetables",
+            "subtasks": [
+                "Walk to the orchard or crop row",
+                "Identify ripe fruits or vegetables",
+                "Use harvesting tools (e.g., scissors, hoe) if necessary",
+                "Gather produce into baskets or sacks",
+                "Transfer produce to storage or load onto vehicle"
+            ]
+        },
+        {
+            "task": "Deliver produce",
+            "subtasks": [
+                "Walk to vehicle or farm stand",
+                "Load harvested produce into trunk or bed",
+                "Secure load for transportation",
+                "Drive vehicle to market or destination"
+            ]
+        },
+        {
+            "task": "Perform daily chores",
+            "subtasks": [
+                "Walk to barn or various areas of the farm",
+                "Perform cleaning tasks (e.g., sweep floors, clean stalls)",
+                "Provide daily care (e.g., refill water troughs, check on sick animals)"
+            ]
+        },
+        {
+            "task": "Greet farm visitors",
+            "subtasks": [
+                "Approach visitors at the farm entrance",
+                "Engage in conversation with visitors",
+                "Provide tour or demonstration"
+            ]
+        },
+        {
+            "task": "Go to farm or field**",
+            "subtasks": []
+        },
+        {
+            "task": "Check crops**",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare soil for tilling**",
+            "subtasks": []
+        },
+        {
+            "task": "Tend to livestock**",
+            "subtasks": []
+        },
+        {
+            "task": "Water crops or livestock**",
+            "subtasks": []
+        },
+        {
+            "task": "Fix broken equipment**",
+            "subtasks": []
+        },
+        {
+            "task": "Gather eggs**",
+            "subtasks": []
+        },
+        {
+            "task": "Spread mulch**",
+            "subtasks": []
+        },
+        {
+            "task": "Pick weeds**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest fruits or vegetables**",
+            "subtasks": []
+        },
+        {
+            "task": "Deliver produce**",
+            "subtasks": []
+        },
+        {
+            "task": "Perform daily chores**",
+            "subtasks": []
+        },
+        {
+            "task": "Greet farm visitors**",
+            "subtasks": []
         }
     ]
 }

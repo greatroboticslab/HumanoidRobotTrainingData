@@ -5,76 +5,88 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Operating wheat harvesters",
+            "task": "Operating advanced wheat harvesters",
+            "subtasks": []
+        },
+        {
+            "task": "Using corn harvesting machines",
+            "subtasks": []
+        },
+        {
+            "task": "Employing potato and carrot harvesters",
+            "subtasks": []
+        },
+        {
+            "task": "Managing onion harvesters",
+            "subtasks": []
+        },
+        {
+            "task": "Utilizing almond harvesting machines",
+            "subtasks": []
+        },
+        {
+            "task": "Operating olive harvesting machines",
+            "subtasks": []
+        },
+        {
+            "task": "Using grape harvesters for wine production",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Operating advanced wheat harvesters",
             "subtasks": [
-                "Positioning the machine over the wheat field",
-                "Engaging the advanced technology features to optimize harvest",
-                "Monitoring the machine's operation to ensure efficiency",
-                "Adjusting the machine settings for optimal crop gathering",
-                "Managing the gathered wheat to minimize losses"
+                "Navigating the harvester through fields",
+                "Managing the machine\u2019s advanced technology",
+                "Ensuring continuous operation",
+                "Overseeing the harvest process to prevent weather damage"
             ]
         },
         {
-            "task": "Operating corn harvesters",
+            "task": "Using corn harvesting machines",
             "subtasks": [
-                "Ensuring the harvester is equipped for grain corn",
-                "Navigating through the corn field efficiently",
-                "Actuating the machine's systems to separate kernels from the cob",
-                "Handling specialized sweet corn and silage corn harvesting modes"
+                "Adjusting the harvester for different corn types",
+                "Operating the machine to cut and separate kernels",
+                "Monitoring performance to minimize losses and environmental impact"
             ]
         },
         {
-            "task": "Operating potato harvesters",
+            "task": "Employing potato and carrot harvesters",
             "subtasks": [
-                "Preparing the harvester for soil penetration",
-                "Activating the blade and conveyor systems for efficient potato collection",
-                "Cleaning and sorting potatoes on the machine",
-                "Managing harvested potatoes to prevent damage and degradation"
+                "Driving the harvester through soil",
+                "Activating cleaning systems",
+                "Managing sorting systems for high-quality yield"
             ]
         },
         {
-            "task": "Operating carrot harvesters",
+            "task": "Managing onion harvesters",
             "subtasks": [
-                "Adjusting machine settings for proper root grip",
-                "Guiding the harvester through the carrot field",
-                "Monitoring the cutting and soil removal processes",
-                "Collecting and handling the clean carrots"
+                "Operating mechanical arms to dig onions",
+                "Using on-board dirt removal features",
+                "Handling harvested onions for post-harvest processing"
             ]
         },
         {
-            "task": "Operating onion harvesters",
+            "task": "Utilizing almond harvesting machines",
             "subtasks": [
-                "Setting up the harvester for efficient onion collection",
-                "Activating the digging mechanisms",
-                "Trimming excess parts from onions (if applicable)",
-                "Ensuring minimal product loss during harvest"
-            ]
-        },
-        {
-            "task": "Operating almond harvesting machines",
-            "subtasks": [
-                "Calibrating the mechanical arms",
-                "Initiating the shaking process on the almond trees",
-                "Activating the collection system for almonds",
-                "Maintaining machine operation to ensure optimal fruit collection"
+                "Activating tree-shaking arms",
+                "Engaging collection system",
+                "Monitoring machine performance for minimal damage"
             ]
         },
         {
             "task": "Operating olive harvesting machines",
             "subtasks": [
-                "Adjusting the vibrating arms for gentle fruit detachment",
-                "Positioning the machine beneath olive trees",
-                "Managing the conveyor systems and netting to collect olives",
-                "Preventing damage to the trees and fruit"
+                "Initiating tree-shaking mechanisms",
+                "Guiding conveyor systems to collect olives",
+                "Adjusting machine settings for different olives"
             ]
         },
         {
-            "task": "Operating grape harvesters for premium wine",
+            "task": "Using grape harvesters for wine production",
             "subtasks": [
-                "Setting up the gentle shaking mechanisms",
-                "Monitoring the cleaning and sorting systems on the harvester",
-                "Selecting ripe grapes for collection",
-                "Ensuring minimal vine and fruit damage during harvest"
+                "Engaging gentle shaking mechanisms",
+                "Activating sorting and cleaning systems",
+                "Ensuring continuous operation and high-quality grape collection"
             ]
         }
     ]

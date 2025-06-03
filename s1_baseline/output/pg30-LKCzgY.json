@@ -5,15 +5,16 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Describe the challenging agricultural environment in Australia faced by cattleman Randall Crozier and his property Anna Krieg Station.",
-            "subtasks": [
-                "Discuss the frequency of drought in Randall's region, mentioning the average ten years of three good years.",
-                "State the size of Anna Krieg Station (24, 000 square kilometers or the size of Belgium) and the famer's management role.",
-                "Highlight the limited annual rainfall (eight inches) and its variability.",
-                "Comment on the drought conditions, noting the lack of rivers and parched land.",
-                "Explain the temporary nature of water availability, with dams holding rainwater for up to nine to twelve months.",
-                "Emphasize the adaptability required for farming in such an environment, the importance of working with rather than against natural conditions."
-            ]
+            "task": "First, the opening lines talk about Australia's relationship with water, droughts, and a cattleman named Randall Crozier who runs Anna Krieg Station, which is the world's largest cattle property. They mention it's 24,000 square kilometers, maybe the size of Belgium, though the speaker hasn't been there. So if we focus on Randall managing the station, which is a cattle property, the main tasks would relate to cattle farming and ranching. So the MAINTASK here is probably \"Cattle Ranching and Cattle Management\" at Anna Krieg Station.",
+            "subtasks": []
+        },
+        {
+            "task": "In summary, the MAINTASK is Cattle Ranching and Management at Anna Krieg Station, with subtasks like moving cattle during drought, managing grazing, leading tours, responding to media, monitoring water sources, controlling wildfires/erosion, and implementing drought-resistant strategies.",
+            "subtasks": []
+        },
+        {
+            "task": "Cattle Ranching and Management",
+            "subtasks": []
         }
     ]
 }

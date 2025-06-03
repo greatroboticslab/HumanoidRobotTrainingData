@@ -5,17 +5,40 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Converting a sprinkler system into a drip irrigation system",
+            "task": "Convert sprinkler system to drip irrigation system.",
             "subtasks": [
-                "Close off all sprinklers on the system by screwing caps onto the heads",
-                "Replace the sprinkler head closest to the garden bed with an adapter that connects to drip irrigation tubing",
-                "Install a backbone tubing system by rolling out half-inch tubing in a trench next to garden beds",
-                "Connect T-adapters and elbows to the backbone tubing to direct water to specific areas",
-                "Attach emitter tubing with spaced emitters to the backbone tubing, staggering the placement for even coverage",
-                "Pin tubes in place using ground staples to secure them along the garden beds",
-                "Install a filter and optional pressure regulator at the point where water enters the system",
-                "Flush the new tubing system with water to clear out any debris",
-                "Connect all parts of the system and turn on the water to ensure proper functioning of the drip irrigation setup"
+                "Close off all sprinklers on the station.",
+                "Remove sprinkler heads and replace with caps.",
+                "Prepare an adapter fitting by screwing an elbow with female threading onto the sprinkler head.",
+                "Install blank irrigation tubing onto the adapter fitting.",
+                "Dig a trench to lay the backbone tubing towards the garden beds.",
+                "Assemble T-adapter and emitter tubing with 12-inch spacing every 1 gallon per hour per emitter.",
+                "Unroll and attach multiple lines of tubing with staggered emitters to cover the garden bed.",
+                "Secure tubing in place using ground staples to maintain even spacing.",
+                "Create a loop with all tubing lines to ensure even pressure distribution.",
+                "Install filter and pressure regulator at the valve connection.",
+                "Connect PVC pipe to filter and secure with glue.",
+                "Flush the irrigation system with water to remove debris.",
+                "Test water flow from emitters and adjust if necessary."
+            ]
+        },
+        {
+            "task": "Flush irrigation system.",
+            "subtasks": [
+                "Turn on water supply.",
+                "Allow flushing of pipes with water for a minute.",
+                "Turn off water supply.",
+                "Make final connections to complete the system."
+            ]
+        },
+        {
+            "task": "Stake video message.",
+            "subtasks": [
+                "Express gratitude to viewers.",
+                "Invite questions in comments.",
+                "Encourage subscription to The Growing Club YouTube channel.",
+                "Promote The Growing Club's mission and benefits.",
+                "Provide website link for joining The Growing Club."
             ]
         }
     ]

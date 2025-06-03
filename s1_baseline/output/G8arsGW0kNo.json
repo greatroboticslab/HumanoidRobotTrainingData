@@ -5,21 +5,42 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Attend and present at a seminar on redesigning the irrigated breeding program at Erie.",
+            "task": "Attend and introduce speakers at a seminar.",
             "subtasks": [
-                "Understand the history and achievements of Erie's irrigated rice breeding program.",
-                "Recognize the challenges faced due to full cost recovery and limited resources.",
-                "Acknowledge the changes in funding sources and project focuses.",
-                "Explain the shift towards more efficient breeding methods and the adoption of Rapid Generation Advance (RGA) technique.",
-                "Describe the process and benefits of RGA in breeding rice varieties.",
-                "Discuss the optimization and scaling of RGA operations in greenhouses.",
-                "Consider the implications of wet season challenges and tropical greenhouse considerations.",
-                "Outline the traditional vs. innovative breeding methods and their applications in field trials."
+                "Greet participants and welcome them to the seminar.",
+                "Present a brief introduction of the seminar speaker, Dr. Bert Collier.",
+                "Highlight Dr. Collier's background and achievements in rice breeding."
             ]
         },
         {
-            "task": "Subtasks will be further broken down in a step-by-step process as part of the MAINTASK.",
-            "subtasks": []
+            "task": "Discuss the history and impact of Erie's irrigated rice breeding program.",
+            "subtasks": [
+                "Mention the development and release of IR8 in 1966 and its significant yield increase.",
+                "Highlight the success of IR36 and IR64 varieties, noting their widespread adoption in Southeast Asian countries.",
+                "Present data on the economic benefits of Erie's irrigated rice varieties, cited from ACR's independent assessment."
+            ]
+        },
+        {
+            "task": "Explain the challenges and necessity of changing the breeding program.",
+            "subtasks": [
+                "Discuss the impact of full cost recovery on breeding operations.",
+                "Highlight the high cost of traditional breeding methods in comparison to funding allocations.",
+                "Summarize the restructuring and reallocation of breeding activities, including the decentralization of hubs to Hyderabad and Burundi."
+            ]
+        },
+        {
+            "task": "Present recent research findings and the challenges in genetic gain.",
+            "subtasks": [
+                "Present results from the era experiment comparing old and modern varieties.",
+                "Discus the sliding rate of genetic gain and its insufficient pace to meet future demands."
+            ]
+        },
+        {
+            "task": "Describe the new breeding methods and approaches introduced.",
+            "subtasks": [
+                "Explain the transition to Rapid Generation Advance (RGA) technique for early breeding stages.",
+                "Describe field trials and replication across multiple locations to accelerate the breeding process."
+            ]
         }
     ]
 }

@@ -5,316 +5,158 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Transporting produce",
+            "task": "Plowing field",
             "subtasks": [
-                "Loading produce onto vehicle",
-                "Unloading produce from vehicle at market"
+                "Sit on tractor seat",
+                "Operate tractor controls",
+                "Guide tractor with pedals and steering wheel",
+                "Overcome rural terrain",
+                "Navigate tractor around field",
+                "Couples per hour ploughted",
+                "Adjust plow depth"
             ]
         },
         {
-            "task": "Selling produce at market",
+            "task": "Attaching implements",
             "subtasks": [
-                "Preparing produce for sale",
-                "Handling money and transactions with customers"
+                "Lift hydraulic arms",
+                "Secure plow",
+                "Tighten bolts"
             ]
         },
         {
-            "task": "Irrigating crops",
+            "task": "Driving tractor",
             "subtasks": [
-                "Operating irrigation system",
-                "Walking through fields to check water distribution"
+                "Operate steering wheel",
+                "Adjust speed",
+                "Make turns",
+                "Engage and disengage power take-off"
             ]
         },
         {
-            "task": "Planting seeds",
+            "task": "Checking equipment",
             "subtasks": [
-                "Preparing soil for planting",
-                "Using planting equipment to sow seeds"
+                "Inspect plow blades",
+                "Look for debris",
+                "Lubricate moving parts"
             ]
         },
         {
-            "task": "Harvesting crops",
+            "task": "Marking the blocks",
             "subtasks": [
-                "Cutting or picking mature produce",
-                "Sorting and collecting harvest"
+                "Spray paint boundaries",
+                "Measure distances"
             ]
         },
         {
-            "task": "Maintaining farm equipment",
-            "subtasks": [
-                "Cleaning and servicing vehicles",
-                "Lubricating and tending to mechanical parts"
-            ]
-        },
-        {
-            "task": "Administering a contest",
-            "subtasks": [
-                "Evaluating entries or performances",
-                "Announcing winners or results"
-            ]
-        },
-        {
-            "task": "Grading produce",
-            "subtasks": [
-                "Measuring and inspecting produce quality",
-                "Assigning grades or scores"
-            ]
-        },
-        {
-            "task": "Weighing produce",
-            "subtasks": [
-                "Using a scale to measure weight",
-                "Recording weight measurements"
-            ]
-        },
-        {
-            "task": "Administering a contest (Mercy judge)",
-            "subtasks": [
-                "Evaluating entries (experiencesify)",
-                "Announcing results"
-            ]
-        },
-        {
-            "task": "Judging farm produce",
-            "subtasks": [
-                "Inspecting produce",
-                "Assigning grades/scores",
-                "Announcing winners"
-            ]
-        },
-        {
-            "task": "Administering a contest (judging)",
-            "subtasks": [
-                "Inspecting entries",
-                "Assigning scores",
-                "Announcing results"
-            ]
-        },
-        {
-            "task": "Grading produce",
-            "subtasks": [
-                "Measuring produce",
-                "Assigning grades"
-            ]
-        },
-        {
-            "task": "Weighing produce",
-            "subtasks": [
-                "Using a scale",
-                "Recording weights"
-            ]
-        },
-        {
-            "task": "Transporting produce",
-            "subtasks": [
-                "Loading onto vehicle",
-                "Unloading at market"
-            ]
-        },
-        {
-            "task": "Selling produce at market",
-            "subtasks": [
-                "Handling transactions",
-                "Displaying produce"
-            ]
-        },
-        {
-            "task": "Irrigating crops",
-            "subtasks": [
-                "Operating irrigation equipment",
-                "Checking water flow"
-            ]
-        },
-        {
-            "task": "Planting seeds",
-            "subtasks": [
-                "Preparing soil",
-                "Using equipment to sow seeds"
-            ]
-        },
-        {
-            "task": "Maintaining farm equipment",
-            "subtasks": [
-                "Cleaning vehicles",
-                "Servicing machinery"
-            ]
-        },
-        {
-            "task": "Judging mercy pigs",
-            "subtasks": [
-                "Inspecting piglets for health",
-                "Measuring growth",
-                "Assigning scores"
-            ]
-        },
-        {
-            "task": "Demonstrating farm tasks",
+            "task": "Plowing field. Under this, subtasks would involve getting on the tractor (sit on seat), operating the controls ( pedals and steering wheel). Also, the tractor has to navigate the field, so overcoming rural terrain, steering around, etc. Plowing speed might affect how many couples per hour are ploughed, so adjust depth and speed.",
             "subtasks": []
         },
         {
-            "task": "Administering a contest (judging)",
-            "subtasks": [
-                "Evaluating produce entries",
-                "Announcing winners"
-            ]
-        },
-        {
-            "task": "Grading produce",
-            "subtasks": [
-                "Inspecting for quality",
-                "Assigning grades"
-            ]
-        },
-        {
-            "task": "Weighing produce",
-            "subtasks": [
-                "Using a scale",
-                "Recording weights"
-            ]
-        },
-        {
-            "task": "Transporting produce",
-            "subtasks": [
-                "Loading onto a vehicle",
-                "Unloading at market"
-            ]
-        },
-        {
-            "task": "Selling produce at market",
-            "subtasks": [
-                "Handling money and transactions",
-                "Displaying produce"
-            ]
-        },
-        {
-            "task": "Planting seeds",
-            "subtasks": [
-                "Preparing soil",
-                "Using a planter"
-            ]
-        },
-        {
-            "task": "Irrigating crops",
-            "subtasks": [
-                "Operating an irrigation system",
-                "Checking distribution"
-            ]
-        },
-        {
-            "task": "Judging farm produce",
-            "subtasks": [
-                "Inspecting entries",
-                "Assigning scores",
-                "Cleaning vehicles",
-                "Servicing machinery"
-            ]
-        },
-        {
-            "task": "Farm skills competition",
-            "subtasks": [
-                "Grading produce",
-                "Weighing produce",
-                "Planting seeds",
-                "Irrigating crops"
-            ]
-        },
-        {
-            "task": "",
+            "task": "Attaching implements. Since you mentioned using a plow, attaching that to the tractor would be a task. That involves hydraulic arms, securing the plow, tightening bolts.",
             "subtasks": []
         },
         {
-            "task": "Administering a contest (judging)",
+            "task": "Driving the tractor is another MAINTASK. This includes using the steering wheel, adjusting speed, making turns. The power take-off (PTO) might need to be engaged or disengaged.",
+            "subtasks": []
+        },
+        {
+            "task": "Checking equipment. Inspecting the plow blades, looking for debris, lubricating parts.",
+            "subtasks": []
+        },
+        {
+            "task": "Marking the blocks. That could involve painting boundaries, measuring distances, maybe setting up markers.",
+            "subtasks": []
+        },
+        {
+            "task": "Plowing field",
             "subtasks": [
-                "Inspecting entries/products",
-                "Assigning scores/grades",
-                "Announcing results",
-                "Interacting with participants (may not be in transcript, but possible in a contest)"
+                "Sit on tractor seat",
+                "Operate tractor controls (pedals and steering wheel)",
+                "Guide tractor with pedals and steering wheel",
+                "Overcome rural terrain",
+                "Navigate tractor around field",
+                "Couples per hour ploughed",
+                "Adjust plow depth"
             ]
         },
         {
-            "task": "Grading produce",
+            "task": "Attaching implements",
             "subtasks": [
-                "Measuring and inspecting",
-                "Assigning grades"
+                "Lift hydraulic arms",
+                "Secure plow",
+                "Tighten bolts"
             ]
         },
         {
-            "task": "Weighing produce",
+            "task": "Driving tractor",
             "subtasks": [
-                "Using a scale",
-                "Recording weights"
+                "Operate steering wheel",
+                "Adjust speed",
+                "Make turns",
+                "Engage and disengage power take-off"
             ]
         },
         {
-            "task": "Transporting produce",
+            "task": "Checking equipment",
             "subtasks": [
-                "Loading onto vehicle",
-                "Unloading at market"
+                "Inspect plow blades",
+                "Look for debris",
+                "Lubricate moving parts"
             ]
         },
         {
-            "task": "Selling produce at market",
+            "task": "Marking the blocks",
             "subtasks": [
-                "Handling money and transactions",
-                "Processing customer interactions"
+                "Spray paint boundaries",
+                "Measure distances"
             ]
         },
         {
-            "task": "Planting seeds",
+            "task": "Plowing field",
             "subtasks": [
-                "Preparing soil",
-                "Using planting equipment"
+                "Sit on tractor seat",
+                "Operate tractor controls"
             ]
         },
         {
-            "task": "Irrigating crops",
+            "task": "Marking the blocks",
             "subtasks": [
-                "Operating irrigation system",
-                "Checking water distribution"
+                "Measure distances"
             ]
         },
         {
-            "task": "Maintaining farm equipment",
+            "task": "Plowing field",
+            "subtasks": []
+        },
+        {
+            "task": "Attaching implements",
+            "subtasks": []
+        },
+        {
+            "task": "Driving tractor",
+            "subtasks": []
+        },
+        {
+            "task": "Checking equipment",
+            "subtasks": []
+        },
+        {
+            "task": "Marking the blocks",
+            "subtasks": []
+        },
+        {
+            "task": "Plowing field",
             "subtasks": [
-                "Cleaning vehicles and tools",
-                "Servicing machinery and vehicles"
+                "Sit on tractor seat",
+                "Operate tractor controls"
             ]
         },
         {
-            "task": "(1) Administering a contest (judging)",
-            "subtasks": []
-        },
-        {
-            "task": "Administering a contest (judging)**",
-            "subtasks": []
-        },
-        {
-            "task": "Grading produce**",
-            "subtasks": []
-        },
-        {
-            "task": "Weighing produce**",
-            "subtasks": []
-        },
-        {
-            "task": "Transporting produce**",
-            "subtasks": []
-        },
-        {
-            "task": "Selling produce at market**",
-            "subtasks": []
-        },
-        {
-            "task": "Planting seeds**",
-            "subtasks": []
-        },
-        {
-            "task": "Irrigating crops**",
-            "subtasks": []
-        },
-        {
-            "task": "Maintaining farm equipment**",
-            "subtasks": []
+            "task": "Marking the blocks",
+            "subtasks": [
+                "Measure distances"
+            ]
         }
     ]
 }

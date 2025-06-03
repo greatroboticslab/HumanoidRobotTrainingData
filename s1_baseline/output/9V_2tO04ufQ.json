@@ -5,168 +5,68 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "The morning routine for the new horse home.",
+            "task": "Performing morning routine for horses upon their return home.",
             "subtasks": [
-                "Feed the horses.",
-                "Check on the horses' health and living conditions.",
-                "Let the goats out.",
-                "Check on the goats and other animals (Ellie, a cat).",
-                "Clean up the barn and stalls.",
-                "Prepare feed and water for the horses and other animals.",
-                "Brush the cat, Ollie.",
-                "Check on the duck and goose.",
-                "Clean the duck pond."
+                "Feeding horses (Sam and Sophie division of labor).",
+                "Checking horses' stalls and feeding areas.",
+                "Ensuring horses' access to food and water.",
+                "Grooming and interactions with horses (e.g., Penny, Storm, Willow's relationship).",
+                "Managing barn cleanliness (cleaning stalls, removing excess bedding).",
+                "Preparing for evening chores (getting grain ready, throwing hay)."
             ]
         },
         {
-            "task": "Barn renovations and preparations.",
+            "task": "Managing small livestock (goats and ducks).",
             "subtasks": [
-                "Plan improvements for horse stalls and goat areas.",
-                "Consider adding stands, hooks, and flooring in the barn.",
-                "Think about expanding the farm setup for washstands and storage.",
-                "Addressing security measures for animals (like updating door locks)."
+                "Ensuring safety and proper enclosure for goats.",
+                "Feeding and caring for ducks and geese.",
+                "Cleaning duck pond and water areas."
             ]
         },
         {
-            "task": "Taking care of the horses' behavior.",
+            "task": "Barn renovations and future plans.",
             "subtasks": [
-                "Monitor Penny's adjustment to her new environment.",
-                "Address Penny's anxiety by ensuring she can see the handler.",
-                "Maintain close interaction with the horses to reassure them.",
-                "Provide enrichment activities, such as rolling in dirt."
+                "Discussing plans for barn improvements (walls, shelving, flooring).",
+                "Preparing for horse comfort and care (cleaning, water sources, grooming areas).",
+                "Considering future farm expansions (Tech room, horse-friendly barn)."
             ]
         },
         {
-            "task": "The morning routine for the arrival of the horses.",
-            "subtasks": []
-        },
-        {
-            "task": "Perform the morning routine for the horses.",
-            "subtasks": []
-        },
-        {
-            "task": "Complete morning feeding and horse care.",
-            "subtasks": []
-        },
-        {
-            "task": "Manage other animals.",
-            "subtasks": []
-        },
-        {
-            "task": "Clean and organize the barn.",
-            "subtasks": []
-        },
-        {
-            "task": "Plan future upgrades.",
-            "subtasks": []
-        },
-        {
-            "task": "Morning Horse Care and Feeding",
-            "subtasks": []
-        },
-        {
-            "task": "Goat and Other Animal Management",
-            "subtasks": []
-        },
-        {
-            "task": "Barn Cleaning and Improvements",
-            "subtasks": []
-        },
-        {
-            "task": "Plan Future Upgrades",
-            "subtasks": []
-        },
-        {
-            "task": "Otherwise, given the ask is to generate MAINTASKs with a list of subtasks, how much detail is needed? The main task should be a general action, then divided into specific steps.",
-            "subtasks": []
-        },
-        {
-            "task": "Morning Horse Feeding and Interaction",
-            "subtasks": []
-        },
-        {
-            "task": "Animal and Barn Management",
-            "subtasks": []
-        },
-        {
-            "task": "Plan and Implement Barn Upgrades",
-            "subtasks": []
-        },
-        {
-            "task": "Greet and feed the horses.",
-            "subtasks": []
-        },
-        {
-            "task": "Manage the goats and other animals.",
-            "subtasks": []
-        },
-        {
-            "task": "Clean the barn and plan for upgrades.",
-            "subtasks": []
-        },
-        {
-            "task": "Feeding and interacting with the horses",
-            "subtasks": []
-        },
-        {
-            "task": "Managing other animals (goats, cat)",
-            "subtasks": []
-        },
-        {
-            "task": "Cleaning the barn and planning upgrades",
-            "subtasks": []
-        },
-        {
-            "task": "Yes, that seems like a good breakdown. Each MAINTASK corresponds to a big section of the transcript where the person is involved in a specific activity. Each MAINTASK is accompanied by one or more subtasks that detail what they physically do.",
-            "subtasks": []
-        },
-        {
-            "task": "Therefore, I will structure the answer as such, starting with MAINTASKs followed by their respective subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Morn morning routine for the new home MAINTASK.",
-            "subtasks": []
-        },
-        {
-            "task": "Greet and care for the horses.",
-            "subtasks": []
-        },
-        {
-            "task": "Manage and check on other animals.",
-            "subtasks": []
-        },
-        {
-            "task": "Clean the barn and plan improvements.",
-            "subtasks": []
-        },
-        {
-            "task": "Overall, these three MAINTASKs cover the primary physical actions described in the transcript. Each MAINTASK is a broad activity, and the corresponding subtasks are the specific steps involved. This should generate a comprehensive and accurate list of tasks based on the content of the transcript.",
-            "subtasks": []
-        },
-        {
-            "task": "Greet and care for the horses.",
+            "task": "Performing morning routine for horses upon their return home",
             "subtasks": [
-                "Introduce and feed the horses (honey, willow, storm).",
-                "Check stalls (hay consumption, adding shavings, drinking).",
-                "Allow interaction between horses (e.g., bringing out Storm)."
+                "Feeding horses",
+                "Stall and pen management",
+                "Animal interactions and conflict resolution",
+                "Barn and livestock management"
             ]
         },
         {
-            "task": "Manage and check on other animals.",
+            "task": "Barn renovation plans and preparations",
             "subtasks": [
-                "Let goats out into their area.",
-                "Check on the indoor cat, Ellie.",
-                "Feed other animals (chickens, ducks)."
+                "Discuss plans for barn improvements"
             ]
         },
         {
-            "task": "Clean the barn and plan improvements.",
+            "task": "Performing morning routine for horses upon their return home.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Performing morning routine for horses upon their return home",
             "subtasks": [
-                "Remove debris and clean stalls.",
-                "Address stall door security (e.g., fixing Storm's door).",
-                "Enhance barn setup (e.g., crossrails, shelves).",
-                "Consider installing a fan for cooling."
+                "Feed horses",
+                "Stall and pen management",
+                "Animal interactions and conflict resolution",
+                "Barn and livestock management"
+            ]
+        },
+        {
+            "task": "Barn renovations and future plans",
+            "subtasks": [
+                "Install stall mats for hygiene",
+                "Resolve conflicts through managed interactions",
+                "Manage goat enclosures safely",
+                "Care for ducks and geese",
+                "Plan future barn improvements (shelving, wash areas)"
             ]
         }
     ]

@@ -5,46 +5,48 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Understanding rice harvesting process",
+            "task": "Rice Harvesting Process",
             "subtasks": [
-                "Identify signs of rice maturity (color change, grain texture)",
-                "Determine optimal harvest timing to maximize yield",
-                "Choose manual (sickle) vs. mechanized (combine harvester) cutting methods",
-                "Bundle and dry cut stalks (sheaves)",
-                "Thresh grains from stalks (manual flail vs. mechanical threshers)",
-                "Winnow removal of chaff from grains (manual tossing vs. mechanical winnowing)",
-                "Milling to remove husks (hulling machines)",
-                "Polishing to remove bran layers (polishing machines)"
+                "Identify ripeness through visual and grain maturity checks",
+                "Determine optimal harvest timing to prevent under- or over-ripening",
+                "Select between manual (sickle) or mechanized (combine harvester) cutting methods",
+                "Cut rice stalks using chosen method",
+                "Bundle cut stalks and allow to dry",
+                "Perform threshing (manual flail or mechanical) to separate grains from stalks",
+                "Winnow separated grains to remove chaff",
+                "Mill grains to remove outer husk and bran layers",
+                "Polish milled rice for shine and consistency",
+                "Understand the consumer's finished rice product journey from field to plate"
             ]
         },
         {
-            "task": "Transition from field to table",
+            "task": "Explanation and appreciation of rice's agricultural process",
             "subtasks": [
-                "Recognize the importance of each process step",
-                "Appreciate the combination of traditional and modern techniques",
-                "Realize the effort behind a simple bowl of rice"
+                "Acknowledge the importance of timely harvest in achieving high yield and quality",
+                "Highlight the evolution of harvesting methods from traditional to modern techniques",
+                "Emphasize the connection between farmers and their crop throughout the process",
+                "Convey the significance of each step in transformation from field to dining table"
             ]
         },
         {
-            "task": "MAINTASK: Understanding rice harvesting process",
-            "subtasks": [
-                "Identify signs of rice maturity (color change, grain texture)",
-                "Determine optimal harvest timing to maximize yield",
-                "Choose manual (sickle) vs. mechanized (combine harvester) cutting methods",
-                "Bundle and dry cut stalks (sheaves)",
-                "Thresh grains from stalks (manual flail vs. mechanical threshers)",
-                "Winnow removal of chaff from grains (manual tossing vs. mechanical winnowing)",
-                "Milling to remove husks (hulling machines)",
-                "Polishing to remove bran layers (polishing machines)"
-            ]
+            "task": "MAINTASK: Rice Harvesting Process",
+            "subtasks": []
         },
         {
-            "task": "Transition from field to table",
-            "subtasks": [
-                "Recognize the importance of each process step",
-                "Appreciate the combination of traditional and modern techniques",
-                "Realize the effort behind a simple bowl of rice"
-            ]
+            "task": "Explanation and appreciation of rice's agricultural process",
+            "subtasks": []
+        },
+        {
+            "task": "Rice Harvesting Process",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Rice Harvesting Process",
+            "subtasks": []
+        },
+        {
+            "task": "Explanation and appreciation of rice's agricultural process",
+            "subtasks": []
         }
     ]
 }

@@ -5,59 +5,56 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Treat the harvest or crops in the field.",
+            "task": "Arrive at the strawberry field for pick-up",
             "subtasks": [
-                "Ride a tractor or other farming vehicle.",
-                "Adjust the harvester attachments or implements on the tractor.",
-                "Operate the harvesting equipment to collect the crops.",
-                "Transfer the harvested produce from the field to storage or transport."
+                "Drive a pickup truck to the strawberry field",
+                "Open the tailgate to access the bins"
             ]
         },
         {
-            "task": "Service the equipment.",
+            "task": "Pick strawberries",
             "subtasks": [
-                "Inspect the harvester and other agricultural machinery for any issues.",
-                "Perform basic maintenance tasks like lubrication or cleaning parts.",
-                "Replace damaged or worn components on the equipment."
+                "Bend over to reach low-lying strawberry plants",
+                "Reach between strawberry plants to\u6458\u53d6 berries",
+                "Place the strawberries into the bins",
+                "Periodically check the weight or volume of the bins"
             ]
         },
         {
-            "task": "Communicate with someone from San Gabriel.",
+            "task": "Load pick-up truck with filled bins",
             "subtasks": [
-                "Use a phone or another communication device to connect with the person from San Gabriel.",
-                "Discuss potential assistance or coordination regarding the crops or fields."
+                "Bend down to assist bins into the truck bed",
+                "Stack bins neatly in the truck bed"
             ]
         },
         {
-            "task": "Follow up with a thank-you message.",
+            "task": "Transport strawberries to the packing shed",
             "subtasks": [
-                "Compose a text or send an email expressing gratitude.",
-                "Included any necessary information discussed with the San Gabriel contact."
+                "Drive the pickup truck to the packing shed",
+                "Park the truck in a designated area",
+                "Unload the bins from the truck"
             ]
         },
         {
-            "task": "Treat the harvest or crops in the field.",
-            "subtasks": []
+            "task": "Transfer strawberries from bins to packing equipment",
+            "subtasks": [
+                "Open bins to access the strawberries",
+                "Carefully pour or pour the strawberries onto the packing line"
+            ]
         },
         {
-            "task": "Follow up with a thank-you message.",
-            "subtasks": []
+            "task": "Clean up after strawberry picking",
+            "subtasks": [
+                "Remove bins and other equipment from the field",
+                "Clean any spilled berries or equipment"
+            ]
         },
         {
-            "task": "Treat the harvest or crops in the field.**",
-            "subtasks": []
-        },
-        {
-            "task": "Service the equipment.**",
-            "subtasks": []
-        },
-        {
-            "task": "Communicate with someone from San Gabriel.**",
-            "subtasks": []
-        },
-        {
-            "task": "Follow up with a thank-you message.**",
-            "subtasks": []
+            "task": "Return to starting location",
+            "subtasks": [
+                "Drive the pickup truck back to the original location",
+                "Close the tailgate when leaving the field"
+            ]
         }
     ]
 }

@@ -5,34 +5,60 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Making biochar",
+            "task": "Make biochar from bamboo using a simple kiln.",
             "subtasks": [
-                "Cutting bamboo",
-                "Trimming bamboo branches",
-                "Cutting bamboo to size",
-                "Building a biochar pit",
-                "Starting a fire in the pit",
-                "Maintaining the fire temperature",
-                "Monitoring the biochar formation",
-                "Steaming the biochar to quench the fire",
-                "Chipping and shredding the biochar",
-                "Mixing biochar with composted cow manure",
-                "Adding moisture and microbial community"
+                "Cut bamboo using loppers and a battery-powered saber saw.",
+                "Trim bamboo branches with a machete.",
+                "Use a table saw to cut bamboo to size.",
+                "Start a fire in the kiln from the top down using paper, kindling, and cardboard.",
+                "Add dried bamboo to the kiln and monitor temperature (aiming for 450-550 degrees).",
+                "Maintain the fire by adding more bamboo and spraying with water to prevent ash formation.",
+                "Steam clean the biochar by adding water to the pit's base and awaiting steam rise.",
+                "Chip and shred the biochar into suitable particle size using an electric shredder.",
+                "Transfer composted manure to the garden using a tractor.",
+                "Mix biochar with composted manure in a compost pile.",
+                "Apply biochar to the garden soil, moistening and inoculating with\u5fae\u751f\u7269\u7fa4\u843d."
             ]
         },
         {
-            "task": "Using heat from biochar production",
+            "task": "Construct a Kon-Tiki kiln for biochar production.",
             "subtasks": [
-                "Designing a Kon-Tiki kiln",
-                "Cooking with biochar heat",
-                "Generating electricity from biochar heat"
+                "Design and build a pit-shaped biochar kiln following the Kon-Tiki design.",
+                "Prepare the kiln by digging a\u5751\u6df1\u7ea61\u7c73\uff0c\u76f4\u5f84\u7ea62-2.5\u7c73\u7684pit.",
+                "Lay a hose at the kiln's base for steam cleaning after pyrolysis."
             ]
         },
         {
-            "task": "Scaling biochar production",
+            "task": "Scale biochar production for larger volumes.",
             "subtasks": [
-                "Increasing biochar output with larger pits",
-                "Considering commercial biochar production"
+                "Research and invest in more permanent kiln designs for increased biochar output.",
+                "Explore heat utilization options such as cooking or electricity generation from biochar production."
+            ]
+        },
+        {
+            "task": "Promote biochar use as a climate solution.",
+            "subtasks": [
+                "Encourage individuals to make biochar and contribute to global carbon sequestration efforts."
+            ]
+        },
+        {
+            "task": "** MAINTASK: Make biochar from bamboo using a simple kiln.",
+            "subtasks": [
+                "Cut bamboo; Trim branches; Dry bamboo.",
+                "Start fire; Add bamboo; Monitor temperature.",
+                "Prevent ash formation; Steam clean biochar; Shred; Mix with compost."
+            ]
+        },
+        {
+            "task": "Construct a Kon-Tiki kiln.",
+            "subtasks": [
+                "Design and build; Prepare pit; Install steam hose."
+            ]
+        },
+        {
+            "task": "Promote biochar production.",
+            "subtasks": [
+                "Invest in kilns; Utilize heat; Encourage use."
             ]
         }
     ]

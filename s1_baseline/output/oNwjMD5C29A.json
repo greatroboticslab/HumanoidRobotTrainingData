@@ -5,15 +5,75 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Understanding and preventing Foot and Mouth Disease",
+            "task": "Reporting Suspected Foot and Mouth Disease Cases",
             "subtasks": [
-                "Recognizing signs of FMD in cattle",
-                "Recognizing signs of FMD in pigs",
-                "Recognizing signs of FMD in sheep and goats",
-                "Identifying ways FMD spreads",
-                "Reporting suspected FMD cases to a veterinarian or local authority",
-                "Adhering to quarantine measures during an FMD outbreak",
-                "Cooperating with local authorities in disease control efforts"
+                "Observing animals for symptoms",
+                "Noticing signs such as depression, fever, salivation, blisters, and difficulty eating",
+                "Identifying affected areas like mouth, feet, and teats",
+                "Checking for sudden deaths in calves or piglets",
+                "Collecting information about animals' condition and movements",
+                "Contacting a veterinarian immediately upon suspicion",
+                "Isolating infected animals and limiting farm movements",
+                "Cooperating with local authorities for investigation and sample collection"
+            ]
+        },
+        {
+            "task": "Preventing Disease Spread",
+            "subtasks": [
+                "Monitoring personal and equipment hygiene",
+                "Cleaning and disinfecting clothing and footwear before entering the farm",
+                "Disinfecting animal transport vehicles and gear",
+                "Avoiding movement of animals onto or off the farm",
+                "Checking for contaminated materials like feed and water",
+                "Reporting suspicious symptoms early to prevent wider spread"
+            ]
+        },
+        {
+            "task": "Understanding Foot and Mouth Disease",
+            "subtasks": [
+                "Recognizing the contagious nature of FMD",
+                "Understanding how the virus spreads through direct contact and contaminated materials",
+                "Knowing the impact of FMD on trade and production",
+                "Being aware of the role of human activities in spreading the disease",
+                "Recognizing the symptoms in different animals (cattle, pigs, sheep, goats)",
+                "Understanding the laboratory confirmation process"
+            ]
+        },
+        {
+            "task": "In terms of tasks, reporting the disease would be one MAINTASK. Under that, there are subtasks like observing animals (checking for fever, blisters, etc.), noting signs, contacting the vet immediately when suspecting FMD. Then, when the vet comes, which includes putting sick animals under quarantine and limiting movement. The veterinarian takes samples for testing.",
+            "subtasks": []
+        },
+        {
+            "task": "Another MAINTASK could be Preventing Spread. Here, maintaining hygiene is crucial. This includes washing hands and disinfecting footwear before entering the farm. Cleaning and disinfecting any equipment that might have come into contact with the animals. Also, not moving animals onto or off the farm once there's a suspicion. Checking for contaminated feed, water, etc. So maybe the subtasks here would be Monitoring personal hygiene, cleaning gear, disinfecting vehicles, and avoiding animal movement.",
+            "subtasks": []
+        },
+        {
+            "task": "Another MAINTASK is Understanding the disease. This is more general. Tasks here would be recognizing how contagious it is, understanding the spread (through contact and contaminated materials), knowing the impact on trade, and the role of humans in spreading it. Also, recognizing specific signs in different animals. And knowing that the confirmation comes from lab tests after the vet collects samples.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Reporting Suspected Foot and Mouth Disease Cases",
+            "subtasks": [
+                "Observing animals for symptoms (e.g., depression, fever, blisters, decreased eating)",
+                "Noticing signs in different animals (cattle, pigs, sheep, goats)",
+                "Contacting a veterinarian immediately upon suspicion",
+                "Isolating infected animals and limiting farm movements"
+            ]
+        },
+        {
+            "task": "Preventing Disease Spread",
+            "subtasks": [
+                "Monitoring personal and equipment hygiene (cleaning clothing, footwear, vehicles)",
+                "Avoiding movement of animals and limiting contact with contaminated materials",
+                "Reporting sensitive symptoms early"
+            ]
+        },
+        {
+            "task": "Understanding Foot and Mouth Disease",
+            "subtasks": [
+                "Recognizing the contagious nature and spread through direct contact and contaminated materials",
+                "Understanding the impact on trade and production",
+                "Noting the role of human activities in spreading the disease"
             ]
         }
     ]

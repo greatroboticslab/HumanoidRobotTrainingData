@@ -5,25 +5,19 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Choose a farm machine from options including a subcompact tractor (John Deere 1025R), a skid steer (John Deere 333G), a large compact tractor (John Deere 4720), a utility tractor (Kubota M4D-071), and a mini excavator (CAT 305E2).",
+            "task": "Evaluate pros and cons of five farming machines (subcompact tractor, skid steer, compact tractor, utility tractor, and mini excavator) for a 140-acre property.",
             "subtasks": [
-                "Evaluate pros and cons of a subcompact tractor for a 140-acre property with fields, woods, and ponds.",
-                "Consider the size and stability of a skid steer on a hilly property for heavy lifting and clearing tasks.",
-                "Weigh the benefits of a large compact tractor (hydrostatic, good for mowing, maintenance, and clean lawn areas).",
-                "Analyze the versatility and performance of a utility tractor (Kubota M4D-071) for large acreage and specific projects like plowing and grading.",
-                "Assess the limitations and applications of a mini excavator (CAT 305E2) for tasks like driveway construction and bank stabilization.",
-                "Determine that the 4720 compact tractor provides the best balance of power, comfort, and efficiency for the property, hence the recommendation."
+                "Assess the capabilities of a John Deere 1025R subcompact tractor (small but versatile, can handle various tasks like tillage, mowing, trail maintenance).",
+                "Compare the power and stability of a John Deere 333G skid steer (high-flow hydraulic systems, excellent for heavy lifting and hilly terrain).",
+                "Analyze the benefits of a large compact tractor (hydrostatic transmission, high lift capacity, comfortable cab, suited for larger acreage).",
+                "Consider a Kubota M4D-071 utility tractor (good for setting and forgetting tasks like brush hogging and field mowing, less prone to overheating).",
+                "Evaluate a Caterpillar 305E2 mini excavator (versatile for specific projects like pond maintenance, steep bank clearing, but limited in overall applications)."
             ]
         },
         {
-            "task": "MAINTASK: Choose a farm machine from options including a subcompact tractor (John Deere 1025R), a skid steer (John Deere 333G), a large compact tractor (John Deere 4720), a utility tractor (Kubota M4D-071), and a mini excavator (CAT 305E2).",
+            "task": "Decide which machine to keep if having to choose one.",
             "subtasks": [
-                "Evaluate pros and cons of a subcompact tractor for a 140-acre property with fields, woods, and ponds.",
-                "Consider the size and stability of a skid steer on a hilly property for heavy lifting and clearing tasks.",
-                "Weigh the benefits of a large compact tractor (hydrostatic, good for mowing, maintenance, and clean lawn areas).",
-                "Analyze the versatility and performance of a utility tractor (Kubota M4D-071) for large acreage and specific projects like plowing and grading.",
-                "Assess the limitations and applications of a mini excavator (CAT 305E2) for tasks like driveway construction and bank stabilization.",
-                "Determine that the 4720 compact tractor provides the best balance of power, comfort, and efficiency for the property, hence the recommendation."
+                "Discuss the choice between the John Deere 4720 compact tractor (hydrostatic, comfortable cab, high lift capacity, suitable for property size) as the final selection."
             ]
         }
     ]

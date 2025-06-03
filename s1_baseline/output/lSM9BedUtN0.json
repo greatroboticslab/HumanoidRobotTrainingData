@@ -5,28 +5,29 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Chainsaw Safety Check and Use",
+            "task": "Chainsaw Safety Check and Preparation",
             "subtasks": [
-                "Ensure safety features are present",
-                "Check chain sharpness",
-                "Verify bar oil reservoir is filled correctly",
-                "Confirm fuel mixture meets manufacturer's ratio",
-                "Wear personal protective equipment",
-                "Use sturdy boots and chainsaw chaps",
-                "Protect head with hard hat",
-                "Wear hearing protection",
-                "Use safety glasses",
-                "Wear gloves when sharpening"
+                "Inspect safety features",
+                "Ensure chain sharpness",
+                "Check bar oil reservoir",
+                "Verify fuel mixture ratio"
             ]
         },
         {
-            "task": "Chainsaw Safety Check and Use**",
+            "task": "Personal Protective Equipment (PPE)",
             "subtasks": [
-                "** Verify all safety features on the chainsaw are present and functioning correctly.",
-                "** Check if the chain is sharp; dull chains reduce efficiency and require more effort, which is avoidable.",
-                "** Ensure the bar oil reservoir is filled with the correct manufacturer-recommended oil; using motor oil is not acceptable.",
-                "** Confirm the fuel mixture adheres to the manufacturer's specifications, typically a 50:1 ratio.",
-                "** Wear appropriate personal protective equipment (PPE) to minimize the risk of injury. This includes:"
+                "Wear sturdy boots",
+                "Use chainsaw chaps",
+                "Protect head with hard hat",
+                "Use hearing protection",
+                "Wear safety glasses",
+                "Use gloves when sharpening"
+            ]
+        },
+        {
+            "task": "Visit Alabama Extension website for more safety tips",
+            "subtasks": [
+                "Note website address"
             ]
         }
     ]

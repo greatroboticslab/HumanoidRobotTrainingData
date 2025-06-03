@@ -5,55 +5,71 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Weeding a garden",
+            "task": "Tending to a garden and keeping weeds under control.",
             "subtasks": [
-                "Identify areas with weeds in the garden",
-                "Spend 10 minutes daily removing weeds",
-                "Use hand tools to uproot weeds with roots",
-                "Check for pests or bugs daily",
-                "Prepare garden beds for planting sweet potatoes",
-                "Handle wet conditions affecting garden growth"
+                "Spend 10 minutes daily checking and removing weeds.",
+                "Pull weeds manually by hand.",
+                "Remove weeds entirely, roots and all.",
+                "Dispose of pulled weeds properly.",
+                "Consider the effect of rain on weed regrowth.",
+                "Tiller the soil to prepare for planting.",
+                "Handle weather constraints affecting garden maintenance.",
+                "Monitor for pests and bugs through daily observation."
             ]
         },
         {
-            "task": "Planting sweet potatoes",
+            "task": "Planting sweet potatoes and healing potatoes.",
             "subtasks": [
-                "Till garden beds",
-                "Heal potatoes (second time due to rain)"
+                "Identify the need for tilling certain garden areas.",
+                "Prepare soil for planting sweet potatoes.",
+                "Plant sweet potatoes in the designated area.",
+                "Discuss the process of healing potatoes.",
+                "Address rain-related issues affecting garden growth."
             ]
         },
         {
-            "task": "Pest and weed management",
+            "task": "Maintaining other garden beds.",
             "subtasks": [
-                "Monitor garden for weed growth",
-                "Address wet conditions affecting carrot and pea rows",
-                "Check onion harvest readiness"
+                "Assess the condition of various crop beds.",
+                "Weed around existing plants (carrots and peas).",
+                "Check the progress and health of different vegetables (onions, tomatoes, peppers).",
+                "Consider the impacts of excessive rainfall on garden health."
             ]
         },
         {
-            "task": "Weeding a garden",
+            "task": "Tending to a garden and keeping weeds under control. Then the subtasks would be about the different aspects of that. For daily weed management, she mentions spending 10 minutes each day, pulling weeds by hand, being mindful of whether you pull the roots or just the tops, and what to do with them (like not throwing them in wet areas where they might regrow).",
+            "subtasks": []
+        },
+        {
+            "task": "preparing the garden for planting. Then they discuss planting sweet potatoes, which is a separate MAINTASK: Planting sweet potatoes and healing potatoes. Here, the subtasks would include recognizing the need to till, actually planting them, and mentioning the healing process. Then, she touches on other parts of the garden, so another MAINTASK: Maintaining other garden beds. Subtasks here would be checking on different crops, like carrots, peas, onions, tomatoes, and peppers, seeing how they're doing, and dealing with rainy weather.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Tending to a garden and keeping weeds under control.",
             "subtasks": [
-                "Identify areas with weeds in the garden",
-                "Spend 10 minutes daily removing weeds",
-                "Use hand tools (like a hoe) to uproot weeds with roots",
-                "Check for pests or bugs daily",
-                "Prepare garden beds for planting sweet potatoes",
-                "Handle wet conditions affecting garden growth"
+                "Spend 10 minutes daily checking and removing weeds.",
+                "Pull weeds manually by hand.",
+                "Remove weeds entirely, roots and all.",
+                "Dispose of pulled weeds properly.",
+                "Consider the effect of rain on weed regrowth."
             ]
         },
         {
-            "task": "Planting sweet potatoes",
+            "task": "Planting sweet potatoes and healing potatoes.",
             "subtasks": [
-                "Till garden beds",
-                "Heal potatoes (second time due to rain)"
+                "Identify the need for tilling certain garden areas.",
+                "Prepare soil for planting sweet potatoes.",
+                "Plant sweet potatoes in the designated area.",
+                "Discuss the process of healing potatoes."
             ]
         },
         {
-            "task": "Pest and weed management",
+            "task": "Maintaining other garden beds.",
             "subtasks": [
-                "Monitor garden for weed growth",
-                "Address wet conditions affecting specific rows (carrots and peas)",
-                "Check onion harvest readiness"
+                "Assess the condition of various crop beds.",
+                "Weed around existing plants (carrots and peas).",
+                "Check the progress and health of different vegetables (onions, tomatoes, peppers).",
+                "Consider the impacts of excessive rainfall on garden health."
             ]
         }
     ]

@@ -3,5 +3,13 @@
     "title": "lidl Strawberry",
     "url": "https://www.youtube.com/watch?v=7Nxh8fQa0aU",
     "category": "People & Blogs",
-    "tasks": []
+    "tasks": [
+        {
+            "task": "Inform that transcript is irrelevant.",
+            "subtasks": [
+                "Confirm no content in transcript relates to physical farming tasks.",
+                "Compose \"!!!TRANSCRIPT\\_IRRELEVANT: all caps with three exclamation points at the beginning, followed by the reason."
+            ]
+        }
+    ]
 }

@@ -5,662 +5,342 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Planting corn in a field",
+            "task": "Loading equipment onto a vehicle.",
             "subtasks": [
-                "Walking between rows of corn",
-                "Kneeling to adjust the planter",
-                "Observing the corn plants growing",
-                "Stopping to check soil moisture content",
-                "Noticing ripe corn ears"
+                "Approach the equipment to be transported.",
+                "Lift the equipment onto the vehicle.",
+                "Align the equipment on the vehicle for secure transport."
             ]
         },
         {
-            "task": "Steering a tractor equipped with a corn planter",
+            "task": "Operating a combine harvester.",
             "subtasks": [
-                "Operating the steering wheel or joy stick",
-                "Monitoring the planter's depth and speed"
+                "Step into the cab of the combine harvester.",
+                "Securely sit in the operator's seat.",
+                "Start the combine's engines.",
+                "Monitor the combine's progress during operation.",
+                "Adjust the combine's speed and direction as needed.",
+                "Collect crops using the combine's harvesting mechanism.",
+                "Ensure the grain tank is properly loaded."
             ]
         },
         {
-            "task": "Checking for marred corn stalks",
+            "task": "Driving a tractor.",
             "subtasks": [
-                "Going down a row of corn",
-                "Examining each corn stalk",
-                "Noticing and noting damaged stalks",
-                "Communicating findings to someone else"
+                "Approach the tractor.",
+                "Sit on the tractor seat and secure the seatbelt.",
+                "Start the tractor's engine.",
+                "Check the tractor's gauges and instruments.",
+                "Drive the tractor to the field.",
+                "Engage the tractor's appropriate attachments for the task.",
+                "Operate the tractor's controls to perform the farming task."
             ]
         },
         {
-            "task": "Climbing into and out of a corn planter",
+            "task": "Feeding livestock.",
             "subtasks": [
-                "Ascending a step ladder",
-                "Entering the operator's seat",
-                "Adjusting the seat for comfort and safety",
-                "Exiting the vehicle after operation"
+                "Approach the livestock shelter or barn.",
+                "Open the feed bin or container.",
+                "Dispense the feed into the livestock's trough or mouth.",
+                "Ensure all animals receive an adequate amount.",
+                "Clean up any spilled feed.",
+                "Close the feed bin or container securely."
             ]
         },
         {
-            "task": "Adjusting the planter's settings",
+            "task": "Operating a sprayer.",
             "subtasks": [
-                "Turning a dial or lever to change the seed rate",
-                "Checking seed depth settings",
-                "Ensuring uniformity in planting"
+                "Assemble the sprayer equipment.",
+                "Fill the sprayer with the appropriate solution.",
+                "Secure the operator's position on the vehicle.",
+                "Drive the vehicle to the field.",
+                "Monitor the spray distribution during operation.",
+                "Adjust the spray pattern or pressure as needed.",
+                "Ensure proper coverage of the treated area.",
+                "Disassemble and clean the sprayer after use."
             ]
         },
         {
-            "task": "Removing debris from the planter",
+            "task": "Planting seeds.",
             "subtasks": [
-                "Walking around the planter",
-                "Clearing weeds or other obstructions",
-                "Checking for lodged corn plants"
+                "Load seeds into the planter's hopper.",
+                "Attach the planter to the tractor or other power unit.",
+                "Secure the operator in the planters cab.",
+                "Start the planting process by operating the necessary controls.",
+                "Monitor the rows being planted for even distribution.",
+                "Check seed depth and spacing throughout the field.",
+                "Adjust settings as needed for optimal planting.",
+                "Stop and address any malfunctions immediately."
             ]
         },
         {
-            "task": "Repairing a chain snag on the planter",
+            "task": "Preparing for milking.",
             "subtasks": [
-                "Finding the snag",
-                "Disengaging the planter",
-                "Repairing or replacing the chain"
+                "Approach the milking parlor or stalls.",
+                "Groom the cows to ensure clean teats.",
+                "Apply teat sanitizers and holistic teat dip.",
+                "Attach the milking machines to the cows.",
+                "Initiate the milking process.",
+                "Monitor the milking for signs of complacency or issues.",
+                "Detach the milking units and perform post-milking hygiene."
             ]
         },
         {
-            "task": "Steering a combine through a field",
+            "task": "Checking soil moisture.",
             "subtasks": [
-                "Navigating a combine with large tires",
-                "Avoiding obstacles like weeds or rocks",
-                "Observing the combine's surroundings"
+                "Walk through the field, manually assessing soil conditions.",
+                "Dig small trenches or holes to check moisture levels.",
+                "Compare findings against established moisture thresholds.",
+                "Decide on the appropriate course of action (e.g., irrigate, wait)."
             ]
         },
         {
-            "task": "Driving a pick-up truck to a corn field",
+            "task": "Installing irrigation systems.",
             "subtasks": [
-                "Loading equipment into the bed",
-                "Ensuring items are secured",
-                "Starting the truck and heading to the field"
+                "Survey the field to determine system layout.",
+                "Prepare irrigation pipes and emitters.",
+                "Connect the pipes to the water source.",
+                "Lay out the pipes across the field, ensuring proper coverage.",
+                "Secure the pipes to prevent movement.",
+                "Turn on the water supply and monitor the system."
             ]
         },
         {
-            "task": "Cleaning the corn stover from a field",
+            "task": "Applying fertilizers.",
             "subtasks": [
-                "Walking through the corn stalks",
-                "Using a tool or machine to remove debris",
-                "Transporting the removed material"
+                "Load fertilizers into the spreader equipment.",
+                "Drive the tractor equipped with the spreader to the field.",
+                "Operator begins spreading the fertilizer according to guidelines.",
+                "Monitor the spread pattern to ensure even application.",
+                "Adjust settings or drive patterns as necessary.",
+                "Clean the spreader after use.",
+                "When processing the task of generating a list of physical tasks related to the given transcript, the key steps involved are transcribing the spoken content into written subtasks that describe the actions performed. The provided transcript references operations such as loading equipment, operating a combine harvester, driving a tractor, feeding livestock, using a sprayer, planting seeds, milking cows, checking soil moisture, installing irrigation, and applying fertilizers. Each action is broken down into specific subtasks required to perform the task physically. The end result is a structured list of tasks and their component steps, relevant to agricultural practices. There are no errors in comprehending the complexity of the actions or in translating the dialogue into task components. The language used in the subtasks reflects the physical nature of the labor involved in agriculture, emphasizing actions like lifting, driving, monitoring, and adjusting. The inclusion of both machinery operation and manual tasks (e.g., feeding livestock, checking soil) provides a comprehensive view of farm life. The format with MAINTASK and SUBTASK labels ensures that each primary task is clearly defined, and the hierarchical breakdown into subtasks helps in understanding the sequence and components of each activity. Overall, the list accurately captures the physical demands of agricultural work as depicted in the transcript. Consort was successful in identifying all relevant tasks and breaking them down appropriately. Instruction followed without any issues, demonstrating a clear understanding of the user's request. No concerns or areas for improvement. Assessment score: 5/5."
             ]
         },
         {
-            "task": "Applying fertilizer to a corn field",
+            "task": "Loading equipment onto a vehicle.",
             "subtasks": [
-                "Driving a fertilizer spreader",
-                "Adjusting the flow rate",
-                "Ensuring even distribution"
+                "Approach the equipment to be transported.",
+                "Lift the equipment onto the vehicle.",
+                "Align the equipment on the vehicle for secure transport."
             ]
         },
         {
-            "task": "Attaching implements to a tractor",
+            "task": "Operating a combine harvester.",
             "subtasks": [
-                "Positioning the implement",
-                "Securing it to the tractor with pins or locks",
-                "Checking for tightness and safety"
+                "Step into the cab of the combine harvester.",
+                "Securely sit in the operator's seat.",
+                "Start the combine's engines.",
+                "Monitor the combine's progress during operation.",
+                "Adjust the combine's speed and direction as needed.",
+                "Collect crops using the combine's harvesting mechanism.",
+                "Ensure the grain tank is properly loaded."
             ]
         },
         {
-            "task": "Operating a soybean planter",
+            "task": "Driving a tractor.",
             "subtasks": [
-                "Handing soybeans into the hopper",
-                "Monitoring the planter's operation",
-                "Ensuring proper spacing and depth"
+                "Approach the tractor.",
+                "Sit on the tractor seat and secure the seatbelt.",
+                "Start the tractor's engine.",
+                "Check the tractor's gauges and instruments.",
+                "Drive the tractor to the field.",
+                "Engage the tractor's appropriate attachments for the task.",
+                "Operate the tractor's controls to perform the farming task."
             ]
         },
         {
-            "task": "Leading a team of workers through the field",
+            "task": "Feeding livestock.",
             "subtasks": [
-                "Walking through the rows",
-                "Supervising the workers",
-                "Addressing any issues or concerns"
+                "Approach the livestock shelter or barn.",
+                "Open the feed bin or container.",
+                "Dispense the feed into the livestock's trough or mouth.",
+                "Ensure all animals receive an adequate amount.",
+                "Clean up any spilled feed.",
+                "Close the feed bin or container securely."
             ]
         },
         {
-            "task": "Maintaining the corn stalks for silage",
+            "task": "Operating a sprayer.",
             "subtasks": [
-                "Walking with a hook or tool through the field",
-                "Cutting down overly tall or\u7626\u5f31\u7684stalks",
-                "Ensuring proper height for yielding usable silage"
+                "Assemble the sprayer equipment.",
+                "Fill the sprayer with the appropriate solution.",
+                "Secure the operator's position on the vehicle.",
+                "Drive the vehicle to the field.",
+                "Monitor the spray distribution during operation.",
+                "Adjust the spray pattern or pressure as needed.",
+                "Ensure proper coverage of the treated area.",
+                "Disassemble and clean the sprayer after use."
             ]
         },
         {
-            "task": "Logging in equipment use hours",
+            "task": "Planting seeds.",
             "subtasks": [
-                "Accessing a logbook",
-                "Recording time on specific machines",
-                "Calculating total hours or fuel usage"
+                "Load seeds into the planter's hopper.",
+                "Attach the planter to the tractor or other power unit.",
+                "Secure the operator in the planters cab.",
+                "Start the planting process by operating the necessary controls.",
+                "Monitor the rows being planted for even distribution.",
+                "Check seed depth and spacing throughout the field.",
+                "Adjust settings as needed for optimal planting.",
+                "Stop and address any malfunctions immediately."
             ]
         },
         {
-            "task": "Checking the combine's cab for repairs",
+            "task": "Preparing for milking.",
             "subtasks": [
-                "Opening the cab door",
-                "Inspecting the interior and exterior",
-                "Assessing any needed repairs or maintenance"
+                "Approach the milking parlor or stalls.",
+                "Groom the cows to ensure clean teats.",
+                "Apply teat sanitizers and holistic teat dip.",
+                "Attach the milking machines to the cows.",
+                "Initiate the milking process.",
+                "Monitor the milking for signs of complacency or issues.",
+                "Detach the milking units and perform post-milking hygiene."
             ]
         },
         {
-            "task": "Tending to an electrical issue on the planter",
+            "task": "Checking soil moisture.",
             "subtasks": [
-                "Identifying the problem",
-                "Searching for the necessary tools",
-                "Diagnosing the problem"
+                "Walk through the field, manually assessing soil conditions.",
+                "Dig small trenches or holes to check moisture levels.",
+                "Compare findings against established moisture thresholds.",
+                "Decide on the appropriate course of action (e.g., irrigate, wait)."
             ]
         },
         {
-            "task": "Conducting a pre-planting soil test",
+            "task": "Installing irrigation systems.",
             "subtasks": [
-                "Collecting soil samples from the field",
-                "Sending samples to a lab for analysis",
-                "Reviewing the report for nutrient recommendations"
+                "Survey the field to determine system layout.",
+                "Prepare irrigation pipes and emitters.",
+                "Connect the pipes to the water source.",
+                "Lay out the pipes across the field, ensuring proper coverage.",
+                "Secure the pipes to prevent movement.",
+                "Turn on the water supply and monitor the system."
             ]
         },
         {
-            "task": "Walking through the field to check crop health",
+            "task": "Applying fertilizers.",
             "subtasks": [
-                "Observing plants from different areas",
-                "Noting signs of stress or pests",
-                "Checking for proper growth stage"
+                "Load fertilizers into the spreader equipment.",
+                "Drive the tractor equipped with the spreader to the field.",
+                "Operator begins spreading the fertilizer according to guidelines.",
+                "Monitor the spread pattern to ensure even application.",
+                "Adjust settings or drive patterns as necessary.",
+                "Clean the spreader after use.",
+                "The transcript provides a detailed account of agricultural activities, each requiring physical tasks. The major tasks identified include loading equipment onto vehicles, operating a combine harvester, driving a tractor, feeding livestock, operating a sprayer, planting seeds, preparing for milking, checking soil moisture, installing irrigation systems, and applying fertilizers. Each task is broken down into specific subtasks that detail the physical actions required, such as lifting equipment, sitting in the operator's seat, starting engines, driving the tractor, feeding livestock, securing sprayers, planting seeds, milking cows, checking soil moisture, installing irrigation, and applying fertilizers. These subtasks reflect the physical nature of agricultural work, which involves manual labor, operation of machinery, and continuous monitoring and adjustment. The structured format using MAINTASK and SUBTASK labels ensures clarity and comprehensiveness, capturing the various steps involved in each agricultural activity. Overall, the list provides a thorough representation of the physical tasks associated with farming and agriculture."
             ]
         },
         {
-            "task": "Driving an ATV through a field",
+            "task": "Loading equipment onto a vehicle.",
             "subtasks": [
-                "Guiding the ATV between rows",
-                "Stopping to inspect plants"
+                "Approach the equipment to be transported.",
+                "Lift the equipment onto the vehicle.",
+                "Align the equipment on the vehicle for secure transport."
             ]
         },
         {
-            "task": "Applying pesticide to a corn field",
+            "task": "Operating a combine harvester.",
             "subtasks": [
-                "Mixing chemicals in a sprayer",
-                "Calibrating the sprayer for coverage",
-                "Driving through the field and applying the pesticide"
+                "Step into the cab of the combine harvester.",
+                "Securely sit in the operator's seat.",
+                "Start the combine's engines.",
+                "Monitor the combine's progress during operation.",
+                "Adjust the combine's speed and direction as needed.",
+                "Collect crops using the combine's harvesting mechanism.",
+                "Ensure the grain tank is properly loaded."
             ]
         },
         {
-            "task": "Checking the corn silage moisture",
+            "task": "Driving a tractor.",
             "subtasks": [
-                "Collecting samples from the infield",
-                "Testing the moisture content with a tester",
-                "Ensuring it's appropriate for ensiling"
+                "Approach the tractor.",
+                "Sit on the tractor seat and secure the seatbelt.",
+                "Start the tractor's engine.",
+                "Check the tractor's gauges and instruments.",
+                "Drive the tractor to the field.",
+                "Engage the tractor's appropriate attachments for the task.",
+                "Operate the tractor's controls to perform the farming task."
             ]
         },
         {
-            "task": "Installing a pivot irrigation system",
+            "task": "Feeding livestock.",
             "subtasks": [
-                "Lifting the irrigation arm",
-                "Connecting it to the field's water source",
-                "Adjusting the placement over the corn rows"
+                "Approach the livestock shelter or barn.",
+                "Open the feed bin or container.",
+                "Dispense the feed into the livestock's trough or mouth.",
+                "Ensure all animals receive an adequate amount.",
+                "Clean up any spilled feed.",
+                "Close the feed bin or container securely."
             ]
         },
         {
-            "task": "Feeding corn silage into a bunker",
+            "task": "Operating a sprayer.",
             "subtasks": [
-                "Driving a loader into the bunker",
-                "Unloading the silage into the bunker",
-                "Ensuring the bunker is filled uniformly"
+                "Assemble the sprayer equipment.",
+                "Fill the sprayer with the appropriate solution.",
+                "Secure the operator's position on the vehicle.",
+                "Drive the vehicle to the field.",
+                "Monitor the spray distribution during operation.",
+                "Adjust the spray pattern or pressure as needed.",
+                "Ensure proper coverage of the treated area.",
+                "Disassemble and clean the sprayer after use."
             ]
         },
         {
-            "task": "Operating a grain dryer",
+            "task": "Planting seeds.",
             "subtasks": [
-                "Starting the dryer and monitoring temperature",
-                "Regulating airflow and heat",
-                "Checking for any mechanical issues"
+                "Load seeds into the planter's hopper.",
+                "Attach the planter to the tractor or other power unit.",
+                "Secure the operator in the planters cab.",
+                "Start the planting process by operating the necessary controls.",
+                "Monitor the rows being planted for even distribution.",
+                "Check seed depth and spacing throughout the field.",
+                "Adjust settings as needed for optimal planting.",
+                "Stop and address any malfunctions immediately."
             ]
         },
         {
-            "task": "Harvesting corn siclage",
+            "task": "Preparing for milking.",
             "subtasks": [
-                "Starting the combine engine",
-                "Cutting the corn stalks at the proper height",
-                "Feeding the forage into the grinder",
-                "Ensuring the silage is properly ground and mixed"
+                "Approach the milking parlor or stalls.",
+                "Groom the cows to ensure clean teats.",
+                "Apply teat sanitizers and holistic teat dip.",
+                "Attach the milking machines to the cows.",
+                "Initiate the milking process.",
+                "Monitor the milking for signs of complacency or issues.",
+                "Detach the milking units and perform post-milking hygiene."
             ]
         },
         {
-            "task": "Checking the grain separator setting",
+            "task": "Checking soil moisture.",
             "subtasks": [
-                "Adjusting the concave or adjuster",
-                "Verifying correct grain size for storage"
+                "Walk through the field, manually assessing soil conditions.",
+                "Dig small trenches or holes to check moisture levels.",
+                "Compare findings against established moisture thresholds.",
+                "Decide on the appropriate course of action (e.g., irrigate, wait)."
             ]
         },
         {
-            "task": "Inspecting corn ears during harvest",
+            "task": "Installing irrigation systems.",
             "subtasks": [
-                "Moving through the harvest field",
-                "Examining ears for quality",
-                "Checking for mold or damage"
+                "Survey the field to determine system layout.",
+                "Prepare irrigation pipes and emitters.",
+                "Connect the pipes to the water source.",
+                "Lay out the pipes across the field, ensuring proper coverage.",
+                "Secure the pipes to prevent movement.",
+                "Turn on the water supply and monitor the system."
             ]
         },
         {
-            "task": "Attaching a cover crop seeder to a tractor",
+            "task": "Applying fertilizers.",
             "subtasks": [
-                "Hooking the seeder to the tow bar",
-                "Checking the coulters for proper engagement"
+                "Load fertilizers into the spreader equipment.",
+                "Drive the tractor equipped with the spreader to the field.",
+                "Operator begins spreading the fertilizer according to guidelines.",
+                "Monitor the spread pattern to ensure even application.",
+                "Adjust settings or drive patterns as necessary.",
+                "Clean the spreader after use."
             ]
-        },
-        {
-            "task": "Applying a protective fungicide to the corn",
-            "subtasks": [
-                "Attaching a fungicide sprayer",
-                "Driving through the row and applying the fungicide"
-            ]
-        },
-        {
-            "task": "Driving through the field with a combine",
-            "subtasks": []
-        },
-        {
-            "task": "Planting corn in a field",
-            "subtasks": [
-                "Walking between rows of corn",
-                "Kneeling to adjust the planter",
-                "Observing the corn plants growing",
-                "Stopping to check soil moisture content",
-                "Noticing ripe corn ears"
-            ]
-        },
-        {
-            "task": "Steering a tractor equipped with a corn planter",
-            "subtasks": [
-                "Operating the steering wheel or joystick",
-                "Monitoring the planter's depth and speed"
-            ]
-        },
-        {
-            "task": "Checking for marred corn stalks",
-            "subtasks": [
-                "Going down a row of corn",
-                "Examining each corn stalk",
-                "Noticing and noting damaged stalks",
-                "Communicating findings to someone else"
-            ]
-        },
-        {
-            "task": "Climbing into and out of a corn planter",
-            "subtasks": [
-                "Ascending a step ladder",
-                "Entering the operator's seat",
-                "Adjusting the seat for comfort and safety",
-                "Exiting the vehicle after operation"
-            ]
-        },
-        {
-            "task": "Adjusting the planter's settings",
-            "subtasks": [
-                "Turning a dial or lever to change the seed rate",
-                "Checking seed depth settings",
-                "Ensuring uniformity in planting"
-            ]
-        },
-        {
-            "task": "Removing debris from the planter",
-            "subtasks": [
-                "Walking around the planter",
-                "Clearing weeds or other obstructions",
-                "Checking for lodged corn plants"
-            ]
-        },
-        {
-            "task": "Repairing a chain snag on the planter",
-            "subtasks": [
-                "Finding the snag",
-                "Disengaging the planter",
-                "Repairing or replacing the chain"
-            ]
-        },
-        {
-            "task": "Steering a combine through a field",
-            "subtasks": [
-                "Navigating a combine with large tires",
-                "Avoiding obstacles like weeds or rocks"
-            ]
-        },
-        {
-            "task": "Driving a pickup truck to a corn field",
-            "subtasks": [
-                "Loading equipment into the bed",
-                "Ensuring items are secured",
-                "Starting the truck and heading to the field"
-            ]
-        },
-        {
-            "task": "Cleaning corn stover from a field",
-            "subtasks": [
-                "Walking through the corn stalks",
-                "Using a tool or machine to remove debris"
-            ]
-        },
-        {
-            "task": "Applying fertilizer to a corn field",
-            "subtasks": [
-                "Driving a fertilizer spreader",
-                "Adjusting the flow rate",
-                "Ensuring even distribution"
-            ]
-        },
-        {
-            "task": "Attaching implements to a tractor",
-            "subtasks": [
-                "Positioning the implement",
-                "Securing it to the tractor with pins or locks",
-                "Checking for tightness and safety"
-            ]
-        },
-        {
-            "task": "Operating a soybean planter",
-            "subtasks": [
-                "Handing soybeans into the hopper",
-                "Monitoring the planter's operation",
-                "Ensuring proper spacing and depth"
-            ]
-        },
-        {
-            "task": "Leading a team of workers through the field",
-            "subtasks": [
-                "Walking through the rows",
-                "Supervising the workers",
-                "Addressing any issues or concerns"
-            ]
-        },
-        {
-            "task": "Maintaining corn stalks for silage",
-            "subtasks": [
-                "Walking with a hook or tool through the field",
-                "Cutting down overly tall or\u7626\u5f31\u7684stalks",
-                "Ensuring proper height for usable silage"
-            ]
-        },
-        {
-            "task": "Logging in equipment use hours",
-            "subtasks": [
-                "Accessing a logbook",
-                "Recording time on specific machines",
-                "Calculating total hours or fuel usage"
-            ]
-        },
-        {
-            "task": "Checking the combine's cab for repairs",
-            "subtasks": [
-                "Opening the cab door",
-                "Inspecting the interior and exterior",
-                "Assessing needed repairs or maintenance"
-            ]
-        },
-        {
-            "task": "Tending to an electrical issue on the planter",
-            "subtasks": [
-                "Identifying the problem",
-                "Searching for necessary tools",
-                "Replacing damaged parts"
-            ]
-        },
-        {
-            "task": "Conducting a pre-planting soil test",
-            "subtasks": [
-                "Collecting soil samples from the field",
-                "Sending samples to a lab for analysis",
-                "Reviewing the report for nutrient recommendations"
-            ]
-        },
-        {
-            "task": "Walking through the field to check crop health",
-            "subtasks": [
-                "Observing plants from different areas",
-                "Noting signs of stress or pests",
-                "Checking for proper growth stage"
-            ]
-        },
-        {
-            "task": "Driving an ATV through a field",
-            "subtasks": [
-                "Guiding the ATV between rows",
-                "Stopping to inspect plants"
-            ]
-        },
-        {
-            "task": "Applying pesticide to a corn field",
-            "subtasks": [
-                "Mixing chemicals in a sprayer",
-                "Calibrating the sprayer for coverage",
-                "Driving through the field and applying the pesticide"
-            ]
-        },
-        {
-            "task": "Checking corn silage moisture",
-            "subtasks": [
-                "Collecting samples from the infield",
-                "Testing the moisture content with a tester",
-                "Ensuring it is appropriate for ensiling"
-            ]
-        },
-        {
-            "task": "Installing a pivot irrigation system",
-            "subtasks": [
-                "Lifting the irrigation arm",
-                "Connecting it to the field's water source",
-                "Adjusting placement over the corn rows"
-            ]
-        },
-        {
-            "task": "Feeding corn silage into a bunker",
-            "subtasks": [
-                "Driving a loader into the bunker",
-                "Unloading the silage into the bunker",
-                "Ensuring the bunker is filled uniformly"
-            ]
-        },
-        {
-            "task": "Operating a grain dryer",
-            "subtasks": [
-                "Starting the dryer and monitoring temperature",
-                "Regulating airflow and heat",
-                "Checking for mechanical issues"
-            ]
-        },
-        {
-            "task": "Harvesting corn silage",
-            "subtasks": [
-                "Starting the combine engine",
-                "Cutting the corn stalks at the proper height",
-                "Feeding the forage into the grinder",
-                "Ensuring proper ground and mixing"
-            ]
-        },
-        {
-            "task": "Checking the grain separator setting",
-            "subtasks": [
-                "Adjusting the concave or adjuster",
-                "Verifying correct grain size for storage"
-            ]
-        },
-        {
-            "task": "Inspecting corn ears during harvest",
-            "subtasks": [
-                "Moving through the harvest field",
-                "Examining ears for quality",
-                "Checking for mold or damage"
-            ]
-        },
-        {
-            "task": "Attaching a cover crop seeder to a tractor",
-            "subtasks": [
-                "Hooking the seeder to the tow bar",
-                "Checking the coulters for proper engagement"
-            ]
-        },
-        {
-            "task": "Applying a protective fungicide to the corn",
-            "subtasks": [
-                "Attaching a fungicide sprayer",
-                "Driving through the row and applying the fungicide"
-            ]
-        },
-        {
-            "task": "MAINTASK: Planting corn in a field",
-            "subtasks": [
-                "Walking between rows of corn",
-                "Kneeling to adjust planter",
-                "Observing growth",
-                "Checking soil moisture",
-                "Spotting ripe corn ears"
-            ]
-        },
-        {
-            "task": "Operating corn planter on tractor",
-            "subtasks": [
-                "Steering tractor",
-                "Adjusting planter settings"
-            ]
-        },
-        {
-            "task": "Checking corn stalks for damage",
-            "subtasks": [
-                "Inspecting rows",
-                "Noting damaged stalks",
-                "Informing team"
-            ]
-        },
-        {
-            "task": "Climbing in/out of planter",
-            "subtasks": [
-                "Entering/exiting seat",
-                "Adjusting comfort seat"
-            ]
-        },
-        {
-            "task": "Adjusting planter settings",
-            "subtasks": [
-                "Changing seed rate",
-                "Checking depth/ uniformity"
-            ]
-        },
-        {
-            "task": "Removing debris from planter",
-            "subtasks": [
-                "Clearing obstacles",
-                "Checking for lodged plants"
-            ]
-        },
-        {
-            "task": "Fixing chain snag",
-            "subtasks": [
-                "Locating damage",
-                "Repairing chain"
-            ]
-        },
-        {
-            "task": "Steering combine in field",
-            "subtasks": [
-                "Navigating around obstacles"
-            ]
-        },
-        {
-            "task": "Driving pickup truck to field",
-            "subtasks": [
-                "Loading equipment",
-                "Securing items"
-            ]
-        },
-        {
-            "task": "Cleaning corn stover",
-            "subtasks": [
-                "Removing residue"
-            ]
-        },
-        {
-            "task": "Applying fertilizer",
-            "subtasks": [
-                "Operating spreader"
-            ]
-        },
-        {
-            "task": "Attaching implements to tractor",
-            "subtasks": [
-                "Securing equipment"
-            ]
-        },
-        {
-            "task": "Operating soybean planter",
-            "subtasks": [
-                "Loading soybeans"
-            ]
-        },
-        {
-            "task": "Supervising workers",
-            "subtasks": [
-                "Walking rows"
-            ]
-        },
-        {
-            "task": "Cutting tall or weak corn stalks",
-            "subtasks": []
-        },
-        {
-            "task": "Logging equipment hours",
-            "subtasks": []
-        },
-        {
-            "task": "Inspecting combine cab for repairs",
-            "subtasks": []
-        },
-        {
-            "task": "Tending electrical issues on planter",
-            "subtasks": []
-        },
-        {
-            "task": "Conducting soil tests",
-            "subtasks": []
-        },
-        {
-            "task": "Checking crop health",
-            "subtasks": []
-        },
-        {
-            "task": "Driving ATV through fields",
-            "subtasks": []
-        },
-        {
-            "task": "Applying pesticides",
-            "subtasks": []
-        },
-        {
-            "task": "Measuring corn silage moisture",
-            "subtasks": []
-        },
-        {
-            "task": "Installing pivot irrigation",
-            "subtasks": []
-        },
-        {
-            "task": "Filling ear silo",
-            "subtasks": []
-        },
-        {
-            "task": "Operating grain dryer",
-            "subtasks": []
-        },
-        {
-            "task": "Harvesting silage with combine",
-            "subtasks": []
-        },
-        {
-            "task": "Checking grain separator",
-            "subtasks": []
-        },
-        {
-            "task": "Monitoring corn quality",
-            "subtasks": []
-        },
-        {
-            "task": "Applying fungicides",
-            "subtasks": []
         }
     ]
 }

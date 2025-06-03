@@ -5,66 +5,59 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Operating farm loaders and skid steer loaders safely",
+            "task": "Operating Farm and Skid Steer Loaders Safely",
             "subtasks": [
-                "Equip tractors with rollover protection devices (ROPS)",
-                "Do not exceed maximum load limits as per operator's manual",
-                "Ensure correct tire spacing and rear ballast before using a loader",
-                "Always wear a seat belt when operating a tractor, loader, or skid steer loader",
-                "Avoid raising the bucket too high when loaded; lower speed when raising or lowering loads",
-                "Be cautious when lifting loads around people; use ropes, chains, or cables to secure loads",
-                "Understand the impact of slope on center of gravity; drive with loads close to ground on public roads",
-                "Use flashing warning lights and slow-moving vehicle emblems when operating on public roads; do not-operate at night",
-                "Use proper bale handling attachments when moving round bales; keep bales low while moving",
-                "Lower loader, engage parking brake, and shut off engine before servicing loaders",
-                "Be aware of pinch points and rotating parts before maintenance; do not work under raised attachments without proper support",
-                "Check for hydraulic leaks using a piece of cardboard; relieve pressure before disconnecting lines"
+                "Understand the causes of tractor rollovers",
+                "Use ROPS to prevent serious accidents",
+                "Follow load limit guidelines in operator's manuals",
+                "Check tire spacing and rear ballast before use",
+                "Wear seat belt when operating tractors or loaders",
+                "Manage bucket height to prevent rollovers",
+                "Consider center of gravity changes with different loads",
+                "Drive loaders slowly when raising or lowering loads",
+                "Be cautious when handling loads around people",
+                "Secure loads properly before moving them",
+                "Adjust driving technique when turning on slopes",
+                "Carry loads low on public roads for stability",
+                "Use appropriate signage when operating on public roads",
+                "Properly handle large round bales with specialized attachments",
+                "Keep bales secure during transport",
+                "Take necessary precautions during loader servicing",
+                "Avoid pinch points and rotating parts when servicing loaders",
+                "Check for hydraulic leaks using a reliable method"
             ]
         },
         {
-            "task": "Maintaining safe practices when using agricultural equipment",
+            "task": "Navigating Public Roadways Safely with Loaders",
             "subtasks": [
-                "Familiarize with rollover protection devices and their operation",
-                "Understand load capacity and handling procedures",
-                "Practice proper tire and ballast management",
-                "Maintain vigilance over center of gravity while maneuvering loads",
-                "Adhere to speed and gear adjustments for slope conditions",
-                "Utilize appropriate signaling devices and visibility practices",
-                "Securely transport and handle bales with designated attachments",
-                "Conduct regular maintenance checks and address potential hydraulic hazards",
-                "Exercise caution during service tasks and avoid unsafe close proximity"
+                "Lower loader and shut off engine before servicing",
+                "Be aware of pinch points during servicing",
+                "Proper hydraulic maintenance techniques",
+                "Check for leaks using an effective method"
             ]
         },
         {
-            "task": "MAINTASK: Operating farm loaders and skid steer loaders safely",
+            "task": "Load Handling and Security",
             "subtasks": [
-                "Equip tractors with rollover protection devices (ROPS)",
-                "Do not exceed maximum load limits as per operator's manual",
-                "Ensure correct tire spacing and rear ballast before using a loader",
-                "Always wear a seat belt when operating a tractor, loader, or skid steer loader",
-                "Avoid raising the bucket too high when loaded; lower speed when raising or lowering loads",
-                "Be cautious when lifting loads around people; use ropes, chains, or cables to secure loads",
-                "Understand the impact of slope on center of gravity; drive with loads close to ground on public roads",
-                "Use flashing warning lights and slow-moving vehicle emblems when operating on public roads; do not operate at night",
-                "Use proper bale handling attachments when moving round bales; keep bales low while moving",
-                "Lower loader, engage parking brake, and shut off engine before servicing loaders",
-                "Be aware of pinch points and rotating parts before maintenance; do not work under raised attachments without proper support",
-                "Check for hydraulic leaks using a piece of cardboard; relieve pressure before disconnecting lines"
+                "Secure bales with restraints when using regular loaders",
+                "Keep bales as low as possible during transport",
+                "Engage parking brake or set transmission to park before service",
+                "Lower loader to ground before removing keys or disconnecting"
             ]
         },
         {
-            "task": "Maintaining safe practices when using agricultural equipment",
+            "task": "Equipment Preparation and Inspection",
             "subtasks": [
-                "Familiarize with rollover protection devices and their operation",
-                "Understand load capacity and handling procedures",
-                "Practice proper tire and ballast management",
-                "Maintain vigilance over center of gravity while maneuvering loads",
-                "Adhere to speed and gear adjustments for slope conditions",
-                "Utilize appropriate signaling devices and visibility practices",
-                "Securely transport and handle bales with designated attachments",
-                "Conduct regular maintenance checks and address potential hydraulic hazards",
-                "Exercise caution during service tasks and avoid unsafe close proximity"
+                "Check tire spacing and rear ballast prior to use"
             ]
+        },
+        {
+            "task": "So in total, I think the main tasks are about general safety practices (including ROPS usage and load limits), operating the loader (including load handling and slopes), navigating public roads (with load height and signage), and maintaining the equipment safely (checking for leaks, servicing with care). Each of these main topics could be a MAINTASK with their own subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "**MAINTASK: Operating Farm and Skid Steer Loaders Safely**",
+            "subtasks": []
         }
     ]
 }

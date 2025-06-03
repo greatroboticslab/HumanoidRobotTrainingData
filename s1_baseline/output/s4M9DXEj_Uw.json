@@ -5,51 +5,20 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Answer gardeners' potato-related questions",
+            "task": "Conducting a gardening presentation about potato cultivation including breeding and management practices.",
             "subtasks": [
-                "Explain the importance of proper soil pH for potato growth",
-                "Describe the benefits of crop rotation and seed treatment for disease management",
-                "Provide information on the best varieties for seed potatoes and storage",
-                "Offer advice on integrating pest management techniques (e.g., handpicking, organic treatments) into home gardens",
-                "Explain the effects of water stress on potato plants and the importance of consistent irrigation",
-                "Discuss the role of fertilization in potato production, including recommended NPK ratios and application methods",
-                "Provide guidance on weed control methods suitable for home gardens"
+                "Describe potato taxonomy and botany (e.g., Solanaceae family, stem modification, herbaceous dicot nature).",
+                "Highlight potato production significance (e.g., industry value, Minnesota vs North Dakota rankings, seed potato certification).",
+                "Explain market classes of potatoes (round whites, long russets, reds, heirlooms) based on texture and culinary use.",
+                "Discuss potato nutritional benefits (low calorie, high fiber, potassium content) and debunk common myths.",
+                "Outline the potato breeding history at NDSU (1930 start, cultivar releases, recent advancements).",
+                "Cover potato growing conditions (cool season, temperature preferences, water requirement, pH considerations).",
+                "Differentiate propagation methods (clonal vs seed potato), focusing on asexual reproduction in home gardens.",
+                "Address planting and spacing techniques for backyard gardens (row width, plant spacing, hill formation, fertilization).",
+                "Introduce pest and disease management strategies (weed control, insect identification, common scab mitigation, storage practices).",
+                "Answer live questions via Q&A session on topics such as viral seed potatoes, potato scab management, and suitable cultivars for storage boxes.",
+                "Summarize key best practices for increasing potato productivity in small-scale production."
             ]
-        },
-        {
-            "task": "MAINTASK: Discuss key aspects of potato cultivation for home gardeners",
-            "subtasks": [
-                "Explain the origin and botany of potatoes",
-                "Describe the potato production industry and its challenges",
-                "Explain the importance of proper planting techniques and spacing",
-                "Provide guidance on fertilization and soil management",
-                "Discuss weed control and pest management in home gardens"
-            ]
-        },
-        {
-            "task": "MAINTASK: Outline steps involved in potato cultivation and management",
-            "subtasks": [
-                "Discuss the benefits and importance of potato breeding programs",
-                "Explain the propagation methods used for potato cultivation",
-                "Provide information on tuber formation and storage conditions"
-            ]
-        },
-        {
-            "task": "MAINTASK: Generate tasks based on the farmer's discussion of potato farming techniques",
-            "subtasks": [
-                "Explain the potato's place in agriculture and home gardens",
-                "Discuss nutritional benefits of potatoes",
-                "Describe potato breeding programs and cultivar development",
-                "Explain planting, propagation, and care techniques for home gardens"
-            ]
-        },
-        {
-            "task": "Generate a list of physical tasks related to potato farming and gardening based on the transcript.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Generate tasks based on the provided transcript related to potato farming",
-            "subtasks": []
         }
     ]
 }

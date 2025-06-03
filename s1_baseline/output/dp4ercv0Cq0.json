@@ -5,13 +5,50 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Determine which snow removal equipment (plow or pusher) is better.",
+            "task": "Determine the better snow removal tool (snow pusher or plow) and discuss their pros and cons.",
+            "subtasks": []
+        },
+        {
+            "task": "Compare snow pusher and plow prices.",
             "subtasks": [
-                "Compare price points between plows and pushers.",
-                "Discuss design and construction of the Tar River snow pusher and HLA snow plow.",
-                "Explain the benefits and limitations of snow pushers and plows in terms of steering, load distribution, and snow handling.",
-                "Consider the suitability of each tool for different driveway and property sizes.",
-                "Conclude that snow pushers are generally better for larger areas and simpler operation, though individual needs vary."
+                "Note that snow pushers are generally cheaper than plows.",
+                "Mention varying prices based on model and options (e.g., 60, 72, 84, 96 inch widths for plows; 72 inch variant for Kubota L6060; options for manual vs. hydraulic angle on plows)."
+            ]
+        },
+        {
+            "task": "Evaluate snow pusher construction and features.",
+            "subtasks": [
+                "Highlight Tar River snow pusher's robust design with beefy trip springs and skid shoes.",
+                "Mention replaceable edges and back drag options.",
+                "Discuss frame options and compatibility with different tractors (e.g., John Deere quick attach, Skidster, Global mounts)."
+            ]
+        },
+        {
+            "task": "Compare snow plow and pusher setup requirements.",
+            "subtasks": [
+                "Note both tools require disconnecting existing front attachment (bucket, forks, grapple) and connecting to the loader.",
+                "Compare plow angle adjustment (manual vs. hydraulic) and operator control."
+            ]
+        },
+        {
+            "task": "Analyze load carriage differences between pushers and plows.",
+            "subtasks": [
+                "Explain pusher's even snow accumulation versus plow's off-center load.",
+                "Discuss plow's impact on steering and machine traction."
+            ]
+        },
+        {
+            "task": "Assess snow handling capabilities.",
+            "subtasks": [
+                "Both tools handle various snow conditions, but pushers may be more efficient on long driveways and large areas.",
+                "Mention windrow formation and clearing efficiency."
+            ]
+        },
+        {
+            "task": "Conclude with the preference for snow pushers (due to simplicity and efficiency) but acknowledge individual needs.",
+            "subtasks": [
+                "Recommend using pushers for long driveways and large areas.",
+                "Acknowledge the versatility of plows in other scenarios (e.g., narrow areas)."
             ]
         }
     ]

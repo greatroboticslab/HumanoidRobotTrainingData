@@ -5,17 +5,24 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Prepare organic pesticides using herbal materials.",
+            "task": "Prepare organic pesticide using plants.",
             "subtasks": [
-                "Collect necessary materials (aloe vera, red pepper, marigold, nim, tomato leaves, onion).",
-                "Clean materials by washing and chopping/pounding into small pieces.",
-                "Combine materials in a container for decoction (leaving room for water).",
-                "Add water to the container and let it sit for three days.",
-                "Strain the solution to separate solids from liquid.",
-                "Mix solution to create a 10-liter organic pesticide concentrate.",
-                "Verify effectiveness by observing irritant properties (wear protective gear if necessary).",
-                "Store and label the organic pesticide for future use."
+                "Collect aloe vera.",
+                "Pound aloe vera.",
+                "Collect red pepper.",
+                "Pound red pepper.",
+                "Collect tomato leaves.",
+                "Pound tomato leaves.",
+                "Collect onion leaves and onions.",
+                "Pound onions and tomatoes together with aloe vera and red pepper.",
+                "Mix materials in water (decoction).",
+                "Allow mixture to sit for three days.",
+                "Sieve mixture to extract solution."
             ]
+        },
+        {
+            "task": "Prepare organic pesticide using plants.**",
+            "subtasks": []
         }
     ]
 }
