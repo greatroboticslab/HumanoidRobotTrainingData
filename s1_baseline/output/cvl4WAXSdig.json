@@ -5,193 +5,91 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Driving a cargar Frederick trawler",
+            "task": "Loading hay into the trailer",
             "subtasks": [
-                "Sit in the cab of the trawler",
-                "Start the engine",
-                "Check oil and fluid levels",
-                "Adjust mirrors and seat",
-                "Check brakes and steering",
-                "Observe fields or crops while driving",
-                "Maneuver the trawler around fields",
-                "Attach any necessary farming equipment",
-                "Disengage equipment as needed",
-                "Operate the tractors various functions while driving"
+                "Approach the stack of hay",
+                "Lift the hay bale onto the trailer",
+                "Secure the bale on the trailer",
+                "Repeat for all hay bales"
             ]
         },
         {
-            "task": "Operating a slurry spreader",
+            "task": "Attaching the tarps to the trailer",
             "subtasks": [
-                "Load slurry onto the spreader",
-                "Attach the spreader to the back of the trawler",
-                "Secure the spreader in place",
-                "Adjust the spreader settings for optimal application",
-                "Drive the spreader to the fields needing treatment",
-                "Start the spreader's engine and activate it",
-                "Monitor the spreader's application pattern",
-                "Adjust speed and spreader angle as needed",
-                "Stop the spreader and shut it down when finished"
+                "Locate the tarps",
+                "Unfold the tarps",
+                "Stretch the tarps over the hay",
+                "Secure the tarps with bungee cords or similar"
             ]
         },
         {
-            "task": "Applying fertilizer to fields with a spreader",
+            "task": "Driving the hay trailer to the barn",
             "subtasks": [
-                "Identify fields that need fertilizer",
-                "Calculate the required amount of fertilizer",
-                "Mix the fertilizer with water in the spreader reservoir",
-                "Secure the spreader onto the trawler",
-                "Drive to the first field and start spreading fertilizer",
-                "Monitor the application to avoid overspraying or uneven distribution",
-                "Move to the next field after finishing the current one",
-                "Clean the spreader and areas treated after application"
+                "Start the tractor",
+                "Attach the trailer to the tractor",
+                "Check the trailer for obstructions",
+                "Drive the tractor and trailer to the barn"
             ]
         },
         {
-            "task": "Using GPS technology in farming operations",
+            "task": "Unloading hay from the trailer",
             "subtasks": [
-                "Input field coordinates into a GPS device",
-                "Set up the GPS system to track the spreader's path",
-                "Monitor the GPS map for overlaps or skips in application",
-                "Adjust driving direction as necessary to cover all areas",
-                "Log data from the GPS for future reference"
+                "Come to a stop near the barn where hay is needed",
+                "Dismount the tractor",
+                "Position the trailer forks over a bale",
+                "Lift the bale off the trailer and place it on the ground",
+                "Repeat for all bales"
             ]
         },
         {
-            "task": "Checking crop health",
+            "task": "Stowing the tarps away if needed",
             "subtasks": [
-                "Walk through the fields to visually inspect crops",
-                "Observe the color, height, and overall appearance of the crops",
-                "Note any areas with stressed or diseased plants",
-                "Identify potential pest problems",
-                "Take samples from different areas of the field for analysis",
-                "Compare current conditions to previous observations"
+                "Identify storage location for tarps",
+                "Unfold the tarps",
+                "Transport tarps to storage area",
+                "Fold the tarps neatly",
+                "Place folded tarps in storage"
             ]
         },
         {
-            "task": "Entering data into a mobile app",
-            "subtasks": [
-                "Open the mobile app on a smartphone or tablet",
-                "Select the farm's fields and crops within the app",
-                "Input data such as fertilizer applications, weather conditions, and crop health observations",
-                "Sync the data with the app's cloud storage",
-                "Review historical data to make informed decisions"
-            ]
+            "task": "Loading hay into the trailer**",
+            "subtasks": []
         },
         {
-            "task": "Performing field work operations",
-            "subtasks": [
-                "Drive the trawler through the fields to perform various tasks",
-                "Operate different attachments such as mowers, plows, or planters",
-                "Follow designated paths or patterns for efficient coverage",
-                "Check the attachment's performance and make adjustments",
-                "Clean the attachment between different tasks if needed"
-            ]
+            "task": "Attaching the tarps to the trailer**",
+            "subtasks": []
         },
         {
-            "task": "Refueling the trawler and spreader",
-            "subtasks": [
-                "Drive the trawler to the nearest fueling station",
-                "Disconnect any attached farming equipment",
-                "Secure the equipment for transport",
-                "Follow safety protocols when handling fuel",
-                "Refill the trawler's fuel tank",
-                "Top up the spreader's fuel tank if necessary",
-                "Ensure all tanks are properly secured after refueling"
-            ]
+            "task": "Driving the hay trailer to the barn**",
+            "subtasks": []
         },
         {
-            "task": "Mechanically troubleshooting the trawler or spreader",
-            "subtasks": [
-                "Locate the problem area on the vehicle or equipment",
-                "Refer to the manual or troubleshooting checklist",
-                "Check for obvious signs of damage or failure",
-                "Test the functionality of components such as the brake system or spreader mechanism",
-                "Use tools to diagnose deeper issues",
-                "Make the necessary repairs or adjustments",
-                "Test the equipment to ensure it's operational"
-            ]
+            "task": "Unloading hay from the trailer**",
+            "subtasks": []
         },
         {
-            "task": "Monitoring weather conditions",
-            "subtasks": [
-                "Check forecasts for rain or extreme conditions",
-                "Adjust field work plans based on weather predictions",
-                "Use a weather app on mobile device to track local conditions",
-                "Receive alerts for changes in weather patterns"
-            ]
+            "task": "Stowing the tarps away if needed**",
+            "subtasks": []
         },
         {
-            "task": "Applying pesticides to crops",
-            "subtasks": [
-                "Mix pesticides with water according to instructions",
-                "Attach a pesticide sprayer to the trawler or spreader",
-                "Dress appropriately in protective gear",
-                "Drive through the fields while activating the sprayer",
-                "Monitor the spray pattern and pressure",
-                "Stop and check for leaks or blockages",
-                "Completely clean the sprayer when finished and store safely"
-            ]
+            "task": "Loading hay into the trailer**",
+            "subtasks": []
         },
         {
-            "task": "Conducting soil tests in the field",
-            "subtasks": [
-                "Collect soil samples from various locations in the field",
-                "Use a soil probe or shovel to dig the necessary depth",
-                "Place soil samples into labeled containers",
-                "Note any anomalies such as color changes or texture differences",
-                "Send samples to a laboratory for analysis",
-                "Track the results to determine future crop nutrient needs"
-            ]
+            "task": "Attaching and securing tarps**",
+            "subtasks": []
         },
         {
-            "task": "Mechanical maintenance of the trawler",
-            "subtasks": [
-                "Check and replace the oil and filters regularly",
-                "Inspect the tires for wear and pressure",
-                "Check the battery condition and charging system",
-                "Lubricate moving parts as needed",
-                "Tighten loose bolts and nuts",
-                "Clean the undercarriage and remove debris",
-                "Refer to service schedules and perform routine checks and oil changes"
-            ]
+            "task": "Driving the trailer to the barn**",
+            "subtasks": []
         },
         {
-            "task": "Verifying the location of livestock or other vehicles",
-            "subtasks": [
-                "Scan the area around the trawler and spreader",
-                "Ensure there are no animals or people in the path of movement",
-                "Move slowly and carefully to avoid collisions",
-                "Sound the horn when necessary to alert others"
-            ]
+            "task": "Unloading hay from the trailer**",
+            "subtasks": []
         },
         {
-            "task": "Responding to equipment emergencies",
-            "subtasks": [
-                "Identify signs of emergency, such as smoke or unusual noises",
-                "Check the situation to assess the extent of the problem",
-                "Activate the emergency procedures if necessary",
-                "Notify authorities or call for assistance if needed"
-            ]
-        },
-        {
-            "task": "Filling the spreader with slurry",
-            "subtasks": [
-                "Drive to the slurry storage area",
-                "Position the spreader close to the slurry source",
-                "Open the slurry tank valves",
-                "Check for potential spills or drips",
-                "Ensure proper rates of application are maintained to avoid over-saturating ground"
-            ]
-        },
-        {
-            "task": "Attaching the fertilizer spreader",
-            "subtasks": [
-                "Position the spreader behind the trawler",
-                "Align the spreader with the hitch",
-                "Secure the connection points to prevent movement during travel",
-                "Test the attachment for stability and proper fit",
-                "Set the correct pulling load based on spreader capacity"
-            ]
+            "task": "Stowing tarps if necessary**",
+            "subtasks": []
         }
     ]
 }

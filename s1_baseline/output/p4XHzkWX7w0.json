@@ -5,32 +5,80 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Secure transport and handling of pesticides",
+            "task": "Transporting pesticides securely.",
             "subtasks": [
-                "Load pesticides into secure transport vehicles (truck bed, cargo area)",
-                "Inspect pesticide containers for leaks before loading and unloading",
-                "Protect pesticide containers from damage during transport (securely, prevent stacking, etc.)",
-                "Monitor pesticide containers during transport for any issues",
-                "Never leave pesticides unattended during transport",
-                "If possible, store pesticides in a locked area when not in use during transport"
+                "Securely transport pesticides in a truck bed.",
+                "Securely transport pesticides in the cargo area.",
+                "Securely transport pesticides in an area separate from the driver or passenger compartment."
             ]
         },
         {
-            "task": "Secure transport and handling of pesticides.",
-            "subtasks": []
-        },
-        {
-            "task": "Secure transport and handling of pesticides",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Secure transport and handling of pesticides",
+            "task": "Checking containers for leaks.",
             "subtasks": [
-                "Check pesticide containers for leaks before loading and unloading.",
-                "Protect containers from damage during transport (e.g., securing stacking, using covers).",
-                "Monitor containers for any issues during transport.",
-                "Never leave pesticides unattended during transport.",
-                "Store pesticides in a locked area when possible and feasible."
+                "Inspect containers before loading.",
+                "Inspect containers before unloading."
+            ]
+        },
+        {
+            "task": "Protecting containers from damage.",
+            "subtasks": [
+                "Protect pesticide containers from damage during transport."
+            ]
+        },
+        {
+            "task": "Monitoring containers during transport.",
+            "subtasks": [
+                "Keep an eye on pesticide containers while in transit."
+            ]
+        },
+        {
+            "task": "Ensuring pesticides are not left unattended.",
+            "subtasks": [
+                "Never leave pesticides unattended during transport."
+            ]
+        },
+        {
+            "task": "Keeping pesticides in a locked area when possible.",
+            "subtasks": [
+                "Store pesticides in a locked area when safely possible."
+            ]
+        },
+        {
+            "task": "MAINTASK: Transporting pesticides securely in a truck bed or cargo area away from the driver or passenger compartment.",
+            "subtasks": [
+                "Securely transport pesticides in the truck bed.",
+                "Securely transport pesticides in the cargo area.",
+                "Ensure the transport area is separate from the driver or passenger compartment."
+            ]
+        },
+        {
+            "task": "Checking containers for leaks before loading and unloading.",
+            "subtasks": [
+                "Inspect containers before loading.",
+                "Inspect containers before unloading."
+            ]
+        },
+        {
+            "task": "Protecting pesticide containers from damage during transport.",
+            "subtasks": [
+                "Secure the containers to prevent shifting.",
+                "Protect from external damage (e.g., sharp objects)."
+            ]
+        },
+        {
+            "task": "Monitoring pesticide containers during transport.",
+            "subtasks": [
+                "Periodically check the condition of the containers."
+            ]
+        },
+        {
+            "task": "Never leaving pesticides unattended during transport.",
+            "subtasks": []
+        },
+        {
+            "task": "Keeping pesticides in a locked area when possible.",
+            "subtasks": [
+                "Store pesticides in a secure location when feasible."
             ]
         }
     ]

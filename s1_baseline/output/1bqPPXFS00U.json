@@ -5,35 +5,72 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Testing and amending garden soil",
+            "task": "Testing garden soil for nutrients and pH.",
             "subtasks": [
-                "Tilling garden soil",
-                "Preparing garden soil for planting",
-                "Understanding importance of soil testing",
-                "Collecting soil samples",
-                "Using at-home soil test kit",
-                "Separating soil types (sand, silt, clay)",
-                "Checking soil pH levels",
-                "Testing soil nutrient content (nitrogen, phosphorus, potassium)",
-                "Analyzing test results and making amendments",
-                "Amending soil with compost and organic materials"
+                "Gather soil samples from different garden areas.",
+                "Collect soil samples to a depth where roots grow.",
+                "Use distilled water for soil testing.",
+                "Process soil samples by adding water and dish detergent, shaking, and settling.",
+                "Analyze soil for pH, potash, phosphorus, and nitrogen levels.",
+                "Interpret test results for nutrient sufficiency.",
+                "Amend soil based on test results (e.g., adding compost, adjusting pH).",
+                "Document soil test findings for future reference."
             ]
         },
         {
-            "task": "Soil preparation for planting",
+            "task": "Testing compost nutrient content.",
             "subtasks": [
-                "Applying amendments based on test results",
-                "Mixing amendments into soil",
-                "Watering soil to settle amendments"
+                "Collect and process compost samples for pH and nutrient testing.",
+                "Compare compost nutrient levels to those of garden soil."
             ]
         },
         {
-            "task": "Addressing soil pH and nutrient deficiencies",
+            "task": "Testing raised bed garden soil for nutrients and pH.",
             "subtasks": [
-                "Understanding the effects of soil pH on plants",
-                "Adjusting soil pH if necessary",
-                "Increasing nitrogen, phosphorus, or potassium levels",
-                "Monitoring soil moisture and adjusting accordingly"
+                "Gather soil samples from raised beds.",
+                "Analyze raised bed soil for pH, potash, phosphorus, and nitrogen levels.",
+                "Adjust raised bed soil amendments based on test results."
+            ]
+        },
+        {
+            "task": "Testing garden soil for nutrients and pH.",
+            "subtasks": []
+        },
+        {
+            "task": "Testing compost nutrient content). The process mirrors the garden soil test\u2014collecting samples, processing, and testing pH and nutrients (Subtasks 2, 3, 4, 5). The results here will help in deciding how to mix the compost into the main garden soil for balanced nutrient addition (Subtask 8).",
+            "subtasks": []
+        },
+        {
+            "task": "Testing raised bed garden soil for nutrients and pH). The process is the same as above, involving sample collection, processing, and analysis (Subtasks 2, 3, 4, 5). The results indicate nutrient deficiencies in the raised beds, prompting the need for adjustments, such as increasing nitrogen levels (Subtask 6). Each step is crucial for optimizing soil conditions for better plant growth and preventing nutrient deficiencies. (Answer in one line)",
+            "subtasks": []
+        },
+        {
+            "task": "Testing garden soil for nutrients and pH.",
+            "subtasks": [
+                "Gather soil samples from different garden areas.",
+                "Collect soil samples to a depth where roots grow.",
+                "Use distilled water for soil testing.",
+                "Process soil samples by adding water and dish detergent, shaking, and settling.",
+                "Analyze soil for pH, potash, phosphorus, and nitrogen levels.",
+                "Interpret test results for nutrient sufficiency.",
+                "Amend soil based on test results (e.g., adding compost, adjusting pH).",
+                "Document soil test findings for future reference."
+            ]
+        },
+        {
+            "task": "Testing compost nutrient content.",
+            "subtasks": [
+                "Collect and process compost samples for pH and nutrient testing.",
+                "Compare compost nutrient levels to those of garden soil."
+            ]
+        },
+        {
+            "task": "Testing raised bed garden soil for nutrients and pH.",
+            "subtasks": [
+                "Gather soil samples from raised beds.",
+                "Analyze raised bed soil for pH, potash, phosphorus, and nitrogen levels.",
+                "Adjust raised bed soil amendments based on test results.",
+                "To ensure optimal soil conditions for planting, the user explains several tasks related to testing and amending garden soil. **MAINTASK**: Testing garden soil for nutrients and pH includes **SUBTASKS**: gathering samples from various garden areas, collecting roots-depth samples, using distilled water, processing samples with water and detergent, analyzing pH, potash, phosphorus, and nitrogen, interpreting results, and amending soil as needed. **Subtask 8**: Document findings. Testing the provided *compost* (MAINTASK: Testing compost nutrient content) involves similar steps, comparing results to garden soil. Finally, **testing the raised bed garden's soil (MAINTASK: Testing raised bed garden soil)** reveals deficiencies requiring adjustments. Each task contributes to creating a fertile planting environment."
             ]
         }
     ]

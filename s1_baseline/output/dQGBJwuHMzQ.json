@@ -5,20 +5,44 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Hiirk! exclamation call",
+            "task": "Greet acquaintances or signal recognition",
             "subtasks": [
-                "Exclaim \"Hiirk!\" to communicate"
+                "Exhale to produce vocal sound \"Hiirk!\"",
+                "Adjust posture to face direction of the person(s) being greeted",
+                "Smile or nod to non-verbally acknowledge presence"
             ]
         },
         {
-            "task": "But I just want to second-guess. Sometimes in these transcripts, they mention things like \"Horse kicking\" or \"Milking cows,\" which are physical tasks. But here it's just a sound. But maybe in some herding contexts, \"Hiirk!\" is used as a call to gather animals or something. However, given the lack of context and the instruction being very short (just one word), the most straightforward interpretation is that the task is to produce that sound. Therefore, MAINTASK would be \"Hiirk! exclamation call\", with the subtask being to exclaim it. Since there might not be more to it, I think that should suffice.",
+            "task": "Indicate agreement or confirmation",
+            "subtasks": [
+                "Make a slight affirmative motion with head or hand",
+                "Speak words of confirmation (if verbal)",
+                "Nod head to reinforce message"
+            ]
+        },
+        {
+            "task": "The transcript \"Hiirk!\" is analyzed to determine physical tasks related to a greeting and agreement. \"Hiirk!\" is a vocal recognition, likely a grunt or sound used to acknowledge acquaintances. This leads to subtasks involving exhalation and posture adjustment. Agreement could be indicated non-verbally (head/nod) or verbally. Since the transcript is short, these are the main relevant tasks. Other potential actions like specific hand gestures might be inferred but are not directly mentioned. The tasks are phrased as the user requested with MAINTASK and then the corresponding subtasks.",
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Hiirk! exclamation call",
+            "task": "MAINTASK: Greet acquaintances or signal recognition",
             "subtasks": [
-                "Exclaim \"Hiirk!\" to communicate"
+                "Exhale to produce vocal sound \"Hiirk!\"",
+                "Adjust posture to face direction of the person(s) being greeted",
+                "Smile or nod to non-verbally acknowledge presence"
             ]
+        },
+        {
+            "task": "Indicate agreement or confirmation",
+            "subtasks": [
+                "Make a slight affirmative motion with head or hand",
+                "Speak words of confirmation (if verbal)",
+                "Nod head to reinforce message"
+            ]
+        },
+        {
+            "task": "The transcript \"Hiirk!\" is analyzed to determine physical tasks related to a greeting and agreement. \"Hiirk!\" is a vocal recognition, likely a grunt or sound used to acknowledge acquaintances. This leads to subtasks involving exhalation and posture adjustment. Agreement could be indicated non-verbally (head/nod) or verbally. Since the transcript is short, these are the main relevant tasks. Other potential actions like specific hand gestures might be inferred but are not directly mentioned. The tasks are phrased as the user requested with MAINTASK and then the corresponding subtasks.",
+            "subtasks": []
         }
     ]
 }

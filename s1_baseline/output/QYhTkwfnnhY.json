@@ -5,35 +5,54 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Understanding and Setting Seeding Rates for Cover Crop Seeds",
+            "task": "Determine seeding rate and adjust drill settings for cover crop planting.",
             "subtasks": [
-                "Retrieving seeding rate information from the seed analysis sheet",
-                "Calculating seeding rate if bushel weight is not provided",
-                "Determining bushel weight for a seed mix",
-                "Adjusting drill settings based on bushel weight",
-                "Performing a drill calibration using empirical methods",
-                "Using a bushel weight apparatus for setting the drill"
+                "Review seed analysis sheet for provided seeding rate.",
+                "Calculate seeding rate using remaining seed and acreage if rate not listed.",
+                "Understand the influence of cover crop mix bushel weight on drilling settings.",
+                "Utilize bushel weight apparatus for accurate setting adjustments (if available).",
+                "Convert seed weights into bushels for drill calibration (e.g., oats and peas example).",
+                "Conduct drill calibration using seed collection and mathematical conversion (step-by-step process provided).",
+                "Utilize calibration video resources for detailed guidance on drill calibration procedures.",
+                "Properly access and review included seed analysis sheets and holders for necessary data."
             ]
         },
         {
-            "task": "Managing Seed Analysis Sheets and Product Delivery",
-            "subtasks": [
-                "Accessing seed analysis sheets in seed tote",
-                "Checking for bushel weight and seeding rate information on delivered seed"
-            ]
-        },
-        {
-            "task": "Exploring Alternative Calibration Methods",
-            "subtasks": [
-                "Using an example mix to convert pounds to bushels",
-                "Highlighting differences in settings required for different seeds",
-                "Performing a manual drill calibration calculations",
-                "Reminding users of the importance of calibration over adjusting future orders"
-            ]
-        },
-        {
-            "task": "All tasks relate to the physical actions required in handling seed analysis, determining seeding rates, calibrating planting equipment, and managing seed delivery within the context of cover crop planting. Each subtask breaks down the overall maintenance (MAINTASK) needed to effectively seed cover crops.",
+            "task": "']. \u7dca\u7684\u770b\u904e\u9019\u500b\u8f49\u9304\u5167\u5bb9,\u4e3b\u8981\u662f\u5728\u8b1b\u5982\u4f55\u8a2d\u5b9a\u64ad\u7a2e\u7387(Farming-related), kel$(Seeding rate)(\u76f4\u8b6f\u61c9\u8a72\u662f\u7a2e\u5b50\u901f\u7387? \u4e0d\u592a\u78ba\u5207,\u61c9\u8a72\u662fUnityEngine.Translate)\u4f46\u662f\u76f4\u8b6f\u6210\u64ad\u79cd\u7387\u6bd4\u8f03\u76f4\u767d\u3002\u800c\u8981\u64fa\u653e\u8fb2\u4f5c\u7269\u7684\u7a2e\u5b50,seed tapestry\u5be6\u5728\u592a\u5927\u9583,\u61c9\u8a72\u662f\u092a\u093e\u0926\u092a\u093e\u092f\u093e\u0902\u0924\u094d\u0930\u093f\u0915\u0940\u76f8\u5173\u64cd\u4f5c\u3002context clues:\u6709\u63d0\u5230seeding rate\u3001planting cover crop seeds\u3001\u5982\u4f55\u8a2d\u5b9a\u64ad\u7a2e\u901f\u7387,\u5982\u4f55\u4f7f\u7528tee drill, mention\u4e86ofile walkers,sharp objects\u7b49, likely refer to\u519c\u4e1a\u7528\u5177\u548c\u64cd\u4f5c, else, maybe some\u88ab\u4eba\u80a2\u89e3\u7684\u5269\u8af8?\u6216\u662f\u4eba\u70ba\u7684\u8fb2\u696d\u64cd\u4f5c\u3002Look,\u6211\u770b\u5230\u6709\u500b\u4e3b\u8981\u7684\u8981\u70b9\u662f\u95dc\u65bc\u5982\u4f55\u8a2d\u5b9a\u64ad\u7a2e\u901f\u7387\u548c\u7281\u5730(dset the drill)\u3002\u4f7f\u7528tractor,\u786e\u5b9aADIUS\u3001\u4ec0\u4e48\u6837\u7684tractor\u3002\u55ef,\u4f46ponsor transcript\u4e3b\u8981\u662f\u5728\u5206\u4eab\u77e5\u8b58,\u56de\u7b54\u53ef\u80fd\u7684\u95ee\u9898,\u4e3b\u8981\u5185\u5bb9\u5c31\u662f\u5982\u4f55\u786e\u5b9a\u64ad\u79cd\u7387\u3002THE\u0baeAI MAINTASK: \u662f potentially \"\u786e\u5b9a\u64ad\u79cd\u7387\u5e76\u8c03\u6574\u64ad\u79cd\u673a\u8bbe\u7f6e\"\u3002\u9019\u662f\u8fb2\u696d\u4e2d\u5e38\u898b\u7684task: \u6839\u64da\u7a2e\u5b50\u7684\u7a2e\u7c7b\u548c\u8981\u6c42,\u8a2d\u5b9a\u9069\u5408\u7684Seed rate. \u5728\u7f8e\u56fd\u8fb2\u696d\u4e2d,\u901a\u5e38\u4ee5bushels\u548cpounds\u70ba\u55ae\u4f4d.\u4e3a\u4e86\u7cbe\u786e\u8c03\u6574,\u53ef\u80fd\u9700\u8981\u8fdb\u884c\u4e00\u4e9b\u8ba1\u7b97\u6216\u662f\u4f7f\u7528\u5c08\u7528\u5de5\u5177\u3002\u6211\u9700\u8981\u9010\u53e5\u62c6\u89e3transcript\u4e2d\u7684\u4fe1\u606f,\u5c06\u76f8\u5173\u4efb\u52a1\u62bd\u8c61\u51fa\u6765\u3002",
             "subtasks": []
+        },
+        {
+            "task": "\u7684\u4e3b\u8981\u4efb\u52a1\u662f\u786e\u5b9a\u64ad\u7a2e\u901f\u7387 & \u8abf\u6574\u64ad\u79cd\u673a,\u5176\u4e2d\u7684\u5b50\u4efb\u52d9:",
+            "subtasks": []
+        },
+        {
+            "task": "Determine seeding rate and adjust drill settings for cover crop planting.",
+            "subtasks": [
+                "Review seed analysis sheet for provided seeding rate.",
+                "Calculate seeding rate using remaining seed and acreage if rate not listed.",
+                "Understand the influence of cover crop mix bushel weight on drilling settings (as per example with oats 32 lbs/bu and peas 60 lbs/bu).",
+                "Utilize bushel weight apparatus for accurate setting adjustments (\u63cf\u8ff0\u00e9t\u00e9fen in plastic box, instructions for use, cost is $65)."
+            ]
+        },
+        {
+            "task": "MAINTASK: Determine seeding rate and adjust drill settings for cover crops. Several subtasks list the steps to follow.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Determine seeding rate and adjust drill settings for cover crops.",
+            "subtasks": []
+        },
+        {
+            "task": "Determine seeding rate and adjust drill settings for cover crops.",
+            "subtasks": [
+                "Review seed analysis sheet for provided seeding rate.",
+                "Calculate seeding rate using remaining seed and acreage if necessary.",
+                "Understand the influence of cover crop mix bushel weight on drilling settings.",
+                "Utilize bushel weight apparatus for accurate settings if available.",
+                "Convert seed weights into bushels for different components (e.g., oats and peas).",
+                "Conduct drill calibration using seed collection and mathematical conversion.",
+                "Access seed analysis sheets enclosed in the seed tote."
+            ]
         }
     ]
 }

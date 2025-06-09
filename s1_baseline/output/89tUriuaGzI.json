@@ -5,267 +5,744 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Drive the forklift to transport farm supplies.",
+            "task": "Start the tractor and attach implements.",
             "subtasks": [
-                "Operate the steering wheel to navigate the forklift.",
-                "Engage the forklift's hydraulic system to lift the supplies.",
-                "Use hand controls to adjust the forklift's lift height.",
-                "Drive the forklift to the designated storage area.",
-                "Align the forklift with the storage position.",
-                "Lower the supplies onto the storage rack or pallet."
+                "Enter the tractor cab.",
+                "Start the tractor engine.",
+                "Exit the tractor cab.",
+                "Approach the storage area to select appropriate implements.",
+                "Lift the implement into position.",
+                "Secure the implement to the tractor."
             ]
         },
         {
-            "task": "Unload the forklift by transferring supplies to storage.",
+            "task": "Operate the harvester.",
             "subtasks": [
-                "Disengage the lift and tilt the forks to lower the supplies.",
-                "Walk the forklift to the appropriate storage location.",
-                "Insert the forks into the storage rack or stacking area.",
-                "Release the load and lift the fork slightly.",
-                "Drive the forklift away from the storage area."
+                "Position the harvester over the crop.",
+                "Adjust the harvester settings for optimal harvest.",
+                "Monitor the harvester operation.",
+                "Clean the harvested crop."
             ]
         },
         {
-            "task": "Securely store farm supplies to prevent damage.",
+            "task": "Load and transport the harvest.",
             "subtasks": [
-                "Organize supplies on the storage rack or pallet.",
-                "Ensure all stacks are stable and won't topple.",
-                "Lock away or cover valuable or perishable items."
+                "Attach a trailer to the tractor.",
+                "Transfer the harvested crop to the trailer.",
+                "Secure the crop on the trailer.",
+                "Drive the trailer to the designated storage area.",
+                "Unload the crop from the trailer."
             ]
         },
         {
-            "task": "Perform pre-shift safety checks on the forklift.",
+            "task": "Conduct maintenance checks on the farm equipment.",
             "subtasks": [
-                "Inspect the forklift tires for wear or damage.",
-                "Check the hydraulic fluid levels and condition.",
-                "Test the lift and tilt functions to ensure operation.",
-                "Verify the brakes are functioning properly.",
-                "Check that safety features (like seatbelts) are intact."
+                "Inspect the tractor for proper operation.",
+                "Lubricate moving parts of the equipment.",
+                "Check fluid levels in the tractor and implements.",
+                "Replace any worn or damaged parts."
             ]
         },
         {
-            "task": "Prepare the farm truck for returning to work.",
+            "task": "Plant crops with a planter.",
             "subtasks": [
-                "Secure any loose items in the truck bed.",
-                "Ensure farm equipment is properly attached or stored.",
-                "Check fuel levels and add if necessary.",
-                "Inspect the truck's lights and horn for functionality."
+                "Set up the planter with seed.",
+                "Adjust the depth and spacing of seed placement.",
+                "Attach the planter to the tractor.",
+                "Operate the planter to plant seeds in rows."
             ]
         },
         {
-            "task": "Operate the truck to transport farm supplies.",
+            "task": "Spray pesticides or herbicides on crops.",
             "subtasks": [
-                "Start the truck engine and check the dashboard gauges.",
-                "Signal other vehicles at intersections during drive.",
-                "Maintain proper speed limit and safe distance from other vehicles.",
-                "Navigate dirt roads or farm tracks without damaging them.",
-                "Stop at designated areas to pick up or drop off supplies.",
-                "Park the truck safely in the designated area or shed."
+                "Fill the sprayer tank with the desired chemical.",
+                "Attach the sprayer equipment to the tractor.",
+                "Calibration of the sprayer.",
+                "Drive the tractor through the fields, applying the chemical evenly."
             ]
         },
         {
-            "task": "Load the farm truck with necessary materials.",
+            "task": "Prepare the soil with a tiller.",
             "subtasks": [
-                "Open the truck bed or doors to access the loading area.",
-                "Position the forklift forks under the load to be moved.",
-                "Secure the load on the truck bed, ensuring it won't shift.",
-                "Check tie-downs or straps are tight and secure."
+                "Position the tiller in the field.",
+                "Operate the tiller to break up the soil.",
+                "Navigate the tiller through the designated area."
             ]
         },
         {
-            "task": "Assist in manual stacking of supplies when necessary.",
+            "task": "Graze livestock on pastures.",
             "subtasks": [
-                "Carry supplies from the forklift to the stack area.",
-                "Lift and place items on a higher stack, using box or hay as previous.",
-                "Make sure stacks are stable and balanced to prevent collapse."
+                "Drive the tractor to the pasture area.",
+                "Open the gate to allow livestock access.",
+                "Observe the livestock for any health issues.",
+                "Close the gate when livestock have had sufficient grazing."
             ]
         },
         {
-            "task": "Ensure proper ventilation for stored grain or produce.",
+            "task": "Harvest hay from the fields.",
             "subtasks": [
-                "Adjust the ventilation fans in the storage area.",
-                "Open windows or doors if necessary for natural airflow.",
-                "Check for any blockages in vents or air channels."
+                "Operate the hay conditioner/equipment.",
+                "Roll the hay into bales.",
+                "Transfer the bales to storage."
             ]
         },
         {
-            "task": "Check for potential rodent entry points in storage areas.",
+            "task": "Apply fertilizer to the crops.",
             "subtasks": [
-                "Inspect the storage perimeter for gaps or holes.",
-                "Seal entry points with caulk or mesh if any are found.",
-                "Set up traps or deterrents if rodents are present."
+                "Load fertilizer onto the spreader.",
+                "Attach the spreader to the tractor.",
+                "Set the spreader to the correct application rate.",
+                "Drive the tractor over the crops, distributing the fertilizer evenly."
             ]
         },
         {
-            "task": "Inspect storage area for temperature and moisture levels.",
+            "task": "Check the irrigation systems.",
             "subtasks": [
-                "Use a thermometer to check the temperature of stored goods.",
-                "Check for dampness or standing water in the storage area.",
-                "Open storage rooms or areas to improve air circulation."
+                "Inspect the irrigation pipes and sprinklers for leaks.",
+                "Turn on the water supply to the irrigation system.",
+                "Monitor the water distribution across the fields."
             ]
         },
         {
-            "task": "Communicate with other farmworkers for coordination.",
+            "task": "Transport fertilizer to the fields.",
             "subtasks": [
-                "Use two-way radios or walkie-talkies to coordinate tasks.",
-                "Brief team members on the day's work priorities.",
-                "Check for safety equipment needs or personal protective equipment."
+                "Drive the fertilizer spreader to the fields.",
+                "Unload the fertilizer from the spreader.",
+                "Attach the spreader to the tractor.",
+                "Spread the fertilizer uniformly in the fields."
             ]
         },
         {
-            "task": "Conduct regular walk-throughs of the farm premises.",
+            "task": "Fix the broken fence.",
             "subtasks": [
-                "Check for hazards such as downed power lines or unsafe structures.",
-                "Look for signs of crop damage or pest infestations.",
-                "Report any issues to the appropriate supervisor or manager."
+                "Locate the damaged section of the fence.",
+                "Remove any debris or vegetation around the fence post.",
+                "Replace the damaged fence panel.",
+                "Secure the new panel to the fence posts."
             ]
         },
         {
-            "task": "Handle the loading and unloading of equipment trucks.",
+            "task": "Prepare manure for spreading.",
             "subtasks": [
-                "Assist in moving farm equipment from the truck to the storage area.",
-                "Connect or disconnect trailers or attachments as needed.",
-                "Ensure all equipment is properly placed in its designated spot."
+                "Collect the manure from the barn.",
+                "Transfer the manure to the spreader.",
+                "Assist in the loading process by directing the spreader.",
+                "Control the spreader as it dispenses the manure."
             ]
         },
         {
-            "task": "Ensure access to clean water for cooling or irrigation.",
+            "task": "Conduct soil testing.",
             "subtasks": [
-                "Check water tank levels and refill as necessary.",
-                "Inspect water distribution systems for leaks or clogs.",
-                "Turn on sprinklers or irrigation systems for necessary watering."
+                "Collect soil samples from various parts of the fields.",
+                "Send the samples to a laboratory for analysis.",
+                "Interpret the results to determine fertilizer needs."
             ]
         },
         {
-            "task": "Drive the forklift to transport farm supplies.",
+            "task": "Drive the combine.",
             "subtasks": [
-                "Operate the steering wheel to navigate the forklift.",
-                "Engage the forklift's hydraulic system to lift the supplies.",
-                "Use hand controls to adjust the forklift's lift height.",
-                "Drive the forklift to the designated storage area.",
-                "Align the forklift with the storage position.",
-                "Lower the supplies onto the storage rack or pallet."
+                "Enter the combine cab.",
+                "Start the combine engine.",
+                "Attach the combine to the tractor.",
+                "Begin harvesting the crop by operating the combine.",
+                "Transfer the harvested grain into the wagon.",
+                "Unload the grain into the storage facility."
             ]
         },
         {
-            "task": "Unload the forklift by transferring supplies to storage.",
+            "task": "Conduct livestock vaccinations.",
             "subtasks": [
-                "Disengage the lift and tilt the forks to lower the supplies.",
-                "Walk the forklift to the appropriate storage location.",
-                "Insert the forks into the storage rack or stacking area.",
-                "Release the load and lift the fork slightly.",
-                "Drive the forklift away from the storage area."
+                "Prepare the vaccine.",
+                "Approach the livestock for handling.",
+                "Safely restrain the livestock.",
+                "Administer the vaccine according to protocol.",
+                "Document the vaccination date and type."
             ]
         },
         {
-            "task": "Securely store farm supplies to prevent damage.",
+            "task": "Herd sheep.",
             "subtasks": [
-                "Organize supplies on the storage rack or pallet.",
-                "Ensure all stacks are stable and won't topple.",
-                "Lock away or cover valuable or perishable items."
+                "Approach the sheep with a vehicle or on foot.",
+                "Guide the sheep towards the destination using a vehicle's sound or a flag.",
+                "Ensure all sheep are accounted for and safely moved."
             ]
         },
         {
-            "task": "Perform pre-shift safety checks on the forklift.",
+            "task": "Apply seed to the soil.",
             "subtasks": [
-                "Inspect the forklift tires for wear or damage.",
-                "Check the hydraulic fluid levels and condition.",
-                "Test the lift and tilt functions to ensure operation.",
-                "Verify the brakes are functioning properly.",
-                "Check that safety features (like seatbelts) are intact."
+                "Attach the seeding equipment to the tractor.",
+                "Operate the seeder to plant the seeds evenly.",
+                "Monitor the seeding depth and spacing."
             ]
         },
         {
-            "task": "Prepare the farm truck for returning to work.",
+            "task": "Cultivate the soil with a cultivator.",
             "subtasks": [
-                "Secure any loose items in the truck bed.",
-                "Ensure farm equipment is properly attached or stored.",
-                "Check fuel levels and add if necessary.",
-                "Inspect the truck's lights and horn for functionality."
+                "Position the cultivator in the field.",
+                "Operate the cultivator to turn the soil.",
+                "Check the depth of cultivation."
             ]
         },
         {
-            "task": "Operate the truck to transport farm supplies.",
+            "task": "Collect eggs from the chicken coop.",
             "subtasks": [
-                "Start the truck engine and check the dashboard gauges.",
-                "Signal other vehicles at intersections during drive.",
-                "Maintain proper speed limit and safe distance from other vehicles.",
-                "Navigate dirt roads or farm tracks without damaging them.",
-                "Stop at designated areas to pick up or drop off supplies.",
-                "Park the truck safely in the designated area or shed."
+                "Open the entrance to the chicken coop.",
+                "Gingerly collect eggs from the nest boxes.",
+                "Place the eggs in a basket or container for transport.",
+                "Close the coop entrance securely."
             ]
         },
         {
-            "task": "Load the farm truck with necessary materials.",
+            "task": "Preplanting soil preparation.",
             "subtasks": [
-                "Open the truck bed or doors to access the loading area.",
-                "Position the forklift forks under the load to be moved.",
-                "Secure the load on the truck bed, ensuring it won't shift.",
-                "Check tie-downs or straps are tight and secure."
+                "Prepare the land for planting by breaking up clumps or applying lime.",
+                "Spread organic matter or fertilizer on the field.",
+                "Tamp down the soil to ensure good contact with the fertilizer."
             ]
         },
         {
-            "task": "Assist in manual stacking of supplies when necessary.",
+            "task": "Prepare grain for milling.",
             "subtasks": [
-                "Carry supplies from the forklift to the stack area.",
-                "Lift and place items on a higher stack, using box or hay as previous.",
-                "Make sure stacks are stable and balanced to prevent collapse."
+                "Transport the grain from the storage facility to the mill.",
+                "Clean the grain to remove impurities.",
+                "Operate the grinder to mill the grain into flour.",
+                "Package the milled grain for storage or sale."
             ]
         },
         {
-            "task": "Ensure proper ventilation for stored grain or produce.",
+            "task": "Plant seeds with a planter.",
             "subtasks": [
-                "Adjust the ventilation fans in the storage area.",
-                "Open windows or doors if necessary for natural airflow.",
-                "Check for any blockages in vents or air channels."
+                "Select the appropriate seed.",
+                "Fill the planter's seed boxes.",
+                "Adjust the depth and spacing for the specific crop.",
+                "Secure the planter to the tractor.",
+                "Operate the planter to plant seeds in the field."
             ]
         },
         {
-            "task": "Check for potential rodent entry points in storage areas.",
+            "task": "Install fencing around a pasture.",
             "subtasks": [
-                "Inspect the storage perimeter for gaps or holes.",
-                "Seal entry points with caulk or mesh if any are found.",
-                "Set up traps or deterrents if rodents are present."
+                "Survey the area to determine fencing placement.",
+                "Allocate materials/drive fence posts into the ground.",
+                "Attach fencing wire to the posts.",
+                "Check the fencing for proper tightness and safety."
             ]
         },
         {
-            "task": "Inspect storage area for temperature and moisture levels.",
+            "task": "Monitor crop growth.",
             "subtasks": [
-                "Use a thermometer to check the temperature of stored goods.",
-                "Check for dampness or standing water in the storage area.",
-                "Open storage rooms or areas to improve air circulation."
+                "Walk through the fields to examine plants' health.",
+                "Record observations about plant growth stages.",
+                "Check for pests or diseases.",
+                "Start the irrigation system.",
+                "Monitor water flow and coverage.",
+                "Adjust sprinklers or nozzles if necessary."
             ]
         },
         {
-            "task": "Communicate with other farmworkers for coordination.",
+            "task": "Monitor livestock feed.",
             "subtasks": [
-                "Use two-way radios or walkie-talkies to coordinate tasks.",
-                "Brief team members on the day's work priorities.",
-                "Check for safety equipment needs or personal protective equipment."
+                "Observe the remaining feed in the storage areas.",
+                "Calculate how much feed is needed.",
+                "Replenish feed supplies when necessary.",
+                "5. \u7528MAINTASK\u548cSUBTASK\u7684\u6807\u7b7e\u6765\u660e\u786e\u6bcf\u4e2a\u4efb\u52a1\u548c\u5b50\u4efb\u52a1\u7684\u7ea7\u522b,\u5e76\u6309\u7167\u8981\u6c42\u7ed9\u51fa\u3002"
             ]
         },
         {
-            "task": "Conduct regular walk-throughs of the farm premises.",
+            "task": "Start the tractor and attach implements.",
             "subtasks": [
-                "Check for hazards such as downed power lines or unsafe structures.",
-                "Look for signs of crop damage or pest infestations.",
-                "Report any issues to the appropriate supervisor or manager."
+                "Enter the tractor cab.",
+                "Start the tractor engine.",
+                "Exit the tractor cab.",
+                "Approach the storage area to select appropriate implements.",
+                "Lift the implement into position.",
+                "Secure the implement to the tractor."
             ]
         },
         {
-            "task": "Handle the loading and unloading of equipment trucks.",
+            "task": "Operate the harvester.",
             "subtasks": [
-                "Assist in moving farm equipment from the truck to the storage area.",
-                "Connect or disconnect trailers or attachments as needed.",
-                "Ensure all equipment is properly placed in its designated spot."
+                "Position the harvester over the crop.",
+                "Adjust the harvester settings for optimal harvest.",
+                "Monitor the harvester operation.",
+                "Clean the harvested crop."
             ]
         },
         {
-            "task": "Ensure access to clean water for cooling or irrigation.",
+            "task": "Load and transport the harvest.",
             "subtasks": [
-                "Check water tank levels and refill as necessary.",
-                "Inspect water distribution systems for leaks or clogs.",
-                "Turn on sprinklers or irrigation systems for necessary watering."
+                "Attach a trailer to the tractor.",
+                "Transfer the harvested crop to the trailer.",
+                "Secure the crop on the trailer.",
+                "Drive the trailer to the designated storage area.",
+                "Unload the crop from the trailer."
+            ]
+        },
+        {
+            "task": "Conduct maintenance checks on the farm equipment.",
+            "subtasks": [
+                "Inspect the tractor for proper operation.",
+                "Lubricate moving parts of the equipment.",
+                "Check fluid levels in the tractor and implements.",
+                "Replace any worn or damaged parts."
+            ]
+        },
+        {
+            "task": "Plant crops with a planter.",
+            "subtasks": [
+                "Set up the planter with seed.",
+                "Adjust the depth and spacing of seed placement.",
+                "Attach the planter to the tractor.",
+                "Operate the planter to plant seeds in rows."
+            ]
+        },
+        {
+            "task": "Spray pesticides or herbicides on crops.",
+            "subtasks": [
+                "Fill the sprayer tank with the desired chemical.",
+                "Attach the sprayer equipment to the tractor.",
+                "Calibration of the sprayer.",
+                "Drive the tractor through the fields, applying the chemical evenly."
+            ]
+        },
+        {
+            "task": "Prepare the soil with a tiller.",
+            "subtasks": [
+                "Position the tiller in the field.",
+                "Operate the tiller to break up the soil.",
+                "Navigate the tiller through the designated area."
+            ]
+        },
+        {
+            "task": "Graze livestock on pastures.",
+            "subtasks": [
+                "Drive the tractor to the pasture area.",
+                "Open the gate to allow livestock access.",
+                "Observe the livestock for any health issues.",
+                "Close the gate when livestock have had sufficient grazing."
+            ]
+        },
+        {
+            "task": "Harvest hay from the fields.",
+            "subtasks": [
+                "Operate the hay conditioner/equipment.",
+                "Roll the hay into bales.",
+                "Transfer the bales to storage."
+            ]
+        },
+        {
+            "task": "Apply fertilizer to the crops.",
+            "subtasks": [
+                "Load fertilizer onto the spreader.",
+                "Attach the spreader to the tractor.",
+                "Set the spreader to the correct application rate.",
+                "Drive the tractor over the crops, distributing the fertilizer evenly."
+            ]
+        },
+        {
+            "task": "Check the irrigation systems.",
+            "subtasks": [
+                "Inspect the irrigation pipes and sprinklers for leaks.",
+                "Turn on the water supply to the irrigation system.",
+                "Monitor the water distribution across the fields."
+            ]
+        },
+        {
+            "task": "Transport fertilizer to the fields.",
+            "subtasks": [
+                "Drive the fertilizer spreader to the fields.",
+                "Unload the fertilizer from the spreader.",
+                "Attach the spreader to the tractor.",
+                "Spread the fertilizer uniformly in the fields."
+            ]
+        },
+        {
+            "task": "Fix the broken fence.",
+            "subtasks": [
+                "Locate the damaged section of the fence.",
+                "Remove any debris or vegetation around the fence post.",
+                "Replace the damaged fence panel.",
+                "Secure the new panel to the fence posts."
+            ]
+        },
+        {
+            "task": "Prepare manure for spreading.",
+            "subtasks": [
+                "Collect the manure from the barn.",
+                "Transfer the manure to the spreader.",
+                "Assist in the loading process by directing the spreader.",
+                "Control the spreader as it dispenses the manure."
+            ]
+        },
+        {
+            "task": "Conduct soil testing.",
+            "subtasks": [
+                "Collect soil samples from various parts of the fields.",
+                "Send the samples to a laboratory for analysis.",
+                "Interpret the results to determine fertilizer needs."
+            ]
+        },
+        {
+            "task": "Drive the combine.",
+            "subtasks": [
+                "Enter the combine cab.",
+                "Start the combine engine.",
+                "Attach the combine to the tractor.",
+                "Begin harvesting the crop by operating the combine.",
+                "Transfer the harvested grain into the wagon.",
+                "Unload the grain into the storage facility."
+            ]
+        },
+        {
+            "task": "Conduct livestock vaccinations.",
+            "subtasks": [
+                "Prepare the vaccine.",
+                "Approach the livestock for handling.",
+                "Safely restrain the livestock.",
+                "Administer the vaccine according to protocol.",
+                "Document the vaccination date and type."
+            ]
+        },
+        {
+            "task": "Herd sheep.",
+            "subtasks": [
+                "Approach the sheep with a vehicle or on foot.",
+                "Guide the sheep towards the destination using a vehicle's sound or a flag.",
+                "Ensure all sheep are accounted for and safely moved."
+            ]
+        },
+        {
+            "task": "Apply seed to the soil.",
+            "subtasks": [
+                "Attach the seeding equipment to the tractor.",
+                "Operate the seeder to plant the seeds evenly.",
+                "Monitor the seeding depth and spacing."
+            ]
+        },
+        {
+            "task": "Cultivate the soil with a cultivator.",
+            "subtasks": [
+                "Position the cultivator in the field.",
+                "Operate the cultivator to turn the soil.",
+                "Check the depth of cultivation."
+            ]
+        },
+        {
+            "task": "Collect eggs from the chicken coop.",
+            "subtasks": [
+                "Open the entrance to the chicken coop.",
+                "Gingerly collect eggs from the nest boxes.",
+                "Place the eggs in a basket or container for transport.",
+                "Close the coop entrance securely."
+            ]
+        },
+        {
+            "task": "Preplanting soil preparation.",
+            "subtasks": [
+                "Prepare the land for planting by breaking up clumps or applying lime.",
+                "Spread organic matter or fertilizer on the field.",
+                "Tamp down the soil to ensure good contact with the fertilizer."
+            ]
+        },
+        {
+            "task": "Prepare grain for milling.",
+            "subtasks": [
+                "Transport the grain from the storage facility to the mill.",
+                "Clean the grain to remove impurities.",
+                "Operate the grinder to mill the grain into flour.",
+                "Package the milled grain for storage or sale."
+            ]
+        },
+        {
+            "task": "Plant seeds with a planter.",
+            "subtasks": [
+                "Select the appropriate seed.",
+                "Fill the planter's seed boxes.",
+                "Adjust the depth and spacing for the specific crop.",
+                "Secure the planter to the tractor.",
+                "Operate the planter to plant seeds in the field."
+            ]
+        },
+        {
+            "task": "Install fencing around a pasture.",
+            "subtasks": [
+                "Survey the area to determine fencing placement.",
+                "Allocate materials/drive fence posts into the ground.",
+                "Attach fencing wire to the posts.",
+                "Check the fencing for proper tightness and safety."
+            ]
+        },
+        {
+            "task": "Monitor crop growth.",
+            "subtasks": [
+                "Walk through the fields to examine plants' health.",
+                "Record observations about plant growth stages.",
+                "Check for pests or diseases."
+            ]
+        },
+        {
+            "task": "Irrigate crops.",
+            "subtasks": [
+                "Start the irrigation system.",
+                "Monitor water flow and coverage.",
+                "Adjust sprinklers or nozzles if necessary."
+            ]
+        },
+        {
+            "task": "Monitor livestock feed.",
+            "subtasks": [
+                "Observe the remaining feed in the storage areas.",
+                "Calculate how much feed is needed.",
+                "Replenish feed supplies when necessary.",
+                "5. \u7528MAINTASK\u548cSUBTASK\u7684\u6807\u7b7e\u6765\u660e\u786e\u6bcf\u4e2a\u4efb\u52a1\u548c\u5b50\u4efb\u52a1\u7684\u7ea7\u522b,\u5e76\u6309\u7167\u8981\u6c42\u7ed9\u51fa\u3002"
+            ]
+        },
+        {
+            "task": "Start the tractor and attach implements.",
+            "subtasks": [
+                "Enter the tractor cab.",
+                "Start the tractor engine.",
+                "Exit the tractor cab.",
+                "Approach the storage area to select appropriate implements.",
+                "Lift the implement into position.",
+                "Secure the implement to the tractor."
+            ]
+        },
+        {
+            "task": "Operate the harvester.",
+            "subtasks": [
+                "Position the harvester over the crop.",
+                "Adjust the harvester settings for optimal harvest.",
+                "Monitor the harvester operation.",
+                "Clean the harvested crop."
+            ]
+        },
+        {
+            "task": "Load and transport the harvest.",
+            "subtasks": [
+                "Attach a trailer to the tractor.",
+                "Transfer the harvested crop to the trailer.",
+                "Secure the crop on the trailer.",
+                "Drive the trailer to the designated storage area.",
+                "Unload the crop from the trailer."
+            ]
+        },
+        {
+            "task": "Conduct maintenance checks on the farm equipment.",
+            "subtasks": [
+                "Inspect the tractor for proper operation.",
+                "Lubricate moving parts of the equipment.",
+                "Check fluid levels in the tractor and implements.",
+                "Replace any worn or damaged parts."
+            ]
+        },
+        {
+            "task": "Plant crops with a planter.",
+            "subtasks": [
+                "Set up the planter with seed.",
+                "Adjust the depth and spacing of seed placement.",
+                "Attach the planter to the tractor.",
+                "Operate the planter to plant seeds in rows."
+            ]
+        },
+        {
+            "task": "Spray pesticides or herbicides on crops.",
+            "subtasks": [
+                "Fill the sprayer tank with the desired chemical.",
+                "Attach the sprayer equipment to the tractor.",
+                "Calibration of the sprayer.",
+                "Drive the tractor through the fields, applying the chemical evenly."
+            ]
+        },
+        {
+            "task": "Prepare the soil with a tiller.",
+            "subtasks": [
+                "Position the tiller in the field.",
+                "Operate the tiller to break up the soil.",
+                "Navigate the tiller through the designated area."
+            ]
+        },
+        {
+            "task": "Graze livestock on pastures.",
+            "subtasks": [
+                "Drive the tractor to the pasture area.",
+                "Open the gate to allow livestock access.",
+                "Observe the livestock for any health issues.",
+                "Close the gate when livestock have had sufficient grazing."
+            ]
+        },
+        {
+            "task": "Harvest hay from the fields.",
+            "subtasks": [
+                "Operate the hay conditioner/equipment.",
+                "Roll the hay into bales.",
+                "Transfer the bales to storage."
+            ]
+        },
+        {
+            "task": "Apply fertilizer to the crops.",
+            "subtasks": [
+                "Load fertilizer onto the spreader.",
+                "Attach the spreader to the tractor.",
+                "Set the spreader to the correct application rate.",
+                "Drive the tractor over the crops, distributing the fertilizer evenly."
+            ]
+        },
+        {
+            "task": "Check the irrigation systems.",
+            "subtasks": [
+                "Inspect the irrigation pipes and sprinklers for leaks.",
+                "Turn on the water supply to the irrigation system.",
+                "Monitor the water distribution across the fields."
+            ]
+        },
+        {
+            "task": "Transport fertilizer to the fields.",
+            "subtasks": [
+                "Drive the fertilizer spreader to the fields.",
+                "Unload the fertilizer from the spreader.",
+                "Attach the spreader to the tractor.",
+                "Spread the fertilizer uniformly in the fields."
+            ]
+        },
+        {
+            "task": "Fix the broken fence.",
+            "subtasks": [
+                "Locate the damaged section of the fence.",
+                "Remove any debris or vegetation around the fence post.",
+                "Replace the damaged fence panel.",
+                "Secure the new panel to the fence posts."
+            ]
+        },
+        {
+            "task": "Prepare manure for spreading.",
+            "subtasks": [
+                "Collect the manure from the barn.",
+                "Transfer the manure to the spreader.",
+                "Assist in the loading process by directing the spreader.",
+                "Control the spreader as it dispenses the manure."
+            ]
+        },
+        {
+            "task": "Conduct soil testing.",
+            "subtasks": [
+                "Collect soil samples from various parts of the fields.",
+                "Send the samples to a laboratory for analysis.",
+                "Interpret the results to determine fertilizer needs."
+            ]
+        },
+        {
+            "task": "Drive the combine.",
+            "subtasks": [
+                "Enter the combine cab.",
+                "Start the combine engine.",
+                "Attach the combine to the tractor.",
+                "Begin harvesting the crop by operating the combine.",
+                "Transfer the harvested grain into the wagon.",
+                "Unload the grain into the storage facility."
+            ]
+        },
+        {
+            "task": "Conduct livestock vaccinations.",
+            "subtasks": [
+                "Prepare the vaccine.",
+                "Approach the livestock for handling.",
+                "Safely restrain the livestock.",
+                "Administer the vaccine according to protocol.",
+                "Document the vaccination date and type."
+            ]
+        },
+        {
+            "task": "Herd sheep.",
+            "subtasks": [
+                "Approach the sheep with a vehicle or on foot.",
+                "Guide the sheep towards the destination using a vehicle's sound or a flag.",
+                "Ensure all sheep are accounted for and safely moved."
+            ]
+        },
+        {
+            "task": "Apply seed to the soil.",
+            "subtasks": [
+                "Attach the seeding equipment to the tractor.",
+                "Operate the seeder to plant the seeds evenly.",
+                "Monitor the seeding depth and spacing."
+            ]
+        },
+        {
+            "task": "Cultivate the soil with a cultivator.",
+            "subtasks": [
+                "Position the cultivator in the field.",
+                "Operate the cultivator to break up the soil.",
+                "Check the depth of cultivation."
+            ]
+        },
+        {
+            "task": "Collect eggs from the chicken coop.",
+            "subtasks": [
+                "Open the entrance to the chicken coop.",
+                "Gingerly collect eggs from the nest boxes.",
+                "Place the eggs in a basket or container for transport.",
+                "Close the coop entrance securely."
+            ]
+        },
+        {
+            "task": "Preplanting soil preparation.",
+            "subtasks": [
+                "Prepare the land for planting by breaking up clumps or applying lime.",
+                "Spread organic matter or fertilizer on the field.",
+                "Tamp down the soil to ensure good contact with the fertilizer."
+            ]
+        },
+        {
+            "task": "Prepare grain for milling.",
+            "subtasks": [
+                "Transport the grain from the storage facility to the mill.",
+                "Clean the grain to remove impurities.",
+                "Operate the grinder to mill the grain into flour.",
+                "Package the milled grain for storage or sale."
+            ]
+        },
+        {
+            "task": "Plant seeds with a planter.",
+            "subtasks": [
+                "Select the appropriate seed.",
+                "Fill the planter's seed boxes.",
+                "Adjust the depth and spacing for the specific crop.",
+                "Secure the planter to the tractor.",
+                "Operate the planter to plant seeds in the field."
+            ]
+        },
+        {
+            "task": "Install fencing around a pasture.",
+            "subtasks": [
+                "Survey the area to determine fencing placement.",
+                "Allocate materials/drive fence posts into the ground.",
+                "Attach fencing wire to the posts.",
+                "Check the fencing for proper tightness and safety."
+            ]
+        },
+        {
+            "task": "Monitor crop growth.",
+            "subtasks": [
+                "Walk through the fields to examine plants' health.",
+                "Record observations about plant growth stages.",
+                "Check for pests or diseases."
+            ]
+        },
+        {
+            "task": "Irrigate crops.",
+            "subtasks": [
+                "Start the irrigation system.",
+                "Monitor water flow and coverage.",
+                "Adjust sprinklers or nozzles if necessary."
+            ]
+        },
+        {
+            "task": "Monitor livestock feed.",
+            "subtasks": [
+                "Observe the remaining feed in the storage areas.",
+                "Calculate how much feed is needed.",
+                "Replenish feed supplies when necessary."
             ]
         }
     ]

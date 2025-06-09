@@ -5,28 +5,32 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Conducting a field trial for verifying furrow irrigation design parameters.",
-            "subtasks": []
+            "task": "Conducting field trials for verifying furrow irrigation design parameters",
+            "subtasks": [
+                "Select a representative segment of the field for observation",
+                "Choose a range of stream sizes (e.g., Q_max, maximum allowable, and slightly higher values)",
+                "Measure the elapsed time (e.g., water front movement) for each stream size",
+                "Plot the elapsed time vs. distance for each stream size",
+                "Identify the maximum allowable stream size (non-erosive) and compare with Q_max",
+                "Use iterative procedures to adjust field length and advance time based on observations",
+                "Evaluate distribution pattern efficiency (FAR) and distribution pattern efficiency (ED)",
+                "Calculate net depth of infiltration (TN) and time of advance (Tt)",
+                "Determine unit stream size (Q divided by furrow width)",
+                "Assess cutoff time (TCO) and ensure advance time is within the cutoff period",
+                "Calculate the maximum depth of flow (D_max) and ridge height requirements"
+            ]
         },
         {
-            "task": "Ensuring proper stream size and furrow length in the field.",
-            "subtasks": []
-        },
-        {
-            "task": "Evaluating design parameters for level basin systems.",
-            "subtasks": []
-        },
-        {
-            "task": "Researchers checking field trials for furrow irrigation design consistency.",
-            "subtasks": []
-        },
-        {
-            "task": "Ensuring proper drainage by adjusting ridge height.",
-            "subtasks": []
-        },
-        {
-            "task": "Evaluating the suitability of level basins for low to moderate infiltration soils.",
-            "subtasks": []
+            "task": "Designing level basin irrigation system",
+            "subtasks": [
+                "Determine the appropriate basin size based on soil type using thumb rules or design formulas",
+                "Use Manning's equation to calculate net time of infiltration (TN)",
+                "Evaluate distribution pattern efficiency (FAR) and its relation to fractional advance ratio (ED)",
+                "Calculate time of advance (Tt) and fractional advance ratio (FAR)",
+                "Adjust basin length and net depth of infiltration based on desired distribution pattern efficiency",
+                "Determine maximum depth of flow (D_max) and ridge height (approx. 1.25 x D_max)",
+                "Consider cutoff time (TCO) and ensure proper water management practices"
+            ]
         }
     ]
 }

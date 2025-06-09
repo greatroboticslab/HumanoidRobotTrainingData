@@ -3,5 +3,37 @@
     "title": "Unknown Title",
     "url": "https://www.youtube.com/watch?v=ouZB47ZZHLc",
     "category": "Unknown Category",
-    "tasks": []
+    "tasks": [
+        {
+            "task": "Ford Challenger tractor operator applies fertilizer to soybean fields",
+            "subtasks": [
+                "Sit in the cab of a Ford Challenger tractor",
+                "Engage with the dashboard controls to navigate to soybean fields",
+                "Attach a fertilizer spreader to the tractor",
+                "Operate the fertilizer spreader to apply fertilizer",
+                "Monitor the application and make adjustments as necessary"
+            ]
+        },
+        {
+            "task": "Planting seeds in soybean fields",
+            "subtasks": [
+                "Enter the soybean field",
+                "Operate the tractor's hitch to couple a seed planting implement",
+                "Follow the rows while planting seeds at the correct depth",
+                "Adjust planting speed and depth as needed",
+                "Check seedlings emergence once planted"
+            ]
+        },
+        {
+            "task": "Operating a combine harvester during soybean harvest",
+            "subtasks": [
+                "Drive the combine harvester to the soybean field",
+                "Attach the combine harvester to the tractor or self-propelled unit",
+                "Start the combine and calibrate it for soybean harvesting",
+                "Monitor grain flow and adjust settings for optimal efficiency",
+                "Empty the grain tank periodically and drive to storage location",
+                "Sort and clean harvested soybeans as needed"
+            ]
+        }
+    ]
 }

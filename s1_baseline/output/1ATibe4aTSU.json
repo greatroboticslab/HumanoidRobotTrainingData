@@ -5,32 +5,53 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Introducing a new hen to the hen house",
+            "task": "Introduce a new hen to the hen house",
             "subtasks": [
-                "Place new hen in a large wire dog crate",
-                "Position the crate in the chicken run where existing hens can see it",
-                "Monitor the hens' behavior towards the crate for 3 days",
-                "Open the crate door when the hens have lost interest",
-                "Consider using a dark environment to introduce the hen if preferred",
-                "Allow the new hen to choose when to exit the crate"
+                "Place new hen in a wire dog crate",
+                "Position the crate within the chicken run",
+                "Allow chickens to observe new hen without physical contact",
+                "Wait for three days until chickens lose interest",
+                "Open crate to let new hen exit when ready",
+                "Alternative method of introducing by placing in hen house during darkness"
             ]
         },
         {
-            "task": "Introducing a new rooster to the flock",
+            "task": "Introduce a rooster (Mr. Brown) to existing hens",
             "subtasks": [
-                "Place the new rooster in a wire dog crate",
-                "Position the crate near the existing hens to allow visibility",
-                "Allow hens to acclimate to the rooster's presence over time",
-                "Use a fence or barrier to facilitate gradual integration",
-                "Provide safe supervision when introducing the rooster to the flock"
+                "Allow rooster access to fenced area for gradual acquainting",
+                "Place rooster in dog crate for safety during full integration"
             ]
         },
         {
-            "task": "Ensuring proper hydration for chickens",
+            "task": "Monitor and manage water intake",
             "subtasks": [
-                "Understand the water intake calculation (half their body weight in ounces)",
-                "Monitor daily water consumption to maintain proper hydration",
-                "Adjust water availability as needed to meet chickens' requirements"
+                "Calculate daily water requirement (half body weight in ounces)",
+                "Ensure adequate water consumption (e.g., eight ounces remaining)"
+            ]
+        },
+        {
+            "task": "Introduce a new hen to the hen house",
+            "subtasks": [
+                "Place new hen in a wire dog crate",
+                "Position the crate within the chicken run to allow observation",
+                "Allow chickens to observe the new hen, noting their initial interaction and subsequent loss of interest",
+                "Wait approximately three days before checking if the chickens have lost interest in the new hen",
+                "Open the crate door when the chickens have shown no interest to allow the new hen to exit when ready",
+                "Consider placing the new hen in the hen house during darkness to reduce the likelihood of immediate confrontation"
+            ]
+        },
+        {
+            "task": "Introduce a rooster (Mr. Brown) to existing hens",
+            "subtasks": [
+                "Allow Mr. Brown access to a fenced area of the chicken run for gradual acquaintance",
+                "Use a wire dog crate when integrating Mr. Brown fully into the chicken run for safety"
+            ]
+        },
+        {
+            "task": "Monitor and manage water intake",
+            "subtasks": [
+                "Calculate daily water requirement based on half the body weight in ounces (e.g., 150 pounds requires 75 ounces)",
+                "Ensure adequate water consumption, noting remaining amounts (e.g., 8 ounces left)before bed"
             ]
         }
     ]

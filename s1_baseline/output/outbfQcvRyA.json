@@ -5,84 +5,101 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Operating Grain Harvester",
+            "task": "Farmer loads pickup truck with equipment and materials",
             "subtasks": [
-                "Driving grain harvester through field",
-                "Adjusting cutting depth",
-                "Monitoring grain moisture content",
-                "Operating combine header",
-                "Managing grain loss during harvesting",
-                "Checking grain auger operation"
+                "Approach pickup truck",
+                "Enter pickup truck",
+                "Attach equipment and materials"
             ]
         },
         {
-            "task": "Loading Grain into Truck",
+            "task": "Farmer performs field operations using tractor",
             "subtasks": [
-                "Guiding grain trailer into position",
-                "Verifying trailer is properly docked",
-                "Operating auger to load grain",
-                "Ensuring grain is loaded safely and efficiently"
+                "Approach tractor",
+                "Mount tractor",
+                "Perform field operations"
             ]
         },
         {
-            "task": "Aligning Truck for Unloading",
+            "task": "Farmer inspects crops and equipment",
             "subtasks": [
-                "Positioning truck to receive grain",
-                "Ensuring truck bed is clean and free of obstructions",
-                "Clearing grain spillage from previous loads"
+                "Walk to field",
+                "Inspect crops",
+                "Check equipment"
             ]
         },
         {
-            "task": "Unloading Grain from Trailer",
+            "task": "Farmer interacts with livestock",
             "subtasks": [
-                "Activating grain unloading system",
-                "Monitoring grain flow and adjusting as needed",
-                "Ensuring no blockages in unloading system",
-                "Securing cleaning material to trailer"
+                "Approach livestock area",
+                "Feed animals",
+                "Clean animal housing",
+                "Check animal health"
             ]
         },
         {
-            "task": "Okay, let's see. The transcript is about operating a combine harvester and handling grain, right? So, MAINTASKs would be things like operating the grain harvester, loading grain into a truck, aligning the truck for unloading, and then unloading the grain. Each of those main tasks has several subtasks. Let me break them down.",
-            "subtasks": []
-        },
-        {
-            "task": "Is there anything missing? I think that covers the main tasks and their subtasks based on the transcript. Let me check. The user said to separate each task by a line, so writing MAINTASK for each major task, then listing the subtasks below. The first main task is \"Operating Grain Harvester,\" then \"Loading Grain into Truck,\" then \"Aligning Truck for Unloading,\" and \"Unloading Grain from Trailer.\"",
-            "subtasks": []
-        },
-        {
-            "task": "Operating Grain Harvester**",
+            "task": "Farmer maintains farm structures",
             "subtasks": [
-                "** Driving grain harvester through field",
-                "** Adjusting cutting depth",
-                "** Monitoring grain moisture content",
-                "** Operating combine header",
-                "** Managing grain loss during harvesting"
+                "Enter farm building",
+                "Repairs fencing",
+                "Clear debris from property"
             ]
         },
         {
-            "task": "Loading Grain into Truck**",
+            "task": "Farmer operates water equipment for irrigation",
             "subtasks": [
-                "** Guiding grain trailer into position",
-                "** Verifying trailer is properly docked",
-                "** Operating auger to load grain",
-                "** Ensuring grain is loaded safely and efficiently"
+                "Drive to irrigation system",
+                "Turn on irrigation system",
+                "Check sprinklers or drip lines"
             ]
         },
         {
-            "task": "Aligning Truck for Unloading**",
+            "task": "MAINTASK: Farmer loads pickup truck with equipment and materials",
             "subtasks": [
-                "** Positioning truck to receive grain",
-                "** Ensuring truck bed is clean and free of obstructions",
-                "** Clearing grain spillage from previous loads"
+                "Approach pickup truck",
+                "Enter pickup truck",
+                "Attach equipment and materials"
             ]
         },
         {
-            "task": "Unloading Grain from Trailer**",
+            "task": "Farmer performs field operations using tractor",
             "subtasks": [
-                "** Activating grain unloading system",
-                "** Monitoring grain flow and adjusting as needed",
-                "** Ensuring no blockages in unloading system",
-                "** Securing cleaning material to trailer"
+                "Approach tractor",
+                "Mount tractor",
+                "Perform field operations"
+            ]
+        },
+        {
+            "task": "Farmer inspects crops and equipment",
+            "subtasks": [
+                "Walk to field",
+                "Inspect crops",
+                "Check equipment"
+            ]
+        },
+        {
+            "task": "Farmer interacts with livestock",
+            "subtasks": [
+                "Approach livestock area",
+                "Feed animals",
+                "Clean animal housing",
+                "Check animal health"
+            ]
+        },
+        {
+            "task": "Farmer maintains farm structures",
+            "subtasks": [
+                "Enter farm building",
+                "Repairs fencing",
+                "Clear debris from property"
+            ]
+        },
+        {
+            "task": "Farmer operates water equipment for irrigation",
+            "subtasks": [
+                "Drive to irrigation system",
+                "Turn on irrigation system",
+                "Check sprinklers or drip lines"
             ]
         }
     ]

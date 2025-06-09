@@ -5,17 +5,69 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Preparing livestock for hurricane season",
+            "task": "Review herd health program",
             "subtasks": [
-                "Reviewing herd health program",
-                "Ensuring vaccinations are up to date",
-                "Implementing unique animal identification (e.g., hot brands, USDA tags, electronic tags)",
-                "Assembling necessary equipment for response",
-                "Storing feed and water securely (at least one to two weeks' supply)",
-                "Protecting well water sources (having hand pumps or generators)",
-                "Prioritizing animals for evacuation (e.g., those near birthing)",
-                "Moving animals to higher ground if in flood-prone areas",
-                "Ensuring barn security for livestock safety during storms"
+                "Check vaccination records",
+                "Plan for relocating animals",
+                "Ensure unique animal identification",
+                "Acquire disaster response equipment"
+            ]
+        },
+        {
+            "task": "Store emergency supplies",
+            "subtasks": [
+                "Secure feed and water",
+                "Store feed in a dry place",
+                "Ensure water access with hand pumps"
+            ]
+        },
+        {
+            "task": "Prioritize animals for evacuation",
+            "subtasks": [
+                "Identify animals at risk (e.g., soon to calve)",
+                "Plan evacuation order"
+            ]
+        },
+        {
+            "task": "Move animals to safe locations",
+            "subtasks": [
+                "Elevate animals during flooding",
+                "Keep animals away from barns in storm-prone areas",
+                "Secure horses in stalls if unfamiliar with open spaces",
+                "Protect animals from storm-related stress"
+            ]
+        },
+        {
+            "task": "**MAINTASK Review herd health program**",
+            "subtasks": [
+                "- **SUBTASK Check vaccination records**",
+                "- **SUBTASK Plan for relocating animals**",
+                "- **SUBTASK Ensure unique animal identification** (e.g., hot brands, USDA tags, electronic tags)",
+                "- **SUBTASK Acquire essential equipment** for disaster response"
+            ]
+        },
+        {
+            "task": "**MAINTASK Store emergency supplies**",
+            "subtasks": [
+                "- **SUBTASK Secure feed and water** (1-2 weeks' supply)",
+                "- **SUBTASK Store feed** in a dry, secure location",
+                "- **SUBTASK Have water access** via hand pumps or generators"
+            ]
+        },
+        {
+            "task": "**MAINTASK Prioritize animals for evacuation**",
+            "subtasks": [
+                "- **SUBTASK Identify** animals needing special care (e.g., near birth)",
+                "- **SUBTASK Plan** evacuation order based on priority"
+            ]
+        },
+        {
+            "task": "**MAINTASK Move animals to safe locations**",
+            "subtasks": [
+                "- **SUBTASK Elevate** animals if prone to flooding",
+                "- **SUBTASK Keep away from barns** in storm-prone areas",
+                "- **SUBTASK Secure horses** in stalls if unfamiliar with open spaces",
+                "- **SUBTASK Protect from storm stress** (minimize injuries, maintain calm)"
             ]
         }
     ]

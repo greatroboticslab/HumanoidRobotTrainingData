@@ -5,29 +5,45 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Discussing farming operations",
+            "task": "Show off soil aggregate stability demonstration",
             "subtasks": [
-                "Describe M&H Land and Cattle's main activities (cow-calf pair, background cattle, feeding cattle, bats, row crops)",
-                "Mention specific crops (corn, soybeans, winter wheat, spring wheat, food grade oats, alfalfa, cover crops)"
+                "Prepare soil clods (no-till vs conventional) for demonstration",
+                "Conduct experiment under simulated heavy rain conditions",
+                "Observe and compare moisture retention in different soil types",
+                "Explain the importance of moisture conservation in agriculture"
             ]
         },
         {
-            "task": "Transition to soil conservation methods",
+            "task": "Explain farm operations and crops",
             "subtasks": [
-                "Explain the adoption of cover crops instead of strip till",
-                "Discuss the challenges faced due to drier conditions",
-                "Highlight the benefits of cover crops in retaining moisture"
+                "Discuss ownership and partnership (JP and Holly Haber, M&H Land and Cattle)",
+                "Describe cattle farming (cow-calf pair, background cattle, feed preparation)",
+                "Mention row crops (corn, soybeans, wheat, oats, alfalfa, cover crops)",
+                "Describe recent soil conservation efforts (cover crops instead of strip till)"
             ]
         },
         {
-            "task": "Soil aggregate stability demonstration",
+            "task": "Promote farm and region",
             "subtasks": [
-                "Compare no-till and conventional soil samples",
-                "Describe the reaction during the moisture test (bubbling, breaking apart)",
-                "Highlight the moisture retention of no-till soil",
-                "2. Explain the decision to switch from strip till to cover crops (SUBTASK)",
-                "3. Conduct and compare a soil aggregate stability demonstration (SUBTASK)"
+                "Share location (East Central South Dakota, near Zelle)",
+                "Invite viewers to stop by the farm"
             ]
+        },
+        {
+            "task": "1. The conversation shifts to a soil aggregate stability demonstration. Tasks here involve preparing \"no-till\" and \"conventional\" soil clods for the demonstration, conducting the experiment under simulated rain, and observing the results. This is MAINTASK 1 with subtasks. The presenter explains the importance of the demonstration, so explaining the significance of the experiment is part of the subtask.",
+            "subtasks": []
+        },
+        {
+            "task": "2. The speakers discuss their farm operations. This includes their role (JP and Holly started M&H Land and Cattle), the types of farming they do (cow-calf, background cattle, feeding, cattle husbandry), and crops (row crops, cover crops, specific crops like oats for Gerber). This is MAINTASK 2, and the subtasks involve describing their farming operations and products.",
+            "subtasks": []
+        },
+        {
+            "task": "3. There's a mention of soil conservation efforts, switching from strip till to cover crops. This is MAINTASK 3, with subtasks discussing the rationale behind changing tillage methods due to dry conditions and their plan to test cover crops.",
+            "subtasks": []
+        },
+        {
+            "task": "4. The final part is promotional, mentioning their location (East Central South Dakota near Zelle) and inviting people to visit. This is MAINTASK 4.",
+            "subtasks": []
         }
     ]
 }

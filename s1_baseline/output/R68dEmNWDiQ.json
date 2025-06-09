@@ -5,24 +5,225 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Farming operations",
+            "task": "Interviewing a farmer",
             "subtasks": [
-                "Operating a combine harvester",
-                "Loading grain into a truck"
+                "Positioning oneself in front of the interviewer",
+                "Sitting in a chair or on a stool during the interview",
+                "Dressing appropriately for an agricultural interview",
+                "Engaging verbally with the interviewer",
+                "Answering questions about farming practices",
+                "Demonstrating knowledge of farming terminology",
+                "Describing farming techniques or equipment operation",
+                "Discussing soil management or crop rotation"
             ]
         },
         {
-            "task": "Grain storage",
+            "task": "Operating a tractor",
             "subtasks": [
-                "Unloading grain from a combine into a bin"
+                "Sitting in the tractor seat",
+                "Starting the tractor engine",
+                "Driving the tractor forward and backward",
+                "Turning the steering wheel",
+                "Adjusting speed while driving",
+                "Engaging and disengaging gears",
+                "Operating the clutch and brake pedals",
+                "Maneuvering the tractor through turns",
+                "Checking tire pressure and turning the front steering wheel",
+                "Attaching and detaching implements",
+                "Operating the hydraulic system"
             ]
         },
         {
-            "task": "Equipment maintenance",
+            "task": "Planting crops",
             "subtasks": [
-                "Cleaning a combine harvester",
-                "Inspecting the combine's grain tank",
-                "Checking fenders on the combine for damage"
+                "Loading seeds into the planter hopper",
+                "Adjusting the planter settings",
+                "Lowering the planter into the soil",
+                "Driving the tractor and planter through the field",
+                "Operating the planter's seed discharge mechanism",
+                "Ensuring proper seed coverage and spacing",
+                "Adjusting planting depth",
+                "Cleaning the planter and preparing for the next pass"
+            ]
+        },
+        {
+            "task": "Cultivating soil",
+            "subtasks": [
+                "Selecting the appropriate cultivatorattachment",
+                "Attaching the cultivator to the tractor",
+                "Driving the tractor and cultivator through the field",
+                "Operating the cultivator's tools (e.g.,\u9504\u5934\u3001\u94f2\u7b49)",
+                "Adjusting the depth and angle of the tools",
+                "Monitoring soil disturbance and weed control",
+                "Detaching and storing the cultivator"
+            ]
+        },
+        {
+            "task": "Applying fertilizer",
+            "subtasks": [
+                "Loading fertilizer into the spreader hopper",
+                "Adjusting the fertilizer spread pattern",
+                "Driving the tractor and spreader through the field",
+                "Operating the spreader's discharge mechanism",
+                "Ensuring even distribution of fertilizer",
+                "Cleaning the spreader and refilling as needed"
+            ]
+        },
+        {
+            "task": "Irrigating crops",
+            "subtasks": [
+                "Connecting the irrigation system to the tractor",
+                "Operating the irrigation pump",
+                "Adjusting water flow and pressure",
+                "Monitoring irrigation coverage and efficiency",
+                "Shutting off the irrigation system"
+            ]
+        },
+        {
+            "task": "Harvesting crops",
+            "subtasks": [
+                "Attaching the combine harvester to the tractor",
+                "Operating the combine to cut and thresh the crops",
+                "Driving the combine through the field",
+                "Ensuring proper header and reel operation",
+                "Adjusting the combine's settings for optimal harvest",
+                "Cleaning the combine after harvesting"
+            ]
+        },
+        {
+            "task": "Checking crop health",
+            "subtasks": [
+                "Walking through the field to inspect plants visually",
+                "Noticing signs of pests or diseases",
+                "Checking soil moisture and fertility",
+                "Adjusting management practices based on observations"
+            ]
+        },
+        {
+            "task": "Installing and maintaining fences",
+            "subtasks": [
+                "Measuring and marking fence locations",
+                "Digging posts or setting post holes",
+                "Installing and attaching wires or mesh",
+                "Securing fence posts and tightening wires",
+                "Checking fence integrity regularly and repairing issues"
+            ]
+        },
+        {
+            "task": "Operating a baler",
+            "subtasks": [
+                "Attachment the baler to the tractor",
+                "Loading hay or straw into the baler",
+                "Operating the baler's compaction mechanism",
+                "Detaching and unrolling bales",
+                "Collecting and stacking bales"
+            ]
+        },
+        {
+            "task": "Feeding livestock",
+            "subtasks": [
+                "Mixing feed for cattle or sheep",
+                "Loading feed into troughs or hay feeders",
+                "Observing livestock for proper nutrition",
+                "Adjusting feeding schedules as needed"
+            ]
+        },
+        {
+            "task": "Milking dairy cows",
+            "subtasks": [
+                "Positioning the cow for milking",
+                "Attaching milking cups",
+                "Operating the milking machine",
+                "Collecting the milk and recording production",
+                "Disinfecting teats and equipment after milking"
+            ]
+        },
+        {
+            "task": "Administering vaccines and treatments",
+            "subtasks": [
+                "Preparing the vaccinations or treatments",
+                "Identifying the animals to be treated",
+                "Administering the vaccines or treatments properly",
+                "Recording treatments in a logbook"
+            ]
+        },
+        {
+            "task": "Grafting plants",
+            "subtasks": [
+                "Selecting scion and rootstock materials",
+                "Cleaning and preparing the grafting tools",
+                "Making a slice on the rootstock",
+                "Inserting the scion into the rootstock slit",
+                "Binding the graft with twine or tape",
+                "Watering the grafted plants"
+            ]
+        },
+        {
+            "task": "Harvesting fruits or vegetables",
+            "subtasks": [
+                "Picking ripe fruits or vegetables from the plants",
+                "Sorting and grading the produce",
+                "Storing the harvested items properly",
+                "Cleaning tools after harvesting"
+            ]
+        },
+        {
+            "task": "Maintaining farm machinery",
+            "subtasks": [
+                "Inspecting vehicles and equipment for damage",
+                "Performing regular oil changes and fluid checks",
+                "Tightening loose bolts and nuts",
+                "Replacing worn parts or filters",
+                "Cleaning and lubricating moving parts"
+            ]
+        },
+        {
+            "task": "Fixing fences",
+            "subtasks": [
+                "Identifying damaged fence sections",
+                "Removing old fencing material",
+                "Reattaching or replacing broken posts",
+                "Repairing or tightening wires or mesh"
+            ]
+        },
+        {
+            "task": "Applying pesticides",
+            "subtasks": [
+                "Mixing the pesticide solution according to instructions",
+                "Equipping the sprayer with nozzles and filters",
+                "Driving the sprayer through the field, ensuring proper coverage",
+                "Adjusting pressure and flow rates",
+                "Handling safety equipment and protective gear"
+            ]
+        },
+        {
+            "task": "Planting trees or shrubs",
+            "subtasks": [
+                "Digging the planting hole",
+                "Preparing the plant by pruning roots or branches",
+                "Positioning the plant in the hole",
+                "Backfilling the hole with soil and tamping down",
+                "Watering the plant and mulching around the base"
+            ]
+        },
+        {
+            "task": "Maintaining machinery CIP (Cleaning In Place)",
+            "subtasks": [
+                "Accessing the machinery to clean internal parts",
+                "Removing detachable components for thorough cleaning",
+                "Applying cleaning solutions and pressure washers",
+                "Reassembling the machinery after cleaning"
+            ]
+        },
+        {
+            "task": "Creating a farm income report",
+            "subtasks": [
+                "Gathering financial data from various sources",
+                "Entering data into a spreadsheet or accounting software",
+                "Calculating revenues from crops and livestock",
+                "Subtracting costs related to inputs and labor",
+                "Determining break-even points or profit margins",
+                "Preparing graphs or charts to represent data visually"
             ]
         }
     ]

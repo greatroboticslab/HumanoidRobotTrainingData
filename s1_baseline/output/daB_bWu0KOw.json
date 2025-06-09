@@ -5,180 +5,79 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Slining hay bales",
+            "task": "Assemble custom brackets for a plow.",
             "subtasks": [
-                "Driving a tractor",
-                "Attaching a hay bale processor to the tractor",
-                "Navigating the tractor along the rows of hay",
-                "Operating the hay bale processor to process hay bales",
-                "Transporting processed hay bales to the storage"
+                "Gather necessary tools for metalworking.",
+                "Measure and mark metal sheets for cutting.",
+                "Cut metal sheets to size using shears or a plasma cutter.",
+                "File edges of cut metal pieces to ensure smoothness.",
+                "Drill holes for pivot points and fasteners.",
+                "Bend metal pieces into desired shapes using a vise and hand tools.",
+                "Weld or solder pieces together to form the custom brackets.",
+                "Apply finishing touches, such as grinding weld seams and applying paint or powder coating."
             ]
         },
         {
-            "task": "Cutting hay",
+            "task": "Adjust plow depth for cultivating.",
             "subtasks": [
-                "Operating a combine harvester",
-                "Guiding the combine harvester through the hay field",
-                "Loading the hay into the combine harvester",
-                "Dumping the cut hay onto a wagon or trailer"
+                "Loosen soil with a shovel or tiller.",
+                "Place the plow blade into the ground and check if it cuts to the desired depth.",
+                "If necessary, extend or retract the plow blades using controls or hydraulics.",
+                "Verify the depth by feeling the resistance or using measuring tape."
             ]
         },
         {
-            "task": "Loading hay onto a vehicle",
+            "task": "Operate the plow during cultivation.",
             "subtasks": [
-                "Guiding a wagon or trailer to the location of the processed hay",
-                "Securing the hay onto the wagon or trailer",
-                "Attaching the wagon or trailer to a vehicle",
-                "Driving the vehicle with the hay to the storage location"
+                "Guide the plow through the fields while attached to the tractor.",
+                "Monitor the plow's performance and adjust direction or depth as needed.",
+                "Check for burrs or clumps in the soil and adjust the plow's settings accordingly."
             ]
         },
         {
-            "task": "Unloading hay at the storage location",
+            "task": "Manage the two-crop farming system.",
             "subtasks": [
-                "Decoupling the wagon or trailer from the vehicle",
-                "Guiding the wagon or trailer into the storage area",
-                "Unloading the hay from the wagon or trailer into the storage"
+                "Plan which crops to plant based on soil health, climate, and market demand.",
+                "Prepare the ground for planting by plowing,\u64ad\u79cd or other necessary land preparation.",
+                "Plant seeds at appropriate depths and spacing, ensuring even distribution.",
+                "Apply fertilizers and pesticides as needed to support crop growth.",
+                "Monitor crop growth and adjust management practices as required (e.g., watering, weeding, pest control).",
+                "Harvest the crops when ripe, using combines or other machinery."
             ]
         },
         {
-            "task": "Slining hay bales",
+            "task": "Inspect equipment for wear and tear.",
             "subtasks": [
-                "Driving a tractor",
-                "Attaching a hay bale processor to the tractor",
-                "Navigating the tractor along the rows of hay",
-                "Operating the hay bale processor",
-                "Transporting processed hay bales to storage"
+                "Regularly check the plow's blades for nicks or bends.",
+                "Lubricate moving parts and replace worn hinges or brackets.",
+                "Test the plow's hydraulic systems for leaks or malfunctions."
             ]
         },
         {
-            "task": "Cutting hay",
+            "task": "Apply and maintain a film of Stories on the plow blades.",
             "subtasks": [
-                "Operating a combine harvester",
-                "Guiding the combine harvester through the field",
-                "Loading the hay onto a wagon or trailer",
-                "Unloading the hay at the storage location"
+                "Mix the film of Stories with a solvent or carrier substance as per the manufacturer's instructions.",
+                "Apply the solution evenly to the plow blades using a sprayer.",
+                "Allow the film to dry completely before using the plow again."
             ]
         },
         {
-            "task": "Loading hay onto a vehicle",
+            "task": "Fix a faulty control lever on the plow.",
             "subtasks": [
-                "Guiding the vehicle to the location of the processed hay",
-                "Securing the hay on the vehicle",
-                "Attaching the vehicle to the wagon or trailer",
-                "Driving the vehicle with hay to the storage"
+                "Identify the specific problem with the lever (e.g., stuck, broken, or misaligned).",
+                "Disconnect the lever from any connections (hydraulic lines, electrical wires, etc.).",
+                "Disassemble the lever to access any internal components if necessary.",
+                "Replace any broken parts, adjust moving mechanisms, or clean as needed.",
+                "Reassemble the lever and test it for proper operation."
             ]
         },
         {
-            "task": "Loading hay onto a vehicle. The steps would be: guiding the vehicle to the hay, securing the hay, attaching to the vehicle, driving off.",
-            "subtasks": []
-        },
-        {
-            "task": "Slining hay bales",
+            "task": "Secure the plow to the tractor.",
             "subtasks": [
-                "Driving a tractor",
-                "Attaching a hay bale processor to the tractor",
-                "Navigating the tractor along the rows of hay",
-                "Operating the hay bale processor",
-                "Transporting processed hay bales to the storage"
+                "Attach the plow to the tractor's drawbar or implement carrier correctly.",
+                "Tighten all securing bolts or pins to the manufacturer's specifications.",
+                "Check for any unevenness in attachment and adjust as needed."
             ]
-        },
-        {
-            "task": "Cutting hay",
-            "subtasks": [
-                "Operating a combine harvester",
-                "Guiding the combine harvester through the hay field",
-                "Loading the hay into the combine harvester",
-                "Dumping the cut hay onto a wagon or trailer"
-            ]
-        },
-        {
-            "task": "Loading hay onto a vehicle",
-            "subtasks": [
-                "Guiding a wagon or trailer to the location of the processed hay",
-                "Securing the hay onto the wagon or trailer",
-                "Attaching the wagon or trailer to a vehicle",
-                "Driving the vehicle with the hay to the storage location"
-            ]
-        },
-        {
-            "task": "Unloading hay at the storage location",
-            "subtasks": [
-                "Decoupling the wagon or trailer from the vehicle",
-                "Guiding the wagon or trailer into the storage area",
-                "Unloading the hay from the wagon or trailer into the storage"
-            ]
-        },
-        {
-            "task": "Unloading hay at the storage location, with related subtasks. So overall:",
-            "subtasks": []
-        },
-        {
-            "task": "Slining hay bales \u2192 driving tractor, attaching processor, dealing with bales, transport.",
-            "subtasks": []
-        },
-        {
-            "task": "Cutting hay \u2192 operating combine, guiding, loading, and dumping.",
-            "subtasks": []
-        },
-        {
-            "task": "Assuming that \"Operations\" here refer to day-to-day farm tasks, the operator (working with their body) would perform the tractor work, guidance, operating machines, loading hay, and transporting/storage. Hmm. Since these tasks can be detailed, hence four MAINTASKs.",
-            "subtasks": []
-        },
-        {
-            "task": "Slining hay bales",
-            "subtasks": [
-                "Driving a tractor",
-                "Attaching a hay bale processor to the tractor",
-                "Navigating the tractor along the rows of hay",
-                "Operating the hay bale processor",
-                "Transporting processed hay bales to the storage"
-            ]
-        },
-        {
-            "task": "Cutting hay",
-            "subtasks": [
-                "Operating a combine harvester",
-                "Guiding the combine harvester through the hay field",
-                "Loading the hay into the combine harvester",
-                "Dumping the cut hay onto a wagon or trailer"
-            ]
-        },
-        {
-            "task": "Loading hay onto a vehicle",
-            "subtasks": [
-                "Guiding a wagon or trailer to the location of the processed hay",
-                "Securing the hay onto the wagon or trailer",
-                "Attaching the wagon or trailer to a vehicle",
-                "Driving the vehicle with the hay to the storage location"
-            ]
-        },
-        {
-            "task": "Unloading hay at the storage location",
-            "subtasks": [
-                "Decoupling the wagon or trailer from the vehicle",
-                "Guiding the wagon or trailer into the storage area",
-                "Unloading the hay from the wagon or trailer into the storage"
-            ]
-        },
-        {
-            "task": "Cutting hay\" includes the operator's physical roles, from driving combine to unloading. The operator would do all these things in sequence.",
-            "subtasks": []
-        },
-        {
-            "task": "Slining hay bales",
-            "subtasks": []
-        },
-        {
-            "task": "Cutting hay",
-            "subtasks": []
-        },
-        {
-            "task": "Loading hay onto a vehicle",
-            "subtasks": []
-        },
-        {
-            "task": "Unloading hay at the storage location",
-            "subtasks": []
         }
     ]
 }

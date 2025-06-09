@@ -5,21 +5,19 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Observe the loading of a bleaching powder into a faded container or pile.",
+            "task": "Observe a farming activity.",
             "subtasks": [
-                "Examine the containment area for bleaching powder.",
-                "Identify the correct container or pile to load the bleaching powder into.",
-                "Approach the bleaching powder and load it into the specified container or pile.",
-                "Check the level of loading to ensure sufficient quantity for the task."
+                "Look at the scene."
             ]
         },
         {
-            "task": "Observe the loading of a bleaching powder into a faded container or pile.",
+            "task": "\"Given this transcript, please generate a list of physical tasks a person would have to perform with their body in relation to the transcript.\" Then, the actual transcript is \"Look at that.\" So, the transcript is short. So given that, we can only really infer a minimal amount of tasks. Therefore, the main task is to observe, and the subtask is to look. That's it. Unless \"Look at that\" is referring to some specific action in farming. But since the user didn\u2019t specify the context of the video, maybe they expect that main task to observe some agricultural thing. So that's why I wrote MAINTASK: Observe a farming activity, and the subtask to look at it.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Observe a farming activity.",
             "subtasks": [
-                "Examine the containment area for bleaching powder.",
-                "Identify the correct container or pile to load the bleaching powder into.",
-                "Approach the bleaching powder and load it into the specified container or pile.",
-                "Check the level of loading to ensure sufficient quantity for the task."
+                "Look at the scene."
             ]
         }
     ]

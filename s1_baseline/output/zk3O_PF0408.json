@@ -5,140 +5,28 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Release horses into a field using an electric fence.",
+            "task": "Setting up and managing electric fences for horses",
             "subtasks": [
-                "Set up the electric fence.",
-                "Wait for the horses to be ready.",
-                "Open the gate and let the horses out.",
-                "Manage horse behavior during release."
+                "Observing horse behavior and ensuring their safe entry",
+                "Guiding horses through the gate into the fenced area",
+                "Monitoring horse movement and adjusting the grazing section",
+                "Considering the horses' lung health when introducing new grazing areas"
             ]
         },
         {
-            "task": "Conduct bale grazing for horses.",
+            "task": "Performing bale grazing for horses",
             "subtasks": [
-                "Position bales in the field.",
-                "Allow horses to graze the bales throughout the winter.",
-                "Utilize horses to fertilize and seed the area."
+                "Arranging hay bales in designated sections within the field",
+                "Allowing horses to graze the bales gradually as the grass diminishes",
+                "Providing additional seed for diversification of the grazed area"
             ]
         },
         {
-            "task": "Care for arthritic old ram.",
+            "task": "Interacting with farm animals (horses, lambs, and chickens)",
             "subtasks": [
-                "Attend to Alfie's needs.",
-                "Ensure he has a comfortable area."
-            ]
-        },
-        {
-            "task": "ionales with electric fence usage.",
-            "subtasks": [
-                "Understand how the fence works.",
-                "Proper fence maintenance."
-            ]
-        },
-        {
-            "task": "Monitor horse health and behavior.",
-            "subtasks": [
-                "Prevent lung injuries from overexertion.",
-                "Observe horses' comfort in released areas."
-            ]
-        },
-        {
-            "task": "Release horses into a fenced field.",
-            "subtasks": []
-        },
-        {
-            "task": "Conduct bale grazing.",
-            "subtasks": []
-        },
-        {
-            "task": "Care for Alfie.",
-            "subtasks": []
-        },
-        {
-            "task": "But the question specifies to \"separate the tasks by a new line character\", so each main task would be a separate line, and each subtask under a MAINTASK as a separate line.",
-            "subtasks": []
-        },
-        {
-            "task": "Set up and manage electric fencing.",
-            "subtasks": []
-        },
-        {
-            "task": "Release horses into the electric fence field.",
-            "subtasks": []
-        },
-        {
-            "task": "Conduct bale grazing.",
-            "subtasks": []
-        },
-        {
-            "task": "Manage the bale grazing area.",
-            "subtasks": []
-        },
-        {
-            "task": "Care for animals (specifically the arthritic ram \u2013 Alfie).",
-            "subtasks": []
-        },
-        {
-            "task": "Manage horse fencing and release.",
-            "subtasks": []
-        },
-        {
-            "task": "Conclude the answer with all main tasks, each followed by specific subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Manage electric fencing and horse release.",
-            "subtasks": [
-                "Open the primitive (e.g., hinged) gate.",
-                "Lead the horses (Buster's top ram, Finbar, and three ram lambs) out to the field.",
-                "Allow the horses to enter and manage their initial behavior.",
-                "Reassure the arthritic old ram (Alfie) and ensure he has a nice spot to rest."
-            ]
-        },
-        {
-            "task": "Conduct bale grazing.",
-            "subtasks": [
-                "Position the bales (as in the first bale for the horses) in strategic locations within the field for gradual grazing.",
-                "Plan the rotation of bales over the winter to ensure the horses have a fresh grazing area each time.",
-                "Sprinkling seeds over areas to enhance vegetation diversity and support dung beetles for natural fertilization."
-            ]
-        },
-        {
-            "task": "Caring for an arthritic ram.",
-            "subtasks": [
-                "Provide Alfie with a comfortable area, possibly a sheltered spot, to prevent cold and arthritic flare-ups.",
-                "Monitor Alfie\u2019s movements to ensure he is comfortable and to assist him if needed."
-            ]
-        },
-        {
-            "task": "Install and verify electric fencing.",
-            "subtasks": [
-                "Prepare the fence components (posts, wire, etc.)",
-                "Erect the fence posts and secure the electric wire.",
-                "Check the fence\u2019s functionality."
-            ]
-        },
-        {
-            "task": "Release and manage horses.",
-            "subtasks": [
-                "Open the entrance gate and allow horses entry into the field.",
-                "Monitor the horses\u2019 behavior to prevent excessive galloping.",
-                "Address the needs of the arthritic ram (Alfie) in his current area."
-            ]
-        },
-        {
-            "task": "Conduct bale grazing for horses.",
-            "subtasks": [
-                "Position hay bales in the field to be utilized over winter.",
-                "Rotate the bales periodically as the horses graze through the winter.",
-                "Plan seed\u6492\u64ad (if applicable) to enhance soil fertility and support dung beetles."
-            ]
-        },
-        {
-            "task": "Attending to the arthritic ram (Alfie).",
-            "subtasks": [
-                "Ensure Alfie has a sheltered, warm area to rest in.",
-                "Adjust his environment as needed for his arthritic condition."
+                "Checking on the well-being of individual animals (e.g., arthritic Alfie)",
+                "Directing animals to specific areas (e.g., letting lambs out, calling chickens)",
+                "Observing animal behavior and adjusting management strategies accordingly"
             ]
         }
     ]

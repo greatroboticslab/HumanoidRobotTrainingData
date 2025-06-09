@@ -5,11 +5,76 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "before every task. After writing MAINTASK: give a list of subtasks, one per line.\" But if all tasks are irrelevant, maybe write an introductory note. Like:",
+            "task": "Start the combine harvester} \\\\",
+            "subtasks": [
+                "Press the start button on the combine harvester} \\\\",
+                "Check the fuel level} \\\\",
+                "Refill the fuel tank if necessary} \\\\"
+            ]
+        },
+        {
+            "task": "Operate the combine harvester} \\\\",
+            "subtasks": [
+                "Guide the combine harvester through the fields} \\\\",
+                "Adjust the speed and direction} \\\\",
+                "Monitor the harvested crops} \\\\",
+                "Using the residue management attachment} \\\\",
+                "Perform residue cutting and throwing} \\\\"
+            ]
+        },
+        {
+            "task": "Check the glean of the combine harvester} \\\\",
+            "subtasks": [
+                "Observe the grain elevator} \\\\",
+                "Check for any clogs or blockages} \\\\",
+                "Clear blockages if necessary} \\\\"
+            ]
+        },
+        {
+            "task": "Secure the combine harvester} \\\\",
+            "subtasks": [
+                "Turn off the engine} \\\\",
+                "Park the combine harvester on the storage area} \\\\",
+                "Approach the combine harvester} \\\\",
+                "Open the door or access panel} \\\\"
+            ]
+        },
+        {
+            "task": "Clean the combine harvester} \\\\",
+            "subtasks": [
+                "Remove dust and debris} \\\\",
+                "Wipe down the exterior surfaces} \\\\"
+            ]
+        },
+        {
+            "task": "Refill hydraulic fluid} \\\\",
+            "subtasks": [
+                "Check the hydraulic fluid level} \\\\",
+                "Refill the hydraulic reservoir if needed} \\\\"
+            ]
+        },
+        {
+            "task": "Start the combine harvester** requires pressing the start button, ensuring fuel is sufficient, and refilling if needed.",
             "subtasks": []
         },
         {
-            "task": "Describe a movie scene involving an old combine.",
+            "task": "Operate the combine harvester** involves guiding the machine through the fields, adjusting speed/direction, and monitoring crops.",
+            "subtasks": []
+        },
+        {
+            "task": "Check the glean** involves observing the grain elevator for blockages and clearing them if present.",
+            "subtasks": []
+        },
+        {
+            "task": "Secure the combine harvester** includes turning off the engine and parking it.",
+            "subtasks": []
+        },
+        {
+            "task": "Clean the combine harvester** involves removing dust/debris and wiping exterior surfaces.",
+            "subtasks": []
+        },
+        {
+            "task": "Refill hydraulic fluid** checks the fluid level and refills when necessary.",
             "subtasks": []
         }
     ]

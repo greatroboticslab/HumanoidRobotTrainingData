@@ -5,21 +5,78 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Generate a list of tasks related to tractor attachments based on survey results.",
+            "task": "Analyze tractor survey results and generate related physical farming tasks.",
             "subtasks": [
-                "Identify top 10 tractor attachments as per survey.",
-                "List tasks related to tiller usage for ground preparation.",
-                "Explain benefits of hydraulic top links for quick attachment changes.",
-                "Discuss importance of ballast for front-end loader stability.",
-                "Describe backhoe attachment use in various applications.",
-                "Mention stump buckets and standard buckets for material handling.",
-                "Highlight quick hitch as an attachment-saving accessory.",
-                "Emphasize front-end loader as a versatile attachment.",
-                "Detail the importance of cutter mowers for maintaining fields.",
-                "Explain the use of grapples for material pickup and handling.",
-                "Describe box blades and land planes for surface leveling.",
-                "Highlight pallet forks as the most versatile and frequently used attachment."
+                "Understand the purpose of the tractor survey and its results.",
+                "Identify the top 10 tractor attachments mentioned in the survey.",
+                "Describe the physical task of using a tiller and the benefits.",
+                "Explain the use and importance of a hydraulic top link attachment.",
+                "Discuss the role of ballast in tractor attachments and its benefits.",
+                "Describe the functionality of a backhoe and its application in farming.",
+                "Explain the versatility of a standard tractor bucket and stump bucket.",
+                "Describe the advantages of a quick hitch system in tractor attachments.",
+                "Highlight the importance of front-end loaders in tractor attachments.",
+                "Explain the necessity and use of different mowers (brush hog, shredder, flail) in maintaining field conditions.",
+                "Describe the operation and benefits of grapples and other material handling attachments.",
+                "Explain the use and importance of box blades and land planes in smoothing surfaces.",
+                "Highlight the ubiquitous and versatile use of pallet forks on tractors."
             ]
+        },
+        {
+            "task": "Going through the top 10 tractor attachments as per a survey, understanding their physical uses in farming.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Understanding how various tractor attachments enable different physical tasks in farming.",
+            "subtasks": [
+                "Describing the soil preparation capability provided by tillers.",
+                "Explaining the importance of hydraulic top links in adjusting attachment angles.",
+                "Detailing the role of ballast boxes in stabilizing front end loaders.",
+                "Demonstrating the excavation and earthmoving tasks facilitated by backhoes.",
+                "Outlining the versatile material handling tasks of buckets (regular and stump buckets).",
+                "Highlighting the ease of attachment swaps with quick hitch systems.",
+                "Acknowledging the broad utility of front-end loaders across different farm operations.",
+                "Describing the mowing and vegetation management tasks using various mower attachments.",
+                "Illustrating the utility of grapples for handling large debris.",
+                "Explaining the surface leveling and maintenance tasks with box blades and land planes.",
+                "Demonstrating the lifting and moving of heavy loads with pallet forks."
+            ]
+        },
+        {
+            "task": "Going through the top 10 tractor attachments one by one and understanding their functions and tasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Therefore, the above MAINTASK (with 10 subtasks) is a possible way. The main task could be \"Identifying the key tractor attachments and their physical tasks from the survey results,\" with each subtask being one attachment and its corresponding uses.",
+            "subtasks": []
+        },
+        {
+            "task": "\"Reviewing the capabilities of top tractor attachments and their application in different seasonal tasks\". But given the time DM (around peppers and stuff), but the video is current as per when it's posted. Therefore, perhaps the \"snow equipment\" wasn't prevalent in the survey.",
+            "subtasks": []
+        },
+        {
+            "task": "Analyze tractor survey results and generate related physical farming tasks.",
+            "subtasks": [
+                "Understand the purpose of the tractor survey and its results.",
+                "Identify the top 10 tractor attachments mentioned in the survey.",
+                "Describe the physical task of using a tiller and the benefits.",
+                "Explain the use and importance of a hydraulic top link attachment.",
+                "Discuss the role of ballast in tractor attachments and its benefits.",
+                "Describe the functionality of a backhoe and its application in farming.",
+                "Explain the versatility of a standard tractor bucket and stump bucket.",
+                "Describe the advantages of a quick hitch system in tractor attachments.",
+                "Highlight the importance of front-end loaders in tractor attachments.",
+                "Explain the necessity and use of different mowers (brush hog, shredder, flail) in maintaining field conditions.",
+                "Describe the operation and benefits of grapples and other material handling attachments.",
+                "Explain the use and importance of box blades and land planes in smoothing surfaces.",
+                "Highlight the ubiquitous and versatile use of pallet forks on tractors."
+            ]
+        },
+        {
+            "task": "** Analyze tractor survey results and generate related physical farming tasks.",
+            "subtasks": []
         }
     ]
 }

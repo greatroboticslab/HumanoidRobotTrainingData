@@ -5,47 +5,49 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Receiving gratitude and thanks.",
+            "task": "Thanking",
             "subtasks": [
-                "Lifting arms to gesture appreciation."
+                "Raise arms",
+                "Extend arms forward",
+                "Bow slightly",
+                "Repeat multiple times"
             ]
         },
         {
-            "task": "Expressing thankfulness.",
-            "subtasks": []
-        },
-        {
-            "task": "Receiving gratitude.",
+            "task": "Entering a truck",
             "subtasks": [
-                "Lifting arms to show appreciation."
+                "Open truck door",
+                "Step into truck bed",
+                "Sit down in cab"
             ]
         },
         {
-            "task": "But perhaps more specific actions aren't indicated, so I only included a general MAINTASK.",
-            "subtasks": []
-        },
-        {
-            "task": "Showing appreciation through clapping.",
+            "task": "Driving a truck",
             "subtasks": [
-                ""
+                "Steer left to exit road"
             ]
         },
         {
-            "task": "Exchanging gratitude.",
+            "task": "Approaching a field",
             "subtasks": [
-                "",
-                "Receiving gratitude. SUBTASK: Lifting arms to gesture appreciation.",
-                ""
+                "Start engine"
             ]
         },
         {
-            "task": "Receiving gratitude.",
-            "subtasks": []
+            "task": "Entering a field",
+            "subtasks": [
+                "Drive forward into field"
+            ]
         },
         {
-            "task": "Receiving gratitude.",
+            "task": "Parking a truck",
             "subtasks": [
-                "Lifting arms to gesture appreciation."
+                "Look for a flat area",
+                "Apply brakes",
+                "Shift into park",
+                "Turn off engine",
+                "Open truck door",
+                "Exit truck"
             ]
         }
     ]

@@ -7,84 +7,13 @@
         {
             "task": "Pickup",
             "subtasks": [
-                "Identify the direction of the stack mentioned in the pickup",
-                "Move towards the stack in the identified direction",
-                "Approach the stack and determine the method of pickup (e.g., using hands, a tool)",
-                "Execute the pickup action, ensuring the object is securely held"
-            ]
-        },
-        {
-            "task": "Examine",
-            "subtasks": [
-                "Turn to face the direction where the items are gathered",
-                "Observe the group of items, noting their type and arrangement",
-                "Assess whether the items are suitable for pickup or if further action is needed"
-            ]
-        },
-        {
-            "task": "Gather",
-            "subtasks": [
-                "Confirm the intention to collect the grouped items",
-                "Move to the first item in the group and prepare to retrieve it",
-                "Collect the first item, then proceed to the next, potentially repeating the pickup and examination steps"
-            ]
-        },
-        {
-            "task": "Assess",
-            "subtasks": [
-                "Evaluate the quality or condition of the gathered items",
-                "Check for any damage, spoilage, or other issues that may affect their use or selling price",
-                "Decide on the next course of action based on the assessment (e.g., store, transport, discard)"
-            ]
-        },
-        {
-            "task": "Tidy up",
-            "subtasks": [
-                "After gathering, check the original location for any remaining debris or unattended items",
-                "If necessary, collect these items and place them in a logical\u5806\u653e\u4f4d\u7f6e",
-                "Adjust any tools or equipment used during the gathering to ensure they are properly stored or returned",
-                "The final answer is presented in the required format with MAINTASK: preceding each main task, followed by SUBTASK: for each subtask. The sequence of tasks is logical based on the transcript provided, assuming it relates to agricultural activities such as gathering produce or equipment. Each subtask is specific and necessary for completing the main task. The transcript was found relevant with the process of pickup, examination, gathering, assessment, and tidying up as core activities, labeled with appropriate !TRAID labels. The response omits discussion and follows the given instructions exactly. Answer: The final answer {MAINTASKs and SUBTASKs as listed} is structured to capture all relevant physical tasks inferred from the transcript. Given the explicit mention of \"pickup\" and actions related to examining, gathering, and tidying up, these tasks are essential for the described scenario. }"
-            ]
-        },
-        {
-            "task": "Pickup",
-            "subtasks": [
-                "Identify the direction of the stack mentioned in the pickup",
-                "Move towards the stack in the identified direction",
-                "Approach the stack and determine the method of pickup (e.g., using hands, a tool)",
-                "Execute the pickup action, ensuring the object is securely held"
-            ]
-        },
-        {
-            "task": "Examine",
-            "subtasks": [
-                "Turn to face the direction where the items are gathered",
-                "Observe the group of items, noting their type and arrangement",
-                "Assess whether the items are suitable for pickup or if further action is needed"
-            ]
-        },
-        {
-            "task": "Gather",
-            "subtasks": [
-                "Confirm the intention to collect the grouped items",
-                "Move to the first item in the group and prepare to retrieve it",
-                "Collect the first item, then proceed to the next, potentially repeating the pickup and examination steps"
-            ]
-        },
-        {
-            "task": "Assess",
-            "subtasks": [
-                "Evaluate the quality or condition of the gathered items",
-                "Check for any damage, spoilage, or other issues that may affect their use or selling price",
-                "Decide on the next course of action based on the assessment (e.g., store, transport, discard)"
-            ]
-        },
-        {
-            "task": "Tidy up",
-            "subtasks": [
-                "After gathering, check the original location for any remaining debris or unattended items",
-                "If necessary, collect these items and place them in a logical\u5806\u653e\u4f4d\u7f6e",
-                "Adjust any tools or equipment used during the gathering to ensure they are properly stored or returned"
+                "Approach the items to be picked up",
+                "Lower down to reach the items",
+                "Grasp the items using hands",
+                "Lift the items using leg and core muscles",
+                "Align the body to maintain balance during carry",
+                "Adjust grip if necessary during transport",
+                "Transfer items to a different location or position"
             ]
         }
     ]

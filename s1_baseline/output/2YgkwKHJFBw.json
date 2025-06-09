@@ -5,20 +5,28 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Conducting a soil pH test using a home kit.",
+            "task": "Soil testing using home kits or sending samples to a lab.",
             "subtasks": [
-                "Obtain a soil sample from the garden.",
-                "Mix soil, water, and reagent in a provided test tube.",
-                "Compare resulting color to a provided color chart.",
-                "Interpret test results for soil pH."
+                "Collecting a soil sample.",
+                "Sending soil sample to a lab for analysis (if choosing that option).",
+                "Using a home soil testing kit.",
+                "Mixing soil, water, and reagents in a tube.",
+                "Comparing the resulting color to a provided card or chart.",
+                "Determining soil pH, phosphorus, nitrogen, and potassium levels from the test results."
             ]
         },
         {
-            "task": "Purchasing a soil testing kit.",
+            "task": "Purchasing a home soil testing kit.",
             "subtasks": [
-                "Visit a garden store to find available kits.",
-                "Order kits online from recommended retailers.",
-                "Understand that home kits are less precise than laboratory tests but adequate for gardening needs."
+                "Locating garden stores or ordering online.",
+                "Buying a kit under $30."
+            ]
+        },
+        {
+            "task": "Applying test results to garden needs.",
+            "subtasks": [
+                "Adjusting pH based on test results.",
+                "Adding necessary fertilizers as per the test recommendations."
             ]
         }
     ]

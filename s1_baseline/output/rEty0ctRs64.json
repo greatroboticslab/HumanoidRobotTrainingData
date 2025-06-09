@@ -5,24 +5,21 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "The speaker discusses the formation and operations of Nutri, a company focused on evaluating and promoting technologies for dairy farms to address environmental issues and regulatory pressures. Key points include:",
+            "task": "Generating tasks related to the physical tasks involved in farming, agriculture, and operating farming equipment based on the given transcript.",
             "subtasks": [
-                "Understanding the challenges and goals of the dairy industry in managing environmental impacts.",
-                "Describing the formation of Nutri by dairy cooperatives to find economically viable solutions for managing waste and promoting sustainability.",
-                "Explaining the evaluation process of technologies through a business information request (BIR) and technology information request (TI).",
-                "Highlighting the nine-point scoring system used to assess commercial viability, market penetration, and economic transparency of technologies.",
-                "Demonstrating the creation of a digital catalog (nutrient.com) that features recognized and emerging technologies, including case studies and vendor ratings.",
-                "Addressing the criteria for inclusion in the Nutri catalog, focusing on U.S. dairy installations and the importance of operational history and reliability."
+                "Identify relevant agricultural or farming-related activities mentioned in the transcript.",
+                "Break down the identified activities into general tasks.",
+                "For each general task, decompose it into smaller subtasks (specific actions).",
+                "Verify the relevance of tasks to physical farming, agriculture, or operating farming equipment.",
+                "Formulate the final list of tasks ensuring they are concise and deal with physical actions.",
+                "Review the tasks to prevent any redundant or overlapping entries.",
+                "Ensure all tasks are clearly connected to the provided transcript.",
+                "Categorize the tasks under the appropriate heading (e.g., soil preparation, animal husbandry, machinery operation, etc.)."
             ]
         },
         {
-            "task": "Comprehending Nutri\u2019s role in evaluating and supporting dairy farm technologies.",
-            "subtasks": [
-                "Recognizing the dairy industry's challenges (regulatory pressure, environmental issues) and Nutri\u2019s mission to address them.",
-                "Understanding the Nutri evaluation process using a nine-point scoring system (commercial viability, market penetration, economic transparency).",
-                "Identifying the components of Nutri\u2019s online platform (catalog, website) and how it assists dairy farmers in decision-making.",
-                "Noting the criteria for technology inclusion (operational history, U.S.-based, verified by dairy farms)."
-            ]
+            "task": "Understand and support dairy farms in adopting environmental technologies for sustainability.",
+            "subtasks": []
         }
     ]
 }

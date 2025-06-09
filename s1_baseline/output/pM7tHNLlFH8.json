@@ -5,26 +5,196 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Weather forecasting for livestock management during winter in Wyoming",
+            "task": "Weather forecasting and adjustments for livestock survival.",
             "subtasks": [
-                "Check National Weather Service website for cold weather advisories",
-                "Monitor weather reports to anticipate cold snaps and wind chill",
-                "Adjust feeding strategy based on temperature and wind chill",
-                "Ensure livestock are sheltered from strong winds using row-crop windbreaks or other structures"
+                "Check National Weather Service cold weather advisory website.",
+                "Increase feed for livestock based on colder weather and wind chill.",
+                "Move livestock to sheltered areas.",
+                "Provide additional energy (hay, supplements) to animals."
             ]
         },
         {
-            "task": "Nutrition management for winter livestock",
+            "task": "Wind protection for livestock.",
             "subtasks": [
-                "Increase hay and supplement feeding during colder weather",
-                "Assess livestock's nutritional needs based on temperature and wind chill"
+                "Identify pastures with windbreak mechanisms.",
+                "Purposefully position livestock near windbreaks (e.g., tree rows).",
+                "Allow animals to self-seek wind shelter (behind tree rows)."
             ]
         },
         {
-            "task": "General winter preparedness for livestock producers",
+            "task": "General preparation for Wyoming winter conditions.",
             "subtasks": [
-                "Prepare contingency plans for extreme weather conditions",
-                "Review recommendations from University of Wyoming Extension for winter livestock management"
+                "Understand regional weather patterns (cold, freezing rain, snow, mud, wind chill).",
+                "Awareness of increased livestock nutritional needs in the winter.",
+                "Knowledge of critical temperature thresholds for dry animals (20-32\u00b0F, no increase in energy).",
+                "\"."
+            ]
+        },
+        {
+            "task": "Weather forecasting and adjustments for livestock survival.",
+            "subtasks": []
+        },
+        {
+            "task": "Weather forecasting & adjustments, and Wind protection using existing mechanisms.",
+            "subtasks": []
+        },
+        {
+            "task": "Then, general winter considerations could be a subtask under either, or a third task, but perhaps as a common sense background. However, the question states to generate tasks based on the transcript, so I need to focus on what's mentioned. If the transcript states that weather forecasting \"plays an important role in winter livestock production,\" that's a key task. Similarly, \" protection from the wind\" is one of the three significant tactics, hence a MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "For the first MAINTASK (Weather forecasting), checking the NWS website is explicitly mentioned. Increasing feed is also a direct action. For wind protection, identifying natural windbreaks (like tree rows) is a subtask since the transcript says \"Over every pasture you see will have some mechanism...\" So knowing where these are is vital. Allowing animals to get behind the trees is another aspect.",
+            "subtasks": []
+        },
+        {
+            "task": "Weather forecasting and adjustments for livestock survival.",
+            "subtasks": []
+        },
+        {
+            "task": "Wind protection for livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "Weather forecasting and adjustments for livestock survival.",
+            "subtasks": []
+        },
+        {
+            "task": "Wind protection for livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "Feeding strategy for winter livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "General winter livestock management.",
+            "subtasks": []
+        },
+        {
+            "task": "Recognize the context of Wyoming's harsh winters. When adjusting feed: take into account that, in addition to cold, wind chill may require more energy. When protecting from wind: be aware that the conditions can be particularly harsh. But since the transcript doesn't mention this, you don't need to create a separate task, as it's implied. So the three MAINTASKs as presented capture the key points.",
+            "subtasks": []
+        },
+        {
+            "task": "Weather forecasting and adjustments for livestock survival.",
+            "subtasks": [
+                "Check National Weather Service website for cold weather advisories.",
+                "Increase feed for livestock when temperatures are below 20-32\u00b0F to compensate for increased energy needs.",
+                "Move livestock to sheltered areas when severe weather is expected."
+            ]
+        },
+        {
+            "task": "Wind protection for livestock.",
+            "subtasks": [
+                "Identify pastures with natural windbreaks (e.g., tree rows).",
+                "Position livestock near windbreaks or sheltered areas.",
+                "Allow animals to seek shelter on their own by placing them in areas with available wind protection."
+            ]
+        },
+        {
+            "task": "Feeding strategy for winter livestock.",
+            "subtasks": [
+                "Adjust daily feed rations based on current temperature and wind chill.",
+                "Provide additional energy sources (hay, supplements) to meet increased nutritional needs."
+            ]
+        },
+        {
+            "task": "But given that the transcript begins by stating \"Over the course of the winter in Wyoming...\" and mentions that producers \"use many tactics,\" the narrator then lists those three. So the three MAINTASKs are accurate and directly related to the transcript's content.",
+            "subtasks": []
+        },
+        {
+            "task": "So I think the final answer just lists those three MAINTASKs with their respective subtasks. No need for anything else. Therefore, the transcript is relevant to these physical farming tasks, hence the \">>>ACCEPT\" directive with the description at the beginning.",
+            "subtasks": []
+        },
+        {
+            "task": "Weather forecasting and adjustments for livestock survival.",
+            "subtasks": [
+                "Check National Weather Service website for cold weather advisories.",
+                "Increase feed for livestock when temperatures drop below 20-32\u00b0F to meet higher energy requirements.",
+                "Move livestock to protected areas or windbreaks when severe weather is expected."
+            ]
+        },
+        {
+            "task": "Wind protection for livestock.",
+            "subtasks": [
+                "Identify pastures with natural windbreaks (e.g., tree rows).",
+                "Position livestock near windbreaks for shelter.",
+                "Allow animals to seek shelter on their own by placing them near available wind protection."
+            ]
+        },
+        {
+            "task": "Feeding strategy for winter livestock.",
+            "subtasks": [
+                "Adjust feed rations based on temperature and wind chill.",
+                "Provide supplementary energy sources (hay, supplements) when needed."
+            ]
+        },
+        {
+            "task": "Weather forecasting and adjustments for livestock survival.} \\\\",
+            "subtasks": [
+                "Check National Weather Service website for cold weather advisories.} \\\\",
+                "Increase feed for livestock when temperatures drop below 20-32\u00b0F to meet higher energy requirements.} \\\\",
+                "Move livestock to protected areas or windbreaks when severe weather is expected.} \\\\"
+            ]
+        },
+        {
+            "task": "Wind protection for livestock.} \\\\",
+            "subtasks": [
+                "Identify pastures with natural windbreaks (e.g., tree rows).} \\\\",
+                "Position livestock near windbreaks for shelter.} \\\\",
+                "Allow animals to seek shelter on their own by placing them near available wind protection.} \\\\"
+            ]
+        },
+        {
+            "task": "Feeding strategy for winter livestock.} \\\\",
+            "subtasks": [
+                "Adjust feed rations based on temperature and wind chill.} \\\\",
+                "Provide supplementary energy sources (hay, supplements) when needed.}"
+            ]
+        },
+        {
+            "task": "MAINTASK: Weather forecasting and adjustments for livestock survival.",
+            "subtasks": [
+                "Check National Weather Service website for cold weather advisories.",
+                "Increase feed for livestock when temperatures drop below 20-32\u00b0F to meet higher energy requirements.",
+                "Move livestock to protected areas or windbreaks when severe weather is expected."
+            ]
+        },
+        {
+            "task": "Wind protection for livestock.",
+            "subtasks": [
+                "Identify pastures with natural windbreaks (e.g., tree rows).",
+                "Position livestock near windbreaks for shelter.",
+                "Allow animals to seek shelter on their own by placing them near available wind protection."
+            ]
+        },
+        {
+            "task": "Feeding strategy for winter livestock.",
+            "subtasks": [
+                "Adjust feed rations based on temperature and wind chill.",
+                "Provide supplementary energy sources (hay, supplements) when needed."
+            ]
+        },
+        {
+            "task": "Weather forecasting and adjustments for livestock survival.} \\\\",
+            "subtasks": [
+                "Check National Weather Service website for cold weather advisories.} \\\\",
+                "Increase feed for livestock when temperatures drop below 20-32\u00b0F to meet higher energy requirements.} \\\\",
+                "Move livestock to protected areas or windbreaks when severe weather is expected.} \\\\"
+            ]
+        },
+        {
+            "task": "Wind protection for livestock.} \\\\",
+            "subtasks": [
+                "Identify pastures with natural windbreaks (e.g., tree rows).} \\\\",
+                "Position livestock near windbreaks for shelter.} \\\\",
+                "Allow animals to seek shelter on their own by placing them near available wind protection.} \\\\"
+            ]
+        },
+        {
+            "task": "Feeding strategy for winter livestock.} \\\\",
+            "subtasks": [
+                "Adjust feed rations based on temperature and wind chill.} \\\\",
+                "Provide supplementary energy sources (hay, supplements) when needed.}"
             ]
         }
     ]

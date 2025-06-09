@@ -5,14 +5,58 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Explore biotechnology and agriculture",
+            "task": "Educate about biotechnology in agriculture.",
             "subtasks": [
-                "Understand the definition and purpose of biotechnology in agriculture",
-                "Identify key biotechnological techniques used in agriculture (genetic engineering, tissue culture, molecular markers, synthetic biology)",
-                "Discuss key technological trends in agricultural biotechnology (CRISPR, gene editing, biopesticides, bio-fertilizers, genomics, big data, synthetic biology, RNA interference)",
-                "Explain the challenges in biotechnology and agriculture (regulatory hurdles, public perception, accessibility, environmental concerns)",
-                "Highlight the opportunities provided by agricultural biotechnology (sustainable agriculture, food security, climate change mitigation, personalized agriculture)",
-                "Discuss the future of agricultural biotechnology and its potential impact on the global food system"
+                "Explain what biotechnology is in agriculture.",
+                "Discuss the importance of biotechnology in agriculture.",
+                "Describe key biotechnological techniques used in agriculture."
+            ]
+        },
+        {
+            "task": "Highlight technological trends in agricultural biotechnology.",
+            "subtasks": [
+                "Explain gene editing with CRISPR-Cas9.",
+                "Discuss applications of CRISPR in agriculture (pest resistance, drought tolerance, etc.).",
+                "Mention biofortification examples (e.g., golden rice).",
+                "Talk about genetically modified organisms (GMOs) in agriculture (biopesticides, bio-fertilizers).",
+                "Explain the trend of combining biotechnology with IoT for precision agriculture."
+            ]
+        },
+        {
+            "task": "Present genomics and big data applications in agriculture.",
+            "subtasks": [
+                "Describe advances in DNA sequencing for crop improvement.",
+                "Discuss how AI and machine learning in genomic data analysis benefit agriculture."
+            ]
+        },
+        {
+            "task": "Explore synthetic biology and its applications in agriculture.",
+            "subtasks": [
+                "Explain synthetic biology's role in creating nitrogen-fixing crops.",
+                "Mention algae-based biofuel and feed as examples."
+            ]
+        },
+        {
+            "task": "Introduce RNA interference technology in agriculture.",
+            "subtasks": [
+                "Explain the concept of RNA interference.",
+                "Give examples of RNA-based pest control."
+            ]
+        },
+        {
+            "task": "Address challenges and opportunities in agricultural biotechnology.",
+            "subtasks": [
+                "Mention regulatory hurdles and public perception issues.",
+                "Discuss environmental concerns related to biotechnology.",
+                "Highlight sustainable agriculture benefits from biotechnology.",
+                "Mention opportunities in food security and climate change mitigation."
+            ]
+        },
+        {
+            "task": "Future outlook on agricultural biotechnology.",
+            "subtasks": [
+                "Discuss emerging innovations like gene drives.",
+                "Conclude on the potential of biotechnology for a secure, sustainable, and equitable future."
             ]
         }
     ]

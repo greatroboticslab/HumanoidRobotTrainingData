@@ -5,15 +5,29 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Harvest corn kernels",
+            "task": "Extract corn kernels from the cob using a spoon.",
             "subtasks": [
-                "Gather tools (spoon)",
-                "Identify first row of corn kernels",
-                "Mash first row slightly with spoon",
-                "Remove first row of kernels",
-                "Repeat for second row",
-                "Store harvested kernels in freezer for up to 50 days",
-                "Enjoy raw, sweet kernels"
+                "Obtain a spoon.",
+                "Insert spoon into the first row of kernels.",
+                "Gently remove the first row of kernels, accepting that it may be slightly damaged.",
+                "Continue removing subsequent rows, noting the process becomes easier after the initial row.",
+                "Store the extracted corn in the freezer for up to 50 days.",
+                "Enjoy the raw, sweet corn."
+            ]
+        },
+        {
+            "task": "Store extracted corn kernels in the freezer.",
+            "subtasks": [
+                "Transfer the extracted corn kernels into a suitable freezer container or bag.",
+                "Label the container with the contents and date.",
+                "Place the container in the freezer for preservation."
+            ]
+        },
+        {
+            "task": "Enjoy the sweet corn.",
+            "subtasks": [
+                "Prepare the sweet corn for immediate consumption.",
+                "Share the experience of finding the process easy and enjoyable."
             ]
         }
     ]

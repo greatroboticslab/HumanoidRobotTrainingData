@@ -5,37 +5,203 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Insert 3rd grain into the silo using a forklift",
+            "task": "Roll a bale into the truck",
             "subtasks": [
-                "Approach the silo with the forklift",
-                "Identify the correct position to insert the grain into the silo",
-                "Position the forklift carefully to avoid damaging the silo",
-                "Ensure the grain is loaded evenly onto the forks",
-                "Lower the grain into the silo slowly and steadily",
-                "Verify the grain is placed securely in the silo"
+                "Approach the bale",
+                "Lift the bale onto the wheelbarrow",
+                "Push the wheelbarrow to the truck",
+                "Align the bale with the truck bed",
+                "Lower the bale into the truck bed"
             ]
         },
         {
-            "task": "Operate the combine harvester to harvest corn",
+            "task": "Back up the truck",
             "subtasks": [
-                "Drive the combine harvester into the cornfield",
-                "Set the combine's harvesting parameters according to corn type",
-                "Start the harvest process, adjusting the harvester's speed as needed",
-                "Monitor the grain quality and cleanliness during harvesting",
-                "Adjust combine settings for optimal performance if needed",
-                "Guide the harvested corn into the combine hopper",
-                "Operate the threshing and cleaning mechanism",
-                "Manage the grain flow to the combine's storage bin"
+                "Position the truck behind the stack",
+                "Engage the reverse gears",
+                "Observe the rear view",
+                "Start moving in reverse"
             ]
         },
         {
-            "task": "Seed wheat using a\u64ad\u79cd\u673a",
+            "task": "Attach the topper to the baler",
             "subtasks": [
-                "Adjust the\u64ad\u79cd\u673a's depth and spacing according to seed requirements",
-                "Engage the\u64ad\u79cd\u673a's motor and start moving along the field",
-                "Monitor the planting rows to ensure even seed distribution",
-                "Check the moisture level and adjust as necessary",
-                "Verify proper seed depth and orientation for optimal germination"
+                "Secure the topper to the baler's tailgate",
+                "Position the topper over the output chute",
+                "Ensure proper fit before unhooking"
+            ]
+        },
+        {
+            "task": "Repeat the process of rolling, backing up, attaching",
+            "subtasks": [
+                "Validate the stacking order",
+                "Repeat for subsequent bales",
+                "Monitor balance of the stack"
+            ]
+        },
+        {
+            "task": "Direct the baler operator",
+            "subtasks": [
+                "Signal the operator to stop",
+                "Identify the bale at the tailgate",
+                "Coordinate the timing of bale roll-off and stacking"
+            ]
+        },
+        {
+            "task": "Maintain the stack of bales",
+            "subtasks": [
+                "Check for stability of each bale added",
+                "Prevent toppling by organizing rows properly",
+                "Mistake corrections if a bale rolls off"
+            ]
+        },
+        {
+            "task": "Unload bales from the truck",
+            "subtasks": [
+                "Approach the truck bed",
+                "Edge the wheelbarrow near the truck opening",
+                "Lift the bale from the truck bed",
+                "Transfer the bale into the wheelbarrow",
+                "Roll the wheelbarrow to the desired location",
+                "Download the bale from the wheelbarrow",
+                "Place the bale in the correct spot"
+            ]
+        },
+        {
+            "task": "Secure the baler attach to the truck",
+            "subtasks": [
+                "Align the baler attachment hooks with the truck's trailer hitch",
+                "Hook the baler to the truck",
+                "Tighten any securing straps"
+            ]
+        },
+        {
+            "task": "Prepare for the next baler operation",
+            "subtasks": [
+                "Ensure the bales are stacked safely",
+                "Check that all attachments are correctly positioned",
+                "Plan the direction and route for the next set of bales",
+                "\" in the example, so perhaps each main task should start with MAINTASK:, followed by subtasks indented or listed below. Given the instruction to separate tasks with a new line, I can list each main task followed by its subtasks on subsequent lines, starting with SUBTASK: for each. However, the user may have wanted a hierarchical structure, but since the initial question says \"generate a list of physical tasks a person would have to perform\" separated by line breaks, I'll just list the MAIN tasks and then each corresponding SUBTASK on a new line."
+            ]
+        },
+        {
+            "task": "and then the subtasks under it. Since the answer also asked to include \"in the order as per the transcript,\" but I don't have the original transcript here. However, the thought process I followed above aligns with summarizing tasks from the given information.",
+            "subtasks": [
+                "Lastly, the user requested this for a specific video transcript. If I check the initial question, it says \"Given this transcript, please generate a list... separated by a new line.\" So I should ensure the list is comprehensive, including all relevant tasks. The final output will have one MAINTASK per main action and multiple SUBTASKs under each, each instruction separated by a line.",
+                "**MAINTASKs and SUBTASKs**",
+                "Approach the bale",
+                "Lift the bale onto the wheelbarrow",
+                "Push the wheelbarrow to the truck",
+                "Align the bale with the truck bed",
+                "Lower the bale into the truck bed",
+                "Position the truck behind the stack",
+                "Engage the reverse gears",
+                "Observe the rear view",
+                "Start moving in reverse",
+                "Secure the topper to the baler\u2019s tailgate",
+                "Position the topper over the output chute",
+                "Ensure proper fit before unhooking",
+                "Validate the stacking order",
+                "Repeat for subsequent bales",
+                "Monitor balance of the stack",
+                "Signal the operator to stop",
+                "Identify the bale at the tailgate",
+                "Coordinate the timing of bale roll-off and stacking",
+                "Check for stability of each bale added",
+                "Prevent toppling by organizing rows properly",
+                "Mistake corrections if a bale rolls off (rolling it back or realigning)",
+                "Approach the truck bed",
+                "Edge the wheelbarrow near the truck opening",
+                "Lift the bale from the truck bed",
+                "Transfer the bale into the wheelbarrow",
+                "Roll the wheelbarrow to the desired location",
+                "Download the bale from the wheelbarrow",
+                "Place the bale in the correct spot",
+                "Align the baler attachment hooks with the truck's trailer hitch",
+                "Hook the baler to the truck",
+                "Tighten any securing straps",
+                "Ensure the bales are stacked safely",
+                "Check that all attachments are correctly positioned",
+                "Plan the direction and route for the next set of bales."
+            ]
+        },
+        {
+            "task": "Roll a bale into the truck",
+            "subtasks": [
+                "** Approach the bale",
+                "** Lift the bale onto the wheelbarrow",
+                "** Push the wheelbarrow to the truck",
+                "** Align the bale with the truck bed",
+                "** Lower the bale into the truck bed"
+            ]
+        },
+        {
+            "task": "Back up the truck",
+            "subtasks": [
+                "** Position the truck behind the stack",
+                "** Engage the reverse gears",
+                "** Observe the rear view",
+                "** Start moving in reverse"
+            ]
+        },
+        {
+            "task": "Attach the topper to the baler",
+            "subtasks": [
+                "** Secure the topper to the baler\u2019s tailgate",
+                "** Position the topper over the output chute",
+                "** Ensure proper fit before unhooking"
+            ]
+        },
+        {
+            "task": "Repeat the process (rolling, backing up, attaching)",
+            "subtasks": [
+                "** Validate the stacking order",
+                "** Repeat for subsequent bales",
+                "** Monitor balance of the stack"
+            ]
+        },
+        {
+            "task": "Direct the baler operator",
+            "subtasks": [
+                "** Signal the operator to stop",
+                "** Identify the bale at the tailgate",
+                "** Coordinate the timing of bale roll-off and stacking"
+            ]
+        },
+        {
+            "task": "Maintain the stack of bales",
+            "subtasks": [
+                "** Check for stability of each bale added",
+                "** Prevent toppling by organizing rows properly",
+                "** Mistake corrections if a bale rolls off"
+            ]
+        },
+        {
+            "task": "Unload bales from the truck",
+            "subtasks": [
+                "** Approach the truck bed",
+                "** Edge the wheelbarrow near the truck opening",
+                "** Lift the bale from the truck bed",
+                "** Transfer the bale into the wheelbarrow",
+                "** Roll the wheelbarrow to the desired location",
+                "** Download the bale from the wheelbarrow",
+                "** Place the bale in the correct spot"
+            ]
+        },
+        {
+            "task": "Secure the baler attachment to the truck",
+            "subtasks": [
+                "** Align the baler attachment hooks with the truck's trailer hitch",
+                "** Hook the baler to the truck",
+                "** Tighten any securing straps"
+            ]
+        },
+        {
+            "task": "Prepare for the next operation",
+            "subtasks": [
+                "** Ensure the bales are stacked safely",
+                "** Check that all attachments are correctly positioned",
+                "** Plan the direction and route for the next set of bales"
             ]
         }
     ]

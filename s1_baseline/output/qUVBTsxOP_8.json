@@ -5,122 +5,28 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Harvest bok choy from tower garden",
+            "task": "Garden harvesting",
             "subtasks": [
-                "Approach tower garden",
-                "Reach into tower garden",
-                "Grasp bok choy plants",
-                "Pull bok choy plants out of tower garden",
-                "Inspect roots of harvested bok choy"
+                "Approach the tower garden",
+                "Identify bok choy",
+                "Assess root health",
+                "Prepare to harvest bok choy",
+                "Harvest bok choy leaves and stems",
+                "Dispose of roots"
             ]
         },
         {
-            "task": "Prepare stir fry",
+            "task": "Cooking preparation",
             "subtasks": [
-                "Gather necessary ingredients for stir fry",
-                "Wash harvested bok choy",
-                "Prepare other stir fry ingredients",
-                "Cook stir fry on stove",
+                "Gather harvested bok choy",
+                "Select ingredients for stir fry",
+                "Prepare cooking utensils",
+                "Wash bok choy",
+                "Chop bok choy into stir fry strips",
+                "Bring water to boil for cooking",
+                "Cook stir fry ingredients",
+                "Season stir fry to taste",
                 "Serve stir fry"
-            ]
-        },
-        {
-            "task": "Harvest bok choy from tower garden",
-            "subtasks": []
-        },
-        {
-            "task": "Make stir fry with bok choy",
-            "subtasks": []
-        },
-        {
-            "task": "(Looking at roots) Inspect roots of bok choy (this could be part of the harvesting task if done while pulling them out, or as a separate task afterwards). But since the transcript just says \"Look at those nice healthy roots\" after they start making a stir fry, so maybe that sentence is about the roots being in good condition and the speaker checking them. So perhaps this is a separate action. But I might be overcomplicating. Alternatively, perhaps performing the maintenance action, but given that \"Look at those nice healthy roots\" is part of the transcript, you have to include that as a task. Maybe part of the harvesting, but the transcript says \"Look at those nice healthy roots. All right, let's go make a stir fry with this.\" So upon harvesting the bok choy, the speaker then looks at the roots to see if they are healthy, then proceeds to make stir fry. So maybe it's part of the harvesting task.",
-            "subtasks": []
-        },
-        {
-            "task": "There may be another MAINTASK to take care of the tower garden either before or after harvesting, but the transcript doesn't mention that. If it's a dedicated harvest, then probably just the MAINTASKs listed above. Let me check. The transcript says \"We're going to harvest some beautiful bok choy from the tower garden.\" So the main task is to harvest the bok choy. The tools used here might include hands, maybe gloves if needed. Then perhaps later a cutting tool if the bok choy is too tough. But in the transcript, it's just mentioned \"pull out\" which would suggest pulling by the stem. Since roots are mentioned, but if the tower garden is a hydroponic system, the roots would be in the tower. So maybe the main steps are:",
-            "subtasks": []
-        },
-        {
-            "task": "Harvest bok choy from tower garden",
-            "subtasks": [
-                "Approach tower garden",
-                "Reach into tower garden",
-                "Grasp bok choy",
-                "Pull bok choy out",
-                "Inspect roots of bok choy"
-            ]
-        },
-        {
-            "task": "Prepare stir fry with bok choy",
-            "subtasks": [
-                "Wash bok choy",
-                "Prepare other ingredients",
-                "Cook on stove",
-                "Serve"
-            ]
-        },
-        {
-            "task": "Harvest bok choy from tower garden**",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare stir fry with the harvested bok choy**",
-            "subtasks": []
-        },
-        {
-            "task": "The answers are structured as per the instructions, with each main task and its subtasks listed sequentially. The reasoning behind separating the harvest and preparation into distinct MAINTASKs is based on the clear division in the transcript and the separate physical actions involved.",
-            "subtasks": []
-        },
-        {
-            "task": "Harvest bok choy from tower garden",
-            "subtasks": [
-                "Approach tower garden",
-                "Reach into tower garden",
-                "Grasp bok choy",
-                "Pull bok choy out",
-                "Inspect roots of harvested bok choy"
-            ]
-        },
-        {
-            "task": "Prepare stir fry with bok choy",
-            "subtasks": [
-                "Wash bok choy",
-                "Prepare other ingredients",
-                "Cook on stove",
-                "Serve"
-            ]
-        },
-        {
-            "task": "Tasks related to farming, agriculture, or operating farming equipment</h1>",
-            "subtasks": []
-        },
-        {
-            "task": "Harvest bok choy from tower garden</strong>",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare stir fry with harvested bok choy</strong>",
-            "subtasks": [
-                "\\boxed{MAINTASK: Harvest bok choy; SUBTASKS: approach, reach, grasp, pull, inspect roots; MAINTASK: Prep stir fry; SUBTASKS: wash, prepare, cook, serve.}"
-            ]
-        },
-        {
-            "task": "MAINTASK: Harvest bok choy from tower garden",
-            "subtasks": [
-                "Approach tower garden",
-                "Reach into tower garden",
-                "Grasp bok choy",
-                "Pull bok choy out",
-                "Inspect roots of harvested bok choy"
-            ]
-        },
-        {
-            "task": "Prepare stir fry with bok choy",
-            "subtasks": [
-                "Wash bok choy",
-                "Prepare other ingredients",
-                "Cook on stove",
-                "Serve"
             ]
         }
     ]

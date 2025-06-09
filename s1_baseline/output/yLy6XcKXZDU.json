@@ -5,48 +5,97 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Drive a tractor",
+            "task": "Load soil from a truck into a spreader.",
             "subtasks": [
-                "Sit in the tractor seat",
-                "Grip the steering wheel",
-                "Adjust the seat and mirrors",
-                "Start the tractor engine",
-                "Drive the tractor to the field"
+                "Approach the truck carrying soil.",
+                "Open the gate or door of the truck to access the soil.",
+                "Reach into the truck and scoop soil using a shovel or similar tool.",
+                "Carry the loaded shovel of soil to the spreader.",
+                "Open the hopper or release mechanism of the spreader.",
+                "Carefully pour or dump the soil into the spreader's hopper.",
+                "Close the hopper or release mechanism securely.",
+                "Step back to a safe distance from the spreader."
             ]
         },
         {
-            "task": "Plant seeds with a crop seeder",
+            "task": "Operate the spreader.",
             "subtasks": [
-                "Attach the seeder to the tractor",
-                "Adjust the seeder settings",
-                "Operate the seeder while driving",
-                "Ensure proper spacing and depth"
+                "Approach the spreader with necessary tools.",
+                "Prime the spreader if required (e.g., add fuel, lubricate).",
+                "Adjust the spreading width or pattern to desired coverage.",
+                "Lift the discharge or spreader mechanism to the appropriate height.",
+                "Start the spreader's engine or activating mechanism.",
+                "Test the spreader operation to ensure it is moving soil smoothly.",
+                "Begin moving the spreader to the field, driving or pulling it as needed.",
+                "Monitor the spread pattern and adjust spreader settings or position as needed during operation.",
+                "Stop the spreader, disengage the spreader mechanism, and shut it down at the end of use."
             ]
         },
         {
-            "task": "Operate a cultivation tool",
+            "task": "Verify sufficient soil nutrient levels.",
             "subtasks": [
-                "Attach the cultivation tool to the tractor",
-                "Position the tool for the right depth",
-                "Control the tool's movement while driving"
+                "Identify the field or area needing nutrient verification.",
+                "Collect soil samples from various points in the field using a sampling tool.",
+                "Send the soil samples to a laboratory for nutrient analysis.",
+                "Review the lab results for nutrient levels and assess whether additional soil amendments are required."
             ]
         },
         {
-            "task": "Operate a sprayer",
+            "task": "Apply the spreader to distribute soil amendments across a field.",
             "subtasks": [
-                "Fill the sprayer with pesticide or fertilizer",
-                "Attach the sprayer to the tractor",
-                "Adjust the spray nozzles",
-                "Drive through the field, applying chemicals"
+                "Assemble the spreader following manufacturer instructions.",
+                "Weigh out the necessary soil amendments (e.g., compost, fertilizer).",
+                "Load the amendments into the spreader's hopper.",
+                "Secure the hopper lid to prevent spillage.",
+                "Check if the spreader's attachments (like the auger or gravity dump) are functioning.",
+                "Align the spreader with the starting point of the field.",
+                "Start the spreader and monitor the distribution of the amendments.",
+                "Ensure even coverage by adjusting speed or spreading rate as needed.",
+                "Stop the spreader at the end and clean up any residue."
             ]
         },
         {
-            "task": "Harvest crops using a combine",
+            "task": "Apply a spreader behind a tractor to distribute manure or compost.",
             "subtasks": [
-                "Attach the combine to the tractor",
-                "Operate the combine to cut the crops",
-                "Drive the combine to the grain elevator",
-                "Deposit the harvested grain"
+                "Attach the spreader to the rear of the tractor using the hitch.",
+                "Check the attachment points for stability and proper hitch engagement.",
+                "Make sure the spreader\u2019s turntable or pivot point is correctly set.",
+                "Connect power take-off (PTO) if the spreader is PTO-driven.",
+                "Start the tractor and engage PTO if applicable.",
+                "Drive the tractor and spreader in a straight line across the field.",
+                "Adjust the speed of the tractor to control the spread rate.",
+                "Monitor the distribution to check for clumps or uneven coverage, and make necessary adjustments.",
+                "Immediately after spreading, check for any areas that require reapplication.",
+                "Detach the spreader from the tractor and store it properly."
+            ]
+        },
+        {
+            "task": "Check the spreader hopper for blockages or proper loading.",
+            "subtasks": [
+                "Examine the hopper for any obstructions from previous loads.",
+                "Clear any debris or clogs blocking the hopper openings.",
+                "Check the depth of the soil or amendment layer in the hopper.",
+                "Ensure the material is not overfilled, which can lead to uneven spreading.",
+                "Check the side ejector or other discharge mechanisms for proper operation."
+            ]
+        },
+        {
+            "task": "Ensure the spreader's spreader mechanism is properly aligned and set.",
+            "subtasks": [
+                "Align the spreader\u2019s gauge wheels or track rollers with the ground surface.",
+                "Inspect the spreader mechanism\u2019s hydraulic or mechanical linkage to the tractor.",
+                "Check angle adjusters or spread wings for even material distribution.",
+                "Calibrate the spreader by adjusting the discharge angle or speed."
+            ]
+        },
+        {
+            "task": "Troubleshoot issues with the spreader which may stop spreading when moving.",
+            "subtasks": [
+                "Check the spreader's power source (electric or PTO-driven) to ensure it is functioning.",
+                "Verify that the spreader's hopper is not empty or too light, which could cause low speed issues.",
+                "Inspect the spreader's agitator or motor to check for faults.",
+                "Look for any clogs in the discharge mechanism that might block material flow.",
+                "Check the hydraulic system if applicable, ensuring proper fluid levels and leaks."
             ]
         }
     ]

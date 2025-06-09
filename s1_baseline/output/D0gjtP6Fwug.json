@@ -5,54 +5,47 @@
     "category": "Film & Animation",
     "tasks": [
         {
-            "task": "Operating a tandem seat tractor",
+            "task": "Riding a horse.",
             "subtasks": [
-                "Starting the tractor engine",
-                "Mounting the tractor seat",
-                "Maneuvering the tractor to the field",
-                "Turning the steering wheel to navigate",
-                "Adjusting speed while driving"
+                "Sitting on a horse."
             ]
         },
         {
-            "task": "Planting seeds",
+            "task": "Driving a farm vehicle.",
             "subtasks": [
-                "Inserting seeds into the ground",
-                "Covering seeds with dirt"
+                "Operating a front loader.",
+                "Loading a semi-truck."
             ]
         },
         {
-            "task": "Driving the tractor back to the barn",
+            "task": "Transporting horse legs.",
             "subtasks": [
-                "Parking the tractor in the designated area",
-                "Dismounting the seat",
-                "Shuting off the engine"
+                "Carrying horse meat on a pallet."
             ]
         },
         {
-            "task": "Operating a tandem seat tractor**",
+            "task": "Processing horse meat.",
             "subtasks": [
-                "Starting the tractor engine",
-                "Mounting the tractor seat",
-                "Maneuvering the tractor to the field",
-                "Turning the steering wheel to navigate",
-                "Adjusting speed while driving"
+                "Using a chainsaw to cut wood.",
+                "Using a meat saw to cut meat.",
+                "Preparing horse carcasses for transport."
             ]
         },
         {
-            "task": "Planting seeds**",
+            "task": "Butchering cattle.",
             "subtasks": [
-                "Inserting seeds into the ground",
-                "Covering seeds with dirt"
+                "Loading a semi-truck."
             ]
         },
         {
-            "task": "Driving the tractor back to the barn**",
+            "task": "Delivering freight.",
             "subtasks": [
-                "Parking the tractor in the designated area",
-                "Dismounting the seat",
-                "Shuting off the engine"
+                "Palletizing meat."
             ]
+        },
+        {
+            "task": "**",
+            "subtasks": []
         }
     ]
 }

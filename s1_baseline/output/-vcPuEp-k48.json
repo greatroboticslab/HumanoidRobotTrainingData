@@ -5,37 +5,73 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Following the equipment",
+            "task": "Finish repairs on a machine",
             "subtasks": [
-                "Observe the equipment's movements",
-                "React to the equipment's actions",
-                "Follow the equipment's path"
+                "Examine the machine to identify the problem",
+                "Locate necessary tools and replacement parts",
+                "Access the machine's components to make repairs",
+                "Apply lubricant or perform oil changes",
+                "Tighten bolts or other fasteners",
+                "Test the machine's functionality after repairs"
             ]
         },
         {
-            "task": "Checking the field condition",
+            "task": "Prepare for the harvest season",
             "subtasks": [
-                "Walk through the field",
-                "Assess the soil moisture",
-                "Check for residue or plants"
+                "Inspect fields for readiness",
+                "Check irrigation systems for maintenance needs",
+                "Assess machinery for any required troubleshooting",
+                "Order or collect seeds and fertilizers",
+                "Coordinate with team members for harvest preparation",
+                "Plan rotation of crops if necessary"
             ]
         },
         {
-            "task": "Operating farming equipment",
+            "task": "Conduct daily farm management duties",
             "subtasks": [
-                "Adjust equipment settings",
-                "Monitor planting or harvesting",
-                "Communicate with crew",
-                "Check equipment status"
+                "Monitor crop growth and health",
+                "Check for pests or disease infestations",
+                "Apply pesticides or herbicides as needed",
+                "Adjust irrigation based on weather conditions",
+                "Tend to livestock, including feeding and veterinary care",
+                "Document farm activities and maintenance",
+                "Communicate with buyers or customers about produce",
+                "Perform or coordinate equipment cleaning and maintenance"
             ]
         },
         {
-            "task": "Reflecting on the day's work",
+            "task": "Finish repairs on a machine",
             "subtasks": [
-                "Validate results achieved",
-                "Consider future steps",
-                "Plan next operations",
-                "Confirm satisfaction with outcome"
+                "Examine the machine to identify the problem",
+                "Locate necessary tools and replacement parts",
+                "Access the machine's components to make repairs",
+                "Apply lubricant or perform oil changes",
+                "Tighten bolts or other fasteners",
+                "Test the machine's functionality after repairs"
+            ]
+        },
+        {
+            "task": "Prepare for the harvest season",
+            "subtasks": [
+                "Inspect fields for readiness",
+                "Check irrigation systems for maintenance needs",
+                "Assess machinery for any required troubleshooting",
+                "Order or collect seeds and fertilizers",
+                "Coordinate with team members for harvest preparation",
+                "Plan rotation of crops if necessary"
+            ]
+        },
+        {
+            "task": "Conduct daily farm management duties",
+            "subtasks": [
+                "Monitor crop growth and health",
+                "Check for pests or disease infestations",
+                "Apply pesticides or herbicides as needed",
+                "Adjust irrigation based on weather conditions",
+                "Tend to livestock, including feeding and veterinary care (with subtasks below)",
+                "Document farm activities and maintenance",
+                "Communicate with buyers or customers about produce",
+                "Perform or coordinate equipment cleaning and maintenance"
             ]
         }
     ]

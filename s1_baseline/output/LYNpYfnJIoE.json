@@ -5,20 +5,171 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Thanking people",
+            "task": "Leaving the barn area",
             "subtasks": [
-                "Raise hand in acknowledgment",
-                "Say \"thank you\" verbally",
-                "Repeat action multiple times"
+                "Approach barn door",
+                "Open barn door",
+                "Walk out of barn",
+                "Close barn door"
             ]
         },
         {
-            "task": "** Thanking people",
+            "task": "Steer tractor forward down the driveway",
             "subtasks": [
-                "** Raise hand in acknowledgment",
-                "** Say \"thank you\" verbally",
-                "** Repeat action multiple times"
+                "Mount tractor seat",
+                "Engage gears",
+                "Apply foot brake",
+                "Activate steering",
+                "Begin steering tractor forward",
+                "Continue steering until reaching driveway end"
             ]
+        },
+        {
+            "task": "Operate tractor's drawbar",
+            "subtasks": [
+                "Position drawbar for plowing",
+                "Deploy plow attached to drawbar",
+                "Adjust plow depth and operation"
+            ]
+        },
+        {
+            "task": "Check tractor oil levels",
+            "subtasks": [
+                "Access tractor's oil dipstick",
+                "Remove dipstick and check oil level",
+                "Compare oil level to max/min markings",
+                "If necessary, add oil to reservoir"
+            ]
+        },
+        {
+            "task": "Ensure proper tractor tire alignment",
+            "subtasks": [
+                "Check tire pressure gauges",
+                "Verify tire pressures match recommended levels",
+                "Adjust tires if pressure is below minimum"
+            ]
+        },
+        {
+            "task": "Operate tractor ascending hill",
+            "subtasks": [
+                "Release some clutch",
+                "Apply more throttle",
+                "Maintain forward motion up the incline"
+            ]
+        },
+        {
+            "task": "Shift gears on tractor",
+            "subtasks": [
+                "Monitor engine rpm",
+                "Downshift to maintain speed on steep incline",
+                "Check transmission lever position"
+            ]
+        },
+        {
+            "task": "Maneuver tractor for plowing turns",
+            "subtasks": [
+                "Perform 3-point turn at edge of field",
+                "Position tractor to turn around",
+                "Alternate front and rear turns to line up for next pass"
+            ]
+        },
+        {
+            "task": "Secure plow after finishing field",
+            "subtasks": [
+                "Move plow back to transport position",
+                "Engage lift arms",
+                "Raise plow off the ground"
+            ]
+        },
+        {
+            "task": "Disengage drawbar from plow",
+            "subtasks": [
+                "Shift to reverse gear",
+                "Engage clutch pedal",
+                "Rotate drawbar release lever",
+                "Disconnect plow from tractor drawbar"
+            ]
+        },
+        {
+            "task": "Secure tractor in area",
+            "subtasks": [
+                "Return tractor to barn or field area",
+                "Park tractor on level ground",
+                "Lower drawbar",
+                "Turn off tractor engine"
+            ]
+        },
+        {
+            "task": "Check oil level again before shutdown",
+            "subtasks": [
+                "Open oil fill cap",
+                "Check oil level via dipstick",
+                "If needed, top off oil before turning off engine",
+                "and SUBTASK: for each subtask. If they strictly followed instructions even if the transcript is empty, that could be a problem. But in multiple instructions, when the transcript is devoid of any action-relevant content, it's appropriate to flag it as irrelevant."
+            ]
+        },
+        {
+            "task": "Plowing field",
+            "subtasks": [
+                "Operating tractor",
+                "Checking oil",
+                "MAINTASK: Leaving the barn; SUBTASK: Move from barn to field.",
+                "MAINTASK: Operating tractor; SUBTASK: Start engine, check controls.",
+                "MAINTASK: Checking oil levels; SUBTASK: Open dipstick, check level.",
+                "MAINTASK: Returning to barn; SUBTASK: Park tractor and close barn door."
+            ]
+        },
+        {
+            "task": "Leaving the barn",
+            "subtasks": []
+        },
+        {
+            "task": "Steer tractor forward down the driveway",
+            "subtasks": []
+        },
+        {
+            "task": "Operate tractor's drawbar",
+            "subtasks": []
+        },
+        {
+            "task": "Check tractor oil levels",
+            "subtasks": []
+        },
+        {
+            "task": "Ensure proper tractor tire alignment",
+            "subtasks": []
+        },
+        {
+            "task": "Operate tractor ascending hill",
+            "subtasks": []
+        },
+        {
+            "task": "Shift gears on tractor",
+            "subtasks": []
+        },
+        {
+            "task": "Maneuver tractor for plowing turns",
+            "subtasks": []
+        },
+        {
+            "task": "Secure plow after finishing field",
+            "subtasks": []
+        },
+        {
+            "task": "Disengage drawbar from plow",
+            "subtasks": []
+        },
+        {
+            "task": "Secure tractor in area",
+            "subtasks": []
+        },
+        {
+            "task": "Check oil level before shutdown",
+            "subtasks": []
+        },
+        {
+            "task": "Answer whether the transcript is relevant or not. This is good practice as it ensures the answer is appropriate.",
+            "subtasks": []
         }
     ]
 }

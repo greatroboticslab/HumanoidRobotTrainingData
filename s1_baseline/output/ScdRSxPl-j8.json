@@ -5,52 +5,27 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Planting corn without irrigation",
+            "task": "Gardening without irrigation",
             "subtasks": []
         },
         {
-            "task": "Regulating plant spacing",
+            "task": "Given the transcript, generate a list of physical tasks a person would have to perform with their body in relation to the content. Tasks should be general, formatted with MAINTASK followed by subtasks. Ensure tasks relate to farming or agriculture.",
             "subtasks": []
         },
         {
-            "task": "Utilizing hugelpaths for water retention",
-            "subtasks": []
-        },
-        {
-            "task": "Employing mulch and weed suppression",
-            "subtasks": []
-        },
-        {
-            "task": "Hill planting technique",
-            "subtasks": []
-        },
-        {
-            "task": "Seed pre-germination",
-            "subtasks": []
-        },
-        {
-            "task": "Planting corn without irrigation",
-            "subtasks": []
-        },
-        {
-            "task": "Regulating plant spacing",
-            "subtasks": []
-        },
-        {
-            "task": "Utilizing hugelpaths for water retention",
-            "subtasks": []
-        },
-        {
-            "task": "Employing mulch and weed suppression",
-            "subtasks": []
-        },
-        {
-            "task": "Employing hill planting technique",
-            "subtasks": []
-        },
-        {
-            "task": "Soaking seeds before planting",
-            "subtasks": []
+            "task": "MAINTASK: Gardening without irrigation",
+            "subtasks": [
+                "Creating depressions for planting to capture rainwater",
+                "Using mulch (e.g., wood chips, straw) to prevent evaporation and weed growth",
+                "Spacing plants wider (50% more than\u63a8\u8350\u7684) to reduce competition and improve water use",
+                "Using organic matter (compost) to improve soil structure and moisture retention",
+                "Implementing hugelkultur by burying wood to act as a moisture reservoir",
+                "Applying dust mulch when organic matter is insufficient",
+                "Pre-germinating seeds by soaking or using moist paper towels before planting",
+                "Planting in hills or clumps with spaces in between to minimize water competition",
+                "Allowing soil to dry slightly between waterings to encourage deeper root growth",
+                "Breaking up soil surface after heavy rain to maintain moisture"
+            ]
         }
     ]
 }

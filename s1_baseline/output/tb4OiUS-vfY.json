@@ -5,15 +5,32 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Goat Farming Setup and Management",
+            "task": "Operating farming equipment related to goats and their production",
             "subtasks": [
-                "Navigating the Animal Menu and Building Selection",
-                "Customizing Pasture Layout Using Dynamic Pastures",
-                "Purchasing Goats from Farm or Animal Dealer",
-                "Loading Goats onto Trailer and Transport",
-                "Feeding Goats with Meadow Grass, Hay Bales, and Loose Hay",
-                "Managing Goat Reproduction and Milk Production",
-                "Transferring Milk to Dairy and Producing Bottled Milk or Cheese"
+                "Navigating the game's animal menu",
+                "Placing and customizing sheep/goat pastures using dynamic pastures feature",
+                "Purchasing goats from the in-game store or animal dealer",
+                "Preparing and loading animals onto a transportation trailer",
+                "Managing goat feeding through hay and meadow grass",
+                "Harvesting and storing goat milk in the appropriate equipment",
+                "Processing goat milk into bottled milk or cheese at the dairy",
+                "Selling goat products for income"
+            ]
+        },
+        {
+            "task": "Managing animal reproduction and expansion",
+            "subtasks": [
+                "Monitoring goat age and breeding cycles",
+                "Thinning herds when pastures reach capacity",
+                "Expanding pastures or selling excess goats for herd management"
+            ]
+        },
+        {
+            "task": "Ensuring water and feed requirements",
+            "subtasks": [
+                "Gathering and transporting water using a water tanker",
+                "Collecting and distributing loose or baled feed using loaders and trailers",
+                "Planting and maintaining meadow grass for pastures"
             ]
         }
     ]

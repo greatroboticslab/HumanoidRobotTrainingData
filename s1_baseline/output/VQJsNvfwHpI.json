@@ -5,41 +5,33 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Assembling a DIY irrigation system",
+            "task": "Building a DIY irrigation system",
             "subtasks": [
-                "Gathering materials",
-                "Connecting garden hose to water source",
-                "Attaching a timer to the garden hose",
-                "Connecting a pressure regulator to the timer",
-                "Adding a backflow preventer to the pressure regulator",
-                "Installing a filter after the backflow preventer",
-                "Laying out tubing for water distribution",
-                "Securing tubing with stakes",
-                "Punching holes in tubing for emitter placement",
-                "Attaching emitters to holes, considering plant water requirements",
-                "Testing the system for leaks and making adjustments"
+                "Gather materials (garden hose, water source, timer, pressure regulator, backflow preventer, filter, tubing, emitters)",
+                "Connect garden hose to water source",
+                "Attach timer to garden hose",
+                "Connect pressure regulator to timer",
+                "Connect backflow preventer to pressure regulator",
+                "Install filter downstream of backflow preventer",
+                "Lay out tubing and secure with stakes",
+                "Create openings in tubing at desired plant locations",
+                "Attach emitters to tubing openings",
+                "Check system for leaks and make adjustments"
             ]
         },
         {
-            "task": "Planning an efficient irrigation system",
+            "task": "Summary",
             "subtasks": [
-                "Evaluating garden or crop needs",
-                "Choosing appropriate emitter types and placement"
+                "Recognize the importance of irrigation systems",
+                "Highlight the DIY irrigation system's efficiency and sustainability",
+                "Emphasize personal contribution to garden growth"
             ]
         },
         {
-            "task": "Understanding irrigation system components",
+            "task": "Reminder for viewers",
             "subtasks": [
-                "Recognizing the role of a garden hose, timer, pressure regulator, backflow preventer, filter, tubing, and emitters"
+                "Admire the role played in garden growth"
             ]
-        },
-        {
-            "task": "Assembling a DIY irrigation system, which includes subtasks like gathering materials, connecting components, laying tubing, attaching emitters, testing. Additionally, planning the system and understanding its components would be other main tasks. But the key thing is that most of the transcript is focused on the step-by-step process of building the system, so that's the core MAINTASK.",
-            "subtasks": []
-        },
-        {
-            "task": "Assembling a DIY Irrigation System**",
-            "subtasks": []
         }
     ]
 }

@@ -5,56 +5,25 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Selecting appropriate attachments for a John Deere subcompact tractor",
-            "subtasks": []
-        },
-        {
-            "task": "Consider size ratio between attachment and tractor (MAINTASK scaling)",
-            "subtasks": []
-        },
-        {
-            "task": "Evaluate common sense in attachment size (MAINTASK common sense)",
-            "subtasks": []
-        },
-        {
-            "task": "Determine right size attachment for specific tasks (MAINTASK task-specific)",
+            "task": "Sizing Attachments Appropriately for Tractors",
             "subtasks": [
-                "Woods maintenance with compact attachments (SUBTASK task woods maintenance)",
-                "Snow pusher width considerations (SUBTASK task snow pusher)",
-                "Weigh traction and weight against snow volume (SUBTASK weight vs. volume)",
-                "Back attachment width (SUBTASK task back attachment)",
-                "PTO horsepower and implementation width relation (SUBTASK PTO power)",
-                "Front attachment weight (SUBTASK task front attachment)",
-                "Lift capacity and weight vs. functionality (SUBTASK weight vs. capacity)"
+                "Evaluating the proportion of attachments relative to the machine",
+                "Considering size restrictions in specific environments (e.g., woodland areas)",
+                "Determining appropriate snow pusher width relative to tractor",
+                "Assessing PTO horsepower requirements for implements",
+                "Weighing the benefits and drawbacks of using a sprayer for ballast",
+                "Determining suitable width for landscape rakes and tillers",
+                "Considering weight implications of attachments on loader capacity",
+                "Selecting appropriately sized front-end forks based on lift capacity"
             ]
         },
         {
-            "task": "Ballast weight usage in tractors",
-            "subtasks": []
-        },
-        {
-            "task": "Importance of counterweight for loader safety (MAINTASK ballast)",
-            "subtasks": []
-        },
-        {
-            "task": "Weighing pros and cons of using a sprayer as ballast (MAINTASK sprayer ballast)",
+            "task": "Installing and adjusting attachments on tractors",
             "subtasks": [
-                "Consider the tool's utilization as stored weight (SUBTASK tool as weight)",
-                "Evaluate effectiveness against needing an actual tool (SUBTASK trade-off)"
-            ]
-        },
-        {
-            "task": "Evaluating attachment compatibility with tractor (MAINTASK attachment compatibility)",
-            "subtasks": [
-                "Example of 72 inch rake on a subcompact (SUBTASK safe width evaluation)",
-                "Compare with 5 PTO horsepower per foot rule (SUBTASK PTO rule adverse example)"
-            ]
-        },
-        {
-            "task": "Understanding proper attachment weight and compatibility (MAINTASK weight compatibility)",
-            "subtasks": [
-                "Example of 72 inch tiller on a subcompact (SUBTASK heavy attachment example)",
-                "Mash of attachment weight and tractor capacity (SUBTASK weight capacity mismatch)"
+                "Securing attachments correctly (e.g., quick hitch compatibility)",
+                "Properly ballasting the tractor when using loaders",
+                "Ensuring attachments match the tractor's footprint and operational needs",
+                "Operating attachments for various tasks (e.g., mowing, raking, tillage)"
             ]
         }
     ]

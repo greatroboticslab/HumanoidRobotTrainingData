@@ -5,97 +5,45 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Farmers must operate autonomous farm tractors equipped with automation technology to improve efficiency and accuracy in crop cultivation.",
+            "task": "Operating an autonomous farm tractor",
             "subtasks": [
-                "Insert GPS-enabled cameras, radars, and light sensors into the autonomous tractor for environmental monitoring.",
-                "Program the tractor's computer system to interpret sensor data for precise tilling and seed planting.",
-                "Use the tractor's remote emergency stop feature for safety during operation.",
-                "Monitor and adjust fertilizer distribution using advanced tractor sensors.",
-                "Utilize autonomous tractors for 24/7 operations by a single operator to enhance farm productivity."
+                "Navigating the tractor using GPS-enabled cameras and radars",
+                "Ensuring precision in tilling and seed planting with the tractor's sensors",
+                "Monitoring soil conditions and crop health using tractor-collected data",
+                "Remote emergency stop operation for safety"
             ]
         },
         {
-            "task": "Farmers utilize drones for agricultural surveillance and management.",
+            "task": "Using drones in agriculture",
             "subtasks": [
-                "Deploy drones to capture high-resolution images of crop fields.",
-                "Create detailed three-dimensional maps from drone footage for terrain analysis.",
-                "Inspect irrigation systems, pests, and plant health using drone imagery.",
-                "Apply pesticides, fertilizers, and herbicides with precision from drones.",
-                "Conduct real-time monitoring of field conditions using drones for timely interventions."
+                "Surveying agricultural areas to capture high-quality images",
+                "Creating detailed three-dimensional maps",
+                "Inspecting crop health and detecting issues in real-time",
+                "Applying pesticides, herbicides, or fertilizers with precision"
             ]
         },
         {
-            "task": "Farmers implement smart irrigation systems to optimize water usage.",
+            "task": "Implementing smart irrigation systems",
             "subtasks": [
-                "Install sensors in irrigation networks to monitor soil moisture and weather patterns.",
-                "Automate watering schedules based on real-time data for efficient water application.",
-                "Adjust irrigation according to different crop needs and weather forecasts.",
-                "Manage water consumption and detect leaks through remote monitoring systems."
+                "Automatically adjusting water consumption based on weather and soil moisture",
+                "Remotely controlling irrigation systems via mobile phone or computer"
             ]
         },
         {
-            "task": "Farmers employ harvesting robots to increase crop harvest efficiency.",
+            "task": "Utilizing harvesting and weeding robots",
             "subtasks": [
-                "Program robots with image recognition technology to detect ripe crops.",
-                "Use robots to selectively remove weeds without chemical herbicides.",
-                "Automate seed planting using GPS and image analysis for optimal spacing.",
-                "Apply fertilizers and pesticides precisely through robot-assisted technologies.",
-                "Deploy robots for continuous operations during peak harvesting seasons."
+                "Detecting ripe crops using sensors and cameras",
+                "Harvesting crops without damaging produce",
+                "Removing weeds using image recognition technology",
+                "Applying fertilizer precisely to plants or soil"
             ]
         },
         {
-            "task": "Farmers utilize biochar generators for sustainable soil management.",
+            "task": "Managing biochar generators",
             "subtasks": [
-                "Operate biochar generators to convert organic waste into biochar.",
-                "Apply biochar to soil to improve fertility, structure, and water retention.",
-                "Implement pyrolysis techniques in biochar generators for carbon sequestration.",
-                "Manage organic waste and reduce greenhouse gas emissions through biochar production.",
-                "Foster healthy soil microbiota and enhance crop yields using biochar."
-            ]
-        },
-        {
-            "task": "Farmers must operate autonomous farm tractors equipped with automation technology to improve efficiency and accuracy in crop cultivation.",
-            "subtasks": [
-                "Insert GPS-enabled cameras, radars, and light sensors into the autonomous tractor for environmental monitoring.",
-                "Program the tractor's computer system to interpret sensor data for precise tilling and seed planting.",
-                "Use the tractor's remote emergency stop feature for safety during operation.",
-                "Monitor and adjust fertilizer distribution using advanced tractor sensors.",
-                "Utilize autonomous tractors for 24/7 operations by a single operator to enhance farm productivity."
-            ]
-        },
-        {
-            "task": "Farmers utilize drones for agricultural surveillance and management.",
-            "subtasks": [
-                "Deploy drones to capture high-resolution images of crop fields.",
-                "Create detailed three-dimensional maps from drone footage for terrain analysis.",
-                "Inspect irrigation systems, pests, and plant health using drone imagery.",
-                "Apply pesticides, fertilizers, and herbicides with precision from drones.",
-                "Conduct real-time monitoring of field conditions using drones for timely interventions."
-            ]
-        },
-        {
-            "task": "Farmers implement smart irrigation systems to optimize water usage.",
-            "subtasks": [
-                "Install sensors in irrigation networks to monitor soil moisture and weather patterns.",
-                "Automate watering schedules based on real-time data for efficient water application.",
-                "Adjust irrigation according to different crop needs and weather forecasts.",
-                "Manage water consumption and detect leaks through remote monitoring systems."
-            ]
-        },
-        {
-            "task": "Farmers employ harvesting robots to increase crop harvest efficiency.",
-            "subtasks": [
-                "Program robots with image recognition technology to detect ripe crops.",
-                "Use robots to selectively remove weeds without chemical herbicides.",
-                "Automate seed planting using GPS and image analysis for optimal spacing.",
-                "Apply fertilizers and pesticides precisely through robot-assisted technologies.",
-                "Deploy robots for continuous operations during peak harvesting seasons."
-            ]
-        },
-        {
-            "task": "Farmers utilize biochar generators for sustainable soil management.",
-            "subtasks": [
-                "Operate biochar generators to convert organic waste into biochar."
+                "Converting organic waste into biochar through pyrolysis",
+                "Enhancing soil fertility and structure with biochar",
+                "Sequestering carbon to reduce greenhouse gas emissions"
             ]
         }
     ]

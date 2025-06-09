@@ -5,64 +5,61 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Planning and designing a dam",
+            "task": "Planning and constructing a dam for agricultural purposes.",
             "subtasks": [
-                "Determine appropriate dam type based on landscape",
-                "Ensure proper placement of outlet for water flow",
-                "Consider using a trickle pipe for dry outlet and paddock",
-                "Ensure spill area is grassy and downhill for erosion prevention",
-                "Prevent channelizing to maintain dam integrity",
-                "Excavate material to ensure water covers the construction",
-                "Use clay in dam construction and create a key line at ground level",
-                "Achieve proper compaction for leak prevention",
-                "Ensure a good batter (slope) on both sides of the dam",
-                "Maintain a three-meter crest width",
-                "Include a minimum one-meter freeboard for safety"
+                "Assessing the landscape to determine the appropriate dam design.",
+                "Considering legislation compliance for dam construction.",
+                "Ensuring the dam's longevity through proper planning.",
+                "Aligning the outlet's capacity with water inflow.",
+                "Positioning the outlet to prevent erosion and structural damage.",
+                "Incorporating a trickle pipe if needed to manage water flow.",
+                "Ensuring water cover all excavated areas to prevent erosion.",
+                "Using clay for dam construction and creating key lines.",
+                "Achieving proper compaction of the soil during construction.",
+                "Ensuring a three-to-one batter on the front and two and a half to three-to-one on the back.",
+                "Maintaining a minimum of one meter freeboard.",
+                "Grassing the topsoil over the dam for future vegetation."
             ]
         },
         {
-            "task": "Constructing a dam",
+            "task": "Okay, let's see. So the task is to generate tasks based on this video transcript about building a dam. The first thing is to note that the MAINTASK here is planning and constructing a dam for agricultural purposes. That's broad enough, right? Then I need to break down the subtasks. Let me walk through the transcript and see what specific steps are mentioned.",
+            "subtasks": []
+        },
+        {
+            "task": "Plan and construct a dam for agriculture.",
             "subtasks": [
-                "Remove topsoil and place it at the back of the dam",
-                "Lay clay material to build the dam, ensuring proper compaction",
-                "Install an outlet system that matches water inflow",
-                "Position a trickle pipe to prevent outlet erosion and dry the paddock",
-                "Ensure proper placement of the spill area away from dam structure",
-                "Check that water is covering the excavation during construction",
-                "Verify the dam\u2019s three to one batter and at least two and a half to one on the backside",
-                "Achieve a wide crest at the top of the dam",
-                "Maintain a minimum of one meter freeboard above the top watermark"
+                "Assess landscape to choose dam design (single, two, three wall).",
+                "Ensure compliance with legislation.",
+                "Plan for the dam's longevity (correct sizing, placement).",
+                "Position outlet to match water inflow and prevent erosion.",
+                "Assess if a trickle pipe is needed.",
+                "Cover excavated areas with water during construction.",
+                "Use clay in construction and create key lines.",
+                "Achieve proper compaction during construction.",
+                "Construct with the correct batter ratios (front and back).",
+                "Maintain a sufficient freeboard.",
+                "Grass the topsoil after construction."
             ]
         },
         {
-            "task": "Planning and designing a dam",
+            "task": "MAINTASK: Plan and construct a dam for agriculture.",
             "subtasks": [
-                "Determine appropriate dam type based on landscape",
-                "Ensure proper placement of outlet for water flow",
-                "Consider using a trickle pipe for dry outlet and paddock",
-                "Ensure spill area is grassy and downhill for erosion prevention",
-                "Prevent channelizing to maintain dam integrity",
-                "Excavate material to ensure water covers the construction",
-                "Use clay in dam construction and create a key line at ground level",
-                "Achieve proper compaction for leak prevention",
-                "Ensure a good batter (slope) on both sides of the dam",
-                "Maintain a three-meter crest width",
-                "Include a minimum one-meter freeboard for safety"
+                "Evaluate the terrain to choose between single, two-wall, or three-wall dam construction.",
+                "Verify adherence to existing regulations and obtain necessary permissions.",
+                "Ensure proper sizing and placement of the dam to maintain structural integrity over time.",
+                "Align the outlet capacity with water inflow and direct the spill area to a grassy, erosion-resistant site.",
+                "Determine if a trickle pipe is necessary to manage water flow and maintain paddock dryness.",
+                "Ensure all excavated materials are submerged in water to prevent erosion during the building process.",
+                "Utilize clay for dam construction and insert key lines where clay meets the ground to ensure secure foundations.",
+                "Ensure thorough compaction of soil layers as the dam is built to prevent leaks and structural failures.",
+                "Build the dam with a three-to-one batter on the front and a two and a half to three-to-one batter on the back for optimal stability.",
+                "Ensure a minimum of one meter of freeboard between the top of the dam and the water level to allow for proper water retention.",
+                "Cover the dam with topsoil once construction is complete to facilitate future vegetation."
             ]
         },
         {
-            "task": "Constructing a dam",
-            "subtasks": [
-                "Remove topsoil and place it at the back of the dam",
-                "Lay clay material to build the dam, ensuring proper compaction",
-                "Install an outlet system that matches water inflow",
-                "Position a trickle pipe to prevent outlet erosion and dry the paddock",
-                "Ensure proper placement of the spill area away from dam structure",
-                "Check that water is covering the excavation during construction",
-                "Verify the dam\u2019s three to one batter and at least two and a half to one on the backside",
-                "Achieve a wide crest at the top of the dam",
-                "Maintain a minimum of one meter freeboard above the top watermark}"
-            ]
+            "task": "**Plan and construct a dam for agriculture**.",
+            "subtasks": []
         }
     ]
 }

@@ -5,54 +5,72 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Ride a farm vehicle to apply chemicals",
+            "task": "Travel to the field",
             "subtasks": [
-                "Start the farm vehicle",
-                "Drive the vehicle to the field",
-                "Apply chemical solution to the crops using the vehicle's sprayer",
-                "Ensure even coverage of the chemical solution"
+                "Get into the pick-up",
+                "Drive pick-up toward the field",
+                "Turn key in the ignition to start the engine",
+                "Adjust seat and mirrors for optimal driving position",
+                "Secure any items in the pick-up bed"
             ]
         },
         {
-            "task": "Supervise farm workers",
+            "task": "Enter the field",
             "subtasks": [
-                "Check on workers' progress",
-                "Instruct workers on proper pesticide application techniques",
-                "Oversee application of chemicals to crops",
-                "Ensure all safety protocols are followed"
+                "Drive pick-up onto the farm property",
+                "Navigate through farm gates or entrances",
+                "Park pick-up in a strategic location for ease of access"
             ]
         },
         {
-            "task": "Walk through the field to inspect crops",
+            "task": "Perform rain seal checks",
             "subtasks": [
-                "Observe the growth and health of the crops",
-                "Check for any signs of pests or diseases",
-                "Note areas that may require additional treatment"
+                "Exit pick-up and walk into the field",
+                "Locate areas where water may gather or seep through",
+                "Inspect the sealant on the ground for cracks or gaps",
+                "Assess the effectiveness of the current sealant in preventing water infiltration"
             ]
         },
         {
-            "task": "Manage weather-related activities",
+            "task": "Wash rains",
             "subtasks": [
-                "Decide on chemical application based on weather forecasts",
-                "Delay or reschedule applications if rain is anticipated",
-                "Monitor rain sensors or crops' reaction to rain"
+                "Identify the specific areas or structures requiring washing",
+                "Assemble cleaning supplies (e.g., hoses, brushes, cleaning solutions)",
+                "Mobilize to the affected area and set up the cleaning equipment",
+                "Apply cleaning solution to the surface to be washed",
+                "Scrub the surface thoroughly to remove contaminants",
+                "Rinse the surface with clean water",
+                "Inspect the washed area for cleanliness and ensure all residue is removed"
             ]
         },
         {
-            "task": "Clean applicator equipment",
+            "task": "Address the issue with PK anytime",
             "subtasks": [
-                "Wash applicator nozzles after use",
-                "Disassemble equipment for deep cleaning",
-                "Lubricate moving parts to prevent damage"
+                "Identify the root cause of the problem (\"PK anytime\")",
+                "Determine the appropriate corrective action based on the assessment",
+                "Execute the necessary repairs or adjustments, possibly involving diagnostic tools",
+                "Test the resolved issue to confirm functionality"
             ]
         },
         {
-            "task": "Attend to the health of livestock",
-            "subtasks": [
-                "Check the farm animals for signs of illness",
-                "Provide necessary medications or treatments",
-                "Ensure proper feeding and water supply"
-            ]
+            "task": "MAINTASK: Travel to the field",
+            "subtasks": []
+        },
+        {
+            "task": "Enter the field",
+            "subtasks": []
+        },
+        {
+            "task": "Perform rain seal checks",
+            "subtasks": []
+        },
+        {
+            "task": "Wash rains",
+            "subtasks": []
+        },
+        {
+            "task": "Address PK anytime issues",
+            "subtasks": []
         }
     ]
 }

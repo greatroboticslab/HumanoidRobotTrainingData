@@ -9,66 +9,94 @@
             "subtasks": [
                 "Plowing or tilling the soil",
                 "Incorporating organic matter into the soil",
-                "Leveling the field",
-                "Transplanting rice seedlings into the flooded field"
+                "Leveling the field"
             ]
         },
         {
-            "task": "Cultivating Rice",
+            "task": "Transplanting Rice Seedlings",
             "subtasks": [
-                "Monitoring and managing water levels",
-                "Controlling weeds through natural means",
-                "Protecting against pests and diseases"
+                "Caring for rice seedlings in a nursery",
+                "Transplanting seedlings into a flooded field"
             ]
         },
         {
-            "task": "Harvesting Vegetables",
+            "task": "Managing Rice Water Levels",
             "subtasks": [
-                "Identifying the right time to harvest different types of vegetables",
-                "Using appropriate tools for harvesting (e.g., scissors, garden fork)",
-                "Preserving the harvested vegetables (drying, pickling, fermenting)"
+                "Controlling water depth during different growth stages",
+                "Monitoring soil aeration"
             ]
         },
         {
-            "task": "Embracing Sustainable Practices",
+            "task": "Managing Rice Pests and Diseases",
             "subtasks": [
-                "Reducing water usage through sustainable methods",
-                "Adopting organic farming practices",
-                "Sharing knowledge and techniques with other farmers"
+                "Introducing natural predators to control pests",
+                "Monitoring for diseases and taking corrective actions"
             ]
         },
         {
-            "task": "Preparing a Rice Paddy",
+            "task": "Sustainable Rice Farming Techniques",
             "subtasks": [
-                "Plowing or tilling the soil",
-                "Incorporating organic matter into the soil",
-                "Leveling the field",
-                "Transplanting rice seedlings into the flooded field"
-            ]
-        },
-        {
-            "task": "Cultivating Rice",
-            "subtasks": [
-                "Monitoring and managing water levels",
-                "Controlling weeds through natural means",
-                "Protecting against pests and diseases"
+                "Implementing the system of rice intensification (SRI)",
+                "Using organic farming methods"
             ]
         },
         {
             "task": "Harvesting Vegetables",
             "subtasks": [
-                "Identifying the right time to harvest different types of vegetables",
-                "Using appropriate tools for harvesting (e.g., scissors, garden fork)",
-                "Preserving the harvested vegetables (drying, pickling, fermenting)"
+                "Selecting the right time to harvest root vegetables",
+                "Selecting the right time to harvest leafy greens",
+                "Using appropriate tools for different vegetables",
+                "Minimizing damage during harvest"
             ]
         },
         {
-            "task": "Embracing Sustainable Practices",
+            "task": "Preserving Harvested Produce",
             "subtasks": [
-                "Reducing water usage through sustainable methods",
-                "Adopting organic farming practices",
-                "Sharing knowledge and techniques with other farmers"
+                "Drying produce using sun or dehydrator",
+                "Pickling vegetables",
+                "Fermenting or canning produce"
             ]
+        },
+        {
+            "task": "Connecting with the Agricultural Community",
+            "subtasks": [
+                "Experimenting with new crop varieties",
+                "Embracing companion planting",
+                "Staying informed about sustainable agriculture developments",
+                "Participating in community sharing of knowledge"
+            ]
+        },
+        {
+            "task": "MAINTASK: Preparing a Rice Paddy",
+            "subtasks": []
+        },
+        {
+            "task": "Transplanting Rice Seedlings",
+            "subtasks": []
+        },
+        {
+            "task": "Managing Rice Water Levels",
+            "subtasks": []
+        },
+        {
+            "task": "Managing Rice Pests and Diseases",
+            "subtasks": []
+        },
+        {
+            "task": "Sustainable Rice Farming Techniques",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting Vegetables",
+            "subtasks": []
+        },
+        {
+            "task": "Preserving Harvested Produce",
+            "subtasks": []
+        },
+        {
+            "task": "Connecting with the Agricultural Community",
+            "subtasks": []
         }
     ]
 }

@@ -5,35 +5,39 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Hooking up three-point attachments on tractors.",
+            "task": "Hooking up three-point attachments and rear PTO shafts.",
             "subtasks": [
-                "Positioning the tractor on level ground for easy attachment.",
-                "Storing attachments on pallets to raise them off the ground and make setup easier.",
-                "Aligning the center link of the three-point hitch with the top pin position during attachment.",
-                "Lowering the three-point hitch to its lowest position before attachment.",
-                "Attaching the lower links first and adjusting as needed to accommodate more precise positioning.",
-                "Using the rate of drop control to ensure smooth lowering of the three-point hitch.",
-                "Adjusting the top and side links for precise attachment leveling and depth control.",
-                "Using a hydraulic top link for easier adjustment and on-the-go modifications.",
-                "Connecting the PTO shaft to the three-point attachment, ensuring proper collar or button engagement.",
-                "Using quick hitches for streamlined attachment and detaching processes, which require standard ASAE specifications.",
-                "Explaining the benefits of using hitch assist systems for controlling the three-point hitch from the operator station."
+                "Ensure tractor is in park/neutral.",
+                "Check if ground is level; if not, find a level area.",
+                "Use pallets or elevate attachments to prevent corrosion and ease setup.",
+                "Align the center link of the attachment with the top pins on the three-point hitch.",
+                "Attach the lower links first, aligning them with the bottom holes (A, B, C, D based on load type).",
+                "Correct the tie rods for proper leveling (adjust top link angle as needed).",
+                "Unlock or adjust sway arms for better attachment positioning.",
+                "Attach the top link, ensuring proper horizontal and vertical alignment.",
+                "For rear PTO shafts, select correct position (mid or rear) using the PTO select lever.",
+                "Properly engage or activate the chosen PTO shaft using the lever (e.g., moving lever to rear or mid position).",
+                "Ensure attachments are securely connected by testing engagement (e.g., checking key engagement, releasing collar).",
+                "For difficult setups, use extensions or ramps to access attachments from different angles."
             ]
         },
         {
-            "task": "** MAINTASK: Hook up three-point attachments on tractors.",
+            "task": "Setting rate of drop control for safety.",
             "subtasks": [
-                "Position the tractor on level ground.",
-                "Elevate attachments on pallets.",
-                "Align center links with top pin positions.",
-                "Lower the three-point hitch to minimal position.",
-                "Attach lower links first, adjusting as needed.",
-                "Control the rate of drop for smooth attachment.",
-                "Fine-tune top and side links.",
-                "Use hydraulic adjustments for accuracy.",
-                "Properly engage the PTO shaft.",
-                "Employ quick hitches for efficient setup.",
-                "Utilize hitch assist systems for operator control."
+                "Verify the rate of drop control is set to two seconds to lower attachments safely.",
+                "Check the manual or adjust valve settings if necessary to meet the two-second drop time.",
+                "Observe whether the attachment lowers smoothly without a jerk or overshoot.",
+                "Verify no mechanical interference during drop and engage.",
+                "Confirm the rate of drop is consistent across all attachments and tractors."
+            ]
+        },
+        {
+            "task": "Using three-point hitch attachment methods (manual vs. quick hitch).",
+            "subtasks": [
+                "For existing manual hitch systems, ensure proper connection using manual controls (unlatch pins, align bottom holes, latch).",
+                "Utilize quick hitch systems if available for easier attachment and disconnection (position top link, fit into attachment's receiver, secure pin).",
+                "Adhere to ASAE standards for quick hitch compatibility.",
+                "Check height adjustment and lock mechanisms for quick hitches."
             ]
         }
     ]

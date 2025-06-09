@@ -5,14 +5,22 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Caring for mail-order baby chicks upon delivery.",
+            "task": "Caring for mail-order baby chicks upon arrival at home.",
             "subtasks": [
-                "Setting up a brooder with a reflector lamp.",
-                "Ensuring proper temperature for the chicks (100-105 degrees at floor level).",
-                "Using a 125-watt bulb for approximately 25 chicks.",
-                "Providing a heat source that warms the air around the chicks.",
-                "Adjusting the heat source based on chick behavior (huddling indicates too cold; spreading out indicates just right).",
-                "Transitioning chicks to a non-light heat source after 7-10 days."
+                "Setting up brooding environment.",
+                "Choosing appropriate heat lamp (125 watts per 25 chicks).",
+                "Maintaining temperature at 100-105 degrees at floor level.",
+                "Monitoring chicks' behavior to adjust heat as needed.",
+                "Transitioning to lower-heat sources after 7-10 days."
+            ]
+        },
+        {
+            "task": "Brooding mail-order chicks.",
+            "subtasks": [
+                "Providing proper heat source (lamp) for two days of transit effects.",
+                "Adjusting temperature based on chicks' activities (huddling, sleeping, spacing).",
+                "Upgrading to non-light-producing heat sources after initial period.",
+                "Monitoring and adjusting heat gradually over time."
             ]
         }
     ]

@@ -5,45 +5,264 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Apply fertilizer to farmland",
+            "task": "Operating a combine harvester",
             "subtasks": [
-                "Prepare equipment for fertilizer application",
-                "Load fertilizer into equipment",
-                "Navigate to field or farmland",
-                "Apply fertilizer at specified rate",
-                "Document application for record-keeping"
+                "Guiding the combine along the rows of grain",
+                "Adjusting the combine\u2019s height to harvest crops without damaging plants",
+                "Monitoring grain flow through the combine's auger",
+                "Verifying the swath width and distribution of cut crops",
+                "Checking the header\u2019s sharpness and adjustment for efficient cutting",
+                "Engaging the combine's threshing cylinder as needed"
             ]
         },
         {
-            "task": "Monitor and adjust fertilizer application based on FCR",
+            "task": "Applying fertilizer via an aerial spray tanker",
             "subtasks": [
-                "Measure or monitor FCR (Feed Conversion Ratio) data",
-                "Analyze FCR data to determine fertilizer effectiveness",
-                "Adjust fertilizer application as needed based on analysis"
+                "Loading the spray tanker with liquid fertilizer",
+                "Flying the tanker in a steady, even flight path over the crop",
+                "Adjusting spray nozzle settings for optimal coverage",
+                "Monitoring the pressure and flow rates during operation"
             ]
         },
         {
-            "task": "Participate in market transactions for inputs including North Block Finance Corporation (NBFC) loans or credit",
+            "task": "Mowing and baling hay with a self-propelled mower-conditioner",
             "subtasks": [
-                "Review and discuss input costs and financing options with NBFC",
-                "Arrange for financing or loan from NBFC",
-                "Utilize funds from NBFC for farm operations, including fertilizer purchases"
+                "Positioning the conditioner to cut hay at the correct height",
+                "Adjusting the belt width for proper straw management",
+                "Ensuring the bale chamber is functioning properly to form uniform bales",
+                "Operating the hydraulic lift to place bales onto the wagon",
+                "Towing the bale wagon to designated storage areas"
             ]
         },
         {
-            "task": "Check crop yield data and make comparisons",
+            "task": "Planting seeds using a grain drill",
             "subtasks": [
-                "Collect and record crop yield data from previous year (e.g., 15,000 kg)",
-                "Gather current crop yield data for comparison",
-                "Analyze yield data to assess performance and plan future harvests"
+                "Setting the drill depth and seed spacing according to crop requirements",
+                "Ensuring proper seed coverage and adjustment of the press wheels",
+                "Monitoring ground speed to maintain planting efficiency",
+                "Verifying seed moisture content and adjusting if necessary"
             ]
         },
         {
-            "task": "Operate farm machinery on large scales",
+            "task": "Checking soil moisture using a water test",
             "subtasks": [
-                "Drive and operate heavy farming equipment across fields",
-                "Manage fuel and maintenance of farm machinery",
-                "Ensure efficient operation of equipment for various tasks"
+                "Digging a small hole in the soil to observe moisture level",
+                "Comparing soil texture and appearance to determine moisture content",
+                "Determining if soil is too wet or dry for planting"
+            ]
+        },
+        {
+            "task": "Harvesting cotton with a picker unit",
+            "subtasks": [
+                "Navigating the picker through rows of cotton plants",
+                "Adjusting the basket height to capture cotton without damaging plants",
+                "Verifying the picker teeth are clean and effective",
+                "Inspecting the pickup chain for proper operation"
+            ]
+        },
+        {
+            "task": "Threshing grain with a separator",
+            "subtasks": [
+                "Feeding harvested crops into the separator",
+                "Monitoring grain screens and adjusting if necessary",
+                "Ensuring elevator is running smoothly to remove grain",
+                "Oil changes and regular maintenance checks on the separator"
+            ]
+        },
+        {
+            "task": "Applying seed treatment with a fertigun",
+            "subtasks": [
+                "Loading the fertigun with seed treatment solution",
+                "Walking behind the grain drill, applying solution as seeds are planted",
+                "Ensuring correct mixing of the treatment with seeds"
+            ]
+        },
+        {
+            "task": "Operating a spray irrigation system",
+            "subtasks": [
+                "Activating the irrigation system to water crops",
+                "Regulating water pressure and flow rate for efficient use",
+                "Checking for any leaks or malfunctions in the system",
+                "Monitoring weather conditions to adjust watering schedule"
+            ]
+        },
+        {
+            "task": "Applying pesticide via aerial spraying",
+            "subtasks": [
+                "Mixing pesticide in the tanker\u2019s onboard solution tank",
+                "Conducting scout flights to identify pest areas",
+                "Flying over fields to apply pesticide accurately",
+                "Calculating required pesticide volumes and coverage area"
+            ]
+        },
+        {
+            "task": "Checking field for compaction using tire pressure gauge",
+            "subtasks": [
+                "Measuring tire pressure of farm equipment",
+                "Determining appropriate adjustments to reduce soil compaction",
+                "Noting locations requiring air pressure adjustments"
+            ]
+        },
+        {
+            "task": "Adjusting irrigator arm angle on center pivot system",
+            "subtasks": [
+                "Locating the pivot controller and irrigation arms",
+                "Measuring the angle and direction needed for irrigation",
+                "Using hydraulic controls to reposition the irrigation arm"
+            ]
+        },
+        {
+            "task": "Placing livestock in new fields",
+            "subtasks": [
+                "Herding animals from one field to another",
+                "Ensuring fences and gates are secure for the animals",
+                "Observing animal behavior to ensure they are adjusting to new environment"
+            ]
+        },
+        {
+            "task": "Conducting soil pH test using a hand-held meter",
+            "subtasks": [
+                "Collecting soil sample in a core soil probe",
+                "Testing the sample with the pH meter and recording results",
+                "Determining required amendments based on test"
+            ]
+        },
+        {
+            "task": "Identifying plants by pulling a small shoot from the field",
+            "subtasks": [
+                "Observing plant leaves, stem characteristics, and overall growth",
+                "Comparing to reference materials or online resources"
+            ]
+        },
+        {
+            "task": "1. **Operating a Combine Harvester (MAINTASK)**",
+            "subtasks": [
+                "- Guiding the combine through rows (SUBTASK 1)",
+                "- Adjusting height to avoid damaging crops (SUBTASK 2)",
+                "- Checking grain flow through the auger (SUBTASK 3)",
+                "- Verifying swath distribution (SUBTASK 4)",
+                "- Inspecting header sharpness (SUBTASK 5)",
+                "- Activating the threshing cylinder as needed (SUBTASK 6)"
+            ]
+        },
+        {
+            "task": "2. **Aerial Spray Application (MAINTASK)**",
+            "subtasks": [
+                "- Loading liquid fertilizer into a spray tanker (SUBTASK 1)",
+                "- Piloting the tanker evenly over crops (SUBTASK 2)",
+                "- Adjusting nozzle settings for coverage (SUBTASK 3)",
+                "- Monitoring pressure and flow (SUBTASK 4)"
+            ]
+        },
+        {
+            "task": "3. **Mowing and Baling Hay (MAINTASK)**",
+            "subtasks": [
+                "- Positioning the mower-conditioner (SUBTASK 1)",
+                "- Adjusting belt width for straw management (SUBTASK 2)",
+                "- Ensuring bale chamber operation (SUBTASK 3)",
+                "- Operating hydraulic lift for bale placement (SUBTASK 4)",
+                "- Towing bale wagon (SUBTASK 5)"
+            ]
+        },
+        {
+            "task": "4. **Planting Seeds with a Drill (MAINTASK)**",
+            "subtasks": [
+                "- Setting drill depth and spacing (SUBTASK 1)",
+                "- Adjusting press wheels (SUBTASK 2)",
+                "- Monitoring ground speed (SUBTASK 3)",
+                "- Verifying seed moisture (SUBTASK 4)"
+            ]
+        },
+        {
+            "task": "5. **Checking Soil Moisture (MAINTASK)**",
+            "subtasks": [
+                "- Digging test holes (SUBTASK 1)",
+                "- Assessing soil condition (SUBTASK 2)",
+                "- Determining suitability for planting (SUBTASK 3)"
+            ]
+        },
+        {
+            "task": "6. **Harvesting Cotton (MAINTASK)**",
+            "subtasks": [
+                "- Operating the picker unit through rows (SUBTASK 1)",
+                "- Adjusting basket height (SUBTASK 2)",
+                "- Cleaning picker teeth (SUBTASK 3)",
+                "- Inspecting pickup chain (SUBTASK 4)"
+            ]
+        },
+        {
+            "task": "7. **Threshing Grain (MAINTASK)**",
+            "subtasks": [
+                "- Feeding crops into the separator (SUBTASK 1)",
+                "- Monitoring grain screens (SUBTASK 2)",
+                "- Ensuring elevator function (SUBTASK 3)",
+                "- Performing regular maintenance (SUBTASK 4)"
+            ]
+        },
+        {
+            "task": "8. **Applying Seed Treatment (MAINTASK)**",
+            "subtasks": [
+                "- Loading fertigun with solution (SUBTASK 1)",
+                "- Walking behind grain drill to apply (SUBTASK 2)",
+                "- Verifying solution mixing (SUBTASK 3)"
+            ]
+        },
+        {
+            "task": "9. **Operating Spray Irrigation (MAINTASK)**",
+            "subtasks": [
+                "- Activating systems (SUBTASK 1)",
+                "- Regulating water pressure (SUBTASK 2)",
+                "- Checking for leaks (SUBTASK 3)",
+                "- Adjusting based on weather (SUBTASK 4)"
+            ]
+        },
+        {
+            "task": "10. **Aerial Pest Control (MAINTASK)**",
+            "subtasks": [
+                "- Mixing pesticide (SUBTASK 1)",
+                "- Conducting scout flights (SUBTASK 2)",
+                "- Applying pesticide accurately (SUBTASK 3)",
+                "- Calculating application rates (SUBTASK 4)"
+            ]
+        },
+        {
+            "task": "11. **Checking for Soil Compaction (MAINTASK)**",
+            "subtasks": [
+                "- Measuring tire pressure (SUBTASK 1)",
+                "- Determining necessary adjustments (SUBTASK 2)",
+                "- Noting affected areas (SUBTASK 3)"
+            ]
+        },
+        {
+            "task": "12. **Adjusting Center Pivot Irrigation (MAINTASK)**",
+            "subtasks": [
+                "- Locating pivot components (SUBTASK 1)",
+                "- Determining angle/direction (SUBTASK 2)",
+                "- Re-positioning irrigation arm (SUBTASK 3)"
+            ]
+        },
+        {
+            "task": "13. **Placing Livestock (MAINTASK)**",
+            "subtasks": [
+                "- Herding animals (SUBTASK 1)",
+                "- Ensuring fences are secure (SUBTASK 2)",
+                "- Observing animal behavior (SUBTASK 3)"
+            ]
+        },
+        {
+            "task": "14. **Soil pH Testing (MAINTASK)**",
+            "subtasks": [
+                "- Collecting soil samples (SUBTASK 1)",
+                "- Testing pH with a meter (SUBTASK 2)",
+                "- Planning amendments (SUBTASK 3)"
+            ]
+        },
+        {
+            "task": "15. **Plant Identification (MAINTASK)**",
+            "subtasks": [
+                "- Pulling a shoot for analysis (SUBTASK 1)",
+                "- Observing plant characteristics (SUBTASK 2)",
+                "- Consulting references (SUBTASK 3)"
             ]
         }
     ]

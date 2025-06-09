@@ -5,32 +5,21 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Troubleshoot a malfunctioning sprinkler system zone using a voltmeter.",
+            "task": "Troubleshoot issues with a malfunctioning sprinkler zone using a voltmeter.",
             "subtasks": [
-                "Identify the problem (zone won't stop running, won't come on fully, or won't come on at all).",
-                "Check the controller's voltage output for the affected zone.",
-                "Measure resistance on the valve's solenoid using the voltmeter.",
-                "Check wiring connections at the valve box for continuity.",
-                "Replace faulty valve or wiring components as necessary."
-            ]
-        },
-        {
-            "task": "Upgrade or replace a malfunctioning controller.",
-            "subtasks": [
-                "Assess controller compatibility and available terminals.",
-                "Replace faulty modules or upgrade to a smart controller.",
-                "Check for program errors or module seating issues.",
-                "Consider smart controller features (e.g., smartphone integration).",
-                "Purchase and install a new controller if needed."
-            ]
-        },
-        {
-            "task": "Identify electrical components involved in valve activation.",
-            "subtasks": [
-                "Understand the role of the controller, solenoid, and common wire.",
-                "Differentiate between AC and DC solenoids.",
-                "Research valve and solenoid resistance specifications online.",
-                "Transitional step for battery-operated controllers (not applicable here)."
+                "Ensure proper testing tools: multimeter (voltmeter) or solenoid activator.",
+                "Check if the issue is a valve problem.",
+                "For a zone not stopping: replace the valve if not closing fully.",
+                "For a zone not coming on fully: replace the valve if not opening fully.",
+                "For a zone not coming on: check controller, modules, and programming.",
+                "Understand the controller's role in activating the valve.",
+                "Measure voltage between common terminal and zone terminal on the controller.",
+                "Check resistance between common and zone terminals on controller if voltage is low.",
+                "Test solenoid resistance using multimeter: 20-60 ohms for AC systems, 5 ohms for DC.",
+                "Replace solenoid/valve if resistance is low (bad solenoid).",
+                "Check wiring for voltage: 20-30 volts AC.",
+                "Identify and fix wiring issues, such as loose connections or corrosion.",
+                "Use a doubler to operate two valves with one lead wire if needed."
             ]
         }
     ]

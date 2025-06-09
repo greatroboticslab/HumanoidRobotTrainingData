@@ -5,31 +5,479 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Loading apples onto a truck",
+            "task": "Planting seedlings in a field",
             "subtasks": [
-                "Approach the apple storage area",
-                "Open the storage bin door",
-                "Grab a basket or container",
-                "Pick apples from the storage bins",
-                "Place apples into the basket or container",
-                "Transport the basket to the truck",
-                "Unload apples into the truck bed"
+                "Prepare the seedlings",
+                "Bring seedlings to the field",
+                "Dig planting holes",
+                "Plant seedlings into holes",
+                "Cover planted seedlings with soil"
             ]
         },
         {
-            "task": "Securing the cargo",
+            "task": "Checking equipment operation in a field",
             "subtasks": [
-                "Cover the apples with a tarp or net",
-                "Tie down the tarp securely"
+                "Approach the equipment",
+                "Inspect equipment while moving",
+                "Check oil level of equipment",
+                "Tighten any loose parts on equipment",
+                "Operate equipment to till the field"
             ]
         },
         {
-            "task": "Returning to farm operations",
+            "task": "Preparing a riding mower for operation",
             "subtasks": [
-                "Close the storage bin door",
-                "Return tools to their proper place",
-                "Report load completion to supervisor",
-                "Clean hands and equipment as necessary"
+                "Walk to the riding mower",
+                "Check mower oil level",
+                "Check fuel level in mower",
+                "Engage mower through startup procedure",
+                "Test drive the mower to ensure proper operation"
+            ]
+        },
+        {
+            "task": "Loading a clay truck with hay",
+            "subtasks": [
+                "Approach the hay and truck",
+                "Stack hay onto the truck bed",
+                "Secure the hay to prevent shifting",
+                "Lift and position the hay into the truck",
+                "Continue stacking until the truck is full"
+            ]
+        },
+        {
+            "task": "Loading a trailer with wooden blocks",
+            "subtasks": [
+                "Walk to the trailer",
+                "Arrange the wooden blocks on the trailer",
+                "Tie down the blocks to secure them",
+                "Drive the blocks into position on the trailer",
+                "Stack multiple layers of blocks"
+            ]
+        },
+        {
+            "task": "Unloading a clay truck with hay",
+            "subtasks": [
+                "Position the hay offloading equipment",
+                "Lower the hay from the truck",
+                "Separate the hay into piles",
+                "Distribute hay over a field"
+            ]
+        },
+        {
+            "task": "Loading a dump truck with compost",
+            "subtasks": [
+                "Wait for the compost to be loaded",
+                "Inspect the compost for quality",
+                "Assist in dumping the compost into the truck bed",
+                "Confirm the compost is properly loaded"
+            ]
+        },
+        {
+            "task": "Unloading a dump truck with compost",
+            "subtasks": [
+                "Drive the truck to the designated area",
+                "Monitor the emptying of the compost",
+                "Distribute the compost on the field"
+            ]
+        },
+        {
+            "task": "Power washing farming equipment",
+            "subtasks": [
+                "Position the power washer",
+                "Set up the water pressure",
+                "Begin washing the equipment",
+                "Rinse and dry the equipment"
+            ]
+        },
+        {
+            "task": "Watering plants in a greenhouse",
+            "subtasks": [
+                "Carry a water hose to the greenhouse",
+                "Hook the hose to the water source",
+                "Move the hose through the greenhouse",
+                "Water the plants thoroughly"
+            ]
+        },
+        {
+            "task": "Repairing a fence",
+            "subtasks": [
+                "Identify the damaged section of the fence",
+                "Remove weeds or grass from around the fence",
+                "Prepare replacement fence panels",
+                "Align the new panels with existing fence",
+                "Nail or screw the new panels into place",
+                "Check the tightness of all fasteners"
+            ]
+        },
+        {
+            "task": "Checking goat hooves",
+            "subtasks": [
+                "Gather the goats into a working area",
+                "Hold a goat securely",
+                "Trim the goat's hooves using shears or a hoof knife",
+                "Examine the hooves for issues",
+                "Repeat for each goat"
+            ]
+        },
+        {
+            "task": "Feeding chickens",
+            "subtasks": [
+                "Collect feed from storage bin",
+                "Fill feeders in each chicken coop",
+                "Check water levels in each coop",
+                "Distribute feed to the chickens"
+            ]
+        },
+        {
+            "task": "Collecting eggs from chickens",
+            "subtasks": [
+                "Wear protective gear",
+                "Enter the chicken coop quietly",
+                "Collect eggs from nesting boxes",
+                "Place collected eggs in a basket",
+                "Wipe down the nesting boxes",
+                "Inspect eggs for quality"
+            ]
+        },
+        {
+            "task": "Milk a goat",
+            "subtasks": [
+                "Approach the milking area",
+                "Clean the milking area with soap and water",
+                "Apply teat dip and teat guards",
+                "Attach milking machine or udder for manual milking",
+                "Milking the goat thoroughly",
+                "Collect the milk into a container"
+            ]
+        },
+        {
+            "task": "Grafting apple tree branches",
+            "subtasks": [
+                "Select compatible apple tree branches",
+                "Clean grafting tools with alcohol",
+                "Prepare the scion by making a clean cut",
+                "Prepare the rootstock by making a T-bud graft",
+                "Insert the scion into the rootstock",
+                "Secure the graft with grafting tape",
+                "Apply a wrap to protect the graft"
+            ]
+        },
+        {
+            "task": "Repairing a tractor seat cushion",
+            "subtasks": [
+                "Identify the damaged cushion",
+                "Remove the cushion from the tractor",
+                "Disassemble the cushion fabric or cover",
+                "Sew or replace the cushion fabric",
+                "Reattach the cushion to the tractor seat"
+            ]
+        },
+        {
+            "task": "Identifying weeds in a field",
+            "subtasks": [
+                "Walk through the field",
+                "Examine plants for weed characteristics",
+                "Mark or remove identified weeds"
+            ]
+        },
+        {
+            "task": "Removing a broken power pole",
+            "subtasks": [
+                "Confirm the pole is broken",
+                "Signal for assistance or a vehicle",
+                "Remove surrounding soil or brush",
+                "Use a crane or equivalent to lift the pole",
+                "Take down the pole sections carefully",
+                "Dispose of the pole components"
+            ]
+        },
+        {
+            "task": "Slicing a melon",
+            "subtasks": [
+                "Obtain a melon",
+                "Wash the melon",
+                "Cut the melon into slices",
+                "Arrange the slices on a plate"
+            ]
+        },
+        {
+            "task": "Checking the condition of hives",
+            "subtasks": [
+                "Approach the beehives",
+                "Inspect the hives for damage",
+                "Check for signs of pests",
+                "Examine honeycomb for proper development",
+                "Replace any damaged frames"
+            ]
+        },
+        {
+            "task": "Delivering mail in a field, presumably a farmer doing so",
+            "subtasks": [
+                "Collect mail from a mailbox",
+                "Walk from the mailbox to the delivery location",
+                "Read delivery addresses",
+                "Place mail into mailboxes along the route",
+                "Note any mail needing special handling"
+            ]
+        },
+        {
+            "task": "Digging holes for fence posts",
+            "subtasks": [
+                "Clear the site of weeds or grass",
+                "Mark the position for the fence post",
+                "Use a shovel or post hole digger",
+                "Dig a deep, round hole for the post",
+                "Check the depth to ensure proper placement",
+                "Wait for the post to be set",
+                "Refill the hole with soil and tamp down"
+            ]
+        },
+        {
+            "task": "Working with a rope to control a hay baling machine",
+            "subtasks": [
+                "Approach the hay baling machine",
+                "Determine the correct rope usage",
+                "Adjust the rope length and position",
+                "Hold the rope to guide the hay onto the baler",
+                "Assist in securing the bale once formed"
+            ]
+        },
+        {
+            "task": "Planting seedlings in a field",
+            "subtasks": [
+                "Prepare the seedlings",
+                "Bring seedlings to the field",
+                "Dig planting holes",
+                "Plant seedlings into holes",
+                "Cover planted seedlings with soil"
+            ]
+        },
+        {
+            "task": "Checking equipment operation in a field",
+            "subtasks": [
+                "Approach the equipment",
+                "Inspect equipment while moving",
+                "Check oil level of equipment",
+                "Tighten any loose parts on equipment",
+                "Operate equipment to till the field"
+            ]
+        },
+        {
+            "task": "Preparing a riding mower for operation",
+            "subtasks": [
+                "Walk to the riding mower",
+                "Check mower oil level",
+                "Check fuel level in mower",
+                "Engage mower through startup procedure",
+                "Test drive the mower to ensure proper operation"
+            ]
+        },
+        {
+            "task": "Loading a clay truck with hay",
+            "subtasks": [
+                "Approach the hay and truck",
+                "Stack hay onto the truck bed",
+                "Secure the hay to prevent shifting",
+                "Lift and position the hay into the truck",
+                "Continue stacking until the truck is full"
+            ]
+        },
+        {
+            "task": "Loading a trailer with wooden blocks",
+            "subtasks": [
+                "Walk to the trailer",
+                "Arrange the wooden blocks on the trailer",
+                "Tie down the blocks to secure them",
+                "Drive the blocks into position on the trailer",
+                "Stack multiple layers of blocks"
+            ]
+        },
+        {
+            "task": "Unloading a clay truck with hay",
+            "subtasks": [
+                "Position the hay offloading equipment",
+                "Lower the hay from the truck",
+                "Separate the hay into piles",
+                "Distribute hay over a field"
+            ]
+        },
+        {
+            "task": "Loading a dump truck with compost",
+            "subtasks": [
+                "Wait for the compost to be loaded",
+                "Inspect the compost for quality",
+                "Assist in dumping the compost into the truck bed",
+                "Confirm the compost is properly loaded"
+            ]
+        },
+        {
+            "task": "Unloading a dump truck with compost",
+            "subtasks": [
+                "Drive the truck to the designated area",
+                "Monitor the emptying of the compost",
+                "Distribute the compost on the field"
+            ]
+        },
+        {
+            "task": "Power washing farming equipment",
+            "subtasks": [
+                "Position the power washer",
+                "Set up the water pressure",
+                "Begin washing the equipment",
+                "Rinse and dry the equipment"
+            ]
+        },
+        {
+            "task": "Watering plants in a greenhouse",
+            "subtasks": [
+                "Carry a water hose to the greenhouse",
+                "Hook the hose to the water source",
+                "Move the hose through the greenhouse",
+                "Water the plants thoroughly"
+            ]
+        },
+        {
+            "task": "Repairing a fence",
+            "subtasks": [
+                "Identify the damaged section of the fence",
+                "Remove weeds or grass from around the fence",
+                "Prepare replacement fence panels",
+                "Align the new panels with existing fence",
+                "Nail or screw the new panels into place",
+                "Check the tightness of all fasteners"
+            ]
+        },
+        {
+            "task": "Checking goat hooves",
+            "subtasks": [
+                "Gather the goats into a working area",
+                "Hold a goat securely",
+                "Trim the goat's hooves using shears or a hoof knife",
+                "Examine the hooves for issues",
+                "Repeat for each goat"
+            ]
+        },
+        {
+            "task": "Feeding chickens",
+            "subtasks": [
+                "Collect feed from storage bin",
+                "Fill feeders in each chicken coop",
+                "Check water levels in each coop",
+                "Distribute feed to the chickens"
+            ]
+        },
+        {
+            "task": "Collecting eggs from chickens",
+            "subtasks": [
+                "Wear protective gear",
+                "Enter the chicken coop quietly",
+                "Collect eggs from nesting boxes",
+                "Place collected eggs in a basket",
+                "Wipe down the nesting boxes",
+                "Inspect eggs for quality"
+            ]
+        },
+        {
+            "task": "Milk a goat",
+            "subtasks": [
+                "Approach the milking area",
+                "Clean the milking area with soap and water",
+                "Apply teat dip and teat guards",
+                "Attach milking machine or udder for manual milking",
+                "Milking the goat thoroughly",
+                "Collect the milk into a container"
+            ]
+        },
+        {
+            "task": "Grafting apple tree branches",
+            "subtasks": [
+                "Select compatible apple tree branches",
+                "Clean grafting tools with alcohol",
+                "Prepare the scion by making a clean cut",
+                "Prepare the rootstock by making a T-bud graft",
+                "Insert the scion into the rootstock",
+                "Secure the graft with grafting tape",
+                "Apply a wrap to protect the graft"
+            ]
+        },
+        {
+            "task": "Repairing a tractor seat cushion",
+            "subtasks": [
+                "Identify the damaged cushion",
+                "Remove the cushion from the tractor",
+                "Disassemble the cushion fabric or cover",
+                "Sew or replace the cushion fabric",
+                "Reattach the cushion to the tractor seat"
+            ]
+        },
+        {
+            "task": "Identifying weeds in a field",
+            "subtasks": [
+                "Walk through the field",
+                "Examine plants for weed characteristics",
+                "Mark or remove identified weeds"
+            ]
+        },
+        {
+            "task": "Removing a broken power pole",
+            "subtasks": [
+                "Confirm the pole is broken",
+                "Signal for assistance or a vehicle",
+                "Remove surrounding soil or brush",
+                "Use a crane or equivalent to lift the pole",
+                "Take down the pole sections carefully",
+                "Dispose of the pole components"
+            ]
+        },
+        {
+            "task": "Slicing a melon",
+            "subtasks": [
+                "Obtain a melon",
+                "Wash the melon",
+                "Cut the melon into slices",
+                "Arrange the slices on a plate"
+            ]
+        },
+        {
+            "task": "Checking the condition of hives",
+            "subtasks": [
+                "Approach the beehives",
+                "Inspect the hives for damage",
+                "Check for signs of pests",
+                "Examine honeycomb for proper development",
+                "Replace any damaged frames"
+            ]
+        },
+        {
+            "task": "Delivering mail in a field",
+            "subtasks": [
+                "Collect mail from a mailbox",
+                "Walk from the mailbox to the delivery location",
+                "Read delivery addresses",
+                "Place mail into mailboxes along the route",
+                "Note any mail needing special handling"
+            ]
+        },
+        {
+            "task": "Digging holes for fence posts",
+            "subtasks": [
+                "Clear the site of weeds or grass",
+                "Mark the position for the fence post",
+                "Use a shovel or post hole digger",
+                "Dig a deep, round hole for the post",
+                "Check the depth to ensure proper placement",
+                "Wait for the post to be set",
+                "Refill the hole with soil and tamp down"
+            ]
+        },
+        {
+            "task": "Working with a rope to control a hay baling machine",
+            "subtasks": [
+                "Approach the hay baling machine",
+                "Determine the correct rope usage",
+                "Adjust the rope length and position",
+                "Hold the rope to guide the hay onto the baler",
+                "Assist in securing the bale once formed"
             ]
         }
     ]

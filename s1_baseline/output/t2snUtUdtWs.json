@@ -3,5 +3,109 @@
     "title": "Unknown Title",
     "url": "https://www.youtube.com/watch?v=t2snUtUdtWs",
     "category": "Unknown Category",
-    "tasks": []
+    "tasks": [
+        {
+            "task": "Moving horses from pasture to paddock",
+            "subtasks": [
+                "Approach horses in pasture",
+                "Assess horse behavior and health",
+                "Secure gate to pasture",
+                "Lead horses to paddock",
+                "Release gates to paddock"
+            ]
+        },
+        {
+            "task": "Feeding horses",
+            "subtasks": [
+                "Prepare feed containers",
+                "Fill feed troughs with hay",
+                "Distribute water troughs for horses",
+                "Observe horses eating"
+            ]
+        },
+        {
+            "task": "Cleaning out stalls",
+            "subtasks": [
+                "Gather cleaning supplies",
+                "Scrub stall floors with brushes",
+                "Remove manure with rake or shovel",
+                "Replace shavings in stalls"
+            ]
+        },
+        {
+            "task": "Inspecting barn equipment",
+            "subtasks": [
+                "Check toolboxes for necessary tools",
+                "Examine fencing for damage",
+                "Lubricate moving parts of gates",
+                "Tighten any loose screws or bolts"
+            ]
+        },
+        {
+            "task": "Checking on crops",
+            "subtasks": [
+                "Walk through fields to check growth",
+                "Measure plants' heights or inspect for pests",
+                "Document observations with a notebook"
+            ]
+        },
+        {
+            "task": "Liquidating cattle",
+            "subtasks": [
+                "Approach cattle in field",
+                "Herd cattle to designated area",
+                "Restrain cattle for assessment",
+                "Tag and mark cattle for sale"
+            ]
+        },
+        {
+            "task": "Conducting routine veterinary care",
+            "subtasks": [
+                "Prepare examination area",
+                "Administer vaccinations to livestock",
+                "Check deworming schedules",
+                "Perform general health checks on animals"
+            ]
+        },
+        {
+            "task": "Collecting eggs",
+            "subtasks": [
+                "Gather eggs from henhouse",
+                "Place eggs in basket or container",
+                "Clean and sanitize henhouse areas"
+            ]
+        },
+        {
+            "task": "Moving horses from pasture to paddock**",
+            "subtasks": []
+        },
+        {
+            "task": "Feeding horses**",
+            "subtasks": []
+        },
+        {
+            "task": "Cleaning out stalls**",
+            "subtasks": []
+        },
+        {
+            "task": "Inspecting barn equipment**",
+            "subtasks": []
+        },
+        {
+            "task": "Checking on crops**",
+            "subtasks": []
+        },
+        {
+            "task": "Liquidating cattle**",
+            "subtasks": []
+        },
+        {
+            "task": "Conducting routine veterinary care**",
+            "subtasks": []
+        },
+        {
+            "task": "Collecting eggs**",
+            "subtasks": []
+        }
+    ]
 }

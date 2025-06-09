@@ -5,20 +5,44 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Demonstrate how to patch a lay flat header pipe.",
+            "task": "Patching a leak in a lay flat header pipe",
             "subtasks": [
-                "Identify the leak location.",
-                "Cut the lay flat header pipe.",
-                "Prepare the coupling/ Bob splice fitting.",
-                "Align and insert the pipe ends.",
-                "Apply lubricant (optional).",
-                "Secure the pipe with clamps.",
-                "Verify the repair."
+                "Identify the location of the leak",
+                "Cut the lay flat header pipe exactly over the leak",
+                "Prepare the coupling or bob splice fitting",
+                "Secure the pipe with clamps",
+                "Insert the bob splice fitting into both sides of the pipe",
+                "Align and push the separated pipe parts over the fitting",
+                "Apply lubricant (e.g., Vaseline or vegetable oil) to facilitate sliding",
+                "Adjust the clamps past the barbs and tighten them using a screwdriver",
+                "Verify the repair by turning the water on"
             ]
         },
         {
-            "task": "Check and ensure functionality.",
-            "subtasks": []
+            "task": "Installing a simple irrigation system",
+            "subtasks": [
+                "Maintain the irrigation system by performing regular repairs (as demonstrated in the video)"
+            ]
+        },
+        {
+            "task": "MAINTASK: Patching a lay flat header pipe",
+            "subtasks": [
+                "Identify the location of the leak",
+                "Cut the lay flat header pipe exactly over the leak",
+                "Prepare the coupling or bob splice fitting",
+                "Secure the pipe with clamps",
+                "Insert the bob splice fitting into both sides of the pipe",
+                "Align and push the separated pipe parts over the fitting",
+                "Apply lubricant (e.g., Vaseline or vegetable oil) to facilitate sliding",
+                "Adjust the clamps past the barbs and tighten them using a screwdriver",
+                "Verify the repair by turning the water on"
+            ]
+        },
+        {
+            "task": "Installing a simple irrigation system",
+            "subtasks": [
+                "Maintain the irrigation system by performing regular repairs (as demonstrated in the video)"
+            ]
         }
     ]
 }

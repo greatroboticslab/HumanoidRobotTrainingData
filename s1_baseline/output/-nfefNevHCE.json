@@ -5,18 +5,121 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Generate a list of tasks a small-scale farmer would need to perform based on the given transcript.",
+            "task": "Identify profitable crops for small-scale farmers",
             "subtasks": [
-                "Note the five most profitable crops for small-scale farmers discussed in the transcript.",
-                "List the tasks associated with growing each crop mentioned.",
-                "Ensure all tasks are relevant to physical farming activities and not just financial advice."
+                "Calculate profit for beans",
+                "Calculate profit for jumbo peas (Minji)",
+                "Calculate profit for coriander (nail)",
+                "Calculate profit for green maize",
+                "Calculate profit for indigenous vegetables"
             ]
         },
         {
-            "task": "Generate a list of tasks a small-scale farmer would need to perform based on the given transcript.",
+            "task": "Understand factors contributing to crop profitability",
             "subtasks": [
-                "Note the five most profitable crops discussed:",
-                "List tasks associated with growing each crop:"
+                "Consider maturation time",
+                "Evaluate market demand and perishability",
+                "Account for production costs (labor, inputs)",
+                "Factor in potential revenue from different markets (local, specialized)",
+                "Assess long-term viability and sustainability"
+            ]
+        },
+        {
+            "task": "Tasks include analyzing profit potential for crops like beans, Minji, coriander, green maize, and indigenous vegetables. Calculations involve costs, yields, and market prices, teaching farmers how to maximize profits through informed crop choices. MAINTASK followed by respective subtasks focusing on specific crops and their profitability.",
+            "subtasks": []
+        },
+        {
+            "task": "Generate tasks based on a video transcript about profitable crops for small-scale farmers, ensuring they are directly related to physical farming activities. MAINTASKs focus on calculating profit for different crops, understanding factors affecting profitability, and selecting the most suitable options. These tasks are essential for small-scale farmers to optimize their agricultural practices and increase income. Transcript is relevant, thus accepted.",
+            "subtasks": [
+                "The transcript is relevant as it discusses profitable crops for small-scale farmers, providing calculations and factors contributing to their success. The generated MAINTASKs and SUBTASKs are appropriate and directly related to the content."
+            ]
+        },
+        {
+            "task": "The user's request is related to generating tasks based on a video transcript about profitable crops for small-scale farmers. The MAINTASKs and subtasks should center around identifying and calculating profit for the mentioned crops. The transcript is relevant as it deals with practical, agricultural content, making the tasks directly applicable to farming.",
+            "subtasks": []
+        },
+        {
+            "task": "Identify profitable crops for small-scale farmers",
+            "subtasks": [
+                "Calculate profit for beans",
+                "Calculate profit for jumbo peas (Minji)",
+                "Calculate profit for coriander (nail)",
+                "Calculate profit for green maize",
+                "Calculate profit for indigenous vegetables"
+            ]
+        },
+        {
+            "task": "Understand factors contributing to crop profitability",
+            "subtasks": [
+                "Consider maturation time",
+                "Evaluate market demand and perishability",
+                "Account for production costs (labor, inputs)",
+                "Factor in potential revenue from different markets (local, specialized)",
+                "Assess long-term viability and sustainability"
+            ]
+        },
+        {
+            "task": "Identify profitable crops for small-scale farmers**",
+            "subtasks": [
+                "** Calculate profit for beans",
+                "** Calculate profit for jumbo peas (Minji)",
+                "** Calculate profit for coriander (nail)",
+                "** Calculate profit for green maize",
+                "** Calculate profit for indigenous vegetables"
+            ]
+        },
+        {
+            "task": "Understand factors contributing to crop profitability**",
+            "subtasks": [
+                "** Consider maturation time",
+                "** Evaluate market demand and perishability",
+                "** Account for production costs (labor, inputs)",
+                "** Factor in potential revenue from different markets (local, specialized)",
+                "** Assess long-term viability and sustainability"
+            ]
+        },
+        {
+            "task": "The user's request asked for tasks related to the given transcript, which discusses profitable crops for small-scale farmers. The relevant MAINTASKs and subtasks are provided, focusing on identifying and calculating the profitability of different crops. Each main task (MAINTASK) is followed by specific subtasks that involve calculations and considerations important for small-scale farming. The activities are directly aligned with the content of the transcript, making the engagement relevant to farm management and profitability.",
+            "subtasks": []
+        },
+        {
+            "task": "Identify profitable crops for small-scale farmers",
+            "subtasks": [
+                "Calculate profit for beans",
+                "Calculate profit for jumbo peas (Minji)",
+                "Calculate profit for coriander (nail)",
+                "Calculate profit for green maize",
+                "Calculate profit for indigenous vegetables"
+            ]
+        },
+        {
+            "task": "Understand factors contributing to crop profitability",
+            "subtasks": [
+                "Consider maturation time",
+                "Evaluate market demand and perishability",
+                "Account for production costs (labor, inputs)",
+                "Factor in potential revenue from different markets (local, specialized)",
+                "Assess long-term viability and sustainability"
+            ]
+        },
+        {
+            "task": "Identify profitable crops for small-scale farmers",
+            "subtasks": [
+                "Calculate profit for beans",
+                "Calculate profit for jumbo peas (Minji)",
+                "Calculate profit for coriander (nail)",
+                "Calculate profit for green maize",
+                "Calculate profit for indigenous vegetables"
+            ]
+        },
+        {
+            "task": "Understand factors contributing to crop profitability",
+            "subtasks": [
+                "Consider maturation time",
+                "Evaluate market demand and perishability",
+                "Account for production costs (labor, inputs)",
+                "Factor in potential revenue from different markets (local, specialized)",
+                "Assess long-term viability and sustainability"
             ]
         }
     ]

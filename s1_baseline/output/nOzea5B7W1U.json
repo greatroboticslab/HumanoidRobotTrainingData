@@ -5,30 +5,349 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Preparing the soil and planting oats, barley, and field peas",
+            "task": "Preparing the soil and planting grains.",
             "subtasks": [
-                "Knocking down the previous year's vegetation",
-                "Disking the topsoil to a depth of an inch or two",
-                "Spreading horse manure and composted horse manure on the field",
-                "Tilling the soil again to incorporate the manure.",
-                "Planting seeds using a single-row seeder",
-                "Marking rows every eight inches for planting",
-                "Modifying sealing discs to achieve the desired seeding rate",
-                "Broadcasting seeds in straight rows for better weed management",
-                "Ensuring a proper seeding depth of three-quarters of an inch to an inch"
+                "Walking behind a tiller to disk the soil.",
+                "Broadcasting horse manure across the field.",
+                "Running a seeder between white poles to plant rows of oats, barley, and field peas.",
+                "Adjusting the seeder's discs to achieve the desired seeding rate.",
+                "Walking in rows to cover the planted seeds and ensure proper depth.",
+                "Weed management using high wheel hoes to control competing weeds."
             ]
         },
         {
-            "task": "MAINTASK: Preparing the soil and planting oats, barley, and field peas",
+            "task": "Prepare the soil by tilling. Then, after tilling, he's going to spread composted horse manure for fertilizer. Maybe that can be another task: Apply composted manure to the field.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting grains in a prepared field. Under that, the subtasks would include:",
             "subtasks": [
-                "Knocking down the previous year's vegetation (disking the topsoil)",
-                "Spreading horse manure and composted horse manure on the field",
-                "Tilling the soil again to incorporate the manure",
-                "Planting seeds using a single-row seeder, adjusting seeding discs for rate",
-                "Marking rows every eight inches for precise planting",
-                "Broadcasting seeds in straight rows",
-                "Ensuring a proper seeding depth of three-quarters to one inch"
+                "4. Adjusting the seeding rate. He's doing a certain number of seeds per foot, but since he doesn't have a big seeder, he\u2019s modifying it with tape and discs to get the right amount. So, a SUBTASK here would be Adjust the seeder's discs to control the number of seeds per row."
             ]
+        },
+        {
+            "task": "Tilling and fertilizing the field.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "Managing weeds.",
+            "subtasks": []
+        },
+        {
+            "task": "Tilling and fertilizing the soil.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "Weed control.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Planting grains in a prepared field.",
+            "subtasks": []
+        },
+        {
+            "task": "Applying composted horse manure to the field.",
+            "subtasks": []
+        },
+        {
+            "task": "Managing weeds after planting.",
+            "subtasks": []
+        },
+        {
+            "task": "Tilling the field to prepare it for planting.",
+            "subtasks": []
+        },
+        {
+            "task": "Applying composted horse manure as fertilizer.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting grains (oats, barley, field peas) in rows using a seeder.",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the field for planting.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "Apply weed management practices.",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the field (tilling and fertilizing).",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the soil and apply manure.",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the field for planting.",
+            "subtasks": [
+                "Walk behind a disc tiller (depth of 1-2 inches) to disk existing vegetation, then walk again to the next row or spot.",
+                "Broadcast spread composted horse manure using a manual method (sack or apron).",
+                "Walk behind the disc tiller again to incorporate the manure into the soil."
+            ]
+        },
+        {
+            "task": "Plant the grains using a seeder.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "TILL the field.",
+            "subtasks": []
+        },
+        {
+            "task": "APPLY FERTILIZER.",
+            "subtasks": []
+        },
+        {
+            "task": "PLANT the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "CONTROL WEEDS.",
+            "subtasks": []
+        },
+        {
+            "task": "Tilling and Preparing the Soil.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "Weed Control.",
+            "subtasks": []
+        },
+        {
+            "task": "Therefore, the transcript focuses on those three things, so one MAINTASK (Till, spread, and plant), with multiple subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Tilling the soil to prepare for planting.",
+            "subtasks": []
+        },
+        {
+            "task": "Distributing composted horse manure.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "Weed control.",
+            "subtasks": []
+        },
+        {
+            "task": "TILLING, FERTILIZING, and PLANTING.",
+            "subtasks": []
+        },
+        {
+            "task": "TILL the field.",
+            "subtasks": []
+        },
+        {
+            "task": "APPLY FERTILIZER.",
+            "subtasks": []
+        },
+        {
+            "task": "PLANT the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Walk behind a disc tiller to till.",
+            "subtasks": []
+        },
+        {
+            "task": "Broadcast spread composted horse manure.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant the grains using a seeder.",
+            "subtasks": []
+        },
+        {
+            "task": "Hoe between rows to remove emerging weeds.",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the field for planting.",
+            "subtasks": []
+        },
+        {
+            "task": "Apply FERTILIZER.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "TILL the field for planting.",
+            "subtasks": []
+        },
+        {
+            "task": "APPLY COMPOSTED HORSE MANURE.",
+            "subtasks": []
+        },
+        {
+            "task": "SOW the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "TUSH it the field and APPLY FERTILIZER and then PLANT the crops. Given the order of the syllabification, make four MAINTASKs, OR better integrate all into two.",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the soil and apply manure.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "Manage weeds.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant field in preparation for grain production.*",
+            "subtasks": []
+        },
+        {
+            "task": "But as they might want written in multiple lines. Each step is the MAIN task with related subtasks. But the instruction says to generate a series of tasks, each on a separate line, beginning with MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "Till the field.",
+            "subtasks": []
+        },
+        {
+            "task": "Apply composted horse manure.",
+            "subtasks": []
+        },
+        {
+            "task": "TILL the field and APPLY FERTILIZER**",
+            "subtasks": []
+        },
+        {
+            "task": "PLANT the grains**",
+            "subtasks": []
+        },
+        {
+            "task": "Till the field (first pass to remove vegetation; second pass to integrate manure).",
+            "subtasks": []
+        },
+        {
+            "task": "Apply composted horse manure.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "** Prepare the field",
+            "subtasks": []
+        },
+        {
+            "task": "** Plant the grains (after stabilizing the manure with another pass).",
+            "subtasks": []
+        },
+        {
+            "task": "** TILL the field, SPREAD manure, and MIX in the soil.",
+            "subtasks": []
+        },
+        {
+            "task": "TILL and FERTILIZE the field.",
+            "subtasks": []
+        },
+        {
+            "task": "PLANT the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "Control weeds.",
+            "subtasks": []
+        },
+        {
+            "task": "TILL the field.",
+            "subtasks": []
+        },
+        {
+            "task": "Apply composted horse manure.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "TILL the field.",
+            "subtasks": []
+        },
+        {
+            "task": "APPLY FERTILIZER.",
+            "subtasks": []
+        },
+        {
+            "task": "PLANT the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "Given that the transcript finishes with weeds down once the crops are up, and part two deals with weed control. So unless the user wants to include all tasks, the answer should be three separate MAINTASKs. Hence final Answer.",
+            "subtasks": []
+        },
+        {
+            "task": "TILL the field.",
+            "subtasks": []
+        },
+        {
+            "task": "APPLY FERTILIZER.",
+            "subtasks": []
+        },
+        {
+            "task": "PLANT the grains.",
+            "subtasks": []
+        },
+        {
+            "task": "** Prepare the field.",
+            "subtasks": []
+        },
+        {
+            "task": "** Plant the grains.",
+            "subtasks": []
         }
     ]
 }

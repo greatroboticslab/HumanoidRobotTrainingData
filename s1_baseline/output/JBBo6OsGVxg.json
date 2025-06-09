@@ -5,100 +5,263 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Attaching and operating a chopper head.",
+            "task": "Planting tomatoes in a garden",
             "subtasks": [
-                "Walking to the chopper head.",
-                "Checking the attachments.",
-                "Securing the chopper head to the tractor.",
-                "Adjusting the mounted chopper head.",
-                "Starting the tractor engine.",
-                "Driving the tractor to the field.",
-                "Operating the chopper head while moving the tractor."
+                "Walking to the garden",
+                "Bending down to reach garden plot",
+                "Holding hands dirty/seedling tray",
+                "Inserting tomato seedlings into soil",
+                "Watering newly planted seedlings"
             ]
         },
         {
-            "task": "Cutting hay with a swather.",
+            "task": "Checking on crops in the field",
             "subtasks": [
-                "Walking to the swather.",
-                "Checking the swather's settings.",
-                "Securing the swather to the tractor.",
-                "Starting the swather engine.",
-                "Driving the tractor to the hay field.",
-                "Using the swather to cut hay."
+                "Walking to the field",
+                "Observing crop rows from a walking route",
+                "Kneeling or squatting to check individual plants",
+                "Checking for pests or diseases",
+                "Recalling the last time the crops were watered",
+                "Measuring soil moisture (if applicable)",
+                "Checking for signs of weed growth",
+                "Considering the stage of crop growth"
             ]
         },
         {
-            "task": "Loading hay onto a trailer.",
+            "task": "Harvesting apples",
             "subtasks": [
-                "Walking to the hay stack and trailer.",
-                "Moving the hay from the stack to the trailer.",
-                "Stacking hay on the trailer.",
-                "Securing the hay on the trailer."
+                "Walking to the apple orchard",
+                "Detecting ripe apples through color and firmness",
+                "Climbing a ladder to reach upper branches",
+                "Picking apples off the tree",
+                "Removing fallen apples from the ground",
+                "Stacking apples in a basket or bin"
             ]
         },
         {
-            "task": "Delivering hay to a storage area.",
+            "task": "Loading harvested apples onto a truck",
             "subtasks": [
-                "Walking to the trailer.",
-                "Detaching the trailer from the tractor.",
-                "Driving the tractor to the storage area.",
-                "Parking the tractor near the storage area.",
-                "Directing the trailer to a designated spot.",
-                "Unloading the hay from the trailer."
+                "Walking to the truck",
+                "Unloading apples from the orchard onto the truck",
+                "Ensuring apples are not damaged in transit",
+                "Securing apples in the truck bed"
             ]
         },
         {
-            "task": "Operating a combine harvester.",
+            "task": "Transferring apples from the truck to storage",
             "subtasks": [
-                "Walking to the combine harvester.",
-                "Checking the combine's settings.",
-                "Starting the combine engine.",
-                "Driving the combine to the crop field.",
-                "Operating the combine to harvest the crops."
+                "Walking to the storage facility",
+                "Unloading apples from the truck",
+                "Sorting apples by size or quality",
+                "Storing apples in a cool, dry place"
             ]
         },
         {
-            "task": "Seeding a field.",
+            "task": "Fluid check for the tractor",
             "subtasks": [
-                "Walking to the seed drill.",
-                "Checking the seed drill's settings.",
-                "Securing the seed drill to the tractor.",
-                "Starting the seed drill's engine.",
-                "Attaching seed packets to the drill.",
-                "Driving the tractor with the seed drill to the field.",
-                "Planting seeds using the seed drill."
+                "Walking to the tractor",
+                "Opening the fluid reservoir\u76d6\u4e86\u4e00\u90e8\u5206\u6587\u4ef6",
+                "The final answer is a list of the tasks derived from the transcript. Each task is prefixed with \"MAINTASK:\" and associated subtasks with \"SUBTASK:\"."
             ]
         },
         {
-            "task": "Attaching and operating a fertilizer spreader.",
+            "task": "Planting tomatoes in a garden (assuming a similar task to planting apples)",
+            "subtasks": []
+        },
+        {
+            "task": "Transplanting apple trees",
+            "subtasks": []
+        },
+        {
+            "task": "Planting apple trees in an orchard",
             "subtasks": [
-                "Walking to the fertilizer spreader.",
-                "Checking the spreader's settings.",
-                "Securing the spreader to the tractor.",
-                "Starting the spreader's engine.",
-                "Attaching fertilizer bags to the spreader.",
-                "Driving the tractor with the spreader to the field.",
-                "Spraying or spreading fertilizer over the field."
+                "Walking to the orchard",
+                "Digging holes",
+                "Transplanting saplings",
+                "Filling soil",
+                "Watering"
             ]
         },
         {
-            "task": "Attaching and using a bale net.",
+            "task": "Pruning apple trees",
             "subtasks": [
-                "Walking to the bale net.",
-                "Checking the bale net's functionality.",
-                "Securing the bale net to the tractor.",
-                "Starting the bale net's engine.",
-                "Driving the tractor with the bale net to the hay field.",
-                "Using the bale net to form hay bales."
+                "Climbing a ladder",
+                "Using pruning shears",
+                "Removing dead branches"
             ]
         },
         {
-            "task": "Weighing hay bales with a scale.",
+            "task": "Harvesting apples",
             "subtasks": [
-                "Walking to the bale scale.",
-                "Preparing the scale to measure bales.",
-                "Loading a bale onto the scale.",
-                "Recording the weight of the bale."
+                "Detecting ripe apples",
+                "Climbing ladder",
+                "Picking apples",
+                "Collecting apples from ground"
+            ]
+        },
+        {
+            "task": "Loading apples onto a truck",
+            "subtasks": [
+                "Weighing apples",
+                "Stacking them neatly",
+                "Securing load"
+            ]
+        },
+        {
+            "task": "Unloading apples at market/shop",
+            "subtasks": [
+                "Sorting apples by size",
+                "Checking for damage",
+                "Storing in appropriate area"
+            ]
+        },
+        {
+            "task": "Checking for pests/diseases",
+            "subtasks": [
+                "Inspecting foliage and fruit",
+                "Applying treatments if necessary"
+            ]
+        },
+        {
+            "task": "Operating a tractor",
+            "subtasks": [
+                "Driving around orchards",
+                "Applying fertilizer",
+                "Moving equipment"
+            ]
+        },
+        {
+            "task": "Planting tomatoes in a garden (assuming a related activity)",
+            "subtasks": []
+        },
+        {
+            "task": "Checking on crops in the field",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting apples",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a tractor",
+            "subtasks": []
+        },
+        {
+            "task": "Planting tomatoes in a garden",
+            "subtasks": [
+                "Walking to the garden",
+                "Bending down to reach garden plot",
+                "Holding hands dirty/seedling tray",
+                "Inserting tomato seedlings into soil",
+                "Watering newly planted seedlings"
+            ]
+        },
+        {
+            "task": "Checking on crops in the field",
+            "subtasks": [
+                "Walking to the field",
+                "Observing crop rows from a walking route",
+                "Kneeling or squatting to check individual plants",
+                "Checking for pests or diseases",
+                "Recalling the last time the crops were watered",
+                "Measuring soil moisture (if applicable)",
+                "Checking for signs of weed growth",
+                "Considering the stage of crop growth"
+            ]
+        },
+        {
+            "task": "Harvesting apples",
+            "subtasks": [
+                "Walking to the apple orchard",
+                "Detecting ripe apples through color and firmness",
+                "Climbing a ladder to reach upper branches",
+                "Picking apples off the tree",
+                "Removing fallen apples from the ground",
+                "Stacking apples in a basket or bin"
+            ]
+        },
+        {
+            "task": "Loading harvested apples onto a truck",
+            "subtasks": [
+                "Walking to the truck",
+                "Unloading apples from the orchard onto the truck",
+                "Ensuring apples are not damaged in transit",
+                "Securing apples in the truck bed"
+            ]
+        },
+        {
+            "task": "Transferring apples from the truck to storage",
+            "subtasks": [
+                "Walking to the storage facility",
+                "Unloading apples from the truck",
+                "Sorting apples by size or quality",
+                "Storing apples in a cool, dry place"
+            ]
+        },
+        {
+            "task": "Fluid check for the tractor",
+            "subtasks": [
+                "Walking to the tractor",
+                "Opening the fluid reservoir\u4e5f\u662f\u5199\u5b8c\u4e86\u5417\uff1f"
+            ]
+        },
+        {
+            "task": "MAINTASK: Planting tomatoes in a garden",
+            "subtasks": [
+                "Walking to the garden",
+                "Bending down to reach garden plot",
+                "Holding hands (corrected: holding a dirty seedling tray)",
+                "Inserting tomato seedlings into soil",
+                "Watering newly planted seedlings"
+            ]
+        },
+        {
+            "task": "Checking on crops in the field",
+            "subtasks": [
+                "Walking to the field",
+                "Observing crop rows from a walking route",
+                "Kneeling or squatting to check individual plants",
+                "Checking for pests or diseases",
+                "Recalling the last time the crops were watered",
+                "Measuring soil moisture (if applicable)",
+                "Checking for signs of weed growth",
+                "Considering the stage of crop growth"
+            ]
+        },
+        {
+            "task": "Harvesting apples",
+            "subtasks": [
+                "Walking to the apple orchard",
+                "Detecting ripe apples through color and firmness",
+                "Climbing a ladder to reach upper branches",
+                "Picking apples off the tree",
+                "Removing fallen apples from the ground",
+                "Stacking apples in a basket or bin"
+            ]
+        },
+        {
+            "task": "Loading harvested apples onto a truck",
+            "subtasks": [
+                "Walking to the truck",
+                "Unloading apples from the orchard onto the truck",
+                "Ensuring apples are not damaged in transit",
+                "Securing apples in the truck bed"
+            ]
+        },
+        {
+            "task": "Transferring apples from the truck to storage",
+            "subtasks": [
+                "Walking to the storage facility",
+                "Unloading apples from the truck",
+                "Sorting apples by size or quality",
+                "Storing apples in a cool, dry place"
+            ]
+        },
+        {
+            "task": "Fluid check for the tractor",
+            "subtasks": [
+                "Walking to the tractor",
+                "Opening the fluid reservoir"
             ]
         }
     ]

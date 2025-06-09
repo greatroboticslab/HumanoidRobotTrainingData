@@ -5,80 +5,156 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Planting seeds in a field.",
+            "task": "Operate a combine header",
             "subtasks": [
-                "Arrive at the planting area.",
-                "Drive the tractor towards the field.",
-                "Adjust the seed drill attachment to be properly placed in front of the tractor.",
-                "Start the tractor engine.",
-                "Attach the seed drill to the tractor.",
-                "Check the seed drill settings (e.g., depth, spacing) for optimal planting.",
-                "Make sure the seed hopper is filled with the appropriate seeds.",
-                "Check that the tractor is in the correct driving position for planting.",
-                "Begin driving the tractor through the field.",
-                "Monitor the seeder to ensure proper seed placement and proper backfill covering the seeds."
+                "Approach the combine",
+                "Identify the combine header components",
+                "Secure the header to the combine",
+                "Check the attachments for proper fit",
+                "Attach the header sections sequentially",
+                "Ensure each attachment is secure",
+                "Verify the overall header configuration",
+                "Engage the header safety mechanisms"
             ]
         },
         {
-            "task": "Operating the farm tractor.",
+            "task": "Enter the combine cab",
             "subtasks": [
-                "Starting the farm tractor at the beginning of the workday.",
-                "Performing regular maintenance on the tractor (e.g., oil changes, checking tire pressure, fluid levels).",
-                "Attaching various implements to the tractor for different farming operations (e.g., plow, harrow, mower).",
-                "Operating the tractor to transport farm equipment and supplies to the field."
+                "Open the combine doors",
+                "Step into the combine cab",
+                "Adjust the seat to a comfortable position",
+                "Position the seat belt around the waist",
+                "Secure the seat belt",
+                "Adjust the steering wheel for optimal reach"
             ]
         },
         {
-            "task": "Attaching equipment to the tractor.",
+            "task": "Operate the combine steering",
             "subtasks": [
-                "Preparing the equipment (e.g., seed drill, fertilizer spreader) before attaching to the tractor.",
-                "Ensuring the equipment is properly connected to the tractor's drawbar or other attachment points.",
-                "Securing implements (if necessary) to prevent them from coming loose during operation."
+                "Engage the steering wheel",
+                "Adjust the steering sensitivity as needed",
+                "Turn the combine left and right to check maneuverability"
             ]
         },
         {
-            "task": "Checking equipment settings.",
+            "task": "Operate the combine hydraulics",
             "subtasks": [
-                "Verifying the depth and spacing of the seed drill is set according to the plan.",
-                "Adjusting the settings as needed to correct any deviations from the desired planting parameters.",
-                "Ensuring all attachments are operating correctly (e.g., seed spreader's mechanism, fill tube for refilling the hopper)."
+                "Activate the header lift cylinders",
+                "Elevate the header to the desired height",
+                "Monitor the header height during operation",
+                "Ensure proper engagement of the shield"
             ]
         },
         {
-            "task": "Ensuring safety while driving the tractor.",
+            "task": "Start the combine engine",
             "subtasks": [
-                "Wearing appropriate safety gear (e.g., seatbelt, safety glasses, reflective clothing) while operating the tractor.",
-                "Checking the tractor's safety equipment (e.g., roll-over protection structure, emergency brakes) before operation."
+                "Check the engine oil level",
+                "Inspect the fuel tank for sufficient fuel",
+                "Test the engine starter",
+                "Start the engine and monitor for any issues"
             ]
         },
         {
-            "task": "Adapting to field conditions.",
+            "task": "Assemble the combine header settings",
             "subtasks": [
-                "Observing the terrain and adjusting the tractor's speed or equipment settings to manage slope or uneven areas.",
-                "Checking for any obstructions on the field that could interfere with equipment operation or planting."
+                "Set the header according to the crop type",
+                "Adjust the reel speed for optimal crop pickup",
+                "Configure the swath width for efficient operation",
+                "Set the correct gathering chain speed",
+                "Adjust the header height for optimal catching"
             ]
         },
         {
-            "task": "Collecting and disposing of materials.",
+            "task": "Monitor combine operation",
             "subtasks": [
-                "Storing unused seeds or other supplies in their proper containers or locations.",
-                "Removing any empty seed packets or packaging from the planting area."
+                "Keep an eye on the crop flow into the machine",
+                "Check for blockages in the header",
+                "Listen for any unusual noises or sounds indicating problems"
             ]
         },
         {
-            "task": "Recording progress and data.",
+            "task": "Harvest crops while driving the combine",
             "subtasks": [
-                "Noting the number of acres or rows planted, seed rates, and other relevant data for farm records."
+                "Drive the combine at the appropriate speed",
+                "Manipulate the steering to follow the correct path",
+                "Monitor the direction for any obstructions",
+                "Overcome ditches or uneven ground"
             ]
         },
         {
-            "task": "Refueling the farm equipment.",
+            "task": "Check for potential hazards",
             "subtasks": [
-                "Locating the nearest fuel supply for the farm's fuel tanks.",
-                "Preparing the fueling equipment (if needed) and ensuring proper connection to the tractor.",
-                "Refueling the tractor's fuel tank, ensuring not to overfill.",
-                "Properly storing any fuel containers and disposing of any excess fuel safely."
+                "Look out for nearby power lines or fences",
+                "Be cautious around trees or other structures"
             ]
+        },
+        {
+            "task": "Perform final adjustments",
+            "subtasks": [
+                "Adjust the combine settings as crop type changes",
+                "Fine-tune the header settings as needed"
+            ]
+        },
+        {
+            "task": "Shutdown the combine",
+            "subtasks": [
+                "Bring the combine to a safe location",
+                "Lower the header and detach the sections",
+                "Disengage the header safety mechanisms",
+                "Turn off the engine",
+                "Close the combine doors",
+                "Inspect header for wear and tear after use",
+                "Clean the header components to prevent buildup",
+                "Lubricate moving parts as needed"
+            ]
+        },
+        {
+            "task": "Drive the combine to the next field",
+            "subtasks": [
+                "Approach the next field entrance",
+                "Drive through the gate or opening",
+                "Align the combine with the desired field path"
+            ]
+        },
+        {
+            "task": "Check the combine's fuel and hydraulic fluid levels",
+            "subtasks": [
+                "Monitor fuel gauge during operations",
+                "Check hydraulic fluid levels",
+                "Refill as necessary"
+            ]
+        },
+        {
+            "task": "Operate a combine header**",
+            "subtasks": []
+        },
+        {
+            "task": "Enter the combine cab**",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the combine steering**",
+            "subtasks": []
+        },
+        {
+            "task": "Operate combine hydraulics**",
+            "subtasks": []
+        },
+        {
+            "task": "Start the combine engine**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest crops while driving the combine**",
+            "subtasks": []
+        },
+        {
+            "task": "Drive combine to next field**",
+            "subtasks": []
+        },
+        {
+            "task": "Maintain combine header**",
+            "subtasks": []
         }
     ]
 }

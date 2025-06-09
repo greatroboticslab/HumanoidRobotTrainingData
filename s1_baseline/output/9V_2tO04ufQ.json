@@ -5,68 +5,211 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Performing morning routine for horses upon their return home.",
+            "task": "Performing morning routine for horses.",
             "subtasks": [
-                "Feeding horses (Sam and Sophie division of labor).",
-                "Checking horses' stalls and feeding areas.",
-                "Ensuring horses' access to food and water.",
-                "Grooming and interactions with horses (e.g., Penny, Storm, Willow's relationship).",
-                "Managing barn cleanliness (cleaning stalls, removing excess bedding).",
-                "Preparing for evening chores (getting grain ready, throwing hay)."
+                "Feed horses.",
+                "Check stalls and clean as needed.",
+                "Ensure proper hay and water availability.",
+                "Monitor horse behavior and social interactions.",
+                "Clean barn and stalls.",
+                "Prepare morning chores for other animals (e.g., goats, ducks).",
+                "Engage in barn renovations and improvements."
             ]
         },
         {
-            "task": "Managing small livestock (goats and ducks).",
+            "task": "Feeding and caring for goats.",
             "subtasks": [
-                "Ensuring safety and proper enclosure for goats.",
-                "Feeding and caring for ducks and geese.",
-                "Cleaning duck pond and water areas."
+                "Check goats' wellbeing.",
+                "Ensure goats have adequate food and water.",
+                "Manage goats' movement within the barn."
             ]
         },
         {
-            "task": "Barn renovations and future plans.",
+            "task": "Cleaning and maintaining the barn.",
             "subtasks": [
-                "Discussing plans for barn improvements (walls, shelving, flooring).",
-                "Preparing for horse comfort and care (cleaning, water sources, grooming areas).",
-                "Considering future farm expansions (Tech room, horse-friendly barn)."
+                "Removing accumulations from overnight activities (feces, bedding).",
+                "Prepare areas for future use (e.g., wash area for horses).",
+                "Address minor issues (e.g., vines tripping)."
             ]
         },
         {
-            "task": "Performing morning routine for horses upon their return home",
+            "task": "Interacting with barn animals.",
             "subtasks": [
-                "Feeding horses",
-                "Stall and pen management",
-                "Animal interactions and conflict resolution",
-                "Barn and livestock management"
+                "Engage with horses (e.g., brushing, observing).",
+                "Engage with goats (e.g., handling, observing).",
+                "Monitoring barn cats (e.g., Ellie, Ollie) in their designated areas."
             ]
         },
         {
-            "task": "Barn renovation plans and preparations",
+            "task": "Planning and executing barn renovations.",
             "subtasks": [
-                "Discuss plans for barn improvements"
+                "Organize shelving, hooks, and storage solutions.",
+                "Consider layout updates for optimal horse comfort.",
+                "I need to structure it with MAINTASK and SUBTASK as specified."
             ]
         },
         {
-            "task": "Performing morning routine for horses upon their return home.",
+            "task": "Performing morning routine for horses.",
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Performing morning routine for horses upon their return home",
+            "task": "Feeding and caring for goats. Subtasks include:",
+            "subtasks": []
+        },
+        {
+            "task": "Cleaning and maintaining the barn. Subtasks include:",
+            "subtasks": []
+        },
+        {
+            "task": "Engaging with barn cats. Subtasks: Ensuring they have proper food and water, interacting with them (like giving treats), monitoring their behavior.",
+            "subtasks": []
+        },
+        {
+            "task": "Performing morning routine for horses.",
             "subtasks": [
-                "Feed horses",
-                "Stall and pen management",
-                "Animal interactions and conflict resolution",
-                "Barn and livestock management"
+                "Feed horses.",
+                "Check stalls and clean as needed.",
+                "Ensure proper hay and water availability.",
+                "Monitor horse behavior and social interactions.",
+                "Clean barn and stalls.",
+                "Prepare morning chores for other animals (e.g., goats, ducks).",
+                "Engage in barn renovations and improvements."
             ]
         },
         {
-            "task": "Barn renovations and future plans",
+            "task": "Feeding and caring for goats.",
             "subtasks": [
-                "Install stall mats for hygiene",
-                "Resolve conflicts through managed interactions",
-                "Manage goat enclosures safely",
-                "Care for ducks and geese",
-                "Plan future barn improvements (shelving, wash areas)"
+                "Check goats\u2019 wellbeing.",
+                "Ensure goats have adequate food and water.",
+                "Manage goats\u2019 movement within the barn."
+            ]
+        },
+        {
+            "task": "Cleaning and maintaining the barn.",
+            "subtasks": [
+                "Removing accumulations from overnight activities (feces, bedding).",
+                "Prepare areas for future use (e.g., wash area for horses).",
+                "Address minor issues (e.g., vines tripping)."
+            ]
+        },
+        {
+            "task": "Interacting with barn animals.",
+            "subtasks": [
+                "Engage with horses (e.g., brushing, observing).",
+                "Engage with goats (e.g., handling, observing).",
+                "Monitoring barn cats (e.g., Ellie, Ollie) in their designated areas."
+            ]
+        },
+        {
+            "task": "Planning and executing barn renovations.",
+            "subtasks": [
+                "Organize shelving, hooks, and storage solutions.",
+                "Consider layout updates for optimal horse comfort."
+            ]
+        },
+        {
+            "task": "Performing morning routine for horses.",
+            "subtasks": [
+                "Feed horses.",
+                "Check stalls and clean as needed.",
+                "Ensure proper hay and water availability.",
+                "Monitor horse behavior and social interactions.",
+                "Clean barn and stalls.",
+                "Prepare morning chores for other animals (e.g., goats, ducks).",
+                "Engage in barn renovations and improvements."
+            ]
+        },
+        {
+            "task": "Feeding and caring for goats.",
+            "subtasks": [
+                "Check goats\u2019 wellbeing.",
+                "Ensure goats have adequate food and water.",
+                "Manage goats\u2019 movement within the barn."
+            ]
+        },
+        {
+            "task": "Cleaning and maintaining the barn.",
+            "subtasks": [
+                "Removing accumulations from overnight activities (feces, bedding).",
+                "Prepare areas for future use (e.g., wash area for horses).",
+                "Address minor issues (e.g., vines tripping)."
+            ]
+        },
+        {
+            "task": "Interacting with barn animals.",
+            "subtasks": [
+                "Engage with horses (e.g., brushing, observing).",
+                "Engage with goats (e.g., handling, observing).",
+                "Monitoring barn cats (e.g., Ellie, Ollie) in their designated areas."
+            ]
+        },
+        {
+            "task": "Planning and executing barn renovations.",
+            "subtasks": [
+                "Organize shelving, hooks, and storage solutions.",
+                "Consider layout updates for optimal horse comfort."
+            ]
+        },
+        {
+            "task": "Performing morning routine for horses**",
+            "subtasks": []
+        },
+        {
+            "task": "Feeding and caring for goats**",
+            "subtasks": []
+        },
+        {
+            "task": "Cleaning and maintaining the barn**",
+            "subtasks": []
+        },
+        {
+            "task": "Interacting with barn animals**",
+            "subtasks": []
+        },
+        {
+            "task": "Planning and executing barn renovations**",
+            "subtasks": []
+        },
+        {
+            "task": "Performing morning routine for horses",
+            "subtasks": [
+                "Feed horses",
+                "Check stalls and clean as needed",
+                "Ensure proper hay and water availability",
+                "Monitor horse behavior and social interactions",
+                "Clean barn and stalls",
+                "Prepare morning chores for other animals (e.g., goats, ducks)"
+            ]
+        },
+        {
+            "task": "Feeding and caring for goats",
+            "subtasks": [
+                "Check goats\u2019 wellbeing",
+                "Ensure goats have adequate food and water",
+                "Manage goats\u2019 movement within the barn"
+            ]
+        },
+        {
+            "task": "Cleaning and maintaining the barn",
+            "subtasks": [
+                "Removing accumulations from overnight activities (feces, bedding)",
+                "Prepare areas for future use (e.g., wash area for horses)",
+                "Address minor issues (e.g., vines tripping)"
+            ]
+        },
+        {
+            "task": "Interacting with barn animals",
+            "subtasks": [
+                "Engage with horses (e.g., brushing, observing)",
+                "Engage with goats (e.g., handling, observing)",
+                "Monitoring barn cats (e.g., Ellie, Ollie) in their designated areas"
+            ]
+        },
+        {
+            "task": "Planning and executing barn renovations",
+            "subtasks": [
+                "Organize shelving, hooks, and storage solutions",
+                "Consider layout updates for optimal horse comfort"
             ]
         }
     ]

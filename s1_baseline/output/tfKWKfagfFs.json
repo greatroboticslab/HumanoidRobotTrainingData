@@ -5,30 +5,95 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Implementing Alternate Wetting and Drying (AWD) technique for water-saving rice cultivation.",
+            "task": "Implement Alternate Wetting and Drying (AWD) irrigation technique for rice fields.",
             "subtasks": [
-                "Observing water depth in rice field.",
-                "Using a field water tube to monitor water levels.",
-                "Adjusting irrigation schedule based on soil type and field conditions.",
-                "Applying nitrogen fertilizer on dry soil prior to irrigation.",
-                "Gradually lowering the water depth threshold."
+                "Observe water depth in the field using a field water tube.",
+                "Reflood the field when water level drops to 15 cm below soil surface.",
+                "Monitor soil moisture levels using a constructed water tube.",
+                "Start Safe AWD a few days after transplanting or when the crop is 10 cm tall.",
+                "Postpone AWD application if necessary to control early-stage weeds.",
+                "Apply nitrogen fertilizer on dry soil before irrigation.",
+                "Maintain 5 cm water depth during grain filling to avoid stress.",
+                "Experiment with deeper drying periods once yield is stable.",
+                "Construct a field water tube using local materials.",
+                "Drill holes in the bottom 20 cm of the tube for water entry.",
+                "Position the tube vertically and check alignment with external water level."
             ]
         },
         {
-            "task": "Constructing and using a field water tube.",
+            "task": "Adopt community-level AWD implementation strategies.",
             "subtasks": [
-                "Selecting materials for the tube.",
-                "Drilling holes in the tube.",
-                "Fabricating accurate measuring length.",
-                "Properly burying the tube."
+                "Promote AWD adoption among local farmers.",
+                "Engage community members in AWD training and support.",
+                "Facilitate shared resources or services for AWD implementation.",
+                "Address community-level challenges to AWD adoption."
             ]
         },
         {
-            "task": "Adapting Alternate Wetting and Drying for community-level adoption.",
+            "task": "Monitor and adjust AWD practices based on field conditions.",
             "subtasks": [
-                "Promoting AWD benefits among farmers.",
-                "Facilitating systemic implementation.",
-                "Enhancing understanding through local experiences."
+                "Regularly check water tube readings for accurate monitoring.",
+                "Adjust flooding schedules based on soil moisture and crop needs.",
+                "Document AWD performance and yields for continuous improvement."
+            ]
+        },
+        {
+            "task": "Implement Alternate Wetting and Drying (AWD) irrigation technique for rice fields.",
+            "subtasks": [
+                "Observe water depth in the field using a field water tube.",
+                "Reflood the field when water level drops to 15 cm below soil surface.",
+                "Monitor soil moisture levels using a constructed water tube.",
+                "Start Safe AWD a few days after transplanting or when the crop is 10 cm tall.",
+                "Postpone AWD application if necessary to control early-stage weeds.",
+                "Apply nitrogen fertilizer on dry soil before irrigation.",
+                "Maintain 5 cm water depth during grain filling to avoid stress.",
+                "Experiment with deeper drying periods once yield is stable.",
+                "Construct a field water tube using local materials.",
+                "Drill holes in the bottom 20 cm of the tube for water entry.",
+                "Position the tube vertically and check alignment with external water level."
+            ]
+        },
+        {
+            "task": "Adopt community-level AWD implementation strategies.",
+            "subtasks": [
+                "Promote AWD adoption among local farmers.",
+                "Engage community members in AWD training and support.",
+                "Facilitate shared resources or services for AWD implementation.",
+                "Address community-level challenges to AWD adoption."
+            ]
+        },
+        {
+            "task": "Monitor and adjust AWD practices based on field conditions.",
+            "subtasks": [
+                "Regularly check water tube readings for accurate monitoring.",
+                "Adjust flooding schedules based on soil moisture and crop needs.",
+                "Document AWD performance and yields for continuous improvement."
+            ]
+        },
+        {
+            "task": "Construct a field water tube for monitoring soil moisture.",
+            "subtasks": [
+                "Cut materials to 40 cm length with 15 cm diameter.",
+                "Drill holes on all sides in the bottom 20 cm.",
+                "Space holes every 2 cm, diameter about 0.5 cm.",
+                "Ensure the tube is stable in the soil, buried halfway with 20 cm above ground.",
+                "Check the tube's water level against the external soil surface."
+            ]
+        },
+        {
+            "task": "Adjust sprinkler irrigation timing based on water scarcity.",
+            "subtasks": [
+                "Determine when fields can go dry due to reduced water availability.",
+                "Transition to AWD as a response to water stress.",
+                "Follow AWD procedures even under water scarcity."
+            ]
+        },
+        {
+            "task": "Train farmers on water-saving irrigation techniques.",
+            "subtasks": [
+                "Conduct workshops on AWD principles and application.",
+                "Demonstrate proper use of field water tubes.",
+                "Address farmer concerns and provide support resources."
             ]
         }
     ]

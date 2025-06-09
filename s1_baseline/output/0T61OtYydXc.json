@@ -5,176 +5,98 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Go to farm or field",
+            "task": "Following instructions",
             "subtasks": [
-                "Walk to farm entrance",
-                "Enter farm premises",
-                "Approach designated work area"
+                "Listening to the person speaking",
+                "Understanding the instructions given"
             ]
         },
         {
-            "task": "Check crops",
+            "task": "Preparing for a physical activity",
             "subtasks": [
-                "Bend down to inspect rows of crops",
-                "Observe crop health and growth"
+                "Putting on appropriate clothing and shoes",
+                "Ensuring safety gear is worn"
             ]
         },
         {
-            "task": "Prepare soil for tilling",
+            "task": "Commencing a video",
             "subtasks": [
-                "Walk to tractor or tiller",
-                "Step onto tractor seat",
-                "Adjust seat for comfort and safety",
-                "Engage tractor gearshift",
-                "Operate steering wheel to turn tractor",
-                "Use pedals for throttle and brakes",
-                "Guide tractor along field rows"
+                "Positioning oneself in front of a camera or device",
+                "Starting and operating the recording device"
             ]
         },
         {
-            "task": "Tend to livestock",
+            "task": "Initiating the action \"go\"",
             "subtasks": [
-                "Walk to livestock area",
-                "Approach animals (e.g., cows or pigs)",
-                "Observe animals' behavior and health",
-                "Feed animals from feed container",
-                "Handle animals gently and securely"
+                "Giving the verbal command \"go\" to start the activity",
+                "Confirming the start of the physical task"
             ]
         },
         {
-            "task": "Water crops or livestock",
+            "task": "Prepare to follow instructions",
+            "subtasks": []
+        },
+        {
+            "task": "Start video recording",
+            "subtasks": []
+        },
+        {
+            "task": "Give verbal command to begin",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASKs for the physical tasks related to the transcript are \"Following instructions\" which involves listening and understanding, \"Preparatory actions\" such as setting up the recording, and initiating the action via verbal command. This will link the start of the activity which could be in an agricultural context. Given the mention of a \"video\", even if not explicitly about farming, the tasks can still be considered relevant.",
+            "subtasks": []
+        },
+        {
+            "task": "Follow instructions",
             "subtasks": [
-                "Walk to well or water source",
-                "Operate water pump handle (if manual)",
-                "Connect hose to water source",
-                "Carry hose to crops or livestock area",
-                "Install sprinkler system or manually water plants/animals"
+                "Listen to the speaker",
+                "Understand the instructions"
             ]
         },
         {
-            "task": "Fix broken equipment",
+            "task": "Prepare equipment",
             "subtasks": [
-                "Walk to broken tractor or implement",
-                "Inspect machine for problems (e.g., loose parts, damaged blades)",
-                "Retrieve tools from tool shed",
-                "Disassemble machine to access issues",
-                "Replace or tighten parts as needed",
-                "Lubricate moving parts"
+                "Position camera",
+                "Start recording device"
             ]
         },
         {
-            "task": "Gather eggs",
+            "task": "Begin activity",
             "subtasks": [
-                "Walk to chicken coop or henhouse",
-                "Open door to coop",
-                "Collect eggs from floor or nest boxes",
-                "Place eggs in basket or container"
+                "Give verbal confirmation",
+                "Start physical task"
             ]
         },
         {
-            "task": "Spread mulch",
+            "task": "Follow instructions",
             "subtasks": [
-                "Walk to mulch storage area",
-                "Load mulch onto wheelbarrow or spreader",
-                "Push wheelbarrow to intended location",
-                "Spread mulch over soil or around plants"
+                "Listen to the speaker",
+                "Understand the instructions"
             ]
         },
         {
-            "task": "Pick weeds",
+            "task": "Commence the video",
             "subtasks": [
-                "Walk to weedy areas of the garden or field",
-                "Bend down to identify and uproot weeds",
-                "Place weeds in pile or compost",
-                "Discard or manage weeds appropriately"
+                "Position oneself in front of the camera",
+                "Start the recording device"
             ]
         },
         {
-            "task": "Harvest fruits or vegetables",
+            "task": "Initiate the action",
             "subtasks": [
-                "Walk to the orchard or crop row",
-                "Identify ripe fruits or vegetables",
-                "Use harvesting tools (e.g., scissors, hoe) if necessary",
-                "Gather produce into baskets or sacks",
-                "Transfer produce to storage or load onto vehicle"
+                "Give the verbal command \"go\"",
+                "Confirm that the action has started"
             ]
         },
         {
-            "task": "Deliver produce",
+            "task": "Initiate an activity",
             "subtasks": [
-                "Walk to vehicle or farm stand",
-                "Load harvested produce into trunk or bed",
-                "Secure load for transportation",
-                "Drive vehicle to market or destination"
+                "Confirm readiness to start",
+                "Verbally acknowledge the start",
+                "Begin the physical task"
             ]
-        },
-        {
-            "task": "Perform daily chores",
-            "subtasks": [
-                "Walk to barn or various areas of the farm",
-                "Perform cleaning tasks (e.g., sweep floors, clean stalls)",
-                "Provide daily care (e.g., refill water troughs, check on sick animals)"
-            ]
-        },
-        {
-            "task": "Greet farm visitors",
-            "subtasks": [
-                "Approach visitors at the farm entrance",
-                "Engage in conversation with visitors",
-                "Provide tour or demonstration"
-            ]
-        },
-        {
-            "task": "Go to farm or field**",
-            "subtasks": []
-        },
-        {
-            "task": "Check crops**",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare soil for tilling**",
-            "subtasks": []
-        },
-        {
-            "task": "Tend to livestock**",
-            "subtasks": []
-        },
-        {
-            "task": "Water crops or livestock**",
-            "subtasks": []
-        },
-        {
-            "task": "Fix broken equipment**",
-            "subtasks": []
-        },
-        {
-            "task": "Gather eggs**",
-            "subtasks": []
-        },
-        {
-            "task": "Spread mulch**",
-            "subtasks": []
-        },
-        {
-            "task": "Pick weeds**",
-            "subtasks": []
-        },
-        {
-            "task": "Harvest fruits or vegetables**",
-            "subtasks": []
-        },
-        {
-            "task": "Deliver produce**",
-            "subtasks": []
-        },
-        {
-            "task": "Perform daily chores**",
-            "subtasks": []
-        },
-        {
-            "task": "Greet farm visitors**",
-            "subtasks": []
         }
     ]
 }

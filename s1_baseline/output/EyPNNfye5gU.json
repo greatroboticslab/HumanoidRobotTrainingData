@@ -5,27 +5,25 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Assemble a drip irrigation system for a garden.",
+            "task": "Setting up a drip irrigation system for a garden.",
             "subtasks": [
-                "Identify components of the drip irrigation system.",
-                "Connect the system to a water hose faucet.",
-                "Install a battery timer for the irrigation system.",
-                "Adapt the system for different garden types (vegetable garden, raised bed, container pots)."
+                "Locating and identifying components of the drip irrigation system.",
+                "Connecting the system to a water hose faucet.",
+                "Installing a battery timer to control watering.",
+                "Adapting the system for different garden types (vegetable garden, raised beds, containers)."
             ]
         },
         {
-            "task": "Operate the battery timer for the drip irrigation system.",
-            "subtasks": [
-                "Set up the battery timer.",
-                "Check the timer operation."
-            ]
+            "task": "Desc",
+            "subtasks": []
         },
         {
-            "task": "Troubleshoot common issues with the drip irrigation system.",
+            "task": "MAINTASK: Setting up a drip irrigation system for a garden.",
             "subtasks": [
-                "Check water pressure and flow.",
-                "Inspect for leaks or clogs.",
-                "Adjust the timer settings as needed."
+                "Locating and identifying components of the drip irrigation system.**",
+                "Connecting the system to a water hose faucet.**",
+                "Installing a battery timer to control watering.**",
+                "Adapting the system for different garden types (vegetable garden, raised beds, containers).**"
             ]
         }
     ]
