@@ -5,14 +5,53 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Preparing a garden site in Wyoming",
+            "task": "Conducting a soil test before garden preparation",
             "subtasks": [
-                "Conduct a soil test",
-                "Apply organic matter (e.g., compost, yard waste, manure, peat moss, straw)",
-                "Mix organic matter into soil using tilling (e.g., rototill)",
-                "Add nutrients/fertilizers based on soil test results",
-                "Ensure proper drainage and moisture retention"
+                "Obtaining soil samples",
+                "Submitting samples to laboratory",
+                "Interpreting results for organic matter and nutrient levels"
             ]
+        },
+        {
+            "task": "Adding organic matter to soil",
+            "subtasks": [
+                "Collecting compost materials (kitchen scraps, yard waste)",
+                "Purchasing compost or manure from garden centers",
+                "Spreading two inches of organic matter across garden site",
+                "Raking organic matter into soil",
+                "Rototilling organic matter deep into soil"
+            ]
+        },
+        {
+            "task": "Addressing soil issues (drainage/sandiness)",
+            "subtasks": [
+                "Improving clay soil drainage with organic matter",
+                "Enhancing sandy soil water retention with organic matter"
+            ]
+        },
+        {
+            "task": "Adding fertilizers based on soil test results",
+            "subtasks": [
+                "Selecting appropriate fertilizers from available options",
+                "Applying recommended nutrients to soil",
+                "Ensuring proper distribution of fertilizers"
+            ]
+        },
+        {
+            "task": "Conducting a soil test before garden preparation**",
+            "subtasks": []
+        },
+        {
+            "task": "Adding organic matter to soil**",
+            "subtasks": []
+        },
+        {
+            "task": "Addressing soil issues (drainage/sandiness)**",
+            "subtasks": []
+        },
+        {
+            "task": "Adding fertilizers based on soil test results**",
+            "subtasks": []
         }
     ]
 }

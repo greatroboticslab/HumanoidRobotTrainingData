@@ -5,32 +5,61 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Ensuring safety and proper operation of tractors and farm equipment through diligent maintenance and adherence to safety guidelines.",
+            "task": "Fueling and daily maintenance on tractors and other farm equipment.",
             "subtasks": [
-                "Reading and familiarizing oneself with operator's manuals for specific safety practices, control locations, and emergency procedures.",
-                "Recognizing color-coded warning systems (red, orange, yellow) indicating severity of potential dangers.",
-                "Keeping a first aid kit accessible in all operating tractors or self-propelled machines.",
-                "Daily fluid checks (engine crankcase, radiator, transmission) according to operator's manual.",
-                "Refueling tractors only when cold and engine shut off, avoiding smoking during the process.",
-                "Being cautious when climbing ladders to fuel tanks, especially on wet or icy surfaces.",
-                "Preventing overfilling of fuel tanks and promptly cleaning any spilled fuel.",
-                "Handling diesel exhaust fluid for SCR emission reduction systems.",
-                "Ensuring correct tire pressure as per manufacturer's recommendations and operator's manual.",
-                "Regularly inspecting tires for damage (cuts, cracks, bruises) and maintaining good condition.",
-                "Verifying proper functionality, cleanliness, and visibility of headlights, flashers, and brake lights as per regulatory requirements.",
-                "Ensuring the tractor has two forward-facing headlights, a continuously burning red tail light visible from 500 feet, and hazard warning lights/flashers.",
-                "Maintaining clear windows and properly adjusted mirrors for optimal visibility.",
-                "Checking and securing shields around the engine to prevent hazards."
+                "Refer to operator's manual for safety practices.",
+                "Familiarize with symbols and colors indicating danger.",
+                "Understand that red signifies potential death, orange serious injury, and yellow minor/moderate injury.",
+                "Read all safety decals on the machine.",
+                "Follow instructions before operating, fueling, or maintaining the machine.",
+                "Keep a first aid kit in each tractor or self-propelled machine.",
+                "Check daily required fluids as per operator's manual.",
+                "Know the location and purpose of all gauges and controls.",
+                "React quickly in emergencies by memorizing controls' locations.",
+                "Follow safety procedures for refueling as outlined in the manual.",
+                "Refuel only when engine is cool and shut off.",
+                "Do not smoke during refueling.",
+                "Be cautious when climbing ladders to fuel tanks, especially in slippery conditions.",
+                "Minimize activities that could ignite fuel during refueling.",
+                "Avoid overfilling fuel tanks and clean up any spills immediately."
             ]
         },
         {
-            "task": "Adhering to safety protocols to prevent serious accidents during tractor and farm equipment operation.",
+            "task": "Check emission reduction fluid levels.",
             "subtasks": [
-                "Observing color-coded symbols on equipment to avoid hazardous areas and activities.",
-                "Following correct safety procedures as instructed in operator's manuals for refueling and maintenance.",
-                "Avoiding activities that may ignite fuel during refueling.",
-                "Activating hazard warning lights/flashers when operating on public roads.",
-                "Being cautious and maintaining a heightened sense of awareness, especially in emergency situations."
+                "Ensure sufficient diesel exhaust fluid in tractors and equipment with SCR technology."
+            ]
+        },
+        {
+            "task": "Daily fluid checks.",
+            "subtasks": [
+                "Check engine crankcase fluid levels daily.",
+                "Verify radiator fluid levels; exercise caution when hot.",
+                "Monitor transmission fluid levels."
+            ]
+        },
+        {
+            "task": "Tire maintenance.",
+            "subtasks": [
+                "Inflate tires according to manufacturer's recommendations.",
+                "Verify proper pressure, especially for power hop prevention.",
+                "Inspect tires for cuts, cracks, or bruises."
+            ]
+        },
+        {
+            "task": "Lighting and visibility checks.",
+            "subtasks": [
+                "Ensure all headlights, flashers, and brake lights are working correctly.",
+                "Clean lamps for maximum visibility.",
+                "Properly mount the red tail light on the left rear side.",
+                "Equip hazard warning lights or flashers for road operations.",
+                "Maintain clear windows and clean mirrors for optimal visibility."
+            ]
+        },
+        {
+            "task": "Safety equipment checks.",
+            "subtasks": [
+                "Check engine shields for secure fastening and good condition."
             ]
         }
     ]

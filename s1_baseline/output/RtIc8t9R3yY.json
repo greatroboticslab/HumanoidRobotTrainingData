@@ -5,19 +5,35 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Starting and maintaining a worm farm",
+            "task": "Starting a worm farm and feeding it appropriately",
             "subtasks": [
-                "Collecting food scraps",
                 "Adding food scraps to the worm farm",
-                "Shoving the added food scraps down",
-                "Adding browns (e.g., dry leaves, straw) to cover the food scraps",
-                "Repeating the process of shoving down and covering with browns"
+                "Shoving the food scraps down into the bedding material",
+                "Covering the added food scraps with browns (carbon-rich materials)",
+                "Repeating the process of shoving down and covering with browns as needed"
             ]
         },
         {
-            "task": "Questioning if the action can be turned into a song",
+            "task": "Creating a mnemonic or song for the task",
             "subtasks": [
-                "Considering rhythmic repetition for singing"
+                "Formulating a catchy phrase or tune related to feeding the worm farm",
+                "Memorizing and singing the created phrase or tune"
+            ]
+        },
+        {
+            "task": "MAINTASK: Starting a worm farm and feeding it appropriately",
+            "subtasks": [
+                "Adding food scraps to the worm farm",
+                "Shoving the food scraps down into the bedding material",
+                "Covering the added food scraps with browns (carbon-rich materials)",
+                "Repeating the process of shoving down and covering with browns as needed"
+            ]
+        },
+        {
+            "task": "Creating a mnemonic or song for the task",
+            "subtasks": [
+                "Formulating a catchy phrase or tune related to feeding the worm farm",
+                "Memorizing and singing the created phrase or tune"
             ]
         }
     ]

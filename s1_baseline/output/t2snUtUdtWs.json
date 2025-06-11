@@ -5,107 +5,86 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Moving horses from pasture to paddock",
+            "task": "Drive a 4-wheeled articulated wagon behind a tractor to cart hay from the field.",
             "subtasks": [
-                "Approach horses in pasture",
-                "Assess horse behavior and health",
-                "Secure gate to pasture",
-                "Lead horses to paddock",
-                "Release gates to paddock"
+                "Sit in the tractor seat and engage the transmission.",
+                "Operate the tractor to tow the 4-wheeled articulated wagon.",
+                "Guide the tractor and wagon as they travel from the field to the storage area.",
+                "Ensure that the hay is loaded properly onto the wagon.",
+                "Secure the hay load on the wagon to prevent shifting during transport.",
+                "Transfer control of the wagon's brakes and steering to the helper via a wheel or lever.",
+                "Monitor the helper\u2019s (who is sitting in the wagon) operation of the hay lift.",
+                "Adjust the tractor's speed as necessary based on the helper's need to raise or lower the hay fork.",
+                "Drive the tractor and wagon back to the farmyard or storage area."
             ]
         },
         {
-            "task": "Feeding horses",
+            "task": "Hand guide a hay fork with a helper.",
             "subtasks": [
-                "Prepare feed containers",
-                "Fill feed troughs with hay",
-                "Distribute water troughs for horses",
-                "Observe horses eating"
+                "Sit on the front seat of the 4-wheeled articulated wagon.",
+                "Hold the hay fork while the tractor pulls the wagon across the field.",
+                "Position the hay fork between rows of standing hay.",
+                "Push or pull the hay fork to lift the hay into the air.",
+                "Guide the fork to direct the hay onto the wagon bed.",
+                "Release the hay on the wagon bed and reset the fork for the next load.",
+                "Communicate with the tractor driver to coordinate the timing of raising and lowering the fork.",
+                "Ensure that the hay is placed safely and efficiently on the wagon."
             ]
         },
         {
-            "task": "Cleaning out stalls",
+            "task": "Load hay onto the tractor-drawn wagon.",
             "subtasks": [
-                "Gather cleaning supplies",
-                "Scrub stall floors with brushes",
-                "Remove manure with rake or shovel",
-                "Replace shavings in stalls"
+                "Wait for the wagon to be positioned below the raised hay fork.",
+                "Grasp the hay as it is deposited from the fork.",
+                "Arrange the hay on the wagon bed in a stable, secure pile.",
+                "Stomp or pack down the hay to optimize storage space and prevent sifting during transport.",
+                "Remove any loose debris or pieces not suitable for storage.",
+                "Stand clear of moving parts when the hay is being lifted or placed.",
+                "Load hay in a manner that allows safe transportation to the storage area."
             ]
         },
         {
-            "task": "Inspecting barn equipment",
+            "task": "Secure hay onto the wagon bed.",
             "subtasks": [
-                "Check toolboxes for necessary tools",
-                "Examine fencing for damage",
-                "Lubricate moving parts of gates",
-                "Tighten any loose screws or bolts"
+                "Once the hay is loaded, spread it evenly across the wagon's flatbed.",
+                "Use baling twine, straps, or bungee cords to tie down the hay load.",
+                "Check the security of the bindings to prevent hay from shifting during transport.",
+                "Adjust any overhanging hay to ensure balance and safety.",
+                "Cover the load if necessary to protect from weather elements during transport."
             ]
         },
         {
-            "task": "Checking on crops",
+            "task": "Unload hay from the wagon onto a designated storage area.",
             "subtasks": [
-                "Walk through fields to check growth",
-                "Measure plants' heights or inspect for pests",
-                "Document observations with a notebook"
+                "Position the wagon at the designated unloading spot.",
+                "Release the hay from the bindings or wrap.",
+                "Push or hand unload the hay from the wagon bed.",
+                "Stack the hay in an organized,\u7a33\u56fa\u65b9\u5f0f to maximize storage capacity.",
+                "Ensure that the stacking is stable to prevent collapse.",
+                "Control any loose ends or edges of the hay pile to prevent injury."
             ]
         },
         {
-            "task": "Liquidating cattle",
+            "task": "Operate a forklift to transport hay.",
             "subtasks": [
-                "Approach cattle in field",
-                "Herd cattle to designated area",
-                "Restrain cattle for assessment",
-                "Tag and mark cattle for sale"
+                "Drive the forklift to the field where hay is baled.",
+                "Select the appropriate forks for picking up the hay bales.",
+                "Approach a hay bale and lift it using the forklift.",
+                "Transport the hay bale to a designated unloading area.",
+                "Lower the bale onto the ground at the unloading area.",
+                "Repeat the process until all hay bales are moved."
             ]
         },
         {
-            "task": "Conducting routine veterinary care",
+            "task": "Help on a hay fork.",
             "subtasks": [
-                "Prepare examination area",
-                "Administer vaccinations to livestock",
-                "Check deworming schedules",
-                "Perform general health checks on animals"
+                "Sit on the front seat of the hay wagon.",
+                "Assist in lifting the hay by using the hay fork.",
+                "Instruct the tractor driver regarding the right alignment for hay placement.",
+                "Communicate when the hay needs to be released at the optimal spot on the wagon.",
+                "Ensure that the hay is deposited in a manner that optimizes loading efficiency.",
+                "Adjust the fork's angle or position as needed during the loading process."
             ]
-        },
-        {
-            "task": "Collecting eggs",
-            "subtasks": [
-                "Gather eggs from henhouse",
-                "Place eggs in basket or container",
-                "Clean and sanitize henhouse areas"
-            ]
-        },
-        {
-            "task": "Moving horses from pasture to paddock**",
-            "subtasks": []
-        },
-        {
-            "task": "Feeding horses**",
-            "subtasks": []
-        },
-        {
-            "task": "Cleaning out stalls**",
-            "subtasks": []
-        },
-        {
-            "task": "Inspecting barn equipment**",
-            "subtasks": []
-        },
-        {
-            "task": "Checking on crops**",
-            "subtasks": []
-        },
-        {
-            "task": "Liquidating cattle**",
-            "subtasks": []
-        },
-        {
-            "task": "Conducting routine veterinary care**",
-            "subtasks": []
-        },
-        {
-            "task": "Collecting eggs**",
-            "subtasks": []
         }
     ]
 }

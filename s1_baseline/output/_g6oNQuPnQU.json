@@ -5,93 +5,105 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Loading hay onto a trailer",
+            "task": "Farming equipment operation.",
             "subtasks": [
-                "Approach the stack of hay",
-                "Grip the hay bale and place it onto the trailer",
-                "Secure the bale on the trailer with rope or bale nets to prevent tipping",
-                "Repeat for other bales"
+                "Starting a tractor.",
+                "Guiding a tractor.",
+                "Operating a plow attachment.",
+                "Navigating a field."
             ]
         },
         {
-            "task": "Driving a farm vehicle (truck) with a trailer",
+            "task": "Planting seeds.",
             "subtasks": [
-                "Seatbelt on",
-                "Adjust seat and mirrors for visibility",
-                "Check trailer connections (lights, brakes)",
-                "Start the vehicle and proceed to the hay field or storage area"
+                "Loading a planter with seeds.",
+                "Positioning seeds in soil.",
+                "Ensuring correct planting depth."
             ]
         },
         {
-            "task": "Unloading hay from a trailer",
+            "task": "Shortly after planting.",
             "subtasks": [
-                "Wait until the trailer is loaded to capacity",
-                "Position the trailer near the storage location or barn",
-                "Loosen the securing rope or bale net attachments",
-                "Guide the bales off the trailer, ensuring stability"
+                "Checking to ensure no damage."
             ]
         },
         {
-            "task": "Stacking hay in a barn or storage area",
+            "task": "Checking the tractor.",
             "subtasks": [
-                "Clear a path or designated area for hay stacking",
-                "Inspect stacking area for safety (no protruding nails, flat ground)",
-                "Stack hay bales neatly, possibly in a pyramid shape for stability",
-                "Cover the stack with a tarp to protect from weather"
+                "Inspecting for any issues.",
+                "Greasing moving parts.",
+                "Tightening loose nuts and bolts.",
+                "Replacing any worn parts."
             ]
         },
         {
-            "task": "Horse handling tasks at a farm",
+            "task": "Farming equipment operation: Subtasks are starting a tractor (turning it on), guiding the tractor (maneuvering it through the field), operating a plow attachment (attaching it, adjusting settings, operating levers), and navigating the field (observing terrain, making turns). Then, after planting, subtasks would be checking to ensure no damage (making sure the tractor didn't cause any issues), which could relate to soil compaction or other physical damage. Then MAINTASK: Planting seeds: Subtasks include loading the planter with seeds (correctly loading, ensuring even distribution), positioning seeds in the soil (using the planter correctly, ensuring proper spacing and depth), ensuring correct planting depth (adjusting the planter settings), and then after planting, checking the rows to see if everything was done properly (looking for missed spots or overly deep seeds). Then the MAINTASK: Checking the tractor: Subtasks are inspecting for any issues (looking for any signs of wear or damage), greasing moving parts (maintaining lubrication), tightening loose nuts and bolts (to prevent loosening during operation), and replacing any worn parts (like belts, filters, etc.). Each of these seems like a key physical task a farmer would perform.",
+            "subtasks": []
+        },
+        {
+            "task": "Farming equipment operation. Subtasks under this are starting a tractor, guiding the tractor, operating a plow attachment, and navigating a field. Then MAINTASK: Planting seeds with subtasks of loading the planter, positioning seeds in the soil, ensuring correct depth, and then shortly after planting, a subtask of checking to ensure nothing got damaged. Then, MAINTASK: Checking the tractor with subtasks like inspecting for issues, greasing parts, tightening bolts, and replacing worn parts. That seems right. So these tasks are physical actions related to farming, as requested. So the transcript led me to list these tasks and subtasks. All relevant to the video.",
+            "subtasks": []
+        },
+        {
+            "task": "Farming equipment operation.",
             "subtasks": [
-                "Tackling a horse (preparing the saddle)",
-                "Wearing appropriate riding gear and establishing rapport with the horse",
-                "Mounting the horse safely and securely",
-                "Taking the horse out for a ride or exercise"
+                "Starting a tractor.",
+                "Guiding a tractor.",
+                "Operating a plow attachment.",
+                "Navigating a field."
             ]
         },
         {
-            "task": "Loading hay onto a trailer} \\\\",
+            "task": "Planting seeds.",
             "subtasks": [
-                "Approach the stack of hay} \\\\",
-                "Grip the hay bale and place it onto the trailer} \\\\",
-                "Secure the bale on the trailer with rope or bale nets} \\\\",
-                "Repeat for other bales} \\\\"
+                "Loading a planter with seeds.",
+                "Positioning seeds in soil.",
+                "Ensuring correct planting depth."
             ]
         },
         {
-            "task": "Driving a farm vehicle (truck) with a trailer} \\\\",
+            "task": "Shortly after planting.",
             "subtasks": [
-                "Seatbelt on} \\\\",
-                "Adjust seat and mirrors} \\\\",
-                "Check trailer connections} \\\\",
-                "Start the vehicle and proceed to the hay field or storage area} \\\\"
+                "Checking to ensure no damage."
             ]
         },
         {
-            "task": "Unloading hay from a trailer} \\\\",
+            "task": "Checking the tractor.",
             "subtasks": [
-                "Wait until trailer is loaded to capacity} \\\\",
-                "Position the trailer near the storage location} \\\\",
-                "Loosen securing rope or bale net attachments} \\\\",
-                "Guide the bales off the trailer} \\\\"
+                "Inspecting for any issues.",
+                "Grease"
             ]
         },
         {
-            "task": "Stacking hay in a barn or storage area} \\\\",
+            "task": "Farming equipment operation.",
             "subtasks": [
-                "Clear a path for stacking} \\\\",
-                "Inspect stacking area for safety} \\\\",
-                "Stack hay bales neatly} \\\\",
-                "Cover the stack with a tarp} \\\\"
+                "Starting a tractor.",
+                "Guiding a tractor.",
+                "Operating a plow attachment.",
+                "Navigating a field."
             ]
         },
         {
-            "task": "Horse handling tasks at a farm} \\\\",
+            "task": "Planting seeds.",
             "subtasks": [
-                "Tackling a horse (preparing the saddle)} \\\\",
-                "Wearing appropriate riding gear} \\\\",
-                "Mounting the horse safely} \\\\",
-                "Taking the horse out for a ride or exercise}"
+                "Loading a planter with seeds.",
+                "Positioning seeds in soil.",
+                "Ensuring correct planting depth."
+            ]
+        },
+        {
+            "task": "Shortly after planting.",
+            "subtasks": [
+                "Checking to ensure no damage."
+            ]
+        },
+        {
+            "task": "Checking the tractor.",
+            "subtasks": [
+                "Inspecting for any issues.",
+                "Greasing moving parts.",
+                "Tightening loose nuts and bolts.",
+                "Replacing any worn parts."
             ]
         }
     ]

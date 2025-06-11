@@ -5,43 +5,32 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Assessing insect presence and impact on rice plants",
+            "task": "Observing and identifying insect and animal activity in a rice field",
             "subtasks": [
-                "Confirming current stage of rice plant development",
-                "Identifying potential insect pests (e.g., whirled maggots, leaf folders)",
-                "Evaluating natural enemy presence and activity (e.g., parasitoid wasps, lady beetles, dragonflies)",
-                "Recognizing beneficial insects' role in controlling pest populations",
-                "Monitoring for signs of animal damage (e.g., rat infestation)"
+                "Noticing the presence of leaf folder and whirled maggots",
+                "Recognizing parasitoid wasp cocoons on leaves",
+                "Observing lady beetles and their role in controlling herbivore insects",
+                "Noting the presence of dragonflies and their predation on mosquito larvae",
+                "Identifying decomposer midges and spider webs in the field",
+                "Understanding the role of various insects in maintaining ecosystem balance"
             ]
         },
         {
-            "task": "Evaluating natural ecosystem balance in a rice field",
+            "task": "Managing pest control decisions based on observed insect life",
             "subtasks": [
-                "Observing interactions between aquatic insects and mosquito control",
-                "Noting the role of spiders in predating plant hoppers",
-                "Considering human perception of insect presence and potential misapplication of pesticides"
+                "Considering the impact of leaf folder and whirled maggots on rice plants",
+                "Evaluating the necessity of insecticide use in the early stages of rice growth",
+                "Assessing the role of beneficial insects (parasitoids, lady beetles, dragonflies, midges) in natural pest management",
+                "Deciding against insecticide application due to natural pest control and beneficial insect activity"
             ]
         },
         {
-            "task": "Addressing rat damage in agricultural fields",
+            "task": "Dealing with rodent damage in the rice field",
             "subtasks": [
-                "Detecting and assessing damage caused by rodents",
-                "Considering preventive measures or recovery strategies for affected areas"
+                "Observing rat activity and damage to seedlings",
+                "Acknowledging limited options for addressing rat damage",
+                "Noting the potential for continuous rodent monitoring and management"
             ]
-        },
-        {
-            "task": "MAINTASK: Inspect and monitor the rice field for pests and beneficial insects; report any signs of damage, particularly from rats.**",
-            "subtasks": []
-        },
-        {
-            "task": "Inspect and monitor the rice field for pests and beneficial insects; report any signs of damage, particularly from rats.",
-            "subtasks": [
-                ""
-            ]
-        },
-        {
-            "task": "Inspect and monitor the rice field for insects and beneficial organisms; report any signs of damage, particularly from rodents.",
-            "subtasks": []
         }
     ]
 }

@@ -5,100 +5,32 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Rotational Grazing Management",
+            "task": "Determine the species of grass and manage rotational grazing.",
             "subtasks": [
-                "Identify desirable grass species",
-                "Rotate grazing to favor desirable species",
-                "Educate on rotational grazing misconceptions",
-                "Assess carrying capacity improvements",
-                "Plan for future ranch expansion",
-                "Secure areas to prevent snake access"
+                "Identify different grass species.",
+                "Rotate pastures to favor desirable grass species.",
+                "Educate oneself about rotational grazing benefits."
             ]
         },
         {
-            "task": "Ranch Maintenance and Safety",
+            "task": "Assess carrying capacity improvement.",
             "subtasks": [
-                "Check areas for potential snake hazards",
-                "Install barriers or fencing to deter snakes",
-                "Evaluate house and palette security",
-                "Plan for ongoing ranch safety"
+                "Compare current carrying capacity to previous."
             ]
         },
         {
-            "task": "\"So we can progress towards plan nicer Quiz happen if there's meno seriously one of the snakes can go to reach the house and the Kore v vol palette, ala todd cod.\" This part is a bit messy, but it's talking about securing areas from snakes. So maybe that's a separate task under ranch maintenance or safety? Like checking for potential snake hazards? \"Check areas to prevent snakes near the house and palette.\" Then, installing barriers or fencing. So \"Install barriers or fencing to deter snakes.\" Also, evaluating the security of the house and palette. \"Evaluate house and palette security.\" So that could be a separate MAINTASK: Ranch Maintenance and Safety.",
-            "subtasks": []
-        },
-        {
-            "task": "one for rotational grazing (with subtasks) and one for ranch safety (with subtasks). Let me confirm.",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "",
-            "subtasks": []
-        },
-        {
-            "task": "Rotational Grazing Management",
-            "subtasks": []
-        },
-        {
-            "task": "Ranch Maintenance and Safety",
-            "subtasks": []
-        },
-        {
-            "task": "Rotational Grazing Management",
+            "task": "Prevent snakes from entering the house.",
             "subtasks": [
-                "Identify desirable grass species",
-                "Rotate grazing to favor those species",
-                "Educate on misconceptions about rotational grazing",
-                "Assess carrying capacity improvements",
-                "Plan for future ranch expansion"
+                "Create barriers to deter snakes near the house.",
+                "Seal potential entry points for snakes."
             ]
         },
         {
-            "task": "Ranch Maintenance and Safety",
+            "task": "Check and maintain fencing.",
             "subtasks": [
-                "Check areas for potential snake hazards",
-                "Install barriers or fencing to deter snakes",
-                "Evaluate house and palette security",
-                "the user wants MAINTASK: followed by each main task, then SUBTASK: for each. Then I ended with \">>>ACCEPT\" lines if the video is relevant.",
-                "But in my initial version, I made MAINTASKs for both grazing management and ranch safety. But should each of the MAINTASKs be given its own SUBTASKs, as the user requested?"
+                "Inspect current fencing for integrity.",
+                "Replace or repair damaged fencing as needed."
             ]
-        },
-        {
-            "task": "Yes, exactly. So the answer should have two MAINTASKs with their respective subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Therefore, the list as written is acceptable, and the final answer would include both MAINTASKs and their subtasks. The transcript is about rotational grazing and ranch safety, both related to farming. Therefore, the transcript is relevant, and the user should accept this task list.",
-            "subtasks": []
-        },
-        {
-            "task": "Rotational Grazing Management",
-            "subtasks": []
-        },
-        {
-            "task": "Ranch Maintenance and Safety",
-            "subtasks": []
-        },
-        {
-            "task": "Rotational Grazing Management**",
-            "subtasks": []
-        },
-        {
-            "task": "Ranch Maintenance and Safety**",
-            "subtasks": []
-        },
-        {
-            "task": "Rotational Grazing Management",
-            "subtasks": []
-        },
-        {
-            "task": "Ranch Maintenance and Safety",
-            "subtasks": []
         }
     ]
 }

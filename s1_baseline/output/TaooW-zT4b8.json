@@ -5,213 +5,240 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Loading dirt onto the trailer",
+            "task": "Enter a tractor and start it.",
             "subtasks": [
-                "Guide the tractor to the dirt pile",
-                "Attach the dirt scoop to the front of the tractor",
-                "Lower the dirt scoop into the dirt pile",
-                "Manipulate the dirt scoop to gather dirt",
-                "Lift the loaded dirt scoop onto the trailer",
-                "Secure the dirt on the trailer"
+                "Walk to the tractor.",
+                "Open tractor door.",
+                "Sit in the driver's seat.",
+                "Turn the key to start the engine."
             ]
         },
         {
-            "task": "Driving the tractor to another location",
+            "task": "Drive the tractor forward onto a field.",
             "subtasks": [
-                "Adjust the steering of the tractor",
-                "Increase or decrease speed of the tractor",
-                "Navigate around obstacles or terrain"
+                "Press the accelerator pedal.",
+                "Activate the steering wheel to move forward."
             ]
         },
         {
-            "task": "Emptying the trailer onto the ground",
+            "task": "Operate the loader to lift hay bales.",
             "subtasks": [
-                "Position the trailer near the designated area",
-                "Lower the trailer deck to access the dirt",
-                "Remove dirt from the trailer using a shovel or similar tool",
-                "Distribute the dirt evenly on the ground"
+                "Reach out to the loader controls.",
+                "Use the joystick to lift the loader arms.",
+                "Lift the forks to pick up a hay bale.",
+                "Lower the fork tines to place the bale onto the forks."
             ]
         },
         {
-            "task": "Attaching a rake to the tractor",
+            "task": "Transport hay bales to a storage area.",
             "subtasks": [
-                "Locate the appropriate rake attachment",
-                "Connect the rake to the tractor's hydraulic system",
-                "Position the tractor with the rake over the area to be worked",
-                "Raise the rake to the desired height",
-                "Guide the tractor forward to drag the rake across the soil",
-                "Repeat the process over the necessary area"
+                "Drive the tractor towards the storage area.",
+                "Align the tractor with the storage location.",
+                "Descend the forks with the bale to place it on the ground."
             ]
         },
         {
-            "task": "Using the plow to turn over soil",
+            "task": "Return to the field to continue operations.",
             "subtasks": [
-                "Coupling the plow to the tractor",
-                "Align the plow with the start point of the field",
-                "Lower the plow to the ground",
-                "Activate the plow to break the soil",
-                "Drive the tractor forward to move the plow through the soil",
-                "Turn the tractor and plow to continue the rows",
-                "Repeat until the entire area is plowed"
+                "Reverse the tractor back towards the field.",
+                "Raise the fork tines to release the bale.",
+                "Adjust the forks to an upright position."
             ]
         },
         {
-            "task": "Attaching the hay rake and turning hay",
+            "task": "Cut the hay using a mower.",
             "subtasks": [
-                "Position the hay rake to the proper height",
-                "Engage the hay rake and pull hay into the machine",
-                "Drive the tractor forward to move the hay towards the center",
-                "Release the hay from the rake into the hay shed"
+                "Align the mower blade with the crop rows.",
+                "Engage the clutch to start cutting.",
+                "Guide the tractor slowly over the rows to cut the hay."
             ]
         },
         {
-            "task": "Feeding the hay into the hay baler",
+            "task": "Load hay onto the truck.",
             "subtasks": [
-                "Guide the tractor and baler to the area with hay",
-                "Carefully align the baler with the hay windrow",
-                "Start the hay baler and engage the cutting mechanism",
-                "Progressively feed the baler with hay as it forms a bale",
-                "Release the bale when it is the correct size",
-                "Repeat the process for additional bales",
-                "Proceeding to write MAINTASKs and SUBTASKs accordingly."
+                "Drive the tractor to the truck.",
+                "Lift the hay bale using the loader.",
+                "Transfer the hay bale into the truck bed."
             ]
         },
         {
-            "task": "Loading dirt onto the trailer**",
+            "task": "Secure the hay in the truck.",
             "subtasks": [
-                "Guide the tractor to the dirt pile",
-                "Attach the dirt scoop to the front of the tractor",
-                "Lower the dirt scoop into the dirt pile",
-                "Manipulate the dirt scoop to gather dirt",
-                "Lift the loaded dirt scoop onto the trailer",
-                "Secure the dirt on the trailer"
+                "Distribute the hay in the bed.",
+                "Lock the tailgate to secure the load."
             ]
         },
         {
-            "task": "Driving the tractor to another location**",
+            "task": "Exit the tractor and close the door.",
             "subtasks": [
-                "Adjust the steering of the tractor",
-                "Increase or decrease speed of the tractor",
-                "Navigate around obstacles or terrain"
+                "Step out of the driver's seat.",
+                "Close the tractor door."
             ]
         },
         {
-            "task": "Emptying the trailer onto the ground**",
+            "task": "Position the tractor for the next task.",
             "subtasks": [
-                "Position the trailer near the designated area",
-                "Lower the trailer deck to access the dirt",
-                "Remove dirt from the trailer using a shovel or similar tool",
-                "Distribute the dirt evenly on the ground"
+                "Manoeuvre the tractor to a suitable area.",
+                "Ensure the safety of the surrounding environment."
             ]
         },
         {
-            "task": "Attaching a rake to the tractor and turning soil**",
+            "task": "Enter a tractor and start it.} \\\\",
             "subtasks": [
-                "Locate the appropriate rake attachment",
-                "Connect the rake to the tractor's hydraulic system",
-                "Position the tractor with the rake over the area to be worked",
-                "Raise the rake to the desired height",
-                "Guide the tractor forward to drag the rake across the soil"
+                "Walk to the tractor.} \\\\",
+                "Open tractor door.} \\\\",
+                "Sit in the driver's seat.} \\\\",
+                "Turn the key to start the engine.} \\\\"
             ]
         },
         {
-            "task": "Using the plow to turn over soil**",
+            "task": "Drive the tractor forward onto a field.} \\\\",
             "subtasks": [
-                "Coupling the plow to the tractor",
-                "Align the plow with the start point of the field",
-                "Lower the plow to the ground",
-                "Activate the plow to break the soil",
-                "Drive the tractor forward to move the plow through the soil",
-                "Turn the tractor and plow to continue the rows"
+                "Press the accelerator pedal.} \\\\",
+                "Activate the steering wheel to move forward.} \\\\"
             ]
         },
         {
-            "task": "Attaching the hay rake and turning hay**",
+            "task": "Operate the loader to lift hay bales.} \\\\",
             "subtasks": [
-                "Position the hay rake to the proper height",
-                "Engage the hay rake and pull hay into the machine",
-                "Drive the tractor forward to move the hay towards the center",
-                "Release the hay from the rake into the hay shed"
+                "Reach out to the loader controls.} \\\\",
+                "Use the joystick to lift the loader arms.} \\\\",
+                "Lift the forks to pick up a hay bale.} \\\\",
+                "Lower the fork tines to place the bale onto the forks.} \\\\"
             ]
         },
         {
-            "task": "Feeding the hay into the hay baler**",
+            "task": "Transport hay bales to a storage area.} \\\\",
             "subtasks": [
-                "Guide the tractor and baler to the area with hay",
-                "Carefully align the baler with the hay windrow",
-                "Start the hay baler and engage the cutting mechanism",
-                "Progressively feed the baler with hay as it forms a bale",
-                "Release the bale when it is the correct size",
-                "Repeat the process for additional bales"
+                "Drive the tractor towards the storage area.} \\\\",
+                "Align the tractor with the storage location.} \\\\",
+                "Descend the forks with the bale to place it on the ground.} \\\\"
             ]
         },
         {
-            "task": "Loading dirt onto the trailer",
+            "task": "Return to the field to continue operations.} \\\\",
             "subtasks": [
-                "Guide the tractor to the dirt pile",
-                "Attach the dirt scoop to the front of the tractor",
-                "Lower the dirt scoop into the dirt pile",
-                "Manipulate the dirt scoop to gather dirt",
-                "Lift the loaded dirt scoop onto the trailer",
-                "Secure the dirt on the trailer"
+                "Reverse the tractor back towards the field.} \\\\",
+                "Raise the fork tines to release the bale.} \\\\",
+                "Adjust the forks to an upright position.} \\\\"
             ]
         },
         {
-            "task": "Driving the tractor to another location",
+            "task": "Cut the hay using a mower.} \\\\",
             "subtasks": [
-                "Adjust the steering of the tractor",
-                "Increase or decrease speed of the tractor",
-                "Navigate around obstacles or terrain"
+                "Align the mower blade with the crop rows.} \\\\",
+                "Engage the clutch to start cutting.} \\\\",
+                "Guide the tractor slowly over the rows to cut the hay.} \\\\"
             ]
         },
         {
-            "task": "Emptying the trailer onto the ground",
+            "task": "Load hay onto the truck.} \\\\",
             "subtasks": [
-                "Position the trailer near the designated area",
-                "Lower the trailer deck to access the dirt",
-                "Remove dirt from the trailer using a shovel or similar tool",
-                "Distribute the dirt evenly on the ground"
+                "Drive the tractor to the truck.} \\\\",
+                "Lift the hay bale using the loader.} \\\\",
+                "Transfer the hay bale into the truck bed.} \\\\"
             ]
         },
         {
-            "task": "Attaching a rake to the tractor",
+            "task": "Secure the hay in the truck.} \\\\",
             "subtasks": [
-                "Locate the appropriate rake attachment",
-                "Connect the rake to the tractor's hydraulic system",
-                "Position the tractor with the rake over the area to be worked",
-                "Raise the rake to the desired height",
-                "Guide the tractor forward to drag the rake across the soil"
+                "Distribute the hay in the bed.} \\\\",
+                "Lock the tailgate to secure the load.} \\\\"
             ]
         },
         {
-            "task": "Using the plow to turn over soil",
+            "task": "Exit the tractor and close the door.} \\\\",
             "subtasks": [
-                "Coupling the plow to the tractor",
-                "Align the plow with the start point of the field",
-                "Lower the plow to the ground",
-                "Activate the plow to break the soil",
-                "Drive the tractor forward to move the plow through the soil",
-                "Turn the tractor and plow to continue the rows"
+                "Step out of the driver's seat.} \\\\",
+                "Close the tractor door.} \\\\"
             ]
         },
         {
-            "task": "Attaching the hay rake and turning hay",
+            "task": "Position the tractor for the next task.} \\\\",
             "subtasks": [
-                "Position the hay rake to the proper height",
-                "Engage the hay rake and pull hay into the machine",
-                "Release the hay from the rake into the hay shed"
+                "Maneuver the tractor to a suitable area.} \\\\",
+                "Ensure the safety of the surrounding environment.}"
             ]
         },
         {
-            "task": "Feeding the hay into the hay baler",
-            "subtasks": [
-                "Guide the tractor and baler to the area with hay",
-                "Carefully align the baler with the hay windrow",
-                "Start the hay baler and engage the cutting mechanism",
-                "Progressively feed the baler with hay as it forms a bale",
-                "Release the bale when it is the correct size",
-                "Repeat the process for additional bales"
-            ]
+            "task": "Enter a tractor and start it.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Drive the tractor forward onto a field.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the loader to lift hay bales.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Transport hay bales to storage.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Return to field.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Cut the hay.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Load hay onto truck.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Secure the load.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Exit the tractor.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Position the tractor.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Enter a tractor and start it.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Drive the tractor forward onto a field.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the loader to lift hay bales.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Transport hay bales to a storage area.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Return to the field to continue operations.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Cut the hay using a mower.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Load hay onto the truck.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Secure the hay in the truck.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Exit the tractor and close the door.} \\\\",
+            "subtasks": []
+        },
+        {
+            "task": "Position the tractor for the next task.} \\\\",
+            "subtasks": []
         }
     ]
 }

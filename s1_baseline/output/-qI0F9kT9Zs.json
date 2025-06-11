@@ -5,30 +5,115 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Tour of a urban gardener's backyard and plot.",
+            "task": "Urban gardening tour",
             "subtasks": [
-                "Walk through the backyard space.",
-                "Demonstrate the use of raised beds, describing their setup and contents.",
-                "Describe the use of containers and terracotta pots for growing herbs.",
-                "Explain the repurposing of rain gutters for growing vegetables.",
-                "Present the use of dwarf fruit trees for limited spaces.",
-                "Discuss the evolution and growth of the backyard garden over five years.",
-                "Showcase the use of cedar raised beds for waist-high salad bar.",
-                "Introduce the vertical growing of carrots using blue storage totes.",
-                "Highlight the creation of a DIY trellis system for melon vines.",
-                "Describe the front yard setup with containers, herbs, and fruit trees.",
-                "Mention growing potatoes in potato bags."
+                "Provide an overview of urban gardening techniques",
+                "Discuss use of raised beds",
+                "Explain container gardening with various materials",
+                "Describe growing herbs in terracotta pots",
+                "Mention the use of rain gutters for gardening",
+                "Highlight dwarf fruit trees and their placement",
+                "Explain the evolution of the backyard garden over five years",
+                "Describe the construction and purpose of waist-high salad bar",
+                "Demonstrate vertical gardening with blue storage totes for carrots",
+                "Showcase trellis systems for melons and other climbing plants",
+                "Highlight urban garden space in front yard with containers",
+                "Mention potato growing in bags",
+                "Tour community garden plot, discussing organic pest control methods",
+                "Describe garlic cultivation and\u6536\u83b7\u8ba1\u5212",
+                "Show cucumbers and other vertical-grown crops",
+                "Highlight diversity in tomato varieties and advanced growing techniques"
             ]
         },
         {
-            "task": "Tour of the allotment plot.",
+            "task": "Okay, so I need to generate tasks based on this urban gardening tour transcript. Let me break it down step by step. The main task here is giving a tour of an urban garden. The video's presenter, Luai, takes viewers through both their backyard and a community garden plot. So, the MAINTASK should be something like giving a tour of an urban garden. Then, under that, there will be several subtasks related to the different gardening techniques and features shown in the tour.",
+            "subtasks": []
+        },
+        {
+            "task": "Urban gardening tour",
             "subtasks": [
-                "Walk through the allotment garden, noting organic practices.",
-                "Showcase garlic growing and impending harvest.",
-                "Describe vertical gardening with cucumbers and cucamelons.",
-                "Present a variety of brassicas such as cabbage.",
-                "Display chili peppers and sweet peppers in the garden.",
-                "Highlight an extensive tomato variety demonstration."
+                "Discuss the use of raised beds in a backyard setting",
+                "Explain vertical gardening with blue storage totes",
+                "Show the benefits of a waist-high salad bar for pest control",
+                "Describe organic pest control methods in a community garden plot",
+                "Demonstrate trellis systems for supporting climbing plants",
+                "Highlight the use of containers and rain gutters for gardening",
+                "Showcase a DIY-built trellis and vertical gardening techniques",
+                "Tour a community garden plot and discuss the variety of crops grown"
+            ]
+        },
+        {
+            "task": "Urban gardening tour",
+            "subtasks": [
+                "Show and describe various raised bed setups (containers, materials used)",
+                "Demonstrate growing herbs in terracotta pots",
+                "Outline the use of rain gutters for gardening",
+                "Explain the significance of dwarf fruit trees",
+                "Tour the backyard raised beds and discuss their layout and use",
+                "Showcase the waist-high salad bar and explain its benefits",
+                "Demonstrate the process of growing and caring for climbing plants (melons, etc.) on a trellis system",
+                "Present examples of container gardening in front yard (potatoes, peppers, herbs)",
+                "Tour the community garden plot, discussing the variety of crops and organic practices used There",
+                "Show examples of using vertical gardening techniques for carrots and other crops",
+                "Highlight organic pest control methods in the garden, like using the tutu tool"
+            ]
+        },
+        {
+            "task": "Tour urban garden",
+            "subtasks": [
+                "Walk through the backyard space",
+                "Point out and demonstrate raised bed construction",
+                "Show and handle different containers (e.g., terracotta pots, grow bags)",
+                "Inspect and explain vertical growing setup (e.g., blue storage totes for carrots)",
+                "Show the waist-high salad bar and discuss its use",
+                "Demonstrate the care of climbing plants (e.g., melons on a trellis)",
+                "Walk through the front yard and show patios and balcony containers",
+                "Explain and show organic pest control methods (e.g., using the tutu tool)",
+                "Visit the community garden plot and show various crops and their arrangements"
+            ]
+        },
+        {
+            "task": "Conduct an urban garden tour",
+            "subtasks": [
+                "Lead the viewer through the backyard, stopping at different areas",
+                "Point out and discuss raised beds, mentioning materials used (e.g., cedar, wood)",
+                "Show how containers (like plastic, grow bags, terracotta) are used in different areas",
+                "Demonstrate handling herbs in terracotta pots (showing portability)",
+                "Walk through the use of rain gutters, physically showing the galvanized steel ones",
+                "Mention the dwarf fruit trees and show them in the garden",
+                "Discuss five years of gardening evolution in the backyard",
+                "Explain the waist-high salad bar design and benefits",
+                "Handle and demonstrate the blue storage totes used for carrots",
+                "Show the DIY trellis system for melons and other climbers",
+                "Walk through the front yard and show containers like Bencher bk, grow bags, and herb pots",
+                "Discuss the use of garden plots in the front yard (containers, potatoes in bags)",
+                "Visit the community garden plot, walking through different sections",
+                "Explain horizontal and vertical growing techniques in the community garden",
+                "Show the use of organic pest control methods, like the tutu tool",
+                "Describe the planting of garlic, tomatoes, peppers, etc., in the community garden"
+            ]
+        },
+        {
+            "task": "Therefore, the primary task (MAINTASK) is conducting an urban garden tour, and the subtasks involve various demonstrations and explanations of different gardening techniques and features shown in the tour.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Urban gardening tour",
+            "subtasks": [
+                "Lead the viewer through the backyard, stopping at different garden features",
+                "Explain the construction and materials of raised beds (e.g., cedar, wood)",
+                "Demonstrate the use of containers like plastic grow bags, terracotta pots, and Bencher bk ($ POSSIBLE MISTYPE)",
+                "Show how to use terracotta pots for portable herbs",
+                "Discuss the use of rain gutters for growing vegetables (e.g., radishes, beans)",
+                "Highlight the benefits of dwarf fruit trees (pear, peach, plum)",
+                "Explain the evolution of the backyard garden over five years",
+                "Demonstrate the functionality of the waist-high salad bar",
+                "Show and explain the blue storage totes used for growing carrots vertically",
+                "Demonstrate a DIY trellis system for climbing plants (e.g., melons)",
+                "Showcase container gardening techniques in the front yard (e.g., herbs, potatoes in bags)",
+                "Tour the community garden plot, showing various organic pest control methods (e.g., tutu tool)",
+                "Discuss the diversity of crops grown in the community garden plot (e.g., garlic, cucumbers, tomatoes, peppers)",
+                "Explain organic practices used in the community garden, such as protecting crops from pests"
             ]
         }
     ]

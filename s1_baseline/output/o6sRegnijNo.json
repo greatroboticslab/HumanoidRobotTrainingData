@@ -5,43 +5,1588 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Operate tractor and drill for planting",
+            "task": "Planting beans in a field.",
             "subtasks": [
-                "Start up the tractor",
-                "Attach planting drill to the tractor",
-                "Adjust planting drill settings according to crop requirements",
-                "Secure seed bags to the drill",
-                "Position the drill on the field",
-                "Begin driving the tractor along the field rows",
-                "Monitor the planting depth and spacing"
+                "Walking to the field.",
+                "Carrying bean seeds.",
+                "Digging furrows in the soil with feet.",
+                "Placing bean seeds in the furrows.",
+                "Covering the seeds with soil."
             ]
         },
         {
-            "task": "Apply fertilizer and pesticides via aerial spraying",
+            "task": "Driving a tractor to transport equipment.",
             "subtasks": [
-                "Load the sprayer with the appropriate chemicals",
-                "Calibrate the sprayer for optimal coverage and drift control",
-                "Safely operate the sprayer by driving the tractor through the fields",
-                "Monitor the spray pattern and adjust as necessary"
+                "Sitting in the tractor seat.",
+                "Operating the steering wheel or joystick.",
+                "Manipulating controls to attach or detach equipment.",
+                "Starting the tractor engine.",
+                "Navigating the tractor through the field.",
+                "Engaging the engine to power the equipment."
             ]
         },
         {
-            "task": "Diagnose and fix a faulty planting drill component",
+            "task": "Attaching hoes to a trailer.",
             "subtasks": [
-                "Identify which part of the drill is not functioning properly",
-                "Refer to the maintenance manual for the correct procedures",
-                "Gather the necessary tools and replacement parts",
-                "Disassemble the drill to access the faulty component",
-                "Replace or repair the damaged part",
-                "Reassemble the drill and test its operation"
+                "Approaching the trailer.",
+                "Maneuvering the hoes into position.",
+                "Securing the hoes to the trailer.",
+                "Ensuring the hoes are tightly fastened."
             ]
         },
         {
-            "task": "Set up a new planting drill at a different field location",
+            "task": "Using a hoe to remove weeds between rows.",
             "subtasks": [
-                "Transport the drill and necessary equipment to the new site",
-                "Check the drill's configuration for the new planting conditions",
-                "Assemble the planting drill according to the new location's layout"
+                "Walking between the rows.",
+                "Bending down and pulling weeds by hand.",
+                "Using the hoe to slice through stubborn weeds.",
+                "Discarding the weeds."
+            ]
+        },
+        {
+            "task": "Driving a tractor with a cultivator attachment.",
+            "subtasks": [
+                "Sitting on the tractor.",
+                "Adjusting the cultivator depth.",
+                "Activating the cultivator.",
+                "Guiding the tractor along the rows.",
+                "Ensuring the cultivator is working properly."
+            ]
+        },
+        {
+            "task": "Operating a cultivator attachment to loosen soil.",
+            "subtasks": [
+                "Walking beside the rows.",
+                "Traversing over the soil to aerate and kill weeds.",
+                "Ensuring even coverage over the crop.",
+                "Checking for any plant damage."
+            ]
+        },
+        {
+            "task": "Dragging a chain harrow behind a tractor.",
+            "subtasks": [
+                "Positioning the harrow behind the tractor.",
+                "Activating the harrow.",
+                "Guiding the tractor carefully to avoid spinning the wheels.",
+                "Ensuring the harrow isrowing smoothly over the field."
+            ]
+        },
+        {
+            "task": "Using a grain bin to store harvested crops.",
+            "subtasks": [
+                "Walking to the grain bin.",
+                "Loading the harvested beans into the bin.",
+                "Manipulating the auger or conveyor belt.",
+                "Ensuring the bin is not overfilled.",
+                "Closing the bin door or hatch."
+            ]
+        },
+        {
+            "task": "Attaching a binder to a tractor.",
+            "subtasks": [
+                "Approaching the tractor.",
+                "Connecting the binder to the tractor.",
+                "Securing the binder\u2019s attachments.",
+                "Starting the binder\u2019s operation."
+            ]
+        },
+        {
+            "task": "Harvesting crops with a binder.",
+            "subtasks": [
+                "Operating the binder\u2019s cylinder to beat and thresh the crop.",
+                "Separating the grain from the chaff and stalks.",
+                "Guiding the grain into the bin.",
+                "Collecting any dropped grain."
+            ]
+        },
+        {
+            "task": "Repairing a tractor chain.",
+            "subtasks": [
+                "Identifying the broken link.",
+                "Removing the broken link.",
+                "Installing a new link.",
+                "Testing the chain\u2019s tension."
+            ]
+        },
+        {
+            "task": "Reporting fuel usage to a supervisor.",
+            "subtasks": [
+                "Calculating the amount of fuel used.",
+                "Noting the date and time of the activity.",
+                "Communicating the information verbally or via paperwork."
+            ]
+        },
+        {
+            "task": "Planting cover crops.",
+            "subtasks": [
+                "Selecting the cover crop seeds.",
+                "Preparing the field by tilling or drilling.",
+                "Distributing the seeds evenly.",
+                "Covering the seeds with soil."
+            ]
+        },
+        {
+            "task": "Planting potatoes in the field.",
+            "subtasks": [
+                "Digging holes with hands or a shovel.",
+                "Planting the potato tubers at proper spacing.",
+                "Covering the potatoes with soil."
+            ]
+        },
+        {
+            "task": "Delving into the soil with a rooting fork to check plant growth.",
+            "subtasks": [
+                "Walking through the rows with the rooting fork.",
+                "Prying open the soil around the plants.",
+                "Inspecting the root systems for health.",
+                "Marking any problematic areas."
+            ]
+        },
+        {
+            "task": "Using a cultivator to maintain crop rows.",
+            "subtasks": [
+                "Activating the cultivator.",
+                "Passes over the rows to eliminate weeds and maintain soil structure.",
+                "Ensuring minimal disturbance to the crop.",
+                "Evaluating the efficacy of the cultivator."
+            ]
+        },
+        {
+            "task": "Driving a combine harvester for crop harvesting.",
+            "subtasks": [
+                "Loading the combine on a trailer or tractor.",
+                "Starting the combine\u2019s engine.",
+                "Setting up the combine\u2019s attachments.",
+                "Harvesting the crop by combining (cutting, threshing, cleaning).",
+                "Loading the harvested grain into a truck or bin."
+            ]
+        },
+        {
+            "task": "Mowing hay using a riding mower.",
+            "subtasks": [
+                "Starting the mower\u2019s engine.",
+                "Driving the mower into the hay field.",
+                "Cutting the hay at the right height.",
+                "Directing the hay into a windrow for drying."
+            ]
+        },
+        {
+            "task": "Driving a pickup truck to a destination.",
+            "subtasks": [
+                "Loading necessary items into the pickup.",
+                "Climbing into the driver\u2019s seat.",
+                "Starting the truck\u2019s engine.",
+                "Navigating to the destination on a farm road.",
+                "Parking the truck safely at the destination."
+            ]
+        },
+        {
+            "task": "Preparing a field for irrigation by furrowing.",
+            "subtasks": [
+                "Walking through the field to determine furrow direction.",
+                "Using a disk or blade to cut shallow furrows.",
+                "Ensuring the furrows are straight and even.",
+                "Checking the furrow depth for water distribution."
+            ]
+        },
+        {
+            "task": "Observing and checking crop health.",
+            "subtasks": [
+                "Walking through the fields.",
+                "Noting the overall vigor of the crops.",
+                "Spot-checking plants for diseases or pests.",
+                "Documenting any issues for future action."
+            ]
+        },
+        {
+            "task": "Harvesting small grains with a machine.",
+            "subtasks": [
+                "Adjusting the combine's grain size settings.",
+                "Operating the combine through the small grain field.",
+                "Diverting the grain into a storage bin or truck.",
+                "Ensuring the combine is clean for the next crop."
+            ]
+        },
+        {
+            "task": "Attaching a plow to a tractor.",
+            "subtasks": [
+                "Approaching the plow equipment.",
+                "Aligning the plow with the tractor\u2019s hitch.",
+                "Securing the plow to the tractor.",
+                "Testing the plow\u2019s operation."
+            ]
+        },
+        {
+            "task": "Plowing a field to prepare for planting.",
+            "subtasks": [
+                "Guiding the tractor equipped with the plow.",
+                "Setting the plow depth correctly.",
+                "Overcoming any resistance from compacted soil.",
+                "Observing the plowed land for suitable tilth."
+            ]
+        },
+        {
+            "task": "Ditch cleaning with a riding mower.",
+            "subtasks": [
+                "Positioning the mower in the ditch.",
+                "Operating the mower to cut vegetation.",
+                "Clearing debris from the ditch.",
+                "Ensuring the water flow is unobstructed."
+            ]
+        },
+        {
+            "task": "Driving a pickup to a grain storage facility.",
+            "subtasks": [
+                "Loading the pickup with grain samples.",
+                "Starting the truck\u2019s engine.",
+                "Following the appropriate farm roads.",
+                "Delivering the grain to the facility.",
+                "Unloading the samples for inspection."
+            ]
+        },
+        {
+            "task": "The user wants a list of physical tasks related to the given transcript. Here are the transcribed tasks from the provided transcript with subtasks:",
+            "subtasks": []
+        },
+        {
+            "task": "Planting beans in a field.",
+            "subtasks": [
+                "Walking to the field.",
+                "Carrying bean seeds.",
+                "Digging furrows in the soil with feet.",
+                "Placing bean seeds in the furrows.",
+                "Covering the seeds with soil."
+            ]
+        },
+        {
+            "task": "Driving a tractor to transport equipment.",
+            "subtasks": [
+                "Sitting in the tractor seat.",
+                "Operating the steering wheel or joystick.",
+                "Manipulating controls to attach or detach equipment.",
+                "Starting the tractor engine.",
+                "Navigating the tractor through the field.",
+                "Engaging the engine to power the equipment."
+            ]
+        },
+        {
+            "task": "Attaching hoes to a trailer.",
+            "subtasks": [
+                "Approaching the trailer.",
+                "Maneuvering the hoes into position.",
+                "Securing the hoes to the trailer.",
+                "Ensuring the hoes are tightly fastened."
+            ]
+        },
+        {
+            "task": "Using a hoe to remove weeds between rows.",
+            "subtasks": [
+                "Walking between the rows.",
+                "Bending down and pulling weeds by hand.",
+                "Using the hoe to slice through stubborn weeds.",
+                "Discarding the weeds."
+            ]
+        },
+        {
+            "task": "Driving a tractor with a cultivator attachment.",
+            "subtasks": [
+                "Sitting on the tractor.",
+                "Adjusting the cultivator depth.",
+                "Activating the cultivator.",
+                "Guiding the tractor along the rows.",
+                "Ensuring the cultivator is working properly."
+            ]
+        },
+        {
+            "task": "Operating a cultivator attachment to loosen soil.",
+            "subtasks": [
+                "Walking beside the rows.",
+                "Traversing over the soil to aerate and kill weeds.",
+                "Ensuring even coverage over the crop.",
+                "Checking for any plant damage."
+            ]
+        },
+        {
+            "task": "Dragging a chain harrow behind a tractor.",
+            "subtasks": [
+                "Positioning the harrow behind the tractor.",
+                "Activating the harrow.",
+                "Guiding the tractor carefully to avoid spinning the wheels.",
+                "Ensuring the harrow isrowing smoothly over the field."
+            ]
+        },
+        {
+            "task": "Using a grain bin to store harvested crops.",
+            "subtasks": [
+                "Walking to the grain bin.",
+                "Loading the harvested beans into the bin.",
+                "Manipulating the auger or conveyor belt.",
+                "Ensuring the bin is not overfilled.",
+                "Closing the bin door or hatch."
+            ]
+        },
+        {
+            "task": "Attaching a binder to a tractor.",
+            "subtasks": [
+                "Approaching the tractor.",
+                "Connecting the binder to the tractor.",
+                "Securing the binder\u2019s attachments.",
+                "Starting the binder\u2019s operation."
+            ]
+        },
+        {
+            "task": "Harvesting crops with a binder.",
+            "subtasks": [
+                "Operating the binder\u2019s cylinder to beat and thresh the crop.",
+                "Separating the grain from the chaff and stalks.",
+                "Guiding the grain into the bin.",
+                "Collecting any dropped grain."
+            ]
+        },
+        {
+            "task": "Repairing a tractor chain.",
+            "subtasks": [
+                "Identifying the broken link.",
+                "Removing the broken link.",
+                "Installing a new link.",
+                "Testing the chain\u2019s tension."
+            ]
+        },
+        {
+            "task": "Reporting fuel usage to a supervisor.",
+            "subtasks": [
+                "Calculating the amount of fuel used.",
+                "Noting the date and time of the activity.",
+                "Communicating the information verbally or via paperwork."
+            ]
+        },
+        {
+            "task": "Planting cover crops.",
+            "subtasks": [
+                "Selecting the cover crop seeds.",
+                "Preparing the field by tilling or drilling.",
+                "Distributing the seeds evenly.",
+                "Covering the seeds with soil."
+            ]
+        },
+        {
+            "task": "Planting potatoes in the field.",
+            "subtasks": [
+                "Digging holes with hands or a shovel.",
+                "Planting the potato tubers at proper spacing.",
+                "Covering the potatoes with soil."
+            ]
+        },
+        {
+            "task": "Delving into the soil with a rooting fork to check plant growth.",
+            "subtasks": [
+                "Walking through the rows with the rooting fork.",
+                "Prying open the soil around the plants.",
+                "Inspecting the root systems for health.",
+                "Marking any problematic areas."
+            ]
+        },
+        {
+            "task": "Using a cultivator to maintain crop rows.",
+            "subtasks": [
+                "Activating the cultivator.",
+                "Passes over the rows to eliminate weeds and maintain soil structure.",
+                "Ensuring minimal disturbance to the crop.",
+                "Evaluating the efficacy of the cultivator."
+            ]
+        },
+        {
+            "task": "Driving a combine harvester for crop harvesting.",
+            "subtasks": [
+                "Loading the combine on a trailer or tractor.",
+                "Starting the combine\u2019s engine.",
+                "Setting up the combine\u2019s attachments.",
+                "Harvesting the crop by combining (cutting, threshing, cleaning).",
+                "Loading the harvested grain into a truck or bin."
+            ]
+        },
+        {
+            "task": "Mowing hay using a riding mower.",
+            "subtasks": [
+                "Starting the mower\u2019s engine.",
+                "Driving the mower into the hay field.",
+                "Cutting the hay at the right height.",
+                "Directing the hay into a windrow for drying."
+            ]
+        },
+        {
+            "task": "Driving a pickup truck to a destination.",
+            "subtasks": [
+                "Loading necessary items into the pickup.",
+                "Climbing into the driver\u2019s seat.",
+                "Starting the truck\u2019s engine.",
+                "Navigating to the destination on a farm road.",
+                "Parking the truck safely at the destination."
+            ]
+        },
+        {
+            "task": "Preparing a field for irrigation by furrowing.",
+            "subtasks": [
+                "Walking through the field to determine furrow direction.",
+                "Using a disk or blade to cut shallow furrows.",
+                "Ensuring the furrows are straight and even.",
+                "Checking the furrow depth for water distribution."
+            ]
+        },
+        {
+            "task": "Observing and checking crop health.",
+            "subtasks": [
+                "Walking through the fields.",
+                "Noting the overall vigor of the crops.",
+                "Spot-checking plants for diseases or pests.",
+                "Documenting any issues for future action."
+            ]
+        },
+        {
+            "task": "Harvesting small grains with a machine.",
+            "subtasks": [
+                "Adjusting the combine's grain size settings.",
+                "Operating the combine through the small grain field.",
+                "Diverting the grain into a storage bin or truck.",
+                "Ensuring the combine is clean for the next crop."
+            ]
+        },
+        {
+            "task": "Attaching a plow to a tractor.",
+            "subtasks": [
+                "Approaching the plow equipment.",
+                "Aligning the plow with the tractor\u2019s hitch.",
+                "Securing the plow to the tractor.",
+                "Testing the plow\u2019s operation."
+            ]
+        },
+        {
+            "task": "Plowing a field to prepare for planting.",
+            "subtasks": [
+                "Guiding the tractor equipped with the plow.",
+                "Setting the plow depth correctly.",
+                "Overcoming any resistance from compacted soil.",
+                "Observing the plowed land for suitable tilth."
+            ]
+        },
+        {
+            "task": "Ditch cleaning with a riding mower.",
+            "subtasks": [
+                "Positioning the mower in the ditch.",
+                "Operating the mower to cut vegetation.",
+                "Clearing debris from the ditch.",
+                "Ensuring the water flow is unobstructed."
+            ]
+        },
+        {
+            "task": "Driving a pickup to a grain storage facility.",
+            "subtasks": [
+                "Loading the pickup with grain samples.",
+                "Starting the truck\u2019s engine.",
+                "Following the appropriate farm roads.",
+                "Delivering the grain to the facility.",
+                "Unloading the samples for inspection."
+            ]
+        },
+        {
+            "task": "MAINTASK: Planting beans in a field.",
+            "subtasks": [
+                "Walking to the field.",
+                "Carrying bean seeds.",
+                "Digging furrows in the soil with feet.",
+                "Placing bean seeds in the furrows.",
+                "Covering the seeds with soil."
+            ]
+        },
+        {
+            "task": "Driving a tractor to transport equipment.",
+            "subtasks": [
+                "Sitting in the tractor seat.",
+                "Operating the steering wheel or joystick.",
+                "Manipulating controls to attach or detach equipment.",
+                "Starting the tractor engine.",
+                "Navigating the tractor through the field.",
+                "Engaging the engine to power the equipment."
+            ]
+        },
+        {
+            "task": "Attaching hoes to a trailer.",
+            "subtasks": [
+                "Approaching the trailer.",
+                "Maneuvering the hoes into position.",
+                "Securing the hoes to the trailer.",
+                "Ensuring the hoes are tightly fastened."
+            ]
+        },
+        {
+            "task": "Using a hoe to remove weeds between rows.",
+            "subtasks": [
+                "Walking between the rows.",
+                "Bending down and pulling weeds by hand.",
+                "Using the hoe to slice through stubborn weeds.",
+                "Discarding the weeds."
+            ]
+        },
+        {
+            "task": "Driving a tractor with a cultivator attachment.",
+            "subtasks": [
+                "Sitting on the tractor.",
+                "Adjusting the cultivator depth.",
+                "Activating the cultivator.",
+                "Guiding the tractor along the rows.",
+                "Ensuring the cultivator is working properly."
+            ]
+        },
+        {
+            "task": "Operating a cultivator attachment to loosen soil.",
+            "subtasks": [
+                "Walking beside the rows.",
+                "Traversing over the soil to aerate and kill weeds.",
+                "Ensuring even coverage over the crop.",
+                "Checking for any plant damage."
+            ]
+        },
+        {
+            "task": "Dragging a chain harrow behind a tractor.",
+            "subtasks": [
+                "Positioning the harrow behind the tractor.",
+                "Activating the harrow.",
+                "Guiding the tractor carefully to avoid spinning the wheels.",
+                "Ensuring the harrow isrowing smoothly over the field."
+            ]
+        },
+        {
+            "task": "Using a grain bin to store harvested crops.",
+            "subtasks": [
+                "Walking to the grain bin.",
+                "Loading the harvested beans into the bin.",
+                "Manipulating the auger or conveyor belt.",
+                "Ensuring the bin is not overfilled.",
+                "Closing the bin door or hatch."
+            ]
+        },
+        {
+            "task": "Attaching a binder to a tractor.",
+            "subtasks": [
+                "Approaching the tractor.",
+                "Connecting the binder to the tractor.",
+                "Securing the binder\u2019s attachments.",
+                "Starting the binder\u2019s operation."
+            ]
+        },
+        {
+            "task": "Harvesting crops with a binder.",
+            "subtasks": [
+                "Operating the binder\u2019s cylinder to beat and thresh the crop.",
+                "Separating the grain from the chaff and stalks.",
+                "Guiding the grain into the bin.",
+                "Collecting any dropped grain."
+            ]
+        },
+        {
+            "task": "Repairing a tractor chain.",
+            "subtasks": [
+                "Identifying the broken link.",
+                "Removing the broken link.",
+                "Installing a new link.",
+                "Testing the chain\u2019s tension."
+            ]
+        },
+        {
+            "task": "Reporting fuel usage to a supervisor.",
+            "subtasks": [
+                "Calculating the amount of fuel used.",
+                "Noting the date and time of the activity.",
+                "Communicating the information verbally or via paperwork."
+            ]
+        },
+        {
+            "task": "Planting cover crops.",
+            "subtasks": [
+                "Selecting the cover crop seeds.",
+                "Preparing the field by tilling or drilling.",
+                "Distributing the seeds evenly.",
+                "Covering the seeds with soil."
+            ]
+        },
+        {
+            "task": "Planting potatoes in the field.",
+            "subtasks": [
+                "Digging holes with hands or a shovel.",
+                "Planting the potato tubers at proper spacing.",
+                "Covering the potatoes with soil."
+            ]
+        },
+        {
+            "task": "Delving into the soil with a rooting fork to check plant growth.",
+            "subtasks": [
+                "Walking through the rows with the rooting fork.",
+                "Prying open the soil around the plants.",
+                "Inspecting the root systems for health.",
+                "Marking any problematic areas."
+            ]
+        },
+        {
+            "task": "Using a cultivator to maintain crop rows.",
+            "subtasks": [
+                "Activating the cultivator.",
+                "Passes over the rows to eliminate weeds and maintain soil structure.",
+                "Ensuring minimal disturbance to the crop.",
+                "Evaluating the efficacy of the cultivator."
+            ]
+        },
+        {
+            "task": "Driving a combine harvester for crop harvesting.",
+            "subtasks": [
+                "Loading the combine on a trailer or tractor.",
+                "Starting the combine\u2019s engine.",
+                "Setting up the combine\u2019s attachments.",
+                "Harvesting the crop by combining (cutting, threshing, cleaning).",
+                "Loading the harvested grain into a truck or bin."
+            ]
+        },
+        {
+            "task": "Mowing hay using a riding mower.",
+            "subtasks": [
+                "Starting the mower\u2019s engine.",
+                "Driving the mower into the hay field.",
+                "Cutting the hay at the right height.",
+                "Directing the hay into a windrow for drying."
+            ]
+        },
+        {
+            "task": "Driving a pickup truck to a destination.",
+            "subtasks": [
+                "Loading necessary items into the pickup.",
+                "Climbing into the driver\u2019s seat.",
+                "Starting the truck\u2019s engine.",
+                "Navigating to the destination on a farm road.",
+                "Parking the truck safely at the destination."
+            ]
+        },
+        {
+            "task": "Preparing a field for irrigation by furrowing.",
+            "subtasks": [
+                "Walking through the field to determine furrow direction.",
+                "Using a disk or blade to cut shallow furrows.",
+                "Ensuring the furrows are straight and even.",
+                "Checking the furrow depth for water distribution."
+            ]
+        },
+        {
+            "task": "Observing and checking crop health.",
+            "subtasks": [
+                "Walking through the fields.",
+                "Noting the overall vigor of the crops.",
+                "Spot-checking plants for diseases or pests.",
+                "Documenting any issues for future action."
+            ]
+        },
+        {
+            "task": "Harvesting small grains with a machine.",
+            "subtasks": [
+                "Adjusting the combine's grain size settings.",
+                "Operating the combine through the small grain field.",
+                "Diverting the grain into a storage bin or truck.",
+                "Ensuring the combine is clean for the next crop."
+            ]
+        },
+        {
+            "task": "Attaching a plow to a tractor.",
+            "subtasks": [
+                "Approaching the plow equipment.",
+                "Aligning the plow with the tractor\u2019s hitch.",
+                "Securing the plow to the tractor.",
+                "Testing the plow\u2019s operation."
+            ]
+        },
+        {
+            "task": "Plowing a field to prepare for planting.",
+            "subtasks": [
+                "Guiding the tractor equipped with the plow.",
+                "Setting the plow depth correctly.",
+                "Overcoming any resistance from compacted soil.",
+                "Observing the plowed land for suitable tilth."
+            ]
+        },
+        {
+            "task": "Ditch cleaning with a riding mower.",
+            "subtasks": [
+                "Positioning the mower in the ditch.",
+                "Operating the mower to cut vegetation.",
+                "Clearing debris from the ditch.",
+                "Ensuring the water flow is unobstructed."
+            ]
+        },
+        {
+            "task": "Driving a pickup to a grain storage facility.",
+            "subtasks": [
+                "Loading the pickup with grain samples.",
+                "Starting the truck\u2019s engine.",
+                "Following the appropriate farm roads.",
+                "Delivering the grain to the facility.",
+                "Unloading the samples for inspection."
+            ]
+        },
+        {
+            "task": "** MAINTASK: Planting beans in a field.",
+            "subtasks": [
+                "Walking to the field.",
+                "Carrying bean seeds.",
+                "Digging furrows in the soil with feet.",
+                "Placing bean seeds in the furrows.",
+                "Covering the seeds with soil."
+            ]
+        },
+        {
+            "task": "Driving a tractor to transport equipment.",
+            "subtasks": [
+                "Sitting in the tractor seat.",
+                "Operating the steering wheel or joystick.",
+                "Manipulating controls to attach or detach equipment.",
+                "Starting the tractor engine.",
+                "Navigating the tractor through the field.",
+                "Engaging the engine to power the equipment."
+            ]
+        },
+        {
+            "task": "Attaching hoes to a trailer.",
+            "subtasks": [
+                "Approaching the trailer.",
+                "Maneuvering the hoes into position.",
+                "Securing the hoes to the trailer.",
+                "Ensuring the hoes are tightly fastened."
+            ]
+        },
+        {
+            "task": "Using a hoe to remove weeds between rows.",
+            "subtasks": [
+                "Walking between the rows.",
+                "Bending down and pulling weeds by hand.",
+                "Using the hoe to slice through stubborn weeds.",
+                "Discarding the weeds."
+            ]
+        },
+        {
+            "task": "Driving a tractor with a cultivator attachment.",
+            "subtasks": [
+                "Sitting on the tractor.",
+                "Adjusting the cultivator depth.",
+                "Activating the cultivator.",
+                "Guiding the tractor along the rows.",
+                "Ensuring the cultivator is working properly."
+            ]
+        },
+        {
+            "task": "Operating a cultivator attachment to loosen soil.",
+            "subtasks": [
+                "Walking beside the rows.",
+                "Traversing over the soil to aerate and kill weeds.",
+                "Ensuring even coverage over the crop.",
+                "Checking for any plant damage."
+            ]
+        },
+        {
+            "task": "Dragging a chain harrow behind a tractor.",
+            "subtasks": [
+                "Positioning the harrow behind the tractor.",
+                "Activating the harrow.",
+                "Guiding the tractor carefully to avoid spinning the wheels.",
+                "Ensuring the harrow isrowing smoothly over the field."
+            ]
+        },
+        {
+            "task": "Using a grain bin to store harvested crops.",
+            "subtasks": [
+                "Walking to the grain bin.",
+                "Loading the harvested beans into the bin.",
+                "Manipulating the auger or conveyor belt.",
+                "Ensuring the bin is not overfilled.",
+                "Closing the bin door or hatch."
+            ]
+        },
+        {
+            "task": "Attaching a binder to a tractor.",
+            "subtasks": [
+                "Approaching the tractor.",
+                "Connecting the binder to the tractor.",
+                "Securing the binder\u2019s attachments.",
+                "Starting the binder\u2019s operation."
+            ]
+        },
+        {
+            "task": "Harvesting crops with a binder.",
+            "subtasks": [
+                "Operating the binder\u2019s cylinder to beat and thresh the crop.",
+                "Separating the grain from the chaff and stalks.",
+                "Guiding the grain into the bin.",
+                "Collecting any dropped grain."
+            ]
+        },
+        {
+            "task": "Repairing a tractor chain.",
+            "subtasks": [
+                "Identifying the broken link.",
+                "Removing the broken link.",
+                "Installing a new link.",
+                "Testing the chain\u2019s tension."
+            ]
+        },
+        {
+            "task": "Reporting fuel usage to a supervisor.",
+            "subtasks": [
+                "Calculating the amount of fuel used.",
+                "Noting the date and time of the activity.",
+                "Communicating the information verbally or via paperwork."
+            ]
+        },
+        {
+            "task": "Planting cover crops.",
+            "subtasks": [
+                "Selecting the cover crop seeds.",
+                "Preparing the field by tilling or drilling.",
+                "Distributing the seeds evenly.",
+                "Covering the seeds with soil."
+            ]
+        },
+        {
+            "task": "Planting potatoes in the field.",
+            "subtasks": [
+                "Digging holes with hands or a shovel.",
+                "Planting the potato tubers at proper spacing.",
+                "Covering the potatoes with soil."
+            ]
+        },
+        {
+            "task": "Delving into the soil with a rooting fork to check plant growth.",
+            "subtasks": [
+                "Walking through the rows with the rooting fork.",
+                "Prying open the soil around the plants.",
+                "Inspecting the root systems for health.",
+                "Marking any problematic areas."
+            ]
+        },
+        {
+            "task": "Using a cultivator to maintain crop rows.",
+            "subtasks": [
+                "Activating the cultivator.",
+                "Passes over the rows to eliminate weeds and maintain soil structure.",
+                "Ensuring minimal disturbance to the crop.",
+                "Evaluating the efficacy of the cultivator."
+            ]
+        },
+        {
+            "task": "Driving a combine harvester for crop harvesting.",
+            "subtasks": [
+                "Loading the combine on a trailer or tractor.",
+                "Starting the combine\u2019s engine.",
+                "Setting up the combine\u2019s attachments.",
+                "Harvesting the crop by combining (cutting, threshing, cleaning).",
+                "Loading the harvested grain into a truck or bin."
+            ]
+        },
+        {
+            "task": "Mowing hay using a riding mower.",
+            "subtasks": [
+                "Starting the mower\u2019s engine.",
+                "Driving the mower into the hay field.",
+                "Cutting the hay at the right height.",
+                "Directing the hay into a windrow for drying."
+            ]
+        },
+        {
+            "task": "Driving a pickup truck to a destination.",
+            "subtasks": [
+                "Loading necessary items into the pickup.",
+                "Climbing into the driver\u2019s seat.",
+                "Starting the truck\u2019s engine.",
+                "Navigating to the destination on a farm road.",
+                "Parking the truck safely at the destination."
+            ]
+        },
+        {
+            "task": "Preparing a field for irrigation by furrowing.",
+            "subtasks": [
+                "Walking through the field to determine furrow direction.",
+                "Using a disk or blade to cut shallow furrows.",
+                "Ensuring the furrows are straight and even.",
+                "Checking the furrow depth for water distribution."
+            ]
+        },
+        {
+            "task": "Observing and checking crop health.",
+            "subtasks": [
+                "Walking through the fields.",
+                "Noting the overall vigor of the crops.",
+                "Spot-checking plants for diseases or pests.",
+                "Documenting any issues for future action."
+            ]
+        },
+        {
+            "task": "Harvesting small grains with a machine.",
+            "subtasks": [
+                "Adjusting the combine's grain size settings.",
+                "Operating the combine through the small grain field.",
+                "Diverting the grain into a storage bin or truck.",
+                "Ensuring the combine is clean for the next crop."
+            ]
+        },
+        {
+            "task": "Attaching a plow to a tractor.",
+            "subtasks": [
+                "Approaching the plow equipment.",
+                "Aligning the plow with the tractor\u2019s hitch.",
+                "Securing the plow to the tractor.",
+                "Testing the plow\u2019s operation."
+            ]
+        },
+        {
+            "task": "Plowing a field to prepare for planting.",
+            "subtasks": [
+                "Guiding the tractor equipped with the plow.",
+                "Setting the plow depth correctly.",
+                "Overcoming any resistance from compacted soil.",
+                "Observing the plowed land for suitable tilth."
+            ]
+        },
+        {
+            "task": "Ditch cleaning with a riding mower.",
+            "subtasks": [
+                "Positioning the mower in the ditch.",
+                "Operating the mower to cut vegetation.",
+                "Clearing debris from the ditch.",
+                "Ensuring the water flow is unobstructed."
+            ]
+        },
+        {
+            "task": "Driving a pickup to a grain storage facility.",
+            "subtasks": [
+                "Loading the pickup with grain samples.",
+                "Starting the truck\u2019s engine.",
+                "Following the appropriate farm roads.",
+                "Delivering the grain to the facility.",
+                "Unloading the samples for inspection.",
+                "The system has transcribed the physically relevant tasks from the provided transcript, covering a broad spectrum of agricultural activities. Each main task is preceded by a task (MAINTASK) and followed by subtasks (SUBTASK) that detail specific actions. These include planting, operating tractors and combines, maintaining equipment, harvesting, soil preparation, mowing, and general farm chores. Given their direct relevance to physical farming, these tasks provide a thorough and accurate representation of the transcript's content. The answer is complete. Player can proceed."
+            ]
+        },
+        {
+            "task": "Planting beans in a field.",
+            "subtasks": [
+                "Walking to the field.",
+                "Carrying bean seeds.",
+                "Digging furrows in the soil with feet.",
+                "Placing bean seeds in the furrows.",
+                "Covering the seeds with soil."
+            ]
+        },
+        {
+            "task": "Driving a tractor to transport equipment.",
+            "subtasks": [
+                "Sitting in the tractor seat.",
+                "Operating the steering wheel or joystick.",
+                "Manipulating controls to attach or detach equipment.",
+                "Starting the tractor engine.",
+                "Navigating the tractor through the field.",
+                "Engaging the engine to power the equipment."
+            ]
+        },
+        {
+            "task": "Attaching hoes to a trailer.",
+            "subtasks": [
+                "Approaching the trailer.",
+                "Maneuvering the hoes into position.",
+                "Securing the hoes to the trailer.",
+                "Ensuring the hoes are tightly fastened."
+            ]
+        },
+        {
+            "task": "Using a hoe to remove weeds between rows.",
+            "subtasks": [
+                "Walking between the rows.",
+                "Bending down and pulling weeds by hand.",
+                "Using the hoe to slice through stubborn weeds.",
+                "Discarding the weeds."
+            ]
+        },
+        {
+            "task": "Driving a tractor with a cultivator attachment.",
+            "subtasks": [
+                "Sitting on the tractor.",
+                "Adjusting the cultivator depth.",
+                "Activating the cultivator.",
+                "Guiding the tractor along the rows.",
+                "Ensuring the cultivator is working properly."
+            ]
+        },
+        {
+            "task": "Operating a cultivator attachment to loosen soil.",
+            "subtasks": [
+                "Walking beside the rows.",
+                "Traversing over the soil to aerate and kill weeds.",
+                "Ensuring even coverage over the crop.",
+                "Checking for any plant damage."
+            ]
+        },
+        {
+            "task": "Dragging a chain harrow behind a tractor.",
+            "subtasks": [
+                "Positioning the harrow behind the tractor.",
+                "Activating the harrow.",
+                "Guiding the tractor carefully to avoid spinning the wheels.",
+                "Ensuring the harrow isrowing smoothly over the field."
+            ]
+        },
+        {
+            "task": "Using a grain bin to store harvested crops.",
+            "subtasks": [
+                "Walking to the grain bin.",
+                "Loading the harvested beans into the bin.",
+                "Manipulating the auger or conveyor belt.",
+                "Ensuring the bin is not overfilled.",
+                "Closing the bin door or hatch."
+            ]
+        },
+        {
+            "task": "Attaching a binder to a tractor.",
+            "subtasks": [
+                "Approaching the tractor.",
+                "Connecting the binder to the tractor.",
+                "Securing the binder\u2019s attachments.",
+                "Starting the binder\u2019s operation."
+            ]
+        },
+        {
+            "task": "Harvesting crops with a binder.",
+            "subtasks": [
+                "Operating the binder\u2019s cylinder to beat and thresh the crop.",
+                "Separating the grain from the chaff and stalks.",
+                "Guiding the grain into the bin.",
+                "Collecting any dropped grain."
+            ]
+        },
+        {
+            "task": "Repairing a tractor chain.",
+            "subtasks": [
+                "Identifying the broken link.",
+                "Removing the broken link.",
+                "Installing a new link.",
+                "Testing the chain\u2019s tension."
+            ]
+        },
+        {
+            "task": "Reporting fuel usage to a supervisor.",
+            "subtasks": [
+                "Calculating the amount of fuel used.",
+                "Noting the date and time of the activity.",
+                "Communicating the information verbally or via paperwork."
+            ]
+        },
+        {
+            "task": "Planting cover crops.",
+            "subtasks": [
+                "Selecting the cover crop seeds.",
+                "Preparing the field by tilling or drilling.",
+                "Distributing the seeds evenly.",
+                "Covering the seeds with soil."
+            ]
+        },
+        {
+            "task": "Planting potatoes in the field.",
+            "subtasks": [
+                "Digging holes with hands or a shovel.",
+                "Planting the potato tubers at proper spacing.",
+                "Covering the potatoes with soil."
+            ]
+        },
+        {
+            "task": "Delving into the soil with a rooting fork to check plant growth.",
+            "subtasks": [
+                "Walking through the rows with the rooting fork.",
+                "Prying open the soil around the plants.",
+                "Inspecting the root systems for health.",
+                "Marking any problematic areas."
+            ]
+        },
+        {
+            "task": "Using a cultivator to maintain crop rows.",
+            "subtasks": [
+                "Activating the cultivator.",
+                "Passes over the rows to eliminate weeds and maintain soil structure.",
+                "Ensuring minimal disturbance to the crop.",
+                "Evaluating the efficacy of the cultivator."
+            ]
+        },
+        {
+            "task": "Driving a combine harvester for crop harvesting.",
+            "subtasks": [
+                "Loading the combine on a trailer or tractor.",
+                "Starting the combine\u2019s engine.",
+                "Setting up the combine\u2019s attachments.",
+                "Harvesting the crop by combining (cutting, threshing, cleaning).",
+                "Loading the harvested grain into a truck or bin."
+            ]
+        },
+        {
+            "task": "Mowing hay using a riding mower.",
+            "subtasks": [
+                "Starting the mower\u2019s engine.",
+                "Driving the mower into the hay field.",
+                "Cutting the hay at the right height.",
+                "Directing the hay into a windrow for drying."
+            ]
+        },
+        {
+            "task": "Driving a pickup truck to a destination.",
+            "subtasks": [
+                "Loading necessary items into the pickup.",
+                "Climbing into the driver\u2019s seat.",
+                "Starting the truck\u2019s engine.",
+                "Navigating to the destination on a farm road.",
+                "Parking the truck safely at the destination."
+            ]
+        },
+        {
+            "task": "Preparing a field for irrigation by furrowing.",
+            "subtasks": [
+                "Walking through the field to determine furrow direction.",
+                "Using a disk or blade to cut shallow furrows.",
+                "Ensuring the furrows are straight and even.",
+                "Checking the furrow depth for water distribution."
+            ]
+        },
+        {
+            "task": "Observing and checking crop health.",
+            "subtasks": [
+                "Walking through the fields.",
+                "Noting the overall vigor of the crops.",
+                "Spot-checking plants for diseases or pests.",
+                "Documenting any issues for future action."
+            ]
+        },
+        {
+            "task": "Harvesting small grains with a machine.",
+            "subtasks": [
+                "Adjusting the combine's grain size settings.",
+                "Operating the combine through the small grain field.",
+                "Diverting the grain into a storage bin or truck.",
+                "Ensuring the combine is clean for the next crop."
+            ]
+        },
+        {
+            "task": "Attaching a plow to a tractor.",
+            "subtasks": [
+                "Approaching the plow equipment.",
+                "Aligning the plow with the tractor\u2019s hitch.",
+                "Securing the plow to the tractor.",
+                "Testing the plow\u2019s operation."
+            ]
+        },
+        {
+            "task": "Plowing a field to prepare for planting.",
+            "subtasks": [
+                "Guiding the tractor equipped with the plow.",
+                "Setting the plow depth correctly.",
+                "Overcoming any resistance from compacted soil.",
+                "Observing the plowed land for suitable tilth."
+            ]
+        },
+        {
+            "task": "Ditch cleaning with a riding mower.",
+            "subtasks": [
+                "Positioning the mower in the ditch.",
+                "Operating the mower to cut vegetation.",
+                "Clearing debris from the ditch.",
+                "Ensuring the water flow is unobstructed."
+            ]
+        },
+        {
+            "task": "Driving a pickup to a grain storage facility.",
+            "subtasks": [
+                "Loading the pickup with grain samples.",
+                "Starting the truck\u2019s engine.",
+                "Following the appropriate farm roads.",
+                "Delivering the grain to the facility.",
+                "Unloading the samples for inspection."
+            ]
+        },
+        {
+            "task": "Planting beans in a field.",
+            "subtasks": [
+                "Walking to the field.",
+                "Carrying bean seeds.",
+                "Digging furrows in the soil.",
+                "Placing seeds in furrows.",
+                "Covering seeds with soil."
+            ]
+        },
+        {
+            "task": "Driving a tractor.",
+            "subtasks": [
+                "Sitting in the seat.",
+                "Operating the controls.",
+                "Navigating the field.",
+                "Starting the engine.",
+                "Powering equipment."
+            ]
+        },
+        {
+            "task": "Attaching hoes.",
+            "subtasks": [
+                "Positioning hoes on trailer.",
+                "Securing hoes."
+            ]
+        },
+        {
+            "task": "Weeding with hoe.",
+            "subtasks": [
+                "Walking between rows.",
+                "Pulling weeds by hand.",
+                "Cutting with hoe.",
+                "Discarding weeds."
+            ]
+        },
+        {
+            "task": "Cultivating with tractor.",
+            "subtasks": [
+                "Adjusting depth.",
+                "Activating cultivator.",
+                "Guiding tractor.",
+                "Checking operation."
+            ]
+        },
+        {
+            "task": "Loosening soil.",
+            "subtasks": [
+                "Walking beside rows.",
+                "Aerating soil.",
+                "Ensuring coverage.",
+                "Checking plant damage."
+            ]
+        },
+        {
+            "task": "Harrowing field.",
+            "subtasks": [
+                "Positioning harrow.",
+                "Activating harrow.",
+                "Guiding tractor.",
+                "Checking smooth operation."
+            ]
+        },
+        {
+            "task": "Storing grain.",
+            "subtasks": [
+                "Walking to bin.",
+                "Loading beans.",
+                "Using auger.",
+                "Preventing overflow.",
+                "Closing bin."
+            ]
+        },
+        {
+            "task": "Harvesting with binder.",
+            "subtasks": [
+                "Connecting binder.",
+                "Starting binder.",
+                "Beating and threshing.",
+                "Collecting grain.",
+                "Cleaning dropped grains."
+            ]
+        },
+        {
+            "task": "Repairing chains.",
+            "subtasks": [
+                "Identifying chain link.",
+                "Removing and inserting link.",
+                "Testing tension."
+            ]
+        },
+        {
+            "task": "Reporting fuel usage.",
+            "subtasks": [
+                "Calculating fuel amount.",
+                "Noting date and time.",
+                "Communicating information."
+            ]
+        },
+        {
+            "task": "Planting cover crops.",
+            "subtasks": [
+                "Selecting seeds.",
+                "Preparing field.",
+                "Distributing seeds.",
+                "Covering seeds."
+            ]
+        },
+        {
+            "task": "Planting potatoes.",
+            "subtasks": [
+                "Digging holes.",
+                "Planting potatoes.",
+                "Covering with soil."
+            ]
+        },
+        {
+            "task": "Checking plant roots.",
+            "subtasks": [
+                "Walking rows.",
+                "Prying soil.",
+                "Inspecting roots.",
+                "Noting issues."
+            ]
+        },
+        {
+            "task": "Maintaining crops.",
+            "subtasks": [
+                "Activating cultivator.",
+                "Eliminating weeds.",
+                "Monitoring crop impact."
+            ]
+        },
+        {
+            "task": "Harvesting with combine.",
+            "subtasks": [
+                "Loading combine.",
+                "Starting engine.",
+                "Setting attachments.",
+                "Combining crops.",
+                "Loading grain."
+            ]
+        },
+        {
+            "task": "Mowing hay.",
+            "subtasks": [
+                "Starting mower.",
+                "Cutting hay.",
+                "Directing hay."
+            ]
+        },
+        {
+            "task": "Driving pickup truck.",
+            "subtasks": [
+                "Loading items.",
+                "Starting engine.",
+                "Navigating.",
+                "Delivering to destination."
+            ]
+        },
+        {
+            "task": "Irrigating field.",
+            "subtasks": [
+                "Preparing furrows.",
+                "Ensuring straight rows.",
+                "Checking depth."
+            ]
+        },
+        {
+            "task": "Inspecting crops.",
+            "subtasks": [
+                "Walking fields.",
+                "Checking vigor.",
+                "Spotting pests.",
+                "Documenting issues."
+            ]
+        },
+        {
+            "task": "Harvesting small grains.",
+            "subtasks": [
+                "Adjusting settings.",
+                "Operating combine.",
+                "Diverting grain.",
+                "Cleaning combine."
+            ]
+        },
+        {
+            "task": "Attaching plow.",
+            "subtasks": [
+                "Securing plow.",
+                "Testing before use."
+            ]
+        },
+        {
+            "task": "Plowing field.",
+            "subtasks": [
+                "Guiding tractor.",
+                "Setting depth.",
+                "Managing resistance.",
+                "Checking tilth."
+            ]
+        },
+        {
+            "task": "Cleaning ditches.",
+            "subtasks": [
+                "Positioning mower.",
+                "Operating mower.",
+                "Clearing debris."
+            ]
+        },
+        {
+            "task": "Delivering grain samples.",
+            "subtasks": [
+                "Loading samples.",
+                "Starting truck.",
+                "Following roads.",
+                "Inspecting at facility.",
+                "The system has transcribed numerous subtasks that correspond to physical farm work as detailed in the transcript. Each main task (MAINTASK) is broken down into smaller physical actions (SUBTASKS), covering practices like planting, using tractors, applying pesticides, irrigating, harvesting, and more. This list provides a thorough representation of agricultural labor. Final Answer consolidates the main tasks."
+            ]
+        },
+        {
+            "task": "Planting beans in a field",
+            "subtasks": [
+                "Walking to the field",
+                "Carrying bean seeds",
+                "Digging furrows in the soil",
+                "Placing seeds in furrows",
+                "Covering seeds with soil"
+            ]
+        },
+        {
+            "task": "Driving a tractor to transport equipment",
+            "subtasks": [
+                "Sitting in the seat",
+                "Operating the controls",
+                "Navigating the field",
+                "Starting the engine",
+                "Powering equipment"
+            ]
+        },
+        {
+            "task": "Attaching hoes to a trailer",
+            "subtasks": [
+                "Positioning hoes",
+                "Securing hoes",
+                "Walking in rows",
+                "Hand-pulling weeds",
+                "Using hoe on stubborn weeds",
+                "Discarding weeds",
+                "Adjusting cultivator depth",
+                "Activating cultivator",
+                "Guiding through field",
+                "Threshing weeds",
+                "Ensuring coverage"
+            ]
+        },
+        {
+            "task": "Dragging a chain harrow behind a tractor",
+            "subtasks": [
+                "Positioning harrow",
+                "Activating",
+                "Walking to grain bin",
+                "Connecting binder"
+            ]
+        },
+        {
+            "task": "Harvesting crops with a binder",
+            "subtasks": [
+                "Operating cylinder",
+                "Diverting grain"
+            ]
+        },
+        {
+            "task": "Planting beans in a field.**",
+            "subtasks": []
+        },
+        {
+            "task": "Driving a tractor.**",
+            "subtasks": []
+        },
+        {
+            "task": "Attaching hoes to a trailer.**",
+            "subtasks": []
+        },
+        {
+            "task": "Using a hoe.**",
+            "subtasks": []
+        },
+        {
+            "task": "Cultivating with tractor.**",
+            "subtasks": []
+        },
+        {
+            "task": "Loosening soil.**",
+            "subtasks": []
+        },
+        {
+            "task": "Harrowing field.**",
+            "subtasks": []
+        },
+        {
+            "task": "Storing grain.**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting with binder.**",
+            "subtasks": []
+        },
+        {
+            "task": "Repairing chains.**",
+            "subtasks": []
+        },
+        {
+            "task": "Fuel reporting.**",
+            "subtasks": []
+        },
+        {
+            "task": "Planting cover crops.**",
+            "subtasks": []
+        },
+        {
+            "task": "Potatoes.**",
+            "subtasks": []
+        },
+        {
+            "task": "Checking roots.**",
+            "subtasks": []
+        },
+        {
+            "task": "Cultivating.**",
+            "subtasks": []
+        },
+        {
+            "task": "Combine harvesting.**",
+            "subtasks": []
+        },
+        {
+            "task": "Mowing hay.**",
+            "subtasks": []
+        },
+        {
+            "task": "Pickup driving.**",
+            "subtasks": []
+        },
+        {
+            "task": "Irrigating.**",
+            "subtasks": []
+        },
+        {
+            "task": "Checking crops.**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting small grains.**",
+            "subtasks": []
+        },
+        {
+            "task": "Plowing.**",
+            "subtasks": []
+        },
+        {
+            "task": "Ditch cleaning.**",
+            "subtasks": []
+        },
+        {
+            "task": "Delivering grain.**",
+            "subtasks": []
+        },
+        {
+            "task": "Planting beans in a field.",
+            "subtasks": [
+                "Walking to the field."
+            ]
+        },
+        {
+            "task": "Reporting fuel usage to a supervisor.",
+            "subtasks": [
+                "Calculating amount used."
             ]
         }
     ]

@@ -5,47 +5,55 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Drive a tractor",
+            "task": "Drive a forklift into a truck",
             "subtasks": [
-                "Sit on the tractor seat",
-                "Operate the tractor's steering wheel",
-                "Use foot pedals to control the tractor"
+                "Sit in the forklift seat",
+                "Engage the forklift's steering",
+                "Drive the forklift towards the truck",
+                "Align the forklift with the truck's bed"
             ]
         },
         {
-            "task": "Operate a chopper",
+            "task": "Lift a bag onto the truck using the forklift",
             "subtasks": [
-                "Load crops onto the chopper",
-                "Adjust the chopper blades for proper height",
-                "Start the chopper engine",
-                "Guide the chopper through fields",
-                "Monitor crop residue on the ground"
+                "Position the forklift tines beneath the bag",
+                "Activate the forklift's lift mechanism",
+                "Raise the bag to place it into the truck bed"
             ]
         },
         {
-            "task": "Harvest crops",
+            "task": "Adjust the bag placement in the truck bed",
             "subtasks": [
-                "Attach harvest equipment to tractor",
-                "Operate the harvester's control panel",
-                "Separate grain from stems",
-                "Load harvested grain into tractor"
+                "Guide the bag as it is lowered into the truck",
+                "Ensure the bag is seated properly in the truck bed"
             ]
         },
         {
-            "task": "Load grain into the grain truck",
+            "task": "Secure the bag in the truck bed",
             "subtasks": [
-                "Open the grain truck's door",
-                "Use auger or scoop to transfer grain",
-                "Close the grain truck's door"
+                "Find a suitable rope or tie-down",
+                "Coil the rope or tie-down if necessary",
+                "Walk to the front of the truck",
+                "Measure the distance to the bag to estimate rope length",
+                "Walk to the rear of the truck and reach over the bed",
+                "Attach the rope to the bag",
+                "Walk back to the front to reattach the other end",
+                "If unsuccessful, return to the rear to adjust",
+                "Confirm the bag is securely fastened"
             ]
         },
         {
-            "task": "Unload grain from the grain truck",
+            "task": "Perform safety checks after loading",
             "subtasks": [
-                "Connect a hose or auger to grain truck",
-                "Open grain truck's unloading door",
-                "Start unloading process",
-                "Transfer grain from grain truck to storage"
+                "Inspect the loaded bag for stability",
+                "Check the rope or tie-down tightness",
+                "Verify the forklift's condition for the next load"
+            ]
+        },
+        {
+            "task": "and the initial line. Wait, wait, no:",
+            "subtasks": [
+                "lines and SUBTASK: lines. But where is the transcript? If the transcript isn't provided, then how can I generate a list of tasks related to it? Wait, perhaps the user is using the actual transcript from the video, which is not included here. However, the user's initial instruction mentions that the transcript is provided, but in the given text here, there isn't a transcript visible past the instruction header. Hmm."
             ]
         }
     ]

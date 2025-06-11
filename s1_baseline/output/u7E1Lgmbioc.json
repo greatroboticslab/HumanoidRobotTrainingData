@@ -5,18 +5,21 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Grow peanuts at home",
+            "task": "Grow peanuts from raw nuts",
             "subtasks": [
-                "Choose raw peanuts",
                 "Soak peanuts overnight",
-                "Plant peanuts in sandy soil",
-                "Space plants 6 inches apart",
+                "Prepare planting location with sandy soil",
+                "Plant peanuts 6 inches apart in soil",
                 "Ensure full sun and warm weather",
                 "Water when soil is dry 1 inch down",
                 "Monitor for yellow flowers",
-                "Wait 4 to 5 months for harvest",
-                "Prepare peanuts for roasting or boiling",
-                "Save peanuts for next planting"
+                "Wait 4 to 5 months for harvest"
+            ]
+        },
+        {
+            "task": "Save peanuts for planting",
+            "subtasks": [
+                "Save ripe peanuts from harvest for next planting"
             ]
         }
     ]

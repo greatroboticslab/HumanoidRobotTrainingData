@@ -5,45 +5,195 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Growing Grain - The Cycle from Planting to Storing",
+            "task": "Planting grain",
             "subtasks": [
-                "Understanding the Planting Stage",
-                "Preparing Soil for Crops",
-                "Sowing Seeds",
-                "Applying Nutrients to Soil",
-                "Irrigating the Crop",
-                "Protecting Plants from Pests and Diseases",
-                "Monitoring Growth and Stages (Germination, Tillering, Stem Elongation, Booting, Flowering, Milk/Grain Development, Ripe Harvest)",
-                "Harvesting Mature Crops",
-                "Threshing to Remove Grain from Husk",
-                "Storing Grain for Long-Term Preservation"
+                "Choose appropriate seeds for the type of grain being planted",
+                "Prepare the soil by plowing and leveling",
+                "Sow the seeds at the correct depth and spacing",
+                "Apply manure or fertilizer as needed"
             ]
         },
         {
-            "task": "Processing Grains - Primary Steps",
+            "task": "Growing grain",
             "subtasks": [
-                "Cleaning Grains of Impurities",
-                "Grading Grains for Quality",
-                "Hulling to Remove Outer Layers",
-                "Milling to Grind into Flour or Powder",
-                "Soaking and Drying to Prepare for Storage or Further Processing",
-                "Sieving to Sort and Sieve Through Different Grain Sizes"
+                "Regularly check the fields for pests and diseases",
+                "Apply pesticides or use biological control methods as needed",
+                "Irrigate the fields when necessary to ensure proper moisture levels"
             ]
         },
         {
-            "task": "Farming Practices and Tools",
+            "task": "Harvesting grain",
             "subtasks": [
-                "Utilizing Farm Equipment (Tractors, Combines, Spreaders)",
-                "Implementing Various Farming Methods (Agroforestry, Permaculture, Hydroponics)",
-                "Transporting Grain Products for Consumption or Selling"
+                "Determine the optimal time for harvesting based on grain maturity",
+                "Use a combine harvester or sickle to cut the grain",
+                "Thresh the grain to remove it from the stalks",
+                "Separate the grain from impurities using sieves or other cleaning equipment"
             ]
         },
         {
-            "task": "Common Grain Types and their Preparation",
+            "task": "Storing grain",
             "subtasks": [
-                "Recognizing Major Crop Types (Wheat, Rice, Barley, Oats, Quinoa, etc.)",
-                "Cooking Techniques for Different Grain Types (Boiling, Steaming, Frying)",
-                "Identification of Whole Grains and Their Health Benefits"
+                "Dry the grain to the appropriate moisture content",
+                "Store the grain in airtight bins or silos to prevent insect infestation and mold growth"
+            ]
+        },
+        {
+            "task": "Understanding grain growth stages",
+            "subtasks": [
+                "Learn the Decimal Descent growth stages of grain (germination, seedling growth, tillering, stem elongation, booting, flowering, milk, dough, and ripening)",
+                "Monitor the growth stages to time agricultural practices appropriately"
+            ]
+        },
+        {
+            "task": "Managing farm operations",
+            "subtasks": [
+                "Survey and prepare the farm land by plowing and leveling",
+                "Plan the soil and nutrient management for optimal crop growth",
+                "Choose suitable grain varieties based on soil and climate conditions",
+                "Schedule irrigation, fertilization, and other field operations"
+            ]
+        },
+        {
+            "task": "Using farm equipment",
+            "subtasks": [
+                "Operate tractors for plowing, sowing, and other field operations",
+                "Use a combine harvester for efficient grain harvesting",
+                "Clean and maintain farm equipment regularly"
+            ]
+        },
+        {
+            "task": "Processing grains",
+            "subtasks": [
+                "Clean and sort the grain using grading, sieving, and other methods",
+                "Hull or remove bran layers as needed",
+                "Mill or grind the grain into flour or meal",
+                "Toast or parboil grains if required for certain processing methods"
+            ]
+        },
+        {
+            "task": "Planting grain",
+            "subtasks": [
+                "Choose appropriate seeds for the type of grain being planted",
+                "Prepare the soil by plowing and leveling",
+                "Sow the seeds at the correct depth and spacing",
+                "Apply manure or fertilizer as needed"
+            ]
+        },
+        {
+            "task": "Growing grain",
+            "subtasks": [
+                "Monitor for pests and apply control measures as needed",
+                "Check moisture levels and irrigate if necessary"
+            ]
+        },
+        {
+            "task": "Harvesting grain",
+            "subtasks": [
+                "Determine optimal harvest time based on grain maturity",
+                "Use combine harvester to cut the grain",
+                "Thresh the grain to remove from stalks",
+                "Clean the grain using sieves or other methods"
+            ]
+        },
+        {
+            "task": "Storing grain",
+            "subtasks": [
+                "Dry grain to appropriate moisture content",
+                "Store in airtight containers to prevent spoilage"
+            ]
+        },
+        {
+            "task": "Understanding grain growth stages",
+            "subtasks": [
+                "Learn the decimal growth stages (conversion from Jard oaks scale)",
+                "Apply monitoring based on these stages"
+            ]
+        },
+        {
+            "task": "Farm management",
+            "subtasks": [
+                "Plan soil and nutrient management",
+                "Select suitable grain varieties for local conditions",
+                "Schedule irrigation and fertilization"
+            ]
+        },
+        {
+            "task": "Operating farm equipment",
+            "subtasks": [
+                "Use tractors for field operations",
+                "Operate combine harvester for efficient grain harvest",
+                "Maintain equipment properly"
+            ]
+        },
+        {
+            "task": "Grain processing",
+            "subtasks": [
+                "Clean and sort grain",
+                "Hull or remove outer layers as required",
+                "Mill or grind grain into desired form"
+            ]
+        },
+        {
+            "task": "Planting grain",
+            "subtasks": [
+                "Choose appropriate seeds for the type of grain being planted",
+                "Prepare the soil by plowing and leveling",
+                "Sow the seeds at the correct depth and spacing",
+                "Apply manure or fertilizer as needed"
+            ]
+        },
+        {
+            "task": "Growing grain",
+            "subtasks": [
+                "Monitor for pests and apply control measures as needed",
+                "Check moisture levels and irrigate if necessary"
+            ]
+        },
+        {
+            "task": "Harvesting grain",
+            "subtasks": [
+                "Determine optimal harvest time based on grain maturity",
+                "Use combine harvester to cut the grain",
+                "Thresh the grain to remove from stalks",
+                "Clean the grain using sieves or other methods"
+            ]
+        },
+        {
+            "task": "Storing grain",
+            "subtasks": [
+                "Dry grain to appropriate moisture content",
+                "Store in airtight containers to prevent spoilage"
+            ]
+        },
+        {
+            "task": "Understanding grain growth stages",
+            "subtasks": [
+                "Learn the decimal growth stages (conversion from Jard oaks scale)",
+                "Apply monitoring based on these stages"
+            ]
+        },
+        {
+            "task": "Farm management",
+            "subtasks": [
+                "Plan soil and nutrient management",
+                "Select suitable grain varieties for local conditions",
+                "Schedule irrigation and fertilization"
+            ]
+        },
+        {
+            "task": "Operating farm equipment",
+            "subtasks": [
+                "Use tractors for field operations",
+                "Operate combine harvester for efficient grain harvest",
+                "Maintain equipment properly"
+            ]
+        },
+        {
+            "task": "Grain processing",
+            "subtasks": [
+                "Clean and sort grain",
+                "Hull or remove outer layers as required",
+                "Mill or grind grain into desired form"
             ]
         }
     ]

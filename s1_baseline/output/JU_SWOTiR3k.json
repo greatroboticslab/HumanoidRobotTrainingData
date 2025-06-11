@@ -5,16 +5,22 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Farmer Decision Support Using Climate Variability Models**",
-            "subtasks": []
-        },
-        {
-            "task": "Modeling Pest-Disease Incidence and Yield Loss**",
-            "subtasks": []
-        },
-        {
-            "task": "Integrating Crop Models with Climatic Factors**",
-            "subtasks": []
+            "task": "Analyzing the impact of climate variability on crop yields and integrating pest management models.",
+            "subtasks": [
+                "Understanding the direct and indirect impacts of climate variability on crop growth and yield.",
+                "Examining the effects of rainfall variability on groundnut yield in Anandpur region.",
+                "Comparing peanut grow model yields with district yields to identify the influence of pests and diseases.",
+                "Developing a heuristic model to simulate the indirect impact of climate variability on pests and diseases.",
+                "Determining the timing of land preparation operations based on soil moisture and historical data.",
+                "Calculating the impact of leaf miner attacks on yield using criteria based on dry spells and drenching showers.",
+                "Assessing the effect of late leaf spot (Tikka) and other diseases caused by wet spells on yield.",
+                "Estimating weed loss due to prolonged wet periods around the sowing period.",
+                "Integrating the heuristic model into the peanut grow model to project yield loss from pests and diseases.",
+                "Evaluating the potential of meteorological predictions in enhancing decision support systems for farmers.",
+                "Assessing the economic thresholds for applying pest control measures based on the cost-benefit analysis of losses.",
+                "Evaluating the skill of meteorological forecasts in predicting adverse weather events and their impact on pest development.",
+                "Recommending optimal showing dates and pest management strategies tailored to regional rainfall variability."
+            ]
         }
     ]
 }

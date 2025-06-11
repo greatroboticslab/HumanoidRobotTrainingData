@@ -5,77 +5,100 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Start the combine harvester} \\\\",
+            "task": "Use a chainsaw to fell a tree.",
             "subtasks": [
-                "Press the start button on the combine harvester} \\\\",
-                "Check the fuel level} \\\\",
-                "Refill the fuel tank if necessary} \\\\"
+                "Approach the tree with the chainsaw.",
+                "Position the chainsaw for cutting.",
+                "Make the initial cut into the tree.",
+                "Make the back cut to release the tree.",
+                "Ensure the tree is falling in the desired direction."
             ]
         },
         {
-            "task": "Operate the combine harvester} \\\\",
+            "task": "Load cut tree onto a trailer.",
             "subtasks": [
-                "Guide the combine harvester through the fields} \\\\",
-                "Adjust the speed and direction} \\\\",
-                "Monitor the harvested crops} \\\\",
-                "Using the residue management attachment} \\\\",
-                "Perform residue cutting and throwing} \\\\"
+                "Position the trailer near the fallen tree.",
+                "Secure the tree to the trailer.",
+                "Check the load for stability and security."
             ]
         },
         {
-            "task": "Check the glean of the combine harvester} \\\\",
+            "task": "Check the trailer and load.",
             "subtasks": [
-                "Observe the grain elevator} \\\\",
-                "Check for any clogs or blockages} \\\\",
-                "Clear blockages if necessary} \\\\"
+                "Survey the trailer and load to ensure no damage.",
+                "Confirm all limbs are properly secured."
             ]
         },
         {
-            "task": "Secure the combine harvester} \\\\",
+            "task": "Drive the trailer to the designated storage area.",
             "subtasks": [
-                "Turn off the engine} \\\\",
-                "Park the combine harvester on the storage area} \\\\",
-                "Approach the combine harvester} \\\\",
-                "Open the door or access panel} \\\\"
+                "Maneuver the trailer onto the road.",
+                "Drive carefully to the storage area."
             ]
         },
         {
-            "task": "Clean the combine harvester} \\\\",
+            "task": "Use a chainsaw to fell a tree. Then within that, the subtasks would be approaching, positioning, initial cut, back cut, etc. Then separate MAINTASKs for loading, checking, and driving.",
+            "subtasks": []
+        },
+        {
+            "task": "Use a chainsaw to fell a tree.",
+            "subtasks": []
+        },
+        {
+            "task": "Load cut tree onto a trailer.",
+            "subtasks": []
+        },
+        {
+            "task": "Check the trailer and load.",
+            "subtasks": []
+        },
+        {
+            "task": "Drive the trailer to the designated storage area.",
+            "subtasks": []
+        },
+        {
+            "task": "Does that look good? Each MAINTASK is a major action, and then the subtasks break them down into the steps required. The subtasks are specific actions one would take in performing the MAINTASK. That should cover it. Let me see if I'm missing anything.",
+            "subtasks": []
+        },
+        {
+            "task": "In driving the trailer, maybe they need to check brakes or ensure the load isn't shifting during driving, but driving is a MAINTASK. Checking during driving would be part of the check, but if it's after loading, perhaps the check is separate. The way I have it, checking the trailer and load is a separate MAINTASK before driving. Then during driving, just a subtask of driving carefully.",
+            "subtasks": []
+        },
+        {
+            "task": "Therefore, I think the final answer can be presented with each MAINTASK and its subtasks as listed above. Let me verify once more. The chain saw tasks are all about felling the tree, so from approach to falls, right. Then moving on to the trailer, they need to position it, load the tree, secure it. Then after that, driving. If they needed to unload, perhaps, but not stated. Confirm, the transcript says \"Drive the trailer to the designated storage area.\" So they don't mention unloading. That's correct.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Use a chainsaw to fell a tree.",
             "subtasks": [
-                "Remove dust and debris} \\\\",
-                "Wipe down the exterior surfaces} \\\\"
+                "Approach the tree with the chainsaw.",
+                "Position the chainsaw for cutting.",
+                "Make the initial cut into the tree.",
+                "Make the back cut to release the tree.",
+                "Ensure the tree is falling in the desired direction."
             ]
         },
         {
-            "task": "Refill hydraulic fluid} \\\\",
+            "task": "Load cut tree onto a trailer.",
             "subtasks": [
-                "Check the hydraulic fluid level} \\\\",
-                "Refill the hydraulic reservoir if needed} \\\\"
+                "Position the trailer near the fallen tree.",
+                "Secure the tree to the trailer.",
+                "Check the load for stability and security."
             ]
         },
         {
-            "task": "Start the combine harvester** requires pressing the start button, ensuring fuel is sufficient, and refilling if needed.",
-            "subtasks": []
+            "task": "Check the trailer and load.",
+            "subtasks": [
+                "Survey the trailer and load to ensure no damage.",
+                "Confirm all limbs are properly secured."
+            ]
         },
         {
-            "task": "Operate the combine harvester** involves guiding the machine through the fields, adjusting speed/direction, and monitoring crops.",
-            "subtasks": []
-        },
-        {
-            "task": "Check the glean** involves observing the grain elevator for blockages and clearing them if present.",
-            "subtasks": []
-        },
-        {
-            "task": "Secure the combine harvester** includes turning off the engine and parking it.",
-            "subtasks": []
-        },
-        {
-            "task": "Clean the combine harvester** involves removing dust/debris and wiping exterior surfaces.",
-            "subtasks": []
-        },
-        {
-            "task": "Refill hydraulic fluid** checks the fluid level and refills when necessary.",
-            "subtasks": []
+            "task": "Drive the trailer to the designated storage area.",
+            "subtasks": [
+                "Maneuver the trailer onto the road.",
+                "Drive carefully to the storage area."
+            ]
         }
     ]
 }

@@ -5,17 +5,23 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Understanding and Reporting Foot and Mouth Disease",
+            "task": "Understand foot and mouth disease in livestock.",
             "subtasks": [
-                "Recognizing symptoms in cows",
-                "Recognizing symptoms in pigs",
-                "Recognizing symptoms in sheep and goats",
-                "Identifying methods of virus spread",
-                "Notifying authorities in case of suspicion",
-                "Following isolation protocols",
-                "Allowing veterinarian examination and sample collection",
-                "Complying with disease containment measures",
-                "Contributing to disease prevention through vigilance"
+                "Identify affected animals (cows, sheep, goats, pigs).",
+                "Recognize signs of FMD (fever, difficulty eating, blisters, lesions).",
+                "Isolate infected animals and limit farm movements.",
+                "Contact veterinarian for diagnosis and samples.",
+                "Follow containment measures and authorities' guidance."
+            ]
+        },
+        {
+            "task": "Prevent FMD spread.",
+            "subtasks": [
+                "Avoid direct contact with infected animals.",
+                "Clean and disinfect equipment, clothing, and vehicles.",
+                "Monitor imported feeds and products.",
+                "Report suspicious cases promptly.",
+                "Follow biosecurity protocols on farm visits."
             ]
         }
     ]

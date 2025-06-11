@@ -5,38 +5,120 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Scoring System for Shed Hygiene in Dairy Farms",
+            "task": "Scoring system for shed hygiene in dairy cows.",
             "subtasks": [
-                "Identify clean cows (score 0)",
-                "Score cows with more than a palm-sized amount of dirtiness (score 1)",
-                "Score cows with more than a forearm length of dirtiness (score 2)",
-                "Interpret scores (clean system vs. needing attention)",
-                "Identify potential\u95ee\u9898 areas based on dirtiness location",
-                "Diagnose issues like passageway cleaning, lying area maintenance, or overcrowding"
+                "Identifying clean cows (score 0).",
+                "Identifying slightly dirty cows (score 1) with palm-sized dirtiness.",
+                "Identifying very dirty cows (score 2) with forearm-length dirtiness."
             ]
         },
         {
-            "task": "Assessing Mastitis Risk Through Observation",
+            "task": "Diagnosing shed hygiene issues based on dirt scores.",
             "subtasks": [
-                "Recognize signs of udder infection (mastitis)",
-                "Understand the role of hygiene in preventing mastitis",
-                "Monitor cow behavior and physical condition for early detection"
+                "Assessing cleaning of passageways or drainage issues (lower hind legs dirty, score 1).",
+                "Checking lying area hygiene (udders and lower parts dirty, score 2).",
+                "Investigating tail and flank dirt (possible diarrhea or diet-related issue, score 2).",
+                "Evaluating overall dirtiness (all over, score 2) to check for overcrowding or manure removal issues."
             ]
         },
         {
-            "task": "Understanding Mastitis and Its Causes",
+            "task": "Understanding mastitis infection process in dairy cows.",
             "subtasks": [
-                "Define mastitis as an infection of the udder",
-                "Explain the entry point of bacteria (teat end via teat canal)",
-                "Describe the immune response to mastitis infection"
+                "Recognizing mastitis as an udder infection.",
+                "Identifying bacteria entry via teat canal.",
+                "Acknowledging the udder's immune response to infection.",
+                "Noting that dirty udders (high hygiene score) correlate with higher risk of mastitis."
             ]
         },
         {
-            "task": "Housing Systems for Dairy Cows",
+            "task": "Observing dairy cow behavior (cows mentioning tail swishing).",
             "subtasks": [
-                "Recognize different housing systems based on cow numbers and space",
-                "Correlate clean cows with effective system operations",
-                "Understand the impact of hygiene on overall cow health"
+                "Linking tail swishing to potential diarrhea issues."
+            ]
+        },
+        {
+            "task": "1. **Scoring System for Shed Hygiene** (MAINTASK)",
+            "subtasks": [
+                "Determine the score for each of the three areas (flank, lower hind leg, udder) based on the amount of dirt (using palm and forearm as reference). (SUBTASKs for scoring)",
+                "After scoring, identify if the score suggests a problem (score of 2 anywhere). (SUBTASK)"
+            ]
+        },
+        {
+            "task": "2. **Diagnosing Hygiene Issues** (MAINTASK)",
+            "subtasks": [
+                "If the lower hind legs are dirty (score 1 or 2), determine if the issue is with passageways or drainage. (SUBTASK)",
+                "If udder and lower parts are dirty (score 2), assess lying area for issues. (SUBTASK)",
+                "If tail and flank areas are dirty (score 2), check for signs of diarrhea or review diet. (SUBTASK)",
+                "For overall dirtiness (all over, score 2), check for overcrowding or manure removal problems. (SUBTASK)"
+            ]
+        },
+        {
+            "task": "3. **Understanding Mastitis** (MAINTASK)",
+            "subtasks": [
+                "Recognize that mastitis is an udder infection caused by bacteria entering through the teat canal. (SUBTASK)",
+                "Understand that dirty udders (high hygiene score) are associated with higher risk of mastitis. (SUBTASK)"
+            ]
+        },
+        {
+            "task": "4. **Observing Cow Behavior** (MAINTASK, maybe a subtask of the Scoring System or separate)",
+            "subtasks": [
+                "Note when cows' tail swishing may indicate diarrhea. (SUBTASK)"
+            ]
+        },
+        {
+            "task": "Scoring system for shed hygiene in dairy cows.",
+            "subtasks": [
+                "Identifying clean cows (score 0).",
+                "Identifying slightly dirty cows (score 1) with palm-sized dirtiness.",
+                "Identifying very dirty cows (score 2) with forearm-length dirtiness."
+            ]
+        },
+        {
+            "task": "Diagnosing shed hygiene issues based on dirt scores.",
+            "subtasks": [
+                "Assessing cleaning of passageways or drainage where cows walk (lower hind legs dirty, score 1).",
+                "Checking lying area hygiene (udders and lower parts dirty, score 2).",
+                "Investigating tail and flank dirt (possible diarrhea or diet-related issue, score 2).",
+                "Evaluating overall dirtiness (all over, score 2) to check for overcrowding or manure removal issues."
+            ]
+        },
+        {
+            "task": "Understanding mastitis infection process in dairy cows.",
+            "subtasks": [
+                "Recognizing mastitis as an udder infection.",
+                "Identifying bacteria entry via teat canal.",
+                "Noting the correlation between dirty udders (high hygiene score) and higher risk of mastitis."
+            ]
+        },
+        {
+            "task": "Executing the Hygiene Scoring Process**",
+            "subtasks": [
+                "** For each cow, assess the **flank (including the tail)** area, determining if it is clean (0), has more than a palm-sized amount of dirt (1), or more than an forearm-length of dirt (2).",
+                "** Repeat the assessment for the **lower hind leg** area, following the same criteria.",
+                "** Evaluate the **udder** area using the same scoring system."
+            ]
+        },
+        {
+            "task": "Interpreting the Scores to Identify Issues**",
+            "subtasks": [
+                "** If the lower hind legs score **1**, attribute the problem to potential passageway or drainage issues.",
+                "** If the udder and lower parts score **2**, suspect problems with the lying area.",
+                "** For **2** in the tail and flank area, consider signs of diarrhea or dietary issues.",
+                "** A **2** score across all areas indicates overcrowding or insufficient manure removal."
+            ]
+        },
+        {
+            "task": "Understanding Mastitis**",
+            "subtasks": [
+                "** Recognize **mastitis** as an infection of the udder.",
+                "** Understand bacteria enter through the teat canal.",
+                "** Connect higher hygiene scores (dirtier udders) to an increased risk of mastitis."
+            ]
+        },
+        {
+            "task": "Observing Cow Behavior**",
+            "subtasks": [
+                "** Note **tail swishing** as a potential indicator of diarrhea, prompting a review of diet or health."
             ]
         }
     ]

@@ -5,64 +5,17 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Setting up and testing a drip irrigation system considering soil type.",
+            "task": "Setting up and testing a drip irrigation system for a garden or landscape in a dry climate.",
             "subtasks": [
-                "Considering the type of soil in the garden or landscape.",
-                "Choosing the appropriate emitter based on soil texture (clay or sandy).",
-                "Understanding emitter flow rates (half a gallon to two gallons per hour).",
-                "Running the irrigation system to check for leaks.",
-                "Ensuring water does not pool on the soil surface.",
-                "Verifying water penetration reaches the plant root zone."
+                "Choosing the appropriate emitter type based on soil texture.",
+                "Installing the drip irrigation system.",
+                "Testing the irrigation system."
             ]
         },
         {
-            "task": "Determining soil texture for irrigation system setup.",
+            "task": "Consulting the University of Wyoming Extension for soil testing and advice.",
             "subtasks": [
-                "Seeking help from the University of Wyoming Extension."
-            ]
-        },
-        {
-            "task": "Setting up and testing a drip irrigation system considering soil type.",
-            "subtasks": []
-        },
-        {
-            "task": "Determining the appropriate soil texture for an irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Setting up and testing a drip irrigation system considering soil type.",
-            "subtasks": [
-                "Considering the type of soil in the garden or landscape.",
-                "Choosing the appropriate emitter based on soil texture (clay vs. sandy).",
-                "Understanding the range of emitter flow rates (0.5 to 2 gallons per hour).",
-                "Running the irrigation system to check for leaks.",
-                "Ensuring water does not pool on the soil surface.",
-                "Confirming water penetration to the plant roots."
-            ]
-        },
-        {
-            "task": "Determining the appropriate soil texture.",
-            "subtasks": [
-                "Consulting the University of Wyoming Extension for soil type identification."
-            ]
-        },
-        {
-            "task": "However, I think the transcript is more focused on the setup and testing process, so perhaps the first MAINTASK should cover both determination and setup. The importance of consulting the Extension is a subtask under that. Alternatively, if determining the soil type is considered a separate necessary step, then split them.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Running and evaluating a drip irrigation system.",
-            "subtasks": []
-        },
-        {
-            "task": "Setting up and testing a drip irrigation system considering soil type.**",
-            "subtasks": [
-                "Considering the type of soil** in your garden or landscape.",
-                "Choosing an appropriate emitter** based on soil texture (clay vs. sandy).",
-                "Understanding emitter flow rates** (up to 2 gallons per hour for sandy soil, half a gallon for clay).",
-                "Running the irrigation system** to check for leaks.",
-                "Ensuring water does not pool** on the soil surface.",
-                "Confirming water penetration** to the root zone."
+                "Researching irrigation system compatibility with soil type."
             ]
         }
     ]

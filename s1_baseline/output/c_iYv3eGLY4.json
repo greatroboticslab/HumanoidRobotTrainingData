@@ -5,20 +5,62 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Planting, harvesting, storing, and using wheat, barley, and oats}",
+            "task": "_Seeding wheat, barley, and oats",
             "subtasks": [
-                "Select combine harvester and grain header (e.g., Macdon Flex Draper)} \\\\",
-                "Seed wheat, barley, or oats using a seeder (e.g., Limpkin Sultar 12)} \\\\",
-                "Apply fertilizer, lime, and cultivate the soil as needed} \\\\",
-                "Check crop growth and use herbicide if necessary} \\\\",
-                "Harvest grain with the combine harvester} \\\\",
-                "Collect straw using a baler or forage wagon (demonstrated with Fent Tigro 75 VRD)} \\\\",
-                "Store grain in silos (e.g., brick, concrete, Americanized, steel silo, or grain bin)} \\\\",
-                "Store straw in hayloft or bale storage} \\\\",
-                "Use grain in production processes (e.g., grain mill, bakery, cereal factory)} \\\\",
-                "Utilize straw as animal bedding, TMR, or bedding for manure production} \\\\",
-                "Apply straw swath during harvesting to collect more straw but reduce yield bonus} \\\\",
-                "Use Macdon swather and pickup header for increased grain yield (24.9% bonus)} \\\\"
+                "Select the appropriate seeder (Limpkin Sultar 12)",
+                "Load the seeder with seed (1,050 liters)",
+                "Adjust the crop to be planted (wheat)",
+                "Seed the field with 298 liters of seed",
+                "Address the field and monitor weed growth",
+                "Apply herbicide to remove weeds"
+            ]
+        },
+        {
+            "task": "Harvesting grain with a combine harvester",
+            "subtasks": [
+                "Prepare the combine harvester (Lexion 6900 with standard header)",
+                "Use the forage wagon to collect straw",
+                "Adjust the header for straw collection (Macdon swather)",
+                "Collect grain and straw using the pick-up header"
+            ]
+        },
+        {
+            "task": "Storing grain and straw",
+            "subtasks": [
+                "Store grain in silos (Brick, Concrete, Steel, or Bin silos)",
+                "Use augers to load and unload grain from silos"
+            ]
+        },
+        {
+            "task": "Using grain for production",
+            "subtasks": [
+                "Process grain at the grain mill (wheat, barley, oats)",
+                "Produce flour at the bakery (wheat, barley)",
+                "Create cereal at the cereal factory (oats)"
+            ]
+        },
+        {
+            "task": "Handling straw from crop residue",
+            "subtasks": [
+                "Reap straw after grain harvest (using baler or forage wagon)",
+                "Utilize straw as bedding, Total Mixed Ration (TMR), or for mulching",
+                "Store straw in hayloft or bale for later use"
+            ]
+        },
+        {
+            "task": "Planting and managing growth cycle",
+            "subtasks": [
+                "Crop rotation (wheat, barley, oat planting in September and October)",
+                "Maintain soil fertility (fertilizing, cultivation)",
+                "Harvest crops in July and August"
+            ]
+        },
+        {
+            "task": "Maintaining equipment",
+            "subtasks": [
+                "Inspect and clean headers, harvester, and forage wagon",
+                "Perform regular maintenance on harvesters (Lexion 6900, Macdon swather)",
+                "Afford DLC (Macdon Pack) for additional harvest tools and swathing"
             ]
         }
     ]

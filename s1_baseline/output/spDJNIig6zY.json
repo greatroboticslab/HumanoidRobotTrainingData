@@ -5,27 +5,38 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Visit about feed rations for backgrounding cattle in fall 2020.",
+            "task": "Visit about feed rations for backgrounding cattle",
             "subtasks": [
-                "Introduce himself as Carl Hoppe, Extension Livestock Specialist.",
-                "Mention new calf crops in 2020 and their sizes (January-born big, April and June-born smaller).",
-                "Explain backgrounding vs. stocker cattle in Northern Plains.",
-                "Discuss the relationship between corn prices and feedstuff costs.",
-                "Outline historical feedstuff prices from 2017 to 2020, noting trends in corn, distillers grains, hay, and wheat mids.",
-                "Highlight the availability of co-product feeds in North Dakota, including distillers grains, wheat middlings, and soybean meal.",
-                "Detail the daily nutrient needs for cattle, focusing on energy and protein requirements.",
-                "Explain the calculation of feed costs per pound of growth (gain), considering TDN and protein costs.",
-                "Address feed issues in North Dakota 2020, such as early frost damage to corn silage.",
-                "Present balanced rations for 700-pound steers, varying hay and grain proportions to achieve different rates of gain (e.g., 2.6, 2.8, 3.1 pounds per day).",
-                "Discuss varying feed costs per pound of gain based on different rations and feeding strategies.",
-                "Explore market considerations and the impact of feeding rates on performance and prices.",
-                "Emphasize bedding and feed management practices, such as clean water, bedding, and proper ration adaptation.",
-                "Mention feed additives like anophores, ear implants, and anti-coccidial treatments to improve feed efficiency and prevent health issues."
+                "Discuss new calf crops and their varying sizes and characteristics",
+                "Explain traditional differences between backgrounding and stocker cattle",
+                "Analyze historic and current feedstuff prices (corn, distillers grains, hay, wheat mids, canola meal)",
+                "Discuss co-product feeds availability in North Dakota (distillers grains, wheat middlings, corn gluten feed, etc.)",
+                "Calculate cost per pound of nutrients (energy and protein) in different feed options",
+                "Address feed issues like corn silage quality due to early frost and considerations when feeding moldy dry beans",
+                "Present various cattle feeding rations and their respective costs per pound of gain",
+                "Explain factors affecting rates of gain and management practices for backgrounding cattle",
+                "Highlight importance of feed bunk management, vaccinations, and antibiotic use in cattle health",
+                "Discuss use of feed additives and implants to improve feed efficiency and prevent coccidiosis."
             ]
         },
         {
-            "task": "Visit about feed rations for backgrounding cattle in fall 2020.**",
+            "task": "MAINTASK: Visit about feed rations for backgrounding cattle. Then, breaking it down into key sub-tasks.",
             "subtasks": []
+        },
+        {
+            "task": "Visit about feed rations for backgrounding cattle",
+            "subtasks": [
+                "Discuss new calf crops and their varying sizes and characteristics",
+                "Explain traditional differences between backgrounding and stocker cattle",
+                "Analyze historic and current feedstuff prices (corn, distillers grains, hay, wheat mids, canola meal)",
+                "Discuss co-product feeds availability in North Dakota (distillers grains, wheat middlings, corn gluten feed, etc.)",
+                "Calculate cost per pound of nutrients (energy and protein) in different feed options",
+                "Address feed issues like corn silage quality due to early frost and considerations when feeding moldy dry beans",
+                "Present various cattle feeding rations and their respective costs per pound of gain",
+                "Explain factors affecting rates of gain and management practices for backgrounding cattle",
+                "Highlight importance of feed bunk management, vaccinations, and antibiotic use in cattle health",
+                "Discuss use of feed additives and implants to improve feed efficiency and prevent coccidiosis.}"
+            ]
         }
     ]
 }

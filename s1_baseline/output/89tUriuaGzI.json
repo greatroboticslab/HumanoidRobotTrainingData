@@ -5,744 +5,952 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Start the tractor and attach implements.",
+            "task": "Operate four-wheel drive tractor with loader",
             "subtasks": [
-                "Enter the tractor cab.",
-                "Start the tractor engine.",
-                "Exit the tractor cab.",
-                "Approach the storage area to select appropriate implements.",
-                "Lift the implement into position.",
-                "Secure the implement to the tractor."
+                "Sit in driver's seat",
+                "Engage transmission",
+                "Steering tractor to move sideways",
+                "Lower loader bucket",
+                "Raise loader bucket",
+                "Attach loader to tractor",
+                "Disengage transmission",
+                "Shift gears",
+                "Speed up tractor",
+                "Reverse tractor in field",
+                "Activate steering wheel for direction"
             ]
         },
         {
-            "task": "Operate the harvester.",
+            "task": "Load hay onto flatbed trailer",
             "subtasks": [
-                "Position the harvester over the crop.",
-                "Adjust the harvester settings for optimal harvest.",
-                "Monitor the harvester operation.",
-                "Clean the harvested crop."
+                "Approach trailer with tractor and loader",
+                "Position loader over trailer opening",
+                "Deploy forks from loader",
+                "Lower forks onto trailer to grip hay bales",
+                "Lift forks with hay bales upward",
+                "Drive tractor slowly forward, transporting hay",
+                "Repeat process until all hay is loaded"
             ]
         },
         {
-            "task": "Load and transport the harvest.",
+            "task": "Unload hay from trailer",
             "subtasks": [
-                "Attach a trailer to the tractor.",
-                "Transfer the harvested crop to the trailer.",
-                "Secure the crop on the trailer.",
-                "Drive the trailer to the designated storage area.",
-                "Unload the crop from the trailer."
+                "Align trailer with barn or storage area",
+                "Lower forks onto ground",
+                "Separate hay bales from forks",
+                "Stack hay into piles or onto storage racks"
             ]
         },
         {
-            "task": "Conduct maintenance checks on the farm equipment.",
+            "task": "Unload trailer of hay bales",
             "subtasks": [
-                "Inspect the tractor for proper operation.",
-                "Lubricate moving parts of the equipment.",
-                "Check fluid levels in the tractor and implements.",
-                "Replace any worn or damaged parts."
+                "Position tractor and loader near trailer",
+                "Use loader to grip hay bale from trailer",
+                "Lift hay bale up and out of trailer",
+                "Transport hay bale to storage location",
+                "Repeat for each hay bale"
             ]
         },
         {
-            "task": "Plant crops with a planter.",
+            "task": "Stack hay bales into stack",
             "subtasks": [
-                "Set up the planter with seed.",
-                "Adjust the depth and spacing of seed placement.",
-                "Attach the planter to the tractor.",
-                "Operate the planter to plant seeds in rows."
+                "Position hay bale on ground",
+                "Place hay bale perpendicular to previous one",
+                "Continue stacking width-wise",
+                "Start next layer, placing bales on the edges of the previous row",
+                "Alternate stacking pattern as needed for stability",
+                "Cover stack with tarp or hay shed"
             ]
         },
         {
-            "task": "Spray pesticides or herbicides on crops.",
+            "task": "Collect Hay with loader arm",
             "subtasks": [
-                "Fill the sprayer tank with the desired chemical.",
-                "Attach the sprayer equipment to the tractor.",
-                "Calibration of the sprayer.",
-                "Drive the tractor through the fields, applying the chemical evenly."
+                "Drive tractor with loader towards hay",
+                "Lower loader to pick up hay bale",
+                "Lift hay bale onto arm",
+                "Transport hay to storage location or trailer",
+                "Place hay onto trailer or stack"
             ]
         },
         {
-            "task": "Prepare the soil with a tiller.",
+            "task": "Use bucket to fill trailer",
             "subtasks": [
-                "Position the tiller in the field.",
-                "Operate the tiller to break up the soil.",
-                "Navigate the tiller through the designated area."
+                "Drive tractor to field with bucket lowered",
+                "Raise bucket to pick up muddy substances",
+                "Drive to location to dump mud and fill trailer",
+                "Repeat until trailer is full"
             ]
         },
         {
-            "task": "Graze livestock on pastures.",
+            "task": "Transport material in wheelbarrow",
             "subtasks": [
-                "Drive the tractor to the pasture area.",
-                "Open the gate to allow livestock access.",
-                "Observe the livestock for any health issues.",
-                "Close the gate when livestock have had sufficient grazing."
+                "Load materials into wheelbarrow",
+                "Carry wheelbarrow to construction or maintenance area",
+                "Unload materials and spread as needed"
             ]
         },
         {
-            "task": "Harvest hay from the fields.",
+            "task": "Collect hay from the trailer into apron bins",
             "subtasks": [
-                "Operate the hay conditioner/equipment.",
-                "Roll the hay into bales.",
-                "Transfer the bales to storage."
+                "Approach trailer with tractor and loader",
+                "Align loader with trailer opening",
+                "Use loader to collect hay from trailer onto apron bins",
+                "Drive apron bins to storage area"
             ]
         },
         {
-            "task": "Apply fertilizer to the crops.",
+            "task": "Cut field with mower but unload onto the trailer",
             "subtasks": [
-                "Load fertilizer onto the spreader.",
-                "Attach the spreader to the tractor.",
-                "Set the spreader to the correct application rate.",
-                "Drive the tractor over the crops, distributing the fertilizer evenly."
+                "Position mower in field",
+                "Drive mower forward to cut grass",
+                "Move mower towards trailer",
+                "Lift hay or grass onto trailer with loader",
+                "Stack onto trailer"
             ]
         },
         {
-            "task": "Check the irrigation systems.",
+            "task": "Cut field with mower but use wheelbarrows to transport material",
             "subtasks": [
-                "Inspect the irrigation pipes and sprinklers for leaks.",
-                "Turn on the water supply to the irrigation system.",
-                "Monitor the water distribution across the fields."
+                "Position mower in field",
+                "Drive mower forward to cut grass",
+                "Load cut material into wheelbarrow",
+                "Transport wheelbarrow to trailer or storage area",
+                "Unload into appropriate location"
             ]
         },
         {
-            "task": "Transport fertilizer to the fields.",
+            "task": "Load hay into tilted trailer",
             "subtasks": [
-                "Drive the fertilizer spreader to the fields.",
-                "Unload the fertilizer from the spreader.",
-                "Attach the spreader to the tractor.",
-                "Spread the fertilizer uniformly in the fields."
+                "Lower trailer to the ground",
+                "Load hay onto trailer with loader",
+                "Raise trailer to transport"
             ]
         },
         {
-            "task": "Fix the broken fence.",
+            "task": "Lower hay bale to the ground",
             "subtasks": [
-                "Locate the damaged section of the fence.",
-                "Remove any debris or vegetation around the fence post.",
-                "Replace the damaged fence panel.",
-                "Secure the new panel to the fence posts."
+                "Position loader arm over hay bale",
+                "Lower arm to ground",
+                "Remove hay bale from loader"
             ]
         },
         {
-            "task": "Prepare manure for spreading.",
+            "task": "Grapple trailer with front end loader",
             "subtasks": [
-                "Collect the manure from the barn.",
-                "Transfer the manure to the spreader.",
-                "Assist in the loading process by directing the spreader.",
-                "Control the spreader as it dispenses the manure."
+                "Drive tractor to trailers location",
+                "Approach grapple trailer",
+                "Use front end loader to grapple the trailer",
+                "Lift trailer onto tractor",
+                "Drive to new location and unload"
             ]
         },
         {
-            "task": "Conduct soil testing.",
+            "task": "Cut field",
             "subtasks": [
-                "Collect soil samples from various parts of the fields.",
-                "Send the samples to a laboratory for analysis.",
-                "Interpret the results to determine fertilizer needs."
+                "Position mower in field",
+                "Start mower operation",
+                "Direct flow while cutting to target area"
             ]
         },
         {
-            "task": "Drive the combine.",
+            "task": "Transport trailer to different location",
             "subtasks": [
-                "Enter the combine cab.",
-                "Start the combine engine.",
-                "Attach the combine to the tractor.",
-                "Begin harvesting the crop by operating the combine.",
-                "Transfer the harvested grain into the wagon.",
-                "Unload the grain into the storage facility."
+                "Position tractor in front of trailer",
+                "Connect trailer to tractor",
+                "Adjust tow bar or chains",
+                "Proceed to destination in reverse or via other direction"
             ]
         },
         {
-            "task": "Conduct livestock vaccinations.",
+            "task": "Remove implements from tractor",
             "subtasks": [
-                "Prepare the vaccine.",
-                "Approach the livestock for handling.",
-                "Safely restrain the livestock.",
-                "Administer the vaccine according to protocol.",
-                "Document the vaccination date and type."
+                "Lower working implement from tractor",
+                "Store implement properly"
             ]
         },
         {
-            "task": "Herd sheep.",
+            "task": "Place field hopper on wheels",
             "subtasks": [
-                "Approach the sheep with a vehicle or on foot.",
-                "Guide the sheep towards the destination using a vehicle's sound or a flag.",
-                "Ensure all sheep are accounted for and safely moved."
+                "Position field hopper in field",
+                "Secure wheels to hopper",
+                "Use device to push hopper along field"
             ]
         },
         {
-            "task": "Apply seed to the soil.",
+            "task": "Load hay onto drill",
             "subtasks": [
-                "Attach the seeding equipment to the tractor.",
-                "Operate the seeder to plant the seeds evenly.",
-                "Monitor the seeding depth and spacing."
+                "Approach drill with loader",
+                "Lower loader to grip hay bale",
+                "Lift hay bale onto drill"
             ]
         },
         {
-            "task": "Cultivate the soil with a cultivator.",
+            "task": "Place hay bales onto drill",
             "subtasks": [
-                "Position the cultivator in the field.",
-                "Operate the cultivator to turn the soil.",
-                "Check the depth of cultivation."
+                "Move drilling machine to position",
+                "Align hay bale with drill",
+                "Secure bale to drill"
             ]
         },
         {
-            "task": "Collect eggs from the chicken coop.",
+            "task": "Transport hay by truck",
             "subtasks": [
-                "Open the entrance to the chicken coop.",
-                "Gingerly collect eggs from the nest boxes.",
-                "Place the eggs in a basket or container for transport.",
-                "Close the coop entrance securely."
+                "Drive truck to farm",
+                "Unload hay into truck bed",
+                "Cover hay in truck bed",
+                "Drive to delivery site",
+                "Unload hay at site"
             ]
         },
         {
-            "task": "Preplanting soil preparation.",
+            "task": "Stack hay in barn",
             "subtasks": [
-                "Prepare the land for planting by breaking up clumps or applying lime.",
-                "Spread organic matter or fertilizer on the field.",
-                "Tamp down the soil to ensure good contact with the fertilizer."
+                "Unload hay from truck into barn",
+                "Position hay bales onto racks or stack on ground",
+                "Secure hay with twine or clips"
             ]
         },
         {
-            "task": "Prepare grain for milling.",
+            "task": "Load hay from trailer into drill",
             "subtasks": [
-                "Transport the grain from the storage facility to the mill.",
-                "Clean the grain to remove impurities.",
-                "Operate the grinder to mill the grain into flour.",
-                "Package the milled grain for storage or sale."
+                "Approach drill with loader",
+                "Lower loader to lift hay from trailer",
+                "Transport hay to drill location",
+                "Place hay into drill"
             ]
         },
         {
-            "task": "Plant seeds with a planter.",
+            "task": "Place fork of loader onto trailer opening",
             "subtasks": [
-                "Select the appropriate seed.",
-                "Fill the planter's seed boxes.",
-                "Adjust the depth and spacing for the specific crop.",
-                "Secure the planter to the tractor.",
-                "Operate the planter to plant seeds in the field."
+                "Drive loader near trailer opening",
+                "Align fork with opening",
+                "Gently lower fork down"
             ]
         },
         {
-            "task": "Install fencing around a pasture.",
+            "task": "Grapple hay with front end loader",
             "subtasks": [
-                "Survey the area to determine fencing placement.",
-                "Allocate materials/drive fence posts into the ground.",
-                "Attach fencing wire to the posts.",
-                "Check the fencing for proper tightness and safety."
+                "Attach grapple to front end loader",
+                "Use loader to grapple hay bale",
+                "Lift bale into transport position",
+                "Move to storage or desired location"
             ]
         },
         {
-            "task": "Monitor crop growth.",
+            "task": "Use loader to tie bales on truck",
             "subtasks": [
-                "Walk through the fields to examine plants' health.",
-                "Record observations about plant growth stages.",
-                "Check for pests or diseases.",
-                "Start the irrigation system.",
-                "Monitor water flow and coverage.",
-                "Adjust sprinklers or nozzles if necessary."
+                "Position bale against truck bed",
+                "Secure bale with rope, bungi straps, or netting"
             ]
         },
         {
-            "task": "Monitor livestock feed.",
+            "task": "Rinse buckets after using",
             "subtasks": [
-                "Observe the remaining feed in the storage areas.",
-                "Calculate how much feed is needed.",
-                "Replenish feed supplies when necessary.",
-                "5. \u7528MAINTASK\u548cSUBTASK\u7684\u6807\u7b7e\u6765\u660e\u786e\u6bcf\u4e2a\u4efb\u52a1\u548c\u5b50\u4efb\u52a1\u7684\u7ea7\u522b,\u5e76\u6309\u7167\u8981\u6c42\u7ed9\u51fa\u3002"
+                "Fill hose into bucket",
+                "Splash water onto bucket surfaces",
+                "Empty excess water"
             ]
         },
         {
-            "task": "Start the tractor and attach implements.",
+            "task": "Tether bale to front end loader",
             "subtasks": [
-                "Enter the tractor cab.",
-                "Start the tractor engine.",
-                "Exit the tractor cab.",
-                "Approach the storage area to select appropriate implements.",
-                "Lift the implement into position.",
-                "Secure the implement to the tractor."
+                "Attach bale to loader front end",
+                "Drive loader to location",
+                "Unload bale when needed"
             ]
         },
         {
-            "task": "Operate the harvester.",
+            "task": "Stack material using forklift",
             "subtasks": [
-                "Position the harvester over the crop.",
-                "Adjust the harvester settings for optimal harvest.",
-                "Monitor the harvester operation.",
-                "Clean the harvested crop."
+                "Position forklift under stack",
+                "Lift stack with forks",
+                "Move stack to storage area",
+                "Repeat as necessary"
             ]
         },
         {
-            "task": "Load and transport the harvest.",
+            "task": "Perform front shovel operations",
             "subtasks": [
-                "Attach a trailer to the tractor.",
-                "Transfer the harvested crop to the trailer.",
-                "Secure the crop on the trailer.",
-                "Drive the trailer to the designated storage area.",
-                "Unload the crop from the trailer."
+                "Use front shovel attachment on tractor",
+                "Dig into ground to loosen material",
+                "Transport material with shovel attached",
+                "Empty shovel into designated area"
             ]
         },
         {
-            "task": "Conduct maintenance checks on the farm equipment.",
+            "task": "Use blade attachment to gather spoons",
             "subtasks": [
-                "Inspect the tractor for proper operation.",
-                "Lubricate moving parts of the equipment.",
-                "Check fluid levels in the tractor and implements.",
-                "Replace any worn or damaged parts."
+                "Attach blade to front of tractor",
+                "Drive through field, gathering spilled hay",
+                "Transfer gathered material into burlap sack or bag"
             ]
         },
         {
-            "task": "Plant crops with a planter.",
+            "task": "Adjust trailer forks",
             "subtasks": [
-                "Set up the planter with seed.",
-                "Adjust the depth and spacing of seed placement.",
-                "Attach the planter to the tractor.",
-                "Operate the planter to plant seeds in rows."
+                "Inspect forks for any deformities or issues",
+                "Align forks in correct position",
+                "Securely slot the forks"
             ]
         },
         {
-            "task": "Spray pesticides or herbicides on crops.",
+            "task": "Load and secure hay to trailer",
             "subtasks": [
-                "Fill the sprayer tank with the desired chemical.",
-                "Attach the sprayer equipment to the tractor.",
-                "Calibration of the sprayer.",
-                "Drive the tractor through the fields, applying the chemical evenly."
+                "Position hay bale onto trailer",
+                "Secure bale with straps or chains",
+                "Block sides of trailer to prevent shifting"
             ]
         },
         {
-            "task": "Prepare the soil with a tiller.",
+            "task": "Use loader to feed hay into field",
             "subtasks": [
-                "Position the tiller in the field.",
-                "Operate the tiller to break up the soil.",
-                "Navigate the tiller through the designated area."
+                "Move loader alongside the field",
+                "Lower loader bucket to ground level",
+                "Lift hay from ground to field",
+                "Scatter hay uniformly across field"
             ]
         },
         {
-            "task": "Graze livestock on pastures.",
+            "task": "Remove excess material from trucks and trailers",
             "subtasks": [
-                "Drive the tractor to the pasture area.",
-                "Open the gate to allow livestock access.",
-                "Observe the livestock for any health issues.",
-                "Close the gate when livestock have had sufficient grazing."
+                "Drive vehicle to disposal area",
+                "Use loader or shovel to remove material",
+                "Dispose of material appropriately"
             ]
         },
         {
-            "task": "Harvest hay from the fields.",
+            "task": "Secure trailers to stationary location",
             "subtasks": [
-                "Operate the hay conditioner/equipment.",
-                "Roll the hay into bales.",
-                "Transfer the bales to storage."
+                "Connect bungee chords or chains",
+                "Adjust tightness so they stay still"
             ]
         },
         {
-            "task": "Apply fertilizer to the crops.",
+            "task": "Manage field ravines or hedges",
             "subtasks": [
-                "Load fertilizer onto the spreader.",
-                "Attach the spreader to the tractor.",
-                "Set the spreader to the correct application rate.",
-                "Drive the tractor over the crops, distributing the fertilizer evenly."
+                "Attach cutting tool to a tractor",
+                "Drive along area needing work",
+                "Remove unwanted debris from field"
             ]
         },
         {
-            "task": "Check the irrigation systems.",
+            "task": "Store implements properly",
             "subtasks": [
-                "Inspect the irrigation pipes and sprinklers for leaks.",
-                "Turn on the water supply to the irrigation system.",
-                "Monitor the water distribution across the fields."
+                "Adjust any attachments to be stowed",
+                "Clean any tools or implements",
+                "Place implements back into storage area"
             ]
         },
         {
-            "task": "Transport fertilizer to the fields.",
+            "task": "Plant trees or plants with tree planters",
             "subtasks": [
-                "Drive the fertilizer spreader to the fields.",
-                "Unload the fertilizer from the spreader.",
-                "Attach the spreader to the tractor.",
-                "Spread the fertilizer uniformly in the fields."
+                "Position tree planter in desired area",
+                "Load soil and plants into planter",
+                "Drilling hole into ground",
+                "Plant seeds or saplings"
             ]
         },
         {
-            "task": "Fix the broken fence.",
+            "task": "Distribute manure with spreader attached to tractor",
             "subtasks": [
-                "Locate the damaged section of the fence.",
-                "Remove any debris or vegetation around the fence post.",
-                "Replace the damaged fence panel.",
-                "Secure the new panel to the fence posts."
+                "Drive spreader through field",
+                "Adjust spreader spacing and angle",
+                "Spread manure evenly across field"
             ]
         },
         {
-            "task": "Prepare manure for spreading.",
+            "task": "Gather materials in bag or container",
             "subtasks": [
-                "Collect the manure from the barn.",
-                "Transfer the manure to the spreader.",
-                "Assist in the loading process by directing the spreader.",
-                "Control the spreader as it dispenses the manure."
+                "Approach materials needing pickup",
+                "Pick up with grabber or scooper",
+                "Transfer into bag or container"
             ]
         },
         {
-            "task": "Conduct soil testing.",
+            "task": "Use front end loader to load hay bales",
             "subtasks": [
-                "Collect soil samples from various parts of the fields.",
-                "Send the samples to a laboratory for analysis.",
-                "Interpret the results to determine fertilizer needs."
+                "Position loader bucket over hay bale",
+                "Lift bale up and onto truck bed",
+                "Move bale to proper stacking position"
             ]
         },
         {
-            "task": "Drive the combine.",
+            "task": "Cut hay with swather but unload bales",
             "subtasks": [
-                "Enter the combine cab.",
-                "Start the combine engine.",
-                "Attach the combine to the tractor.",
-                "Begin harvesting the crop by operating the combine.",
-                "Transfer the harvested grain into the wagon.",
-                "Unload the grain into the storage facility."
+                "Set up swather in field",
+                "Transport bales using loader to trailer"
             ]
         },
         {
-            "task": "Conduct livestock vaccinations.",
+            "task": "Mow the field with mower and collect into field hopper",
             "subtasks": [
-                "Prepare the vaccine.",
-                "Approach the livestock for handling.",
-                "Safely restrain the livestock.",
-                "Administer the vaccine according to protocol.",
-                "Document the vaccination date and type."
+                "Attach field hopper to mower",
+                "Start mower operation",
+                "Operate mower with hopper collection"
             ]
         },
         {
-            "task": "Herd sheep.",
+            "task": "Place hay in apron bin",
             "subtasks": [
-                "Approach the sheep with a vehicle or on foot.",
-                "Guide the sheep towards the destination using a vehicle's sound or a flag.",
-                "Ensure all sheep are accounted for and safely moved."
+                "Approach apron bin with loader",
+                "Use loader to scoop hay",
+                "Transport to storage bin"
             ]
         },
         {
-            "task": "Apply seed to the soil.",
+            "task": "Place hay in tipper body",
             "subtasks": [
-                "Attach the seeding equipment to the tractor.",
-                "Operate the seeder to plant the seeds evenly.",
-                "Monitor the seeding depth and spacing."
+                "Draw near to tipping body",
+                "Lower body to receive hay from loader",
+                "Release lever to tip body"
             ]
         },
         {
-            "task": "Cultivate the soil with a cultivator.",
+            "task": "Stack cross ways",
             "subtasks": [
-                "Position the cultivator in the field.",
-                "Operate the cultivator to turn the soil.",
-                "Check the depth of cultivation."
+                "Position first hay bale vertically",
+                "Lay subsequent bales horizontally, cross-wise",
+                "Alternate directions for stability"
             ]
         },
         {
-            "task": "Collect eggs from the chicken coop.",
+            "task": "Operate four-wheel drive tractor with loader}",
+            "subtasks": []
+        },
+        {
+            "task": "Load hay onto flatbed trailer}",
+            "subtasks": []
+        },
+        {
+            "task": "Unload hay from trailer}",
+            "subtasks": []
+        },
+        {
+            "task": "Unload trailer of hay bales}",
+            "subtasks": []
+        },
+        {
+            "task": "Stack hay bales into stack}",
+            "subtasks": []
+        },
+        {
+            "task": "Collect Hay with loader arm}",
+            "subtasks": []
+        },
+        {
+            "task": "Use bucket to fill trailer}",
+            "subtasks": []
+        },
+        {
+            "task": "Transport material in wheelbarrow}",
+            "subtasks": []
+        },
+        {
+            "task": "Collect hay from the trailer into apron bins}",
+            "subtasks": []
+        },
+        {
+            "task": "Cut field with mower but unload onto the trailer}",
+            "subtasks": []
+        },
+        {
+            "task": "Lower hay bale to the ground}",
+            "subtasks": []
+        },
+        {
+            "task": "Grapple trailer with front end loader}",
+            "subtasks": []
+        },
+        {
+            "task": "Cut field with mower but use wheelbarrows to transport material}",
+            "subtasks": []
+        },
+        {
+            "task": "Transport trailer to different location}",
+            "subtasks": []
+        },
+        {
+            "task": "Remove implements from tractor}",
+            "subtasks": []
+        },
+        {
+            "task": "Place field hopper on wheels}",
+            "subtasks": []
+        },
+        {
+            "task": "Load hay into drill}",
+            "subtasks": []
+        },
+        {
+            "task": "Place hay bales onto drill}",
+            "subtasks": []
+        },
+        {
+            "task": "Transport hay by truck}",
+            "subtasks": []
+        },
+        {
+            "task": "Stack hay in barn}",
+            "subtasks": []
+        },
+        {
+            "task": "Load hay from trailer into drill}",
+            "subtasks": []
+        },
+        {
+            "task": "Use loader to tie bales on truck}",
+            "subtasks": []
+        },
+        {
+            "task": "Rinse buckets after using}",
+            "subtasks": []
+        },
+        {
+            "task": "Tether bale to front end loader}",
+            "subtasks": []
+        },
+        {
+            "task": "Stack material using forklift}",
+            "subtasks": []
+        },
+        {
+            "task": "Perform front shovel operations}",
+            "subtasks": []
+        },
+        {
+            "task": "Use blade attachment to gather spoons}",
+            "subtasks": []
+        },
+        {
+            "task": "Adjust trailer forks}",
+            "subtasks": []
+        },
+        {
+            "task": "Load and secure hay to trailer}",
+            "subtasks": []
+        },
+        {
+            "task": "Use loader to feed hay into field}",
+            "subtasks": []
+        },
+        {
+            "task": "Remove excess material from trucks and trailers}",
+            "subtasks": []
+        },
+        {
+            "task": "Secure trailers to stationary location}",
+            "subtasks": []
+        },
+        {
+            "task": "Manage field ravines or hedges}",
+            "subtasks": []
+        },
+        {
+            "task": "Operate four-wheel drive tractor with loader",
+            "subtasks": [
+                "Sit in driver's seat",
+                "Engage transmission",
+                "Steering tractor to move sideways",
+                "Lower loader bucket",
+                "Raise loader bucket",
+                "Attach loader to tractor",
+                "Disengage transmission",
+                "Shift gears",
+                "Speed up tractor",
+                "Reverse tractor in field",
+                "Activate steering wheel for direction"
+            ]
+        },
+        {
+            "task": "Load hay onto flatbed trailer",
+            "subtasks": [
+                "Approach trailer with tractor and loader",
+                "Position loader over trailer opening",
+                "Deploy forks from loader",
+                "Lower forks onto trailer to grip hay bales",
+                "Lift forks with hay bales upward",
+                "Drive tractor slowly forward, transporting hay",
+                "Repeat process until all hay is loaded"
+            ]
+        },
+        {
+            "task": "Unload hay from trailer",
+            "subtasks": [
+                "Align trailer with barn or storage area",
+                "Lower forks onto ground",
+                "Separate hay bales from forks",
+                "Stack hay into piles or onto storage racks"
+            ]
+        },
+        {
+            "task": "Unload trailer of hay bales",
+            "subtasks": [
+                "Position tractor and loader near trailer",
+                "Use loader to grip hay bale from trailer",
+                "Lift hay bale up and out of trailer",
+                "Transport hay bale to storage location",
+                "Repeat for each hay bale"
+            ]
+        },
+        {
+            "task": "Stack hay bales into stack",
+            "subtasks": [
+                "Position hay bale on ground",
+                "Place hay bale perpendicular to previous one",
+                "Continue stacking width-wise",
+                "Start next layer, placing bales on the edges of the previous row",
+                "Alternate stacking pattern as needed for stability",
+                "Cover stack with tarp or hay shed"
+            ]
+        },
+        {
+            "task": "Collect Hay with loader arm",
+            "subtasks": [
+                "Drive tractor with loader towards hay",
+                "Lower loader to pick up hay bale",
+                "Lift hay bale onto arm",
+                "Transport hay to storage location or trailer"
+            ]
+        },
+        {
+            "task": "Use bucket to fill trailer",
+            "subtasks": [
+                "Drive tractor to field with bucket lowered",
+                "Raise bucket to pick up muddy substances",
+                "Drive to location to dump mud and fill trailer",
+                "Repeat until trailer is full"
+            ]
+        },
+        {
+            "task": "Transport material in wheelbarrow",
+            "subtasks": [
+                "Load materials into wheelbarrow",
+                "Carry wheelbarrow to construction or maintenance area",
+                "Unload materials and spread as needed"
+            ]
+        },
+        {
+            "task": "Collect hay from the trailer into apron bins",
+            "subtasks": [
+                "Approach trailer with tractor and loader",
+                "Align loader with trailer opening",
+                "Use loader to collect hay from trailer onto apron bins",
+                "Drive apron bins to storage area"
+            ]
+        },
+        {
+            "task": "Cut field with mower but unload onto the trailer",
+            "subtasks": [
+                "Position mower in field",
+                "Drive mower forward to cut grass",
+                "Move mower towards trailer",
+                "Lift hay or grass onto trailer with loader",
+                "Stack onto trailer"
+            ]
+        },
+        {
+            "task": "Cut field with mower but use wheelbarrows to transport material",
+            "subtasks": [
+                "Position mower in field",
+                "Drive mower forward to cut grass",
+                "Load cut material into wheelbarrow",
+                "Transport wheelbarrow to trailer or storage area",
+                "Unload into appropriate location"
+            ]
+        },
+        {
+            "task": "Load hay into tilted trailer",
             "subtasks": [
-                "Open the entrance to the chicken coop.",
-                "Gingerly collect eggs from the nest boxes.",
-                "Place the eggs in a basket or container for transport.",
-                "Close the coop entrance securely."
+                "Lower trailer to the ground",
+                "Load hay onto trailer with loader",
+                "Raise trailer to transport"
             ]
         },
         {
-            "task": "Preplanting soil preparation.",
+            "task": "Lower hay bale to the ground",
             "subtasks": [
-                "Prepare the land for planting by breaking up clumps or applying lime.",
-                "Spread organic matter or fertilizer on the field.",
-                "Tamp down the soil to ensure good contact with the fertilizer."
+                "Position loader arm over hay bale",
+                "Lower arm to ground",
+                "Remove hay bale from loader"
             ]
         },
         {
-            "task": "Prepare grain for milling.",
+            "task": "Grapple trailer with front end loader",
             "subtasks": [
-                "Transport the grain from the storage facility to the mill.",
-                "Clean the grain to remove impurities.",
-                "Operate the grinder to mill the grain into flour.",
-                "Package the milled grain for storage or sale."
+                "Drive tractor to trailers location",
+                "Approach grapple trailer",
+                "Use front end loader to grapple the trailer",
+                "Lift trailer onto tractor",
+                "Drive to new location and unload"
             ]
         },
         {
-            "task": "Plant seeds with a planter.",
+            "task": "Cut field",
             "subtasks": [
-                "Select the appropriate seed.",
-                "Fill the planter's seed boxes.",
-                "Adjust the depth and spacing for the specific crop.",
-                "Secure the planter to the tractor.",
-                "Operate the planter to plant seeds in the field."
+                "Position mower in field",
+                "Start mower operation",
+                "Direct flow while cutting to target area"
             ]
         },
         {
-            "task": "Install fencing around a pasture.",
+            "task": "Transport trailer to different location",
             "subtasks": [
-                "Survey the area to determine fencing placement.",
-                "Allocate materials/drive fence posts into the ground.",
-                "Attach fencing wire to the posts.",
-                "Check the fencing for proper tightness and safety."
+                "Position tractor in front of trailer",
+                "Connect trailer to tractor",
+                "Adjust tow bar or chains",
+                "Proceed to destination in reverse or via other direction"
             ]
         },
         {
-            "task": "Monitor crop growth.",
+            "task": "Remove implements from tractor",
             "subtasks": [
-                "Walk through the fields to examine plants' health.",
-                "Record observations about plant growth stages.",
-                "Check for pests or diseases."
+                "Lower working implement from tractor",
+                "Store implement properly"
             ]
         },
         {
-            "task": "Irrigate crops.",
+            "task": "Place field hopper on wheels",
             "subtasks": [
-                "Start the irrigation system.",
-                "Monitor water flow and coverage.",
-                "Adjust sprinklers or nozzles if necessary."
+                "Position field hopper in field",
+                "Secure wheels to hopper",
+                "Use device to push hopper along field"
             ]
         },
         {
-            "task": "Monitor livestock feed.",
+            "task": "Load hay onto drill",
             "subtasks": [
-                "Observe the remaining feed in the storage areas.",
-                "Calculate how much feed is needed.",
-                "Replenish feed supplies when necessary.",
-                "5. \u7528MAINTASK\u548cSUBTASK\u7684\u6807\u7b7e\u6765\u660e\u786e\u6bcf\u4e2a\u4efb\u52a1\u548c\u5b50\u4efb\u52a1\u7684\u7ea7\u522b,\u5e76\u6309\u7167\u8981\u6c42\u7ed9\u51fa\u3002"
+                "Approach drill with loader",
+                "Lower loader to grip hay bale",
+                "Lift hay bale onto drill"
             ]
         },
         {
-            "task": "Start the tractor and attach implements.",
+            "task": "Place hay bales onto drill",
             "subtasks": [
-                "Enter the tractor cab.",
-                "Start the tractor engine.",
-                "Exit the tractor cab.",
-                "Approach the storage area to select appropriate implements.",
-                "Lift the implement into position.",
-                "Secure the implement to the tractor."
+                "Move drilling machine to position",
+                "Align hay bale with drill",
+                "Secure bale to drill"
             ]
         },
         {
-            "task": "Operate the harvester.",
+            "task": "Transport hay by truck",
             "subtasks": [
-                "Position the harvester over the crop.",
-                "Adjust the harvester settings for optimal harvest.",
-                "Monitor the harvester operation.",
-                "Clean the harvested crop."
+                "Drive truck to farm",
+                "Unload hay into truck bed",
+                "Cover hay in truck bed",
+                "Drive to delivery site",
+                "Unload hay at site"
             ]
         },
         {
-            "task": "Load and transport the harvest.",
+            "task": "Stack hay in barn",
             "subtasks": [
-                "Attach a trailer to the tractor.",
-                "Transfer the harvested crop to the trailer.",
-                "Secure the crop on the trailer.",
-                "Drive the trailer to the designated storage area.",
-                "Unload the crop from the trailer."
+                "Unload hay from truck into barn",
+                "Position hay bales onto racks or stack on ground",
+                "Secure hay with twine or clips"
             ]
         },
         {
-            "task": "Conduct maintenance checks on the farm equipment.",
+            "task": "Load hay from trailer into drill",
             "subtasks": [
-                "Inspect the tractor for proper operation.",
-                "Lubricate moving parts of the equipment.",
-                "Check fluid levels in the tractor and implements.",
-                "Replace any worn or damaged parts."
+                "Approach drill with loader",
+                "Lower loader to lift hay from trailer",
+                "Transport hay to drill location",
+                "Place hay into drill"
             ]
         },
         {
-            "task": "Plant crops with a planter.",
+            "task": "Place fork of loader onto trailer opening",
             "subtasks": [
-                "Set up the planter with seed.",
-                "Adjust the depth and spacing of seed placement.",
-                "Attach the planter to the tractor.",
-                "Operate the planter to plant seeds in rows."
+                "Drive loader near trailer opening",
+                "Align fork with opening",
+                "Gently lower fork down"
             ]
         },
         {
-            "task": "Spray pesticides or herbicides on crops.",
+            "task": "Grapple hay with front end loader",
             "subtasks": [
-                "Fill the sprayer tank with the desired chemical.",
-                "Attach the sprayer equipment to the tractor.",
-                "Calibration of the sprayer.",
-                "Drive the tractor through the fields, applying the chemical evenly."
+                "Attach grapple to front end loader",
+                "Use loader to grapple hay bale",
+                "Lift bale into transport position",
+                "Move to storage or desired location"
             ]
         },
         {
-            "task": "Prepare the soil with a tiller.",
+            "task": "Use loader to tie bales on truck",
             "subtasks": [
-                "Position the tiller in the field.",
-                "Operate the tiller to break up the soil.",
-                "Navigate the tiller through the designated area."
+                "Position bale against truck bed",
+                "Secure bale with rope, bungi straps, or netting"
             ]
         },
         {
-            "task": "Graze livestock on pastures.",
+            "task": "Rinse buckets after using",
             "subtasks": [
-                "Drive the tractor to the pasture area.",
-                "Open the gate to allow livestock access.",
-                "Observe the livestock for any health issues.",
-                "Close the gate when livestock have had sufficient grazing."
+                "Fill hose into bucket",
+                "Splash water onto bucket surfaces",
+                "Empty excess water"
             ]
         },
         {
-            "task": "Harvest hay from the fields.",
+            "task": "Tether bale to front end loader",
             "subtasks": [
-                "Operate the hay conditioner/equipment.",
-                "Roll the hay into bales.",
-                "Transfer the bales to storage."
+                "Attach bale to loader front end",
+                "Drive loader to location",
+                "Unload bale when needed"
             ]
         },
         {
-            "task": "Apply fertilizer to the crops.",
+            "task": "Stack material using forklift",
             "subtasks": [
-                "Load fertilizer onto the spreader.",
-                "Attach the spreader to the tractor.",
-                "Set the spreader to the correct application rate.",
-                "Drive the tractor over the crops, distributing the fertilizer evenly."
+                "Position forklift under stack",
+                "Lift stack with forks",
+                "Move stack to storage area",
+                "Repeat as necessary"
             ]
         },
         {
-            "task": "Check the irrigation systems.",
+            "task": "Perform front shovel operations",
             "subtasks": [
-                "Inspect the irrigation pipes and sprinklers for leaks.",
-                "Turn on the water supply to the irrigation system.",
-                "Monitor the water distribution across the fields."
+                "Use front shovel attachment on tractor",
+                "Dig into ground to loosen material",
+                "Transport material with shovel attached",
+                "Empty shovel into designated area"
             ]
         },
         {
-            "task": "Transport fertilizer to the fields.",
+            "task": "Use blade attachment to gather spoons",
             "subtasks": [
-                "Drive the fertilizer spreader to the fields.",
-                "Unload the fertilizer from the spreader.",
-                "Attach the spreader to the tractor.",
-                "Spread the fertilizer uniformly in the fields."
+                "Attach blade to front of tractor",
+                "Drive through field, gathering spilled hay",
+                "Transfer gathered material into burlap sack or bag"
             ]
         },
         {
-            "task": "Fix the broken fence.",
+            "task": "Adjust trailer forks",
             "subtasks": [
-                "Locate the damaged section of the fence.",
-                "Remove any debris or vegetation around the fence post.",
-                "Replace the damaged fence panel.",
-                "Secure the new panel to the fence posts."
+                "Inspect forks for any deformities or issues",
+                "Align forks in correct position",
+                "Securely slot the forks"
             ]
         },
         {
-            "task": "Prepare manure for spreading.",
+            "task": "Load and secure hay to trailer",
             "subtasks": [
-                "Collect the manure from the barn.",
-                "Transfer the manure to the spreader.",
-                "Assist in the loading process by directing the spreader.",
-                "Control the spreader as it dispenses the manure."
+                "Position hay bale onto trailer",
+                "Secure bale with straps or chains",
+                "Block sides of trailer to prevent shifting"
             ]
         },
         {
-            "task": "Conduct soil testing.",
+            "task": "Use loader to feed hay into field",
             "subtasks": [
-                "Collect soil samples from various parts of the fields.",
-                "Send the samples to a laboratory for analysis.",
-                "Interpret the results to determine fertilizer needs."
+                "Move loader alongside the field",
+                "Lower loader bucket to ground level",
+                "Lift hay from ground to field",
+                "Scatter hay uniformly across field"
             ]
         },
         {
-            "task": "Drive the combine.",
+            "task": "Remove excess material from trucks and trailers",
             "subtasks": [
-                "Enter the combine cab.",
-                "Start the combine engine.",
-                "Attach the combine to the tractor.",
-                "Begin harvesting the crop by operating the combine.",
-                "Transfer the harvested grain into the wagon.",
-                "Unload the grain into the storage facility."
+                "Drive vehicle to disposal area",
+                "Use loader or shovel to remove material",
+                "Dispose of material appropriately"
             ]
         },
         {
-            "task": "Conduct livestock vaccinations.",
+            "task": "Secure trailers to stationary location",
             "subtasks": [
-                "Prepare the vaccine.",
-                "Approach the livestock for handling.",
-                "Safely restrain the livestock.",
-                "Administer the vaccine according to protocol.",
-                "Document the vaccination date and type."
+                "Connect bungee chords or chains",
+                "Adjust tightness so they stay still"
             ]
         },
         {
-            "task": "Herd sheep.",
+            "task": "Manage field ravines or hedges",
             "subtasks": [
-                "Approach the sheep with a vehicle or on foot.",
-                "Guide the sheep towards the destination using a vehicle's sound or a flag.",
-                "Ensure all sheep are accounted for and safely moved."
+                "Attach cutting tool to a tractor",
+                "Drive along area needing work",
+                "Remove unwanted debris from field"
             ]
         },
         {
-            "task": "Apply seed to the soil.",
+            "task": "Store implements properly",
             "subtasks": [
-                "Attach the seeding equipment to the tractor.",
-                "Operate the seeder to plant the seeds evenly.",
-                "Monitor the seeding depth and spacing."
+                "Adjust any attachments to be stowed",
+                "Clean any tools or implements",
+                "Place implements back into storage area"
             ]
         },
         {
-            "task": "Cultivate the soil with a cultivator.",
+            "task": "Plant trees or plants with tree planters",
             "subtasks": [
-                "Position the cultivator in the field.",
-                "Operate the cultivator to break up the soil.",
-                "Check the depth of cultivation."
+                "Position tree planter in desired area",
+                "Load soil and plants into planter",
+                "Drilling hole into ground",
+                "Plant seeds or saplings"
             ]
         },
         {
-            "task": "Collect eggs from the chicken coop.",
+            "task": "Distribute manure with spreader attached to tractor",
             "subtasks": [
-                "Open the entrance to the chicken coop.",
-                "Gingerly collect eggs from the nest boxes.",
-                "Place the eggs in a basket or container for transport.",
-                "Close the coop entrance securely."
+                "Drive spreader through field",
+                "Adjust spreader spacing and angle",
+                "Spread manure evenly across field"
             ]
         },
         {
-            "task": "Preplanting soil preparation.",
+            "task": "Gather materials in bag or container",
             "subtasks": [
-                "Prepare the land for planting by breaking up clumps or applying lime.",
-                "Spread organic matter or fertilizer on the field.",
-                "Tamp down the soil to ensure good contact with the fertilizer."
+                "Approach materials needing pickup",
+                "Pick up with grabber or scooper",
+                "Transfer into bag or container"
             ]
         },
         {
-            "task": "Prepare grain for milling.",
+            "task": "Use front end loader to load hay bales",
             "subtasks": [
-                "Transport the grain from the storage facility to the mill.",
-                "Clean the grain to remove impurities.",
-                "Operate the grinder to mill the grain into flour.",
-                "Package the milled grain for storage or sale."
+                "Position loader bucket over hay bale",
+                "Lift bale up and onto truck bed",
+                "Move bale to proper stacking position"
             ]
         },
         {
-            "task": "Plant seeds with a planter.",
+            "task": "Cut hay with swather but unload bales",
             "subtasks": [
-                "Select the appropriate seed.",
-                "Fill the planter's seed boxes.",
-                "Adjust the depth and spacing for the specific crop.",
-                "Secure the planter to the tractor.",
-                "Operate the planter to plant seeds in the field."
+                "Set up swather in field",
+                "Transport bales using loader to trailer"
             ]
         },
         {
-            "task": "Install fencing around a pasture.",
+            "task": "Mow the field with mower and collect into field hopper",
             "subtasks": [
-                "Survey the area to determine fencing placement.",
-                "Allocate materials/drive fence posts into the ground.",
-                "Attach fencing wire to the posts.",
-                "Check the fencing for proper tightness and safety."
+                "Attach field hopper to mower",
+                "Start mower operation",
+                "Operate mower with hopper collection"
             ]
         },
         {
-            "task": "Monitor crop growth.",
+            "task": "Place hay in apron bin",
             "subtasks": [
-                "Walk through the fields to examine plants' health.",
-                "Record observations about plant growth stages.",
-                "Check for pests or diseases."
+                "Approach apron bin with loader",
+                "Use loader to scoop hay",
+                "Transport to storage bin"
             ]
         },
         {
-            "task": "Irrigate crops.",
+            "task": "Place hay in tipper body",
             "subtasks": [
-                "Start the irrigation system.",
-                "Monitor water flow and coverage.",
-                "Adjust sprinklers or nozzles if necessary."
+                "Draw near to tipping body",
+                "Lower body to receive hay from loader",
+                "Release lever to tip body"
             ]
         },
         {
-            "task": "Monitor livestock feed.",
+            "task": "Stack cross ways",
             "subtasks": [
-                "Observe the remaining feed in the storage areas.",
-                "Calculate how much feed is needed.",
-                "Replenish feed supplies when necessary."
+                "Position first hay bale vertically",
+                "Lay subsequent bales horizontally, cross-wise",
+                "Alternate directions for stability"
             ]
         }
     ]

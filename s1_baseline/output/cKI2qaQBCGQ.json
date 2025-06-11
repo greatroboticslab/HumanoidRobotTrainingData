@@ -5,14 +5,88 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Sign off a video with a thank you",
+            "task": "Drive a tractor through a field.",
             "subtasks": [
-                "Position the body near the camera to be visible",
-                "Adjust body posture for a professional appearance",
-                "Press the record button on the camera or recording device",
-                "Maintain steady gaze at the camera to ensure clear audio and visual recording",
-                "Smile and mouth the words \"Thank you\" clearly for better lip synchronization",
-                "Stay within the frame and avoid moving unnecessarily to maintain recording quality"
+                "Sit on the tractor seat.",
+                "Steer the tractor with the steering wheel to navigate through the field.",
+                "Operate the pedals to control speed and direction."
+            ]
+        },
+        {
+            "task": "Attach a plow to the tractor.",
+            "subtasks": [
+                "Approach the plow hitch on the tractor.",
+                "Align the plow coulter with the hitch pins.",
+                "Lift the plow and attach it securely to the tractor."
+            ]
+        },
+        {
+            "task": "Operate the plow to turn the soil.",
+            "subtasks": [
+                "Lower the plow into the ground.",
+                "Move the tractor forward to engage the plow's cutting edges.",
+                "Maintain a straight path to properly turn the soil."
+            ]
+        },
+        {
+            "task": "Load the plowed soil onto a cart.",
+            "subtasks": [
+                "Approach the cart positioned adjacent to the plowed area.",
+                "Maneuver the cart into position to collect the turned soil.",
+                "Use a pitchfork or shovel to transfer the soil from the plow to the cart."
+            ]
+        },
+        {
+            "task": "Transport the cart to a designated area.",
+            "subtasks": [
+                "steer the tractor while pulling the cart to the landing spot.",
+                "Adjust speed and direction carefully to avoid jolts."
+            ]
+        },
+        {
+            "task": "Unload the cart.",
+            "subtasks": [
+                "Position the cart over the destination spot.",
+                "Release the soil by tilting the cart or using a chute."
+            ]
+        },
+        {
+            "task": "Use a harrow to smooth the soil.",
+            "subtasks": [
+                "Attach the harrow to the tractor.",
+                "Lower the harrow prongs into the soil.",
+                "Drive the tractor over the field, allowing the harrow to smooth the surface."
+            ]
+        },
+        {
+            "task": "Cultivate a crop field.",
+            "subtasks": [
+                "Position the cultivator implements at the correct depth.",
+                "Operate the tractor to move the cultivator through the rows, breaking up soil clumps.",
+                "Check the implement's progress and adjust settings as needed."
+            ]
+        },
+        {
+            "task": "Harvest a portion of the crop using a picker.",
+            "subtasks": [
+                "Drive the picker through the row, cradling the crop stalks.",
+                "Ensure proper height and angle for efficient harvesting.",
+                "Operate the picker's onboard mechanism to collect the harvested material."
+            ]
+        },
+        {
+            "task": "Load bundles or cut stalks onto a truck.",
+            "subtasks": [
+                "Arrange the bundles or stacked stalks onto the truck bed.",
+                "Secure the load with straps or lashings to prevent shifting."
+            ]
+        },
+        {
+            "task": "Operate a bindler to tie the bundles.",
+            "subtasks": [
+                "Feed the harvested stalks into the bindler.",
+                "Adjust the bindler settings for optimal bundling.",
+                "Transfer the tied bundles to storage or transport."
             ]
         }
     ]

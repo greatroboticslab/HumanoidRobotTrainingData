@@ -5,21 +5,34 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Generating tasks related to the physical tasks involved in farming, agriculture, and operating farming equipment based on the given transcript.",
+            "task": "Operating a digestate system on a dairy farm.",
             "subtasks": [
-                "Identify relevant agricultural or farming-related activities mentioned in the transcript.",
-                "Break down the identified activities into general tasks.",
-                "For each general task, decompose it into smaller subtasks (specific actions).",
-                "Verify the relevance of tasks to physical farming, agriculture, or operating farming equipment.",
-                "Formulate the final list of tasks ensuring they are concise and deal with physical actions.",
-                "Review the tasks to prevent any redundant or overlapping entries.",
-                "Ensure all tasks are clearly connected to the provided transcript.",
-                "Categorize the tasks under the appropriate heading (e.g., soil preparation, animal husbandry, machinery operation, etc.)."
+                "Conducting on-site visits to evaluate technology installations.",
+                "Creating case studies based on site evaluations.",
+                "Developing a scoring system for technology assessment.",
+                "Publishing recognized and emerging technologies through a catalog.",
+                "Facilitating vendor and farmer collaborations through technology evaluation platforms."
             ]
         },
         {
-            "task": "Understand and support dairy farms in adopting environmental technologies for sustainability.",
-            "subtasks": []
+            "task": "Operating a digestate system on a dairy farm.",
+            "subtasks": [
+                "Conducting on-site visits to evaluate technology installations.",
+                "Creating case studies based on site evaluations.",
+                "Developing a scoring system for technology assessment.",
+                "Publishing recognized and emerging technologies through a catalog.",
+                "Facilitating vendor and farmer collaborations through technology evaluation platforms."
+            ]
+        },
+        {
+            "task": "MAINTASK: Operating a digestate system on a dairy farm.",
+            "subtasks": [
+                "Conducting on-site visits to evaluate technology installations.",
+                "Creating case studies based on site evaluations.",
+                "Developing a scoring system for technology assessment.",
+                "Publishing recognized and emerging technologies through a catalog.",
+                "Facilitating vendor and farmer collaborations through technology evaluation platforms."
+            ]
         }
     ]
 }

@@ -5,237 +5,47 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Drive a tractor through the field",
+            "task": "Preparing the farmland for planting.",
             "subtasks": [
-                "Sit on the tractor seat",
-                "Steer the tractor using the steering wheel",
-                "Adjust the speed of the tractor with the throttle",
-                "Operate the clutch to engage or disengage power",
-                "Use the brake pedal to slow down or stop",
-                "Navigate around obstacles or uneven terrain"
+                "Steer the tractor toward the field.",
+                "Adjust the attachment on the tractor to the proper height.",
+                "Guide the attachment over the rows of the field.",
+                "Ensure the attachment is functioning correctly as it passes through the soil."
             ]
         },
         {
-            "task": "Attach a cultivator to the tractor",
+            "task": "Using a sharp implement to break up the soil.",
             "subtasks": [
-                "Align the tractor with the cultivator",
-                "Lower the cultivator to the ground",
-                "Tighten bolts or secure any connections"
+                "Position the sharp implement under the field surface.",
+                "Lift the implement to the desired depth to disrupt the soil structure.",
+                "Monitor the break-up process to ensure thorough coverage."
             ]
         },
         {
-            "task": "Operate the cultivator",
+            "task": "Operating a sprayer to apply chemicals.",
             "subtasks": [
-                "Survey the field to determine tillage patterns",
-                "Start the cultivator engine",
-                "Engage the cultivator hydraulics",
-                "Monitor the depth and width of the tillage",
-                "Stop and adjust as needed"
+                "Load the sprayer with the appropriate chemical.",
+                "Calibrate the sprayer for the correct application rate.",
+                "Drive the tractor with the sprayer attachments through the field.",
+                "Overlap the application paths slightly to ensure full coverage."
             ]
         },
         {
-            "task": "Load the crop into the trailer",
+            "task": "Managing a grazing operation.",
             "subtasks": [
-                "Approach the crop rows with the tractor",
-                "Engage the loader to pick up the crop",
-                "Lift the crop and load it onto the trailer",
-                "Secure the crop to prevent spillage during transportation"
+                "Survey the grazing area to assess the available pasture.",
+                "Ensure the pasture is clear of debris and safe for livestock.",
+                "Introduce the livestock into the pasture.",
+                "Monitor the livestock's behavior and adjust the grazing area as needed."
             ]
         },
         {
-            "task": "Hitch the trailer to the tractor",
+            "task": "Performing routine equipment maintenance.",
             "subtasks": [
-                "Align the trailer hitch with the tractor\u2019s hitch",
-                "Connect the safety chains and other safety checks",
-                "Ensure the trailer is stable and secure"
-            ]
-        },
-        {
-            "task": "Transport the crop to the storage facility",
-            "subtasks": [
-                "Drive the tractor and trailer to the storage area",
-                "Parking the trailer at the storage facility",
-                "Unhitch the trailer and secure it"
-            ]
-        },
-        {
-            "task": "Unload the crop from the trailer",
-            "subtasks": [
-                "Position the tractor under the trailer to lift the trailer",
-                "Disconnect the trailer from the tractor",
-                "Lower the trailer and drive away",
-                "Unload the crop from the trailer by hand or mechanical means"
-            ]
-        },
-        {
-            "task": "Clean and maintain the equipment",
-            "subtasks": [
-                "Inspect the tractor and cultivator for damages",
-                "Lubricate moving parts",
-                "Check fluid levels (oil, coolant, etc.)",
-                "Clean the equipment to prevent corrosion"
-            ]
-        },
-        {
-            "task": "Refuel the tractor and cultivator",
-            "subtasks": [
-                "Park the equipment near a fuel source",
-                "Connect the fuel hose and start refueling",
-                "Monitor fuel levels and stop when full"
-            ]
-        },
-        {
-            "task": "Apply pesticide to the crops",
-            "subtasks": [
-                "Mix the pesticide according to instructions",
-                "Fill the pesticide tank on the sprayer",
-                "Attach the sprayer to the tractor",
-                "Drive the tractor through the field, applying the pesticide",
-                "Ensure even distribution and correct rate of application"
-            ]
-        },
-        {
-            "task": "Operate the baler",
-            "subtasks": [
-                "Position the baler in the field",
-                "Attach the bale strings or twine",
-                "Start the baler engine",
-                "Collect the harvested crop into bales",
-                "Toss the bales into the baler basket",
-                "Secure the bale when full and dump it onto the trailer"
-            ]
-        },
-        {
-            "task": "Use a hay rake",
-            "subtasks": [
-                "Position the hay rake in the field",
-                "Adjust the rake width and speed",
-                "Pull the hay from the ground and spread it uniformly",
-                "Overlap passes to cover the entire area"
-            ]
-        },
-        {
-            "task": "Conduct field scouting",
-            "subtasks": [
-                "Walk through the fields to visually inspect the crops",
-                "Check for pests, diseases, or nutrient deficiencies",
-                "Note any areas requiring special attention"
-            ]
-        },
-        {
-            "task": "Apply fertilizer to the crops",
-            "subtasks": [
-                "Spread fertilizer over the field using a broadcast spreader",
-                "Drive the tractor with the spreader attached",
-                "Adjust the rate and spread pattern of the fertilizer",
-                "Ensure coverage and even distribution"
-            ]
-        },
-        {
-            "task": "Water the crops with irrigation equipment",
-            "subtasks": [
-                "Turn on the irrigation system",
-                "Monitor water pressure and distribution",
-                "Manage the irrigation schedule according to crop needs"
-            ]
-        },
-        {
-            "task": "Operate the combine harvester",
-            "subtasks": [
-                "Drive the combine through the field",
-                "Set the header and threshing floor",
-                "Monitor grain loss and adjust as necessary",
-                "Load the grain into the grain cart"
-            ]
-        },
-        {
-            "task": "Clean grain off the combine",
-            "subtasks": [
-                "Detach the grain cart from the combine",
-                "Use the auger or conveyor to transfer grain into the bin",
-                "Operate the discharge system to dump grain onto the bin"
-            ]
-        },
-        {
-            "task": "operate a pivot sprinkler system",
-            "subtasks": [
-                "Start the pivot irrigation system",
-                "Check the pivot for proper movement and water flow",
-                "Monitor the pivot\u2019s trajectory to ensure coverage",
-                "Adjust the pivot motor or timer as needed"
-            ]
-        },
-        {
-            "task": "Operate a chisel plow",
-            "subtasks": [
-                "Align the chisel plow with the field rows",
-                "Engage the hydraulic lift to raise and lower the tool",
-                "Tilt the plow to the desired angle",
-                "Plow the soil to the desired depth",
-                "Adjust the plow settings between passes"
-            ]
-        },
-        {
-            "task": "Install FAS strips",
-            "subtasks": [
-                "Determine the FAS strip intervals in the field",
-                "Use precision tools to install the FAS strips accurately"
-            ]
-        },
-        {
-            "task": "Ride a horse through the pasture",
-            "subtasks": [
-                "Sit on the horse\u2019s back",
-                "Hold the reins to guide the horse",
-                "Watch for obstacles or hazards in the pasture",
-                "Ensure the horse stays on the designated path"
-            ]
-        },
-        {
-            "task": "Hand graze the livestock in the pasture",
-            "subtasks": [
-                "Release the livestock into the pasture",
-                "Observe the livestock for signs of distress",
-                "Guide the livestock to graze uniformly across the pasture"
-            ]
-        },
-        {
-            "task": "Check the fence lines in the pasture",
-            "subtasks": [
-                "Walk along the fence lines",
-                "Inspect the fence posts and wires for damage or gaps",
-                "Repair any broken or loose fence components",
-                "Ascend the pole safely",
-                "Check for corrosion, damage, or loose connections on the lines",
-                "Report any issues to the electrician"
-            ]
-        },
-        {
-            "task": "Operate a well pump to supply water to the farm",
-            "subtasks": [
-                "Approach the well house",
-                "Activate the pump switch",
-                "Monitor the pressure gauge or other indicators",
-                "Check for water flow and adjust if necessary"
-            ]
-        },
-        {
-            "task": "Check and adjust irrigation timers",
-            "subtasks": [
-                "Access the irrigation control box",
-                "Turn individual station on or off",
-                "Adjust the start times for each station",
-                "Confirm proper functioning of each zone"
-            ]
-        },
-        {
-            "task": "Mark boundaries with paint or flags",
-            "subtasks": [
-                "Decide on the boundary locations",
-                "Choose the appropriate paint or flagging materials",
-                "Apply the paint or place the flags at the boundaries",
-                "Ensure clear and visible markers",
-                "The video transcript entails a farmer conducting various physical tasks related to agricultural practices. The main tasks a person must perform include operating a tractor and cultivator, loading and unloading crops, maintaining equipment, applying pesticides, operating a baler and hay rake, field scouting, applying fertilizer, irrigation, operating a combine and grain cart, managing livestock in a pasture, checking fences and electrical lines, operating a well pump, and adjusting irrigation systems. Each of these tasks involves physical labor and the coordination of machinery with manual operations, reflecting the comprehensive nature of farming activities. Therefore, the answer should list these tasks without any rounding or approximation. The final answer is a numbered list as provided above, with MAINTASK and SUBTASK headings appropriately structured. The bigInt answer script ensures that the reasoning process is captured, including the relevance of each subtask to the overall agricultural context. No conversion to footnotes is necessary, as the tasks are presented directly."
+                "Inspect the tractor for any visible damages or issues.",
+                "Lubricate moving parts of the tractor and its attachments.",
+                "Check the fluid levels and tighten any loose connections.",
+                "Store the equipment properly to prevent wear and tear."
             ]
         }
     ]

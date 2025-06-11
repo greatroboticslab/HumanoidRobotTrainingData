@@ -5,29 +5,56 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Extract corn kernels from the cob using a spoon.",
+            "task": "Extract corn kernels using a spoon",
             "subtasks": [
-                "Obtain a spoon.",
-                "Insert spoon into the first row of kernels.",
-                "Gently remove the first row of kernels, accepting that it may be slightly damaged.",
-                "Continue removing subsequent rows, noting the process becomes easier after the initial row.",
-                "Store the extracted corn in the freezer for up to 50 days.",
-                "Enjoy the raw, sweet corn."
+                "Obtain a spoon",
+                "Take out the first row of kernels, expecting some mashing",
+                "Push the kernels out after the first row",
+                "Extract the second row of kernels, noticing increased ease",
+                "Store the extracted kernels in the freezer for up to 50 days",
+                "Serve the kernels raw for maximum sweetness"
             ]
         },
         {
-            "task": "Store extracted corn kernels in the freezer.",
+            "task": "Freeze corn kernels",
             "subtasks": [
-                "Transfer the extracted corn kernels into a suitable freezer container or bag.",
-                "Label the container with the contents and date.",
-                "Place the container in the freezer for preservation."
+                "Transfer extracted kernels into freezer storage",
+                "Ensure freezer storage can maintain freshness for at least 50 days"
             ]
         },
         {
-            "task": "Enjoy the sweet corn.",
+            "task": "Prepare and serve fresh corn kernels",
             "subtasks": [
-                "Prepare the sweet corn for immediate consumption.",
-                "Share the experience of finding the process easy and enjoyable."
+                "Remove kernels from the cob",
+                "Store kernels in the freezer",
+                "Either use fresh kernels immediately or serve frozen kernels"
+            ]
+        },
+        {
+            "task": "Extract corn kernels using a spoon. Then for that, the subtasks are: get the spoon, take out the first row (expecting some mashing), then push the rest out. Then they do the second row too, which is easier. Next, MAINTASK: Freeze the extracted kernels. Subtasks there would be transferring them to freezer storage and ensuring it's good for up to 50 days. Then finally, MAINTASK: Serve the corn kernels. Whether fresh or frozen, although in this case they mention serving it raw after extraction, so that's part of the serving process.",
+            "subtasks": []
+        },
+        {
+            "task": "Extract corn kernels using a spoon",
+            "subtasks": [
+                "Obtain a spoon",
+                "Remove the first row of kernels, expecting minor damage",
+                "Push remaining kernels out using spoon",
+                "Remove second row of kernels easily"
+            ]
+        },
+        {
+            "task": "Store extracted kernels",
+            "subtasks": [
+                "Transfer kernels to freezer storage",
+                "Ensure storage allows for at least 50 days freshness"
+            ]
+        },
+        {
+            "task": "Serve sweet corn",
+            "subtasks": [
+                "Prepare kernels by extraction",
+                "Choose to serve fresh or frozen"
             ]
         }
     ]

@@ -5,40 +5,100 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Preparing the chicken coop for winter.",
+            "task": "Prepare the chicken coop for winter.",
             "subtasks": [
-                "Pick out and arrange chicken wire for the chicken run.",
-                "Choose the appropriate side of the tarp to face the sun for heating.",
-                "Consider alternative solutions if the desired tarp length is not available."
+                "Gather materials (e.g., chicken wire, tarps).",
+                "Position tarps to maximize sun exposure and warmth.",
+                "Ensure chickens remain contained during the day.",
+                "Balance chicken feed and encourage natural foraging."
             ]
         },
         {
-            "task": "Feeding and attending to animals.",
+            "task": "Feed and water the pigs.",
             "subtasks": [
-                "Feed the chickens and prompt them to scratch and peck at their feed.",
-                "Move Icelandic chickens to the winter chicken coop.",
-                "Give the pigs warm water and fresh hay.",
-                "Ensure the pigs have adequate bedding and food."
+                "Provide warm water for the pigs.",
+                "Supply fresh hay for the pigs to forage and stay warm."
             ]
         },
         {
-            "task": "Outdoor activities in cold weather.",
+            "task": "End the video with appreciation and encouragement.",
             "subtasks": [
-                "Manage time constraints and prioritize tasks despite challenges.",
-                "Enjoy the benefits of preparedness, such as fresh smoked bacon."
+                "Acknowledge viewer support.",
+                "Express gratitude for a successful season.",
+                "Anticipate future video content."
             ]
         },
         {
-            "task": "Preparing the Chicken Coop for Winter**",
-            "subtasks": []
+            "task": "\u51c6\u5907\u9e21\u820d\u8fc7\u51ac\u3002",
+            "subtasks": [
+                "\u641c\u96c6\u6750\u6599\uff08\u4f8b\u5982\uff0c\u9e21\u7f51\u3001\u9632\u6652\u7bf7\uff09\u3002",
+                "\u5c06\u9632\u6652\u7bf7\u6446\u653e\u4ee5\u5145\u5206\u5229\u7528\u9633\u5149\u548c\u4fdd\u6e29\u3002",
+                "\u786e\u4fdd\u767d\u5929\u9e21\u7fa4\u88ab\u56f4\u680f\u9650\u5236\u3002",
+                "\u5e73\u8861\u9e21\u9972\u6599\u5e76\u9f13\u52b1\u81ea\u7136\u89c5\u98df\u3002"
+            ]
         },
         {
-            "task": "Feeding and Transferring Animals**",
-            "subtasks": []
+            "task": "\u7ed9\u732a\u5582\u98df\u548c\u996e\u6c34\u3002",
+            "subtasks": [
+                "\u4e3a\u732a\u63d0\u4f9b\u6e29\u6c34\u3002",
+                "\u4f9b\u5e94\u65b0\u9c9c\u5e72\u8349\uff0c\u8ba9\u732a\u89c5\u98df\u548c\u4fdd\u6696\u3002"
+            ]
         },
         {
-            "task": "Outdoor Duties in Winter**",
-            "subtasks": []
+            "task": "\u7ed3\u5c3e\u611f\u8c22\u89c2\u4f17\u5e76\u4e0e\u672a\u6765\u5185\u5bb9\u4e92\u52a8\u3002",
+            "subtasks": [
+                "\u611f\u8c22\u652f\u6301\u548c\u8bc4\u8bba\u7684\u89c2\u4f17\u3002",
+                "\u8868\u8fbe\u5bf9\u4e30\u6536\u5b63\u8282\u7684\u611f\u6fc0\u3002",
+                "\u671f\u5f85\u672a\u6765\u89c6\u9891\u5185\u5bb9\u3002"
+            ]
+        },
+        {
+            "task": "### Preparing the Chicken Coop for Winter (MAINTASK 1)",
+            "subtasks": [
+                "1. **Gather materials needed (SUBTASK 1)**, such as chicken wire and tarps (\u9632\u6652\u7bf7 material).",
+                "2. **Position the tarp to benefit from sunlight (SUBTASK 2)**, deciding on the black side for winter to absorb heat.",
+                "3. **Ensure the chickens stay enclosed during the day (SUBTASK 3)**, setting up the chicken wire properly to prevent escape.",
+                "4. **Encourage natural foraging and thriving (SUBTASK 4)** in the chicken coop by feeding them and adjusting the feeder position to stimulate activity."
+            ]
+        },
+        {
+            "task": "### Feeding and Watering the Pigs (MAINTASK 2)",
+            "subtasks": [
+                "5. **Provide warm water for the pigs (SUBTASK 5)** using the outdoor spigot mentioned.",
+                "6. **Supply fresh hay and bedding (SUBTASK 6)** for the pigs to graze and keep warm."
+            ]
+        },
+        {
+            "task": "### Conclusion (MAINTASK 3)",
+            "subtasks": [
+                "7. **Thank viewers for their support (SUBTASK 7)** and engagement.",
+                "8. **Express gratitude for the successful season (SUBTASK8)**, reflecting on the enjoyment of the harvest and fresh food.",
+                "9. **Anticipate future videos and content (SUBTASK9)**, demonstrating continuity and engagement with the community."
+            ]
+        },
+        {
+            "task": "Prepare the chicken coop for winter.",
+            "subtasks": [
+                "Gather materials (e.g., chicken wire, tarps).",
+                "Position tarps to maximize sun exposure and warmth.",
+                "Ensure chickens remain contained during the day.",
+                "Balance chicken feed and encourage natural foraging."
+            ]
+        },
+        {
+            "task": "Feed and water the pigs.",
+            "subtasks": [
+                "Provide warm water for the pigs.",
+                "Supply fresh hay for the pigs to forage and stay warm."
+            ]
+        },
+        {
+            "task": "End the video with appreciation and encouragement.",
+            "subtasks": [
+                "Acknowledge viewer support.",
+                "Express gratitude for the year.",
+                "Anticipate future video content."
+            ]
         }
     ]
 }

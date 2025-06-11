@@ -5,18 +5,10 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "and all the sub-tasks converted into the specified format. But given that there are no relevant sub-tasks due to transcript irrelevance, the final answer is just that \"TRANSCRIPT\\_IRRELEVANT\" flag with reason.",
-            "subtasks": []
-        },
-        {
-            "task": "for each main task, then each MAINTASK: should have a series of subtasks. However, in cases where the transcript is entirely irrelevant, there is no main task, hence nothing to list. The user is supposed to write \"!!!TRANSCRIPT\\_IRRELEVANT:\" and then the reason. Therefore, in such a case, there are no tasks or subtasks to generate, which is why it's explicitly stated as such. Thus, following the system's own rules, which you referenced correctly as \"If video has nothing to do with performing physical farming...\", therefore, it's mandatory to use \"!!!TRANSCRIPT\\_IRRELEVANT:\" instead of trying to fabricate tasks. So, the compliance here is to say that the transcript is entirely irrelevant.",
-            "subtasks": []
-        },
-        {
-            "task": "and then the list of subtasks. If there's nothing in the transcript, even the top level of the hierarchy (main task) cannot be constructed, so the appropriate header is \"!!!TRANSCRIPT\\_IRRELEVANT: [explanation]\" which is the given final answer.",
+            "task": "Act as the host of a tour of the farms.",
             "subtasks": [
-                "before every task. After writing MAINTASK: give a list of subtasks, one per line. A for each subtask, write SUBTASK: before every subtask. When you are finished with the subtasks for a task, you can start a new task by writing MAINTASK: and then the new general task.\" But in this case, given the entire transcript is irrelevant, the main task cannot exist. Therefore, instead of trying to generate main tasks and subtasks, the correct response is to flag the transcript as irrelevant according to the instructions. Therefore, the literal instructions must be followed, which says: \"If the video transcript is completely unrelated, indicate this with `!!!TRANSCRIPT\\_IRRELEVANT: all caps, followed by the reason.\"",
-                "\"Write MAINTASK: before every task. After writing MAINTASK: give a list of subtasks, one per line. A for each subtask, write SUBTASK: before every subtask.\" \"Given the transcript is about generic greetings and apologies, which are not physical farming tasks, it's impossible to generate particular tasks, leading to the conclusion that the video transcript is irrelevant. **Final Answer**"
+                "Say \"Welcome to our farms\" repeatedly.",
+                "Apologize multiple times (\"I'm sorry\")."
             ]
         }
     ]

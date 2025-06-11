@@ -5,26 +5,55 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Gardening without irrigation",
-            "subtasks": []
-        },
-        {
-            "task": "Given the transcript, generate a list of physical tasks a person would have to perform with their body in relation to the content. Tasks should be general, formatted with MAINTASK followed by subtasks. Ensure tasks relate to farming or agriculture.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Gardening without irrigation",
+            "task": "Planting corn and companion crops without irrigation.",
             "subtasks": [
-                "Creating depressions for planting to capture rainwater",
-                "Using mulch (e.g., wood chips, straw) to prevent evaporation and weed growth",
-                "Spacing plants wider (50% more than\u63a8\u8350\u7684) to reduce competition and improve water use",
-                "Using organic matter (compost) to improve soil structure and moisture retention",
-                "Implementing hugelkultur by burying wood to act as a moisture reservoir",
-                "Applying dust mulch when organic matter is insufficient",
-                "Pre-germinating seeds by soaking or using moist paper towels before planting",
-                "Planting in hills or clumps with spaces in between to minimize water competition",
-                "Allowing soil to dry slightly between waterings to encourage deeper root growth",
-                "Breaking up soil surface after heavy rain to maintain moisture"
+                "Mark depressions in the ground for planting corn, ensuring proper spacing (18 inches apart).",
+                "Plant corn seeds in the prepared depressions, covering them appropriately.",
+                "Fill the in-between areas with wood chips for weed suppression and moisture retention.",
+                "Plant winter squash in the wood-chip filled areas, leaving sufficient space for growth.",
+                "Maintain weed suppression by removing any emerging weeds between corn and squash plants."
+            ]
+        },
+        {
+            "task": "Implementing mulch and weed management techniques.",
+            "subtasks": [
+                "Apply wood chips around corn and squash plants for weed suppression and evaporation control.",
+                "Remove weeds by hand, preventing their competition for water and nutrients.",
+                "Utilize straw mulching for soil moisture retention and organic matter improvement."
+            ]
+        },
+        {
+            "task": "Utilization of hugelkultur methods for water conservation.",
+            "subtasks": [
+                "Convert paths between garden rows into hugel paths by digging trenches and filling them with rotted wood.",
+                "Cover the filled trenches with soil to create slight depressions, promoting water collection in rainy seasons."
+            ]
+        },
+        {
+            "task": "Optimizing plant spacing for drought resistance.",
+            "subtasks": [
+                "Plant crops with wider spacing (2 feet apart in rows, 3 feet between rows) to reduce competition for water."
+            ]
+        },
+        {
+            "task": "Managing transpiration through mulching and plant spacing.",
+            "subtasks": [
+                "Apply mulch (e.g., wood chips, straw) to reduce transpiration (evaporation from plant leaves).",
+                "Ensure plant spacing allows larger root systems for water and nutrient uptake."
+            ]
+        },
+        {
+            "task": "Adapting traditional gardening techniques for dry conditions.",
+            "subtasks": [
+                "Use Dutch dust mulch (powdered materials) for temporary moisture retention if organic mulch is unavailable.",
+                "Break up the mulch surface after heavy rain to prevent crusting and enhance water infiltration."
+            ]
+        },
+        {
+            "task": "Pre-germinating seeds for dry conditions.",
+            "subtasks": [
+                "Soak seeds before planting to ensure adequate moisture for germination.",
+                "Prepare seeds by rolling them in wet paper towels and pre-sprouting them prior to planting."
             ]
         }
     ]

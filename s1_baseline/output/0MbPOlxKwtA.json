@@ -5,23 +5,71 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Preparing for Hurricane",
+            "task": "Preparing for a hurricane as a farmer",
             "subtasks": [
-                "Fill water containers",
-                "Mulch bare rows",
-                "Rib mature crops",
-                "Harvest coconuts and cut flowers",
-                "Fortify field trellises",
-                "Unhang trellis plants",
-                "Secure farm equipment",
-                "Store supplies securely",
-                "Stock up on gas for generators"
+                "Fill 5-gallon buckets and other containers with water",
+                "Mulch bare rows in the greenhouse to prevent erosion and wind damage",
+                "Minimize soil splashing into crop canopy by mulching",
+                "Rib mature crops like tomatoes and melons to prevent splitting",
+                "Pick coconuts and harvest cut flowers before the storm",
+                "Fortify field trellises to support crops",
+                "Unhang trellis plants and lay them flat on the ground",
+                "Secure tractors and other equipment and supplies",
+                "Store market baskets, picking crates, dip tape, and irrigation pipes indoors",
+                "Stock up on gas for farm equipment"
             ]
         },
         {
-            "task": "Gaining Knowledge",
+            "task": "Draining transplants in the greenhouse",
             "subtasks": [
-                "Listening to Ministry of Agriculture message"
+                "Water transplants with collected water if power is lost"
+            ]
+        },
+        {
+            "task": "Cleaning up after the hurricane",
+            "subtasks": [
+                "Assess damage to crops and equipment",
+                "Repair fortifications and trellises",
+                "Replant any damaged transplants",
+                "Clean up debris and repair irrigation systems"
+            ]
+        },
+        {
+            "task": "Cleaning up after the hurricane",
+            "subtasks": [
+                "Assess damage to crops and equipment",
+                "Fortify old trellises and make repairs where necessary",
+                "Check if replanting is needed for damaged transplants",
+                "Clean up debris around the farm",
+                "Repair irrigation systems and reassemble any broken equipment"
+            ]
+        },
+        {
+            "task": "Preparing for a hurricane as a farmer",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Preparing for a hurricane as a farmer",
+            "subtasks": [
+                "Fill 5-gallon buckets and other containers with water",
+                "Mulch as many bare rows as possible to prevent erosion and wind damage",
+                "Minimize soil splashing into crop canopy by mulching",
+                "Rib mature crops like tomatoes and melons to prevent splitting",
+                "Pick coconuts and harvest cut flowers before the storm",
+                "Fortify field trellises to support crops",
+                "Unhang trellis plants and lay them flat on the ground",
+                "Secure tractors and other equipment and supplies",
+                "Store market baskets, picking crates, dip tape, and irrigation pipes indoors",
+                "Stock up on gas for generators and other farm equipment"
+            ]
+        },
+        {
+            "task": "Cleaning up after the hurricane (implied)",
+            "subtasks": [
+                "Assess damage to crops and equipment",
+                "Repair fortifications and trellises",
+                "Replant any damaged transplants",
+                "Clean up debris and repair irrigation systems"
             ]
         }
     ]

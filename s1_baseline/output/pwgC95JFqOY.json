@@ -5,185 +5,379 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Planting seeds in a field.",
+            "task": "Operating a combine harvester during wheat harvesting",
             "subtasks": [
-                "Driving a tractor equipped with a seeder attachment.",
-                "Adjusting the seeder\u2019s depth and coverage.",
-                "Checking the seeder for proper operation.",
-                "Navigating the tractor through the field.",
-                "Ensuring even distribution of seeds."
+                "Starting the combine harvester and conducting pre-harvest checks",
+                "Guiding the combine through the wheat field, adjusting direction as needed",
+                "Monitoring the combine's performance, making adjustments for optimal efficiency",
+                "Handling clogged openings and cleaning debris from the harvester's components",
+                "Changing oil filters and other maintenance tasks during extended harvest periods",
+                "Ensuring proper grain flow and quality by collecting samples for analysis"
             ]
         },
         {
-            "task": "Performing soil conservation practices.",
+            "task": "Maintaining open area fertility on a wheat farm",
             "subtasks": [
-                "Operating a no-till drill.",
-                "Maintaining soil moisture and fertility.",
-                "Monitoring crop growth and health.",
-                "Adjusting practices as needed based on conditions."
+                "Collecting soil samples to assess nutrient levels",
+                "Applying fertilizer based on soil test results and crop needs",
+                "Monitoring crop growth and health regularly to determine further fertilizer requirements"
             ]
         },
         {
-            "task": "Overseeing irrigation in the fields.",
+            "task": "Harvesting wheat using a combine harvester",
             "subtasks": [
-                "Checking the functionality of irrigation systems.",
-                "Adjusting sprinkler heights and coverage.",
-                "Ensuring even distribution of water.",
-                "Monitoring soil water content.",
-                "Managing irrigation schedules according to weather forecasts."
+                "Driving the combine into position at the beginning of the harvest row",
+                "Ensuring the combine is set up correctly for wheat stubble height",
+                "Operating the combine's settings for optimal grain pickup and cleaning",
+                "Adjusting the combine's mechanisms to clean the grain and separate straw efficiently",
+                "Monitoring the grain moisture levels and regulating the combine fan or drying system if necessary"
             ]
         },
         {
-            "task": "Conducting soil testing and calibration.",
+            "task": "Loading and unloading grain from the combine",
             "subtasks": [
-                "Collecting soil samples from various field areas.",
-                "Analyzing samples for nutrient levels and pH.",
-                "Adjusting fertilizer application rates accordingly.",
-                "Calibrating fertilizers\u2019 spreaders for accuracy."
+                "Connecting the combine's grain tank to a grain truck or bin when full",
+                "Lowering the combine's auger or tailgate to unload grain into truck or bin",
+                "Ensuring grain bin systems are properly connected and secure",
+                "Cleaning the combine's auger or transfer lines after unloading each bin"
             ]
         },
         {
-            "task": "Assisting in pesticide application.",
+            "task": "Performing mid-harvest maintenance on a combine harvester",
             "subtasks": [
-                "Mixing pesticides in large tanks.",
-                "Verifying application rates and coverage.",
-                "Applying pesticides to crops via sprayers or aerial application.",
-                "Ensuring safety measures are followed during application."
+                "Checking fluid levels (oil, hydraulic, fuel) and topping up as needed",
+                "Replacing bands or any worn parts on the combine's wheels",
+                "Monitoring vibration or unusual noises and addressing issues promptly"
             ]
         },
         {
-            "task": "Participating in harvest activities.",
+            "task": "Tilling wheat stubble for the following crop",
             "subtasks": [
-                "Operating a combine harvester.",
-                "Cleaning grain from the combine.",
-                "Loading grain into trucks or bins.",
-                "Storing grain safely."
+                "Determining the appropriate tillage method (chisel plow, disk, etc.) based on soil conditions",
+                "Preparing the field by plowing or disking the wheat stubble",
+                "Ensuring proper depth and disturbance of the soil to incorporate any remaining crop residue"
             ]
         },
         {
-            "task": "Dealing with agricultural machinery breakdowns.",
+            "task": "Applying herbicides to wheat fields",
             "subtasks": [
-                "Identifying issues with tractors or implements.",
-                "Attempting basic repairs on equipment.",
-                "Reporting major issues to a mechanic."
+                "Calibrating herbicide application equipment or the combine's sprayer",
+                "Spraying the wheat fields to control weeds, adjusting for herbicide drift and application rates",
+                "Monitoring weather conditions to avoid spraying during windy or wet periods"
             ]
         },
         {
-            "task": "Following safety protocols while working with heavy machinery and chemicals.",
+            "task": "Calculating and recording combine harvest data",
             "subtasks": [
-                "Donning appropriate personal protective equipment (PPE).",
-                "Operating machinery within manufacturer\u2019s guidelines.",
-                "Handling chemicals safely and disposing of containers properly.",
-                "Conducting daily safety checks on equipment."
+                "Keeping track of acres harvested, grain yield, and time spent on each section",
+                "Inputting data into a record-keeping system or farm management software",
+                "Analyzing yield maps and field performance to identify areas of the field that may require adjustments"
             ]
         },
         {
-            "task": "Starting with planting. The transcript mentions using a seeder, which is attached to a tractor. So the main task would be planting seeds in a field (MAINTASK). To do this, you have to drive the tractor, adjust the seeder settings, check if it's working correctly, and make sure the seeds are spread evenly. Each of these steps is a subtask.",
-            "subtasks": []
-        },
-        {
-            "task": "Overseeing irrigation. Each of those steps is a subtask.",
-            "subtasks": []
-        },
-        {
-            "task": "collecting samples, analyzing them, adjusting fertilizer rates, and calibrating spreaders. That'sMAINTASK: Conducting soil testing and calibration. Each component is a subtask.",
-            "subtasks": []
-        },
-        {
-            "task": "mixing chemicals, applying them, ensuring safety. So MAINTASK: Assisting in pesticide application, with subtasks like mixing, verifying coverage, applying, and safety measures.",
-            "subtasks": []
-        },
-        {
-            "task": "operating a combine, cleaning grain, loading, and storage. That's MAINTASK: Participating in harvest.",
-            "subtasks": []
-        },
-        {
-            "task": "wearing PPE, operating machinery safely, handling chemicals safely. That's MAINTASK: Following safety protocols, with subtasks like donning PPE, operating within guidelines, handling chemicals safely, and checking equipment daily.",
-            "subtasks": []
-        },
-        {
-            "task": "So all in all, those tasks cover the physical aspects of agricultural work mentioned in the transcript. Each task is a major step with subtasks that break it down into specific actions. The initial response should list each task as a MAINTASK followed by its subtasks. After going through each activity, that seems complete. The final answer includes all those MAINTASKs and their respective subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Each of these could be under MAINTASK followed by subtasks. Does this look correct?",
-            "subtasks": []
-        },
-        {
-            "task": "Yes, I think the final answer is as structured above, with each MAINTASK followed by their respective subtasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Planting seeds in a field.**",
+            "task": "Ensuring combine safety during operation",
             "subtasks": [
-                "Driving a tractor equipped with a seeder attachment.",
-                "Adjusting the seeder\u2019s depth and coverage.",
-                "Checking the seeder for proper operation.",
-                "Navigating the tractor through the field.",
-                "Ensuring even distribution of seeds."
+                "Conducting daily safety checks on the combine before starting",
+                "Wearing appropriate personal protective equipment (PPE) during operation",
+                "Ensuring proper signaling when moving the combine on roads or complex field terrain"
             ]
         },
         {
-            "task": "Performing soil conservation practices.**",
+            "task": "Managing combine air filtration systems",
             "subtasks": [
-                "Operating a no-till drill.",
-                "Maintaining soil moisture and fertility.",
-                "Monitoring crop growth and health.",
-                "Adjusting practices as needed based on conditions."
+                "Inspecting the filter for dirt and debris at regular intervals",
+                "Cleaning or replacing air filters as necessary to ensure optimal engine performance",
+                "Monitoring pressure gauges or indicators related to air filtration systems"
             ]
         },
         {
-            "task": "Overseeing irrigation in the fields.**",
+            "task": "Ensuring proper nozzle settings for combining operation",
             "subtasks": [
-                "Checking the functionality of irrigation systems.",
-                "Adjusting sprinkler heights and coverage.",
-                "Ensuring even distribution of water.",
-                "Monitoring soil water content.",
-                "Managing irrigation schedules according to weather forecasts."
+                "Adjusting the combine's threshing-btnach door, concave clearance, and other settings based on grain type and moisture",
+                "Making sure that grain losses are minimal during harvest by fine-tuning operating parameters"
             ]
         },
         {
-            "task": "Conducting soil testing and calibration.**",
+            "task": "Using precision agriculture tools during combine operation",
             "subtasks": [
-                "Collecting soil samples from various field areas.",
-                "Analyzing samples for nutrient levels and pH.",
-                "Adjusting fertilizer application rates accordingly.",
-                "Calibrating fertilizers\u2019 spreaders for accuracy."
+                "Activating GPS guidance systems to maintain straight rows and efficient harvesting",
+                "Utilizing yield monitors to collect real-time data on grain output"
             ]
         },
         {
-            "task": "Assisting in pesticide application.**",
+            "task": "Observing health and stovness of wheat crop during combine operation",
             "subtasks": [
-                "Mixing pesticides in large tanks.",
-                "Verifying application rates and coverage.",
-                "Applying pesticides to crops via sprayers or aerial application.",
-                "Ensuring safety measures are followed during application."
+                "Noticing signs of stress or disease in the crop while harvesting",
+                "Documenting any issues or zones needing follow-up management"
             ]
         },
         {
-            "task": "Participating in harvest activities.**",
+            "task": "Controlling straw when harvesting wheat",
             "subtasks": [
-                "Operating a combine harvester.",
-                "Cleaning grain from the combine.",
-                "Loading grain into trucks or bins.",
-                "Storing grain safely."
+                "Ensuring that the combine's straw chopper is set to the correct throwing angle and speed",
+                "Checking the cut straw for even distribution and adjusting as necessary"
             ]
         },
         {
-            "task": "Dealing with agricultural machinery breakdowns.**",
+            "task": "Conducting seedbed preparation for the following wheat crop",
             "subtasks": [
-                "Identifying issues with tractors or implements.",
-                "Attempting basic repairs on equipment.",
-                "Reporting major issues to a mechanic."
+                "Applying lime or other soil amendments as needed based on soil tests",
+                "Seeding the field with cover crops or a winter wheat crop",
+                "Ensuring soil tilth is appropriate for planting via further tillage if necessary"
             ]
         },
         {
-            "task": "Following safety protocols while working with heavy machinery and chemicals.**",
+            "task": "Directing combine operator during wheat harvest",
             "subtasks": [
-                "Donning appropriate personal protective equipment (PPE).",
-                "Operating machinery within manufacturer\u2019s guidelines.",
-                "Handling chemicals safely and disposing of containers properly.",
-                "Conducting daily safety checks on equipment."
+                "Communicating with the combine operator about field progress and specific tasks",
+                "Ensuring the combine adheres to operational guidelines and safety protocols"
+            ]
+        },
+        {
+            "task": "Preparing grain for storage after combine harvest",
+            "subtasks": [
+                "Checking the grain for proper moisture content and temperature before storage",
+                "Cleaning the grain to remove debris and foreign materials",
+                "Properly ventilating grain storage bins to prevent spoilage"
+            ]
+        },
+        {
+            "task": "Operating a differential GPS receiver on a combine",
+            "subtasks": [
+                "Initializing the differential GPS signal for accurate mapping and guidance",
+                "Checking system connectivity and signal strength during field operations"
+            ]
+        },
+        {
+            "task": "Conducting combine roll test checks after a harvest day",
+            "subtasks": [
+                "Inspecting the combine's tires for damage or excessive wear",
+                "Checking braking systems and ensuring the clutch is functioning properly"
+            ]
+        },
+        {
+            "task": "Responding to combine maintenance issues during harvest",
+            "subtasks": [
+                "Diagnosing and resolving engine problems if the combine stalls or malfunctions",
+                "Checking hydraulic systems for leaks or component failures"
+            ]
+        },
+        {
+            "task": "Operating a meter throw for grain flow adjustments",
+            "subtasks": [
+                "Tilting the meter throw mechanism to regulate grain delivery into the combine\u2019s grain tank"
+            ]
+        },
+        {
+            "task": "Practicing safe grain handling when unloading from combine",
+            "subtasks": [
+                "Ensuring personnel are clear of auger or tailgate areas when unloading",
+                "Properly securing grain bins or trucks to prevent accidents during loading/unloading"
+            ]
+        },
+        {
+            "task": "Adjusting combine hydraulic settings for different soil types",
+            "subtasks": [
+                "Changing binding roll height or cross stabilizer settings based on field conditions"
+            ]
+        },
+        {
+            "task": "Assisting with combine harvest by cleaning grain bins",
+            "subtasks": [
+                "Climb grain bins to access augers or bin top cleaning systems",
+                "Clearing blockages in grain unloading systems"
+            ]
+        },
+        {
+            "task": "Monitoring combine oil temperature and pressure during operation",
+            "subtasks": [
+                "Checking the oil temperature gauge periodically and comparing to normal ranges",
+                "Adjusting combine settings if excessively high temperatures are detected"
+            ]
+        },
+        {
+            "task": "Conducting combine hydrostatic transmission checks",
+            "subtasks": [
+                "Inspecting the transmission fluid for contamination or leakage",
+                "Adjusting transmission fluid levels and pressures as necessary"
+            ]
+        },
+        {
+            "task": "Evaluating combine performance using yield monitors",
+            "subtasks": [
+                "Reviewing yield data from the monitor to assess efficiency and identify problem areas",
+                "Comparing yield maps with historical data to plan for future harvests"
+            ]
+        },
+        {
+            "task": "Operating a combine's seeder attachment for drilling wheat",
+            "subtasks": [
+                "Activating the seeder drum and proper linkage settings for direct seeding",
+                "Ensuring the seeder's fertilization and chemical application systems are set correctly"
+            ]
+        },
+        {
+            "task": "Applying glysophate to wheat fields prior to harvest",
+            "subtasks": [
+                "Mixing and measuring out the correct concentration of glysophate",
+                "Applying the herbicide via spray rig attached to the combine",
+                "Ensure proper overlap and coverage to prevent bare spots or overapplication"
+            ]
+        },
+        {
+            "task": "Performing regular check of combine's beater bar for mud and adherant crops",
+            "subtasks": [
+                "Inspecting the beater bar\u2019s paddles for proper rotation and clean operation",
+                "Clearing any adherent crops or foreign materials from the beater bars"
+            ]
+        },
+        {
+            "task": "Ensuring combine's air washers are clean and functioning",
+            "subtasks": [
+                "Checking air washers for blockages due to chaff, dirt, etc.",
+                "Cleaning or replacing air washers as needed to maintain air flow quality"
+            ]
+        },
+        {
+            "task": "Following machine\u689dine guidelines when moving the combine through fields",
+            "subtasks": [
+                "Navigating the combine through corners or tight areas safely without damaging crops",
+                "Using safety cones or flags to alert other farmers or equipment operators"
+            ]
+        },
+        {
+            "task": "Using a GPS auto-steer system on the combine",
+            "subtasks": [
+                "Acquiring high-precision positioning data via satellites",
+                "Adjusting the steering interface to follow GPS-guided routes through the field"
+            ]
+        },
+        {
+            "task": "Conducting Stover sampling on wheat stalks",
+            "subtasks": [
+                "Collecting samples of the wheat stover to assess its quality for livestock feed or biofuel",
+                "Analyzing the samples to determine nutrient content or fiber levels"
+            ]
+        },
+        {
+            "task": "Performing daily operator training checks",
+            "subtasks": [
+                "Starting the combine and verifying that all controls and instruments are responsive",
+                "Verifying proper seatbelts and restraints are in place before operation",
+                "Connecting the combine to a grain wagon or trailer other than a bin"
+            ]
+        },
+        {
+            "task": "Diagnosing and repairing combine core sampling system malfunctions",
+            "subtasks": [
+                "Troubleshooting issues with the sample chutes or air systems",
+                "Disassembling and cleaning sampling components as needed"
+            ]
+        },
+        {
+            "task": "Operating a gps survey system on the combine",
+            "subtasks": [
+                "Activating the GPS survey software and setting up coordinate reference systems",
+                "Collecting field data for mapping or measurement purposes using the combine"
+            ]
+        },
+        {
+            "task": "Maintaining accurate records of combine fuel consumption",
+            "subtasks": [
+                "Monitoring fuel gauge intermittently to track how much fuel has been used",
+                "Recording fuel usage in relation to the amount of grain harvested"
+            ]
+        },
+        {
+            "task": "Verifying that the combine is operating within noise compliance standards",
+            "subtasks": [
+                "Checking the decibel level of the combine's exhaust and engine during operation",
+                "Ensuring any excess noise is addressed to comply with local regulations"
+            ]
+        },
+        {
+            "task": "Implementing a delayed cut strategy for certain wheat areas",
+            "subtasks": [
+                "Changing the combine\u2019s depth control settings to leave a higher crop stubble",
+                "Noting the immediate impact on subsequent crop growth and soil moisture"
+            ]
+        },
+        {
+            "task": "Performing reverse tillage operations after combine harvest",
+            "subtasks": [
+                "Determining the need for deep ripping or other reverse tillage practices",
+                "Conducting such operations to prevent compaction or improve seedbed conditions",
+                "Driving the combine from the first field to the next, checking for road and traffic conditions"
+            ]
+        },
+        {
+            "task": "Performing combine's hydraulic feed force adjustment based on ground conditions",
+            "subtasks": [
+                "Adjusting the hydraulic feed force (pushing power) to optimize performance over varying terrain"
+            ]
+        },
+        {
+            "task": "Determining the need for fumigation after combine harvest",
+            "subtasks": [
+                "Examining the field for signs of residual pests or diseases requiring fumigation",
+                "Planning the fumigation schedule and necessary treatment areas if needed"
+            ]
+        },
+        {
+            "task": "Implementing boundary tie turns during combine operation",
+            "subtasks": [
+                "Using the combine\u2019s auto-guidance system to make precise turns at field edges",
+                "Confirming that the system properly sets the boundary to exclude crop sprayed fields"
+            ]
+        },
+        {
+            "task": "Using combine's external sprayer during harvest",
+            "subtasks": [
+                "Activating the external sprayer to apply crop protection products while moving through the field",
+                "Ensuring correct product flow rates and coverage"
+            ]
+        },
+        {
+            "task": "Checking on combine's hydraulic drive system components",
+            "subtasks": [
+                "Inspecting pump and motor sections for any damage or fluid leaks",
+                "Verify that hoses and couplings are secure and undamaged"
+            ]
+        },
+        {
+            "task": "Using combine's onboard technology for crop mapping",
+            "subtasks": [
+                "Loading field boundaries and points into GPS mapping system",
+                "Tracking progress and analyzing the map data during harvest"
+            ]
+        },
+        {
+            "task": "Applying nitrates based on combine-derived yield maps",
+            "subtasks": [
+                "Preparing the application equipment or attach a spreader onto the combine",
+                "Applying variable rates of nitrogen to various areas of the field as indicated by yield maps"
+            ]
+        },
+        {
+            "task": "Performing spot checks on combine's cutting unit",
+            "subtasks": [
+                "Checking the condition of the cutter bars or sickle blades",
+                "Adjusting tension or sharpening blades as needed to ensure proper crop pickup"
+            ]
+        },
+        {
+            "task": "Taking safety previsions to check for unexpected obstacles during combine operation",
+            "subtasks": [
+                "Ensuring visibility around the combine by removing any crop stubble or blockages",
+                "Checking the field for downed trees or machinery parts before operating"
+            ]
+        },
+        {
+            "task": "Starting up pivot irrigation system after the combine harvest",
+            "subtasks": [
+                "Initiating the irrigation system to water the field if needed for post-harvest crop recovery",
+                "Implementing variable travel speeds using the combine's programmed guidance for optimal moisture management",
+                "Stopping the combine periodically to brush or wash off contaminants to maintain performance"
             ]
         }
     ]

@@ -5,15 +5,34 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Reading pesticide labels and following instructions",
+            "task": "",
             "subtasks": [
-                "Choosing the appropriate pesticide product",
-                "Locating active ingredient information",
-                "Understanding first aid statements",
-                "Gaining knowledge on hazards to animals and humans",
-                "Learning about bee effects",
-                "Following directions for use",
-                "Proper storage and disposal of pesticide containers"
+                "Read and understand pesticide labels",
+                "Check online resources if labels are unclear",
+                "Identify active ingredients",
+                "Note first aid statements",
+                "Familiarize with emergency treatment instructions",
+                "Understand hazards to animals and humans",
+                "Learn about bee effects",
+                "Follow application directions",
+                "Properly store and dispose of containers"
+            ]
+        },
+        {
+            "task": "Safely use pesticides in the home",
+            "subtasks": []
+        },
+        {
+            "task": "**MAINTASK:** Safely use pesticides in the home",
+            "subtasks": [
+                "** Read and understand the pesticide label",
+                "** Check online for clearer label information if needed",
+                "** Identify the active ingredient",
+                "** Note first aid instructions for accidental exposure",
+                "** Familiarize yourself with emergency treatment procedures (e.g., bringing the label to a medical facility)",
+                "** Understand hazards to animals and humans (e.g., bee toxicity)",
+                "** Follow specific application directions on the label as per the statement: \"there might be particular statements about bees and how that product would affect bees.\"",
+                "** Properly store and dispose of the pesticide container after use"
             ]
         }
     ]

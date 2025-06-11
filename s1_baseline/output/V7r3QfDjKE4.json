@@ -5,40 +5,304 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Adhere to biosecurity guidelines when transporting livestock or poultry.",
+            "task": "Follow biosecurity guidelines when transporting livestock and poultry.",
             "subtasks": [
-                "Identify the designated entry point on the farm or ranch.",
-                "Contact the farm or ranch for permission and obtain necessary phone number or sign-in information.",
-                "Prepare vehicle for inspection by the farmer or rancher upon arrival.",
-                "Clean and disinfect the truck and trailer if necessary, or follow direction to do so at designated facilities.",
-                "Sign in at the premises and provide necessary contact information if required.",
-                "Follow specified route provided by the farmer or rancher.",
-                "Examine required paperwork (CVI, certificate of brand inspection, bill of lading, bill of sale) before loading animals.",
-                "Inspect animals before loading, avoiding sick or injured individuals.",
-                "Properly load animals with clean bedding and close clean-out openings.",
-                "Double-check paperwork and gates upon completion of loading.",
-                "Log exit time and any other required information."
+                "Identify secure entry points at the farm or ranch.",
+                "Contact the farmer or rancher for phone number or sign-up instructions.",
+                "Have vehicles inspected before entering premises.",
+                "Clean trucks and trailers if they are dirty or contaminated.",
+                "Sign entry and exit logs, provide contact information, and confirm equipment condition.",
+                "Follow designated routes within the premises.",
+                "Verify required paperwork (e.g., CVI, bill of lading, bill of sale) before loading animals.",
+                "Examine animals before loading and do not load sick or injured animals.",
+                "Confirm the number and class of animals loaded and ensure gates are closed.",
+                "Log departure time and other relevant information."
             ]
         },
         {
-            "task": "Follow biosecurity protocols for unloading animals.",
+            "task": "Follow biosecurity guidelines when unloading livestock and poultry.",
             "subtasks": [
-                "Contact the farm or ranch for admittance prior to unloading.",
-                "Follow designated route and sign in as instructed.",
-                "Verify required documents (CVI, certificate of brand inspection, bill of lading, bill of sale) with the producer.",
-                "Count and verify classes of animals unloaded.",
-                "Identify and separate any sick animals during unloading.",
-                "If possible, clean transportation equipment in a designated area to prevent spreading manure.",
-                "Thoroughly clean and disinfect the truck and trailer as soon as possible if immediate cleaning is not feasible."
+                "Call to gain admittance and follow designated routes.",
+                "Verify required paperwork with the producer.",
+                "Count and document numbers and classes of animals with the producer.",
+                "Sort out and document sick animals upon unloading.",
+                "Move transportation equipment to a cleaning area or perform thorough clean-out as soon as possible."
             ]
         },
         {
-            "task": "Ensure animal health throughout transportation.",
+            "task": "MAINTASK: Follow biosecurity guidelines when transporting livestock and poultry.",
             "subtasks": [
-                "Maintain clean footwear and coveralls during animal handling and around facilities.",
-                "Prevent manure from being deposited during transport by ensuring clean out areas are closed.",
-                "Collaborate with the farmer or rancher to address and treat sick animals.",
-                "Confirm the number and classes of unloaded animals for accuracy."
+                "Identify secure entry points at the farm or ranch.",
+                "Contact the farmer or rancher for a phone number or sign-up instructions.",
+                "Have vehicles inspected before entering premises.",
+                "Clean trucks and trailers if dirty or contaminated.",
+                "Sign entry and exit logs, provide contact information, and confirm equipment condition.",
+                "Follow designated routes within the premises."
+            ]
+        },
+        {
+            "task": "Verify required paperwork before loading or unloading animals.",
+            "subtasks": [
+                "Check for a certificate of veterinary inspection (CVI), certificate of brand inspection (for cattle), bill of lading, and bill of sale."
+            ]
+        },
+        {
+            "task": "Examine animals before loading or unloading.",
+            "subtasks": [
+                "Do not load sick or injured animals.",
+                "Sort out and document sick animals with the producer."
+            ]
+        },
+        {
+            "task": "Ensure correct paperwork and check numbers/guidance after loading or unloading.",
+            "subtasks": [
+                "Confirm the number and class of animals loaded/unloaded.",
+                "Ensure all gates are closed during loading."
+            ]
+        },
+        {
+            "task": "Maintain vehicle cleanliness.",
+            "subtasks": [
+                "Clean trucks and trailers after unloading.",
+                "Move transportation equipment to a cleaning area or perform thorough clean-out as soon as possible."
+            ]
+        },
+        {
+            "task": "MAINTASK: Follow biosecurity guidelines when transporting livestock and poultry.",
+            "subtasks": [
+                "Identify secure entry points at the farm or ranch.",
+                "Contact the farmer or rancher for a phone number or sign-up instructions.",
+                "Have vehicles inspected before entering premises.",
+                "Clean trucks and trailers if dirty or contaminated.",
+                "Sign entry and exit logs, provide contact information, and confirm equipment condition.",
+                "Follow designated routes within the premises."
+            ]
+        },
+        {
+            "task": "Verify required paperwork before loading or unloading animals.",
+            "subtasks": [
+                "Check for a certificate of veterinary inspection (CVI), certificate of brand inspection (for cattle), bill of lading, and bill of sale."
+            ]
+        },
+        {
+            "task": "Examine animals before loading or unloading.",
+            "subtasks": [
+                "Do not load sick or injured animals.",
+                "Sort out and document sick animals with the producer."
+            ]
+        },
+        {
+            "task": "Ensure correct paperwork and check numbers/guidance after loading or unloading.",
+            "subtasks": [
+                "Confirm the number and class of animals loaded/unloaded.",
+                "Ensure all gates are closed during loading."
+            ]
+        },
+        {
+            "task": "Maintain vehicle cleanliness.",
+            "subtasks": [
+                "Clean trucks and trailers after unloading.",
+                "Move transportation equipment to a cleaning area or perform thorough clean-out as soon as possible."
+            ]
+        },
+        {
+            "task": "MAINTASK: Follow biosecurity guidelines when transporting livestock and poultry.",
+            "subtasks": []
+        },
+        {
+            "task": "ottie the given transcript pertains to critical biosecurity practices **(MAINTASK)** related to transporting livestock and poultry, including  **securing entry points**, **vehicle inspections**, **paperwork verification**, **animal examinations**, **route adherence**, **cleaning procedures**, and **log recording**. These tasks are essential for **preventing disease spread** and maintaining animal health across farms and ranches. The transcript covers both **pickup and delivery scenarios**, ensuring comprehensive biosecurity measures. ?>",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Follow biosecurity guidelines when transporting livestock and poultry.**",
+            "subtasks": []
+        },
+        {
+            "task": "The transcript provides essential guidelines for maintaining biosecurity during livestock transportation, which is crucial for preventing disease spread.** Answer: MAINTASK: Adhere to biosecurity protocols when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "Follow biosecurity guidelines when transporting livestock and poultry.",
+            "subtasks": []
+        },
+        {
+            "task": "Follow biosecurity guidelines when transporting livestock and poultry.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "MAINTASK: Adhere to biosecurity measures when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Adhere to biosecurity protocols for livestock transport.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Follow biosecurity guidelines when transporting livestock.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Adhere to biosecurity procedures for livestock transportation.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Adhere to biosecurity practices during livestock transportation.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Follow biosecurity practices during livestock transportation.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "The transcript provides essential steps for biosecurity when transporting livestock, focusing on entry procedures, vehicle inspections, document verification, animal examinations, following routes, and vehicle cleanliness. Adhering to these tasks ensures disease prevention and maintains animal health. **Answer:** MAINTASK: Adhere to biosecurity measures when transporting livestock and poultry.",
+            "subtasks": []
+        },
+        {
+            "task": "Follow biosecurity guidelines when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Adhere to biosecurity measures when transporting livestock and poultry.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "** MAINTASK: Adhere to biosecurity guidelines during livestock transport.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Adhere to biosecurity protocols during livestock transport.",
+            "subtasks": []
+        },
+        {
+            "task": "Adhere to biosecurity standards during livestock transportation.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "The transcript is relevant to the topic of farming and biosecurity, as it details specific tasks related to transporting livestock and poultry, which is a key aspect of agricultural operations. The tasks listed involve identifying entry points, verifying paperwork, inspecting vehicles, examining animals, and maintaining cleanliness\u2014all critical for biosecurity.** Answer:MAINTASK: Follow biosecurity guidelines when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Follow biosecurity guidelines when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Follow biosecurity measures when transporting livestock/poultry.",
+            "subtasks": []
+        },
+        {
+            "task": "Adhere to biosecurity protocols when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "** The transcript provides essential biosecurity guidelines for transporting livestock, emphasizing vehicle inspections, required paperwork, animal examinations, accurate counts, and vehicle cleanliness. Adhering to these tasks is crucial for preventing disease spread and maintaining herd health. **Answer:** MAINTASK: Adhere to biosecurity protocols for transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Adhere to biosecurity practices when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Follow biosecurity protocols when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "Follow biosecurity guidelines when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "** Adhere to biosecurity guidelines when transporting livestock and poultry.",
+            "subtasks": [
+                "**"
+            ]
+        },
+        {
+            "task": "Adhere to biosecurity guidelines when transporting livestock and poultry, with subtasks covering each step mentioned.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Follow biosecurity guidelines when transporting livestock and poultry.",
+            "subtasks": []
+        },
+        {
+            "task": "** MAINTASK: Adhere to biosecurity measures when transporting livestock.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "** MAINTASK: Adhere to biosecurity guidelines when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "** MAINTASK: Adhere to biosecurity measures when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "The video transcript is **MAINTASK: Adhere to biosecurity practices during livestock transportation**, with subtasks including:",
+            "subtasks": []
+        },
+        {
+            "task": "** The transcript provides crucial biosecurity steps for transporting livestock, ensuring vehicles are clean, animals are healthy, and paperwork is verified. These tasks are essential for preventing disease spread. Answer: MAINTASK: Adhere to biosecurity measures when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Adhere to biosecurity guidelines when transporting livestock and poultry. Key subtasks include identifying entry points, vehicle inspections, paperwork verification, examining animals, confirming counts, and cleaning vehicles.",
+            "subtasks": []
+        },
+        {
+            "task": "** MAINTASK: Adhere to biosecurity practices when transporting livestock and poultry.",
+            "subtasks": []
+        },
+        {
+            "task": "** Answer: MAINTASK: Follow biosecurity protocols when transporting livestock and poultry. Subtasks include identifying entry points, obtaining admittance, inspecting vehicles, verifying paperwork, examining animals, and cleaning vehicles post-unloading. These tasks are crucial for preventing disease spread.",
+            "subtasks": []
+        },
+        {
+            "task": "Follow biosecurity protocols when transporting livestock and poultry.",
+            "subtasks": []
+        },
+        {
+            "task": "** MAINTASK: Adhereto biosecurity protocols when transporting livestock and poultry.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Adhere to biosecurity guidelines when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "Adhere to biosecurity guidelines when transporting livestock.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Adhere to biosecurity guidelines when transporting livestock and poultry.",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Adhere to biosecurity guidelines when transporting livestock and poultry.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Adhere to biosecurity guidelines when transporting livestock and poultry.",
+            "subtasks": [
+                ""
             ]
         }
     ]

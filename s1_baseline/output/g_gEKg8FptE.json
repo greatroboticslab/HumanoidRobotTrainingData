@@ -5,15 +5,35 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Following New Mexico State University guidelines on pesticide use in agriculture, a farmer undergoes various protective tasks to ensure safety while managing crop pests. Subtasks include determining the correct pesticide for specific pests, understanding label contents, adhering to application methods, and storing chemicals safely. Physical tasks required involve donning protective gear such as long clothing, gloves, goggles, and face shields. Application methods necessitate adherence to wind direction, timing, and environmental considerations to prevent drift and runoff. Post-application, proper disposal of containers and spill management are critical.",
+            "task": "Apply pesticides safely and correctly",
             "subtasks": [
-                "Identify the pest to target and select appropriate selective pesticide.",
-                "Read the pesticide label to understand usage, brand, formulation, active ingredients, and toxicity.",
-                "Wear protective clothing including long sleeves, pants, coveralls, neoprene gloves, goggles, and boots.",
-                "Apply pesticides with equipment operating toward wind direction to prevent drift on the farmer.",
-                "Avoid applying pesticides in moderate or strong winds to minimize drift.",
-                "Store pesticides in original labeled containers in a cool, dry place, away from water, and secure them with a leak-proof plastic tub.",
-                "Dispose of pesticide containers by washing them three times and either destroying or burying them after use, and manage spills by containing them with sawdust, soil, or a dike before disposing of the residue in a specialized landfill."
+                "Read pesticide label instructions",
+                "Determine appropriate pesticide for the pest",
+                "Select proper pesticide formulation (liquid or dry)",
+                "Wear protective clothing (fully covered, neoprene gloves, long sleeves, pants, coveralls)",
+                "Use protective equipment (goggles or face shield)",
+                "Keep unauthorized people and children away",
+                "Follow safety measures (work against the wind, avoid inhalation, use low pressure spray)",
+                "Wear protective gloves and remove them after use",
+                "Wash protective clothing daily and check gloves for leaks",
+                "Dispose of pesticide containers properly (three washes, destroy or bury)"
+            ]
+        },
+        {
+            "task": "Store pesticides safely",
+            "subtasks": [
+                "Store in original labeled container",
+                "Keep in a secure, cool, dry place away from water",
+                "Dispose of spills immediately and safely",
+                "Dispose of containers in a special landfill"
+            ]
+        },
+        {
+            "task": "Respond to pesticide poisoning",
+            "subtasks": [
+                "Recognize symptoms of mild, moderate, and severe poisoning",
+                "Call paramedics immediately in case of pesticide poisoning",
+                "Follow first aid instructions on the pesticide label"
             ]
         }
     ]

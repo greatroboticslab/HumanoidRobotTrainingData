@@ -5,31 +5,48 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Determining if an individual can perform a cooking action or manipulate objects with their fingers.",
+            "task": "Performing physical tasks related to operating farming equipment or agricultural work.",
             "subtasks": [
-                "Observing whether the person can engage in food preparation activities.",
-                "Assessing the person's ability to use their fingers for tasks beyond just cooking, such as manipulating objects."
+                "Observing the performance of a machine or piece of equipment during operation.",
+                "Checking the balance or weight distribution of a machine or object."
             ]
         },
         {
-            "task": "Comparing the weight or gravitational pull felt by the individual to their normal experience, possibly on a treadmill with a different gravity simulation.",
+            "task": "Demonstrating a manual skill related to agriculture or farming.",
             "subtasks": [
-                "Noting the difference in perceived weight or gravity experienced by the person.",
-                "Confirming the use of a treadmill in the described scenario, which may simulate different gravitational forces."
+                "Clapping hands or making a specific gesture to signal a particular action or to demonstrate a skill."
             ]
         },
         {
-            "task": "Describing a \"beautiful Sangin skill,\" though it's unclear what is being referred to.",
+            "task": "Performing physical tasks related to operating farming equipment or agricultural work.\\n\")",
             "subtasks": [
-                "Attempting to interpret \"Sangin skill\" as a specific activity or term, possibly from a video game or a performance.",
-                "Clarifying the context or source of the \"Sangin skill\" mentioned by the user."
+                "Observing the performance of a machine or piece of equipment during operation.\\nJustification: The video mentions 'now it's on Rainbow Landing Lily and in a treadmill,' which likely refers to monitoring the\u8fd0\u4f5c of a machine (the Rainbow Landing Lily) with a treadmill component.\\n\")",
+                "Checking the balance or weight distribution of a machine or object.\\nJustification: The comment 'feels much more light than my profile' suggests assessing whether the machine or object (the Rainbow Landing Lily) is as heavy as expected or if there's a discrepancy in weight.\\n\")"
             ]
         },
         {
-            "task": "Acknowledging gratitude expressed in the transcript.",
+            "task": "Demonstrating a manual skill related to agriculture or farming.\\nJustification: The user mentions 'a beautiful Sangin skill,' which is possibly a traditional farming technique or art form, likely needing specific hand movements or gestures.\")",
             "subtasks": [
-                "Recognizing the thank you message at the end of the transcript.",
-                "The final answer is presented in markdown format with MAINTASK and SUBTASKs as per the instructions. It also includes the >>>ACCEPT statement justifying the relevance of the video transcript to farming/agriculture despite some ambiguities."
+                "Clapping hands or making a specific gesture to signal a particular action or to demonstrate a skill.\\nJustification: The term 'Sangin skill' may refer to a traditional clapping or hitting hands rhythm commonly found in farming communities, used to signal or coordinate tasks or to perform cultural demonstrations.\")"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "**SUBTASKs** under each MAINTASK contextualize these higher-order tasks into actions the user must physically perform."
+            ]
+        },
+        {
+            "task": "Performing physical tasks related to operating farming equipment or agricultural work.",
+            "subtasks": [
+                "Observing the performance of a machine or piece of equipment during operation.",
+                "Checking the balance or weight distribution of a machine or object."
+            ]
+        },
+        {
+            "task": "Demonstrating a manual skill related to agriculture or farming.",
+            "subtasks": [
+                "Clapping hands or making a specific gesture to signal a particular action or to demonstrate a skill."
             ]
         }
     ]

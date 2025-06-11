@@ -7,40 +7,37 @@
         {
             "task": "Operating a small combine harvester for harvesting rice and wheat.",
             "subtasks": [
-                "Driving the combine harvester to the field.",
-                "Attaching the harvesting tool to the combine harvester.",
-                "Adjusting the combine harvester's settings for optimal harvesting of rice and wheat.",
-                "Guiding the combine harvester through the crop rows.",
-                "Monitoring the combine harvester's operational status.",
-                "Operating the vibrating screen cleaning structure to separate grain from chaff.",
-                "Directing the harvested grain into the collection containers."
+                "Preparing the combine harvester for harvest.",
+                "Attaching the vibrating screen cleaning structure.",
+                "Operating the combine harvester.",
+                "Managing the grain winders and hay crop.",
+                "Ensuring the machine's productivity meets expectations.",
+                "Ensuring safety while operating the combine harvester."
             ]
         },
         {
-            "task": "Maintaining the combine harvester.",
+            "task": "Preparing the combine harvester for transport.",
             "subtasks": [
-                "Regularly checking the combine harvester's mechanical components.",
-                "Cleaning the combine harvester after use.",
-                "Lubricating moving parts as needed.",
-                "Inspecting the vibrating screen for damage or blockages.",
-                "Adjusting weights to maintain proper combine harvester operation."
+                "Disengaging the combine's toolbar or implementing gauge wheels.",
+                "Lowering the combine's working height.",
+                "Securing the combine with safety chains or tow bars.",
+                "Checking brakes and lights on the combine harvester.",
+                "Ensuring adherence to weight restrictions and regulations."
             ]
         },
         {
-            "task": "Loading harvested grain onto transport vehicles.",
+            "task": "MAINTASK: Operating a small combine harvester for harvesting rice and wheat.",
             "subtasks": [
-                "Controlling the combine harvester's unloading mechanism.",
-                "Guiding the grain into the transport vehicle's bin.",
-                "Ensuring the grain is loaded properly without spilling."
+                "Preparing the combine harvester for harvest.",
+                "Attaching the vibrating screen cleaning structure.",
+                "Operating the combine harvester.",
+                "Ensuring productivity.",
+                "Ensuring safety."
             ]
         },
         {
-            "task": "Ensuring safety while operating the harvester.",
-            "subtasks": [
-                "Wearing appropriate personal protective equipment.",
-                "Maintaining situational awareness around the combine harvester.",
-                "Checking that all safety features are operational."
-            ]
+            "task": "Preparing the combine harvester for transport.",
+            "subtasks": []
         }
     ]
 }

@@ -7,18 +7,54 @@
         {
             "task": "",
             "subtasks": [
-                "Describing the irrigation system setup, including the power takeoff (PTO) attached to a tractor and a water winch device.",
-                "Discussing the critical role of timely irrigation for newly planted sweet potatoes and the potential consequences of drought.",
-                "Showing how to position the water winch with appropriate gear selection for efficient water distribution based on soil moisture needs.",
-                "Comparing the growth of sweet potatoes with and without proper irrigation to highlight the benefits of timely watering.",
-                "Demonstrating the process of tending to greenhouse tomatoes, such as moving ripening fruit clusters via reels and lowering vines.",
-                "Highlighting the use of volcanic pearlite as a soil substitute in greenhouses, showcasing its properties and water retention capabilities.",
-                "Explaining the benefits of using feed tubes for watering tomato plants, ensuring consistent moisture supply.",
-                "Addressing the issue of cold temperatures affecting tomato pollination, leading to catfacing.",
-                "Demonstrating vertical growing stacks for strawberries and leafy greens, emphasizing space efficiency.",
-                "Highlighting the manageable scale of greenhouse operations through vertical farming techniques (e.g., how a half-acre of stacks can equate to multiple acres in outdoor cultivation).",
-                "Engaging with customers at the farmers market, discussing their appreciation for locally grown produce and the unique farming methods employed."
+                "Check recent planting progress (sweet potatoes)",
+                "Ensure proper irrigation system operation (water pump on tractor\u2019s PTO)",
+                "Monitor soil moisture and rainfall needs",
+                "Adjust irrigation speed for effective water application",
+                "Set up irrigation when necessary to prevent drought stress"
             ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "Oversee potato growth stages (need moisture vs. vine growth)",
+                "Provide supplemental pollination (using bumblebees in hives)",
+                "Maintain greenhouse tomato crops (adjusting vine positions, monitoring ripening)",
+                "Water and feeding systems for vertically grown crops (pearlite media, individual feed tubes)",
+                "Address cold-related issues (cat-facing tomatoes)",
+                "Harvest and manage greenhouse strawberries (using stacker systems)"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "Operate and maintain farm equipment (tractor, water winch, irrigation feed tubes)",
+                "Manage greenhouse environments (humidity control for pollination)",
+                "Schedule and perform field activities (irrigation setup, crop monitoring)"
+            ]
+        },
+        {
+            "task": "",
+            "subtasks": [
+                "Attend local farmers\u2019 markets (explicit mention of farmer presence)",
+                "Share farming practices and insights with community"
+            ]
+        },
+        {
+            "task": "MAINTASK: Site inspection and irrigation setup",
+            "subtasks": []
+        },
+        {
+            "task": "Crop care and management",
+            "subtasks": []
+        },
+        {
+            "task": "Facility operations",
+            "subtasks": []
+        },
+        {
+            "task": "Farmer\u2019s presence at markets",
+            "subtasks": []
         }
     ]
 }

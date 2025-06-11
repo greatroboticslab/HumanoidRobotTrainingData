@@ -5,42 +5,57 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Choosing the right tractor size for a farm",
+            "task": "Choosing the right tractor size for a farm.",
             "subtasks": [
-                "Considering the size of the farm",
-                "Evaluating the terrain and landscape",
-                "Assessing the type of crops grown",
-                "Determining the specific tasks to be performed",
-                "Evaluating the power requirements for each task",
-                "Considering future expansion and changing needs"
+                "Considering the size of the farm (acres).",
+                "Evaluating the terrain (flat, rolling hills, steep, rough).",
+                "Assessing crop type and required equipment (e.g., plows, planters, harvesters).",
+                "Determining the type of tasks to be performed (mowing, tilling, planting, heavy lifting).",
+                "Considering future expansion and crop rotation changes.",
+                "Researching and consulting with other farmers, equipment dealers, and agricultural extension agents."
             ]
         },
         {
-            "task": "Citing real-world examples of successful tractor size choices",
+            "task": "Comparing tractor options based on above factors.",
             "subtasks": [
-                "Sarah's 45-horsepower tractor for a 30-acre vegetable farm",
-                "Mike's 120-horsepower tractor for a 200-acre corn and soybean operation",
-                "The Johnson family's two-tractor setup for 500 acres of mixed crops"
+                "Evaluating compact and utility tractors for smaller farms (10-50 acres).",
+                "Selecting larger tractors (over 80 horsepower) for big acreage (hundreds of acres) or heavy-duty work.",
+                "Checking compatibility of chosen tractor with intended tasks and implements."
             ]
         },
         {
-            "task": "Choosing the right tractor size for a farm**",
+            "task": "Planning for the future flexibility of the tractor choice.",
             "subtasks": [
-                "** Considering the size of the farm",
-                "** Evaluating the terrain and landscape",
-                "** Assessing the type of crops grown",
-                "** Determining the specific tasks to be performed",
-                "** Evaluating the power requirements for each task",
-                "** Considering future expansion and changing needs"
+                "Slightly overestimating current needs to accommodate potential farm expansion.",
+                "Allocating funds for a main tractor (for major fieldwork) and a smaller one (for incidental tasks)."
             ]
         },
         {
-            "task": "Citing real-world examples of successful tractor size choices**",
+            "task": "Final considerations for decision-making.",
             "subtasks": [
-                "** Sarah's 45-horsepower tractor for a 30-acre vegetable farm",
-                "** Mike's 120-horsepower tractor for a 200-acre corn and soybean operation",
-                "** The Johnson family's two-tractor setup for 500 acres of mixed crops"
+                "Assessing power balance (not underpowered, not overpriced).",
+                "Considering long-term cost-effectiveness (productivity, fuel economy, maintenance).",
+                "Confirming the tractor meets specific operational requirements."
             ]
+        },
+        {
+            "task": "MAINTASK: Choosing the right tractor size for a successful farm.",
+            "subtasks": [
+                "Considering the farm's acreage (size).",
+                "Assessing the terrain.",
+                "Considering crop type and equipment needs.",
+                "Evaluating primary tasks.",
+                "Planning for future expansion.",
+                "Research and consulting."
+            ]
+        },
+        {
+            "task": "Comparing tractor options.",
+            "subtasks": []
+        },
+        {
+            "task": "Final considerations.",
+            "subtasks": []
         }
     ]
 }

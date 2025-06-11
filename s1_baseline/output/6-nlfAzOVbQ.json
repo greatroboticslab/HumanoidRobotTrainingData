@@ -7,18 +7,30 @@
         {
             "task": "Setting up a plant in a net cup",
             "subtasks": [
-                "Choose a three-inch net cup",
-                "Identify the plant roots",
-                "Ensure a few roots are coming through the net cup bottom",
-                "Obtain clay balls/pebbles",
-                "Arrange clay balls around the plant in the net cup",
-                "Use clay balls to provide stability to the plant",
-                "Utilize clay balls to prevent light from reaching the nutrient water"
+                "Select the appropriate net cup size (three inches)",
+                "Ensure a few roots are visible at the bottom of the net cup",
+                "Use clay balls (pebbles) to stabilize the plant"
             ]
         },
         {
-            "task": "MAINTASK: Setting up a plant in a net cup",
-            "subtasks": []
+            "task": "Deploying light protection for the nutrient water",
+            "subtasks": [
+                "Position clay pebbles around the plant to block light from reaching the nutrient water"
+            ]
+        },
+        {
+            "task": "Setting up a plant in a net cup",
+            "subtasks": [
+                "Select the appropriate net cup size (three inches)",
+                "Ensure a few roots are visible at the bottom of the net cup",
+                "Use clay balls (pebbles) to stabilize the plant"
+            ]
+        },
+        {
+            "task": "Deploying light protection for the nutrient water",
+            "subtasks": [
+                "Position clay pebbles around the plant to block light from reaching the nutrient water"
+            ]
         }
     ]
 }

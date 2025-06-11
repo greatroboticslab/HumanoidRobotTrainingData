@@ -5,91 +5,141 @@
     "category": "Film & Animation",
     "tasks": [
         {
-            "task": "Ride the tractor and operate the plow.",
+            "task": "Manure Spreader Operation",
             "subtasks": [
-                "Sit on the tractor seat.",
-                "Steer the steering wheel to direct the tractor.",
-                "Engage the plow mechanism.",
-                "Raise and lower the plow blades.",
-                "Navigate the tractor through the field."
+                "Approach trailer with manure spreader",
+                "Attach manure spreader to tractor",
+                "Fill manure spreader with manure",
+                "Adjust spreader settings for application",
+                "Drive tractor to field",
+                "Activate manure spreader",
+                "Operate controls to distribute manure evenly",
+                "Monitor spreader and tractor operation",
+                "Adjust direction as needed during application",
+                "Stop spreader and disconnect from tractor when finished"
             ]
         },
         {
-            "task": "Operate the tractor-mounted plow to till the soil.",
+            "task": "Tractor and Field Navigation",
             "subtasks": [
-                "Position the plow at the desired depth.",
-                "Adjust the plow angle for proper soil disruption.",
-                "Start the tractor's engine.",
-                "Engage the transmission and move the tractor forward.",
-                "Monitor the plowed soil for evenness and proper texture."
+                "Position tractor properly for spreading",
+                "Adjust driving speed for effective application"
             ]
         },
         {
-            "task": "Manage the soil preparation for planting.",
+            "task": "Manure Spreading Technical Knowledge",
             "subtasks": [
-                "Ensure the soil is adequately tilled to remove weeds.",
-                "Check for any clumps or residue in the plowed area.",
-                "Assess the plowed soil's readiness for planting."
+                "Understand manure composition and nutrient needs",
+                "Calculate appropriate spreading rates",
+                "Maintain spreader for optimal performance"
             ]
         },
         {
-            "task": "Drive the tractor with the plow to the next field.",
+            "task": "Driving and Operating a Tractor",
             "subtasks": [
-                "Transfer the tractor to the next field location.",
-                "Align the plow with the field boundaries.",
-                "Repeat the plowing process in the new field."
+                "Drive tractor safely on roads and fields",
+                "Shift gears and control transmission",
+                "Manage hydraulic systems for spreader operation"
             ]
         },
         {
-            "task": "Check the plow's functionality during operation.",
+            "task": "Safety Precautions",
             "subtasks": [
-                "Listen for any unusual noises from the plow.",
-                "Feel for vibrations indicating potential issues.",
-                "Stop the tractor to inspect the plow if problems are detected."
+                "Wear protective clothing and gear",
+                "Inspect equipment for safety hazards before use"
             ]
         },
         {
-            "task": "Ride the tractor and operate the plow.",
+            "task": "Compliance with Regulations",
             "subtasks": [
-                "Sit on the tractor seat.",
-                "Steer the steering wheel to direct the tractor.",
-                "Engage the plow mechanism.",
-                "Raise and lower the plow blades.",
-                "Navigate the tractor through the field."
+                "Ensure manure spreading complies with environmental regulations",
+                "Properly handle manure to prevent leaks or spills",
+                "Clean up after spreading and dispose of waste materials appropriately"
             ]
         },
         {
-            "task": "Operate the tractor-mounted plow to till the soil.",
+            "task": "So the breakdown should start with the main MAINTASK of MANURE SPREADER OPERATION, which includes all the steps involved in setting up and applying the manure. But to break it down further, maybe each action during the spreading process can be a subtask. Even things like adjusting the direction during application\u2014physical steering of the tractor.",
             "subtasks": [
-                "Position the plow at the desired depth.",
-                "Adjust the plow angle for proper soil disruption.",
-                "Start the tractor's engine.",
-                "Engage the transmission and move the tractor forward.",
-                "Monitor the plowed soil for evenness and proper texture."
+                "So the output should be an organized list with MAINTASKs and SUBTASKs as per their physicality. The driving and operation of the tractor would be its own MAINTASK, with subtasks like steering the tractor, shifting gears, etc."
             ]
         },
         {
-            "task": "Manage the soil preparation for planting.",
+            "task": "MANURE SPREADER OPERATION",
+            "subtasks": []
+        },
+        {
+            "task": "TRACTOR AND FIELD NAVIGATION",
+            "subtasks": []
+        },
+        {
+            "task": "MANURE SPREADING TECHNICAL KNOWLEDGE",
+            "subtasks": []
+        },
+        {
+            "task": "OPERATING A TRACTOR",
+            "subtasks": []
+        },
+        {
+            "task": "SAFETY PRECAUTIONS",
+            "subtasks": []
+        },
+        {
+            "task": "COMPLIANCE WITH REGULATIONS",
             "subtasks": [
-                "Ensure the soil is adequately tilled to remove weeds.",
-                "Check for any clumps or residue in the plowed area.",
-                "Assess the plowed soil's readiness for planting."
+                "So with that, I think the initial list of MAINTASKs and SUBTASKs is complete, covering the physical aspects of manure spreading, tractor operation, and related safety and technical knowledge."
             ]
         },
         {
-            "task": "Drive the tractor with the plow to the next field.",
+            "task": "Manure Spreader Operation",
             "subtasks": [
-                "Transfer the tractor to the next field location.",
-                "Align the plow with the field boundaries.",
-                "Repeat the plowing process in the new field."
+                "Approach trailer with manure spreader",
+                "Attach manure spreader to tractor",
+                "Fill manure spreader with manure",
+                "Adjust spreader settings for application",
+                "Drive tractor to field",
+                "Activate manure spreader",
+                "Operate controls to distribute manure evenly",
+                "Monitor spreader and tractor operation",
+                "Adjust direction as needed during application",
+                "Stop spreader and disconnect from tractor when finished"
             ]
         },
         {
-            "task": "Check the plow's functionality during operation.",
+            "task": "Tractor and Field Navigation",
             "subtasks": [
-                "Listen for any unusual noises from the plow.",
-                "Feel for vibrations indicating potential issues.",
-                "Stop the tractor to inspect the plow if problems are detected."
+                "Position tractor properly for spreading",
+                "Adjust driving speed for effective application"
+            ]
+        },
+        {
+            "task": "Manure Spreading Technical Knowledge",
+            "subtasks": [
+                "Understand manure composition and nutrient needs",
+                "Calculate appropriate spreading rates",
+                "Maintain spreader for optimal performance"
+            ]
+        },
+        {
+            "task": "Operating a Tractor",
+            "subtasks": [
+                "Drive tractor safely on roads and fields",
+                "Shift gears and control transmission",
+                "Manage hydraulic systems for spreader operation"
+            ]
+        },
+        {
+            "task": "Safety Precautions",
+            "subtasks": [
+                "Wear protective clothing and gear",
+                "Inspect equipment for safety hazards before use"
+            ]
+        },
+        {
+            "task": "Compliance with Regulations",
+            "subtasks": [
+                "Ensure manure spreading complies with environmental regulations",
+                "Properly handle manure to prevent leaks or spills",
+                "Clean up after spreading and dispose of waste materials appropriately"
             ]
         }
     ]

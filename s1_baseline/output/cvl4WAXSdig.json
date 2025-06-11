@@ -5,91 +5,118 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Loading hay into the trailer",
+            "task": "Driving a combine harvester.",
             "subtasks": [
-                "Approach the stack of hay",
-                "Lift the hay bale onto the trailer",
-                "Secure the bale on the trailer",
-                "Repeat for all hay bales"
+                "Sitting in the cab of the combine harvester.",
+                "Adjusting the speed of the combine harvester.",
+                "Monitoring the crops being harvested."
             ]
         },
         {
-            "task": "Attaching the tarps to the trailer",
+            "task": "Loading grain into a truck.",
             "subtasks": [
-                "Locate the tarps",
-                "Unfold the tarps",
-                "Stretch the tarps over the hay",
-                "Secure the tarps with bungee cords or similar"
+                "Guiding the combine harvester toward the truck.",
+                "Verifying the grain is properly loaded into the truck."
             ]
         },
         {
-            "task": "Driving the hay trailer to the barn",
+            "task": "Unloading grain from a truck to storage bins.",
             "subtasks": [
-                "Start the tractor",
-                "Attach the trailer to the tractor",
-                "Check the trailer for obstructions",
-                "Drive the tractor and trailer to the barn"
+                "Using a telescoping arm attached to the truck to unload grain.",
+                "Directing the grain into the correct storage bin."
             ]
         },
         {
-            "task": "Unloading hay from the trailer",
+            "task": "Checking forForeign material in the grain.",
             "subtasks": [
-                "Come to a stop near the barn where hay is needed",
-                "Dismount the tractor",
-                "Position the trailer forks over a bale",
-                "Lift the bale off the trailer and place it on the ground",
-                "Repeat for all bales"
+                "Inspecting each load of grain as it's unloaded.",
+                "Removing any debris or contaminants from the grain stream."
             ]
         },
         {
-            "task": "Stowing the tarps away if needed",
+            "task": "Documenting the grain harvest operation.",
             "subtasks": [
-                "Identify storage location for tarps",
-                "Unfold the tarps",
-                "Transport tarps to storage area",
-                "Fold the tarps neatly",
-                "Place folded tarps in storage"
+                "Logging the amount and type of grain harvested.",
+                "Noting any issues encountered during the harvest."
             ]
         },
         {
-            "task": "Loading hay into the trailer**",
-            "subtasks": []
+            "task": "Ensuring safety during unloading.",
+            "subtasks": [
+                "Verifying that all workers are clear of the unloading area.",
+                "Checking for hazards around the truck and storage bins."
+            ]
         },
         {
-            "task": "Attaching the tarps to the trailer**",
-            "subtasks": []
+            "task": "Performing basic maintenance on the combine harvester.",
+            "subtasks": [
+                "Checking oil and fuel levels.",
+                "Lubricating moving parts as needed."
+            ]
         },
         {
-            "task": "Driving the hay trailer to the barn**",
-            "subtasks": []
+            "task": "Preparing the field for the next planting.",
+            "subtasks": [
+                "Assessing the harvested area for potential pest or disease issues.",
+                "Deciding on any necessary soil amendments for the next crop."
+            ]
         },
         {
-            "task": "Unloading hay from the trailer**",
-            "subtasks": []
+            "task": "Driving a combine harvester**",
+            "subtasks": [
+                "** Sit in the cab of the combine harvester.",
+                "** Adjust the speed to match the field conditions.",
+                "** Monitor the crops being harvested to ensure efficient operations."
+            ]
         },
         {
-            "task": "Stowing the tarps away if needed**",
-            "subtasks": []
+            "task": "Loading grain into a truck**",
+            "subtasks": [
+                "** Guide the combine harvester towards the truck.",
+                "** Verify that the grain is correctly loaded into the truck."
+            ]
         },
         {
-            "task": "Loading hay into the trailer**",
-            "subtasks": []
+            "task": "Unloading grain from a truck to storage bins**",
+            "subtasks": [
+                "** Use a telescoping arm to unload the grain.",
+                "** Direct the grain into the appropriate storage bin."
+            ]
         },
         {
-            "task": "Attaching and securing tarps**",
-            "subtasks": []
+            "task": "Checking for foreign material in the grain**",
+            "subtasks": [
+                "** Inspect each load as it's unloaded.",
+                "** Remove any debris or contaminants from the grain stream."
+            ]
         },
         {
-            "task": "Driving the trailer to the barn**",
-            "subtasks": []
+            "task": "Documenting the grain harvest operation**",
+            "subtasks": [
+                "** Log the amount and type of grain harvested.",
+                "** Note any issues encountered during the harvest."
+            ]
         },
         {
-            "task": "Unloading hay from the trailer**",
-            "subtasks": []
+            "task": "Ensuring safety during unloading**",
+            "subtasks": [
+                "** Confirm all workers are clear of the unloading area.",
+                "** Check for hazards around the truck and storage bins."
+            ]
         },
         {
-            "task": "Stowing tarps if necessary**",
-            "subtasks": []
+            "task": "Performing basic maintenance on the combine harvester**",
+            "subtasks": [
+                "** Check oil and fuel levels.",
+                "** Lubricate moving parts as needed."
+            ]
+        },
+        {
+            "task": "Preparing the field for the next planting**",
+            "subtasks": [
+                "** Assess the harvested area for pest or disease issues.",
+                "** Determine necessary soil amendments for the next crop."
+            ]
         }
     ]
 }

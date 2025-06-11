@@ -5,44 +5,105 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Goat ranching and farm management tasks",
+            "task": "Corral and handle goats during vaccination and banding.",
             "subtasks": [
-                "Corral and move goats from one pen to another",
-                "Sort nannies (female goats) from kids (baby goats)",
-                "Administer vaccinations to goats (e.g., clostridial vaccines, tetanus, blackleg)",
-                "Apply ear tags or identify genders (left vs. right ear)",
-                "Check and band goats for meat industry purposes",
-                "Manage goat rearing and separation for breeding vs. meat",
-                "Implement multi-species grazing techniques with goats and bison",
-                "Conduct preventive health measures (e.g., deworming)",
-                "Address fence maintenance and predator prevention",
-                "Observe and discuss the impact of goats on land restoration and brush management",
-                "Evaluate multi-species grazing benefits (e.g., nutrient cycling, land rehabilitation)",
-                "Chat with Joe and family about their goat ranching experience and industry insights"
+                "Guide goats into a large pen.",
+                "Divide goats into smaller pens based on age and sex.",
+                "Vaccinate baby goats against blackleg, clostridial peripherens, and tetanus.",
+                "Band goats intended for meat production.",
+                "Sort nannies (female goats) and kids for separate care."
             ]
         },
         {
-            "task": "Goat ranching and farm management tasks",
-            "subtasks": []
-        },
-        {
-            "task": "Just to confirm, the transcript is all about a family working on their goat ranch, showing various tasks like vaccinating goats, handling them, discussing their farming practices. So the video is relevant to farming, specifically goat ranching. Hence, the MAINTASK should cover the overall activities, with subtasks broken down into the physical actions performed. The transcript is not irreverent, as it provides clear examples of tasks involved in goat ranching. So I think these tasks should hold up. The reason for accepting it is that it's about physical tasks related to performing farming activities, specifically goat ranching.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Goat ranching and farm management tasks",
+            "task": "Manage multi-species grazing with goats and bison.",
             "subtasks": [
-                "Corral and move goats between pens",
-                "Sort nannies from kids",
-                "Administer vaccinations (e.g., blackleg, tetanus)",
-                "Apply ear tags based on gender (left/right ear)",
-                "Apply bands for meat industry purposes",
-                "Conduct preventative health measures (deworming)",
-                "Implement multi-species grazing with bison",
-                "Maintain fencing and prevent escapes",
-                "Manage brush and unwanted vegetation through goat grazing",
-                "Restore land by promoting native grasses through grazing management"
+                "Compare goat and bison grazing behaviors.",
+                "Discuss the impact of goats on brush and non-economic vegetation.",
+                "Explain the symbiotic effect of grazing bison and goats together.",
+                "Analyze the role of goats in managing brush and enhancing grass growth."
             ]
+        },
+        {
+            "task": "Address common fencing challenges in goat farming.",
+            "subtasks": [
+                "Demonstrate proper goat fencing for effective containment.",
+                "Highlight the importance of ongoing maintenance to prevent escapes."
+            ]
+        },
+        {
+            "task": "Describe seasonal grazing and management practices.",
+            "subtasks": [
+                "Rotate goats between pastures to allow rest and regrowth.",
+                "Utilize short-term goats grazing to improve soil health and ecosystem balance."
+            ]
+        },
+        {
+            "task": "Operate farm equipment safely during goat handling.",
+            "subtasks": [
+                "Use pen dividers and equipment to transport and sort goats efficiently."
+            ]
+        },
+        {
+            "task": "Corral and handle goats during vaccination and banding. That seems like the primary task. Let's break that down.",
+            "subtasks": [
+                "Divide goats into pens based on age and sex. Then they give vaccinations. They mention blackleg, clostridial peripherens, tetanus. That's a set of vaccinations. So SUBTASK: Vaccinate baby goats. I think the kids are the ones getting the shots here. So, baby goats, maybe up to a certain age? The transcript mentions \"red ones\" which will \"kid here in another two months,\" so probably the kids under two months get the shots."
+            ]
+        },
+        {
+            "task": "Corral and handle goats. That's the overarching task. Then splitting into smaller pens, vaccinations (maybe different types, like blackleg and clostridial), banding, sorting nannies and kids.",
+            "subtasks": []
+        },
+        {
+            "task": "Manage multi-species grazing with goats and bison. Subtasks here would include observing and discussing the impact of goats on the land, comparing their grazing patterns, discussing the benefits of combining grazers that complement each other's dietary preferences.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate farm equipment safely during goat handling. Subtasks could include setting up and moving the pen dividers, ensuring safe handling of the goats when moving them from one pen to another, and being aware of the goats' behavior to prevent escapes or injuries.",
+            "subtasks": []
+        },
+        {
+            "task": "Corral and handle goats during vaccination and banding.",
+            "subtasks": []
+        },
+        {
+            "task": "Manage multi-species grazing with goats and bison.",
+            "subtasks": []
+        },
+        {
+            "task": "Check and maintain fencing.",
+            "subtasks": []
+        },
+        {
+            "task": "Rotate grazing between pastures.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate farm equipment safely during goat handling.",
+            "subtasks": []
+        },
+        {
+            "task": "Manage animal handling.",
+            "subtasks": []
+        },
+        {
+            "task": "Corral and handle goats.",
+            "subtasks": []
+        },
+        {
+            "task": "Manage multi-species grazing with goats and bison.",
+            "subtasks": []
+        },
+        {
+            "task": "Maintain fencing and equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "Perform rotational grazing.",
+            "subtasks": []
+        },
+        {
+            "task": "Administer deworming treatments.",
+            "subtasks": []
         }
     ]
 }

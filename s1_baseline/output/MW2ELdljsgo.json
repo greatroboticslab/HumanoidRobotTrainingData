@@ -5,51 +5,85 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Preparing a stanchion for training a cow.",
-            "subtasks": [
-                "Identify the current stanchion setup and assess past modifications.",
-                "Reinforce the stanchion with crossbars, chains, and two-by-fours for better containment.",
-                "Add tension and locking mechanisms to ensure the cow cannot escape.",
-                "Train the cow to remain in the stanchion by gradually increasing confinement time.",
-                "Use positive reinforcement and commands to desensitize the cow to handling and milking.",
-                "Address specific behaviors (e.g., moving legs, horns) and apply correction techniques as needed.",
-                "Incorporate calf-halter training to encourage milk letdown for Jersey cows."
-            ]
-        },
-        {
-            "task": "Producing an educational video.",
-            "subtasks": [
-                "Script creation and preparation for filming.",
-                "Demonstrating the training process on a specific cow (Allie) in a natural and engaging manner.",
-                "Addressing common challenges and providing tips for viewers.",
-                "Encouraging viewer engagement and interaction through comments and feedback."
-            ]
-        },
-        {
-            "task": "MAINTASK: Preparing a stanchion for training a cow;",
-            "subtasks": [
-                "Identify and reinforce existing stanchion structures;",
-                "Add crossbars, chains, and two-by-fours for containment;",
-                "Train the cow to remain in the stanchion through gradual confinement;",
-                "Use positive reinforcement and commands for desensitization;",
-                "Address behaviors like leg movement and horns;",
-                "Incorporate calf-halter training for milk letdown."
-            ]
-        },
-        {
-            "task": "Producing an educational video;",
-            "subtasks": [
-                "Script preparation and filming;",
-                "Demonstrate training techniques on a cow (Allie);",
-                "Address common challenges and provide tips for viewers."
-            ]
-        },
-        {
-            "task": "MAINTASK: Preparing a stanchion for training a cow.",
+            "task": "Cow Stanchion Training and Setup",
             "subtasks": []
         },
         {
-            "task": "Producing an educational video.",
+            "task": "Cow Training and Milking Procedure",
+            "subtasks": []
+        },
+        {
+            "task": "Equipment Setup and Use",
+            "subtasks": [
+                "Petting and calming the cow",
+                "Applying vinegar and drying cow",
+                "Command reinforcement",
+                "Handling cow\u2019s horns",
+                "Managing cow\u2019s legs",
+                "Contradistinction from prior training experiences",
+                "Calving preparation"
+            ]
+        },
+        {
+            "task": "Sealing stanchion components",
+            "subtasks": []
+        },
+        {
+            "task": "Tracking training progress",
+            "subtasks": []
+        },
+        {
+            "task": "Feeding and reward system",
+            "subtasks": []
+        },
+        {
+            "task": "Future calf-related considerations",
+            "subtasks": [
+                "Video production and content creation"
+            ]
+        },
+        {
+            "task": "Cow Stanchion Training and Setup.",
+            "subtasks": []
+        },
+        {
+            "task": "Using Calf Halter for Milk Letdown. Alternatively, it could be part of the overall Cow Training.",
+            "subtasks": []
+        },
+        {
+            "task": "Cow Milking Procedure. Subtasks could include applying fetlock restraint, sprucing with vinegar, and using the pump.",
+            "subtasks": [
+                "Calming the Cow. Perhaps this is part of the training process. Another task is the physical act of milking, so maybe SUBTASK: Hand Milking or Using a Pump. Not sure if that's separate."
+            ]
+        },
+        {
+            "task": "Securing Horns with Chain. That's a safety measure.",
+            "subtasks": []
+        },
+        {
+            "task": "Feeding and Reward System.",
+            "subtasks": [
+                "Contrasting Training Methods. Not sure if that's necessary, but could be a subtask."
+            ]
+        },
+        {
+            "task": "Calving Preparation. Subtask: Using Calf Halter to encourage milk production.",
+            "subtasks": []
+        },
+        {
+            "task": "Beefing Up Stanchion for Larger Cows.",
+            "subtasks": []
+        },
+        {
+            "task": "Cow Stanchion Training and Setup**",
+            "subtasks": []
+        },
+        {
+            "task": "Cow Training and Milking Procedure**",
+            "subtasks": []
+        },
+        {
+            "task": "Equipment Setup and Use**",
             "subtasks": []
         }
     ]

@@ -5,96 +5,176 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Adjusting machine settings for planting",
+            "task": "Use soil testing equipment",
             "subtasks": [
-                "Turning the soil with a tractor",
-                "Positioning the planter attachment",
-                "Setting the depth of the seeding mechanism",
-                "Adjusting the spacing between rows"
+                "Lift and carry soil sampling equipment",
+                "Walk to designated test locations",
+                "Dig into soil to collect samples",
+                "Record sample data and coordinates",
+                "Transport samples to testing facility"
             ]
         },
         {
-            "task": "Driving the tractor and machine through the field",
+            "task": "Operate tractor implement",
             "subtasks": [
-                "Operating the steering wheel to navigate the field",
-                "Monitoring the planting progress",
-                "Checking the machine for any issues during operation"
+                "Approach the soil preparation equipment on the tractor",
+                "Attach the implement to the tractor",
+                "Conduct safety checks on the implement",
+                "Drive the tractor with the implement to the field",
+                "Assess the condition of the field soil",
+                "Operate the tillage implement to prepare the soil",
+                "Adjust implement settings based on soil conditions",
+                "Monitor soil temperature and moisture levels"
             ]
         },
         {
-            "task": "Planting the seeds",
+            "task": "Apply fertilizer to the field",
             "subtasks": [
-                "Ensuring accurate seed placement",
-                "Checking seed coverage and uniformity"
+                "Drive tractor equipped with fertilizer spreader to field",
+                "Determine optimal application rates and patterns",
+                "Operate the spreader to apply fertilizer evenly",
+                "Check GPS guidance system for accurate placement",
+                "Monitor spreader settings and adjust as needed",
+                "Manage the flow of fertilizer through the system"
             ]
         },
         {
-            "task": "Evaluating planting quality",
+            "task": "Install GPS navigation system for farm equipment",
             "subtasks": [
-                "Checking the field for properly sown rows",
-                "Adjusting planting settings as needed"
+                "Unbox and inspect GPS equipment",
+                "Install GPS unit in the tractor cab",
+                "Secure the GPS antenna for clear signal reception",
+                "Connect GPS system to the tractor's computer",
+                "Program routes and field boundaries into the system",
+                "Calibrate the GPS for accurate positioning"
             ]
         },
         {
-            "task": "Adjusting machine settings for planting**",
+            "task": "Check irrigation system",
             "subtasks": [
-                "** Turning the soil with a tractor",
-                "** Positioning the planter attachment",
-                "** Setting the depth of the seeding mechanism",
-                "** Adjusting the spacing between rows"
+                "Walk to the irrigation control panel",
+                "Inspect valves and nozzles for proper function",
+                "Test water flow at various sprinklers",
+                "Check for leaks or blockages in the system",
+                "Clean or replace nozzles as necessary",
+                "Reset system and test operation"
             ]
         },
         {
-            "task": "Driving the tractor and machine through the field**",
+            "task": "Service the grain combine",
             "subtasks": [
-                "** Operating the steering wheel to navigate the field",
-                "** Monitoring the planting progress",
-                "** Checking the machine for any issues during operation"
+                "Access the combine shed for servicing",
+                "Inspect the combine for worn parts",
+                "Lubricate moving parts",
+                "Check and adjust the combine's harvesting mechanism",
+                "Test the combine's threshing efficiency",
+                "Prepare the combine for the upcoming harvest season"
             ]
         },
         {
-            "task": "Planting the seeds**",
+            "task": "Handle crop residue",
             "subtasks": [
-                "** Ensuring accurate seed placement",
-                "** Checking seed coverage and uniformity"
+                "Evaluate residue distribution in the field",
+                "Consider residue management practices",
+                "Prepare plan to manage residue, e.g., burning, composting",
+                "Check equipment readiness for residue handling"
             ]
         },
         {
-            "task": "Evaluating planting quality**",
+            "task": "Adjust irrigation timing based on weather data",
             "subtasks": [
-                "** Checking the field for properly sown rows",
-                "** Adjusting planting settings as needed"
+                "Access weather station data",
+                "Analyze upcoming weather forecasts",
+                "Calculate optimal irrigation window",
+                "Coordinate irrigation schedule with other farm activities"
             ]
         },
         {
-            "task": "Adjusting machine settings for planting",
+            "task": "Apply foliar fungicide to crops",
             "subtasks": [
-                "** Turning the soil with a tractor",
-                "** Positioning the planter attachment",
-                "** Setting the depth of the seeding mechanism",
-                "** Adjusting the spacing between rows"
+                "Load fungicide into sprayer",
+                "Mix chemicals according to label instructions",
+                "Conduct a test spray to check coverage",
+                "Apply fungicide evenly across the crop rows",
+                "Monitor wind speed and direction before application",
+                "Follow safety guidelines during application"
             ]
         },
         {
-            "task": "Driving the tractor and machine through the field",
+            "task": "Check for equipment malfunctions during operation",
             "subtasks": [
-                "** Operating the steering wheel to navigate the field",
-                "** Monitoring the planting progress",
-                "** Checking the machine for any issues during operation"
+                "Monitor machinery performance during use",
+                "Identify potential issues, e.g., noisy components, leaks",
+                "Perform immediate troubleshooting if possible",
+                "Document malfunctions for maintenance scheduling"
             ]
         },
         {
-            "task": "Planting the seeds",
+            "task": "Adjust land management practices based on soil test results",
             "subtasks": [
-                "** Ensuring accurate seed placement",
-                "** Checking seed coverage and uniformity"
+                "Receive results from soil tests",
+                "Review recommendations from agronomist",
+                "Determine changes to fertilization, irrigation, and crop rotation",
+                "Plan field-specific management actions"
             ]
         },
         {
-            "task": "Evaluating planting quality",
+            "task": "Operate a silage loader",
             "subtasks": [
-                "** Checking the field for properly sown rows",
-                "** Adjusting planting settings as needed"
+                "Position loader in the windrow",
+                "Engage loader hydraulics",
+                "Feed stalks into the silage auger",
+                "Monitor feed rate to maintain consistency",
+                "Keep loader sling free of debris",
+                "Backloader into the silo at appropriate rate"
+            ]
+        },
+        {
+            "task": "Prepare seed for planting",
+            "subtasks": [
+                "Select appropriate seed varieties based on soil and climate",
+                "Test seed viability",
+                "Consult planting depth and spacing guidelines",
+                "Set planting machinery for optimal seed placement"
+            ]
+        },
+        {
+            "task": "Analyze soil test results",
+            "subtasks": [
+                "Gather final test data",
+                "Enter results into software",
+                "Interpret nutrient levels and deficiencies",
+                "Recommend corrective actions"
+            ]
+        },
+        {
+            "task": "Check grain moisture content before harvest",
+            "subtasks": [
+                "Harvest a small test plot",
+                "Dry the grain to evaluate moisture levels",
+                "Use moisture meter to test grain",
+                "Adjust drying times if necessary",
+                "Ensure grain meets moisture content standards"
+            ]
+        },
+        {
+            "task": "Apply herbicide to control weeds",
+            "subtasks": [
+                "Select appropriate herbicide based on crop and weeds",
+                "Calibrate sprayer for correct herbicide rates",
+                "Mix herbicide in the tank",
+                "Conduct a walk-through to assess weed coverage",
+                "Apply herbicide evenly across the field",
+                "Follow post-application guidelines, such as recalibration"
+            ]
+        },
+        {
+            "task": "Evaluate the effectiveness of irrigation system",
+            "subtasks": [
+                "Monitor crop growth patterns post-irrigation",
+                "Check soil moisture meters before and after watering",
+                "Compare growth in irrigated vs. non-irrigated areas",
+                "Record data on system performance"
             ]
         }
     ]

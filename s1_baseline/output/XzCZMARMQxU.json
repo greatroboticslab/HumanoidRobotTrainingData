@@ -5,114 +5,43 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "To perform physical agricultural tasks using AgroFIMS and ontologies",
+            "task": "Presenting the Agronomy Field Information Management System (AgroFIMS)",
             "subtasks": [
-                "Collect data on an experimental agricultural plot"
+                "Setup and customize experiment details (e.g., type of experiment, site, crop, design)",
+                "Input experimental treatments (e.g., fertilizers, nutrient amounts, application methods)",
+                "Specify crop measurements and units",
+                "Generate standardized field book for data collection",
+                "Integrate with KD Smart application for mobile data collection"
             ]
         },
         {
-            "task": "Use ontologies and structured data for agricultural research",
+            "task": "Describing the Agronomy Ontology",
             "subtasks": [
-                "Apply agronomy ontology to annotate data"
+                "Define agricultural experiments and processes (e.g., planting, fertilization, irrigation)",
+                "Classify agricultural implements and equipment",
+                "Catalog fertilizers and units of measurement",
+                "Develop a hierarchical structure for terms and relations",
+                "Collaborate with external ontologies (e.g., CHEBI, EnvO, plant ontology)"
             ]
         },
         {
-            "task": "Collaborate in the agricultural community of practice",
+            "task": "Using Ontologies and AGRO for Data Annotation",
             "subtasks": [
-                "Engage with the farming community of practice"
+                "Access AGRO ontology via websites or GitHub",
+                "Utilize Ontology Lookup Service (OLS) for term discovery",
+                "Employ Copo tool for automated data annotation",
+                "Store and aggregate data using AgroFIMS and CG Lab platforms",
+                "Conflict resolution and term creation in AGRO"
             ]
         },
         {
-            "task": "To perform physical agricultural tasks using AgroFIMS and ontologies",
+            "task": "Integrating AgroFIMS and AGRO into the Data Ecosystem",
             "subtasks": [
-                "Collect data on an experimental agricultural plot"
-            ]
-        },
-        {
-            "task": "Use ontologies and structured data for agricultural research",
-            "subtasks": [
-                "Apply agronomy ontology to annotate data"
-            ]
-        },
-        {
-            "task": "Collaborate in the agricultural community of practice",
-            "subtasks": [
-                "Engage with the farming community"
-            ]
-        },
-        {
-            "task": "To use AgroFIMS for agricultural data collection**",
-            "subtasks": [
-                "** Enter experimental details such as crop type, design, and site location using pick lists and picklists.",
-                "** Calculate and input fertilizer applications, ensuring accurate measurement.",
-                "** Plan and measure crop parameters like fresh weight and grain yield using predefined parameters."
-            ]
-        },
-        {
-            "task": "Utilize ontologies for data annotation**",
-            "subtasks": [
-                "** Access and use the agronomy ontology to annotate data columns using unique identifiers (UIs).",
-                "** Leverage tools like Copo for automated annotation during data entry."
-            ]
-        },
-        {
-            "task": "Participate in the agricultural community**",
-            "subtasks": [
-                "** Provide feedback to improve ontology components and data collection tools.",
-                "** Collaborate by reporting issues or suggesting additions to the agronomy ontology via GitHub."
-            ]
-        },
-        {
-            "task": "To perform physical agricultural tasks using AgroFIMS and ontologies",
-            "subtasks": [
-                "Collect data on an experimental agricultural plot"
-            ]
-        },
-        {
-            "task": "Use ontologies and structured data for agricultural research",
-            "subtasks": [
-                "Apply agronomy ontology to annotate data"
-            ]
-        },
-        {
-            "task": "Collaborate in the agricultural community of practice",
-            "subtasks": [
-                "Participate in webinars and discussions",
-                "The video is relevant. It covers practical data collection (MAINTASK) and involves using AgroFIMS for structured entry (SUBTASK 1), applying ontologies for consistency (SUBTASK 2), and engaging in community feedback (SUBTASK 3). Answer: The video pertains to agricultural data collection and management via AgroFIMS and ontologies. Identified tasks include:"
-            ]
-        },
-        {
-            "task": "To perform physical agricultural tasks using AgroFIMS and ontologies**",
-            "subtasks": [
-                "** Collect data on an experimental plot using AgroFIMS (collecting essential data, following structured protocols).",
-                "** Apply ontological terms to annotate data for consistency.",
-                "** Participate in community feedback and improvement sessions."
-            ]
-        },
-        {
-            "task": "To use structured data collection tools in agriculture",
-            "subtasks": [
-                "Enter experimental data into AgroFIMS, following pick lists for consistency.",
-                "Apply ontological terms to data fields for standardization.",
-                "Participate in community workshops to improve tools."
-            ]
-        },
-        {
-            "task": "Data Collection Using AgroFIMS",
-            "subtasks": [
-                "Enter experimental details (crop, site, treatments) using AgroFIMS."
-            ]
-        },
-        {
-            "task": "Ontology Application",
-            "subtasks": [
-                "Tag data fields with standardized terms."
-            ]
-        },
-        {
-            "task": "Community Collaboration",
-            "subtasks": [
-                "Participate in feedback sessions."
+                "Connect with existing data repositories (e.g., Guardian)",
+                "Facilitate data discovery and compliance with FAIR principles",
+                "Support for multiple Croptiles and experimental designs",
+                "Enhance data interoperability through standardized metadata",
+                "Collaborate with breeding management systems for integrated data"
             ]
         }
     ]

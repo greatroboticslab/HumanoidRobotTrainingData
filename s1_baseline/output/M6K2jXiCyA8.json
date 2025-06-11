@@ -5,23 +5,25 @@
     "category": "Autos & Vehicles",
     "tasks": [
         {
-            "task": "Identify if the video transcript is relevant to farming, agriculture, or operating farm equipment.",
+            "task": "Dolling and Cheing Crops",
             "subtasks": [
-                "Examine the given transcript for relevant keywords.",
-                "Determine if any keywords relate to farming/agriculture."
+                "Identify and select crops for dolling",
+                "Prepare crops for Cheing by arranging them properly",
+                "Apply dolling technique to improve crop appearance",
+                "Use Cheing method to enhance crop texture or flavor"
             ]
         },
         {
-            "task": "Conclude relevance based on examination.",
+            "task": "Farming Gratitude",
             "subtasks": [
-                "Assess overall relevance."
+                "Acknowledge the assistance or hard work of team members",
+                "Express thanks for successful crop matches or outcomes"
             ]
         },
         {
-            "task": "Generate appropriate response.",
+            "task": "Verbal Acknowledgments",
             "subtasks": [
-                "Since the transcript is irrelevant, use the !!!TRANSCRIPT\\_IRRELEVANT: tag.",
-                "Note the reason for irrelevance."
+                "Convey gratitude for the dolling and Cheing process"
             ]
         }
     ]

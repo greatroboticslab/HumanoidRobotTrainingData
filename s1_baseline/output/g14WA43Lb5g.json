@@ -5,27 +5,33 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Transplanting and monitoring plants",
+            "task": "Compare transplanted plants' growth.",
             "subtasks": [
-                "Prepare gardenbed",
-                "Dig holes for transplants",
-                "Gently remove plants from container",
-                "Place transplants into prepared holes",
-                "Cover roots with soil",
-                "Water transplants",
-                "Observe plant growth",
-                "Assess individual plant progress",
-                "Record growth stages"
+                "Check plants' progress post-transplantation.",
+                "Observe first-planted carrot's growth stage (first digit).",
+                "Observe second-planted carrot's growth stage (third digit).",
+                "Note third-planted carrot's limited growth."
             ]
         },
         {
-            "task": "Gardening tasks",
+            "task": "Assess overall gardening satisfaction.",
             "subtasks": [
-                "Wash hands (due to dirt)",
-                "Inspect plant growth",
-                "Compare plant development",
-                "Note growth stages (using digit comparisons)",
-                "Reflect on gardening enjoyment"
+                "Reflect on the enjoyable aspect of monitoring plant growth."
+            ]
+        },
+        {
+            "task": "Compare transplanted plants' growth.",
+            "subtasks": [
+                "Check plants' progress post-transplantation.",
+                "Observe first-planted carrot's growth stage (first digit).",
+                "Observe second-planted carrot's growth stage (third digit).",
+                "Note third-planted carrot's limited growth."
+            ]
+        },
+        {
+            "task": "Assess overall gardening satisfaction.",
+            "subtasks": [
+                "Reflect on the enjoyable aspect of monitoring plant growth."
             ]
         }
     ]

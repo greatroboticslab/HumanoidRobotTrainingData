@@ -5,36 +5,301 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Unhooking and moving fence for hog rotational grazing.",
+            "task": "Move hogs into a new rotational grazing plot",
             "subtasks": [
-                "Unhook the existing fence from the back edge.",
-                "Move the fence to the new position.",
-                "Monitor the hogs' movement into the new plot.",
-                "Ensure the hogs are in the new plot using additional feed."
+                "Unhook the fence from the previous plot",
+                "Move the fence to the new plot's back edge",
+                "Ensure hogs move into the new plot (providing extra feed if necessary)",
+                "Distract hogs with food",
+                "Move and set up the mobile shelter in the new plot",
+                "Close the hogs into the new plot using the back fence",
+                "Position and activate the barrel water system"
             ]
         },
         {
-            "task": "Moving the hog shelter to the new plot.",
+            "task": "Discuss the benefits of rotational grazing systems",
             "subtasks": [
-                "Transport the mobile shelter.",
-                "Position the shelter in the new plot.",
-                "Distract the hogs with food.",
-                "Close the hogs into the new plot with the back fence."
+                "Mention low labor requirements",
+                "Note the affordability of materials needed"
             ]
         },
         {
-            "task": "Setting up the barrel water system.",
+            "task": "Express gratitude to viewers",
+            "subtasks": []
+        },
+        {
+            "task": "Invite viewers to stay tuned for more videos",
+            "subtasks": []
+        },
+        {
+            "task": "Therefore, the maintask for moving hogs is performed, with unhinging fence, moving it, then moving the hogs, shelter, and water system. The rest of the transcript seems to talk about benefits and wrapping up, which would be two more maintasks. But the rest of the transcript is marked as an ending. Thus, even though the transcript finishes with additional text, I should only include the sections related to the physical tasks. Considering that the main tasks in the first part of the transcript, like moving hogs into the new grazing plot with all the steps, setting up the water and shelter, expressing thanks, all thing relevant. Each of these are main tasks with their respective subtasks. If the intention of the user is to generate tasks based on the given transcript\u72ec\u5bb6\u4ee3\u7406, then based on this, responding MAINTASKs for moving hogs, discussing rotational grazing benefits, expressing gratitude, and final conclusion. Since the rest is unrelated, I need to consider stopping when the main tasks are completed. It's possible that the last few lines of the transcript are part of the conclusion (e.g., \"Rel at Edited Explained...\" might be a clumsy attempt at saying \"Rel at the end\" or \"Peace at the end,\" but doesn't make sense in context, possibly some mistake in speech-to-text. But regardless, because the provided transcript ends with it, and in the absence of a clear end, it's safest to stop including text after a certain point.",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot (including setting up fence, hogs, shelter, water)",
             "subtasks": [
-                "Identify the correct barrel.",
-                "Activate the barrel's water supply.",
-                "Position the water system for easy access by hogs."
+                "Unhooking fence, moving fence, moving hogs with extra feed if needed, distracting with food, moving shelter, closing with fence, setting up water system."
             ]
         },
         {
-            "task": "Evaluating the benefits of rotational grazing.",
+            "task": "Discuss the benefits of the rotational grazing system",
             "subtasks": [
-                "Recognize the low labor requirement.",
-                "Note the affordable materials needed."
+                "Let viewers know it's low labor",
+                "Mention that materials are affordable"
+            ]
+        },
+        {
+            "task": "Express gratitude to viewers and invite them to stay tuned for more videos",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot",
+            "subtasks": []
+        },
+        {
+            "task": "Discuss the benefits of rotational grazing systems",
+            "subtasks": []
+        },
+        {
+            "task": "Express gratitude to viewers and invite them to stay tuned",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into new plot would make sense, with all the physical steps as subtasks. The rest are mainly discussion points or instructions, so those are separate main tasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot",
+            "subtasks": [
+                "Unhook the fence from the previous plot",
+                "Move the fence to the new plot\u2019s back edge",
+                "Ensure hogs move into the new plot with additional feed",
+                "Move the mobile shelter into the new plot",
+                "Close the hogs into the new plot with the back fence",
+                "Set up the barrel water system"
+            ]
+        },
+        {
+            "task": "Discuss the benefits of rotational grazing systems",
+            "subtasks": [
+                "Mention low labor requirements"
+            ]
+        },
+        {
+            "task": "Express gratitude and invite viewers to stay tuned for more",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot",
+            "subtasks": []
+        },
+        {
+            "task": "Discuss the benefits of rotational grazing systems",
+            "subtasks": []
+        },
+        {
+            "task": "Express gratitude and invite viewers to stay tuned for more",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot",
+            "subtasks": [
+                "Unhook the fence from the previous plot",
+                "Move fence to the new plot\u2019s back edge",
+                "Move hogs into the new plot with extra feed",
+                "Distract hogs with food",
+                "Move shelter into the plot",
+                "Close hogs into new plot with back fence",
+                "Position barrel water system"
+            ]
+        },
+        {
+            "task": "Express gratitude",
+            "subtasks": []
+        },
+        {
+            "task": "Invite viewers for more",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot**",
+            "subtasks": []
+        },
+        {
+            "task": "Discuss the advantages of rotational grazing**",
+            "subtasks": []
+        },
+        {
+            "task": "Conclude and thank the viewers**, which can mostly be a separate task.",
+            "subtasks": []
+        },
+        {
+            "task": "Under that interpretation, the third main task is given only if physical actions are required for thanking, which would be waving or some other gesture. But in the absence of such indication, probably not. Hence, the final answer should include only MAINTASK for moving hogs and its subtasks. For the exclusion of the other two main tasks, since they are not physical tasks. However, if we count speaking while moving, perhaps. For example, explaining benefits while moving to the water system. Maybe, in the process, the person might talk about low costs while putting the water system in place, but given that the discusion is a separate task, likely should not overlap.",
+            "subtasks": []
+        },
+        {
+            "task": "Thus, the answer is solidified with three MAINTASKs each with their associated subtasks, but as per the original instruction \"physical tasks a person would have to perform with their body,\" only the one related to moving hogs is considered. However, maybe the other two parts are only important to the video's content but do not involve physical body labour. So in terms of physical tasks, only the \"Move hogs\" MAINTASK and its subtasks should be included. Therefore, the final answer.",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot",
+            "subtasks": [
+                "Unhook the fence from back edge of previous plot",
+                "Move fence to new plot\u2019s back edge",
+                "Move hogs into new plot, using extra feed if necessary",
+                "Position mobile shelter in new plot",
+                "Close plot with back fence",
+                "Move and set up barrel water system"
+            ]
+        },
+        {
+            "task": "Discuss the benefits of rotational grazing systems",
+            "subtasks": [
+                "Low labor requirement"
+            ]
+        },
+        {
+            "task": "Express gratitude to viewers",
+            "subtasks": []
+        },
+        {
+            "task": "Invite viewers to stay for more content",
+            "subtasks": []
+        },
+        {
+            "task": "Then, the two MAINTASKs below those. Therefore, adding the benefits of low labor, note of materials, and gratitude.",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot",
+            "subtasks": [
+                "Unhook the existing fence from the back edge",
+                "Move the fence to the new plot's back edge",
+                "Use extra feed to encourage the hogs to enter the new plot",
+                "Move the mobile shelter into the new plot",
+                "Close off the hogs with the back fence",
+                "Position the barrel water system in the new plot"
+            ]
+        },
+        {
+            "task": "Discuss the benefits of rotational grazing",
+            "subtasks": [
+                "Mention the system's low labor requirements"
+            ]
+        },
+        {
+            "task": "Express gratitude and invite viewers to watch more",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot",
+            "subtasks": []
+        },
+        {
+            "task": "Discuss the benefits of rotational grazing",
+            "subtasks": []
+        },
+        {
+            "task": "Express gratitude",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs to a new grazing plot",
+            "subtasks": []
+        },
+        {
+            "task": "Discuss rotational grazing benefits",
+            "subtasks": []
+        },
+        {
+            "task": "Conclude video",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Discuss benefits of rotational grazing",
+            "subtasks": []
+        },
+        {
+            "task": "Conclude video",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into a new rotational grazing plot",
+            "subtasks": [
+                "Unhook the existing fence from the previous plot",
+                "Move the fence to the new plot\u2019s back edge",
+                "Move the hogs into the new plot with extra feed if needed",
+                "Position the mobile shelter in the new plot",
+                "Close the hogs into the new plot with the back fence",
+                "Set up the barrel water system"
+            ]
+        },
+        {
+            "task": "Move hogs into new plot**",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into new grazing plot",
+            "subtasks": [
+                "Unhook fence from previous plot",
+                "Move fence to new plot's back",
+                "Move hogs with extra feed",
+                "Position mobile shelter",
+                "Close plot with back fence",
+                "Set up water system"
+            ]
+        },
+        {
+            "task": "Express gratitude and share benefits",
+            "subtasks": [
+                "None (mostly verbal)"
+            ]
+        },
+        {
+            "task": "Move hogs into a new plot",
+            "subtasks": [
+                "Unhook fence from previous plot",
+                "Move fence to new plot\u2019s back edge",
+                "Move hogs into new plot with feed",
+                "Position shelter",
+                "Close plot with back fence",
+                "Set up water system"
+            ]
+        },
+        {
+            "task": "Discuss benefits",
+            "subtasks": [
+                "Low labor",
+                "Affordable materials"
+            ]
+        },
+        {
+            "task": "Say thanks and invite",
+            "subtasks": []
+        },
+        {
+            "task": "Move hogs into new plot",
+            "subtasks": [
+                "Unhook fence from previous plot",
+                "Move fence to new plot\u2019s back edge",
+                "Move hogs with extra feed",
+                "Place shelter in new plot",
+                "Close hogs with back fence",
+                "Set up water system"
+            ]
+        },
+        {
+            "task": "Discuss benefits",
+            "subtasks": [
+                "Low labor"
+            ]
+        },
+        {
+            "task": "Say thanks",
+            "subtasks": [
+                "None"
             ]
         }
     ]

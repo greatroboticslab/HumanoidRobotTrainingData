@@ -5,25 +5,52 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Setting up a drip irrigation system for a garden.",
+            "task": "Setting up a drip irrigation system",
             "subtasks": [
-                "Locating and identifying components of the drip irrigation system.",
-                "Connecting the system to a water hose faucet.",
-                "Installing a battery timer to control watering.",
-                "Adapting the system for different garden types (vegetable garden, raised beds, containers)."
+                "Identifying components of the system",
+                "Connecting the system to a water hose faucet",
+                "Installing a battery timer",
+                "Adapting the system for various garden types (vegetable garden, raised bed, containers)"
             ]
         },
         {
-            "task": "Desc",
-            "subtasks": []
+            "task": "Modifying the drip irrigation setup for different environments",
+            "subtasks": [
+                "Disassembling the system for transport or adaptation",
+                "Connecting the system to different water sources as needed",
+                "Customizing the timer settings for specific plant needs",
+                "Ensuring proper water distribution across garden beds",
+                "Understanding the various parts needed for drip irrigation.",
+                "Setting up the initial water source for the irrigation system.",
+                "Controlling the watering schedule without needing electricity.",
+                "Ensuring the drip irrigation setup is suitable for different environments such as vegetable gardens, raised beds, and containers."
+            ]
         },
         {
-            "task": "MAINTASK: Setting up a drip irrigation system for a garden.",
+            "task": "",
             "subtasks": [
-                "Locating and identifying components of the drip irrigation system.**",
-                "Connecting the system to a water hose faucet.**",
-                "Installing a battery timer to control watering.**",
-                "Adapting the system for different garden types (vegetable garden, raised beds, containers).**"
+                "- Disassembling the system for transport or adaptation (SUBTASK).",
+                "- Connecting the system to different water sources as needed (SUBTASK).",
+                "- Customizing timer settings for specific plant needs (SUBTASK).",
+                "- Ensuring proper water distribution across garden beds (SUBTASK)."
+            ]
+        },
+        {
+            "task": "Setting up a drip irrigation system",
+            "subtasks": [
+                "Identifying components of the system",
+                "Connecting the system to a water hose faucet",
+                "Installing a battery timer",
+                "Adapting the system for various garden types (vegetable garden, raised bed, containers)"
+            ]
+        },
+        {
+            "task": "Modifying the drip irrigation setup for different environments",
+            "subtasks": [
+                "Disassembling the system for transport or adaptation",
+                "Connecting the system to different water sources as needed",
+                "Customizing the timer settings for specific plant needs",
+                "Ensuring proper water distribution across garden beds"
             ]
         }
     ]

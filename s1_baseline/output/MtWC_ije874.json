@@ -5,23 +5,33 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Explain and implement crop rotation for agricultural benefits.",
+            "task": "Teach crop rotation benefits",
             "subtasks": [
-                "Understand the concept of crop rotation.",
-                "Recognize the benefits of crop rotation (soil health, pest control, yield improvement).",
-                "Identify different crops suitable for rotation (corn, beans, weeds mentioned).",
-                "Adjust planting schedule based on crop rotation principles.",
-                "Practice varying crops to prevent nutrient depletion and pest build-up.",
-                "Consider the impact of root structures on soil health."
+                "Explain crop rotation concept",
+                "Describe soil nutrient cycling",
+                "Highlight pest and weed management",
+                "Discuss soil health improvement",
+                "Encourage adoption of crop rotation",
+                "Wish audience success"
             ]
         },
         {
-            "task": "Understand and apply the ecological benefits of crop rotation.",
+            "task": "First, the video starts with an opening line, probably to engage the audience, saying \"I bet you didn't know crop rotation could be your farm's secret weapon.\" Then it transitions into explaining what crop rotation is. So the main task I need to identify is teaching the audience about crop rotation and its benefits. That's the MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "So summarizing, the MAINTASK is teaching about crop rotation benefits. The subtasks would include explaining what crop rotation is (like a soil vacation with varied crops), how different crops affect soil nutrients (nutrient cycling, root systems), benefits such as pest/weed control, soil health improvement, and then encouraging the audience to implement it and wish them well.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Teach crop rotation benefits",
             "subtasks": [
-                "Know how different crops affect soil nutrient levels.",
-                "Recognize natural pest control through crop changes.",
-                "Understand the role of diverse crops in soil structure improvement.",
-                "The main task is to explain and implement crop rotation for agricultural benefits. This involves understanding the concept (SUBTASK 1) and recognizing its benefits like soil health, pest control, and yield improvement (SUBTASK 2). Specific crops like corn, beans, and weeds are noted for rotation (SUBTASK 3), with adjustments to planting schedules (SUBTASK 4) to cycle different crops. The goal is to prevent nutrient depletion and pest build-up (SUBTASK 5) while enhancing soil structure through varied root systems (SUBTASK 6). Additionally, understanding how crops affect soil nutrients (SUBTASK 7), the role of natural pest deterrence (SUBTASK 8), and improving soil through diverse crops (SUBTASK 9) are key ecological practices."
+                "Explain crop rotation concept",
+                "Describe soil nutrient cycling",
+                "Highlight pest and weed management",
+                "Discuss soil health improvement",
+                "Encourage adoption of crop rotation",
+                "Wish audience success"
             ]
         }
     ]

@@ -5,144 +5,272 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Operating combine harvester",
+            "task": "Plowing the field",
             "subtasks": [
-                "Operating the combine's controls to harvest corn",
-                "Adjusting the combine settings for optimal corn collection",
-                "Maintaining the combine guard to prevent bird ingress",
-                "Handling the combine during turning and field navigation"
+                "Sit on the tractor seat",
+                "Grip the steering wheel to control direction",
+                "Adjust the plow depth manually",
+                "Oversee the plowing operation to ensure straight rows"
             ]
         },
         {
-            "task": "Climbing into the combine",
+            "task": "Attaching the plow to the tractor",
             "subtasks": [
-                "Ascending onto the combine's cab using a ladder",
-                "Entry into the combine's operator seat"
+                "Lower the plow onto the hitch of the tractor",
+                "Secure the plow to the tractor using bolts or pins",
+                "Check the attachment for stability before starting the tractor"
             ]
         },
         {
-            "task": "Loading combine hopper",
+            "task": "Loading the tractor trailer",
             "subtasks": [
-                "Guiding corn into the combine's hopper",
-                "Monitoring hopper capacity and directing flow"
+                "Load hay bales or crops into the trailer bed",
+                "Secure the load with straps or nets",
+                "Balance the load to prevent uneven weight distribution"
             ]
         },
         {
-            "task": "Using the combine's GPS for navigation",
+            "task": "Walking behind the plowed field",
             "subtasks": [
-                "Activating the GPS system",
-                "Adjusting GPS settings for field boundaries",
-                "Following the GPS route during harvesting"
+                "Monitor for uneven ground that may damage equipment",
+                "Check for any signs of equipment malfunctions",
+                "Manual seeding if necessary after plowing"
             ]
         },
         {
-            "task": "Dealing with bird interference",
+            "task": "Driving the tractor while attached to the equipment (e.g., plow, trailer)",
             "subtasks": [
-                "Checking the combine guard for hotspots",
-                "Shooting birds away with a shotgun",
-                "Continuously monitoring the scene for birds"
+                "Monitor speed and grading of the road while driving",
+                "Adjust throttle and gear shifts for optimal performance",
+                "React to terrain changes without causing equipment damage"
             ]
         },
         {
-            "task": "Responding to low fuel levels",
+            "task": "Unloading the trailer",
             "subtasks": [
-                "Checking fuel gauge",
-                "Refueling the combine while operating"
+                "Unfasten securing straps or nets",
+                "Lift the bales or crops from the trailer bed",
+                "Stack or distribute the load as needed"
             ]
         },
         {
-            "task": "Operating combine harvester",
+            "task": "Ensuring documented preservation and handover of the equipment",
             "subtasks": [
-                "Operating the combine's controls to harvest corn",
-                "Adjusting the combine settings for optimal corn collection",
-                "Maintaining the combine guard to prevent bird ingress",
-                "Handling the combine during turning and field navigation"
+                "Check maintenance records to ensure regular servicing",
+                "Inspect equipment for wear or damage before use"
             ]
         },
         {
-            "task": "Climbing into the combine",
+            "task": "Maintenance of tractor and equipment",
             "subtasks": [
-                "Ascending onto the combine's cab using a ladder",
-                "Entry into the combine's operator seat"
+                "Schedule regular oil changes and filter replacements",
+                "Grease or lubricate moving parts as needed",
+                "Inspect tires for wear and adjust air pressure"
             ]
         },
         {
-            "task": "Loading combine hopper",
+            "task": "Monitoring weather conditions",
             "subtasks": [
-                "Guiding corn into the combine's hopper",
-                "Monitoring hopper capacity and directing flow"
+                "Check forecasts to plan plowing instead of during rain",
+                "Adjust operations based on current conditions (e.g., drying soil after rain)"
             ]
         },
         {
-            "task": "Using the combine's GPS for navigation",
+            "task": "Dig out the front pan from the plow",
             "subtasks": [
-                "Activating the GPS system",
-                "Adjusting GPS settings for field boundaries",
-                "Following the GPS route during harvesting"
+                "Identify the stuck pan part",
+                "Remove the plow from the tractor",
+                "Use a spade or shovel to dig out the soil and debris",
+                "Clean the pan and replace any damaged parts"
             ]
         },
         {
-            "task": "Dealing with bird interference",
+            "task": "Feeding the horses",
             "subtasks": [
-                "Checking the combine guard for hotspots",
-                "Shooting birds away with a shotgun",
-                "Continuously monitoring the scene for birds"
+                "Locate feed and water for the horses",
+                "Measure the appropriate amount of feed",
+                "Groom the horses to ensure cleanliness and prepare for work",
+                "Lead the horses to the field or stable"
             ]
         },
         {
-            "task": "Responding to low fuel levels",
+            "task": "Driving the horses in a harness",
             "subtasks": [
-                "Checking fuel gauge",
-                "Refueling the combine while operating"
+                "Secure the horse collar to the harness",
+                "Attach the harness to the plow or other farming equipment",
+                "Adjust the fit of the horse\u2019s harness for safety",
+                "Mount the horse or lead them with reins",
+                "Guide the horse through the plowing process"
             ]
         },
         {
-            "task": "Operating Combine Harvester",
-            "subtasks": []
+            "task": "Transport and organize the seed carts",
+            "subtasks": [
+                "Collect seed carts from the field",
+                "Ensure each cart has the correct type of seeds",
+                "Distribute the seeds onto the plowed field evenly",
+                "Refill the seed carts as necessary during long days"
+            ]
         },
         {
-            "task": "Climbing into the Combine",
-            "subtasks": []
+            "task": "Moving the sand (for mixing with seeds)",
+            "subtasks": [
+                "Transport sand from the storage area to the mixing station",
+                "Pour sand into the seed carts evenly",
+                "Distribute sand on the plowed ground as directed"
+            ]
         },
         {
-            "task": "Loading Combine Hopper",
-            "subtasks": []
+            "task": "Extinguishing a grass or forest fire",
+            "subtasks": [
+                "Assess the size and location of the fire",
+                "Retrieve fire extinguishing equipment (hose, bucket, etc.)",
+                "Attempt to contain the fire before it spreads",
+                "Communicate with neighbors or emergency services if necessary"
+            ]
         },
         {
-            "task": "Using the Combine's GPS for Navigation",
-            "subtasks": []
+            "task": "Removing the plow from the tractor",
+            "subtasks": [
+                "Detach the plow using the tractor\u2019s hydraulic system",
+                "Position the plow on a flat surface for maintenance or storage"
+            ]
         },
         {
-            "task": "Dealing with Bird Interference",
-            "subtasks": []
+            "task": "Repairing the plow parts",
+            "subtasks": [
+                "Identify the broken or damaged sections of the plow",
+                "Use tools to disassemble the plow for repair",
+                "Apply welds or patches as necessary",
+                "Reassemble the plow and test its function"
+            ]
         },
         {
-            "task": "Responding to Low Fuel Levels",
-            "subtasks": []
-        },
-        {
-            "task": "Operating combine harvester",
-            "subtasks": []
-        },
-        {
-            "task": "Climbing into the combine",
-            "subtasks": []
-        },
-        {
-            "task": "Loading combine hopper",
-            "subtasks": []
-        },
-        {
-            "task": "Using the combine's GPS for navigation",
-            "subtasks": []
-        },
-        {
-            "task": "Dealing with bird interference",
-            "subtasks": []
-        },
-        {
-            "task": "Responding to low fuel levels",
-            "subtasks": []
+            "task": "Shifting gears on the tractor while in motion",
+            "subtasks": [
+                "Observe traffic signs and road conditions",
+                "Smoothly change gears to transition between different paces",
+                "Ensure smooth operation when moving from plowing to straight driving",
+                "Check the attachment for stability before starting the tractor), this suggests regular checks to prevent issues, akin to a pre-operation inspection. Hence, this task reflects a general practice in machinery use, but its specific mention in the transcript is when the attachment is being secured.",
+                "Sit on the tractor seat",
+                "Grip the steering wheel to control direction",
+                "Adjust the plow depth manually",
+                "Oversee the plowing operation to ensure straight rows",
+                "Lower the plow onto the hitch of the tractor",
+                "Secure the plow to the tractor using bolts or pins",
+                "Check the attachment for stability before starting the tractor",
+                "Load hay bales or crops into the trailer bed",
+                "Secure the load with straps or nets",
+                "Balance the load to prevent uneven weight distribution",
+                "Monitor for uneven ground that may damage equipment",
+                "Check for any signs of equipment malfunctions",
+                "Manual seeding if necessary after plowing",
+                "Monitor speed and grading of the road while driving",
+                "Adjust throttle and gear shifts for optimal performance",
+                "React to terrain changes without causing equipment damage",
+                "Unfasten securing straps or nets",
+                "Lift the bales or crops from the trailer bed",
+                "Stack or distribute the load as needed",
+                "Check maintenance records to ensure regular servicing",
+                "Inspect equipment for wear or damage before use",
+                "Schedule regular oil changes and filter replacements",
+                "Grease or lubricate moving parts as needed",
+                "Inspect tires for wear and adjust air pressure",
+                "Check forecasts to plan plowing instead of during rain",
+                "Adjust operations based on current conditions (e.g., drying soil after rain)",
+                "Identify the stuck pan part",
+                "Remove the plow from the tractor",
+                "Use a spade or shovel to dig out the soil and debris",
+                "Clean the pan and replace any damaged parts",
+                "Locate feed and water for the horses",
+                "Measure the appropriate amount of feed",
+                "Groom the horses to ensure cleanliness and prepare for work",
+                "Lead the horses to the field or stable",
+                "Secure the horse collar to the harness",
+                "Attach the harness to the plow or other farming equipment",
+                "Adjust the fit of the horse\u2019s harness for safety",
+                "Mount the horse or lead them with reins",
+                "Guide the horse through the plowing process",
+                "Collect seed carts from the field",
+                "Ensure each cart has the correct type of seeds",
+                "Distribute the seeds onto the plowed field evenly",
+                "Refill the seed carts as necessary during long days",
+                "Transport sand from the storage area to the mixing station",
+                "Pour sand into the seed carts evenly",
+                "Distribute sand on the plowed ground as directed",
+                "Assess the size and location of the fire",
+                "Retrieve fire extinguishing equipment (hose, bucket, etc.)",
+                "Attempt to contain the fire before it spreads",
+                "Communicate with neighbors or emergency services if necessary",
+                "Detach the plow using the tractor\u2019s hydraulic system",
+                "Position the plow on a flat surface for maintenance or storage",
+                "Identify the broken or damaged sections of the plow",
+                "Use tools to disassemble the plow for repair",
+                "Apply welds or patches as necessary",
+                "Reassemble the plow and test its function",
+                "Observe traffic signs and road conditions",
+                "Smoothly change gears to transition between different paces",
+                "Ensure smooth operation when moving from plowing to straight driving",
+                "Sit on the tractor seat",
+                "Grip the steering wheel to control direction",
+                "Adjust the plow depth manually",
+                "Oversee the plowing operation to ensure straight rows",
+                "Lower the plow onto the hitch of the tractor",
+                "Secure the plow to the tractor using bolts or pins",
+                "Check the attachment for stability before starting the tractor",
+                "Load hay bales or crops into the trailer bed",
+                "Secure the load with straps or nets",
+                "Balance the load to prevent uneven weight distribution",
+                "Monitor for uneven ground that may damage equipment",
+                "Check for any signs of equipment malfunctions",
+                "Manual seeding if necessary after plowing",
+                "Monitor speed and grading of the road while driving",
+                "Adjust throttle and gear shifts for optimal performance",
+                "React to terrain changes without causing equipment damage",
+                "Unfasten securing straps or nets",
+                "Lift the bales or crops from the trailer bed",
+                "Stack or distribute the load as needed",
+                "Check maintenance records to ensure regular servicing",
+                "Inspect equipment for wear or damage before use",
+                "Schedule regular oil changes and filter replacements",
+                "Grease or lubricate moving parts as needed",
+                "Inspect tires for wear and adjust air pressure",
+                "Check forecasts to plan plowing instead of during rain",
+                "Adjust operations based on current conditions (e.g., drying soil after rain)",
+                "Identify the stuck pan part",
+                "Remove the plow from the tractor",
+                "Use a spade or shovel to dig out the soil and debris",
+                "Clean the pan and replace any damaged parts",
+                "Locate feed and water for the horses",
+                "Measure the appropriate amount of feed",
+                "Groom the horses to ensure cleanliness and prepare for work",
+                "Lead the horses to the field or stable",
+                "Secure the horse collar to the harness",
+                "Attach the harness to the plow or other farming equipment",
+                "Adjust the fit of the horse\u2019s harness for safety",
+                "Mount the horse or lead them with reins",
+                "Guide the horse through the plowing process",
+                "Collect seed carts from the field",
+                "Ensure each cart has the correct type of seeds",
+                "Distribute the seeds onto the plowed field evenly",
+                "Refill the seed carts as necessary during long days",
+                "Transport sand from the storage area to the mixing station",
+                "Pour sand into the seed carts evenly",
+                "Distribute sand on the plowed ground as directed",
+                "Assess the size and location of the fire",
+                "Retrieve fire extinguishing equipment (hose, bucket, etc.)",
+                "Attempt to contain the fire before it spreads",
+                "Communicate with neighbors or emergency services if necessary",
+                "Detach the plow using the tractor\u2019s hydraulic system",
+                "Position the plow on a flat surface for maintenance or storage",
+                "Identify the broken or damaged sections of the plow",
+                "Use tools to disassemble the plow for repair",
+                "Apply welds or patches as necessary",
+                "Reassemble the plow and test its function",
+                "Observe traffic signs and road conditions",
+                "Smoothly change gears to transition between different paces",
+                "Ensure smooth operation when moving from plowing to straight driving"
+            ]
         }
     ]
 }

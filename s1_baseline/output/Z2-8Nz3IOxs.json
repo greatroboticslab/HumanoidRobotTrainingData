@@ -5,193 +5,39 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Enter and exit a vehicle",
+            "task": "Load a hay wagon onto a truck",
             "subtasks": [
-                "Open driver's side door of vehicle",
-                "Sit in driver's seat",
-                "Secure seatbelt",
-                "Close driver's side door of vehicle"
+                "Approach the hay wagon",
+                "Grasp the wagon's handlebars",
+                "Lift the wagon onto the truck bed",
+                "Secure the wagon on the truck using ties"
             ]
         },
         {
-            "task": "Drive a tractor through fields",
+            "task": "Drive the truck to the desired location",
             "subtasks": [
-                "Engage tractor transmission",
-                "Operate steering wheel to navigate through fields",
-                "Adjust speed using clutch and accelerator pedals"
+                "Position the truck next to the hay stack",
+                "Disengage the truck's braking system",
+                "Maneuver the truck to align the wagon with the hay stack"
             ]
         },
         {
-            "task": "Operate implements on the tractor",
+            "task": "Offload hay from the wagon",
             "subtasks": [
-                "Attach plow to front of tractor",
-                "Engage hydraulics to lower plow",
-                "Operate steering to drive over rows",
-                "Disengage hydraulics to raise plow",
-                "Detach plow from tractor",
-                "Attach harrow to front of tractor",
-                "Engage hydraulics to lower harrow",
-                "Pull harrow over rows behind tractor",
-                "Drive tractor around turn in field, adjusting orientation",
-                "Disengage hydraulics to lift harrow",
-                "Detach harrow from tractor"
+                "Untie the wagon from the truck",
+                "Lower the wagon onto the ground",
+                "Lift the hay bales from the wagon",
+                "Carry the hay bales to the hay stack",
+                "Place the hay bales onto the existing stack"
             ]
         },
         {
-            "task": "Return vehicle to shed",
+            "task": "Return the wagon to the hay field",
             "subtasks": [
-                "Drive tractor towards shed",
-                "Align tractor with entrance",
-                "Navigate through shed door",
-                "Park tractor in designated spot",
-                "Turn off engine",
-                "Exit vehicle by opening driver's side door",
-                "Close driver's side door of vehicle"
+                "Haul the empty wagon back to the field",
+                "Park the truck in an available spot",
+                "Secure the wagon in place for the next use"
             ]
-        },
-        {
-            "task": "Detach implements and place in storage",
-            "subtasks": [
-                "Lift plow off front of tractor using hydraulics",
-                "Disconnect plow from three-point hitch",
-                "Transport plow to storage area",
-                "Store plow vertically against wall",
-                "Repeat steps for harvesting machine",
-                "Elevate and remove rear section of harvesting machine",
-                "Place harvest forks in stackers",
-                "Roll rear section of machine towards storage",
-                "Lower rear section onto stackers for storage",
-                "Close access door to machine storage area"
-            ]
-        },
-        {
-            "task": "Check fuel levels and refill if necessary",
-            "subtasks": [
-                "Locate fuel tank on vehicle",
-                "Check fuel gauge",
-                "If necessary, drive to fuel station",
-                "Purchase fuel and return",
-                "Refuel tractor at designated pump"
-            ]
-        },
-        {
-            "task": "Clean tractor and implement",
-            "subtasks": [
-                "Remove surface dirt and debris from tractor with brush",
-                "Inspect hydraulic systems for leaks",
-                "Lubricate moving parts with oil"
-            ]
-        },
-        {
-            "task": "Apply seals and wax",
-            "subtasks": [
-                "Check seals for wear and replace as necessary",
-                "Apply protective wax to painted surfaces"
-            ]
-        },
-        {
-            "task": "Drive tractor on public roads",
-            "subtasks": [
-                "Signal turn using turn signal",
-                "Check mirrors for traffic",
-                "Accelerate and merge onto main road",
-                "Travel to market on public road"
-            ]
-        },
-        {
-            "task": "Load produce onto vehicle",
-            "subtasks": [
-                "Pick produce from fields",
-                "Place produce into baskets or crates",
-                "Load baskets/crates into bed of vehicle",
-                "Secure produce with straps or tarp"
-            ]
-        },
-        {
-            "task": "Hand wash dishes at home",
-            "subtasks": []
-        },
-        {
-            "task": "Tend to children's needs at home",
-            "subtasks": []
-        },
-        {
-            "task": "Check in with daughter at school",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare for next day",
-            "subtasks": []
-        },
-        {
-            "task": "Refuel the farm vehicle",
-            "subtasks": []
-        },
-        {
-            "task": "Work as a lawyer",
-            "subtasks": []
-        },
-        {
-            "task": "Mow the lawn",
-            "subtasks": []
-        },
-        {
-            "task": "Wash a car",
-            "subtasks": []
-        },
-        {
-            "task": "Take out the garbage",
-            "subtasks": []
-        },
-        {
-            "task": "Remove a fence panel",
-            "subtasks": []
-        },
-        {
-            "task": "Replace a fence panel",
-            "subtasks": [
-                "Push the fence panels to close any gaps"
-            ]
-        },
-        {
-            "task": "Clean windows",
-            "subtasks": []
-        },
-        {
-            "task": "Paint a room",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare for dinner",
-            "subtasks": []
-        },
-        {
-            "task": "Exercise at the gym",
-            "subtasks": []
-        },
-        {
-            "task": "Make bed",
-            "subtasks": []
-        },
-        {
-            "task": "Prepare feeding the steers manure",
-            "subtasks": []
-        },
-        {
-            "task": "Apply clay/plaster to face",
-            "subtasks": []
-        },
-        {
-            "task": "Go to the public pool",
-            "subtasks": []
-        },
-        {
-            "task": "Plan and plant a vegetable garden",
-            "subtasks": []
-        },
-        {
-            "task": "Attend a family gathering",
-            "subtasks": []
         }
     ]
 }

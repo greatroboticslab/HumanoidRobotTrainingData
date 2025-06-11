@@ -5,35 +5,57 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Ford Challenger tractor operator applies fertilizer to soybean fields",
+            "task": "Entering and observing a YouTube video**",
             "subtasks": [
-                "Sit in the cab of a Ford Challenger tractor",
-                "Engage with the dashboard controls to navigate to soybean fields",
-                "Attach a fertilizer spreader to the tractor",
-                "Operate the fertilizer spreader to apply fertilizer",
-                "Monitor the application and make adjustments as necessary"
+                "Navigate to and open YouTube**",
+                "Search for or locate the specified video**",
+                "Click on the video to start playing**",
+                "Position oneself in a seated or standing posture to view the monitor or screen**"
             ]
         },
         {
-            "task": "Planting seeds in soybean fields",
+            "task": "Engaging in a non-farming conversation**",
             "subtasks": [
-                "Enter the soybean field",
-                "Operate the tractor's hitch to couple a seed planting implement",
-                "Follow the rows while planting seeds at the correct depth",
-                "Adjust planting speed and depth as needed",
-                "Check seedlings emergence once planted"
+                "Process the greeting and question about liking something (unspecified)**",
+                "Understand the reference to \"Industry social squared\" (possibly a name or platform)**",
+                "Participate in the casual conversation by providing a response (if applicable)**"
             ]
         },
         {
-            "task": "Operating a combine harvester during soybean harvest",
+            "task": "Sharing a video with an audience**",
             "subtasks": [
-                "Drive the combine harvester to the soybean field",
-                "Attach the combine harvester to the tractor or self-propelled unit",
-                "Start the combine and calibrate it for soybean harvesting",
-                "Monitor grain flow and adjust settings for optimal efficiency",
-                "Empty the grain tank periodically and drive to storage location",
-                "Sort and clean harvested soybeans as needed"
+                "Consider the context and purpose of sharing the video**",
+                "Formulate a comment or description to accompany the video share (if applicable)**",
+                "Compose an initial thought or observation about the video (e.g., \"I'll share another video\")**"
             ]
+        },
+        {
+            "task": "Navigating a tractor during a grain harvest.",
+            "subtasks": []
+        },
+        {
+            "task": "Entering and observing a YouTube video",
+            "subtasks": []
+        },
+        {
+            "task": "Engaging in a non-farming conversation",
+            "subtasks": []
+        },
+        {
+            "task": "Sharing a video with an audience",
+            "subtasks": []
+        },
+        {
+            "task": "Entering and Observing a YouTube Video**",
+            "subtasks": []
+        },
+        {
+            "task": "Engaging in a Non-Farming Conversation**",
+            "subtasks": []
+        },
+        {
+            "task": "Sharing a Video with an Audience**",
+            "subtasks": []
         }
     ]
 }

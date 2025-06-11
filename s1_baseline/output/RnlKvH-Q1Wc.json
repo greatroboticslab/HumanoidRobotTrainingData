@@ -5,92 +5,156 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Attach a hitch to a plough.",
+            "task": "Farming activities",
             "subtasks": [
-                "Approach the plough.",
-                "Locate the hitch mechanism.",
-                "Align the hitch with the appropriate coupling on the tractor.",
-                "Secure the hitch into the coupling."
+                "Operating a tractor",
+                "Driving a four-wheeler",
+                "Harvesting crops",
+                "Checking soil moisture",
+                "Applying fertilizer",
+                "Planting seeds",
+                "Managing farm equipment"
             ]
         },
         {
-            "task": "Engage the plough.",
+            "task": "Farm management",
             "subtasks": [
-                "Ensure the plough is properly attached to the tractor.",
-                "Move to the front of the tractor to operate the plough.",
-                "Activate the plough mechanism to prepare the soil."
+                "Planning crop rotation",
+                "Monitoring weather conditions",
+                "Maintaining records"
             ]
         },
         {
-            "task": "Drive the tractor forward.",
+            "task": "Farm animal care",
             "subtasks": [
-                "Sit in the\u9a7e\u9a76 seat of the tractor.",
-                "Start the tractor engine.",
-                "Adjust the speed to a suitable rate for ploughing.",
-                "Begin moving the tractor slowly forward.",
-                "Operate the steering to direct the tractor along the desired path."
+                "Feeding livestock",
+                "Checking animals for health issues",
+                "Collecting eggs (if applicable)"
             ]
         },
         {
-            "task": "Monitor the soil preparation.",
+            "task": "Land maintenance",
             "subtasks": [
-                "Observe the plough action to check depth and coverage.",
-                "Adjust the plough settings or tractor speed as needed.",
-                "Ensure even coverage across the field."
+                "Clearing debris from fields",
+                "Tilling land",
+                "Planting cover crops"
             ]
         },
         {
-            "task": "Disengage the plough.",
+            "task": "Irrigation and water management",
             "subtasks": [
-                "Reverse the tractor to reach the plough.",
-                "Deactivate the plough mechanism.",
-                "Detach the plough from the tractor."
+                "Checking watering system",
+                "Fixing leaks"
             ]
         },
         {
-            "task": "Return the tractor to the starting point.",
+            "task": "Equipment maintenance",
             "subtasks": [
-                "Drive the tractor back to the original position.",
-                "Energize the breaks to stop the tractor properly."
+                "Cleaning farming tools and machines",
+                "Sharpening blades"
             ]
         },
         {
-            "task": "Complete the soil preparation task.",
+            "task": "Sales and customer interaction",
             "subtasks": [
-                "Ensure all areas of the field have been adequately prepared.",
-                "Address any remaining areas that require additional passes."
+                "Selling produce at market",
+                "Packaging crops"
             ]
         },
         {
-            "task": "Disengage the hitch from the plough.",
+            "task": "Driving and transportation",
             "subtasks": [
-                "Approach the plough.",
-                "Locate the coupling on the plough.",
-                "Guide the hitch out of the coupling.",
-                "Verify the hitch is fully disengaged."
+                "Loading and unloading farm products"
             ]
         },
         {
-            "task": "Secure the plough for transportation.",
+            "task": "Heavy lifting and moving",
             "subtasks": [
-                "Position the plough in a manner suitable for moving the vehicle.",
-                "Ensure the plough is stable and secure on the tractor."
+                "Moving bales of hay"
             ]
         },
         {
-            "task": "Drive the tractor with attached plough to a storage area.",
+            "task": "General farm duties",
             "subtasks": [
-                "Navigate the tractor to the desired location.",
-                "Park the tractor properly, ensuring the plough is in the correct position.",
-                "Apply breaks to stop the tractor."
+                "Walking through fields inspecting growth",
+                "Climbing into equipment for maintenance",
+                "So finalizing the list, MAINTASKs would each cover a broad category, and the SUBTASKs are specific actions within each MAINTASK. For instance, under Farming activities, we have subtasks like operating a tractor, driving a four-wheeler, harvesting, checking soil moisture, etc."
             ]
         },
         {
-            "task": "Reflect on the day's work.",
+            "task": "Farming activities",
             "subtasks": [
-                "Consider the efficiency of the operation.",
-                "Identify any areas for improvement during the next ploughing session.",
-                "The original question instructed to generate tasks based on the video transcript related to physical farming activities. The transcript describes tasks involving a tractor and a plough, so the breakdown focuses on attaching and detaching the plough, operating the tractor for soil preparation, monitoring progress, and storing the equipment afterward. Each main task (MAINTASK) represents a major step in the process, with subtasks (SUBTASK) detailing the individual actions required for each main step. For example, \"Attach a hitch to a plough\" has subtasks like approaching the plough, locating the hitch mechanism, aligning it, and securing it. The tasks are ordered logically, from preparing the equipment to finishing the job and securing the tools, ensuring a complete workflow relevant to agricultural operations. This answer structure aligns with the instruction to make tasks general and break them down into sub-tasks, providing a clear sequence of physical actions a person would perform in this farming scenario. The response is concise and directly addresses the prompt's requirements."
+                "Operating a tractor",
+                "Driving a four-wheeler",
+                "Harvesting crops",
+                "Checking soil moisture",
+                "Applying fertilizer",
+                "Planting seeds",
+                "Managing farm equipment"
+            ]
+        },
+        {
+            "task": "Farm management",
+            "subtasks": [
+                "Planning crop rotation",
+                "Monitoring weather conditions",
+                "Maintaining records"
+            ]
+        },
+        {
+            "task": "Farm animal care",
+            "subtasks": [
+                "Feeding livestock",
+                "Checking animals for health issues",
+                "Collecting eggs (if applicable)"
+            ]
+        },
+        {
+            "task": "Land maintenance",
+            "subtasks": [
+                "Clearing debris from fields",
+                "Tilling land",
+                "Planting cover crops"
+            ]
+        },
+        {
+            "task": "Irrigation and water management",
+            "subtasks": [
+                "Checking watering system",
+                "Fixing leaks"
+            ]
+        },
+        {
+            "task": "Equipment maintenance",
+            "subtasks": [
+                "Cleaning farming tools and machines",
+                "Sharpening blades"
+            ]
+        },
+        {
+            "task": "Sales and customer interaction",
+            "subtasks": [
+                "Selling produce at market",
+                "Packaging crops"
+            ]
+        },
+        {
+            "task": "Driving and transportation",
+            "subtasks": [
+                "Loading and unloading farm products"
+            ]
+        },
+        {
+            "task": "Heavy lifting and moving",
+            "subtasks": [
+                "Moving bales of hay"
+            ]
+        },
+        {
+            "task": "General farm duties",
+            "subtasks": [
+                "Walking through fields inspecting growth",
+                "Climbing into equipment for maintenance"
             ]
         }
     ]

@@ -5,42 +5,54 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Apply fertilizer to the rice field after planting.",
+            "task": "Planting and fertilizer application in rice field",
             "subtasks": [
-                "Use smartphone application for field-specific fertilizer recommendation.",
-                "Determine correct amount of 14-14-14 fertilizer (4 bags per hectare for a quarter-hectare field).",
-                "Divide the field into sections (e.g., four strips about six meters wide) for even distribution.",
-                "Toss the fertilizer uniformly over the field, avoiding walking in the middle.",
-                "Apply the fertilizer close to the rice plants to improve nutrient uptake, considering potential for future machine enhancements."
+                "Answering questions about crop field for fertilizer recommendation",
+                "Using mobile app for precise fertilizer prescription",
+                "Calculating fertilizer quantity for the field",
+                "Distributing the fertilizer uniformly on the field",
+                "Reviewing previous methods and techniques for better application"
             ]
         },
         {
-            "task": "Apply fertilizer to the rice field after planting. Then, what are the subtasks involved? To apply the fertilizer correctly, they first need to use the mobile app to get the right recommendation. So that's a subtask: Use smartphone application for field-specific fertilizer recommendation. Then, they need to calculate the amount of fertilizer per the recommendation. Since the field is a quarter of a hectare and the recommendation is 4 bags per hectare of 14-14-14 fertilizer, they need to figure that out\u2014it's 1 bag for this quarter-hectare field.",
+            "task": "Planting and fertilizer application in rice field",
+            "subtasks": [
+                "Answering questions about crop field for fertilizer recommendation",
+                "Calculating fertilizer quantity for the field",
+                "Distributing the fertilizer uniformly on the field",
+                "Reviewing previous methods and techniques for better application"
+            ]
+        },
+        {
+            "task": "Planting and fertilizer application in rice field",
+            "subtasks": [
+                "Answering questions about crop field for fertilizer recommendation",
+                "Calculating fertilizer quantity for the field",
+                "Distributing the fertilizer uniformly on the field",
+                "Reviewing previous methods and techniques for better application"
+            ]
+        },
+        {
+            "task": "MAINTASK: Planting and fertilizer application in rice field",
+            "subtasks": [
+                "Answering questions about crop field for fertilizer recommendation",
+                "Calculating fertilizer quantity for the field",
+                "Distributing the fertilizer uniformly on the field",
+                "Reviewing previous methods and techniques for better application"
+            ]
+        },
+        {
+            "task": "Planting and fertilizer application in rice field",
+            "subtasks": [
+                "Answering questions about crop field for fertilizer recommendation",
+                "Calculating fertilizer quantity for the field",
+                "Distributing the fertilizer uniformly on the field",
+                "Reviewing previous methods and techniques for better application"
+            ]
+        },
+        {
+            "task": "Planting and fertilizer application in rice field**",
             "subtasks": []
-        },
-        {
-            "task": "Apply fertilizer to the rice field after planting.",
-            "subtasks": []
-        },
-        {
-            "task": "Apply fertilizer to the rice field after planting.",
-            "subtasks": [
-                "Use smartphone application (Nutrient Manager for RISE) to get field-specific fertilizer recommendation.",
-                "Calculate the correct amount of 14-14-14 fertilizer (1 bag for this quarter-hectare field).",
-                "Divide the field into sections (four 6-meter wide strips) for even distribution.",
-                "Apply the fertilizer by tossing it from the side, using a wide arm swing, moving across the field.",
-                "Apply the full recommended amount, adjusting for variety-specific needs (extra on hybrid strip if any is left over)."
-            ]
-        },
-        {
-            "task": "MAINTASK: Apply fertilizer to the rice field after planting.",
-            "subtasks": [
-                "Use smartphone application (Nutrient Manager for RISE) for field-specific recommendation.",
-                "Calculate 1 bag (14-14-14) of fertilizer for the quarter-hectare field.",
-                "Divide the field into four 6-meter wide strips for even distribution.",
-                "Toss fertilizer from the side, using wide arm swings during application.",
-                "Apply full recommendation, adjusting by adding leftover to the hybrid strip."
-            ]
         }
     ]
 }

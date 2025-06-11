@@ -8,30 +8,31 @@
             "task": "Harvest raspberries",
             "subtasks": [
                 "Drive raspberry harvester",
-                "Navigate rows of raspberry bushes",
-                "Collect ripe raspberries"
+                "Move along raspberry rows"
             ]
         },
         {
-            "task": "Operate raspberry harvester",
+            "task": "Watch agricultural harvest",
             "subtasks": [
-                "Start harvester",
-                "Adjust harvester settings",
-                "Monitor harvester operation"
+                "Observe raspberry harvesting"
             ]
         },
         {
-            "task": "Monitor raspberry harvest",
+            "task": "Harvest raspberries with sub-tasks driving the harvester and moving through the rows. Then since it's a video, the viewing aspect is there, so the agricultural enthusiasts are observing. But unless there's a specific task for that, maybe just mention it as part of the experience. However, I need to make sure I stick to generating tasks and subtasks related to physical actions a person would have to perform. So the maintask is the harvest, with subtasks driving and moving. Any other related tasks? If the harvester needs to be started or turned on, that might be a subtask. Let me think. If the person is operating the harvester, then they would have to start it before moving along. Yeah, so maybe \"Start raspberry harvester\" is a subtask. But the transcript doesn't mention starting. Let me check. The transcript says: \"a raspberry harvester moves along each row of raspberry bushes.\" So there's no mention of starting it. It's already in motion. So probably the operator would have to start it beforehand, but that's not part of the scene. So maybe the operator just drives it once it's set up. So perhaps Raspberry harvester is moving already, so maybe operating involves just driving. Furthermore, in real life, before moving along the rows, you might have to set up the harvester, calibrate it, maybe check the raspberries, but again, the transcript doesn't mention those actions. So perhaps with the information given, the main physical task is operating the harvester during the harvest. So those would be two subtasks: driving the harvester and moving along the rows. So that's it for the harvesting side. For the agricultural enthusiasts, perhaps there wasn't any task other than observing, but since it's the \"witnessing stunning scenes\" perhaps they are just passive observers. So maybe I can note that the agricultural enthusiasts are observing, but since the question is about generating tasks based on the transcript, maybe the task is for a person who is part of the audience, but the transcript is not about them. Wait, the question says, \"generate a series of tasks based on the transcript that a person would have to perform.\" So a person (the viewer) wouldn't have to perform tasks, but perhaps get a sense of what tasks they might see. But the transcript itself doesn't mention anyone except possibly the harvester operator. So perhaps the main maintask is the harvest, and just that. The music and greeting seem like introductory stuff, not tasks. Rereading the transcript: \"Hello agriculture enthusiasts. Today we will explore some incredible moments in agriculture together. Get ready to witness stunning scenes from the harvest season, where the fruits of labor are gathered. Around June or July, when raspberries turn sweet and red, it's the perfect time for harvest. A raspberry harvester moves along each row of raspberry bushes.\" So the majority of the transcript is setting up the scene for the harvest. But the key point is the harvest itself, with the harvester. So given that, I think the tasks would be those. Therefore, final answer:",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest raspberries",
             "subtasks": [
-                "Check raspberry ripeness",
-                "Ensure even coverage of the rows"
+                "Drive raspberry harvester",
+                "Move along raspberry rows"
             ]
         },
         {
-            "task": "Gather raspberries",
+            "task": "Harvest raspberries",
             "subtasks": [
-                "Collect berries from harvester",
-                "Sort and store ripe berries"
+                "Drive raspberry harvester",
+                "Move along raspberry rows"
             ]
         }
     ]

@@ -5,252 +5,110 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Load a pickup truck with hay.",
+            "task": "Entering the farm",
             "subtasks": [
-                "Approach the hay pile.",
-                "Lift hay bales onto the pickup bed.",
-                "Stack hay bales neatly in the truck bed."
+                "Walk towards the gate",
+                "Open the gate",
+                "Go through the gate",
+                "Close the gate"
             ]
         },
         {
-            "task": "Drive the pickup truck to the field.",
+            "task": "Boarding the combine harvester",
             "subtasks": [
-                "Enter the pickup truck.",
-                "Fasten seatbelt.",
-                "Start the engine.",
-                "Drive the truck to the destination field."
+                "Approach the combine harvester",
+                "Climb onto the cab",
+                "Secure seat belt"
             ]
         },
         {
-            "task": "Unload hay from the pickup truck.",
+            "task": "Starting the combine harvester",
             "subtasks": [
-                "Park the truck near the field.",
-                "Open the pickup bed.",
-                "Remove hay bales from the truck bed.",
-                "Stack or arrange hay bales in the field."
+                "Locate the key",
+                "Insert key into ignition",
+                "Turn key to start engine"
             ]
         },
         {
-            "task": "Cut hay with a riding mower.",
+            "task": "Checking the combines operation",
             "subtasks": [
-                "Mount the riding mower.",
-                "Drive the mower through the hayfield.",
-                "Mow the hay, cutting it to the desired height."
+                "Monitor all displays",
+                "Adjust levers and controls",
+                "Inspect gauge readings"
             ]
         },
         {
-            "task": "Bales hay using a baler.",
+            "task": "Planting the combine harvester",
             "subtasks": [
-                "Operate the baler to collect cut hay.",
-                "Press hay into tightly rolled bales.",
-                "Secure bales when full."
+                "Operate the harvester to cut the wheat",
+                "Adjust height of cutterbars",
+                "Maintain proper speed"
             ]
         },
         {
-            "task": "Drive the baler to the hay yard.",
+            "task": "Ensuring a safe environment",
             "subtasks": [
-                "Guide the baler towards the hay storage area.",
-                "Align the baler with the hay pile.",
-                "Position the bales onto the hay yard."
+                "Clear any obstructions around the combine",
+                "Check surrounding area for animals",
+                "Keep watch for other machinery"
             ]
         },
         {
-            "task": "Remove excess hay from the baler.",
+            "task": "Communicating with crew",
             "subtasks": [
-                "Discharge any remaining hay from the baler.",
-                "Clean the baler to prevent problems."
+                "Coordinate with field workers",
+                "Instruct crew on harvesting procedures"
             ]
         },
         {
-            "task": "Apply fertilizer to the field.",
+            "task": "Take a break",
             "subtasks": [
-                "Assemble the fertilizer spreader.",
-                "Drive the spreader over the field.",
-                "Distribute fertilizer evenly across the field."
+                "Stop the combine harvester",
+                "Step out of the cab",
+                "Stretch legs, possibly have water"
             ]
         },
         {
-            "task": "Plant seeds using a seed planter.",
+            "task": "Reenter the combine harvester",
             "subtasks": [
-                "Prepare the seed planter for planting.",
-                "Drive the planter through the field, planting seeds at the correct depth and spacing."
+                "Climb back into the cab",
+                "Engage the key in ignition",
+                "Resume operation"
             ]
         },
         {
-            "task": "Operate a sprayer to apply pesticides.",
+            "task": "Discontinue operation",
             "subtasks": [
-                "Load the sprayer with the pesticide.",
-                "Drive the sprayer through the field, applying the pesticide uniformly."
+                "Shut down the engine",
+                "Wait for engine to cool",
+                "Exit the cab",
+                "Close the gate behind",
+                "Lock the gate if necessary",
+                "Head back towards the farmhouse (additionally as MAINTASK: Exiting the farm)",
+                "Walk towards the farmhouse",
+                "Enter the farmhouse",
+                "Take a shower or rest",
+                "Take off farming clothes",
+                "Eat dinner with family",
+                "Possibly watch TV or read a book"
             ]
         },
         {
-            "task": "Clean the farming equipment.",
+            "task": "Tasks outside (could imply the next day)",
             "subtasks": [
-                "Disassemble the machinery.",
-                "Wash each component thoroughly."
+                "Prepare breakfast",
+                "Feed livestock",
+                "Check crops in the fields",
+                "Apply fertilizer",
+                "Repair machinery",
+                "Plan for next season"
             ]
         },
         {
-            "task": "Maintain the horse and buggy.",
+            "task": "Conclude the day",
             "subtasks": [
-                "Check the horse\u2019s health and comfort.",
-                "Clean and groom the horse."
-            ]
-        },
-        {
-            "task": "Coach the student driver.",
-            "subtasks": [
-                "Give instructions on driving the buggy safely.",
-                "Observe the student\u2019s driving technique."
-            ]
-        },
-        {
-            "task": "Patrol the farm property.",
-            "subtasks": [
-                "Walk around the farm perimeter.",
-                "Check for any signs of damage or trespassing."
-            ]
-        },
-        {
-            "task": "Prepare meal for hired hands.",
-            "subtasks": [
-                "Procure ingredients from the kitchen.",
-                "Prepare and cook a nutritious meal."
-            ]
-        },
-        {
-            "task": "Feed the chickens.",
-            "subtasks": [
-                "Collect eggs from the chicken coop.",
-                "Distribute feed to the chickens."
-            ]
-        },
-        {
-            "task": "Groom the chickens.",
-            "subtasks": [
-                "Brush the chickens to keep them\u6574\u6d01."
-            ]
-        },
-        {
-            "task": "Repair a broken fence.",
-            "subtasks": [
-                "Locate the damaged section of the fence.",
-                "Gather and prepare the necessary materials.",
-                "Replace or mend the fence panels."
-            ]
-        },
-        {
-            "task": "Hunt small game on the farm.",
-            "subtasks": [
-                "Set up hunting equipment in a safe area."
-            ]
-        },
-        {
-            "task": "Apply agricultural film to protect crops.",
-            "subtasks": [
-                "Measure the appropriate amount of film for the field.",
-                "Roll out the agricultural film over the planted area.",
-                "Secure the edges of the film to prevent wind damage."
-            ]
-        },
-        {
-            "task": "Operate an irrigation system.",
-            "subtasks": [
-                "Start the irrigation pump or valves.",
-                "Adjust the flow rate to match the crop needs.",
-                "Monitor the system for leaks or issues."
-            ]
-        },
-        {
-            "task": "Transport livestock to the market.",
-            "subtasks": [
-                "Gather the animals to be sold.",
-                "Load them securely into a transport vehicle."
-            ]
-        },
-        {
-            "task": "Give a riding lesson to a student.",
-            "subtasks": [
-                "Prepare the riding area.",
-                "Demonstrate riding techniques and safety.",
-                "Supervise the student on horseback."
-            ]
-        },
-        {
-            "task": "Plant cover crops.",
-            "subtasks": [
-                "Choose suitable species for cover.",
-                "Prepare the soil by tilling.",
-                "Broadcast seeds or plant using a drill."
-            ]
-        },
-        {
-            "task": "Attend a farm meeting.",
-            "subtasks": [
-                "Locate the meeting location, which is in the office."
-            ]
-        },
-        {
-            "task": "Handle a medical emergency on the farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Organize a community work day at the farm.",
-            "subtasks": []
-        },
-        {
-            "task": "Collect milk from the dairy cows.",
-            "subtasks": [
-                "Check the milking schedule.",
-                "Prepare the milking equipment.",
-                "Attach milking machines or cups."
-            ]
-        },
-        {
-            "task": "Analyze soil samples to determine nutrient needs.",
-            "subtasks": [
-                "Collect soil samples from various fields.",
-                "Submit the samples to a laboratory for analysis.",
-                "Review the results to determine fertilizer requirements."
-            ]
-        },
-        {
-            "task": "Repair a broken ride mower.",
-            "subtasks": [
-                "Identify the problem with the mower."
-            ]
-        },
-        {
-            "task": "Inspect farm crops for pests and disease.",
-            "subtasks": []
-        },
-        {
-            "task": "Treat sick pigs with medication.",
-            "subtasks": [
-                "Identify pigs showing signs of illness."
-            ]
-        },
-        {
-            "task": "Prepare farm for a holiday celebration.",
-            "subtasks": []
-        },
-        {
-            "task": "Start a compost pile for organic waste.",
-            "subtasks": [
-                "Collect kitchen scraps and yard waste."
-            ]
-        },
-        {
-            "task": "Harvest ripe vegetables from the garden.",
-            "subtasks": [
-                "Identify which vegetables are ready to be picked."
-            ]
-        },
-        {
-            "task": "Drive a cart to the field.",
-            "subtasks": [
-                "Pull the cart up to the field.",
-                "Unload any necessary tools or materials for the job."
+                "Retire for the night",
+                "\" and systematically lists each required task."
             ]
         }
     ]

@@ -5,44 +5,77 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Planting cover crops and managing cover crop species.",
+            "task": "Planting cover crops for soil stewardship and pest management",
             "subtasks": [
-                "Explain the role of cover crops in sustainable agriculture (e.g., soil stewardship, pest management, crop rotation).",
-                "Detail the planting and management of winter rye as a cover crop.",
-                "Describe the use of hairy vetch in cover crop mixes and inoculation practices.",
-                "Discuss the benefits of mixing oats with vetch for early-season seedbed preparation.",
-                "Explain inter-seeding techniques for late-season crops (e.g., cauliflower, brussels sprouts).",
-                "Demonstrate methods for controlling rye growth in vegetable crops (e.g., cultivation, plowing down).",
-                "Analyze the nitrogen fixation process in vetch and its impact on subsequent crop rotations.",
-                "Use pre-side-dressed nitrogen tests to assess soil fertility and reduce chemical applications.",
-                "Compare the benefits of different cover crop species (e.g., winter rye, oats, vetch) for specific crops.",
-                "Evaluate the timing of cover crop seeding relative to cash crops (e.g., fall rye, inter-seeding for late crops)."
+                "Grow winter rye",
+                "Plant hairy vetch with winter rye for nitrogen fixation",
+                "Apply inoculant to hairy vetch for nodulation",
+                "Monitor and manage cover crop growth for specific crop needs",
+                "Use inter-seeding technique for late-season crops",
+                "Cultivate cover crops to integrate them into cash crops",
+                "Monitor nitrogen supply for different corn varieties"
             ]
         },
         {
-            "task": "Managing cover crops in diverse cropping systems.",
+            "task": "Managing cover crops",
             "subtasks": [
-                "Describe the process of using cover crops with organic produce, such as vegetables, sold through various markets (wholesale, farmers market, farm stand).",
-                "Explain the transition from conventional cover crop practices (e.g., winter rye alone) to integrating multiple species (e.g., winter rye and hairy vetch).",
-                "Share experiences with cover crop inoculation and the progression towards maintaining resident inoculant populations.",
-                "Discuss the economic aspects of cover crops, including minimal investment for significant fertility returns.",
-                "Present examples of integrating cover crops into profitable crop rotations for vegetable farmers.",
-                "Demonstrate how cover crop management (species selection, timing, inoculation) affects soil health and subsequent crop yields.",
-                "Highlight the adaptability of cover crop practices across different climate zones and regions (e.g., Vermont, California).",
-                "Encourage farmers to experiment with cover crop practices and assess suitability for their own operations."
+                "Assess inoculant needs for cover crop species",
+                "Track nitrogen application and measure effectiveness",
+                "Use pre-side-dressed nitrogen test to inform fertilizer application"
             ]
         },
         {
-            "task": "Documenting and sharing cover crop practices.",
+            "task": "Harvesting cover crops",
             "subtasks": [
-                "Engage with other farmers to discuss and demonstrate cover crop techniques.",
-                "Summarize the experiences of multiple farmers using cover crops in innovative ways.",
-                "Provide examples of which cover crop practices might be adaptable to different farms.",
-                "Invite viewers to evaluate the feasibility of adopting certain cover crop practices on their own farms.",
-                "Encourage farmer-led innovation and knowledge sharing in sustainable agriculture practices.",
-                "Present case studies or examples of successful cover crop implementations on participating farms.",
-                "Offer practical tips for integrating cover crops into existing farming operations.",
-                "Foster community engagement and exchange of information among farmers regarding cover crop management."
+                "Determine optimal timing for cover crop termination",
+                "Integrate cover crops into cash crops such as sweet corn",
+                "Evaluate cover crop residue for seedbed preparation"
+            ]
+        },
+        {
+            "task": "Inter-seeding cover crops",
+            "subtasks": [
+                "Scatter rye seed through cash crop rows",
+                "Estimate time required for inter-seeding one acre",
+                "Adapt inter-seeding techniques for different cash crops"
+            ]
+        },
+        {
+            "task": "Protecting cash crops with cover crops",
+            "subtasks": [
+                "Plant cover crops in proximity to cash crops",
+                "Evaluate cover crop performance in protecting cash crops through winter",
+                "Assess integration of cover crop into cash crop\u6536\u83b7"
+            ]
+        },
+        {
+            "task": "- Growing winter rye (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "- Planting hairy vetch with winter rye for nitrogen fixation (MAINTASK)",
+            "subtasks": [
+                "- Applying inoculant to hairy vetch for nodulation (SUBTASK)",
+                "- Monitoring cover crop growth and managing it for specific crop needs (SUBTASK)"
+            ]
+        },
+        {
+            "task": "- Using inter-seeding techniques for late-season crops (MAINTASK)",
+            "subtasks": [
+                "- Cultivating cover crops to integrate them into cash crops (SUBTASK)",
+                "- Monitoring nitrogen supply for different corn varieties (SUBTASK)",
+                "- Assessing inoculant needs for cover crop species (SUBTASK)",
+                "- Tracking nitrogen application and measuring effectiveness (SUBTASK)",
+                "- Using a pre-side-dressed nitrogen test to inform fertilizer application (SUBTASK)",
+                "- Determining optimal timing for cover crop termination (SUBTASK)",
+                "- Integrating cover crops into cash crops such as sweet corn (SUBTASK)",
+                "- Evaluating cover crop residue for seedbed preparation (SUBTASK)",
+                "- Scattering rye seed through cash crop rows (SUBTASK)",
+                "- Estimating time required for inter-seeding one acre (SUBTASK)",
+                "- Adapting inter-seeding techniques for different cash crops (SUBTASK)",
+                "- Planting cover crops in proximity to cash crops (SUBTASK)",
+                "- Evaluating cover crop performance in protecting cash crops through winter (SUBTASK)",
+                "- Assessing integration of cover crop into cash crop yield (SUBTASK)"
             ]
         }
     ]

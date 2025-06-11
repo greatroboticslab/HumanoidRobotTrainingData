@@ -5,78 +5,118 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Analyze tractor survey results and generate related physical farming tasks.",
+            "task": "Engaging with a YouTube tractor attachment survey discussed in a video.",
             "subtasks": [
-                "Understand the purpose of the tractor survey and its results.",
-                "Identify the top 10 tractor attachments mentioned in the survey.",
-                "Describe the physical task of using a tiller and the benefits.",
-                "Explain the use and importance of a hydraulic top link attachment.",
-                "Discuss the role of ballast in tractor attachments and its benefits.",
-                "Describe the functionality of a backhoe and its application in farming.",
-                "Explain the versatility of a standard tractor bucket and stump bucket.",
-                "Describe the advantages of a quick hitch system in tractor attachments.",
-                "Highlight the importance of front-end loaders in tractor attachments.",
-                "Explain the necessity and use of different mowers (brush hog, shredder, flail) in maintaining field conditions.",
-                "Describe the operation and benefits of grapples and other material handling attachments.",
-                "Explain the use and importance of box blades and land planes in smoothing surfaces.",
-                "Highlight the ubiquitous and versatile use of pallet forks on tractors."
+                "Welcoming viewers back and thanking social media for the survey feedback.",
+                "Presenting a top 10 list of favorite tractor attachments from the survey.",
+                "Discussing tiller usage and availability on the website.",
+                "Expressing surprise at hydraulic top link mention and explaining its benefits.",
+                "Highlighting ballast box importance for safe tractor operation and workload.",
+                "Positioning backhoe as expensive but solution-focused, despite low frequency use.",
+                "Combining stump and regular buckets as the most chosen attachments.",
+                "Acknowledging quick hitch's usefulness as a tool, not an attachment.",
+                "Emphasizing front-end loader\u2019s necessity and versatility.",
+                "Discussing the prevalence of mower attachments (brush hog, flail mowers) in the list.",
+                "Mentioning grapples as handy, with solutions for different tractor setups.",
+                "Ranking grinders, box blades, land planes, and pulverizers highly for leveling.",
+                "Announcing pallet forks as the top attachment, highlighting their versatile uses.",
+                "Encouraging viewer participation via comments and social media.",
+                "Promoting sponsor Bora Wheel Spacers and their website.",
+                "\"Give one task per line. Write MAINTASK: before every task... After writing MAINTASK: give a list of subtasks, one per line. For each subtask, write SUBTASK: before every subtask.\" So for each main task related to operating a tractor and its attachments, I need to list subtasks.",
+                "Attaching the tiller to the tractor's three-point hitch.",
+                "Positioning the tractor for tiller operation.",
+                "Operating the tractor while the tiller turns the soil.",
+                "Adjusting the depth of the tiller as needed.",
+                "Attaching the brush hog to the tractor's three-point hitch.",
+                "Adjusting the cutting height of the brush hog.",
+                "Operating the tractor at the desired speed while mowing.",
+                "Selecting the appropriate grapple attachment.",
+                "Connecting the hydraulic lines or plugging in an electric grapple.",
+                "Opening and closing the grapple jaws to pick up materials.",
+                "Attaching the bucket to the front-end loader.",
+                "Positioning the bucket to scoop material.",
+                "Lifting the bucket and moving the material to another location.",
+                "Attaching the box blade to the three-point hitch.",
+                "Leveling the ground using the box blade's adjustments.",
+                "Driving the tractor while the box blade is active.",
+                "Attaching the pallet forks to the front-end loader.",
+                "Positioning the forks under a pallet or object.",
+                "Elevating the forks to lift the object.",
+                "Moving the object to a new location.",
+                "Attaching the backhoe attachment to the tractor.",
+                "Confiring the hydraulic controls for the backhoe.",
+                "Operating the winch or bucket to dig and lift material."
             ]
         },
         {
-            "task": "Going through the top 10 tractor attachments as per a survey, understanding their physical uses in farming.",
+            "task": "Attaching a tiller to a tractor. (Subtasks as above)",
+            "subtasks": []
+        },
+        {
+            "task": "Using a brush hog as a mowing attachment. (Subtasks)",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a grapple for material handling. (Subtasks)",
+            "subtasks": []
+        },
+        {
+            "task": "Employing a front-end loader with a pallet fork attachment. (Subtasks)",
+            "subtasks": []
+        },
+        {
+            "task": "Leveling ground with a box blade. (Subtasks)",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a tiller attachment) followed by subtasks for setup and operation. As long as the task involves physical interaction with the tractor and attachment, which affects the agricultural process, it should be included.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Operating a tiller attachment on a tractor.",
             "subtasks": [
-                ""
+                "Attaching the tiller to the tractor's three-point hitch.",
+                "Position the tractor in the desired location for tilling.",
+                "Engage the tiller's rotation mechanism while driving the tractor.",
+                "Adjust the depth of the tiller's tines for effective soil preparation.",
+                "Control the tractor's direction to cover the entire area."
             ]
         },
         {
-            "task": "Understanding how various tractor attachments enable different physical tasks in farming.",
+            "task": "Using a brush hog attachment as a mowing tool.",
             "subtasks": [
-                "Describing the soil preparation capability provided by tillers.",
-                "Explaining the importance of hydraulic top links in adjusting attachment angles.",
-                "Detailing the role of ballast boxes in stabilizing front end loaders.",
-                "Demonstrating the excavation and earthmoving tasks facilitated by backhoes.",
-                "Outlining the versatile material handling tasks of buckets (regular and stump buckets).",
-                "Highlighting the ease of attachment swaps with quick hitch systems.",
-                "Acknowledging the broad utility of front-end loaders across different farm operations.",
-                "Describing the mowing and vegetation management tasks using various mower attachments.",
-                "Illustrating the utility of grapples for handling large debris.",
-                "Explaining the surface leveling and maintenance tasks with box blades and land planes.",
-                "Demonstrating the lifting and moving of heavy loads with pallet forks."
+                "Secure the brush hog to the three-point hitch.",
+                "Set the desired cutting height for the vegetation.",
+                "Operate the tractor at a steady speed while mowing.",
+                "Navigate the tractor around obstacles and uneven terrain."
             ]
         },
         {
-            "task": "Going through the top 10 tractor attachments one by one and understanding their functions and tasks.",
-            "subtasks": []
-        },
-        {
-            "task": "Therefore, the above MAINTASK (with 10 subtasks) is a possible way. The main task could be \"Identifying the key tractor attachments and their physical tasks from the survey results,\" with each subtask being one attachment and its corresponding uses.",
-            "subtasks": []
-        },
-        {
-            "task": "\"Reviewing the capabilities of top tractor attachments and their application in different seasonal tasks\". But given the time DM (around peppers and stuff), but the video is current as per when it's posted. Therefore, perhaps the \"snow equipment\" wasn't prevalent in the survey.",
-            "subtasks": []
-        },
-        {
-            "task": "Analyze tractor survey results and generate related physical farming tasks.",
+            "task": "Employing a grapple attachment for material handling.",
             "subtasks": [
-                "Understand the purpose of the tractor survey and its results.",
-                "Identify the top 10 tractor attachments mentioned in the survey.",
-                "Describe the physical task of using a tiller and the benefits.",
-                "Explain the use and importance of a hydraulic top link attachment.",
-                "Discuss the role of ballast in tractor attachments and its benefits.",
-                "Describe the functionality of a backhoe and its application in farming.",
-                "Explain the versatility of a standard tractor bucket and stump bucket.",
-                "Describe the advantages of a quick hitch system in tractor attachments.",
-                "Highlight the importance of front-end loaders in tractor attachments.",
-                "Explain the necessity and use of different mowers (brush hog, shredder, flail) in maintaining field conditions.",
-                "Describe the operation and benefits of grapples and other material handling attachments.",
-                "Explain the use and importance of box blades and land planes in smoothing surfaces.",
-                "Highlight the ubiquitous and versatile use of pallet forks on tractors."
+                "Select the appropriate grapple (mechanical, electric, hydraulic) for the task.",
+                "Conect the necessary components (hydraulic hoses, power cable) to operate the grapple.",
+                "Close the grapple jaws to grip and lift the material.",
+                "Move the material to a designated area and release the load."
             ]
         },
         {
-            "task": "** Analyze tractor survey results and generate related physical farming tasks.",
-            "subtasks": []
+            "task": "Using a front-end loader with a bucket.",
+            "subtasks": [
+                "Attach the bucket to the front-end loader.",
+                "Position the bucket beneath the material to be moved.",
+                "Boost the bucket to lift the material and transport it.",
+                "Lower the bucket and displace the material at a new location."
+            ]
+        },
+        {
+            "task": "Leveling ground with a box blade attachment.",
+            "subtasks": [
+                "Fix the box blade to the three-point hitch.",
+                "Fine-tune the blade's angle using adjustment features.",
+                "Drive the tractor over the area to cut and condition the ground.",
+                "Repeat the process as needed to achieve the desired grade."
+            ]
         }
     ]
 }

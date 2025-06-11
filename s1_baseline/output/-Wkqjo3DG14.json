@@ -5,96 +5,17 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Listening to or waiting for music to begin.",
+            "task": "Listen to announcements",
             "subtasks": [
-                "Standing in a designated area.",
-                "Remaining still for an extended period."
+                "Stay alert to audio notifications",
+                "Pause current activity when announcement begins",
+                "Resume previous task when announcements end",
+                "Wait for the specified duration indicated by \"We'll be right back\" (approx. 12 minutes, considering the total instances and typical commercial length)"
             ]
         },
         {
-            "task": "Waiting for the music to start.",
-            "subtasks": [
-                "Remaining quiet.",
-                "Possibly looking towards where the music is expected to come from.",
-                "Patience."
-            ]
-        },
-        {
-            "task": "Controlling volume or adjusting volume levels.",
-            "subtasks": [
-                "Potential adjustment of amplifiers orspeakers.",
-                "Monitoring for music to start."
-            ]
-        },
-        {
-            "task": "Ensuring that announcements or signals go through.",
-            "subtasks": [
-                "Monitoring communication systems.",
-                "Confirming that everyone is in position."
-            ]
-        },
-        {
-            "task": "Understanding when to say \"we'll be right back\" multiple times.",
-            "subtasks": [
-                "Memorizing the phrase.",
-                "Timing when to say it repeatedly.",
-                "Enunciating clearly each time."
-            ]
-        },
-        {
-            "task": "Performing actions in a loop or repeating them multiple times.",
-            "subtasks": [
-                "Repeating \"We'll be right back\" several times.",
-                "Maintaining attention over a period.",
-                "Ensuring correct timing of each repetition."
-            ]
-        },
-        {
-            "task": "Possibly acting as a crew member in a broadcast setup.",
-            "subtasks": [
-                "Staying at a position until needed.",
-                "Observing script or protocol.",
-                "Following through with prompts or cues."
-            ]
-        },
-        {
-            "task": "Operating a microphone or intercom.",
-            "subtasks": [
-                "Holding a microphone near the mouth.",
-                "Speaking clearly into the microphone.",
-                "Possibly adjusting volume control when needed."
-            ]
-        },
-        {
-            "task": "Ensuring readiness for a scheduled event.",
-            "subtasks": [
-                "Preparing equipment prior to event start.",
-                "Confirming that all systems are functioning.",
-                "Managing audience expectations."
-            ]
-        },
-        {
-            "task": "Managing time and transitions in a broadcast setting.",
-            "subtasks": [
-                "Coordinating with other crew members.",
-                "Alerting when music is imminent.",
-                "Handling unexpected glitches smoothly."
-            ]
-        },
-        {
-            "task": "Demonstrating composure under pressure.",
-            "subtasks": [
-                "Remaining calm during redundant statements.",
-                "Adjusting if there are delays or technology issues."
-            ]
-        },
-        {
-            "task": "Possibly liaising with entertainment or sound crew.",
-            "subtasks": [
-                "Communicating with sound techs.",
-                "Checking sound levels and quality.",
-                "Offering assistance if necessary."
-            ]
+            "task": "All done",
+            "subtasks": []
         }
     ]
 }

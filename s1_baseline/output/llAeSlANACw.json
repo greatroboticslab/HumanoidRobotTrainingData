@@ -5,67 +5,76 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "The speaker demonstrates how to use a disc harrow on a farm.",
+            "task": "Pilot an agricultural aircraft during pesticide application.",
             "subtasks": [
-                "Lift the disc harrow onto the farm vehicle.",
-                "Guide the disc harrow to the field.",
-                "Operate the controls to lower the disc harrow into the soil.",
-                "Monitor the depth of the disc harrow as it turns the soil.",
-                "Adjust the depth of the discs if necessary during operation.",
-                "Check the ground coverage to ensure even soil disturbance.",
-                "Monitor the direction of the disc harrow to avoid uneven passes.",
-                "Oversee the turning of the soil to prepare it for planting."
+                "Control the agricultural aircraft's flight path.",
+                "Monitor pesticide application equipment.",
+                "Adjust application settings based on mission requirements.",
+                "Ensure even distribution of pesticide over the target area.",
+                "Navigate around obstacles and irregular terrain."
             ]
         },
         {
-            "task": "The speaker describes driving the farm vehicle.",
+            "task": "Enter the agricultural aircraft cockpit.",
             "subtasks": [
-                "Sit in the driver's seat of the farm vehicle.",
-                "Adjust the seat and mirrors for optimal visibility and comfort.",
-                "Engage the transmission and start the vehicle engine.",
-                "Drive the vehicle onto the field, paying attention to speed and direction.",
-                "Navigate around obstacles or uneven terrain on the field.",
-                "Stop the vehicle when necessary, such as at the edge of the field or to make adjustments."
+                "Secure seat belt.",
+                "Adjust seat for comfort and safety.",
+                "Fasten helmet or headgear as necessary."
             ]
         },
         {
-            "task": "The speaker explains adjusting the disc depth.",
+            "task": "Conduct pre-flight inspection of the agricultural aircraft.",
             "subtasks": [
-                "Identify the mechanism or switch that controls the disc depth.",
-                "Disengage the discs if necessary to adjust the depth.",
-                "Move the adjustment lever or wheel to the desired position.",
-                "Re-engage the discs and verify the new depth setting.",
-                "Monitor the depth as the disc harrow operates, checking for consistency."
+                "Check fuel levels and system gauges.",
+                "Inspect propeller and engine health.",
+                "Verify that pesticide spraying equipment is properly installed.",
+                "Check weather conditions before flight."
             ]
         },
         {
-            "task": "The speaker assesses the ground coverage and evenness.",
+            "task": "Operate agricultural aircraft controls during application.",
             "subtasks": [
-                "Observe the field as the disc harrow passes over it.",
-                "Check for areas where the soil is being turned more deeply.",
-                "Adjust the harrow if uneven coverage is detected.",
-                "Inspect the soil to ensure there are no clumps or missed spots.",
-                "Check that the discs are cutting through the soil uniformly."
+                "Monitor altitude and adjust to maintain optimal spray height.",
+                "Control speed to ensure thorough coverage without drift.",
+                "Use roll and pitch controls to maintain straight flight path.",
+                "Adjust spray pattern width as needed."
             ]
         },
         {
-            "task": "The speaker oversees the turning of the soil.",
+            "task": "Manage pesticide distribution during spraying.",
             "subtasks": [
-                "Operator is at the controls of the disc harrow attachment.",
-                "Monitor the direction and path of the disc harrow.",
-                "Ensure that the soil is being turned and incorporated properly.",
-                "Check for any resistance or binding in the discs.",
-                "Check that the furrows created by the discs are of the right depth and spacing."
+                "Monitor pressure and flow rates.",
+                "Adjust nozzles or sprayer settings if necessary.",
+                "Check for leaks or blockages in the distribution system.",
+                "Verify that the correct pesticide mix is being used."
             ]
         },
         {
-            "task": "The speaker describes starting the farm vehicle.",
+            "task": "Communicate with ground crew during pesticide spraying operations.",
             "subtasks": [
-                "Approach the farm vehicle and open the driver's side door.",
-                "Step into the seat and position the seat and mirrors.",
-                "Close the door and turn the key in the ignition.",
-                "Press the starter button to start the vehicle engine.",
-                "Wait for the engine to reach operating speed."
+                "Relay flight path information to ground team.",
+                "Inform ground crew of pesticide application status.",
+                "Coordinate with crew for pesticide supply and refills."
+            ]
+        },
+        {
+            "task": "Oversee pesticide application on a large-scale field.",
+            "subtasks": [
+                "Plan application routes to cover the entire field efficiently.",
+                "Evaluate field conditions for optimal application.",
+                "Adjust flight parameters based on wind speed and direction.",
+                "Address any application irregularities during flight."
+            ]
+        },
+        {
+            "task": "Take off and land the agricultural aircraft.",
+            "subtasks": [
+                "Perform pre-takeoff checks.",
+                "Start the engine and check for proper operation.",
+                "Conduct a taxi run to assess flight controls.",
+                "Execute takeoff and reach cruising altitude safely.",
+                "Initiate landing sequence upon completion of spraying.",
+                "Perform post-flight checks and shutdown procedures."
             ]
         }
     ]

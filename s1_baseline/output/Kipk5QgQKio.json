@@ -5,22 +5,28 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Building and managing a water management system for farming.",
+            "task": "Install gravity-fed water system on property",
             "subtasks": [
-                "Surveying elevation changes on the property (500-400 feet).",
-                "Utilizing a spring at the bottom of the property for water source.",
-                "Elevating the stored water using gravity for irrigation.",
-                "Dreaming about and possibly implementing a small hydroelectric plant.",
-                "Generating power at night by recirculating water downhill through a hydroelectric system.",
-                "Irrigating pastures along the water's descent."
+                "Determine elevation changes in property",
+                "Identify spring location at lower end of property",
+                "Route water from spring upwards using elevated storage",
+                "Design water distribution for irrigated pastures"
             ]
         },
         {
-            "task": "Expanding the herd due to improved irrigation capacity.",
+            "task": "Plan and possibly implement small hydroelectric plant",
             "subtasks": [
-                "Planning for potential growth in the animal population.",
-                "Adjusting daily activities to accommodate measures for a larger herd (e.g., increased milking frequency).",
-                "Addressing potential challenges associated with herd expansion (e.g., equipment scaling, feed management)."
+                "Calculate water volume for nighttime power generation",
+                "Design hydroelectric system compatible with two-inch PVC pipe",
+                "Schedule system operation to offset daytime power surplus"
+            ]
+        },
+        {
+            "task": "Expand animal herd capacity",
+            "subtasks": [
+                "Assess current herd size and growth potential",
+                "Plan for increased feed and resource requirements",
+                "Adjust farming practices to support larger animal population"
             ]
         }
     ]

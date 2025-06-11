@@ -5,8 +5,50 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Constructing a backyard compost container.",
+            "task": "Setting up a backyard compost container",
+            "subtasks": [
+                "Finding a suitable location",
+                "Collecting materials",
+                "Building the container",
+                "Additional tips"
+            ]
+        },
+        {
+            "task": "Maintaining a backyard compost",
+            "subtasks": [
+                "Monitoring temperature",
+                "Watering to maintain moisture",
+                "Containment",
+                "Using the container for composting",
+                "Visiting resources for more information"
+            ]
+        },
+        {
+            "task": "Setting up a backyard compost container.\" Then, what subtasks go into that?",
             "subtasks": []
+        },
+        {
+            "task": "Setting up a backyard compost container, with subtasks of selecting a location, gathering materials, building the container, and adding ventilation. Then maybe additional notes on ongoing maintenance or resource visits are mentioned but not part of the main task. So only focusing on what's needed for setup. Since the user asks for tasks related to the transcript, which is building the container, that's the primary task.",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up a backyard compost container",
+            "subtasks": [
+                "Finding a suitable location (warm spot, accessible for watering)",
+                "Collecting materials (2x4s, wire mesh screen)",
+                "Building the container (assembling 2x4 sides, attaching with screws)",
+                "Adding wire mesh screen for ventilation and hinges for access"
+            ]
+        },
+        {
+            "task": "Maintaining a backyard compost",
+            "subtasks": [
+                "Monitoring temperature",
+                "Watering to keep moist",
+                "Containing materials properly",
+                "Using the container for composting",
+                "Visiting University of Wyoming Extension or barnyardsandbackyards.com for more information"
+            ]
         }
     ]
 }

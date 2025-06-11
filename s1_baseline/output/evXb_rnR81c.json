@@ -5,69 +5,77 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Planting habanero peppers using a crimped and tarped winter rye cover crop as sheet mulch.",
+            "task": "Using winter rye cover crop as sheet mulch in a no-till garden.",
             "subtasks": [
-                "Evaluate winter rye cover crop's readiness for termination.",
-                "Prepare tarp materials for crimping and termination.",
-                "Crimp winter rye with a T-post and rope.",
-                "Apply a silage tarp over the crimped cover crop.",
-                "Water the tarp to trap moisture for effective termination.",
-                "Monitor progress of the terminated cover crop.",
-                "Adjust the tarp placement if needed to facilitate decomposition.",
-                "Remove the tarp after the cover crop has died.",
-                "Prepare the bed for planting by adding compost and wood chips.",
-                "Measure and mark the bed for planting pepper rows.",
-                "Transplant habanero pepper seedlings into the prepared bed.",
-                "Maintain straight lines and consistent spacing in the planted rows.",
-                "Remove weeds from around the planted peppers.",
-                "Apply an aleopathic effect through sheet mulch for weed suppression.",
-                "Protect newly planted peppers from potential weed regrowth."
+                "Planting habanero peppers in a newly prepared bed.",
+                "Harvesting arugula from an adjacent bed.",
+                "Crimping the winter rye cover crop.",
+                "Tarping the crimped winter rye cover crop.",
+                "Watering the tarp to aid in termination.",
+                "Measuring and preparing the beds for planting.",
+                "Removing weeds from the beds.",
+                "Applying compost to the beds.",
+                "Applying wood chips to the walkways.",
+                "Ensuring even distribution of wood chips around the beds."
             ]
         },
         {
-            "task": "Create the raised bed structure using sheet mulched cover crops.",
+            "task": "Preparing the garden beds for planting peppers.",
             "subtasks": [
-                "String and measure the bed to ensure straight lines.",
-                "Apply a layer of compost over the crimped cover crop.",
-                "Topdress the bed with wood chips for walkway accessibility and weed suppression.",
-                "Address any discrepancies in the raised bed caused by tilling or wheelbarrow movement.",
-                "Reconstruct the raised bed for uniform height and accessibility."
+                "Measuring out the beds for proper spacing and alignment.",
+                "Raking compost evenly on the beds.",
+                "Adding wood chips to the walkways for aesthetics and weed suppression."
             ]
         },
         {
-            "task": "Harvest existing crops and prepare areas for new plantings.",
+            "task": "Maintaining the garden's appearance and functionality.",
             "subtasks": [
-                "Identify mature crops for harvesting, such as arugula and lettuce.",
-                "Remove and distribute harvested crops to prevent pests and diseases.",
-                "Clean the harvesting area to remove debris and ensure fresh planting.",
-                "Replenish soil nutrients by adding compost to the beds.",
-                "Replace old cover crops with new plantings, ensuring weed-free conditions."
+                "Walking in the walkways to check for even wood chip distribution.",
+                "Adjusting the raised bed areas to ensure proper drainage and structural integrity.",
+                "Tidying up the garden's appearance for visual appeal and worker morale.",
+                "",
+                "Using winter rye cover crop as sheet mulch in a no-till garden. Then, goes into several subtasks related to this main task. Then, another MAINTASK: Preparing the garden beds for planting peppers, which is another major task. Then, under that, subtasks like measuring out the beds, raking compost, applying wood chips. So I need to make sure each main action is generalized as a MAINTASK followed by more specific SUBTASKs. I think that's the format.",
+                "Another important thing is that the video involves multiple tasks conducted over a period. However, since the transcript shows dialogue with someone explaining the entire process from start to finish, all the tasks are interconnected. The user is described as right in the middle of doing various things. However, the transcript mentions several different steps, but they are part of the overall process of using winter rye as a cover crop. Thus it's one main task split into several subtasks. Hence why I grouped everything under a single MAINTASK and then multiple SUBTASKs."
             ]
         },
         {
-            "task": "Planting habanero peppers using a crimped and tarped winter rye cover crop as sheet mulch. Let's break this down.",
-            "subtasks": [
-                "Evaluate winter rye cover crop's readiness for termination. The key is that it has flower heads but hasn't formed seed yet. They need to crimp it while it's still dying. That's the crimping step.",
-                "Prepare tarp materials for crimping and termination. They often have leftover plastic from their greenhouses. But sometimes they use scrap pieces. So maybe they need to bring over the tarp and arrange it over the crimped rye.",
-                "SUBTASK: Water the tarp-covered area to trap moisture for effective termination."
-            ]
-        },
-        {
-            "task": "MAINTASK: Create the raised bed structure using sheet mulched cover crops.",
-            "subtasks": [
-                "Subtask for bed preparation: SUBTASK: String and measure the bed to ensure straight lines for planting. They use strings and stakes with tape.",
-                "Applying a layer over the terminated rye. They probably use a rake to smooth it. Then using wood chips for the walkways. They mention using wood chips, but sometimes the winter rye itself can be a mulch, but they don't walk on it; they use wood chips for traction. However, the video shows it's necessary to add wood chips even on top of the rye. Maybe they just spread the wood chips on top. The task here would be: SUBTASK: Apply a 2-3 inch layer of wood chips to walkways and around planted areas, ensuring coverage to prevent weeds.",
-                "SUBTASK: Transplant habanero pepper seedlings into the prepared raised bed, maintaining uniform spacing.",
-                "SUBTASK: Rely on the alleopathic properties of the decomposed cover crop to inhibit weed seed germination."
-            ]
-        },
-        {
-            "task": "Additionally, the MAINTASK of planting the peppers includes ensuring proper spacing and not stepping on the planted rows. They have a plan to fix the raised bed's inconsistencies and clean up around the plants.",
+            "task": "Therefore, my original breakdown into MAINTASK (using cover crop) with crimping, tarping, etc., and MAINTASK (prepping beds) with measuring, adding compost, applies.",
             "subtasks": []
         },
         {
-            "task": "Planting Habanero Peppers Using Winter Rye Cover Crop as Sheet Mulch**",
-            "subtasks": []
+            "task": "Maybe the first MAINTASK is \"Converting a winter rye cover crop into sheet mulch,\" which would include crimping, tarping, and solarizing. Then, after that's done, \"Preparing beds for planting peppers\" which includes measurements, adding compost, etc.",
+            "subtasks": [
+                "the user has indicated to put \"MAINTASK:\" before each main task and then have subtasks under each, separated by their own \"SUBTASK:\". Then when moving to the next task, another \"MAINTASK:\"."
+            ]
+        },
+        {
+            "task": "Using winter rye cover crop as sheet mulch in a no-till garden.",
+            "subtasks": [
+                "Crimping the winter rye cover crop.",
+                "Tarping the crimped winter rye cover crop.",
+                "Watering the tarped cover crop to aid in termination.",
+                "Removing tarps after a week to check termination.",
+                "Measuring and preparing garden beds for planting.",
+                "Removing weeds from the garden beds.",
+                "Applying compost to the garden beds.",
+                "Adding wood chips to walkways for mulch.",
+                "Ensuring even distribution of wood chips around the garden beds."
+            ]
+        },
+        {
+            "task": "Planting habanero peppers.",
+            "subtasks": [
+                "Spacing and aligning pepper plants in the prepared beds.",
+                "Planting the habanero peppers."
+            ]
+        },
+        {
+            "task": "Maintaining the garden beds.",
+            "subtasks": [
+                "Checking the wood chip distribution.",
+                "Adjusting areas where necessary.",
+                "Tidying up the garden beds for appearance."
+            ]
         }
     ]
 }

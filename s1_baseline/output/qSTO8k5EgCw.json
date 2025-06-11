@@ -5,36 +5,40 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Conduct daily pre-start check on a crawler tractor.",
+            "task": "Conducting daily pre-start checks on a crawler tractor",
             "subtasks": [
-                "Walk around the tractor to inspect for damaged or worn parts.",
-                "Check for fluid leaks in tracks, attachments, and hydraulic system.",
-                "Verify fluid levels (engine coolant, engine oil, hydraulic oil).",
-                "Drain fuel tank and clean air filtration system."
+                "Inspect tracks for wear at sprocket teeth, pins and bushings, and rollers",
+                "Examine crawlers and attachments for damage or wear, including dozer blade, push frame, cutting edges, and end bits",
+                "Check for fluid leaks in tracks, hydraulic hoses, blade angle/cylinder seals, and engine compartments",
+                "Verify fluid levels in engine coolant, engine oil via dipstick, and hydraulic oil via sight gauge; add fluid if necessary",
+                "Drain fuel tank condensation and sediment; check battery condition, including tightening cables and adding water if needed",
+                "Review machine's hour meter and perform fuel tank fill-up if necessary",
+                "Inspect and clean the engine air filter system (pre-cleaner, air cleaner elements)"
             ]
         },
         {
-            "task": "Perform equipment warm-up check before starting operations.",
+            "task": "Performing the warm-up check",
             "subtasks": [
-                "Ensure all personnel are clear of the tractor.",
-                "Start engine and let it warm up.",
-                "Listen for unusual noises and check gauges (engine performance, functionality of attachments, braking, steering)."
+                "Listen for engine noises and check all gauges (amp, oil pressure, hydraulic pressure, fuel gauge, temp, etc.)",
+                "Operate dozer and ripper attachments through their full range of motion",
+                "Test the steering system and brakes"
             ]
         },
         {
-            "task": "Conduct operating checks during daily operations.",
+            "task": "Conducting daily operating checks",
             "subtasks": [
-                "Monitor for unusual noises and engine performance.",
-                "Check track adjustment to prevent excessive wear."
+                "Monitor equipment performance and read gauges during work",
+                "Adjust track tension as needed to prevent excessive wear or looseness"
             ]
         },
         {
-            "task": "Perform shutdown check at the end of the day.",
+            "task": "Completing the shutdown check",
             "subtasks": [
-                "Park tractor on a level surface and secure attachments.",
-                "Idle engine for five minutes before stopping.",
-                "Record hour meter reading and refuel equipment.",
-                "Lubricate necessary points and clean debris from equipment."
+                "Park the tractor on a level surface, lower attachments, and set the parking brake",
+                "Idle the engine for five minutes before shutdown",
+                "Record hour meter reading and fill the fuel tank if low",
+                "Lubricate all mechanical joints as per manufacturer's guidelines",
+                "Remove debris from tracks, dozer blade, and other equipment surfaces"
             ]
         }
     ]

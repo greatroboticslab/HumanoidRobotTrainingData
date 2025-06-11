@@ -5,45 +5,66 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Operating an autonomous farm tractor",
+            "task": "Autonomous farm tractors operation and maintenance",
             "subtasks": [
-                "Navigating the tractor using GPS-enabled cameras and radars",
-                "Ensuring precision in tilling and seed planting with the tractor's sensors",
-                "Monitoring soil conditions and crop health using tractor-collected data",
-                "Remote emergency stop operation for safety"
+                "Understand and operate integrated systems, computers, and processors of autonomous farm tractors",
+                "Program and calibrate the tractor's GPS for accurate navigation",
+                "Inspect and maintain the sensor suite, including cameras, radars, and light detectors",
+                "Activate emergency stop features in case of failure or safety concerns",
+                "Monitor and interpret data collected by the tractor, such as soil conditions and crop health",
+                "Adjust tractor settings for optimal fertilizer distribution and planting precision",
+                "Operate and supervise a fleet of autonomous tractors through remote management"
             ]
         },
         {
-            "task": "Using drones in agriculture",
+            "task": "Drones for agricultural survey and application",
             "subtasks": [
-                "Surveying agricultural areas to capture high-quality images",
-                "Creating detailed three-dimensional maps",
-                "Inspecting crop health and detecting issues in real-time",
-                "Applying pesticides, herbicides, or fertilizers with precision"
+                "Assemble and maintain drones equipped for agricultural tasks",
+                "Deploy drones to capture high-resolution images and create 3D maps of the farm",
+                "Utilize photos and data for planting planning, soil analysis, and crop monitoring",
+                "Implement\u7cbe\u51c6\u55b7\u6d12\u519c\u836f\u548c\u5316\u80a5, based on drone-provided data",
+                "Use drones to detect and respond to agricultural issues in real-time",
+                "Maintain and refuel drones as needed, ensuring battery availability and data transmission"
             ]
         },
         {
-            "task": "Implementing smart irrigation systems",
+            "task": "Smart irrigation system installation and use",
             "subtasks": [
-                "Automatically adjusting water consumption based on weather and soil moisture",
-                "Remotely controlling irrigation systems via mobile phone or computer"
+                "Install and configure smart irrigation components",
+                "Calibrate sensors for monitoring soil moisture, evaporation, and weather conditions",
+                "Program and manage automated watering schedules through mobile devices or computers",
+                "Set up remote control for irrigation valves and systems",
+                "Integrate smart irrigation with existing water sources and distribution networks",
+                "Monitor system performance and adjust settings based on real-time data"
             ]
         },
         {
-            "task": "Utilizing harvesting and weeding robots",
+            "task": "Harvesting and weeding robot operation",
             "subtasks": [
-                "Detecting ripe crops using sensors and cameras",
-                "Harvesting crops without damaging produce",
-                "Removing weeds using image recognition technology",
-                "Applying fertilizer precisely to plants or soil"
+                "Prepare robotic systems for crop harvesting and weed removal",
+                "Program the robots to use image recognition for identifying ripe crops and weeds",
+                "Guide robots through the fields for precise harvesting and weeding operations",
+                "Monitor robotic activities to ensure efficiency and plant protection",
+                "Use GPS systems to aid robots in coordinated field operations"
             ]
         },
         {
-            "task": "Managing biochar generators",
+            "task": "Fertilizer application robot management",
             "subtasks": [
-                "Converting organic waste into biochar through pyrolysis",
-                "Enhancing soil fertility and structure with biochar",
-                "Sequestering carbon to reduce greenhouse gas emissions"
+                "Set up and operate robots for direct fertilizer application to plants or soil",
+                "Calibration of application rates and coverage areas",
+                "Monitor robot performance and adjust as necessary for optimal nutrient distribution",
+                "Integrate pneumatic or liquid-based fertilizer ejection systems"
+            ]
+        },
+        {
+            "task": "Biochar generator operation and maintenance",
+            "subtasks": [
+                "Feed organic waste into the biochar generator for conversion",
+                "Control the generator's temperature and oxygen levels during the pyrolysis process",
+                "Collect and store biochar for soil application",
+                "Manage bio-oil and syngas byproducts as needed",
+                "Evaluate soil improvement effects after biochar application and make informed adjustments"
             ]
         }
     ]
