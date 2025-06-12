@@ -5,22 +5,8 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Construct a fully automatic and customizable crop farm using the Gantry Carriage System.",
-            "subtasks": [
-                "Assemble the Gantry Shaft.",
-                "Position the Gantry Carriage on one end of the Gantry Shaft.",
-                "Attach Linear Chassis to the Gantry Carriage.",
-                "Place harvesters on both sides of the Linear Chassis.",
-                "Install redstone contacts at each end of the Gantry Shaft.",
-                "Connect redstone links to the redstone contacts.",
-                "Set up storage and portable storage interface for crop output.",
-                "Plant crops 1 block away from the Gantry Shaft ends.",
-                "Connect the Gantry Shaft to two normal shafts and the gear shift.",
-                "Configure the toggle power latch with an off switch for the machine.",
-                "Assign a unique frequency to the redstone link.",
-                "Power the machine using the lever to activate the toggle power latch.",
-                "Set up a chute for crop output using hoppers or chutes."
-            ]
+            "task": "Assemble the Gantry Carriage System Crop Farm",
+            "subtasks": []
         }
     ]
 }

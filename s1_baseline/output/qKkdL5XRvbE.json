@@ -5,112 +5,331 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Ana Dios on farm",
+            "task": "Distributing hay with forage harvester",
             "subtasks": [
-                "Entering farm property",
-                "Walking to designated area",
-                "Stopping to check on something",
-                "Observing crop condition"
+                "Drive forage harvester to field",
+                "Align forage harvester with bales",
+                "Lower hay grab and pick up bales",
+                "Elevate hay grab and load bales onto wagon"
             ]
         },
         {
-            "task": "Identifying crops",
+            "task": "Loading wagon with hay bales",
             "subtasks": [
-                "Looking at crops closely",
-                "Noting crop health or growth stage"
+                "Position wagon under hay grab",
+                "Command grain hopper machine operator (if applicable)"
             ]
         },
         {
-            "task": "Observing irrigation",
+            "task": "Transferring hay bales to storage",
             "subtasks": [
-                "Approaching irrigation system",
-                "Checking water flow",
-                "Inspecting sprinklers or irrigation equipment"
+                "Drive wagon to barn or storage area",
+                "Maneuver wagon into place",
+                "Unload hay bales from wagon into storage",
+                "Secure hay bales in storage area"
             ]
         },
         {
-            "task": "Checking soil moisture",
+            "task": "Cleaning up after operation",
             "subtasks": [
-                "Probing soil with hand or tool",
-                "Assessing moisture level"
+                "Inspect equipment for wear or damage",
+                "Service machinery as needed",
+                "Store equipment properly",
+                "Record maintenance and operational notes"
             ]
         },
         {
-            "task": "Checking for weeds",
+            "task": "Operating hay grab for hay baling",
             "subtasks": [
-                "Walking through crop rows",
-                "Identifying weeds versus crops",
-                "Deciding on weed removal method"
+                "Position equipment for hay grab attachment",
+                "Attach hay grab to forage harvester"
             ]
         },
         {
-            "task": "Communicating observations",
+            "task": "Distributing hay with forage harvester",
             "subtasks": [
-                "Noting observations on paper or device",
-                "Discussing with other staff"
+                "Drive forage harvester to field",
+                "Align forage harvester with bales",
+                "Lower hay grab and pick up bales",
+                "Elevate hay grab and load bales onto wagon"
             ]
         },
         {
-            "task": "Leaving farm property",
+            "task": "Loading wagon with hay bales",
             "subtasks": [
-                "Walking back to entrance",
-                "Exiting gate",
-                "Heading towards vehicle or office"
+                "Position wagon under hay grab",
+                "Engage grain hopper machine (if necessary)"
             ]
         },
         {
-            "task": "MAINTASK: Ana Dios on farm",
+            "task": "Transferring hay bales to storage",
             "subtasks": [
-                "Entering farm property",
-                "Walking to designated area",
-                "Stopping to check on something",
-                "Observing crop condition"
+                "Drive wagon to barn or storage area",
+                "Maneuver wagon into storage area",
+                "Unload hay bales into storage",
+                "Secure hay bales in storage area"
             ]
         },
         {
-            "task": "Identifying crops",
+            "task": "Cleaning and storing equipment",
             "subtasks": [
-                "Looking at crops closely",
-                "Noting crop health or growth stage"
+                "Inspect equipment for damage",
+                "Lubricate parts as needed",
+                "Store equipment properly",
+                "Record maintenance activities**"
             ]
         },
         {
-            "task": "Observing irrigation",
+            "task": "Operating a Hay Grab**",
+            "subtasks": []
+        },
+        {
+            "task": "Distributing Hay",
+            "subtasks": []
+        },
+        {
+            "task": "Loading Wagon",
+            "subtasks": []
+        },
+        {
+            "task": "Transferring Hay to Storage",
+            "subtasks": []
+        },
+        {
+            "task": "Cleaning and Maintenance",
+            "subtasks": []
+        },
+        {
+            "task": "Operating hay grab for bale handling",
             "subtasks": [
-                "Approaching irrigation system",
-                "Checking water flow",
-                "Inspecting sprinklers or irrigation equipment"
+                "Position and connect hay grab to the forage harvester**"
             ]
         },
         {
-            "task": "Checking soil moisture",
+            "task": "Distributing hay",
             "subtasks": [
-                "Probing soil with hand or tool",
-                "Assessing moisture level"
+                "Drive forage harvester to field**",
+                "Align forage harvester with hay bales**",
+                "Lower hay grab to pick up bales**",
+                "Elevate hay grab to load bales onto wagon**"
             ]
         },
         {
-            "task": "Checking for weeds",
+            "task": "Loading hay onto wagon",
             "subtasks": [
-                "Walking through crop rows",
-                "Identifying weeds versus crops",
-                "Deciding on weed removal method"
+                "Position wagon underneath hay grab**"
             ]
         },
         {
-            "task": "Communicating observations",
+            "task": "Transferring hay to storage",
             "subtasks": [
-                "Noting observations on paper or device",
-                "Discussing with other staff"
+                "Drive wagon to storage area**",
+                "Unload hay bales**",
+                "Secure hay in storage**"
             ]
         },
         {
-            "task": "Leaving farm property",
+            "task": "Maintenance after operation",
             "subtasks": [
-                "Walking back to entrance",
-                "Exiting gate",
-                "Heading towards vehicle or office"
+                "Inspect equipment**",
+                "Record maintenance activities**"
             ]
+        },
+        {
+            "task": "MAINTASK: The relevance of the video transcript to physical farming tasks is evident through tasks such as operating a hay grab, distributing hay with a forage harvester, loading bales onto a wagon, and transporting hay to storage.**",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Operating hay grab for bale handling**",
+            "subtasks": [
+                "Positioning the equipment.",
+                "Connecting the hay grab."
+            ]
+        },
+        {
+            "task": "Distributing hay with forage harvester**",
+            "subtasks": [
+                "Navigating to the collection area.",
+                "Accurately positioning the harvester.",
+                "Initiating the pick-up process.",
+                "Allocating bales into the wagon."
+            ]
+        },
+        {
+            "task": "Loading wagon with hay bales**",
+            "subtasks": [
+                "Ensuring correct placement.",
+                "Coordinating with another operator if necessary."
+            ]
+        },
+        {
+            "task": "Transferring hay bales to storage**",
+            "subtasks": [
+                "Guiding the wagon smoothly.",
+                "Ensuring safe stacking.",
+                "Anchoring or covering the hay."
+            ]
+        },
+        {
+            "task": "Cleaning and storing equipment**",
+            "subtasks": [
+                "Looking for signs of damage or strain.",
+                "Replacing lubricants, greasing parts.",
+                "Covering, securing.",
+                "Documenting all performed actions."
+            ]
+        },
+        {
+            "task": "Operating hay grab for bale handling",
+            "subtasks": []
+        },
+        {
+            "task": "Wagon loading and transport",
+            "subtasks": []
+        },
+        {
+            "task": "Storage and equipment care",
+            "subtasks": []
+        },
+        {
+            "task": "Yes, the transcript is relevant to agri-related farming tasks. MAINTASK examples include operating a hay grab, distributing hay with a forage harvester, loading onto a wagon, and storing hay. Each MAINTASK and its subtasks pertain to standard agricultural work, despite missing contributions from Ana Dios.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a Hay Grab**",
+            "subtasks": []
+        },
+        {
+            "task": "Loading Hay onto a Wagon**",
+            "subtasks": []
+        },
+        {
+            "task": "Storing Hay**",
+            "subtasks": []
+        },
+        {
+            "task": "Post-Operation Maintenance**",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a Hay Grab",
+            "subtasks": []
+        },
+        {
+            "task": "Distributing Hay",
+            "subtasks": []
+        },
+        {
+            "task": "Loading onto Wagon",
+            "subtasks": []
+        },
+        {
+            "task": "Storing Hay",
+            "subtasks": []
+        },
+        {
+            "task": "Operating hay grab**",
+            "subtasks": []
+        },
+        {
+            "task": "Distributing hay**",
+            "subtasks": []
+        },
+        {
+            "task": "Loading hay onto wagon**",
+            "subtasks": []
+        },
+        {
+            "task": "Transporting hay to storage**",
+            "subtasks": []
+        },
+        {
+            "task": "Equipment maintenance**",
+            "subtasks": []
+        },
+        {
+            "task": "The transcript is **rele\\-ant** to agricultural tasks like o-\\perating a hay grab, forage harvester, and grain hopper. MAINTASKs include:",
+            "subtasks": []
+        },
+        {
+            "task": "Operating Hay Grab",
+            "subtasks": []
+        },
+        {
+            "task": "Distributing Hay",
+            "subtasks": []
+        },
+        {
+            "task": "Loading Wagon",
+            "subtasks": []
+        },
+        {
+            "task": "Storing Hay",
+            "subtasks": []
+        },
+        {
+            "task": "final answer is**Final Answer:**\\boxed{Answer: The video is relevant. The tasks include operating a hay grab, distributing hay with a forage harvester, loading hay onto a Cart, and storing the hay. MAINTASK Scanite operated and positions the ing (parts needing Yellow].**",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a Hay Grab**",
+            "subtasks": []
+        },
+        {
+            "task": "Distributing Hay**",
+            "subtasks": []
+        },
+        {
+            "task": "Loading to Wagon**",
+            "subtasks": []
+        },
+        {
+            "task": "Storing Hay**",
+            "subtasks": []
+        },
+        {
+            "task": "operating hay grab, driving forage harvester to collect hay, attaching the hay grab, loading wagon, transporting. *Detailed answer provided above.* **Final Answer:**",
+            "subtasks": []
+        },
+        {
+            "task": "Operating Hay Grab and Forage Harvester**",
+            "subtasks": []
+        },
+        {
+            "task": "Distributing Hay**",
+            "subtasks": []
+        },
+        {
+            "task": "Loading Wagon**",
+            "subtasks": []
+        },
+        {
+            "task": "Transferring to Storage**",
+            "subtasks": []
+        },
+        {
+            "task": "Cleaning**",
+            "subtasks": []
         }
     ]
 }

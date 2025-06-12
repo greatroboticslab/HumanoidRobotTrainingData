@@ -5,79 +5,264 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Driving a Farm Truck",
+            "task": "Picking strawberries from the field",
             "subtasks": [
-                "Sitting in the driver's seat",
-                "Steering the truck",
-                "Pedaling with feet to move truck",
-                "Operating the truck's controls"
+                "Walking through the strawberry field",
+                "Bending down or kneeling to reach the strawberries",
+                "Selecting individual strawberry plants",
+                "Grasping and picking individual strawberries",
+                "Walking back to the basket or container holding the strawberries",
+                "Placing the picked strawberries into the basket or container",
+                "Repeating the process until the basket is full"
             ]
         },
         {
-            "task": "Mounting and dismounting equipment",
+            "task": "Loading strawberries onto a vehicle or onto a conveyor belt",
             "subtasks": [
-                "Grip handlebars or fenders",
-                "Jump or step onto equipment",
-                "Securely seating on equipment after mounting",
-                "Climb down from equipment safely",
-                "Secure equipment post-use"
+                "Walking to the strawberry basket or holding container",
+                "Picking up the basket or container",
+                "Carrying the basket or container to the vehicle or conveyor belt",
+                "Carefully placing the basket or container onto the vehicle or conveyor belt",
+                "Ensuring the strawberries are not damaged during the transfer"
             ]
         },
         {
-            "task": "Reshaping the field with machinery",
+            "task": "Unloading strawberries from a vehicle or conveyor belt into a storage container",
             "subtasks": [
-                "Guide the machine along the rows",
-                "Monitor planting depth and spacing",
-                "Control speed and direction",
-                "Oversee soil preparation"
+                "Walking to the vehicle or conveyor belt",
+                "Approaching the location where strawberries are being unloaded",
+                "Reaching into the vehicle or conveyor belt to pick up the basket or container",
+                "Holding the basket or container securely",
+                "Walking to the storage container",
+                "Placing the basket or container into the storage container",
+                "Ensuring the strawberries are not damaged during the transfer"
             ]
         },
         {
-            "task": "Transferring items between vehicles",
+            "task": "Transporting the strawberries to a packing station or market",
             "subtasks": [
-                "Open tailgate of truck",
-                "Grasping object with hands",
-                "Lift object from truck bed",
-                "Place object securely on ground",
-                "Repeat for multiple objects"
+                "Walking or driving the vehicle to the destination",
+                "Navigating the route to the packing station or market",
+                "Ensuring the strawberries are secure during transport",
+                "Arriving at the destination and parking the vehicle",
+                "Unloading the strawberries from the vehicle",
+                "Placing the baskets or containers into the packing station or market"
             ]
         },
         {
-            "task": "Checking and adjusting machine",
+            "task": "Picking strawberries from the field",
+            "subtasks": []
+        },
+        {
+            "task": "Picking strawberries from the field",
+            "subtasks": []
+        },
+        {
+            "task": "Loading strawberries onto a vehicle or conveyor belt",
+            "subtasks": []
+        },
+        {
+            "task": "Loading strawberries onto a vehicle or conveyor belt",
+            "subtasks": []
+        },
+        {
+            "task": "Unloading strawberries from a vehicle or conveyor belt into a storage container",
+            "subtasks": []
+        },
+        {
+            "task": "Transporting the strawberries to a packing station or market",
+            "subtasks": []
+        },
+        {
+            "task": "Unloading strawberries from vehicle to packing station area.",
+            "subtasks": []
+        },
+        {
+            "task": "Transporting... Hmm.",
+            "subtasks": []
+        },
+        {
+            "task": "transport to the packing station, then unload into storage. So perhaps use one MAINTASK for \"Transporting the strawberries to a packing station or market\" and then subtask is driving to destination and parking, then unloading into the appropriate area. The containers might have already been loaded from the field.",
+            "subtasks": []
+        },
+        {
+            "task": "Transporting the strawberries to a packing station or market",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "So. For clarity, maybe maintaining multiple MAINTASKs. That's better. It's easier to track.",
+            "subtasks": []
+        },
+        {
+            "task": "Picking strawberries from the field**",
+            "subtasks": []
+        },
+        {
+            "task": "Loading strawberries onto a vehicle or onto a conveyor belt**",
+            "subtasks": []
+        },
+        {
+            "task": "Unloading strawberries from a vehicle or conveyor belt into a storage container**",
+            "subtasks": []
+        },
+        {
+            "task": "Transporting the strawberries to a packing station or market**",
+            "subtasks": []
+        },
+        {
+            "task": "Picking strawberries from the field",
             "subtasks": [
-                "Inspect machine for wear or damage",
-                "Tighten bolts or nuts",
-                "Lubricate moving parts",
-                "Verify operation of all controls"
+                "Walking through the strawberry field",
+                "Bending down or kneeling to reach the strawberries",
+                "Selecting individual strawberry plants",
+                "Grasping and picking individual strawberries",
+                "Walking back to the basket or container",
+                "Placing the picked strawberries into the basket or container",
+                "Repeating the process until the basket is full"
             ]
         },
         {
-            "task": "I'll structure them as MAINTASKs followed by their respective subtasks. Let's start with driving the truck. That's the first activity mentioned. So, for driving the farm truck, subtasks would include sitting in the seat, steering, pedaling, and operating the controls. Then moving on to mounting and dismounting the equipment. Each task gets its own line with subtasks underneath.",
+            "task": "Loading strawberries onto a vehicle or onto a conveyor belt",
+            "subtasks": [
+                "Walking to the strawberry basket or holding container",
+                "Picking up the basket or container",
+                "Carrying the basket or container to the vehicle or conveyor belt",
+                "Carefully placing the basket or container onto the vehicle or conveyor belt",
+                "Ensuring the strawberries are not damaged during the transfer"
+            ]
+        },
+        {
+            "task": "Unloading strawberries from a vehicle or conveyor belt into a storage container",
+            "subtasks": [
+                "Walking to the vehicle or conveyor belt",
+                "Approaching the location where strawberries are being unloaded",
+                "Reaching into the vehicle or conveyor belt to pick up the basket or container",
+                "Holding the basket or container securely",
+                "Walking to the storage container",
+                "Placing the basket or container into the storage container",
+                "Ensuring the strawberries are not damaged during the transfer"
+            ]
+        },
+        {
+            "task": "Transporting the strawberries to a packing station or market",
+            "subtasks": [
+                "Walking or driving the vehicle to the destination",
+                "Navigating the route to the packing station or market",
+                "Ensuring the strawberries are secure during transport",
+                "Arriving at the destination and parking the vehicle",
+                "Unloading the strawberries from the vehicle",
+                "Placing the baskets or containers into the packing station or market"
+            ]
+        },
+        {
+            "task": "Picking strawberries from the field",
+            "subtasks": [
+                "Walking through the strawberry field",
+                "Bending down or kneeling to reach the strawberries",
+                "Selecting individual strawberry plants",
+                "Grasping and picking individual strawberries",
+                "Walking back to the basket or container",
+                "Placing the picked strawberries into the basket or container",
+                "Repeating the process until the basket is full"
+            ]
+        },
+        {
+            "task": "Loading strawberries onto a vehicle or onto a conveyor belt",
+            "subtasks": [
+                "Walking to the strawberry basket or holding container",
+                "Picking up the basket or container",
+                "Carrying the basket or container to the vehicle or conveyor belt",
+                "Carefully placing the basket or container onto the vehicle or conveyor belt",
+                "Ensuring the strawberries are not damaged during the transfer"
+            ]
+        },
+        {
+            "task": "Unloading strawberries from a vehicle or conveyor belt into a storage container",
+            "subtasks": [
+                "Walking to the vehicle or conveyor belt",
+                "Approaching the location where strawberries are being unloaded",
+                "Reaching into the vehicle or conveyor belt to pick up the basket or container",
+                "Holding the basket or container securely",
+                "Walking to the storage container",
+                "Placing the basket or container into the storage container",
+                "Ensuring the strawberries are not damaged during the transfer"
+            ]
+        },
+        {
+            "task": "Transporting the strawberries to a packing station or market",
+            "subtasks": [
+                "Walking or driving the vehicle to the destination",
+                "Navigating the route to the packing station or market",
+                "Ensuring the strawberries are secure during transport",
+                "Arriving at the destination and parking the vehicle",
+                "Unloading the strawberries from the vehicle",
+                "Placing the baskets or containers into the packing station or market"
+            ]
+        },
+        {
+            "task": "Picking Strawberries from the Field",
             "subtasks": []
         },
         {
-            "task": "Yes, that seems right. Reshaping the field would be operating the machinery, so that's a MAINTASK. Then, during that, the person is guiding the machine, monitoring depth and spacing, adjusting speed and direction, and overseeing the soil preparation.",
+            "task": "Loading Strawberries onto a Vehicle or Conveyor Belt",
             "subtasks": []
         },
         {
-            "task": "Driving a Farm Truck**",
+            "task": "Unloading Strawberries from a Vehicle or Conveyor Belt into a Storage Container",
             "subtasks": []
         },
         {
-            "task": "Mounting and Dismounting Equipment**",
+            "task": "Transporting Strawberries to a Packing Station or Market",
             "subtasks": []
         },
         {
-            "task": "Reshaping the Field with Machinery**",
-            "subtasks": []
+            "task": "Picking strawberries from the field",
+            "subtasks": [
+                "Walking through the strawberry field",
+                "Bending down or kneeling to reach the strawberries",
+                "Selecting individual strawberry plants",
+                "Grasping and picking individual strawberries",
+                "Walking back to the basket or container",
+                "Placing the picked strawberries into the basket or container",
+                "Repeating the process until the basket is full"
+            ]
         },
         {
-            "task": "Transferring Items between Vehicles**",
-            "subtasks": []
+            "task": "Loading strawberries onto a vehicle or onto a conveyor belt",
+            "subtasks": [
+                "Walking to the strawberry basket or holding container",
+                "Picking up the basket or container",
+                "Carrying the basket or container to the vehicle or conveyor belt",
+                "Carefully placing the basket or container onto the vehicle or conveyor belt",
+                "Ensuring the strawberries are not damaged during the transfer"
+            ]
         },
         {
-            "task": "Checking and Adjusting Machine**",
-            "subtasks": []
+            "task": "Unloading strawberries from a vehicle or conveyor belt into a storage container",
+            "subtasks": [
+                "Walking to the vehicle or conveyor belt",
+                "Approaching the location where strawberries are being unloaded",
+                "Reaching into the vehicle or conveyor belt to pick up the basket or container",
+                "Holding the basket or container securely",
+                "Walking to the storage container",
+                "Placing the basket or container into the storage container",
+                "Ensuring the strawberries are not damaged during the transfer"
+            ]
+        },
+        {
+            "task": "Transporting the strawberries to a packing station or market",
+            "subtasks": [
+                "Walking or driving the vehicle to the destination",
+                "Navigating the route to the packing station or market",
+                "Ensuring the strawberries are secure during transport",
+                "Arriving at the destination and parking the vehicle",
+                "Unloading the strawberries from the vehicle",
+                "Placing the baskets or containers into the packing station or market}"
+            ]
         }
     ]
 }

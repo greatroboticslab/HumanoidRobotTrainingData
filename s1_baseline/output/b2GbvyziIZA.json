@@ -5,25 +5,54 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Gardening tasks and plant care.",
+            "task": "Plant care and maintenance [Physical tasks related to taking care of plants]",
             "subtasks": [
-                "Identifying and describing Diplodinia and Mandevilla plants.",
-                "Discussing the growing conditions (sunlight, watering, fertilizing) for the plants.",
-                "Addressing pruning, repotting, and support needs for the vines.",
-                "Covering propagation methods for the plants.",
-                "Recommending pest and disease management for the plants.",
-                "Advising on overwintering and cold hardiness of the plants."
+                "Locate and arrange plants on a table",
+                "Examine plant foliage and flowers",
+                "Discuss sunlight requirements and watering needs",
+                "Explain fertilizing practices and pest management",
+                "Describe pruning and repotting techniques",
+                "Discuss propagation methods",
+                "Explain cold hardiness and overwintering strategies"
             ]
         },
         {
-            "task": "Gardening tasks and plant care.",
+            "task": "Pest and disease identification and management [Physical tasks related to identifying and addressing plant issues]",
             "subtasks": [
-                "Identifying and describing Diplodinia and Mandevilla plants.",
-                "Discussing the growing conditions (sunlight, watering, fertilizing) for the plants.",
-                "Addressing pruning, repotting, and support needs for the vines.",
-                "Covering propagation methods for the plants.",
-                "Recommending pest and disease management for the plants.",
-                "Advising on overwintering and cold hardiness of the plants."
+                "Inspect leaves for yellowing and other symptoms",
+                "Check for common pests like aphids and mealybugs"
+            ]
+        },
+        {
+            "task": "Process of elimination for leaf drop causes [Physical tasks related to diagnosing plant issues]",
+            "subtasks": [
+                "Evaluate watering practices",
+                "Assess fertilization methods",
+                "Consider temperature fluctuations and drafts",
+                "Check for root rot",
+                "Examine leaf condition for nutrient deficiencies"
+            ]
+        },
+        {
+            "task": "Potting and positioning of plants [Physical tasks related to arranging plants]",
+            "subtasks": [
+                "Position plants for optimal sunlight in the garden",
+                "Water plants following proper irrigation techniques",
+                "Fertilize plants using continuous release fertilizer",
+                "Prune plants to maintain shape and encourage growth",
+                "Repot plants when necessary",
+                "Propagate plants through cuttings or layering"
+            ]
+        },
+        {
+            "task": "Indoor plant care [Physical tasks related to caring for plants inside]",
+            "subtasks": [
+                "Water indoor plants when soil surface is dry",
+                "Monitor indoor plants for pests",
+                "Position indoor plants near a sunny window",
+                "Adjust water and fertilizer practices during winter dormancy",
+                "Prepare plants for overwintering in cooler zones",
+                "The person is discussing the care of diplodinias and mandevillas, which are plants. They need to set up the plants on a table (SUBTASK), examine the leaves and flowers (SUBTASK), talk about sunlight and watering (SUBTASK), mention fertilizing and pest control (SUBTASK), describe pruning and repotting (SUBTASK), and discuss propagating plants (SUBTASK). They also touch on indoor care like providing sun and proper watering (SUBTASK) and managing overwintering (SUBTASK). For pest and disease management (MAINTASK), they need to look for yellowing leaves (SUBTASK) and check for pests (SUBTASK). The main tasks include plant maintenance, care, and troubleshooting (MAINTASK). The transcript is relevant to agriculture and gardening (>>>ACCEPT)."
             ]
         }
     ]

@@ -5,25 +5,12 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Verify design parameters for furrow irrigation systems through field trials.**",
-            "subtasks": [
-                "** Select a representative segment of the field (4-5 furrows) for observation.",
-                "** Choose a range of stream sizes (extreme low to high) for furrow irrigation.",
-                "** Measure elapsed time for water front advance from upstream to downstream.",
-                "** Plot advance curves for different stream sizes and identify maximum allowable Q (non-erosive).",
-                "** Compare Q_max from empirical relationship with field trial results.",
-                "** Adjust field segment length iteratively to match Q_max using trial runs and iterative procedures."
-            ]
+            "task": "Verifying and adjusting design parameters for furrow irrigation systems",
+            "subtasks": []
         },
         {
-            "task": "Design level basin systems for low to moderate infiltration soils.**",
-            "subtasks": [
-                "** Determine area of basin for given stream size and soil type using design charts.",
-                "** Calculate desired net depth of infiltration using hydraulic models (Manning\u2019s equation).",
-                "** Ensure distribution pattern efficiency (FAR) meets design criteria.",
-                "** Evaluate cutoff time (TCO) to prevent channeling and maintain D_max (ridge height).",
-                "** Verify results through trial runs considering advance time, cutoff time, and depth of flow."
-            ]
+            "task": "Designing level basin irrigation systems",
+            "subtasks": []
         }
     ]
 }

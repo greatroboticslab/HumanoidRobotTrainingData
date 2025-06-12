@@ -5,59 +5,47 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Operating and maintaining agricultural equipment",
+            "task": "Traveling through the Midwest",
+            "subtasks": []
+        },
+        {
+            "task": "Farming in the Midwest",
+            "subtasks": []
+        },
+        {
+            "task": "Coal mining in the Midwest",
+            "subtasks": []
+        },
+        {
+            "task": "Steel production and automotive manufacturing",
+            "subtasks": []
+        },
+        {
+            "task": "Urban and cultural development",
             "subtasks": [
-                "Driving a tractor with multiple speed options",
-                "Communicating with suppliers about purchasing cattle",
-                "Calculating profit margins on livestock",
-                "Loading animals onto trucks for transportation to market"
+                "Accessing voice bidding for farm commodities in Chicago"
             ]
         },
         {
-            "task": "Managing a farming business",
-            "subtasks": [
-                "Organizing the sale of crops and livestock to maximize profits",
-                "Negotiating with middlemen and processing plants for better prices",
-                "Evaluating market trends and pricing for products"
-            ]
+            "task": "MAINTASK: Traveling through the Midwest",
+            "subtasks": []
         },
         {
-            "task": "Coal mining operations",
-            "subtasks": [
-                "Operating heavy equipment to excavate coal",
-                "Loading coal onto trucks for transportation",
-                "Managing a strip mining operation"
-            ]
+            "task": "Farming in the Midwest",
+            "subtasks": []
         },
         {
-            "task": "Steel production and processing",
-            "subtasks": [
-                "Casting steel using modern machinery",
-                "Operating automation systems in steel mills",
-                "Shipping steel products to various destinations"
-            ]
+            "task": "Coal mining in the Midwest",
+            "subtasks": []
         },
         {
-            "task": "Automobile manufacturing",
-            "subtasks": [
-                "Assembling components at an automotive assembly plant",
-                "Managing the flow of parts from multiple suppliers",
-                "Utilizing information technology for production control"
-            ]
+            "task": "Steel production and automotive manufacturing",
+            "subtasks": []
         },
         {
-            "task": "Transportation and logistics",
+            "task": "Urban and cultural development",
             "subtasks": [
-                "Shipping products via truck to different regions",
-                "Coordinating logistics between production facilities and assembly plants"
-            ]
-        },
-        {
-            "task": "Urban development and commodity trading",
-            "subtasks": [
-                "Managing trade centers and marketplaces",
-                "Processing agricultural commodities with voice bidding",
-                "Supporting regional economic growth and infrastructure"
+                "Accessing voice bidding for farm commodities in Chicago"
             ]
         }
     ]

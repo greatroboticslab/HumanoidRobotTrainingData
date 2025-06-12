@@ -5,36 +5,47 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Apply pesticides safely and correctly",
+            "task": "Proper Pesticide Handling and Application",
             "subtasks": [
-                "Read pesticide label instructions",
-                "Determine appropriate pesticide for the pest",
-                "Select proper pesticide formulation (liquid or dry)",
-                "Wear protective clothing (fully covered, neoprene gloves, long sleeves, pants, coveralls)",
-                "Use protective equipment (goggles or face shield)",
-                "Keep unauthorized people and children away",
-                "Follow safety measures (work against the wind, avoid inhalation, use low pressure spray)",
-                "Wear protective gloves and remove them after use",
-                "Wash protective clothing daily and check gloves for leaks",
-                "Dispose of pesticide containers properly (three washes, destroy or bury)"
+                "Determine the pest to control and select the appropriate chemical",
+                "Choose the right formulation (liquid or dry) for the pesticide",
+                "Read and understand the pesticide label",
+                "Protect your body with full coverage clothing and appropriate gloves (neoprene)",
+                "Wear protective goggles or a face shield when applying pesticides",
+                "Avoid skin contact and inhalation of pesticides; read first aid instructions",
+                "Use low pressure spray to minimize drift and apply with the wind at your back",
+                "Keep unauthorized individuals, children, and pets away from application areas",
+                "Dispose of containers properly by washing and destroying them after use",
+                "Store pesticides in original labeled containers, in a cool, dry place away from water sources"
             ]
         },
         {
-            "task": "Store pesticides safely",
+            "task": "Safe Storage and Transportation of Pesticides",
             "subtasks": [
-                "Store in original labeled container",
-                "Keep in a secure, cool, dry place away from water",
-                "Dispose of spills immediately and safely",
-                "Dispose of containers in a special landfill"
+                "Place pesticide containers in a plastic tub for transport in a pickup truck",
+                "Secure the transport container and ensure it can hold spillage",
+                "Store pesticides on a cement floor in a well-ventilated building",
+                "Keep pesticides away from water bodies and ensure no seepage into groundwater"
             ]
         },
         {
-            "task": "Respond to pesticide poisoning",
+            "task": "Managing Environmental Impact",
             "subtasks": [
-                "Recognize symptoms of mild, moderate, and severe poisoning",
-                "Call paramedics immediately in case of pesticide poisoning",
-                "Follow first aid instructions on the pesticide label"
+                "Use a dike or sawdust to contain spills and dispose of them in a special landfill",
+                "Avoid applying pesticides during moderate or strong winds"
             ]
+        },
+        {
+            "task": "Proper Pesticide Handling and Application",
+            "subtasks": []
+        },
+        {
+            "task": "Safe Storage and Transportation of Pesticides",
+            "subtasks": []
+        },
+        {
+            "task": "Managing Environmental Impact",
+            "subtasks": []
         }
     ]
 }

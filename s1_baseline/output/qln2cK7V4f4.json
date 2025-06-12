@@ -5,46 +5,753 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Drive a tractor and attach equipment to perform farm operations",
+            "task": "Sit on a tractor while it\u2019s in motion",
             "subtasks": [
-                "Sit in the tractor cab and start the engine",
-                "Operate the joystick or pedals to maneuver the tractor",
-                "Attach the airplanter to the front of the tractor using pins or other fasteners",
-                "Verify that the attachment is secure before starting the tractor again"
+                "Sit on the tractor seat",
+                "Hold onto the handles while the tractor moves"
             ]
         },
         {
-            "task": "Operate the airplanter to plant seeds",
+            "task": "Drive a tractor with a load of hay",
             "subtasks": [
-                "Align the airplanter with the furrow or planting strip",
-                "Monitor the depth and spacing of the seeds being planted",
-                "Adjust the airplanter settings as needed, such as opening or closing gates"
+                "Operate the tractor controls to move the hay wagon",
+                "Secure the load of hay on the wagon",
+                "Navigate the tractor around the field"
             ]
         },
         {
-            "task": "Drive the tractor and airplanter over the field",
+            "task": "Open a gate on a fence",
             "subtasks": [
-                "Navigate the tractor around the field, paying attention to boundary rows",
-                "Adjust the speed of the tractor to maintain the proper planting rate",
-                "Check for any issues with the airplanter, such as clogs or misalignments"
+                "Approach the gate",
+                "Lift the gate control mechanism",
+                "Pass through the opening",
+                "Close the gate behind"
             ]
         },
         {
-            "task": "Secure the airplanter after finishing the field",
+            "task": "Release a gate bar",
             "subtasks": [
-                "Stop the tractor and disengage the airplanter from the tractor",
-                "Remove the airplanter from the tractor, using tools if necessary",
-                "Store the airplanter properly on the tractor or in the field shed"
+                "Locate the gate bar",
+                "Lift and push the gate bar to open the gate"
             ]
         },
         {
-            "task": "Manage daily operations on a farm",
+            "task": "Load manure onto a trailer",
             "subtasks": [
-                "Check the weather forecast before starting the planting day",
-                "Ensure all equipment is in good working condition",
-                "Plan the route and sequence of planting for the day",
-                "Calculate the amount of seeds needed for the intended crop",
-                "Monitor the progress and adjust the schedule as needed throughout the day"
+                "Position the trailer under the manure pile",
+                "Use a shovel or pitchfork to load manure into the trailer",
+                "Secure the load on the trailer"
+            ]
+        },
+        {
+            "task": "Attach a garden tiller to a tractor",
+            "subtasks": [
+                "Connect the tiller's hitch to the tractor",
+                "Tighten the connection points",
+                "Hook up hydraulic lines if necessary"
+            ]
+        },
+        {
+            "task": "Load a wheelbarrow with soil",
+            "subtasks": [
+                "Walk to the soil pile",
+                "Scoop soil into the wheelbarrow",
+                "Tilt the wheelbarrow to unload into a planting area"
+            ]
+        },
+        {
+            "task": "Water crops with a hose",
+            "subtasks": [
+                "Retrieve a garden hose from storage",
+                "Connect the hose to the water source",
+                "Walk through the rows, directing water to the plants"
+            ]
+        },
+        {
+            "task": "Lift hay into a loft area",
+            "subtasks": [
+                "Reach into the hayloft opening",
+                "Spin the hay using a pitchfork or loader arm",
+                "Place the hay in the designated storage area"
+            ]
+        },
+        {
+            "task": "Drive a truck to a farm field",
+            "subtasks": [
+                "Enter the truck cab",
+                "Start the truck engine",
+                "Drive the truck onto the field\u2019s access road"
+            ]
+        },
+        {
+            "task": "Drive a hay wagon over bumpy ground",
+            "subtasks": [
+                "Adjust the tractor speed to match road conditions",
+                "Maintain control of the wagon while driving over uneven terrain"
+            ]
+        },
+        {
+            "task": "Spray crops with pesticide",
+            "subtasks": [
+                "Wedge the pesticide sprayer nozzle into the nozzle box",
+                "Prime the sprayer",
+                "Walk through the rows, applying the pesticide"
+            ]
+        },
+        {
+            "task": "Mow a hay field",
+            "subtasks": [
+                "Start the mower engine",
+                "Guide the mower over the field, avoiding obstacles",
+                "Collect the cut hay into windrows"
+            ]
+        },
+        {
+            "task": "Ride a tractor with a young foal",
+            "subtasks": [
+                "Hold onto the foal while seated on the tractor"
+            ]
+        },
+        {
+            "task": "Sit on a tractor seat",
+            "subtasks": [
+                "Sit down on the tractor",
+                "Buckle up if seat belts are available"
+            ]
+        },
+        {
+            "task": "Lift and move a garden tiller",
+            "subtasks": [
+                "Stand up and grip the tiller handle",
+                "Lift the tiller off the ground",
+                "Tilt it to the side for moving"
+            ]
+        },
+        {
+            "task": "Get on and off a tractor",
+            "subtasks": [
+                "Approach the tractor",
+                "Step onto the step or ramp",
+                "Sit down in the seat",
+                "Properly secure oneself before starting"
+            ]
+        },
+        {
+            "task": "Load manure from a spreader",
+            "subtasks": [
+                "Position the spreader under the manure pile",
+                "Use a scoop or fork to load the manure",
+                "Transfer the load to the spreader chassis"
+            ]
+        },
+        {
+            "task": "Water a garden with a soaker hose",
+            "subtasks": [
+                "Connect the soaker hose to a hose bib",
+                "Unroll the hose in the garden beds",
+                "Open the valve and allow water to seep into the soil"
+            ]
+        },
+        {
+            "task": "Drive a chisel plow over a field",
+            "subtasks": [
+                "Engage the chisel plow to turn the soil",
+                "Control the speed to prevent damage to the plow",
+                "Navigate around field edges and obstacles"
+            ]
+        },
+        {
+            "task": "Use a pitchfork to load grain into a bin",
+            "subtasks": [
+                "Stand near the grain bin",
+                "Load grain onto the bin platform with a pitchfork",
+                "Guide the grain into the bin\u2019s spout"
+            ]
+        },
+        {
+            "task": "Dump manure onto a bed",
+            "subtasks": [
+                "Position the manure spreader over a field bed",
+                "Open the shoot gate or lift the shield",
+                "Empty the manure spreader\u2019s load"
+            ]
+        },
+        {
+            "task": "Fill a hay bale with silage",
+            "subtasks": [
+                "Scoop silage from the storage area into the bale wrapper",
+                "Operate the hay baler to form the bale",
+                "Transfer the bale from the wrapper to the storage area"
+            ]
+        },
+        {
+            "task": "Repair a fence",
+            "subtasks": [
+                "Inspect the fence for damages",
+                "Gather necessary tools and materials",
+                "Restore the fence to its original condition"
+            ]
+        },
+        {
+            "task": "Plant crops with a planter",
+            "subtasks": [
+                "Monitor the planter\u2019s depth as it\u2019s inserted into the soil",
+                "Ensure proper spacing between seeds",
+                "Adjust the speed to avoid overwhelming the crew"
+            ]
+        },
+        {
+            "task": "Mow grass with a lawn mower",
+            "subtasks": [
+                "Set the mower height for the current grass height",
+                "Navigate around obstacles such as garden beds and trees"
+            ]
+        },
+        {
+            "task": "Weed a flower bed",
+            "subtasks": [
+                "Kneel down beside the bed to reach the weeds",
+                "Pull weeds by hand, being careful not to damage plants"
+            ]
+        },
+        {
+            "task": "Water crops with an irrigation system",
+            "subtasks": [
+                "Activate the irrigation system controls",
+                "Check for any leaks or misdirected water flow",
+                "Monitor the crop fields while the system runs"
+            ]
+        },
+        {
+            "task": "Prune overgrown trees",
+            "subtasks": [
+                "Climb the ladder to access the tree branches",
+                "Use pruning shears to cut back excessive growth",
+                "Remove any diseased or dead branches"
+            ]
+        },
+        {
+            "task": "Feed livestock",
+            "subtasks": [
+                "Distribute hay or feed into the animals\u2019 stalls",
+                "Check water tubs for cleanliness and refill as needed",
+                "Observe the animals for signs of illness or injury"
+            ]
+        },
+        {
+            "task": "Milch a cow",
+            "subtasks": [
+                "Position the milk tube properly around the cow\u2019s teat",
+                "Squeeze the teat gently to stimulate milk flow",
+                "Collect the milk into a container"
+            ]
+        },
+        {
+            "task": "Walk a horse around a field",
+            "subtasks": [
+                "Lead the horse with a halter and lead rope",
+                "Ensure the horse is moving safely around the perimeter"
+            ]
+        },
+        {
+            "task": "Drive a solid manure spreader",
+            "subtasks": [
+                "Operate the spreader\u2019s discharge mechanism",
+                "Navigate the spreader through the fields"
+            ]
+        },
+        {
+            "task": "Use a hand plow to turn soil",
+            "subtasks": [
+                "Grip the hand plow handle firmly",
+                "Push the plow into the soil, turning it over",
+                "Walk in straight lines or patterns for efficient coverage"
+            ]
+        },
+        {
+            "task": "Fill a manure spreader",
+            "subtasks": [
+                "Drive to the manure pile and stop the spreader",
+                "Use a spade or shovel to load manure into the spreader hopper",
+                "Tamp down the load to maximize capacity"
+            ]
+        },
+        {
+            "task": "Check grain moisture levels",
+            "subtasks": [
+                "Collect a grain sample using a probe or auger",
+                "Use a moisture meter to test the sample",
+                "Adjust storage or drying plans based on results"
+            ]
+        },
+        {
+            "task": "Stake a fence",
+            "subtasks": [
+                "Measure the necessary posts and materials",
+                "Drive fence posts into the ground",
+                "Install wire or twine to connect the posts"
+            ]
+        },
+        {
+            "task": "Operate a disc harrow",
+            "subtasks": [
+                "Control the disc harrow depth and speed",
+                "Navigate the harrow over the field, turning over residue",
+                "Inspect the field for unevenness or equipment issues"
+            ]
+        },
+        {
+            "task": "Apply fertilizer to crops",
+            "subtasks": [
+                "Determine the appropriate amount of fertilizer based on soil tests",
+                "Load the fertilizer onto a spreader",
+                "Operate the spreader to apply the fertilizer evenly"
+            ]
+        },
+        {
+            "task": "Water plants with a garden watering can",
+            "subtasks": [
+                "Unscrew the watering can\u2019s lid",
+                "Pour water into the plants\u2019 soil, avoiding leaves",
+                "Rescrew the lid tightly after use"
+            ]
+        },
+        {
+            "task": "Attaching a cultivating tool to a tractor",
+            "subtasks": [
+                "Connect the tool\u2019s three-point hitch to the tractor",
+                "Secure the hydraulic lift arms",
+                "Check the attachment for loose connections"
+            ]
+        },
+        {
+            "task": "Dump hay from a wagon",
+            "subtasks": [
+                "Position the wagon near the hayloft",
+                "Lift the wagon\u2019s dump lever to release the hay",
+                "Shovel remaining hay down the chute"
+            ]
+        },
+        {
+            "task": "Load a seeder with seed",
+            "subtasks": [
+                "Open the seed box door or hopper",
+                "Fill the box with the appropriate seed variety",
+                "Lock the seed box cover in place"
+            ]
+        },
+        {
+            "task": "Raise a fence gate",
+            "subtasks": [
+                "Identify the correct gate for access",
+                "Lift the gate hinges manually or with a hoist",
+                "Swing the gate to the open position"
+            ]
+        },
+        {
+            "task": "Measure field boundaries with a measuring wheel",
+            "subtasks": [
+                "Push or pull the measuring wheel along the boundary",
+                "Record the distances as needed for mapping or planning"
+            ]
+        },
+        {
+            "task": "Use a rototiller to aerate soil",
+            "subtasks": [
+                "Adjust the rototiller\u2019s depth setting",
+                "Start the tiller and move it through the soil, covering the desired area",
+                "Check for any missed spots or required passes"
+            ]
+        },
+        {
+            "task": "Repair a fence post",
+            "subtasks": [
+                "Diagnose the fence post\u2019s problem",
+                "Replace or reinforce the post with new materials",
+                "Retighten the wire or fencing around the post once repaired"
+            ]
+        },
+        {
+            "task": "Apply a pesticide with a boom sprayer",
+            "subtasks": [
+                "Prime the sprayer and calibrate the nozzles",
+                "Drive through the fields, monitoring spray patterns",
+                "Check nozzles for clogs or leaks during application"
+            ]
+        },
+        {
+            "task": "MAINTASK: Sit on a tractor while it\u2019s in motion",
+            "subtasks": [
+                "Sit on the tractor seat",
+                "Hold onto the handles while the tractor moves"
+            ]
+        },
+        {
+            "task": "Drive a tractor with a load of hay",
+            "subtasks": [
+                "Operate the tractor controls to move the hay wagon",
+                "Secure the load of hay on the wagon",
+                "Navigate the tractor around the field"
+            ]
+        },
+        {
+            "task": "Open a gate on a fence",
+            "subtasks": [
+                "Approach the gate",
+                "Lift the gate control mechanism",
+                "Pass through the opening",
+                "Close the gate behind"
+            ]
+        },
+        {
+            "task": "Release a gate bar",
+            "subtasks": [
+                "Locate the gate bar",
+                "Lift and push the gate bar to open the gate"
+            ]
+        },
+        {
+            "task": "Load manure onto a trailer",
+            "subtasks": [
+                "Position the trailer under the manure pile",
+                "Use a shovel or pitchfork to load manure into the trailer",
+                "Secure the load on the trailer"
+            ]
+        },
+        {
+            "task": "Attach a garden tiller to a tractor",
+            "subtasks": [
+                "Connect the tiller's hitch to the tractor",
+                "Tighten the connection points",
+                "Hook up hydraulic lines if necessary"
+            ]
+        },
+        {
+            "task": "Load a wheelbarrow with soil",
+            "subtasks": [
+                "Walk to the soil pile",
+                "Scoop soil into the wheelbarrow",
+                "Tilt the wheelbarrow to unload into a planting area"
+            ]
+        },
+        {
+            "task": "Water crops with a hose",
+            "subtasks": [
+                "Retrieve a garden hose from storage",
+                "Connect the hose to the water source",
+                "Walk through the rows, directing water to the plants"
+            ]
+        },
+        {
+            "task": "Lift hay into a loft area",
+            "subtasks": [
+                "Reach into the hayloft opening",
+                "Spin the hay using a pitchfork or loader arm",
+                "Place the hay in the designated storage area"
+            ]
+        },
+        {
+            "task": "Drive a truck to a farm field",
+            "subtasks": [
+                "Enter the truck cab",
+                "Start the truck engine",
+                "Drive the truck onto the field\u2019s access road"
+            ]
+        },
+        {
+            "task": "Drive a hay wagon over bumpy ground",
+            "subtasks": [
+                "Adjust the tractor speed to match road conditions",
+                "Maintain control of the wagon while driving over uneven terrain"
+            ]
+        },
+        {
+            "task": "Spray crops with pesticide",
+            "subtasks": [
+                "Wedge the pesticide sprayer nozzle into the nozzle box",
+                "Prime the sprayer",
+                "Walk through the rows, applying the pesticide"
+            ]
+        },
+        {
+            "task": "Mow a hay field",
+            "subtasks": [
+                "Start the mower engine",
+                "Guide the mower over the field, avoiding obstacles",
+                "Collect the cut hay into windrows"
+            ]
+        },
+        {
+            "task": "Ride a tractor with a young foal",
+            "subtasks": [
+                "Hold onto the foal while seated on the tractor"
+            ]
+        },
+        {
+            "task": "Sit on a tractor seat",
+            "subtasks": [
+                "Sit down on the tractor",
+                "Buckle up if seat belts are available"
+            ]
+        },
+        {
+            "task": "Lift and move a garden tiller",
+            "subtasks": [
+                "Stand up and grip the tiller handle",
+                "Lift the tiller off the ground",
+                "Tilt it to the side for moving"
+            ]
+        },
+        {
+            "task": "Get on and off a tractor",
+            "subtasks": [
+                "Approach the tractor",
+                "Step onto the step or ramp",
+                "Sit down in the seat",
+                "Properly secure oneself before starting"
+            ]
+        },
+        {
+            "task": "Load manure from a spreader",
+            "subtasks": [
+                "Position the spreader under the manure pile",
+                "Use a scoop or fork to load the manure",
+                "Transfer the load to the spreader chassis"
+            ]
+        },
+        {
+            "task": "Water a garden with a soaker hose",
+            "subtasks": [
+                "Connect the soaker hose to a hose bib",
+                "Unroll the hose in the garden beds",
+                "Open the valve and allow water to seep into the soil"
+            ]
+        },
+        {
+            "task": "Drive a chisel plow over a field",
+            "subtasks": [
+                "Engage the chisel plow to turn the soil",
+                "Control the speed to prevent damage to the plow",
+                "Navigate around field edges and obstacles"
+            ]
+        },
+        {
+            "task": "Use a pitchfork to load grain into a bin",
+            "subtasks": [
+                "Stand near the grain bin",
+                "Load grain onto the bin platform with a pitchfork",
+                "Guide the grain into the bin\u2019s spout"
+            ]
+        },
+        {
+            "task": "Dump manure onto a bed",
+            "subtasks": [
+                "Position the manure spreader over a field bed",
+                "Open the shoot gate or lift the shield",
+                "Empty the manure spreader\u2019s load"
+            ]
+        },
+        {
+            "task": "Fill a hay bale with silage",
+            "subtasks": [
+                "Scoop silage from the storage area into the bale wrapper",
+                "Operate the hay baler to form the bale",
+                "Transfer the bale from the wrapper to the storage area"
+            ]
+        },
+        {
+            "task": "Repair a fence",
+            "subtasks": [
+                "Inspect the fence for damages",
+                "Gather necessary tools and materials",
+                "Restore the fence to its original condition"
+            ]
+        },
+        {
+            "task": "Plant crops with a planter",
+            "subtasks": [
+                "Monitor the planter\u2019s depth as it\u2019s inserted into the soil",
+                "Ensure proper spacing between seeds",
+                "Adjust the speed to avoid overwhelming the crew"
+            ]
+        },
+        {
+            "task": "Mow grass with a lawn mower",
+            "subtasks": [
+                "Set the mower height for the current grass height",
+                "Navigate around obstacles such as garden beds and trees"
+            ]
+        },
+        {
+            "task": "Weed a flower bed",
+            "subtasks": [
+                "Kneel down beside the bed to reach the weeds",
+                "Pull weeds by hand, being careful not to damage plants"
+            ]
+        },
+        {
+            "task": "Water crops with an irrigation system",
+            "subtasks": [
+                "Activate the irrigation system controls",
+                "Check for any leaks or misdirected water flow",
+                "Monitor the crop fields while the system runs"
+            ]
+        },
+        {
+            "task": "Prune overgrown trees",
+            "subtasks": [
+                "Climb the ladder to access the tree branches",
+                "Use pruning shears to cut back excessive growth",
+                "Remove any diseased or dead branches"
+            ]
+        },
+        {
+            "task": "Feed livestock",
+            "subtasks": [
+                "Distribute hay or feed into the animals\u2019 stalls",
+                "Check water tubs for cleanliness and refill as needed",
+                "Observe the animals for signs of illness or injury"
+            ]
+        },
+        {
+            "task": "Milch a cow",
+            "subtasks": [
+                "Position the milk tube properly around the cow\u2019s teat",
+                "Squeeze the teat gently to stimulate milk flow",
+                "Collect the milk into a container"
+            ]
+        },
+        {
+            "task": "Walk a horse around a field",
+            "subtasks": [
+                "Lead the horse with a halter and lead rope",
+                "Ensure the horse is moving safely around the perimeter"
+            ]
+        },
+        {
+            "task": "Drive a solid manure spreader",
+            "subtasks": [
+                "Operate the spreader\u2019s discharge mechanism",
+                "Navigate the spreader through the fields"
+            ]
+        },
+        {
+            "task": "Use a hand plow to turn soil",
+            "subtasks": [
+                "Grip the hand plow handle firmly",
+                "Push the plow into the soil, turning it over",
+                "Walk in straight lines or patterns for efficient coverage"
+            ]
+        },
+        {
+            "task": "Fill a manure spreader",
+            "subtasks": [
+                "Drive to the manure pile and stop the spreader",
+                "Use a spade or shovel to load manure into the spreader hopper",
+                "Tamp down the load to maximize capacity"
+            ]
+        },
+        {
+            "task": "Check grain moisture levels",
+            "subtasks": [
+                "Collect a grain sample using a probe or auger",
+                "Use a moisture meter to test the sample",
+                "Adjust storage or drying plans based on results"
+            ]
+        },
+        {
+            "task": "Stake a fence",
+            "subtasks": [
+                "Measure the necessary posts and materials",
+                "Drive fence posts into the ground",
+                "Install wire or twine to connect the posts"
+            ]
+        },
+        {
+            "task": "Operate a disc harrow",
+            "subtasks": [
+                "Adjust the disc harrow depth and speed",
+                "Navigate the harrow over the field, turning over residue",
+                "Inspect the field for unevenness or equipment issues"
+            ]
+        },
+        {
+            "task": "Apply fertilizer to crops",
+            "subtasks": [
+                "Determine the appropriate amount of fertilizer based on soil tests",
+                "Load the fertilizer onto a spreader",
+                "Operate the spreader to apply the fertilizer evenly"
+            ]
+        },
+        {
+            "task": "Water plants with a garden watering can",
+            "subtasks": [
+                "Unscrew the watering can\u2019s lid",
+                "Pour water into the plants\u2019 soil, avoiding leaves",
+                "Rescrew the lid tightly after use"
+            ]
+        },
+        {
+            "task": "Attaching a cultivating tool to a tractor",
+            "subtasks": [
+                "Connect the tool\u2019s three-point hitch to the tractor",
+                "Secure the hydraulic lift arms",
+                "Check the attachment for loose connections"
+            ]
+        },
+        {
+            "task": "Dump hay from a wagon",
+            "subtasks": [
+                "Position the wagon near the hayloft",
+                "Lift the wagon\u2019s dump lever to release the hay",
+                "Shovel remaining hay down the chute"
+            ]
+        },
+        {
+            "task": "Load a seeder with seed",
+            "subtasks": [
+                "Open the seed box door or hopper",
+                "Fill the box with the appropriate seed variety",
+                "Lock the seed box cover in place"
+            ]
+        },
+        {
+            "task": "Raise a fence gate",
+            "subtasks": [
+                "Identify the correct gate for access",
+                "Lift the gate hinges manually or with a hoist",
+                "Swing the gate to the open position"
+            ]
+        },
+        {
+            "task": "Measure field boundaries with a measuring wheel",
+            "subtasks": [
+                "Push or pull the measuring wheel along the boundary",
+                "Record the distances as needed for mapping or planning"
+            ]
+        },
+        {
+            "task": "Use a rototiller to aerate soil",
+            "subtasks": [
+                "Adjust the rototiller\u2019s depth setting",
+                "Start the tiller and move it through the soil, covering the desired area",
+                "Check for any missed spots or required passes"
+            ]
+        },
+        {
+            "task": "Repair a fence post",
+            "subtasks": [
+                "Diagnose the fence post\u2019s problem",
+                "Replace or reinforce the post with new materials",
+                "Retighten the wire or fencing around the post once repaired"
+            ]
+        },
+        {
+            "task": "Apply a pesticide with a boom sprayer",
+            "subtasks": [
+                "Prime the sprayer and calibrate the nozzles",
+                "Drive through the fields, monitoring spray patterns",
+                "Check nozzles for clogs or leaks during application"
             ]
         }
     ]

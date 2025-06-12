@@ -5,26 +5,54 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Introduce a new hen to the hen house",
+            "task": "Introduce a new hen to an existing flock in a chicken coop.",
             "subtasks": [
-                "Prepare a large wire crate",
-                "Position the crate in the chicken run near the hen house",
-                "Allow the chickens to observe the new hen without direct access for 3 days",
-                "Open the crate door when the chickens have lost interest"
+                "Obtain a large wire dog crate.",
+                "Position the crate in the chicken run where the existing hens can observe it.",
+                "Place the new hen inside the crate immediately upon acquisition.",
+                "Allow three days for the existing hens to acclimate to the new hen's presence without physical conflict.",
+                "After three days, open the crate door and let the new hen exit at her own discretion.",
+                "Alternatively, introduce the new hen into the coop during darkness to avoid immediate recognition by the existing flock."
             ]
         },
         {
-            "task": "Safeguard a chicken while acclimating it to the flock",
+            "task": "Gradually familiarize a mixed-gender poultry group with each other.",
             "subtasks": [
-                "Use a dog crate or fence to separate the chicken from the flock",
-                "Gradually reduce separation as the chicken becomes accustomed to the flock"
+                "Release a rooster (e.g., Mr. Brown) into the chicken run near the existing hens.",
+                "Encourage mutual acclimation by allowing gradual interaction (e.g., eating near each other, brief stares).",
+                "Use a fencing barrier to initially separate the new addition from the main flock while facilitating observation.",
+                "Monitor interactions for signs of acceptance or continued aggression."
             ]
         },
         {
-            "task": "Ensure proper hydration for chickens",
+            "task": "Promote proper hydration practices among poultry.",
             "subtasks": [
-                "Calculate daily water intake based on body weight in ounces",
-                "Monitor and maintain adequate water consumption"
+                "Calculate daily water intake requirements based on half the bird's body weight in ounces.",
+                "Verify that each poultry member consumes their allocated portion of water daily."
+            ]
+        },
+        {
+            "task": "Introduce a new hen to an existing flock.",
+            "subtasks": [
+                "- Use a large wire crate for initial separation (SUBTASK).",
+                "- Place the crate in the chicken run where existing hens can observe (SUBTASK).",
+                "- Allow 3 days for acclimation without conflict (SUBTASK).",
+                "- Open the crate door when the new hen is ready to exit (SUBTASK) or introduce during darkness (SUBTASK)."
+            ]
+        },
+        {
+            "task": "Facilitate interaction between a rooster and hens.",
+            "subtasks": [
+                "- Release the rooster into the run near hens (SUBTASK).",
+                "- Encourage gradual interactions (SUBTASK).",
+                "- Use fencing for initial separation but allow observation (SUBTASK)."
+            ]
+        },
+        {
+            "task": "Ensure proper hydration.",
+            "subtasks": [
+                "- Calculate half body weight in ounces for daily water intake (SUBTASK).",
+                "- Monitor each bird's water consumption (SUBTASK)."
             ]
         }
     ]

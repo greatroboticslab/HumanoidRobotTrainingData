@@ -5,44 +5,68 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Participate in World Home Economics Day celebration",
+            "task": "Celebrate World Home Economics Day",
             "subtasks": [
-                "Attend gathering at Castro's Comprehensive Secondary School",
-                "Learn about World Home Economics Day 2025 theme",
-                "Listen to Acting Deputy Permanent Secretary's address",
-                "Understand the importance of local food production and youth engagement",
-                "Acknowledge the Ministry of Agriculture's commitment to food security and sustainable agriculture",
-                "Visit the Ministry of Agriculture's educational booth",
-                "Engage in interactive sessions and food preparation demonstrations",
-                "Participate in exhibitions on waste reduction and local produce integration",
-                "Understand the role of the Youth in Agriculture and Youth Agri-Entrepreneurship Programme",
-                "Appreciate the connection between the event and St. Lucia's independence theme"
+                "Students gather at school",
+                "Teachers organize event",
+                "School hosts event with officials",
+                "Minister highlights local food production",
+                "Activities include interactive sessions",
+                "Food preparation demonstrations showcased",
+                "Exhibitions on reducing waste"
             ]
         },
         {
-            "task": "Support initiatives towards food security and sustainable practices",
+            "task": "Promote sustainable agriculture",
             "subtasks": [
-                "Engage in discussions on school gardening projects",
-                "Stay informed about upcoming agricultural training initiatives",
-                "Foster a partnership between Castris Comprehensive Secondary School and the Ministry of Agriculture",
-                "Promote responsible consumption and\u5065\u5eb7\u7ba1\u7406 in public health"
+                "Demonstrate composting techniques",
+                "Explain organic food benefits"
             ]
         },
         {
-            "task": "Participate in World Home Economics Day celebration",
-            "subtasks": []
+            "task": "Create awareness",
+            "subtasks": [
+                "Inspire youth in agriculture",
+                "Address overconsumption and NCDs",
+                "Align with St. Lucia's independence theme"
+            ]
         },
         {
-            "task": "So, if the main requirement is translating the provided transcript into body tasks (which would likely pertain to the act of participating in the event), that's the way to go. Thus, the MAINTASK is participating in the event. The subtasks follow the components of the event\u2014attending, listening, interacting. The answers make sense, and Frames the user instruction as requested. So tick.",
-            "subtasks": []
+            "task": "Plan educational initiatives",
+            "subtasks": [
+                "Discuss school gardening projects",
+                "Initiate agricultural training programs"
+            ]
         },
         {
-            "task": "Participate in World Home Economics Day celebration. The subtasks are essentially steps a participant would take in such an event. This includes:",
-            "subtasks": []
+            "task": "MAINTASK: Celebrate World Home Economics Day",
+            "subtasks": [
+                "Students gather at school",
+                "Teachers organize event",
+                "Event hosted with official presence",
+                "Highlight local food production and youth engagement"
+            ]
         },
         {
-            "task": "MAINTASK: Participate in World Home Economics Day celebration",
-            "subtasks": []
+            "task": "Promote sustainable agriculture",
+            "subtasks": [
+                "Demonstrate composting techniques",
+                "Explain benefits of organic food production"
+            ]
+        },
+        {
+            "task": "Create awareness",
+            "subtasks": [
+                "Inspire youth in agriculture careers",
+                "Address overconsumption and health issues"
+            ]
+        },
+        {
+            "task": "Plan educational initiatives",
+            "subtasks": [
+                "Discuss school gardening projects",
+                "Initiate agricultural training programs"
+            ]
         }
     ]
 }

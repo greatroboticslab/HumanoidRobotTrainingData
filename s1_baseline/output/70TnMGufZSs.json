@@ -5,122 +5,101 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Assessing biotic influences on rice crop",
+            "task": "Assessing rice crop biotic influences",
             "subtasks": [
-                "Evaluating insect-related damage",
-                "Identifying weed presence and assessing their impact",
-                "Monitoring disease progression on the crop",
-                "Observing animal pests and their impact",
-                "Collecting data at maximum tillering stage"
+                "Observing crop growth and filling gaps",
+                "Sampling for animal pests (insects, snails, rats)",
+                "Collecting data on injuries caused by animal pests",
+                "Assessing injuries caused by diseases (viral, bacterial, fungal)",
+                "Sampling weeds and recording their impact on canopy height",
+                "Using sweep net to count flying insects (e.g., green leaf hoppers)",
+                "Employing tapping method with pan and water to count sucking insects (e.g., plant hoppers)",
+                "Documenting overall biological impacts on the crop across different stages"
             ]
         },
         {
-            "task": "Collecting data for biological pest assessment",
+            "task": "Managing rodent damage",
             "subtasks": [
-                "Using specific tools for pest collection",
-                "Sampling for varied pests"
+                "Identifying rat-inflicted damage in the field",
+                "Assessing extent and selectivity of rat feeding",
+                "Evaluating the impact of rat activity on crop yield",
+                "Implementing rodent control measures as part of regular program",
+                "Monitoring and preventing the spread of new bare areas caused by rats"
             ]
         },
         {
-            "task": "Managing rodent damage in the rice field",
+            "task": "Assessing rice crop biotic influences",
             "subtasks": [
-                "Implementing rodent control methods",
-                "Monitoring gaps in the crop"
+                "Observing overall crop growth and filling of gaps",
+                "Sampling for animal pests (insects, snails, rats)",
+                "Collecting data on injuries caused by animal pests",
+                "Assessing injuries caused by diseases (viral, bacterial, fungal)",
+                "Sampling weeds and recording their impact on canopy height",
+                "Using sweep net to collect flying insects",
+                "Employing tapping method with pan and water to collect insects"
             ]
         },
         {
-            "task": "Assessing biotic influences on rice crop",
+            "task": "Managing rodent damage",
             "subtasks": [
-                "Inspecting rice crop for insect pests",
-                "Using sweep net and tapping method to count flying and sucking insects",
-                "Sampling weeds from three 1m x 1m areas",
-                "Noting weed types and their relation to crop canopy height",
-                "Checking for viral, bacterial, and fungal diseases",
-                "Collecting data on disease injuries using a data sheet",
-                "Noting rodent damage (eaten rice plants, gaps created)",
-                "Assessing effectiveness of current rodent control measures",
-                "Documenting stages of crop development and biological interactions",
-                "Reassessing the crop at different growth stages for updated data"
+                "Identifying rat-damaged areas in the field",
+                "Assessing the extent and selectivity of rat feeding",
+                "Evaluating the impact on crop yield",
+                "Implementing rodent control measures",
+                "Monitoring and preventing new bare areas",
+                "Put MAINTASK: and list subtasks. Yeah, the initial instruction mentions \"MAINTASK:\" and to list each subtask under a numbered or bulleted list. Wait, actually, the instruction says MAINTASK followed directly by the general task, then lines of SUBTASK followed by the subtasks. So I need to write each subtask as a single line under MAINTASK, right?"
             ]
         },
         {
-            "task": "Collecting data for biological pest assessment",
-            "subtasks": [
-                "Using quadrat (1 healing transplanted rice equivalent) for sampling",
-                "Using sweep net and pan with water (detergent) for insect counting",
-                "Counting green leaf hoppers",
-                "Detecting plant hoppers (types mentioned)",
-                "Identifying and counting rice bugs"
-            ]
-        },
-        {
-            "task": "Managing rodent damage in the rice field",
-            "subtasks": [
-                "Enhancing existing programs to reduce rat activity",
-                "Protecting emerging areas from rodent destruction",
-                "Regularly checking for new bare areas",
-                "Evaluating the effectiveness of pest control measures"
-            ]
-        },
-        {
-            "task": "Assessing biotic influences on rice crop",
-            "subtasks": [
-                "Evaluating insect-related damage",
-                "Identifying weed presence and assessing their impact",
-                "Monitoring disease progression on the crop",
-                "Observing animal pests and their impact",
-                "Collecting data for biological pest assessment"
-            ]
-        },
-        {
-            "task": "Managing rodent damage in the rice field",
-            "subtasks": [
-                "Implementing rodent control methods",
-                "Monitoring gaps in the crop"
-            ]
-        },
-        {
-            "task": "Assessing biotic influences on rice crop",
+            "task": "Assessing rice crop biotic influences",
             "subtasks": []
         },
         {
-            "task": "Assessing biotic influences on rice crop",
-            "subtasks": [
-                "Evaluating insect-related damage",
-                "Identifying weed presence and assessing their impact",
-                "Monitoring disease progression on the crop",
-                "Observing animal pests and their impact"
-            ]
-        },
-        {
-            "task": "Collecting data for biological pest assessment",
+            "task": "Managing rodent damage",
             "subtasks": []
         },
         {
-            "task": "Managing rodent damage in the rice field",
-            "subtasks": []
-        },
-        {
-            "task": "Assessing biotic influences on rice crop",
+            "task": "Assessing rice crop biotic influences",
             "subtasks": [
-                "Evaluating insect-related damage",
-                "Managing animal pests"
+                "Observing crop growth and filling gaps",
+                "Sampling for animal pests (insects, snails, rats)",
+                "Collecting data on injuries caused by animal pests",
+                "Assessing injuries caused by diseases (viral, bacterial, fungal)",
+                "Sampling weeds and recording their impact on canopy height",
+                "Using sweep net to collect flying insects",
+                "Employing tapping method with pan and water to collect insects"
             ]
         },
         {
-            "task": "Assessing biotic influences on rice crop",
+            "task": "Managing rodent damage",
             "subtasks": [
-                "Evaluating insect-related damage",
-                "Identifying weed presence and assessing their impact",
-                "Monitoring disease progression on the crop",
-                "Observing animal pests and their impact"
+                "Identifying rat-damaged areas in the field",
+                "Assessing the extent and selectivity of rat feeding",
+                "Evaluating the impact on crop yield",
+                "Implementing rodent control measures",
+                "Monitoring and preventing new bare areas"
             ]
         },
         {
-            "task": "Managing rodent damage in the rice field",
+            "task": "MAINTASK: Assessing rice crop biotic influences",
             "subtasks": [
-                "Implementing rodent control methods",
-                "Monitoring gaps in the crop"
+                "Observing crop growth and filling gaps",
+                "Sampling for animal pests (insects, snails, rats)",
+                "Collecting data on injuries caused by animal pests",
+                "Assessing injuries caused by diseases (viral, bacterial, fungal)",
+                "Sampling weeds and recording their impact on canopy height",
+                "Using sweep net to collect flying insects",
+                "Employing tapping method with pan and water to collect insects"
+            ]
+        },
+        {
+            "task": "Managing rodent damage",
+            "subtasks": [
+                "Identifying rat-damaged areas in the field",
+                "Assessing the extent and selectivity of rat feeding",
+                "Evaluating the impact on crop yield",
+                "Implementing rodent control measures",
+                "Monitoring and preventing new bare areas"
             ]
         }
     ]

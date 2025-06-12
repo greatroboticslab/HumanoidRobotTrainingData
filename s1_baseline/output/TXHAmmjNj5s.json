@@ -5,34 +5,42 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Proper grain drill calibration",
+            "task": "Calibrating a grain drill for proper seed planting.",
             "subtasks": [
-                "Obtain seed per pound rate information",
-                "Determine the desired number of seeds per acre",
-                "Calculate pounds per acre needed to achieve desired seeding rate",
-                "Use calibration worksheet to derive seed catch amount",
-                "Prepare necessary tools (tape measure, ruler, calculator, duct tape, scale, cups)",
-                "Set grain drill to starting point (e.g., transmission in lowest setting, correct gauge wheel notch)",
-                "Measure gauge wheel circumference",
-                "Collect seed samples from specified number of row units (e.g., five for a Great Plains drill)",
-                "Empty seed cups, prime drill with seed, and turn gauge wheel a specified number of revolutions (e.g., 15 turns)",
-                "Zero out scale and weigh collected seed",
-                "Adjust seed distributor cog position using ruler for precise measurement",
-                "Repeat calibration process on other side of drill if necessary",
-                "Mark calibration settings with magnets or similar devices",
-                "Verify calibration in the field by checking periodically"
+                "Determine the number of seeds per pound.",
+                "Use the calibration worksheet to calculate the required pounds per acre.",
+                "Measure the circumference of the gauge wheel.",
+                "Adjust the transmission and notch settings of the grain drill.",
+                "Measure and mark the seed cups using a ruler.",
+                "Run the grain drill for a specified number of turns to collect seed.",
+                "Zero the scale before collecting the seed sample.",
+                "Use a calculator and spreadsheet to determine the required amount of seed.",
+                "Adjust the drilling mechanism to achieve the correct seed metering."
             ]
         },
         {
-            "task": "Calibrate John Deere type box drill (same general steps as above)",
-            "subtasks": []
+            "task": "Calibrate an air seeder grain drill.",
+            "subtasks": [
+                "Follow the same calibration process as described for the Great Plains drill."
+            ]
         },
         {
-            "task": "Calibrate air seeder (same general steps as above)",
+            "task": "Calibrate a John Deere type box drill.",
             "subtasks": [
-                "Adjust settings specific to John Deere and air seeder models",
-                "Measure transmission wheel circumference for John Deere drills",
-                "Use catch pan or cups to collect seed samples for John Deere and air seeder calibration"
+                "Follow the same calibration process as described for the Great Plains drill."
+            ]
+        },
+        {
+            "task": "Calibrate a Great Plains type box drill.",
+            "subtasks": [
+                "Ensure all seed cups are empty and clean.",
+                "Set the transmission and notch settings according to the drill model.",
+                "Measure the gauge wheel circumference and input into the calibration worksheet.",
+                "Adjust the drill setpoints based on previous experience and starting points.",
+                "Collect seed from the calibration run to calculate the correct settings.",
+                "Fine-tune the settings using the ruler to measure the seed metering.",
+                "Mark the lid with the settings for future reference.",
+                "Verify calibration accuracy in the field."
             ]
         }
     ]

@@ -5,22 +5,37 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Discussing precision farming department growth and responsibilities",
+            "task": "Operate agricultural equipment with new technologies",
             "subtasks": [
-                "Explain the speaker's (Eric Ruderskold) experience and role at Johnson Tractor",
-                "Describe the expansion of the precision farming department over three years",
-                "Outline current staffing and roles within the department",
-                "Discuss integration of precision farming into mainstream tractor equipment",
-                "Address the increasing role of technicians in operating and maintaining new equipment",
-                "Explain the importance of understanding monitor functions and equipment integration",
-                "Mention examples of specialty crop farming and seed corn cultivation",
-                "Describe the need for row shutoff controls in specialty crops and seed corn",
-                "Highlight the benefits of new technology for planting and input management"
+                "Understand precision farming department functions",
+                "Recognize growth of precision farming team",
+                "Explain integration of precision farming into tractor systems",
+                "Describe custom solutions for specialty crop farmers",
+                "Address cost considerations for premium crops like seed corn",
+                "Implement row shutoff controls for efficient planting"
             ]
         },
         {
-            "task": "Discussing precision farming department growth and responsibilities**",
-            "subtasks": []
+            "task": "MAINTASK: Operate agricultural equipment with new technologies",
+            "subtasks": [
+                "Understand precision farming department functions \u2013 Eric highlights the precision farming department's role in Johnson Tractor, which has grown from part-time to two full-time staff and an intern.",
+                "Recognize growth of precision farming team \u2013 The department has expanded over three years, indicating increasing demand for precision farming expertise.",
+                "Explain integration of precision farming into tractor systems \u2013 Precision farming is becoming a standard feature, akin to other tractor components, requiring technicians to know how monitors and other equipment interact.",
+                "Describe custom solutions for specialty crop farmers \u2013 The team provides tailored solutions, such as shutoff controls, to prevent waste in expensive crops like seed corn.",
+                "Address cost considerations for premium crops like seed corn \u2013 Farmers use shutoff controls to avoid overlapping and wasting expensive inputs (e.g., seed corn) to protect their investments.",
+                "Implement row shutoff controls for efficient planting \u2013 New technologies simplify row shutoff procedures, allowing operators to set up hoppers and plant without frequent manual adjustments."
+            ]
+        },
+        {
+            "task": "MAINTASK: Operate agricultural equipment with new technologies",
+            "subtasks": [
+                "Understand precision farming department functions",
+                "Recognize growth of precision farming team",
+                "Explain integration of precision farming into tractor systems",
+                "Describe custom solutions for specialty crop farmers",
+                "Address cost considerations for premium crops like seed corn",
+                "Implement row shutoff controls for efficient planting"
+            ]
         }
     ]
 }

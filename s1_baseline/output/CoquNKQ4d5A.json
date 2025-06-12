@@ -5,15 +5,110 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Planting and caring for peanut plants",
+            "task": "Planting Peanut Seeds",
+            "subtasks": [
+                "Determine the appropriate variety for the planting season",
+                "Check soil conditions and amend if necessary",
+                "Prepare seeds by shelling or leaving intact",
+                "Start plants indoors if necessary",
+                "Sow seeds at the correct depth",
+                "Ensure optimal plant spacing",
+                "Water plants regularly until transplanting",
+                "Transplant seedlings into the garden carefully"
+            ]
+        },
+        {
+            "task": "Growing Peanut Plants",
+            "subtasks": [
+                "Hill soil around the base of the plant when it reaches a foot in height",
+                "Apply a light mulch to prevent soil crusting",
+                "Water the plants weekly, providing 1 inch of water",
+                "Monitor nitrogen fertilizer application due to the plant's ability to fix nitrogen"
+            ]
+        },
+        {
+            "task": "Harvesting Peanuts",
+            "subtasks": [
+                "Check for signs of maturity, including yellowing leaves and gold-marked veins on shells",
+                "Pull or dig plants when soil is moist",
+                "Dry plants in an airy place after harvest",
+                "Remove unshelled pods for storage in airtight containers."
+            ]
+        },
+        {
+            "task": "Planting Peanut Seeds. Then for subtasks, there's starting indoors, handling seeds, sowing the seeds at the correct depth, and spacing the plants. But do I need to split northern and southern guidelines? Hmm. Let's see. The indoor starting is specific to northern growers. Maybe separate them.",
             "subtasks": []
         },
         {
-            "task": "Peanut Plant Care and Pest Management",
+            "task": "Selecting the peanut variety. But the transcript also says you can use early Spanish in the north. So maybe the first step is choosing the right variety based on your region. Then prepping the soil, handling the seeds\u2014whether they're shelled or not. Then starting them indoors if necessary. So maybe the MAINTASK is \"Planting Peanuts\": with subtasks like selecting variety, preparing seeds, starting indoors (only if necessary), sowing depth, etc.",
             "subtasks": []
         },
         {
-            "task": "Harvesting and Processing Peanuts",
+            "task": "Planting Peanuts",
+            "subtasks": []
+        },
+        {
+            "task": "Growing Peanut Plants",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting Peanuts",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK for planting, growing, and harvesting with the corresponding subtasks for each.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting Peanut Seeds",
+            "subtasks": []
+        },
+        {
+            "task": "Growing Peanut Plants",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting Peanuts",
+            "subtasks": []
+        },
+        {
+            "task": "Yep, that covers it. Each MAINTASK represents a major phase of peanut cultivation\u2014planting, growing, and harvesting. Each with specific subtasks that a person would perform physically. So I think that's correct.",
+            "subtasks": []
+        },
+        {
+            "task": "I think I can stop here. Let me confirm if there's an overarching task that combines all three stages. However, typically in a farming context, each of these is a distinct phase. Planting, cultivating (growing), and harvesting. So breaking it into three MAINTASKs makes sense.",
+            "subtasks": []
+        },
+        {
+            "task": "Cultivating Peanuts, with subtasks for planting, growing, and harvesting. But breaking it down into three would be more detailed and appropriate for the question. Since the question asks for a list of physical tasks a person would have to perform with their body. Each of the three MAINTASKs represents a period where the person is physically involved in the crop.",
+            "subtasks": []
+        },
+        {
+            "task": "Therefore, I think the current set of MAINTASKs and subtasks is thorough and covers all the relevant physical actions from the transcript.",
+            "subtasks": []
+        },
+        {
+            "task": "Planting Peanut Seeds**",
+            "subtasks": []
+        },
+        {
+            "task": "Growing Peanut Plants**",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting Peanuts**",
+            "subtasks": []
+        },
+        {
+            "task": "Planting Peanut Seeds",
+            "subtasks": []
+        },
+        {
+            "task": "Growing Peanut Plants",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting Peanuts",
             "subtasks": []
         }
     ]

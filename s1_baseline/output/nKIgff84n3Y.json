@@ -5,33 +5,42 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Adjusting bedding quantity based on season and cattle stage.",
+            "task": "Managing bedding quantity for cattle based on seasonal changes",
             "subtasks": [
-                "Assessing calf size and diet in fall.",
-                "Utilizing high-quality bedding in the initial stages of winter feeding.",
-                "Monitoring calves' growth and bedding quality during winter.",
-                "Adjusting bedding amount after winter snowstorms.",
-                "Managing different cattle sizes in spring.",
-                "Evaluating bedding quality during spring rains.",
-                "Accounting for increased evaporation and frequent rains in spring.",
-                "Noting the opposite bedding requirement in summer (more than winter).",
-                "Considering hot conditions, increased drinking, and higher sodium intake in summer.",
-                "Planning for higher bedding usage at the end of feeding periods in summer."
+                "Determining bedding needs for calves in the fall",
+                "Adjusting bedding based on cattle size in the winter",
+                "Monitoring and increasing bedding during snow storms in winter",
+                "Managing bedding levels for bigger cattle in the spring",
+                "Accounting for wet bedding and frequent rains in the spring",
+                "Understanding extra bedding usage in summer despite building from winter to spring"
             ]
         },
         {
-            "task": "Adjusting bedding quantity based on season and cattle stage.",
+            "task": "Recognizing the counterintuitive increase in summer bedding",
+            "subtasks": [
+                "Considering factors leading to higher summer bedding needs",
+                "Addressing increased drinking and urination in hot conditions ABORT: This may not be about physical tasks the person has to perform, and more about knowledge. Therefore, we will leave MAINTASK: Managing bedding quantity for cattle based on seasonal changes and keep the subtasks as they relate to understanding the process. The counterintuitive point about summer bedding may not translate into physical tasks, so if it's irrelevant to the physical aspects of performing the tasks, we'll exclude that part. Therefore:"
+            ]
+        },
+        {
+            "task": "Managing bedding quantity for cattle based on seasonal changes",
             "subtasks": []
         },
         {
-            "task": "Adjusting bedding quantity based on season and cattle stage.",
-            "subtasks": [
-                "Assessing calf size in fall.",
-                "Utilizing high-quality bedding during initial winter feeding.",
-                "Monitoring calf growth during winter and adjusting bedding.",
-                "Evaluating bedding quality during spring rains and adjusting upward.",
-                "Noting increased bedding usage in summer despite warmer conditions."
-            ]
+            "task": "Maybe the user wants each main idea as a separate MAINTASK, but subtasks need to be more specific actions. For example, under \"Monitoring and increasing bedding during snow storms,\" I could break it down into checking the amount of snow, deciding how much bedding to add, and then applying the bedding. Similarly, when they mention adjusting for rain in spring, perhaps the subtasks involve checking the bedding's moisture, comparing it to typical levels, and then adding more if necessary.",
+            "subtasks": []
+        },
+        {
+            "task": "Managing bedding quantity for cattle based on seasonal changes**",
+            "subtasks": []
+        },
+        {
+            "task": "Recognizing the counterintuitive increase in summer bedding**",
+            "subtasks": []
+        },
+        {
+            "task": "Managing bedding quantity for cattle based on seasonal changes",
+            "subtasks": []
         }
     ]
 }

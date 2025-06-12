@@ -5,16 +5,49 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Leveling the field for rice cultivation",
+            "task": "Level the field for wet seeded rice.",
             "subtasks": [
-                "Understanding the importance of water and weed control",
-                "Recognizing the role of consistent water levels in seedling survival",
-                "Realizing the connection between water control and weed management",
-                "Preparing for the drum seeding process in two days",
-                "Utilizing laser technology for precise leveling",
-                "Operating a tractor attachment for field levelling",
-                "Verifying the accuracy of the laser-guided levelling process",
-                "Ensuring the field is ready for subsequent drum seeding"
+                "Understanding the importance of leveling.",
+                "Operating the laser leveling device.",
+                "Verifying the leveling completion."
+            ]
+        },
+        {
+            "task": "Level the field for wet seeded rice",
+            "subtasks": [
+                "Understand the importance of water and weed control.",
+                "Drive the tractor equipped with a laser-guided leveling attachment.",
+                "Ensure the laser transmitter and receiver are functioning correctly.",
+                "Maintain the implement's height to follow the laser beam.",
+                "Confirm the leveling is satisfactory with a coach."
+            ]
+        },
+        {
+            "task": "Level the field for wet seedling rice",
+            "subtasks": [
+                "Understand the necessity of proper water and weed control.",
+                "Align a laser transmitter with a receiver attached to the leveling attachment.",
+                "Drive the tractor while adjusting the attachment\u2019s height to follow the laser beam\u2019s level path.",
+                "Verify the field's levelness with a levelling coach."
+            ]
+        },
+        {
+            "task": "Perform laser-guided field leveling",
+            "subtasks": [
+                "Position the laser transmitter and receiver.",
+                "Direct the tractor to move the attachment over the field.",
+                "Monitor and adjust the attachment height to maintain the laser\u2019s level path.",
+                "Ensure the field is levelled according to specifications."
+            ]
+        },
+        {
+            "task": "Operate a laser-guided field levelling attachment.",
+            "subtasks": [
+                "Assemble the laser transmitter and receiver.",
+                "Secure the receiver to the levelling attachment.",
+                "Drive the tractor while maintaining the attachment's height according to the laser\u2019s level signal.",
+                "Check the final result with the levelling coach's confirmation.",
+                "The main task is to level the field for wet-seeded rice, which involves understanding the importance of water and weed control. Key subtasks include operating the laser-guided leveling attachment, positioning the transmitter and receiver, driving the tractor while adjusting attachment height, and verifying the result with a coach. Physical tasks focus on operating machinery and maintaining equipment settings. The conversation reinforces the significance of precise leveling for crop establishment and high yield. The video is relevant for tasks involving agricultural machinery operation and field preparation. Answer: MAINTASK: Level the field for wet-seeded rice. \\n**SUBTASK:** Understand the importance of water and weed control. \\n**SUBTASK:** Operate the laser-guided levelling attachment (position transmitter, receiver; drive tractor, maintain height, verify with coach). \\n**Answer:** MAINTASK: Level the field for wet-seeded rice. \\n- **Subtask 1:** Understand water and weed control importance. \\n- **Subtask 2:** Operate laser transmitter and receiver. \\n- **Subtask 3:** Drive tractor with levelling attachment, adjusting height. \\n- **Subtask 4:** Confirm leveling with coach."
             ]
         }
     ]

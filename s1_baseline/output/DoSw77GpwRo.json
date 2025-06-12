@@ -5,105 +5,66 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Corral and handle goats during vaccination and banding.",
+            "task": "Herding goats into pens for vaccination and banding.",
             "subtasks": [
-                "Guide goats into a large pen.",
-                "Divide goats into smaller pens based on age and sex.",
-                "Vaccinate baby goats against blackleg, clostridial peripherens, and tetanus.",
-                "Band goats intended for meat production.",
-                "Sort nannies (female goats) and kids for separate care."
+                "Gathering goats from a large pen into smaller pens.",
+                "Sorting nannies (female goats) from billies (male goats) and kids.",
+                "Administering vaccinations (e.g., clostridial peripherens, tetanus).",
+                "Banding goats for identification in the meat industry."
             ]
         },
         {
-            "task": "Manage multi-species grazing with goats and bison.",
+            "task": "Handling and checking goats\u2019 health.",
             "subtasks": [
-                "Compare goat and bison grazing behaviors.",
-                "Discuss the impact of goats on brush and non-economic vegetation.",
-                "Explain the symbiotic effect of grazing bison and goats together.",
-                "Analyze the role of goats in managing brush and enhancing grass growth."
+                "Examining ears to determine gender (left ear female, right ear male).",
+                "Checking for signs of illness or injury (e.g., sore mouths, worms).",
+                "Ensuring correct vaccinations and treatments (e.g., dewormers, vaccines for blackleg)."
             ]
         },
         {
-            "task": "Address common fencing challenges in goat farming.",
+            "task": "Managing goats\u2019 grazing impact on the land.",
             "subtasks": [
-                "Demonstrate proper goat fencing for effective containment.",
-                "Highlight the importance of ongoing maintenance to prevent escapes."
+                "Observing the goats' browsing and grazing activities on brush and trees.",
+                "Assessing the goats' effectiveness in controlling underbrush and promoting native grass growth.",
+                "Considering the role of multi-species grazing (goats and bison) in land management."
             ]
         },
         {
-            "task": "Describe seasonal grazing and management practices.",
+            "task": "Controlling goat movement within the pasture.",
             "subtasks": [
-                "Rotate goats between pastures to allow rest and regrowth.",
-                "Utilize short-term goats grazing to improve soil health and ecosystem balance."
+                "Using corrals and pens to contain and corral goats.",
+                "Implementing strategies to prevent escape (e.g., checking fencing, using nose clips)."
             ]
         },
         {
-            "task": "Operate farm equipment safely during goat handling.",
+            "task": "Herding goats into pens for vaccination and banding.",
             "subtasks": [
-                "Use pen dividers and equipment to transport and sort goats efficiently."
+                "Gathering goats from a large pen into smaller pens.",
+                "Sorting nannies away from billies and kids.",
+                "Administering vaccinations (e.g., clostridial peripherens, tetanus).",
+                "Banding goats for meat industry identification."
             ]
         },
         {
-            "task": "Corral and handle goats during vaccination and banding. That seems like the primary task. Let's break that down.",
+            "task": "Managing goats' grazing impact on the land.",
             "subtasks": [
-                "Divide goats into pens based on age and sex. Then they give vaccinations. They mention blackleg, clostridial peripherens, tetanus. That's a set of vaccinations. So SUBTASK: Vaccinate baby goats. I think the kids are the ones getting the shots here. So, baby goats, maybe up to a certain age? The transcript mentions \"red ones\" which will \"kid here in another two months,\" so probably the kids under two months get the shots."
+                "Observing the goats' browsing on brush and trees.",
+                "Assessing the goats' role in controlling underbrush and promoting native grasses."
             ]
         },
         {
-            "task": "Corral and handle goats. That's the overarching task. Then splitting into smaller pens, vaccinations (maybe different types, like blackleg and clostridial), banding, sorting nannies and kids.",
-            "subtasks": []
+            "task": "Preventing goat escape.",
+            "subtasks": [
+                "Checking and maintaining fencing."
+            ]
         },
         {
-            "task": "Manage multi-species grazing with goats and bison. Subtasks here would include observing and discussing the impact of goats on the land, comparing their grazing patterns, discussing the benefits of combining grazers that complement each other's dietary preferences.",
-            "subtasks": []
-        },
-        {
-            "task": "Operate farm equipment safely during goat handling. Subtasks could include setting up and moving the pen dividers, ensuring safe handling of the goats when moving them from one pen to another, and being aware of the goats' behavior to prevent escapes or injuries.",
-            "subtasks": []
-        },
-        {
-            "task": "Corral and handle goats during vaccination and banding.",
-            "subtasks": []
-        },
-        {
-            "task": "Manage multi-species grazing with goats and bison.",
-            "subtasks": []
-        },
-        {
-            "task": "Check and maintain fencing.",
-            "subtasks": []
-        },
-        {
-            "task": "Rotate grazing between pastures.",
-            "subtasks": []
-        },
-        {
-            "task": "Operate farm equipment safely during goat handling.",
-            "subtasks": []
-        },
-        {
-            "task": "Manage animal handling.",
-            "subtasks": []
-        },
-        {
-            "task": "Corral and handle goats.",
-            "subtasks": []
-        },
-        {
-            "task": "Manage multi-species grazing with goats and bison.",
-            "subtasks": []
-        },
-        {
-            "task": "Maintain fencing and equipment.",
-            "subtasks": []
-        },
-        {
-            "task": "Perform rotational grazing.",
-            "subtasks": []
-        },
-        {
-            "task": "Administer deworming treatments.",
-            "subtasks": []
+            "task": "Handling and checking goats\u2019 health.",
+            "subtasks": [
+                "Examining ears to determine gender.",
+                "Checking for signs of illness or injury.",
+                "Administering dewormers and other treatments."
+            ]
         }
     ]
 }

@@ -5,14 +5,19 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Provide climate-based farming advice and management practices for peanuts",
+            "task": "Assessing climate conditions for optimal planting timing and adaptation.",
             "subtasks": [
-                "Discuss El Nino impacts on planting timing",
-                "Discuss La Nina impacts on planting timing",
-                "Address anticipated climate change effects on peanuts",
-                "Encourage irrigations and resistant varieties for drought and aflatoxin",
-                "Recommend water scheduling under hot and dry conditions",
-                "Manage insects through crop rotation and planting time adjustments"
+                "Determine inson phase (El Nino or La Nina) to adjust planting schedule.",
+                "Consider potential extreme weather and climate change impacts on crop.",
+                "Prepare practices for warmer, drier growing seasons (e.g., increased irrigation, resistant varieties).",
+                "Implement water scheduling under hot and dry conditions for peanut irrigation management."
+            ]
+        },
+        {
+            "task": "Managing insects in peanuts through rotation and planting timing.",
+            "subtasks": [
+                "Practice crop rotation to prevent buildup of soil pests.",
+                "Adjust planting methods and varieties to reduce insect pest problems."
             ]
         }
     ]

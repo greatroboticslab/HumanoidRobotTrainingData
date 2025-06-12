@@ -1,4 +1,4 @@
-# PSC Server Code
+# Humanoid Robot Training Data
 
 This repo contains the code we execute on the PSC server to obtain animation data for humanoid robot farming.
 

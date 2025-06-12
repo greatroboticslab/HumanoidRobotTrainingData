@@ -5,21 +5,23 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Troubleshoot issues with a malfunctioning sprinkler zone using a voltmeter.",
+            "task": "Troubleshooting a malfunctioning sprinkler zone using a voltmeter.",
             "subtasks": [
-                "Ensure proper testing tools: multimeter (voltmeter) or solenoid activator.",
-                "Check if the issue is a valve problem.",
-                "For a zone not stopping: replace the valve if not closing fully.",
-                "For a zone not coming on fully: replace the valve if not opening fully.",
-                "For a zone not coming on: check controller, modules, and programming.",
-                "Understand the controller's role in activating the valve.",
-                "Measure voltage between common terminal and zone terminal on the controller.",
-                "Check resistance between common and zone terminals on controller if voltage is low.",
-                "Test solenoid resistance using multimeter: 20-60 ohms for AC systems, 5 ohms for DC.",
-                "Replace solenoid/valve if resistance is low (bad solenoid).",
-                "Check wiring for voltage: 20-30 volts AC.",
-                "Identify and fix wiring issues, such as loose connections or corrosion.",
-                "Use a doubler to operate two valves with one lead wire if needed."
+                "Ensure you have a multimeter (voltmeter) for troubleshooting electrical components.",
+                "Determine the type of issue (zone won't stop running, one zone isn't coming on, or one zone won't come on at all).",
+                "Check if the controller is working properly by measuring voltage between common terminal and zone terminal.",
+                "Test solenoid resistance using multimeter's resistance range.",
+                "Verify wire connections at the valve box and check for broken wires, corrosion, or improper connections.",
+                "Replace a faulty solenoid or valve if necessary.",
+                "Check for wiring issues, such as disconnected, corroded, or incorrectly connected wires, and replace if needed.",
+                "Consider upgrading to a smart controller for future projects."
+            ]
+        },
+        {
+            "task": "Upgrading a basic sprinkler controller to a smart controller.",
+            "subtasks": [
+                "Research smart controller options on sprinklerwarehouse.com.",
+                "Consider the benefits of a smart controller, such as smartphone control and programmability."
             ]
         }
     ]

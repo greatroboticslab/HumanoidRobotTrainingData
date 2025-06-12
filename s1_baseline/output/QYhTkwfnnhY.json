@@ -5,59 +5,31 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Grain Drill Setup and Calibration",
+            "task": "Determining seed planting rate and drill setup for cover crop seeds.",
             "subtasks": [
-                "Determine seeding rate using seed analysis data",
-                "Convert seed weight to bushels for mix calculations",
-                "Set grain drill based on calculated bushel weight",
-                "Perform drill calibration using mathematical calculations or bushel weight device",
-                "Verify drill settings through calibration process",
-                "Request and use bushel weight apparatus (if needed)",
-                "Review and follow provided seed analysis sheet instructions",
-                "\" before each. Got it."
+                "Checking seed analysis sheet for seeding rate.",
+                "Calculating seeding rate using weight and area if necessary.",
+                "Understanding the role of bushel weight in drill setting.",
+                "Using a bushel weight apparatus to determine the seed's bushel weight.",
+                "Mathematically calculating the bushel weight of a seed mix.",
+                "Setting the drill based on bushel weight for accurate seed application.",
+                "Performing drill calibration for precise planting rates.",
+                "Adjusting drill settings for different components in a seed mix.",
+                "Reading and utilizing the seed analysis sheet and other provided materials."
             ]
         },
         {
-            "task": "Grains Drill Setup and Calibration. The user has to ensure the drill is set correctly for the cover crop seed based on weight, volume, and accurate calibration.",
+            "task": "Determine the correct seeding rate and drill setup for cover crop seeds.",
             "subtasks": []
         },
         {
-            "task": "Access and Utilize Seed Analysis Sheet",
-            "subtasks": []
-        },
-        {
-            "task": "Grain Drill Setup and Calibration",
+            "task": "Determine correct seeding rate and drill setup for cover crop seeds.",
             "subtasks": [
-                "Find seeding rate from seed analysis sheet",
-                "Convert seed weights to bushels for each component (if not on analysis sheet)",
-                "Set grain drill to correct bushel rate",
-                "Perform drill calibration if using mathematical method",
-                "Verify calibration and make adjustments if needed",
-                "Use a bushel weight meter (if available) to set drill without manual calculation",
-                "Review and confirm instructions from the seed analysis sheet"
-            ]
-        },
-        {
-            "task": "Setup and Calibrate Grain Drill for Cover Crops",
-            "subtasks": [
-                "Find the Correct Seeding Rate",
-                "Convert Seed Weight to Bushel Weight",
-                "Calculate Total Bushel Weight",
-                "Set the Grain Drill",
-                "Calibrate the Grains Drill (if necessary)",
-                "Utilize the Bushel Weight Device (if available)",
-                "Review and Follow the Seed Analysis Sheet"
-            ]
-        },
-        {
-            "task": "MAINTASK: Grain Drill Setup and Calibration",
-            "subtasks": [
-                "Determine Seeding Rate**",
-                "Convert Seed Weights to Bushels for Mix Calculations**",
-                "Set Drill to Correct Bushel Weight**",
-                "Perform Drill Calibration**",
-                "Utilize Bushel Weight Device (if available)**",
-                "Review and Follow Seed Analysis Sheet**"
+                "Confirm seeding rate from seed analysis sheet.",
+                "Calculate seeding rate if not provided on the sheet.",
+                "Determine bushel weight of the seed mix.",
+                "Adjust drill settings based on calculated or provided bushel weight.",
+                "Calibrate drill for precise seed application (if not already adjusted via bushel weight)."
             ]
         }
     ]

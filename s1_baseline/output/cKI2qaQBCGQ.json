@@ -5,88 +5,296 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Drive a tractor through a field.",
+            "task": "Cut hay from a hayfield.",
             "subtasks": [
-                "Sit on the tractor seat.",
-                "Steer the tractor with the steering wheel to navigate through the field.",
-                "Operate the pedals to control speed and direction."
+                "Mount riding mower.",
+                "Drive riding mower into hayfield.",
+                "Lower mower blades.",
+                "Operate mower to cut hay.",
+                "Walk through hayfield to ensure all areas are cut.",
+                "Load hay onto wagon with riding mower.",
+                "Drive riding mower to store hay.",
+                "Descend from riding mower.",
+                "Approach barn or storage area.",
+                "Open barn or storage door.",
+                "Unload hay from wagon onto floor or stack."
             ]
         },
         {
-            "task": "Attach a plow to the tractor.",
+            "task": "Feed chickens.",
             "subtasks": [
-                "Approach the plow hitch on the tractor.",
-                "Align the plow coulter with the hitch pins.",
-                "Lift the plow and attach it securely to the tractor."
+                "Retrieve feed from storage area.",
+                "Wear appropriate clothing and gloves.",
+                "Walk to chicken coop.",
+                "Open chicken coop door.",
+                "Distribute feed to chickens.",
+                "Close chicken coop door."
             ]
         },
         {
-            "task": "Operate the plow to turn the soil.",
+            "task": "Collect eggs from chickens.",
             "subtasks": [
-                "Lower the plow into the ground.",
-                "Move the tractor forward to engage the plow's cutting edges.",
-                "Maintain a straight path to properly turn the soil."
+                "Wear appropriate clothing and gloves.",
+                "Walk to chicken coop.",
+                "Observe chickens for behavior and health.",
+                "Open chicken coop door.",
+                "Collect eggs from nesting boxes.",
+                "Close chicken coop door."
             ]
         },
         {
-            "task": "Load the plowed soil onto a cart.",
+            "task": "Check on garden.",
             "subtasks": [
-                "Approach the cart positioned adjacent to the plowed area.",
-                "Maneuver the cart into position to collect the turned soil.",
-                "Use a pitchfork or shovel to transfer the soil from the plow to the cart."
+                "Walk to garden area.",
+                "Inspect plants for pests, diseases, or other issues.",
+                "Water garden as needed.",
+                "Harvest ripe vegetables or herbs."
             ]
         },
         {
-            "task": "Transport the cart to a designated area.",
+            "task": "Tend to pigs.",
             "subtasks": [
-                "steer the tractor while pulling the cart to the landing spot.",
-                "Adjust speed and direction carefully to avoid jolts."
+                "Approach pigpen or enclosure.",
+                "Feed pigs with appropriate feed.",
+                "Ensure pigs have access to water.",
+                "Check for any injured or sick pigs.",
+                "Clean enclosure if necessary."
             ]
         },
         {
-            "task": "Unload the cart.",
+            "task": "Plant corn in the field.",
             "subtasks": [
-                "Position the cart over the destination spot.",
-                "Release the soil by tilting the cart or using a chute."
+                "Walk to cornfield.",
+                "Mark rows with stakes or markers.",
+                "Determine planting depth and spacing.",
+                "Use planter to sow corn seeds."
             ]
         },
         {
-            "task": "Use a harrow to smooth the soil.",
+            "task": "Apply pesticides to crops.",
             "subtasks": [
-                "Attach the harrow to the tractor.",
-                "Lower the harrow prongs into the soil.",
-                "Drive the tractor over the field, allowing the harrow to smooth the surface."
+                "Wear protective gear.",
+                "Drive pesticide applicator into field.",
+                "Dilute pesticide concentrate.",
+                "Operate applicator to apply pesticide to crops.",
+                "Monitor application rate and coverage."
             ]
         },
         {
-            "task": "Cultivate a crop field.",
+            "task": "Harvest soybeans from field.",
             "subtasks": [
-                "Position the cultivator implements at the correct depth.",
-                "Operate the tractor to move the cultivator through the rows, breaking up soil clumps.",
-                "Check the implement's progress and adjust settings as needed."
+                "Drive combine into soybean field.",
+                "Adjust combine settings for soybeans.",
+                "Operate combine to\u5272\u8c46\u79f8 (corrected translation needed here: maybe 'Harvesting soybeans' remains? Original transcript says '\u6536\u5272\u8c46\u79f8' which is 'harvesting beans stalks' or 'soybeans stalks'. If \u2018\u6536\u5272\u2019 is the verb, it's intransitive in Chinese, but in the context, maybe the action is 'harvest soybeans'? Or maybe translate '\u8c46\u79f8' as 'soybean stubble' or 'soybean stalks' for the task title.)"
             ]
         },
         {
-            "task": "Harvest a portion of the crop using a picker.",
+            "task": "Harvest soybean stalks.",
             "subtasks": [
-                "Drive the picker through the row, cradling the crop stalks.",
-                "Ensure proper height and angle for efficient harvesting.",
-                "Operate the picker's onboard mechanism to collect the harvested material."
+                "Drive combine into soybean field.",
+                "Adjust combine settings for soybean stalks (if different from beans).",
+                "Use combine to cut and gather the stalks.",
+                "Load harvested stalks onto transport vehicle."
             ]
         },
         {
-            "task": "Load bundles or cut stalks onto a truck.",
+            "task": "Separate hay and store in barn. (if originally intended to store hay from the mower)",
             "subtasks": [
-                "Arrange the bundles or stacked stalks onto the truck bed.",
-                "Secure the load with straps or lashings to prevent shifting."
+                ""
             ]
         },
         {
-            "task": "Operate a bindler to tie the bundles.",
+            "task": "Cut hay from a hayfield.",
+            "subtasks": []
+        },
+        {
+            "task": "Feed chickens.",
+            "subtasks": []
+        },
+        {
+            "task": "Collect eggs from chickens.",
+            "subtasks": []
+        },
+        {
+            "task": "Check on garden.",
+            "subtasks": []
+        },
+        {
+            "task": "Tend to pigs.",
+            "subtasks": []
+        },
+        {
+            "task": "Plant corn in the field.",
+            "subtasks": []
+        },
+        {
+            "task": "Apply pesticides to crops.",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest soybeans from field.",
+            "subtasks": []
+        },
+        {
+            "task": "Cut hay from a hayfield.",
             "subtasks": [
-                "Feed the harvested stalks into the bindler.",
-                "Adjust the bindler settings for optimal bundling.",
-                "Transfer the tied bundles to storage or transport."
+                "Mount riding mower.",
+                "Drive riding mower into hayfield.",
+                "Lower mower blades.",
+                "Operate mower to cut hay.",
+                "Walk through hayfield to ensure all areas are cut.",
+                "Load hay onto wagon with riding mower.",
+                "Drive riding mower to store hay.",
+                "Descend from riding mower."
+            ]
+        },
+        {
+            "task": "Feed chickens.",
+            "subtasks": [
+                "Retrieve feed from storage area.",
+                "Wear appropriate clothing and gloves.",
+                "Walk to chicken coop.",
+                "Open chicken coop door.",
+                "Distribute feed to chickens.",
+                "Close chicken coop door."
+            ]
+        },
+        {
+            "task": "Collect eggs from chickens.",
+            "subtasks": [
+                "Wear appropriate clothing and gloves.",
+                "Walk to chicken coop.",
+                "Observe chickens for behavior and health.",
+                "Open chicken coop door.",
+                "Collect eggs from nesting boxes.",
+                "Close chicken coop door."
+            ]
+        },
+        {
+            "task": "Check on garden.",
+            "subtasks": [
+                "Walk to garden area.",
+                "Inspect plants for pests, diseases, or other issues.",
+                "Water garden as needed.",
+                "Harvest ripe vegetables or herbs."
+            ]
+        },
+        {
+            "task": "Tend to pigs.",
+            "subtasks": [
+                "Approach pigpen or enclosure.",
+                "Feed pigs with appropriate feed.",
+                "Ensure pigs have access to water.",
+                "Check for any injured or sick pigs.",
+                "Clean enclosure if necessary."
+            ]
+        },
+        {
+            "task": "Plant corn in the field.",
+            "subtasks": [
+                "Walk to cornfield.",
+                "Mark rows with stakes or markers.",
+                "Determine planting depth and spacing.",
+                "Use planter to sow corn seeds."
+            ]
+        },
+        {
+            "task": "Apply pesticides to crops.",
+            "subtasks": [
+                "Wear protective gear.",
+                "Drive pesticide applicator into field.",
+                "Dilute pesticide concentrate.",
+                "Operate applicator to apply pesticide to crops.",
+                "Monitor application rate and coverage."
+            ]
+        },
+        {
+            "task": "Harvest soybeans from field.",
+            "subtasks": [
+                "Drive combine into soybean field.",
+                "Adjust combine settings for soybeans.",
+                "Operate combine to\u5272\u8c46\u79f8 (\u9700\u8981\u7ffb\u8bd1\u6216\u8c03\u6574, but proceed as per Chinese context provided). As it's likely 'harvest soybean stalks', the task should involve operating the combine to cut and potentially load the stalks."
+            ]
+        },
+        {
+            "task": "MAINTASK: Cut hay from a hayfield.",
+            "subtasks": [
+                "Mount riding mower.",
+                "Drive riding mower into hayfield.",
+                "Lower mower blades.",
+                "Operate mower to cut hay.",
+                "Walk through hayfield to ensure all areas are cut.",
+                "Load hay onto wagon with riding mower.",
+                "Drive riding mower to store hay.",
+                "Descend from riding mower."
+            ]
+        },
+        {
+            "task": "Feed chickens.",
+            "subtasks": [
+                "Retrieve feed from storage area.",
+                "Wear appropriate clothing and gloves.",
+                "Walk to chicken coop.",
+                "Open chicken coop door.",
+                "Distribute feed to chickens.",
+                "Close chicken coop door."
+            ]
+        },
+        {
+            "task": "Collect eggs from chickens.",
+            "subtasks": [
+                "Wear appropriate clothing and gloves.",
+                "Walk to chicken coop.",
+                "Observe chickens for behavior and health.",
+                "Open chicken coop door.",
+                "Collect eggs from nesting boxes.",
+                "Close chicken coop door."
+            ]
+        },
+        {
+            "task": "Check on garden.",
+            "subtasks": [
+                "Walk to garden area.",
+                "Inspect plants for pests, diseases, or other issues.",
+                "Water garden as needed.",
+                "Harvest ripe vegetables or herbs."
+            ]
+        },
+        {
+            "task": "Tend to pigs.",
+            "subtasks": [
+                "Approach pigpen or enclosure.",
+                "Feed pigs with appropriate feed.",
+                "Ensure pigs have access to water.",
+                "Check for any injured or sick pigs.",
+                "Clean enclosure if necessary."
+            ]
+        },
+        {
+            "task": "Plant corn in the field.",
+            "subtasks": [
+                "Walk to cornfield.",
+                "Mark rows with stakes or markers.",
+                "Determine planting depth and spacing.",
+                "Use planter to sow corn seeds."
+            ]
+        },
+        {
+            "task": "Apply pesticides to crops.",
+            "subtasks": [
+                "Wear protective gear.",
+                "Drive pesticide applicator into field.",
+                "Dilute pesticide concentrate.",
+                "Operate applicator to apply pesticide to crops.",
+                "Monitor application rate and coverage."
+            ]
+        },
+        {
+            "task": "Harvest soybean stalks from field.",
+            "subtasks": [
+                "Drive combine into soybean field.",
+                "Adjust combine settings for soybeans.",
+                "Operate combine to\u5272\u8c46\u79f8 (harvest soybean stalks)."
             ]
         }
     ]

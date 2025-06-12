@@ -5,12 +5,36 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Design and implement a drip irrigation system for crops on Mars.",
+            "task": "Design and implement an irrigation system for crops on Mars considering low gravity.",
             "subtasks": [
-                "Understand the unique challenges of water behavior in low-gravity conditions.",
-                "Research the precise amount of water needed for plants' root systems.",
-                "Develop a closed-loop water recycling system.",
-                "Filter and reuse water efficiently."
+                "Understand water behavior under 38% Earth gravity.",
+                "Ensure precise water delivery to plant roots.",
+                "Prevent soil flooding and water evaporation.",
+                "Develop a drip irrigation system for targeted watering.",
+                "Create a closed-loop water recycling system.",
+                "Filter and reuse water to maximize efficiency."
+            ]
+        },
+        {
+            "task": "Design and implement an irrigation system for crops on Mars considering low gravity.",
+            "subtasks": [
+                "Understand water behavior under 38% Earth gravity.",
+                "Ensure precise water delivery to plant roots.",
+                "Prevent soil flooding and water evaporation.",
+                "Develop a drip irrigation system for targeted watering.",
+                "Create a closed-loop water recycling system.",
+                "Filter and reuse water to maximize efficiency."
+            ]
+        },
+        {
+            "task": "MAINTASK: Design and implement an irrigation system for crops on Mars considering low gravity.",
+            "subtasks": [
+                "Understand water behavior under 38% Earth gravity.",
+                "Ensure precise water delivery to plant roots.",
+                "Prevent soil flooding and water evaporation.",
+                "Develop a drip irrigation system for targeted watering.",
+                "Create a closed-loop water recycling system.",
+                "Filter and reuse water to maximize efficiency."
             ]
         }
     ]

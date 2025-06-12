@@ -5,27 +5,72 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Surface irrigation setup and maintenance",
+            "task": "Setup and manage flood irrigation system in a Wyoming farm.",
             "subtasks": [
-                "Dig a ditch at the top of the field",
-                "Build a canvas dam at a desired location in the field",
-                "Move the canvas dam to different areas as needed",
-                "Use aluminum pipes to siphon water from the ditch",
-                "Operate gated pipes to distribute water to specific parts of the field"
+                "Dig a ditch at the top of the field.",
+                "Construct a canvas dam in the field for water control.",
+                "Position the canvas dam to desired irrigation area.",
+                "Utilize aluminum pipes to siphon water from the ditch.",
+                "Employ gated aluminum or plastic pipes for precise water distribution.",
+                "Open and close gates on pipes to allocate water to various field sections."
             ]
         },
         {
-            "task": "Gate management for flood irrigation",
+            "task": "Develop surface irrigation using traditional methods.",
             "subtasks": [
-                "Open and close gates in aluminum or plastic pipes",
-                "Distribute water to different field areas each morning or evening"
+                "Understand the historical significance of surface irrigation techniques.",
+                "Recognize the widespread use of flood irrigation in Wyoming's farming regions.",
+                "Acknowledge the efficiency and cost-effectiveness of surface irrigation methods.",
+                "Compare flood irrigation acreage with sprinkler irrigation across national levels."
             ]
         },
         {
-            "task": "Flood irrigation technique",
+            "task": "Setup and manage flood irrigation system in a Wyoming farm.",
             "subtasks": [
-                "Utilize gravity and water flow from ditches for crop irrigation",
-                "Recognize the historical and regional significance of flood irrigation methods"
+                "Dig a ditch at the top of the field.",
+                "Construct a canvas dam in the field for water control.",
+                "Position the canvas dam to desired irrigation area.",
+                "Utilize aluminum pipes to siphon water from the ditch.",
+                "Employ gated aluminum or plastic pipes for precise water distribution.",
+                "Open and close gates on pipes to allocate water to various field sections."
+            ]
+        },
+        {
+            "task": "Develop surface irrigation using traditional methods (Old-fashioned techniques).",
+            "subtasks": [
+                "Understand the historical significance of surface irrigation techniques."
+            ]
+        },
+        {
+            "task": "But I'd need to see if the task asks for just the physical tasks. If it's the transcript analysis, then the first MAINTASK and its subtasks cover the physical actions. If not, maybe include the second MAINTASK about developing surface irrigation if that's part of the video.",
+            "subtasks": []
+        },
+        {
+            "task": "Wait, the video starts with \"Probably one of the oldest methods...\" and the farmer uses this method. Then, it's explained how it's done. So perhaps both managing the current system and recognizing it as an old method are part of the video. So for the purposes of tasks based on the transcript, both kinds of tasks are mentioned. So yes, include both MAINTASKs.",
+            "subtasks": []
+        },
+        {
+            "task": "So okay, that makes sense. Then the answer is two MAINTASKs each with various subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Setup and manage flood irrigation system in a Wyoming farm.",
+            "subtasks": [
+                "Dig a ditch at the top of the field.",
+                "Construct a canvas dam in the field for water control.",
+                "Position the canvas dam to desired irrigation area.",
+                "Utilize aluminum pipes to siphon water from the ditch to the field.",
+                "Employ gated aluminum or plastic pipes for precise water distribution.",
+                "Open and close gates on pipes to allocate water to different field sections."
+            ]
+        },
+        {
+            "task": "Understand and use traditional surface irrigation methods.",
+            "subtasks": [
+                "Recognize surface irrigation as one of the oldest agricultural techniques.",
+                "Know the current usage of surface irrigation in Wyoming's farming regions.",
+                "Acknowledge the efficiency and cost-effectiveness of surface irrigation.",
+                "Compare surface irrigation practices with other methods nationally."
             ]
         }
     ]

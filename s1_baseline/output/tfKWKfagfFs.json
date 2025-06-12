@@ -5,95 +5,53 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Implement Alternate Wetting and Drying (AWD) irrigation technique for rice fields.",
+            "task": "Applying Alternate Wetting and Drying (AWD) technique for water-saving rice farming.",
             "subtasks": [
-                "Observe water depth in the field using a field water tube.",
-                "Reflood the field when water level drops to 15 cm below soil surface.",
-                "Monitor soil moisture levels using a constructed water tube.",
-                "Start Safe AWD a few days after transplanting or when the crop is 10 cm tall.",
-                "Postpone AWD application if necessary to control early-stage weeds.",
-                "Apply nitrogen fertilizer on dry soil before irrigation.",
-                "Maintain 5 cm water depth during grain filling to avoid stress.",
-                "Experiment with deeper drying periods once yield is stable.",
-                "Construct a field water tube using local materials.",
-                "Drill holes in the bottom 20 cm of the tube for water entry.",
-                "Position the tube vertically and check alignment with external water level."
+                "Observing water level in the field using a field water tube.",
+                "Refilling the rice field with 5 cm of water when the water level drops 15 cm below the soil surface.",
+                "Starting Safe AWD irrigation a few days after transplanting or when direct-seeded rice is 10 cm tall.",
+                "Postponing Safe AWD when weeds are present until they are suppressed.",
+                "Applying nitrogen fertilizer on dry soil before irrigation.",
+                "Keeping water depth at 5 cm during grain filling to avoid yield loss.",
+                "Experimenting with deeper water thresholds (20-30 cm) after gaining confidence."
             ]
         },
         {
-            "task": "Adopt community-level AWD implementation strategies.",
+            "task": "Constructing a field water tube for AWD monitoring.",
             "subtasks": [
-                "Promote AWD adoption among local farmers.",
-                "Engage community members in AWD training and support.",
-                "Facilitate shared resources or services for AWD implementation.",
-                "Address community-level challenges to AWD adoption."
+                "Cutting materials (e.g., plastic pipe or bamboo) to 40 cm length with a 15 cm diameter.",
+                "Drilling holes (0.5 cm diameter, spaced 2 cm apart) into the lower 20 cm of the tube.",
+                "Placing the tube vertically in the soil, 20 cm protruding above the surface, away from the bund.",
+                "Verifying water level alignment inside and outside the tube."
             ]
         },
         {
-            "task": "Monitor and adjust AWD practices based on field conditions.",
+            "task": "Applying Alternate Wetting and Drying (AWD) technique for water-saving rice farming. Then the subtasks include observing water levels, refilling at specific times, when to start, dealing with weeds, fertilizing practices, keeping water during grain filling, and experimenting with deeper intervals.",
+            "subtasks": []
+        },
+        {
+            "task": "Constructing a field water tube for AWD monitoring. Subtasks there would be cutting material, drilling holes, inserting it correctly, verifying alignment.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Applying Alternate Wetting and Drying (AWD) technique for water-saving rice farming.",
             "subtasks": [
-                "Regularly check water tube readings for accurate monitoring.",
-                "Adjust flooding schedules based on soil moisture and crop needs.",
-                "Document AWD performance and yields for continuous improvement."
+                "Observing water level in the field using a field water tube.",
+                "Refilling the rice field with 5 cm of water when the water level drops 15 cm below the soil surface.",
+                "Starting Safe AWD irrigation a few days after transplanting or when the direct-seeded rice is 10 cm tall.",
+                "Postponing Safe AWD when weeds are present until they are suppressed.",
+                "Applying nitrogen fertilizer on dry soil before irrigation.",
+                "Keeping water depth at 5 cm during grain filling to avoid yield loss.",
+                "Experimenting with deeper water thresholds (20-30 cm) after gaining confidence."
             ]
         },
         {
-            "task": "Implement Alternate Wetting and Drying (AWD) irrigation technique for rice fields.",
+            "task": "Constructing a field water tube for AWD monitoring.",
             "subtasks": [
-                "Observe water depth in the field using a field water tube.",
-                "Reflood the field when water level drops to 15 cm below soil surface.",
-                "Monitor soil moisture levels using a constructed water tube.",
-                "Start Safe AWD a few days after transplanting or when the crop is 10 cm tall.",
-                "Postpone AWD application if necessary to control early-stage weeds.",
-                "Apply nitrogen fertilizer on dry soil before irrigation.",
-                "Maintain 5 cm water depth during grain filling to avoid stress.",
-                "Experiment with deeper drying periods once yield is stable.",
-                "Construct a field water tube using local materials.",
-                "Drill holes in the bottom 20 cm of the tube for water entry.",
-                "Position the tube vertically and check alignment with external water level."
-            ]
-        },
-        {
-            "task": "Adopt community-level AWD implementation strategies.",
-            "subtasks": [
-                "Promote AWD adoption among local farmers.",
-                "Engage community members in AWD training and support.",
-                "Facilitate shared resources or services for AWD implementation.",
-                "Address community-level challenges to AWD adoption."
-            ]
-        },
-        {
-            "task": "Monitor and adjust AWD practices based on field conditions.",
-            "subtasks": [
-                "Regularly check water tube readings for accurate monitoring.",
-                "Adjust flooding schedules based on soil moisture and crop needs.",
-                "Document AWD performance and yields for continuous improvement."
-            ]
-        },
-        {
-            "task": "Construct a field water tube for monitoring soil moisture.",
-            "subtasks": [
-                "Cut materials to 40 cm length with 15 cm diameter.",
-                "Drill holes on all sides in the bottom 20 cm.",
-                "Space holes every 2 cm, diameter about 0.5 cm.",
-                "Ensure the tube is stable in the soil, buried halfway with 20 cm above ground.",
-                "Check the tube's water level against the external soil surface."
-            ]
-        },
-        {
-            "task": "Adjust sprinkler irrigation timing based on water scarcity.",
-            "subtasks": [
-                "Determine when fields can go dry due to reduced water availability.",
-                "Transition to AWD as a response to water stress.",
-                "Follow AWD procedures even under water scarcity."
-            ]
-        },
-        {
-            "task": "Train farmers on water-saving irrigation techniques.",
-            "subtasks": [
-                "Conduct workshops on AWD principles and application.",
-                "Demonstrate proper use of field water tubes.",
-                "Address farmer concerns and provide support resources."
+                "Cutting materials (e.g., plastic pipe or bamboo) to 40 cm length with a 15 cm diameter.",
+                "Drilling holes (0.5 cm diameter, spaced 2 cm apart) into the lower 20 cm of the tube.",
+                "Placing the tube vertically in the soil, 20 cm protruding above the surface, away from the bund.",
+                "Verifying water level alignment inside and outside the tube."
             ]
         }
     ]

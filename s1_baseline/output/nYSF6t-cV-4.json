@@ -5,84 +5,43 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Flat me with a front to terrace land.",
+            "task": "Front preparation for farming",
             "subtasks": [
-                "Use a front end loader to scoop soil onto surface.",
-                "Level the soil with front to create even slope.",
-                "Check the surface level with hand levels or a transit.",
-                "Remove excess soil to prevent water runoff.",
-                "Repeat process on next terrace level."
+                "Identify the field area",
+                "Measure 3 feet distance from boundary",
+                "Clear vegetation and debris within the marked area",
+                "Level the soil surface",
+                "Ensure proper drainage for water runoff"
             ]
         },
         {
-            "task": "Irrigate the newly terraced land.",
+            "task": "Water application",
             "subtasks": [
-                "Position the front end loader near the newly built terrace.",
-                "Use arm to manipulate loader's spoon for spreading water evenly.",
-                "Ensure water is applied with sufficient pressure to reach the soil.",
-                "Move loader gradually across the land to cover the entire surface."
+                "Locate a water source",
+                "Direct water flow onto the prepared front",
+                "Maintain even water distribution over the area",
+                "Monitor water depth to prevent flooding"
             ]
         },
         {
-            "task": "Prepare rows for planting.",
+            "task": "Verify work quality",
             "subtasks": [
-                "With front end loader, shape the soil to create rows.",
-                "Ensure rows are straight and at the appropriate depth.",
-                "Even out furrows between rows for water absorption."
+                "Walk through the prepared area",
+                "Inspect for unevenness or undisturbed spots",
+                "Check water coverage and saturation levels"
             ]
         },
         {
-            "task": "Plant seeds or crops.",
-            "subtasks": [
-                "Sow the prepared rows with seeds or transplants.",
-                "Cover the planted areas with soil to secure the seeds or roots."
-            ]
+            "task": "Front Preparation**",
+            "subtasks": []
         },
         {
-            "task": "Maintain the terraces.",
-            "subtasks": [
-                "Monitor the water retention and drainage of the terraced land.",
-                "Adjust terrace angles if necessary for optimal water management.",
-                "Inspect for erosion and make repairs as needed."
-            ]
+            "task": "Water Application**",
+            "subtasks": []
         },
         {
-            "task": "Flat me with a front to terrace land.**",
-            "subtasks": [
-                "** Use a front end loader to scoop soil onto the surface, ensuring the area is ready for terracing. This involves manipulating the loader's spoon or bucket to gather soil.",
-                "** Level the soil with the front loader to create an even slope, checking with hand levels or a transit to ensure proper grade.",
-                "** Remove excess soil to prevent water runoff, which is critical for maintaining the integrity of the terraces.",
-                "** Continue the process for each subsequent terrace level, repeating the leveling and shaping steps."
-            ]
-        },
-        {
-            "task": "Irrigate the newly terraced land.**",
-            "subtasks": [
-                "** Position the front end loader near the completed terrace to optimize the spreading of water.",
-                "** Use the arm of the loader to manipulate the spoon for even water distribution, ensuring the pressure is sufficient to penetrate the soil.",
-                "** Move the loader across the terraced area, making sure to cover the entire surface to prevent any dry spots."
-            ]
-        },
-        {
-            "task": "Prepare rows for planting.**",
-            "subtasks": [
-                "** Utilize the front end loader to shape the soil into rows, ensuring they are straight and at the appropriate depth for planting.",
-                "** Create furrows between rows to enhance water absorption, which is crucial for the plants' root development."
-            ]
-        },
-        {
-            "task": "Plant seeds or crops.**",
-            "subtasks": [
-                "** Sow the prepared rows with seeds or transplant seedlings into the furrows, carefully covering them with soil to secure the seeds or roots."
-            ]
-        },
-        {
-            "task": "Maintain the terraces.**",
-            "subtasks": [
-                "** Regularly check the water retention and drainage of the terraced land to ensure it is functioning effectively.",
-                "** Adjust the angles of the terraces if necessary to improve water management and prevent erosion.",
-                "** Inspect the terraces for signs of erosion or damage and make repairs promptly to prevent further degradation."
-            ]
+            "task": "Verify Work Quality**",
+            "subtasks": []
         }
     ]
 }

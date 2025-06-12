@@ -5,49 +5,46 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Bamboo biochar production",
+            "task": "Cutting and prepping bamboo for biochar production",
             "subtasks": [
-                "Cutting bamboo using loppers and saber saw",
-                "Trimming bamboo branches with machete",
-                "Using table saw to cut bamboo to size",
-                "Starting a fire in the biochar pit from the top down",
-                "Monitoring temperature and managing the burn to prevent ash formation",
-                "Using hose to steam-clean the biochar after quenching the fire",
-                "Chipping and shredding the biochar with an electric shredder",
-                "Building a secondary biochar pit and repeating the process",
+                "Using loppers to cut bamboo",
+                "Using a battery-powered saber saw to cut bamboo",
+                "Felling bamboo and stacking it in the sun to dry",
+                "Trimming bamboo branches with a machete",
+                "Using a table saw to cut bamboo to size"
+            ]
+        },
+        {
+            "task": "Building and operating a biochar kiln",
+            "subtasks": [
+                "Dug a pit for the kiln (1 meter deep, 2.5 meters across)",
+                "Starting the fire at the top of the pit using paper, kindling, and cardboard",
+                "Gradually adding bamboo as the fire progresses, maintaining a temperature between 450-550 degrees",
+                "Monitoring the kiln and preventing the bamboo from turning to ash",
+                "Using a hose to steam clean the biochar until the pit is full"
+            ]
+        },
+        {
+            "task": "Chipping and shredding the biochar",
+            "subtasks": [
+                "Using an electric chipper/shredder to reduce biochar particles to earthworm digestible size"
+            ]
+        },
+        {
+            "task": "Composting the biochar",
+            "subtasks": [
                 "Mixing biochar with composted cow manure",
-                "Moistening and adding microbial community to the biochar",
-                "Understanding the carbon bonding and long-term effects of pyrolysis",
-                "Exploring multi-purpose uses of heat from the process"
+                "Adding water to moisten the biochar",
+                "Introducing microbes to the biochar before application",
+                "Building a compost pile with biochar in the garden"
             ]
         },
         {
-            "task": "Biochar application",
+            "task": "Scaling biochar production",
             "subtasks": [
-                "Mixing biochar into garden soil"
-            ]
-        },
-        {
-            "task": "** MAINTASK: Bamboo biochar production",
-            "subtasks": [
-                "Cutting bamboo using loppers and saber saw",
-                "Trimming bamboo branches with machete",
-                "Using table saw to cut bamboo to size",
-                "Starting a fire in the biochar pit from the top down",
-                "Monitoring temperature and managing the burn to prevent ash formation",
-                "Using hose to steam-clean the biochar after quenching the fire",
-                "Chipping and shredding the biochar with an electric shredder",
-                "Building a secondary biochar pit and repeating the process",
-                "Mixing biochar with composted cow manure",
-                "Moistening and adding microbial community to the biochar",
-                "Understanding the carbon bonding and long-term effects of pyrolysis",
-                "Exploring multi-purpose uses of heat from the process"
-            ]
-        },
-        {
-            "task": "Biochar application",
-            "subtasks": [
-                "Mixing biochar into garden soil"
+                "Referencing the Kon-Tiki kiln design for scalable biochar production",
+                "Considering heat recovery for cooking or electricity generation",
+                "Promoting biochar as a scalable solution for carbon sequestration"
             ]
         }
     ]

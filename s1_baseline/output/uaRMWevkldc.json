@@ -5,20 +5,18 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Define agribusiness",
+            "task": "Determine if the transcript is relevant to physical farming tasks.",
             "subtasks": [
-                "Understand the word structure combining agriculture and business",
-                "Define business according to the Oxford Economics Dictionary",
-                "Apply the definition to agriculture, creating the concept of agribusiness",
-                "Understand agribusiness as a commercial activity in crop and animal production",
-                "Recognize agribusiness as involving manufacturing and selling of food products",
-                "Understand agribusiness as a farm or company producing and selling agricultural products",
-                "Become familiar with the structure and types of commercial agribusinesses"
+                "Check if the transcript defines agribusiness and its components.",
+                "Confirm the transcript discusses commercial aspects without showing any farming activities."
             ]
         },
         {
-            "task": "** The user provided a definition of agribusiness, breaking it down into its components and explaining each part. The process starts by understanding the word structure, then defining \"business\" and applying that definition to agriculture. This leads to a comprehensive understanding of agribusiness as a commercial sector involving both farming and food product distribution. MAINTASK: Defines the term agribusiness through etymology, key definitions, and application. Sub-tasks cover each component of the definition in detail. **Answer is concise and directly addresses the MAINTASK.**",
-            "subtasks": []
+            "task": "Conclude relevance.",
+            "subtasks": [
+                "Since the transcript is about definitions, not physical tasks, determine it is irrelevant.",
+                "Finalize answer with the appropriate rejection reason."
+            ]
         }
     ]
 }

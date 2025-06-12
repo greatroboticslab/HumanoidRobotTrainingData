@@ -5,25 +5,56 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Conducting biological experiments to modify crops for pest control",
+            "task": "Research and development of gene-modified crops for pest control",
             "subtasks": [
-                "Extracting gene from peppermint plant",
-                "Inserting gene into wheat DNA",
-                "Growing modified wheat plants",
-                "Testing volatile compounds' repellent effect using olfactometer",
-                "Observing aphid behavior in controlled environment",
-                "Applying alarm pheromone to aphid colonies",
-                "Assessing insect dispersal response",
-                "Examining presence of parasitic wasps near modified plants",
-                "Evaluating field trial results in natural setting"
+                "Collect genetic material from peppermint plant",
+                "Modify crops to insert gene for producing aphid pheromones",
+                "Test synthetic pheromones using olfactometer",
+                "Observe aphid behavior in response to engineered plants",
+                "Document wasp attraction to engineered plants",
+                "Conduct field trials with gene-modified wheat",
+                "Monitor aphid and beneficial insect populations"
             ]
         },
         {
-            "task": "Analyzing the efficiency of genetically engineered pheromone-releasing crops",
+            "task": "Analyze results and refine gene-modified crops for practical application MAINTASK: Adapt pheromone-releasing crops for additional pest control MAINTASK: Explore application of gene-modification for disease vector control",
             "subtasks": [
-                "Comparing aphid populations on modified vs. regular wheat",
-                "Measuring presence of beneficial insects on modified plants",
-                "Evaluating consistency of results between laboratory and field trials"
+                "Research insects that transmit diseases to farm animals and people",
+                "Develop gene-modified crops or plants to disrupt insect-disease cycles",
+                "Test efficacy of gene-modified plants in field settings MAINTASK: Address laboratory success to real-world conditions disparity",
+                "Identify factors affecting pheromone effectiveness in field trials",
+                "Optimize gene expression or plant durability to enhance pest deterrence",
+                "Evaluate long-term environmental and economic impacts",
+                "Compliance and regulatory considerations for gene-modified crops"
+            ]
+        },
+        {
+            "task": "Research and development of gene-modified crops for pest control",
+            "subtasks": [
+                "Collect genetic material from peppermint plant",
+                "Modify crops to insert gene for producing aphid pheromones",
+                "Test synthetic pheromones using olfactometer",
+                "Observe aphid behavior in response to engineered plants",
+                "Document wasp attraction to engineered plants",
+                "Conduct field trials with gene-modified wheat",
+                "Monitor aphid and beneficial insect populations"
+            ]
+        },
+        {
+            "task": "Adapt pheromone-releasing crops for additional pest control",
+            "subtasks": [
+                "Research insects that transmit diseases to farm animals and people",
+                "Develop gene-modified crops or plants to disrupt insect-disease cycles",
+                "Test efficacy of gene-modified plants in field settings"
+            ]
+        },
+        {
+            "task": "Address laboratory success to real-world conditions disparity",
+            "subtasks": [
+                "Identify factors affecting pheromone effectiveness in field trials",
+                "Optimize gene expression or plant durability to enhance pest deterrence",
+                "Evaluate long-term environmental and economic impacts",
+                "Compliance and regulatory considerations for gene-modified crops"
             ]
         }
     ]

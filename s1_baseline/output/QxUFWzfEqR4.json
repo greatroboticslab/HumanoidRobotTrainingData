@@ -5,99 +5,954 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Use a chainsaw to fell a tree.",
+            "task": "Start the grader and adjust the controls.",
             "subtasks": [
-                "Approach the tree with the chainsaw.",
-                "Position the chainsaw for cutting.",
-                "Make the initial cut into the tree.",
-                "Make the back cut to release the tree.",
-                "Ensure the tree is falling in the desired direction."
+                "Turn the key to start the grader.",
+                "Check the controls and adjust them as needed."
             ]
         },
         {
-            "task": "Load cut tree onto a trailer.",
+            "task": "Operate the grader to level the land.",
             "subtasks": [
-                "Position the trailer near the fallen tree.",
-                "Secure the tree to the trailer.",
-                "Check the load for stability and security."
+                "Guide the grader over the field.",
+                "Monitor the grade and make adjustments."
             ]
         },
         {
-            "task": "Check the trailer and load.",
+            "task": "Drive the tractor to load the harvested grain.",
             "subtasks": [
-                "Survey the trailer and load to ensure no damage.",
-                "Confirm all limbs are properly secured."
+                "Engage the tractor and drive forward.",
+                "Align the tractor with the grain combine.",
+                "Lower the grain tank or auger."
             ]
         },
         {
-            "task": "Drive the trailer to the designated storage area.",
+            "task": "Unload the grain from the tractor.",
             "subtasks": [
-                "Maneuver the trailer onto the road.",
-                "Drive carefully to the storage area."
+                "Connect the grain tank or auger to the storage bin.",
+                "Activate the unloading mechanism."
             ]
         },
         {
-            "task": "Use a chainsaw to fell a tree. Then within that, the subtasks would be approaching, positioning, initial cut, back cut, etc. Then separate MAINTASKs for loading, checking, and driving.",
-            "subtasks": []
-        },
-        {
-            "task": "Use a chainsaw to fell a tree.",
-            "subtasks": []
-        },
-        {
-            "task": "Load cut tree onto a trailer.",
-            "subtasks": []
-        },
-        {
-            "task": "Check the trailer and load.",
-            "subtasks": []
-        },
-        {
-            "task": "Drive the trailer to the designated storage area.",
-            "subtasks": []
-        },
-        {
-            "task": "Does that look good? Each MAINTASK is a major action, and then the subtasks break them down into the steps required. The subtasks are specific actions one would take in performing the MAINTASK. That should cover it. Let me see if I'm missing anything.",
-            "subtasks": []
-        },
-        {
-            "task": "In driving the trailer, maybe they need to check brakes or ensure the load isn't shifting during driving, but driving is a MAINTASK. Checking during driving would be part of the check, but if it's after loading, perhaps the check is separate. The way I have it, checking the trailer and load is a separate MAINTASK before driving. Then during driving, just a subtask of driving carefully.",
-            "subtasks": []
-        },
-        {
-            "task": "Therefore, I think the final answer can be presented with each MAINTASK and its subtasks as listed above. Let me verify once more. The chain saw tasks are all about felling the tree, so from approach to falls, right. Then moving on to the trailer, they need to position it, load the tree, secure it. Then after that, driving. If they needed to unload, perhaps, but not stated. Confirm, the transcript says \"Drive the trailer to the designated storage area.\" So they don't mention unloading. That's correct.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Use a chainsaw to fell a tree.",
+            "task": "Fill the grain bins with the harvested grain.",
             "subtasks": [
-                "Approach the tree with the chainsaw.",
-                "Position the chainsaw for cutting.",
-                "Make the initial cut into the tree.",
-                "Make the back cut to release the tree.",
-                "Ensure the tree is falling in the desired direction."
+                "Direct the grain flow into the bins.",
+                "Monitor the grain levels and adjust as necessary."
             ]
         },
         {
-            "task": "Load cut tree onto a trailer.",
+            "task": "Close the elevator gate and clean up.",
             "subtasks": [
-                "Position the trailer near the fallen tree.",
-                "Secure the tree to the trailer.",
-                "Check the load for stability and security."
+                "Close the elevator gate to stop grain flow.",
+                "Sweep or clean the work area."
             ]
         },
         {
-            "task": "Check the trailer and load.",
+            "task": "Disassemble the grading equipment.",
             "subtasks": [
-                "Survey the trailer and load to ensure no damage.",
-                "Confirm all limbs are properly secured."
+                "Remove the grader blades or leveling tools.",
+                "Store the equipment properly."
             ]
         },
         {
-            "task": "Drive the trailer to the designated storage area.",
+            "task": "Stand in front of the combine and perform initial inspection.",
             "subtasks": [
-                "Maneuver the trailer onto the road.",
-                "Drive carefully to the storage area."
+                "Approach the combine from the front.",
+                "Check visible components for issues."
+            ]
+        },
+        {
+            "task": "Start the combine and check the oil.",
+            "subtasks": [
+                "Turn on the combine's engine.",
+                "Check the oil level and add as needed."
+            ]
+        },
+        {
+            "task": "Check the grain bin to ensure it is secure.",
+            "subtasks": [
+                "Inspect the bin for any damage.",
+                "Tighten bolts or straps if necessary."
+            ]
+        },
+        {
+            "task": "Fuel the combine.",
+            "subtasks": [
+                "Locate the fuel tank access.",
+                "Add diesel fuel to the combine."
+            ]
+        },
+        {
+            "task": "Tighten the connections on the grain auger.",
+            "subtasks": [
+                "Inspect the auger for loose connections.",
+                "Tighten any loose fittings or hoses."
+            ]
+        },
+        {
+            "task": "Add hydraulic oil to the combine.",
+            "subtasks": [
+                "Open the oil fill port on the combine.",
+                "Pour hydraulic oil into the tank."
+            ]
+        },
+        {
+            "task": "Check and adjust the depth control on the planter.",
+            "subtasks": [
+                "Locate the depth control setting on the planter.",
+                "Adjust the depth to match soil conditions."
+            ]
+        },
+        {
+            "task": "Inspect the combine for damage or needed maintenance.",
+            "subtasks": [
+                "Walk around the combine to check for visible damage.",
+                "Check for any leaks or malfunctions."
+            ]
+        },
+        {
+            "task": "Close and secure the grain bin.",
+            "subtasks": [
+                "Verify all doors and openings are closed.",
+                "Ensure the bin is properly locked or sealed."
+            ]
+        },
+        {
+            "task": "Empty the grain wagon trailers.",
+            "subtasks": [
+                "Position the trailers under the grain bin.",
+                "Operate the unloader to pour grain into the trailers."
+            ]
+        },
+        {
+            "task": "Move the empty grain trailers.",
+            "subtasks": [
+                "Secure the trailers for transportation.",
+                "Drive the trailers to the next location."
+            ]
+        },
+        {
+            "task": "Refuel the grain wagons.",
+            "subtasks": [
+                "Drive the grain wagons to the fueling station.",
+                "Start the fueling process for each wagon."
+            ]
+        },
+        {
+            "task": "Monitor the operation of the grain-elevating auger.",
+            "subtasks": [
+                "Observe the auger's performance during operation.",
+                "Check for any blockages or vibrations."
+            ]
+        },
+        {
+            "task": "Participate in corn harvesting activities.",
+            "subtasks": [
+                "Operate the grain combine to harvest corn.",
+                "Adjust the combine settings for optimal grain pickup."
+            ]
+        },
+        {
+            "task": "Adjust the plow blades according to the grade.",
+            "subtasks": [
+                "Identify the appropriate plow blade for the current grade.",
+                "Secure the plow on the tractor."
+            ]
+        },
+        {
+            "task": "Connect the plow to the tractor.",
+            "subtasks": [
+                "Couple the plow implement to the tractor drawbar.",
+                "Secure the connections."
+            ]
+        },
+        {
+            "task": "Monitor the grain mixing in the wagon.",
+            "subtasks": [
+                "Observe the grain as it's mixed in the wagon.",
+                "Ensure thorough mixing for even distribution."
+            ]
+        },
+        {
+            "task": "Check the depth settings on the planter.",
+            "subtasks": [
+                "Examine the planting mechanism's depth gauge wheels.",
+                "Ensure proper adjustment for the soil."
+            ]
+        },
+        {
+            "task": "Assist in the unloading of grain by operating the elevator.",
+            "subtasks": [
+                "Actuate the elevator controls to lower the grain.",
+                "Open the elevator gates when unloading."
+            ]
+        },
+        {
+            "task": "Mix the grain thoroughly in the wagons.",
+            "subtasks": [
+                "Operate the mixing auger or device in the grain wagon.",
+                "Ensure a homogenous mix of grain types or qualities."
+            ]
+        },
+        {
+            "task": "Adjust the hydraulic settings on the planter.",
+            "subtasks": [
+                "Modify the hydraulic piston positions on the planter.",
+                "Check the resulting depth and furrow closure."
+            ]
+        },
+        {
+            "task": "Load the grain wagon with harvested corn.",
+            "subtasks": [
+                "Guide the combine into position over the grain wagon.",
+                "Manually pour grain into the wagon."
+            ]
+        },
+        {
+            "task": "Start the hedge cutter and mow the fence lines.",
+            "subtasks": [
+                "Open the fuel tank of the hedge cutter.",
+                "Add oil to the cutter.",
+                "Engage the throttle and start the hedge cutter.",
+                "Navigate the mower around the perimeter of the field.",
+                "Cut weeds and overgrown vegetation along the fence lines."
+            ]
+        },
+        {
+            "task": "Gather the grain after harvest.",
+            "subtasks": [
+                "Use a rake or similar tool to collect scattered grain.",
+                "Transport the grain to the bin or wagon."
+            ]
+        },
+        {
+            "task": "Operate the grain separator to clean and dry the grain.",
+            "subtasks": [
+                "Load the grain into the separator.",
+                "Monitor the separation process for moisture content.",
+                "Adjust temperature or airflow as necessary."
+            ]
+        },
+        {
+            "task": "Lubricate the planter's moving parts.",
+            "subtasks": [
+                "Identify the areas requiring lubrication.",
+                "Apply the appropriate lubricant to the planter components."
+            ]
+        },
+        {
+            "task": "Secure the combine to the trailer.",
+            "subtasks": [
+                "Position the combine onto the trailer deck.",
+                "Lock the brakes and secure the ramp."
+            ]
+        },
+        {
+            "task": "Tend to the calves in the pasture.",
+            "subtasks": [
+                "Check the pasture for adequate feed and water.",
+                "Observe the calves' behavior and health."
+            ]
+        },
+        {
+            "task": "Monitor the grain bins for any structural damage.",
+            "subtasks": [
+                "Inspect the grain bins for cracks or leaks.",
+                "Note any issues for repair in the next maintenance cycle."
+            ]
+        },
+        {
+            "task": "Replace the fuel filter on the combine.",
+            "subtasks": [
+                "Locate the fuel filter on the combine.",
+                "Remove the old filter and install a new one."
+            ]
+        },
+        {
+            "task": "Check the grain wagon's sideboards for wear.",
+            "subtasks": [
+                "Inspect the sideboards for tears or holes.",
+                "Repair or replace any damaged sections."
+            ]
+        },
+        {
+            "task": "Start the grain dryer and adjust humidity settings.",
+            "subtasks": [
+                "Operate the dryer's control panel to set the temperature.",
+                "Monitor the grain as it dries in the dryer.",
+                "Modify settings if the moisture is too high or low."
+            ]
+        },
+        {
+            "task": "Check the grain being unloaded from the wagon.",
+            "subtasks": [
+                "Verify the grain's quality as it's unloaded.",
+                "Inspect for any damaged kernels or foreign materials."
+            ]
+        },
+        {
+            "task": "Apply the proper amount of water to the straw.",
+            "subtasks": [
+                "Determine the correct water dosage for straw conditioning.",
+                "Use a sprinkler system or hose to apply water."
+            ]
+        },
+        {
+            "task": "Use the grain mixer to prepare feed for animals.",
+            "subtasks": [
+                "Combine different grain types in the mixer.",
+                "Blend the feed to the desired consistency."
+            ]
+        },
+        {
+            "task": "Collect grain samples for testing.",
+            "subtasks": [
+                "Use a grain probe to take representative samples.",
+                "Label and store the samples for analysis."
+            ]
+        },
+        {
+            "task": "Fix the broken soil spots in the field.",
+            "subtasks": [
+                "Identify the areas needing attention.",
+                "Drive the agricultural implement over the damaged spots."
+            ]
+        },
+        {
+            "task": "Inspect the grain combine for damage.",
+            "subtasks": [
+                "Conduct a thorough walkaround of the combine.",
+                "Note any parts that need repair or tightening."
+            ]
+        },
+        {
+            "task": "Mix the soil during the leveling process.",
+            "subtasks": [
+                "Operate the grader to incorporate mixers or soil conditioners.",
+                "Monitor the mixing effect on the soil surface."
+            ]
+        },
+        {
+            "task": "Change the toolbar on the grain wagon to a different configuration.",
+            "subtasks": [
+                "Disassemble the current toolbar setup.",
+                "Install the new toolbar configuration.",
+                "Secure all attachments properly."
+            ]
+        },
+        {
+            "task": "Check the grain bin for the correct temperature.",
+            "subtasks": [
+                "Insert a thermometer into the grain bin to measure temperature.",
+                "Compare the readings to acceptable limits."
+            ]
+        },
+        {
+            "task": "Apply water to the drying grain.",
+            "subtasks": [
+                "Set the water misting system to the right rate.",
+                "Monitor the grain temperature and adjust if necessary."
+            ]
+        },
+        {
+            "task": "Seed the field by attaching the planter to the tractor.",
+            "subtasks": [
+                "Assemble the seed planter implements.",
+                "Attach them to the tractor for operation."
+            ]
+        },
+        {
+            "task": "Engage the grain auger to transfer grain to the wagon.",
+            "subtasks": [
+                "Press the start button on the auger control.",
+                "Monitor the auger's operation and adjust speed if needed."
+            ]
+        },
+        {
+            "task": "Use the grain mixer to prepare fertilizer solution.",
+            "subtasks": [
+                "Add water and fertilizer to the mixer tank.",
+                "Stir or agitate the mixture until well combined."
+            ]
+        },
+        {
+            "task": "Finish the grading of the field.",
+            "subtasks": [
+                "Continue the grader operation until the desired grade is achieved.",
+                "Level any remaining ruts or high spots."
+            ]
+        },
+        {
+            "task": "Operate the grazer to move the cows to fresh pasture.",
+            "subtasks": [
+                "Turn the grazer on and lead the cows.",
+                "Guide them to the next paddock."
+            ]
+        },
+        {
+            "task": "Remove loose stones from the field using a rock picker.",
+            "subtasks": [
+                "Drive the rock picker over the field areas.",
+                "Collect and remove rocks as the picker encounters them."
+            ]
+        },
+        {
+            "task": "Participate in activities related to round bale feed production.",
+            "subtasks": [
+                "Operate the baler to form bales.",
+                "Stack the bales on the wagon.",
+                "Transport the bales to the storage area."
+            ]
+        },
+        {
+            "task": "Adjust the grade based on soil tests.",
+            "subtasks": [
+                "Take soil samples from different areas of the field.",
+                "Analyze the samples for nutrient content.",
+                "Accurately measure the required depth for application."
+            ]
+        },
+        {
+            "task": "Stop the operation and set the grade.",
+            "subtasks": [
+                "Position the grader to the final cut.",
+                "Secure the grade for plowing or planting."
+            ]
+        },
+        {
+            "task": "Monitor the grain as it's delivered to the dryer.",
+            "subtasks": [
+                "Oversee the loading process to avoid overfilling.",
+                "Check for any clogged discharge ports."
+            ]
+        },
+        {
+            "task": "Check the grain for pests before storage.",
+            "subtasks": [
+                "Look for signs of insect activity in the grain.",
+                "Take appropriate measures if pests are detected."
+            ]
+        },
+        {
+            "task": "Gather data on the farm's grain production.",
+            "subtasks": [
+                "Record the amount and quality of harvested grain.",
+                "Enter data into the farm management system."
+            ]
+        },
+        {
+            "task": "Transfer dried grain to the storage bins.",
+            "subtasks": [
+                "Connect the grain unloading belt to the bins.",
+                "Control the flow to avoid overflowing the bins."
+            ]
+        },
+        {
+            "task": "MAINTASK: Start the grader and adjust the controls.",
+            "subtasks": [
+                "Turn the key to start the grader.",
+                "Check the controls and adjust them as needed."
+            ]
+        },
+        {
+            "task": "Operate the grader to level the land.",
+            "subtasks": [
+                "Guide the grader over the field.",
+                "Monitor the grade and make adjustments."
+            ]
+        },
+        {
+            "task": "Drive the tractor to load the harvested grain.",
+            "subtasks": [
+                "Engage the tractor and drive forward.",
+                "Align the tractor with the grain combine.",
+                "Lower the grain tank or auger."
+            ]
+        },
+        {
+            "task": "Unload the grain from the tractor.",
+            "subtasks": [
+                "Connect the grain tank or auger to the storage bin.",
+                "Activate the unloading mechanism."
+            ]
+        },
+        {
+            "task": "Fill the grain bins with the harvested grain.",
+            "subtasks": [
+                "Direct the grain flow into the bins.",
+                "Monitor the grain levels and adjust as necessary."
+            ]
+        },
+        {
+            "task": "Close the elevator gate and clean up.",
+            "subtasks": [
+                "Close the elevator gate to stop grain flow.",
+                "Sweep or clean the work area."
+            ]
+        },
+        {
+            "task": "Disassemble the grading equipment.",
+            "subtasks": [
+                "Remove the grader blades or leveling tools.",
+                "Store the equipment properly."
+            ]
+        },
+        {
+            "task": "Stand in front of the combine and perform initial inspection.",
+            "subtasks": [
+                "Approach the combine from the front.",
+                "Check visible components for issues."
+            ]
+        },
+        {
+            "task": "Start the combine and check the oil.",
+            "subtasks": [
+                "Turn on the combine's engine.",
+                "Check the oil level and add as needed."
+            ]
+        },
+        {
+            "task": "Check the grain bin to ensure it is secure.",
+            "subtasks": [
+                "Inspect the bin for any damage.",
+                "Tighten bolts or straps if necessary."
+            ]
+        },
+        {
+            "task": "Fuel the combine.",
+            "subtasks": [
+                "Locate the fuel tank access.",
+                "Add diesel fuel to the combine."
+            ]
+        },
+        {
+            "task": "Tighten the connections on the grain auger.",
+            "subtasks": [
+                "Inspect the auger for loose connections.",
+                "Tighten any loose fittings or hoses."
+            ]
+        },
+        {
+            "task": "Add hydraulic oil to the combine.",
+            "subtasks": [
+                "Open the oil fill port on the combine.",
+                "Pour hydraulic oil into the tank."
+            ]
+        },
+        {
+            "task": "Check and adjust the depth control on the planter.",
+            "subtasks": [
+                "Locate the depth control setting on the planter.",
+                "Adjust the depth to match soil conditions."
+            ]
+        },
+        {
+            "task": "Inspect the combine for damage or needed maintenance.",
+            "subtasks": [
+                "Walk around the combine to check for visible damage.",
+                "Check for any leaks or malfunctions."
+            ]
+        },
+        {
+            "task": "Close and secure the grain bin.",
+            "subtasks": [
+                "Verify all doors and openings are closed.",
+                "Ensure the bin is properly locked or sealed."
+            ]
+        },
+        {
+            "task": "Empty the grain wagon trailers.",
+            "subtasks": [
+                "Position the trailers under the grain bin.",
+                "Operate the unloader to pour grain into the trailers."
+            ]
+        },
+        {
+            "task": "Move the empty grain trailers.",
+            "subtasks": [
+                "Secure the trailers for transportation.",
+                "Drive the trailers to the next location."
+            ]
+        },
+        {
+            "task": "Refuel the grain wagons.",
+            "subtasks": [
+                "Drive the grain wagons to the fueling station.",
+                "Start the fueling process for each wagon."
+            ]
+        },
+        {
+            "task": "Monitor the operation of the grain-elevating auger.",
+            "subtasks": [
+                "Observe the auger's performance during operation.",
+                "Check for any blockages or vibrations."
+            ]
+        },
+        {
+            "task": "Participate in corn harvesting activities.",
+            "subtasks": [
+                "Operate the grain combine to harvest corn.",
+                "Adjust the combine settings for optimal grain pickup."
+            ]
+        },
+        {
+            "task": "Adjust the plow blades according to the grade.",
+            "subtasks": [
+                "Identify the appropriate plow blade for the current grade.",
+                "Secure the plow on the tractor."
+            ]
+        },
+        {
+            "task": "Connect the plow to the tractor.",
+            "subtasks": [
+                "Couple the plow implement to the tractor drawbar.",
+                "Secure the connections."
+            ]
+        },
+        {
+            "task": "Monitor the grain mixing in the wagon.",
+            "subtasks": [
+                "Observe the grain as it's mixed in the wagon.",
+                "Ensure thorough mixing for even distribution."
+            ]
+        },
+        {
+            "task": "Check the depth settings on the planter.",
+            "subtasks": [
+                "Examine the planting mechanism's depth gauge wheels.",
+                "Ensure proper adjustment for the soil."
+            ]
+        },
+        {
+            "task": "Assist in the unloading of grain by operating the elevator.",
+            "subtasks": [
+                "Actuate the elevator controls to lower the grain.",
+                "Open the elevator gates when unloading."
+            ]
+        },
+        {
+            "task": "Mix the grain thoroughly in the wagons.",
+            "subtasks": [
+                "Operate the mixing auger or device in the grain wagon.",
+                "Ensure a homogenous mix of grain types or qualities."
+            ]
+        },
+        {
+            "task": "Adjust the hydraulic settings on the planter.",
+            "subtasks": [
+                "Modify the hydraulic piston positions on the planter.",
+                "Check the resulting depth and furrow closure."
+            ]
+        },
+        {
+            "task": "Load the grain wagon with harvested corn.",
+            "subtasks": [
+                "Guide the combine into position over the grain wagon.",
+                "Manually pour grain into the wagon."
+            ]
+        },
+        {
+            "task": "Start the hedge cutter and mow the fence lines.",
+            "subtasks": [
+                "Open the fuel tank of the hedge cutter.",
+                "Add oil to the cutter.",
+                "Engage the throttle and start the hedge cutter.",
+                "Navigate the mower around the perimeter of the field.",
+                "Cut weeds and overgrown vegetation along the fence lines."
+            ]
+        },
+        {
+            "task": "Gather the grain after harvest.",
+            "subtasks": [
+                "Use a rake or similar tool to collect scattered grain.",
+                "Transport the grain to the bin or wagon."
+            ]
+        },
+        {
+            "task": "Operate the grain separator to clean and dry the grain.",
+            "subtasks": [
+                "Load the grain into the separator.",
+                "Monitor the separation process for moisture content.",
+                "Adjust temperature or airflow as necessary."
+            ]
+        },
+        {
+            "task": "Lubricate the planter's moving parts.",
+            "subtasks": [
+                "Identify the areas requiring lubrication.",
+                "Apply the appropriate lubricant to the planter components."
+            ]
+        },
+        {
+            "task": "Secure the combine to the trailer.",
+            "subtasks": [
+                "Position the combine onto the trailer deck.",
+                "Lock the brakes and secure the ramp."
+            ]
+        },
+        {
+            "task": "Tend to the calves in the pasture.",
+            "subtasks": [
+                "Check the pasture for adequate feed and water.",
+                "Observe the calves' behavior and health."
+            ]
+        },
+        {
+            "task": "Monitor the grain bins for any structural damage.",
+            "subtasks": [
+                "Inspect the grain bins for cracks or leaks.",
+                "Note any issues for repair in the next maintenance cycle."
+            ]
+        },
+        {
+            "task": "Replace the fuel filter on the combine.",
+            "subtasks": [
+                "Locate the fuel filter on the combine.",
+                "Remove the old filter and install a new one."
+            ]
+        },
+        {
+            "task": "Check the grain wagon's sideboards for wear.",
+            "subtasks": [
+                "Inspect the sideboards for tears or holes.",
+                "Repair or replace any damaged sections."
+            ]
+        },
+        {
+            "task": "Start the grain dryer and adjust humidity settings.",
+            "subtasks": [
+                "Operate the dryer's control panel to set the temperature.",
+                "Monitor the grain as it dries in the dryer.",
+                "Modify settings if the moisture is too high or low."
+            ]
+        },
+        {
+            "task": "Check the grain being unloaded from the wagon.",
+            "subtasks": [
+                "Verify the grain's quality as it's unloaded.",
+                "Inspect for any damaged kernels or foreign materials."
+            ]
+        },
+        {
+            "task": "Apply the proper amount of water to the straw.",
+            "subtasks": [
+                "Determine the correct water dosage for straw conditioning.",
+                "Use a sprinkler system or hose to apply water."
+            ]
+        },
+        {
+            "task": "Use the grain mixer to prepare feed for animals.",
+            "subtasks": [
+                "Combine different grain types in the mixer.",
+                "Blend the feed to the desired consistency."
+            ]
+        },
+        {
+            "task": "Collect grain samples for testing.",
+            "subtasks": [
+                "Use a grain probe to take representative samples.",
+                "Label and store the samples for analysis."
+            ]
+        },
+        {
+            "task": "Fix the broken soil spots in the field.",
+            "subtasks": [
+                "Identify the areas needing attention.",
+                "Drive the agricultural implement over the damaged spots."
+            ]
+        },
+        {
+            "task": "Inspect the grain combine for damage.",
+            "subtasks": [
+                "Conduct a thorough walkaround of the combine.",
+                "Note any parts that need repair or tightening."
+            ]
+        },
+        {
+            "task": "Mix the soil during the leveling process.",
+            "subtasks": [
+                "Operate the grader to incorporate mixers or soil conditioners.",
+                "Monitor the mixing effect on the soil surface."
+            ]
+        },
+        {
+            "task": "Change the toolbar on the grain wagon to a different configuration.",
+            "subtasks": [
+                "Disassemble the current toolbar setup.",
+                "Install the new toolbar configuration.",
+                "Secure all attachments properly."
+            ]
+        },
+        {
+            "task": "Check the grain bin for the correct temperature.",
+            "subtasks": [
+                "Insert a thermometer into the grain bin to measure temperature.",
+                "Compare the readings to acceptable limits."
+            ]
+        },
+        {
+            "task": "Apply water to the drying grain.",
+            "subtasks": [
+                "Set the water misting system to the right rate.",
+                "Monitor the grain temperature and adjust if necessary."
+            ]
+        },
+        {
+            "task": "Seed the field by attaching the planter to the tractor.",
+            "subtasks": [
+                "Assemble the seed planter implements.",
+                "Attach them to the tractor for operation."
+            ]
+        },
+        {
+            "task": "Engage the grain auger to transfer grain to the wagon.",
+            "subtasks": [
+                "Press the start button on the auger control.",
+                "Monitor the auger's operation and adjust speed if needed."
+            ]
+        },
+        {
+            "task": "Use the grain mixer to prepare fertilizer solution.",
+            "subtasks": [
+                "Add water and fertilizer to the mixer tank.",
+                "Stir or agitate the mixture until well combined."
+            ]
+        },
+        {
+            "task": "Finish the grading of the field.",
+            "subtasks": [
+                "Continue the grader operation until the desired grade is achieved.",
+                "Level any remaining ruts or high spots."
+            ]
+        },
+        {
+            "task": "Operate the grazer to move the cows to fresh pasture.",
+            "subtasks": [
+                "Turn the grazer on and lead the cows.",
+                "Guide them to the next paddock."
+            ]
+        },
+        {
+            "task": "Remove loose stones from the field using a rock picker.",
+            "subtasks": [
+                "Drive the rock picker over the field areas.",
+                "Collect and remove rocks as the picker encounters them."
+            ]
+        },
+        {
+            "task": "Participate in activities related to round bale feed production.",
+            "subtasks": [
+                "Operate the baler to form bales.",
+                "Stack the bales on the wagon.",
+                "Transport the bales to the storage area."
+            ]
+        },
+        {
+            "task": "Adjust the grade based on soil tests.",
+            "subtasks": [
+                "Take soil samples from different areas of the field.",
+                "Analyze the samples for nutrient content.",
+                "Accurately measure the required depth for application."
+            ]
+        },
+        {
+            "task": "Stop the operation and set the grade.",
+            "subtasks": [
+                "Position the grader to the final cut.",
+                "Secure the grade for plowing or planting."
+            ]
+        },
+        {
+            "task": "Monitor the grain as it's delivered to the dryer.",
+            "subtasks": [
+                "Oversee the loading process to avoid overfilling.",
+                "Check for any clogged discharge ports."
+            ]
+        },
+        {
+            "task": "Check the grain for pests before storage.",
+            "subtasks": [
+                "Look for signs of insect activity in the grain.",
+                "Take appropriate measures if pests are detected."
+            ]
+        },
+        {
+            "task": "Gather data on the farm's grain production.",
+            "subtasks": [
+                "Record the amount and quality of harvested grain.",
+                "Enter data into the farm management system."
+            ]
+        },
+        {
+            "task": "Transfer dried grain to the storage bins.",
+            "subtasks": [
+                "Connect the grain unloading belt to the bins.",
+                "Control the flow to avoid overflowing the bins."
+            ]
+        },
+        {
+            "task": "Start the grader and adjust the controls.",
+            "subtasks": [
+                "Turn the key to start the grader.",
+                "Check the controls and adjust them as needed."
+            ]
+        },
+        {
+            "task": "Participate in activities related to round bale feed production.",
+            "subtasks": [
+                "Operate the baler to form bales.",
+                "Stack the bales on the wagon.",
+                "Transport the bales to the storage area."
+            ]
+        },
+        {
+            "task": "Adjust the grade based on soil tests.",
+            "subtasks": [
+                "Take soil samples from different areas of the field.",
+                "Analyze the samples for nutrient content.",
+                "Accurately measure the required depth for application."
+            ]
+        },
+        {
+            "task": "Stop the operation and set the grade.",
+            "subtasks": [
+                "Position the grader to the final cut.",
+                "Secure the grade for plowing or planting."
+            ]
+        },
+        {
+            "task": "Monitor the grain as it's delivered to the dryer.",
+            "subtasks": [
+                "Oversee the loading process to avoid overfilling.",
+                "Check for any clogged discharge ports."
+            ]
+        },
+        {
+            "task": "Check the grain for pests before storage.",
+            "subtasks": [
+                "Look for signs of insect activity in the grain.",
+                "Take appropriate measures if pests are detected."
+            ]
+        },
+        {
+            "task": "Gather data on the farm's grain production.",
+            "subtasks": [
+                "Record the amount and quality of harvested grain.",
+                "Enter data into the farm management system."
+            ]
+        },
+        {
+            "task": "Transfer dried grain to the storage bins.",
+            "subtasks": [
+                "Connect the grain unloading belt to the bins.",
+                "Control the flow to avoid overflowing the bins."
+            ]
+        },
+        {
+            "task": "Start the grader and adjust the controls.",
+            "subtasks": [
+                "Turn the key to start the grader.",
+                "Check the controls and adjust them as needed."
             ]
         }
     ]

@@ -5,14 +5,49 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Arc welding a crack in a farming or construction equipment component.",
+            "task": "Performing Welding Repair on Farm Equipment",
             "subtasks": [
-                "Cleaning the area around the crack.",
-                "Examining the crack to determine its extent.",
-                "Attempting to weld the crack using personal welding skills.",
-                "Addressing a gas interruption during welding.",
-                "Planning to repaint the welded area.",
-                "Scheduling a follow-up repair for the incomplete weld."
+                "Inspecting the crack location",
+                "Removing previous surface-level welds",
+                "Making a better quality weld",
+                "Addressing weld gas outage mid-process",
+                "Preparing for painting and future repairs"
+            ]
+        },
+        {
+            "task": "Performing Welding Repair on Farm Equipment make sense? Since it's very specific to agriculture (welding farm equipment), maybe it's okay. Let's see the subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "inspecting the crack, removing old welds, doing better weld, handling gas outage, and painting. These are all steps in repairing equipment. Is that too specialized? The person isn't planting or harvesting; they are dealing with machinery. So it's relevant to the broader category of agriculture, which includes maintaining farm equipment. I think this is acceptable.",
+            "subtasks": []
+        },
+        {
+            "task": "Therefore, the MAINTASK and its subtasks should be included.",
+            "subtasks": []
+        },
+        {
+            "task": "Performing Welding Repair on Farm Equipment",
+            "subtasks": [
+                "Inspecting the crack location",
+                "Removing previous surface-level welds",
+                "Making a better quality weld",
+                "Addressing weld gas outage mid-process",
+                "Preparing for painting and future repairs"
+            ]
+        },
+        {
+            "task": "The transcript describes the process of welding a crack in farm equipment, requiring several physical tasks. The main task is MAINTASK: Performing Welding Repair on Farm Equipment, broken down into several subtasks:",
+            "subtasks": []
+        },
+        {
+            "task": "Performing Welding Repair on Farm Equipment",
+            "subtasks": [
+                "Inspecting the crack location",
+                "Removing previous surface-level welds",
+                "Making a better quality weld",
+                "Addressing weld gas outage mid-process",
+                "Preparing for painting and future repairs"
             ]
         }
     ]

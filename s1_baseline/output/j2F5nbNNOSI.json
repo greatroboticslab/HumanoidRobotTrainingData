@@ -5,41 +5,84 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Understand China's dominance in bamboo cultivation and various techniques.",
+            "task": "Growing bamboo in China",
             "subtasks": [
-                "Recognize the importance of bamboo in Chinese agriculture.",
-                "Identify China's geographical advantages for bamboo cultivation.",
-                "Learn about the species diversity of bamboo in China.",
-                "Understand the ideal climatic conditions in Chinese regions for bamboo growth.",
-                "Note the widespread distribution of bamboo plantations across Chinese provinces.",
-                "Acknowledge China's potential for further bamboo plantation development.",
-                "Examine traditional and modern bamboo cultivation techniques used in China.",
-                "Consider the use of seeds, roots, and stem cuttings for bamboo propagation.",
-                "Understand the use of tissue culture method in bamboo cultivation.",
-                "Reflect on the significance of bamboo as a sustainable alternative to wood."
+                "Spreading bamboo seeds on farmland",
+                "Watering bamboo plants after seed germination",
+                "Transferring young bamboo saplings to plastic bags",
+                "Cutting and dividing mature bamboo into sections",
+                "Planting bamboo sections in soil with hole for water retention",
+                "Propagating bamboo through roots (distinguishing between running and clumping varieties)",
+                "Using the tree branching method to propagate new plants",
+                "Digging up and transplanting existing plant sections",
+                "Utilizing tissue culture methods for bamboo propagation"
             ]
         },
         {
-            "task": "Reflect on the global relevance of China's bamboo production.",
+            "task": "Analyzing China's success in bamboo cultivation",
             "subtasks": [
-                "Discuss China's contribution to bamboo cultivation techniques.",
-                "Debate the implications of China's large-scale bamboo production for global agriculture."
+                "Considering geographical location and climate",
+                "Evaluating natural and man-made bamboo forests",
+                "Assessing the role of varied innovative techniques"
             ]
         },
         {
-            "task": "Analyze the geographical and climatic factors enabling bamboo cultivation in China.",
+            "task": "Those seem like the main agricultural tasks. But then the rest of the transcript is more about the geographical advantages, the number of species, and the environmental conditions. Since the instruction says to focus on physical tasks performed by a person, the analysis parts probably don't count, so I need to ignore that part. So the MAINTASK should be something like \"Growing bamboo in China,\" then list the subtasks as the individual steps involved in propagation and planting.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Growing bamboo in China",
             "subtasks": [
-                "Identify the climatic zones suitable for bamboo growth in China.",
-                "Describe the impact of monsoon regions on Chinese bamboo plantations."
+                "Spreading bamboo seeds on farmland",
+                "Watering the germinated seeds/plants",
+                "Transferring saplings to plastic bags",
+                "Cutting and dividing mature bamboo into sections",
+                "Planting sections with a hole for water retention",
+                "Propagating through roots (distinguishing between running and clumping)",
+                "Using the tree branching method",
+                "Transplanting existing sections",
+                "Utilizing tissue culture method",
+                "Using special watering techniques), or any other step. Let me check again."
             ]
         },
         {
-            "task": "Summarize the various methods used in bamboo propagation in China.",
+            "task": "Growing bamboo in China",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Growing bamboo in China",
             "subtasks": [
-                "Outline seed propagation methods for bamboo.",
-                "Explain root propagation techniques.",
-                "Describe branching propagation and its application.",
-                "Highlight the use of tissue culture in modern bamboo cultivation."
+                "Spreading bamboo seeds on farmland",
+                "Watering the germinated seeds/plants",
+                "Transferring saplings to plastic bags",
+                "Cutting and dividing mature bamboo into sections",
+                "Planting sections with a hole for water retention",
+                "Propagating through roots (distinguishing between running and clumping)",
+                "Using the tree branching method",
+                "Transplanting existing sections",
+                "Utilizing tissue culture method"
+            ]
+        },
+        {
+            "task": "Analyzing China's success in bamboo cultivation (excluded as non-physical tasks)",
+            "subtasks": []
+        },
+        {
+            "task": "Growing bamboo in China",
+            "subtasks": [
+                "Spreading bamboo seeds on farmland",
+                "Watering the germinated seeds/plants",
+                "Transferring saplings to plastic bags",
+                "Cutting and dividing mature bamboo into sections",
+                "Planting sections with a hole for water retention",
+                "Propagating through roots (distinguishing between running and clumping)",
+                "Using the tree branching method",
+                "Transplanting existing sections",
+                "Utilizing tissue culture method"
             ]
         }
     ]

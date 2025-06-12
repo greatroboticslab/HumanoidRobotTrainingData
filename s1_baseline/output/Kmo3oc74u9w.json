@@ -5,49 +5,1011 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Plant corn",
+            "task": "The narrator rides in a truck driving through a field checking crops.",
             "subtasks": [
-                "Walk through the field",
-                "Locate row to plant",
-                "Operate corn planter",
-                "Align planter with row",
-                "Drop corn seeds into soil",
-                "Cover seeds with soil"
+                "Enter into a truck.",
+                "Drive a truck on a field path.",
+                "Observe crops while driving."
             ]
         },
         {
-            "task": "Operate tractor",
+            "task": "The narrator picks six ears of corn from the field.",
             "subtasks": [
-                "Start tractor engine",
-                "Engage transmission",
-                "Navigate through field",
-                "Apply fertilizer or pesticide",
-                "Plant next row"
+                "Approach a corn stalk.",
+                "Identify six corn ears.",
+                "Physically detach six corn ears from corn stalk.",
+                "Hold six corn ears."
             ]
         },
         {
-            "task": "Prepare field for planting",
+            "task": "The narrator rubs the corn to remove some of the husks.",
             "subtasks": [
-                "Disc the soil",
-                "Level the field",
-                "Smooth the soil surface"
+                "Take a corn ear in hand.",
+                "Rub the outer husks of the corn ear between fingers to remove some of the husk."
             ]
         },
         {
-            "task": "Load fertilizer onto truck",
+            "task": "The narrator snaps the kernels off the corn using their teeth.",
             "subtasks": [
-                "Approach storage area",
-                "Open gate",
-                "Reverse truck into storage",
-                "Unload fertilizer bags"
+                "Place corn ear between teeth.",
+                "Use teeth to separate the kernels from the cob, removing them."
             ]
         },
         {
-            "task": "Secure tractor to wagon",
+            "task": "The narrator checks the corn's sweetness.",
             "subtasks": [
-                "Couple tractor to wagon",
-                "Ensure secure attachment"
+                "Take a corn ear after teeth have worked on it.",
+                "Smell or taste the kernels to assess sweetness."
             ]
+        },
+        {
+            "task": "The narrator smells the ear of corn.",
+            "subtasks": [
+                "Take the corn ear to nose.",
+                "Sniff the corn ear to check for aroma."
+            ]
+        },
+        {
+            "task": "The narrator spits out the cob of the eaten corn.",
+            "subtasks": [
+                "Hold the remaining cob part after eating the kernels.",
+                "Disgorge the cob by spitting it out."
+            ]
+        },
+        {
+            "task": "The narrator chews and swallows the corn.",
+            "subtasks": [
+                "Place corn kernels in mouth.",
+                "Chew the corn kernels.",
+                "Swallow the chewed corn."
+            ]
+        },
+        {
+            "task": "The narrator shifts gears on the truck.",
+            "subtasks": [
+                "In the truck, move from one gear to another."
+            ]
+        },
+        {
+            "task": "The narrator uncovers a metal gate to access a field.",
+            "subtasks": [
+                "Approach a metal gate.",
+                "Physically open a metal gate to enter a field."
+            ]
+        },
+        {
+            "task": "The narrator walks through a gate into a field.",
+            "subtasks": [
+                "Walk through an opening in the gate.",
+                "Enter the field via the opened gate."
+            ]
+        },
+        {
+            "task": "The narrator checks equipment in a hallway.",
+            "subtasks": [
+                "Walk into a hallway or building.",
+                "Examine agricultural equipment, possibly in a garage or shed."
+            ]
+        },
+        {
+            "task": "The narrator walks around a truck bed.",
+            "subtasks": [
+                "Approach the back of a truck.",
+                "Walk around the rear of the truck to check the bed."
+            ]
+        },
+        {
+            "task": "The narrator opens a metal box on the bottom of the truck.",
+            "subtasks": [
+                "Find a metal box attached beneath the truck.",
+                "Open the metal box."
+            ]
+        },
+        {
+            "task": "The narrator lifts the box out from under the truck.",
+            "subtasks": [
+                "Using physical strength, lift the metal box from under the truck."
+            ]
+        },
+        {
+            "task": "The narrator puts the box inside the truck and under the seat.",
+            "subtasks": [
+                "Transport the box by lifting it and placing it behind the driver's seat."
+            ]
+        },
+        {
+            "task": "The narrator sits on a tractor seat while giving instructions.",
+            "subtasks": [
+                "Sit in a tractor's driver's seat.",
+                "Give operating instructions or directions related to a tractor."
+            ]
+        },
+        {
+            "task": "The narrator gets into a tractor.",
+            "subtasks": [
+                "Enter onto a tractor, possibly sitting into the driver's seat."
+            ]
+        },
+        {
+            "task": "The narrator uncovers a seed corn bag from the ground.",
+            "subtasks": [
+                "Reach into the ground or under debris to expose a seed corn bag.",
+                "Remove the seed corn bag from the ground or secluded spot."
+            ]
+        },
+        {
+            "task": "The narrator holds a seed corn bag.",
+            "subtasks": [
+                "Take the uncovered seed corn bag with hands."
+            ]
+        },
+        {
+            "task": "The narrator writes code related to the field and corn data.",
+            "subtasks": [
+                "Write or input data into a device, likely recording field or corn information."
+            ]
+        },
+        {
+            "task": "The narrator checks a clip board.",
+            "subtasks": [
+                "Examine a clipboard or similar device."
+            ]
+        },
+        {
+            "task": "The narrator references a map on the dashboard for navigation.",
+            "subtasks": [
+                "Look at a map or navigation tool placed on the dashboard of a vehicle."
+            ]
+        },
+        {
+            "task": "The narrator inspects a hole in the ground where corn was growing.",
+            "subtasks": [
+                "Approach an area where corn once stood, checking for the presence of a hole."
+            ]
+        },
+        {
+            "task": "The narrator checks the temperature of the pump in the well.",
+            "subtasks": [
+                "Visit a well equipped with a pump.",
+                "Assess the temperature of the pump or water from the well."
+            ]
+        },
+        {
+            "task": "The narrator uses the tailgate of a truck as a makeshift workspace.",
+            "subtasks": [
+                "Use the raised tailgate (bed extension) of a truck as a surface for working."
+            ]
+        },
+        {
+            "task": "The narrator uses an oily rag to clean parts of a machine.",
+            "subtasks": [
+                "Dip an oily rag into a container (implied: oil or cleaner) to wipe parts of a machine."
+            ]
+        },
+        {
+            "task": "The narrator interacts with a yellow vehicle, likely a tractor or piece of farm equipment.",
+            "subtasks": [
+                "Approach and possibly enter a yellow vehicle, but the exact interaction isn't detailed."
+            ]
+        },
+        {
+            "task": "The narrator checks a black metal container likely on a truck or trailer.",
+            "subtasks": [
+                "Inspect a black metal container, perhaps checking its contents or securing it."
+            ]
+        },
+        {
+            "task": "The narrator removed and replaced a plastic mulch from the ground during planting.",
+            "subtasks": [
+                "Displace plastic mulch that was previously covering the ground for planting."
+            ]
+        },
+        {
+            "task": "The narrator holds a weed killer applicator while walking through a field.",
+            "subtasks": [
+                "Carry a weed killer applicator (sprayer) while moving through a field."
+            ]
+        },
+        {
+            "task": "MAINTASK: The narrator installs a gas cap on a piece of equipment.",
+            "subtasks": [
+                "Approach a gas canister or the fueling port of equipment.",
+                "Secure the gas cap onto the equipment's fueling port."
+            ]
+        },
+        {
+            "task": "The narrator applies herbicide directly to weeds.",
+            "subtasks": [
+                "Pour or spray herbicide onto weeds with an applicator or nozzle."
+            ]
+        },
+        {
+            "task": "The narrator uses a sprayer to spread seed.",
+            "subtasks": [
+                "Operate a sprayer to disperse seed while moving through a field."
+            ]
+        },
+        {
+            "task": "The narrator cracks open a container to retrieve items.",
+            "subtasks": [
+                "Open a container (like a box or container on the truck) and retrieve necessary items."
+            ]
+        },
+        {
+            "task": "The narrator fills a bag with something (likely corn).",
+            "subtasks": [
+                "Take a bag and fill it with corn ears or corn products."
+            ]
+        },
+        {
+            "task": "The narrator checks the temperature of the soil.",
+            "subtasks": [
+                "Measure or assess the temperature of the soil using a probe or similar tool."
+            ]
+        },
+        {
+            "task": "The narrator applies a liquid to the soil.",
+            "subtasks": [
+                "Pour or spray a liquid (possibly fertilizer or treatment) onto the soil surface."
+            ]
+        },
+        {
+            "task": "The narrator uses a hand tool to take samples from the field.",
+            "subtasks": [
+                "Collect soil samples or take other types of samples from the field using hand tools."
+            ]
+        },
+        {
+            "task": "The narrator checks pressure settings on a water pump.",
+            "subtasks": [
+                "Adjust or check the pressure gauge on a water pump."
+            ]
+        },
+        {
+            "task": "The narrator tests the operating condition of a power steering system.",
+            "subtasks": [
+                "Evaluate the functionality of a power steering mechanism, possibly by turning the steering wheel or pressing the pedal."
+            ]
+        },
+        {
+            "task": "The narrator uses a small ladder to check equipment on a higher part of the truck.",
+            "subtasks": [
+                "Mount a small ladder or step stool to reach equipment located higher up on the truck.",
+                "Inspect or service equipment that is elevated."
+            ]
+        },
+        {
+            "task": "The narrator inspects a sensor or gauge on a piece of machinery.",
+            "subtasks": [
+                "Approach a sensor or gauge on a piece of equipment and visually or manually assess it."
+            ]
+        },
+        {
+            "task": "The narrator stokes a boiler using a rake.",
+            "subtasks": [
+                "Use a rake to add fuel or kindling to a boiler or circulator."
+            ]
+        },
+        {
+            "task": "The narrator replaces a worn part on a machine.",
+            "subtasks": [
+                "Remove a defective component and replace it with a new one on a machine."
+            ]
+        },
+        {
+            "task": "The narrator disassembles a machine part to check for issues.",
+            "subtasks": [
+                "Break down a machine's part to inspect for damage or problems."
+            ]
+        },
+        {
+            "task": "The narrator uses a sprayer to apply a substance to a machine.",
+            "subtasks": [
+                "Spray a liquid or dust onto a machine's surface with a sprayer."
+            ]
+        },
+        {
+            "task": "The narrator cleans mud or dirt off the wheels of a vehicle.",
+            "subtasks": [
+                "Remove mud, dirt, or similar debris from the tires and surrounding area of a vehicle using a rag or hose."
+            ]
+        },
+        {
+            "task": "The narrator applies lubricant to a moving part.",
+            "subtasks": [
+                "Apply lubricating oil or grease to a component that is moving or in use."
+            ]
+        },
+        {
+            "task": "The narrator inspects a chain on a piece of machinery.",
+            "subtasks": [
+                "Examine the condition of a chain, looking for wear or damage."
+            ]
+        },
+        {
+            "task": "The narrator lubricates a chainsaw chain.",
+            "subtasks": [
+                "Use a lubricant to coat a chainsaw chain to reduce friction."
+            ]
+        },
+        {
+            "task": "The narrator talks into a microphone recording voice or video.",
+            "subtasks": [
+                "Speak into a camera or microphone, likely for recording purposes."
+            ]
+        },
+        {
+            "task": "The narrator records video or audio explanations.",
+            "subtasks": [
+                "Filming or audio recording of explanations or comments about the tasks or equipment."
+            ]
+        },
+        {
+            "task": "The narrator hammers a nail into a wall.",
+            "subtasks": [
+                "Drive a nail into a wall using a hammer."
+            ]
+        },
+        {
+            "task": "The narrator lifts a fuel container onto a vehicle.",
+            "subtasks": [
+                "Pick up a fuel can or drum and place it onto a vehicle, possibly a truck."
+            ]
+        },
+        {
+            "task": "The narrator checks a trailer hitch.",
+            "subtasks": [
+                "Inspect the hitch mechanism of a trailer attached to a vehicle."
+            ]
+        },
+        {
+            "task": "The narrator adjusts the angle of a mirror on a vehicle.",
+            "subtasks": [
+                "Move or fine-tune the positioning of a vehicle's rearview mirror or side mirror."
+            ]
+        },
+        {
+            "task": "The narrator changes the oil filter on a piece of equipment.",
+            "subtasks": [
+                "Remove the old oil filter and install a new one on a piece of machinery."
+            ]
+        },
+        {
+            "task": "The narrator changes the oil on a piece of equipment.",
+            "subtasks": [
+                "Drain old oil, replace filter, add new oil to a piece of machinery."
+            ]
+        },
+        {
+            "task": "The narrator replaces a part on a piece of equipment.",
+            "subtasks": [
+                "Remove broken or damaged part, install new part on a machine."
+            ]
+        },
+        {
+            "task": "The narrator deals with a machine that's not moving.",
+            "subtasks": [
+                "Overcome the issue of a machine being stuck or non-operational."
+            ]
+        },
+        {
+            "task": "The narrator takes a hay bale from a hay wagon and places it behind the tractor.",
+            "subtasks": [
+                "Approach a hay bale on a wagon or loader.",
+                "Lift and move a hay bale from the wagon to a position behind the tractor."
+            ]
+        },
+        {
+            "task": "The narrator checks the tire pressure on a vehicle.",
+            "subtasks": [
+                "Use a gauge or air pump to check and adjust tire pressure on a vehicle's wheels."
+            ]
+        },
+        {
+            "task": "The narrator marks a field for soybean planting.",
+            "subtasks": [
+                "Use a marking device (flame thrower?) or flagging to denote the intended planting area for soybeans."
+            ]
+        },
+        {
+            "task": "The narrator applies a substance to crops to control weeds.",
+            "subtasks": [
+                "Spray or apply an herbicide to specific areas within a field to manage weeds."
+            ]
+        },
+        {
+            "task": "The narrator replaces a seat cushion on a tractor.",
+            "subtasks": [
+                "Remove the damaged seat cushion and insert a new one into the tractor's seat."
+            ]
+        },
+        {
+            "task": "The narrator clean the seat of a vehicle.",
+            "subtasks": [
+                "Thoroughly clean the seat (potentially grimy from fieldwork) with a rag or cleaning solution."
+            ]
+        },
+        {
+            "task": "The narrator inspects a display for proper operation.",
+            "subtasks": [
+                "Check that all indicators on a machine's display are functioning correctly."
+            ]
+        },
+        {
+            "task": "The narrator performs a trial run of a machine.",
+            "subtasks": [
+                "Operationally test a piece of machinery for issues before full use."
+            ]
+        },
+        {
+            "task": "The narrator pushes a button on a machine's control panel.",
+            "subtasks": [
+                "Activate a button or switch on a machine's control system to test its function."
+            ]
+        },
+        {
+            "task": "The narrator rides in a truck driving through a field checking crops.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator picks six ears of corn from the field.",
+            "subtasks": []
+        },
+        {
+            "task": "Could also consider combining the handling actions like holding and rubbing into a single subtask of pruning and inspecting, but I broke them down further while looking at the transcript.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator rubs the corn to remove some of the husks.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator snaps the kernels off the corn using their teeth.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks the corn's sweetness.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator smells the ear of corn.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator spits out the cob of the eaten corn.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator chews and swallows the corn.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator shifts gears on the truck.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uncovers a metal gate to access a field.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator walks through a gate into a field.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks equipment in a hallway.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator walks around a truck bed.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator opens a metal box on the bottom of the truck.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator lifts the box out from under the truck.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator puts the box inside the truck and under the seat.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator sits on a tractor seat while giving instructions.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator gets into a tractor.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uncovers a seed corn bag from the ground.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator holds a seed corn bag.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator writes code related to the field and corn data.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks a clip board.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator references a map on the dashboard for navigation.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator inspects a hole in the ground where corn was growing.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks the temperature of the pump in the well.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses the tailgate of a truck as a makeshift workspace.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses an oily rag to clean parts of a machine.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator interacts with a yellow vehicle, likely a tractor or piece of farm equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks a black metal container likely on a truck or trailer.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator removed and replaced a plastic mulch from the ground during planting.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator holds a weed killer applicator while walking through a field.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator applies herbicide directly to weeds.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses a sprayer to spread seed.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator cracks open a container to retrieve items.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator fills a bag with something (likely corn).",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks the temperature of the soil.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator applies a liquid to the soil.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses a hand tool to take samples from the field.",
+            "subtasks": []
+        },
+        {
+            "task": "Perhaps different types of samples (soil, plant, etc.), but the tool is specified as a hand tool.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks pressure settings on a water pump.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator tests the operating condition of a power steering system.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses a small ladder to check equipment on a higher part of the truck.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator inspects a sensor or gauge on a piece of machinery.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator stokes a boiler using a rake.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator replaces a worn part on a machine.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator disassembles a machine part to check for issues.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses a sprayer to apply a substance to a machine.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator cleans mud or dirt off the wheels of a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator applies lubricant to a moving part.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator inspects a chain on a piece of machinery.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator lubricates a chainsaw chain.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator talks into a microphone recording voice or video.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator records video or audio explanations.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator hammers a nail into a wall.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator lifts a fuel container onto a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks a trailer hitch.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator adjusts the angle of a mirror on a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator changes the oil filter on a piece of equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator changes the oil on a piece of equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator replaces a part on a piece of equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator deals with a machine that's not moving.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator takes a hay bale from a hay wagon and places it behind the tractor.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks the tire pressure on a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator marks a field for soybean planting.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator applies a substance to crops to control weeds.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator replaces a seat cushion on a tractor.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator cleans the seat of a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator inspects a display for proper operation.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator performs a trial run of a machine.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator pushes a button on a machine's control panel.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator rides in a truck driving through a field checking crops.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator picks six ears of corn from the field.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator rubs the corn to remove some of the husks.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator snaps the kernels off the corn using their teeth.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks the corn's sweetness.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator smells the ear of corn.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator spits out the cob of the eaten corn.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator chews and swallows the corn.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator shifts gears on the truck.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uncovers a metal gate to access a field.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator walks through a gate into a field.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks equipment in a hallway.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator walks around a truck bed.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator opens a metal box on the bottom of the truck.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator lifts the box out from under the truck.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator puts the box inside the truck and under the seat.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator sits on a tractor seat while giving instructions.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator gets into a tractor.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uncovers a seed corn bag from the ground.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator holds a seed corn bag.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator writes code related to the field and corn data.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks a clip board.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator references a map on the dashboard for navigation.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator inspects a hole in the ground where corn was growing.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks the temperature of the pump in the well.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses the tailgate of a truck as a makeshift workspace.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses an oily rag to clean parts of a machine.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator interacts with a yellow vehicle, likely a tractor or piece of farm equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks a black metal container likely on a truck or trailer.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator removed and replaced a plastic mulch from the ground during planting.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator holds a weed killer applicator while walking through a field.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator applies herbicide directly to weeds.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses a sprayer to spread seed.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator cracks open a container to retrieve items.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator fills a bag with something (likely corn).",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks the temperature of the soil.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator applies a liquid to the soil.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses a hand tool to take samples from the field.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks pressure settings on a water pump.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator tests the operating condition of a power steering system.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses a small ladder to check equipment on a higher part of the truck.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator inspects a sensor or gauge on a piece of machinery.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator stokes a boiler using a rake.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator replaces a worn part on a machine.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator disassembles a machine part to check for issues.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator uses a sprayer to apply a substance to a machine.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator cleans mud or dirt off the wheels of a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator applies lubricant to a moving part.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator inspects a chain on a piece of machinery.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator lubricates a chainsaw chain.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator talks into a microphone recording voice or video.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator records video or audio explanations.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator hammers a nail into a wall.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator lifts a fuel container onto a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks a trailer hitch.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator adjusts the angle of a mirror on a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator changes the oil filter on a piece of equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator changes the oil on a piece of equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator replaces a part on a piece of equipment.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator deals with a machine that's not moving.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator takes a hay bale from a hay wagon and places it behind the tractor.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator checks the tire pressure on a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator marks a field for soybean planting.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator marks a field for soybean planting.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator applies a substance to crops to control weeds.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator replaces a seat cushion on a tractor.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator cleans the seat of a vehicle.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator inspects a display for proper operation.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator performs a trial run of a machine.",
+            "subtasks": []
+        },
+        {
+            "task": "The narrator pushes a button on a machine's control panel.",
+            "subtasks": []
         }
     ]
 }

@@ -7,74 +7,27 @@
         {
             "task": "Testing solar panels",
             "subtasks": [
-                "Check the wattage of the solar cells",
-                "Inspect solar cell performance in direct sunlight",
-                "Use a 10 ohm resistor to measure output",
-                "Compare calculated versus actual power output"
+                "Positioning solar cells in direct sunlight",
+                "Connecting 10 ohm resistor to solar cells",
+                "Measuring output at 12 volts",
+                "Verifying expected wattage (10 watts)"
             ]
         },
         {
-            "task": "Monitoring battery charging",
+            "task": "Charging USB battery",
             "subtasks": [
-                "Observe charging progress on the USB battery",
-                "Verify the amount of power stored"
+                "Connecting solar charger to USB battery",
+                "Monitoring charge time and mAh count",
+                "Noting efficiency (167 mAh over 3 hours)"
             ]
         },
         {
-            "task": "Testing solar panels.",
-            "subtasks": []
-        },
-        {
-            "task": "Monitoring battery charging.",
-            "subtasks": []
-        },
-        {
-            "task": "Testing solar panels",
+            "task": "Assessing solar setup effectiveness",
             "subtasks": [
-                "Check the wattage of the solar cells",
-                "Inspect solar cell performance in direct sunlight",
-                "Use a 10 ohm resistor to measure output",
-                "Compare calculated versus actual power output"
+                "Identifying need for testing under direct sunlight",
+                "Considering environmental factors (patchy sun)",
+                "Evaluating performance compared to expectations"
             ]
-        },
-        {
-            "task": "Monitoring battery charging",
-            "subtasks": [
-                "Observe charging progress on the USB battery",
-                "Verify the amount of power stored"
-            ]
-        },
-        {
-            "task": "Testing solar panels**",
-            "subtasks": []
-        },
-        {
-            "task": "Monitoring battery charging**",
-            "subtasks": []
-        },
-        {
-            "task": "Testing solar panels",
-            "subtasks": [
-                "Check the wattage of the solar cells",
-                "Inspect solar cell performance in direct sunlight",
-                "Use a 10 ohm resistor to measure output",
-                "Compare calculated versus actual power output"
-            ]
-        },
-        {
-            "task": "Monitoring battery charging",
-            "subtasks": [
-                "Observe charging progress on the USB battery",
-                "Verify the amount of power stored"
-            ]
-        },
-        {
-            "task": "Testing solar panels**",
-            "subtasks": []
-        },
-        {
-            "task": "Monitoring battery charging**",
-            "subtasks": []
         }
     ]
 }

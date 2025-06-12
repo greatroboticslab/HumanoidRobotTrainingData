@@ -5,48 +5,338 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Preparing the farmland for planting.",
+            "task": "Operating farm equipment",
             "subtasks": [
-                "Steer the tractor toward the field.",
-                "Adjust the attachment on the tractor to the proper height.",
-                "Guide the attachment over the rows of the field.",
-                "Ensure the attachment is functioning correctly as it passes through the soil."
+                "Starting the farm equipment",
+                "Checking the fuel level",
+                "Refilling the fuel tank",
+                "Checking fluid levels",
+                "Inspecting the equipment for damage",
+                "Attaching\u519c\u673a\u5177",
+                "Guiding the equipment through fields",
+                "Adjusting speed and direction as needed",
+                "Monitoring equipment performance",
+                "Operating the machinery controls"
             ]
         },
         {
-            "task": "Using a sharp implement to break up the soil.",
+            "task": "Planting crops",
             "subtasks": [
-                "Position the sharp implement under the field surface.",
-                "Lift the implement to the desired depth to disrupt the soil structure.",
-                "Monitor the break-up process to ensure thorough coverage."
+                "Adjusting seed hopper",
+                "Inserting seeds into the ground",
+                "Monitoring planting depth and spacing",
+                "Ensuring even distribution of seeds"
             ]
         },
         {
-            "task": "Operating a sprayer to apply chemicals.",
+            "task": "Harvesting crops",
             "subtasks": [
-                "Load the sprayer with the appropriate chemical.",
-                "Calibrate the sprayer for the correct application rate.",
-                "Drive the tractor with the sprayer attachments through the field.",
-                "Overlap the application paths slightly to ensure full coverage."
+                "Operating the combine harvester",
+                "Separating grain from chaff",
+                "Loading harvested grain onto transport vehicle",
+                "Cleaning the combine after harvest"
             ]
         },
         {
-            "task": "Managing a grazing operation.",
+            "task": "Maintaining equipment",
             "subtasks": [
-                "Survey the grazing area to assess the available pasture.",
-                "Ensure the pasture is clear of debris and safe for livestock.",
-                "Introduce the livestock into the pasture.",
-                "Monitor the livestock's behavior and adjust the grazing area as needed."
+                "Cleaning the equipment after use",
+                "Lubricating moving parts",
+                "Checking and replacing worn components",
+                "Storing equipment properly for winter"
             ]
         },
         {
-            "task": "Performing routine equipment maintenance.",
+            "task": "Conducting soil tests",
             "subtasks": [
-                "Inspect the tractor for any visible damages or issues.",
-                "Lubricate moving parts of the tractor and its attachments.",
-                "Check the fluid levels and tighten any loose connections.",
-                "Store the equipment properly to prevent wear and tear."
+                "Collecting soil samples",
+                "Sending samples to laboratory",
+                "Reviewing test results for nutrient deficiencies",
+                "Applying fertilizer or amendments based on test results"
             ]
+        },
+        {
+            "task": "Watering crops",
+            "subtasks": [
+                "Checking irrigation system",
+                "Adjusting sprinkler heads",
+                "Monitoring water pressure and flow",
+                "Turning on the irrigation system",
+                "Observing the field while watering"
+            ]
+        },
+        {
+            "task": "Weed control",
+            "subtasks": [
+                "Applying herbicides",
+                "Monitoring for weed growth",
+                "Spot treating problem areas"
+            ]
+        },
+        {
+            "task": "Hauling fertilizer",
+            "subtasks": [
+                "Loading fertilizer onto truck",
+                "Driving the truck to the field",
+                "Unloading fertilizer and spreading it evenly"
+            ]
+        },
+        {
+            "task": "Calibrating machinery",
+            "subtasks": [
+                "Measuring seed or fertilizer output",
+                "Adjusting seed or fertilizer applicator settings"
+            ]
+        },
+        {
+            "task": "Driving tractor",
+            "subtasks": [
+                "Steering the tractor",
+                "Using foot pedals to control speed",
+                "Operating shift lever for gear changes",
+                "Engaging or disengaging implements"
+            ]
+        },
+        {
+            "task": "Planting trees",
+            "subtasks": [
+                "Digging holes for trees",
+                "Planting the trees",
+                "Tying tree labels or tags"
+            ]
+        },
+        {
+            "task": "Pruning trees",
+            "subtasks": [
+                "Identifying branches to remove",
+                "Using pruning shears or saw",
+                "Removing branches safely"
+            ]
+        },
+        {
+            "task": "Applying pesticides",
+            "subtasks": [
+                "Mixing pesticides in sprayer tank",
+                "Attaching sprayer to tractor",
+                "Operating spray boom",
+                "Walking through the field to check coverage"
+            ]
+        },
+        {
+            "task": "Installing irrigation pipes",
+            "subtasks": [
+                "Measuring the piping needed",
+                "Cutting pipes to length",
+                "Connecting pipes with fittings",
+                "Securing pipes in the field",
+                "Testing the irrigation system"
+            ]
+        },
+        {
+            "task": "Submitting insurance claim",
+            "subtasks": [
+                "Photographing damaged equipment",
+                "Gathering repair estimates",
+                "Filling out claim forms",
+                "Submitting claim to insurance company"
+            ]
+        },
+        {
+            "task": "Operating farm equipment",
+            "subtasks": [
+                "Starting the farm equipment",
+                "Checking the fuel level",
+                "Refilling the fuel tank",
+                "Checking fluid levels",
+                "Inspecting the equipment for damage",
+                "Attaching\u519c\u673a\u5177",
+                "Guiding the equipment through fields",
+                "Adjusting speed and direction as needed",
+                "Monitoring equipment performance",
+                "Operating the machinery controls"
+            ]
+        },
+        {
+            "task": "Planting crops",
+            "subtasks": [
+                "Adjusting seed hopper",
+                "Inserting seeds into the ground",
+                "Monitoring planting depth and spacing",
+                "Ensuring even distribution of seeds"
+            ]
+        },
+        {
+            "task": "Harvesting crops",
+            "subtasks": [
+                "Operating the combine harvester",
+                "Separating grain from chaff",
+                "Loading harvested grain onto transport vehicle",
+                "Cleaning the combine after harvest"
+            ]
+        },
+        {
+            "task": "Maintaining equipment",
+            "subtasks": [
+                "Cleaning the equipment after use",
+                "Lubricating moving parts",
+                "Checking and replacing worn components",
+                "Storing equipment properly for winter"
+            ]
+        },
+        {
+            "task": "Conducting soil tests",
+            "subtasks": [
+                "Collecting soil samples",
+                "Sending samples to laboratory",
+                "Reviewing test results for nutrient deficiencies",
+                "Applying fertilizer or amendments based on test results"
+            ]
+        },
+        {
+            "task": "Watering crops",
+            "subtasks": [
+                "Checking irrigation system",
+                "Adjusting sprinkler heads",
+                "Monitoring water pressure and flow",
+                "Turning on the irrigation system",
+                "Observing the field while watering"
+            ]
+        },
+        {
+            "task": "Weed control",
+            "subtasks": [
+                "Applying herbicides",
+                "Monitoring for weed growth",
+                "Spot treating problem areas"
+            ]
+        },
+        {
+            "task": "Hauling fertilizer",
+            "subtasks": [
+                "Loading fertilizer onto truck",
+                "Driving the truck to the field",
+                "Unloading fertilizer and spreading it evenly"
+            ]
+        },
+        {
+            "task": "Calibrating machinery",
+            "subtasks": [
+                "Measuring seed or fertilizer output",
+                "Adjusting seed or fertilizer applicator settings"
+            ]
+        },
+        {
+            "task": "Driving tractor",
+            "subtasks": [
+                "Steering the tractor",
+                "Using foot pedals to control speed",
+                "Operating shift lever for gear changes",
+                "Engaging or disengaging implements"
+            ]
+        },
+        {
+            "task": "Planting trees",
+            "subtasks": [
+                "Digging holes for trees",
+                "Planting the trees",
+                "Tying tree labels or tags"
+            ]
+        },
+        {
+            "task": "Pruning trees",
+            "subtasks": [
+                "Identifying branches to remove",
+                "Using pruning shears or saw",
+                "Removing branches safely"
+            ]
+        },
+        {
+            "task": "Applying pesticides",
+            "subtasks": [
+                "Mixing pesticides in sprayer tank",
+                "Attaching sprayer to tractor",
+                "Operating spray boom",
+                "Walking through the field to check coverage"
+            ]
+        },
+        {
+            "task": "Installing irrigation pipes",
+            "subtasks": [
+                "Measuring the piping needed",
+                "Cutting pipes to length",
+                "Connecting pipes with fittings",
+                "Securing pipes in the field",
+                "Testing the irrigation system"
+            ]
+        },
+        {
+            "task": "Submitting insurance claim",
+            "subtasks": [
+                "Photographing damaged equipment",
+                "Gathering repair estimates",
+                "Filling out claim forms",
+                "Submitting claim to insurance company"
+            ]
+        },
+        {
+            "task": "Operating farm equipment",
+            "subtasks": []
+        },
+        {
+            "task": "Planting crops",
+            "subtasks": []
+        },
+        {
+            "task": "Harvesting crops",
+            "subtasks": []
+        },
+        {
+            "task": "Maintaining equipment",
+            "subtasks": []
+        },
+        {
+            "task": "Conducting soil tests",
+            "subtasks": []
+        },
+        {
+            "task": "Watering crops",
+            "subtasks": []
+        },
+        {
+            "task": "Weed control",
+            "subtasks": []
+        },
+        {
+            "task": "Hauling fertilizer",
+            "subtasks": []
+        },
+        {
+            "task": "Calibrating machinery",
+            "subtasks": []
+        },
+        {
+            "task": "Driving tractor",
+            "subtasks": []
+        },
+        {
+            "task": "Planting trees",
+            "subtasks": []
+        },
+        {
+            "task": "Pruning trees",
+            "subtasks": []
+        },
+        {
+            "task": "Applying pesticides",
+            "subtasks": []
+        },
+        {
+            "task": "Installing irrigation pipes",
+            "subtasks": []
+        },
+        {
+            "task": "Submitting insurance claim",
+            "subtasks": []
         }
     ]
 }

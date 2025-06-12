@@ -5,76 +5,290 @@
     "category": "Autos & Vehicles",
     "tasks": [
         {
-            "task": "Expressing gratitude",
+            "task": "Thanking",
             "subtasks": [
-                "Saying \"thank you\" verbally multiple times in a row"
+                "Raising voice",
+                "Speaking words of gratitude"
             ]
         },
         {
-            "task": "Acknowledgment",
+            "task": "Exiting",
             "subtasks": [
-                "Recognizing assistance or contributions from others"
+                "Moving body towards exit",
+                "Opening or passing through exit point"
             ]
         },
         {
-            "task": "Expressing gratitude",
+            "task": "Starting vehicle",
             "subtasks": [
-                "Saying \"thank you\" verbally multiple times in a row"
+                "Turning ignition key",
+                "Pressing start button"
             ]
         },
         {
-            "task": "Acknowledgment",
+            "task": "Walking",
             "subtasks": [
-                "Recognizing assistance or contributions from others",
-                "Moving vocal cords, but that's speculations. Hence, the final answer includes the two main tasks as presented in the transcript. However, the transcript mentions overlapping \"Thank you\"s with energy, which one could relate to physical effort, but it's uncertain. The original instructions says in the video transcript, someone from the field via a drone maybe, but given no context, the answer remains the expressed tasks."
+                "Using legs to move",
+                "Moving towards vehicle"
             ]
         },
         {
-            "task": "Expressing gratitude",
+            "task": "Opening door",
             "subtasks": [
-                "Saying \"thank you\" verbally multiple times in a row"
+                "Using hand to open door",
+                "Positioning body to enter"
             ]
         },
         {
-            "task": "Acknowledgment",
+            "task": "Entering vehicle",
             "subtasks": [
-                "Recognizing assistance or contributions from others"
+                "Moving body into vehicle",
+                "Adjusting seat"
             ]
         },
         {
-            "task": "Expressing Gratitude**",
+            "task": "Adjusting seat",
             "subtasks": [
-                "** Repeatedly saying \"thank you\" (e.g., \\(_{Thank you} \\times 3\\))"
+                "Moving seat up or down",
+                "Tilting seat back or forth"
             ]
         },
         {
-            "task": "Acknowledgment**",
+            "task": "Turning lights on",
             "subtasks": [
-                "** Recognizing assistance or contributions from others"
+                "Reaching for light switch",
+                "Activating switch"
             ]
         },
         {
-            "task": "Expressing gratitude",
+            "task": "Squeezing joystick",
             "subtasks": [
-                "Saying \"thank you\" repeatedly (e.g., three times)"
+                "Grasping joystick handle",
+                "Manipulating joystick position"
             ]
         },
         {
-            "task": "Acknowledgment",
+            "task": "Operating farm vehicle",
             "subtasks": [
-                "Recognizing others' contributions"
+                "Steering vehicle",
+                "Driving on farm path"
             ]
         },
         {
-            "task": "Expressing gratitude**",
+            "task": "Engaging GPS system",
             "subtasks": [
-                "** Saying \"thank you\" repeatedly (e.g., multiple times in a row)"
+                "Adjusting or interacting with GPS display",
+                "Setting destination or route"
             ]
         },
         {
-            "task": "Acknowledgment**",
+            "task": "Planting soybeans",
             "subtasks": [
-                "** Recognizing assistance or contributions from others"
+                "Positioning equipment",
+                "Operating planting mechanism"
+            ]
+        },
+        {
+            "task": "Climbing onto equipment",
+            "subtasks": [
+                "Moving towards equipment",
+                "Ascending onto raised platform"
+            ]
+        },
+        {
+            "task": "Using signal lights",
+            "subtasks": [
+                "Activating turn signals",
+                "Honking horn if necessary"
+            ]
+        },
+        {
+            "task": "Starting day on farm",
+            "subtasks": [
+                "Preparing equipment",
+                "Verifying safety checks"
+            ]
+        },
+        {
+            "task": "Walking to field",
+            "subtasks": [
+                "Stepping on uneven terrain",
+                "Verifying crop health"
+            ]
+        },
+        {
+            "task": "Observing crops",
+            "subtasks": [
+                "Looking at crops from a distance",
+                "Noting growth stages or conditions"
+            ]
+        },
+        {
+            "task": "Monitoring weather",
+            "subtasks": [
+                "Checking sky conditions",
+                "Adjusting plans based on weather"
+            ]
+        },
+        {
+            "task": "Keeping track of time",
+            "subtasks": [
+                "Monitoring elapsed time during tasks",
+                "Checking schedule or deadline"
+            ]
+        },
+        {
+            "task": "Accounting for time",
+            "subtasks": [
+                "Recording start and finish times",
+                "Calculating duration for reports"
+            ]
+        },
+        {
+            "task": "Driving equipment",
+            "subtasks": [
+                "Operating tractor",
+                "Guiding behind implement"
+            ]
+        },
+        {
+            "task": "Operating implement",
+            "subtasks": [
+                "Adjusting height",
+                "Maintaining evenness of pass"
+            ]
+        },
+        {
+            "task": "Dealing with equipment issues",
+            "subtasks": [
+                "Locating problematic area",
+                "Troubleshooting common issues"
+            ]
+        },
+        {
+            "task": "Performing general farm tasks",
+            "subtasks": [
+                "Feeding livestock",
+                "Inspecting barns for maintenance"
+            ]
+        },
+        {
+            "task": "Manual labor",
+            "subtasks": [
+                "Digging holes",
+                "Moving soil"
+            ]
+        },
+        {
+            "task": "Refueling equipment",
+            "subtasks": [
+                "Locating fuel source",
+                "Connecting hose or pouring fuel"
+            ]
+        },
+        {
+            "task": "Checking oil levels",
+            "subtasks": [
+                "Opening hood",
+                "Reading dipstick"
+            ]
+        },
+        {
+            "task": "Cleaning equipment",
+            "subtasks": [
+                "Removing dirt with brush",
+                "Applying lubricant"
+            ]
+        },
+        {
+            "task": "Management round",
+            "subtasks": [
+                "Visiting multiple fields or areas",
+                "Documenting observations"
+            ]
+        },
+        {
+            "task": "Responding to livestock needs",
+            "subtasks": [
+                "Feeding animals",
+                "Providing water"
+            ]
+        },
+        {
+            "task": "Trimming trees or hedges",
+            "subtasks": [
+                "Using pruning shears",
+                "Maintaining edge of property"
+            ]
+        },
+        {
+            "task": "Operating ladder",
+            "subtasks": [
+                "Climbing onto upper area",
+                "Repairing or checking something at height"
+            ]
+        },
+        {
+            "task": "Assisting with harvest",
+            "subtasks": [
+                "Collecting produce from field",
+                "Loading onto vehicle"
+            ]
+        },
+        {
+            "task": "Conducting soil tests",
+            "subtasks": [
+                "Collecting soil samples",
+                "Analyzing nutrient levels"
+            ]
+        },
+        {
+            "task": "Watering crops",
+            "subtasks": [
+                "Using sprinkler system",
+                "Hand watering if necessary"
+            ]
+        },
+        {
+            "task": "Gathering materials",
+            "subtasks": [
+                "Collecting necessary tools or supplies",
+                "Transporting to work area"
+            ]
+        },
+        {
+            "task": "Composting",
+            "subtasks": [
+                "Mixing organic matter",
+                "Turning compost pile"
+            ]
+        },
+        {
+            "task": "Operating machinery to remove debris",
+            "subtasks": [
+                "Using rake",
+                "Clearing pathways"
+            ]
+        },
+        {
+            "task": "Conducting a safety check",
+            "subtasks": [
+                "Inspecting equipment for hazards",
+                "Ensuring safety gear is worn"
+            ]
+        },
+        {
+            "task": "Ending workday",
+            "subtasks": [
+                "Shutting down equipment",
+                "Returning to central location"
+            ]
+        },
+        {
+            "task": "Resuming work",
+            "subtasks": [
+                "Starting up vehicle",
+                "Returning to field"
             ]
         }
     ]

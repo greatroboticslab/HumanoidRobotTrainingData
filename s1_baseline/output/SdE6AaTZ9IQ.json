@@ -5,15 +5,20 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Moving pigs to a trailer before rain",
+            "task": "Move pigs to a trailer due to impending wet weather.",
             "subtasks": [
-                "Identify wet pasture ground",
-                "Assess pigs' current living conditions",
-                "Transfer pigs from pasture to trailer",
-                "Add bedding (straw) to trailer",
-                "Ensure adequate food and water in trailer",
-                "Shelter pigs in trailer for week",
-                "Prepare for harvesting pigs in one week"
+                "Check weather forecast.",
+                "Assess pasture conditions.",
+                "Transiently housing pigs in trailer.",
+                "Ensure pigs have food and water.",
+                "Add bedding (straw) to trailer."
+            ]
+        },
+        {
+            "task": "Prepare for pig harvest in one week.",
+            "subtasks": [
+                "Arrange pigs' temporary accommodation.",
+                "Monitor pigs' wellbeing during transit."
             ]
         }
     ]

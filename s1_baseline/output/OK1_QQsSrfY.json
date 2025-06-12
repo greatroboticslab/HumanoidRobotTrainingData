@@ -5,99 +5,72 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Enter a vehicle.",
+            "task": "Exiting a combine harvester.",
             "subtasks": [
-                "Open the vehicle door.",
-                "Sit in the driver's seat.",
-                "Fasten seatbelt.",
-                "Start the vehicle's engine.",
-                "Adjust seat and mirrors for comfort and visibility.",
-                "Engage vehicle's transmission."
+                "Open the combine door.",
+                "Step out onto the platform.",
+                "Close the combine door behind."
             ]
         },
         {
-            "task": "Harvest soybeans.",
+            "task": "Walking towards a grain bin.",
             "subtasks": [
-                "Operate harvester to cut soybean plants.",
-                "Guide the harvester through the field.",
-                "Oversee the process to ensure proper cutting and separation."
+                "Enter the grain bin's operational area.",
+                "Approach the grain bin's loading area.",
+                "Align with the grain bin's chute."
             ]
         },
         {
-            "task": "Drive to the farm.",
+            "task": "Climbing onto the grain bin's hopper.",
             "subtasks": [
-                "Maintain control of the vehicle on the road.",
-                "Observe surroundings for safety while driving.",
-                "Navigate to the designated farm location."
+                "Climb the ladder leading to the hopper.",
+                "Grip the rungs of the ladder securely.",
+                "Position on the hopper's platform."
             ]
         },
         {
-            "task": "Load harvested soybeans.",
+            "task": "Loading the grain bin with harvested crops.",
             "subtasks": [
-                "Assist in unloading the harvester's bin.",
-                "Transport soybeans to the storage facility.",
-                "Place the soybeans into the designated storage area."
+                "Open the hopper gates.",
+                "Guide crops into the hopper.",
+                "Close the hopper gates after loading."
             ]
         },
         {
-            "task": "Manage time and schedule.",
+            "task": "Securing the grain bin.",
             "subtasks": [
-                "Plan the morning's activities before departure.",
-                "Note important tasks and deadlines during the day.",
-                "Schedule the next trip based on crop conditions."
+                "Climb back down the ladder.",
+                "Unlock the grain bin door.",
+                "Enter the grain bin.",
+                "Attach an auger or loader to unload the grain.",
+                "Close the grain bin door."
             ]
         },
         {
-            "task": "Drive to the farm. Which includes driving, adjusting speed, staying alert, etc.",
+            "task": "Boarding another combine harvester.",
             "subtasks": [
-                "harvest soybeans. What does that involve? The person would need to operate the harvester, which is a piece of farming equipment. So operating the harvester would be a subtask. That would include starting the harvester, moving through the field, and monitoring the process. So perhaps SUBTASK: Guide the harvester through the field. Also, ensuring the process is going well\u2014maybe overseeing the cutting and separation. So that could be oversight during the operation."
+                "Approach a nearby combine harvester.",
+                "Open the operator's door.",
+                "Enter the operator's seat.",
+                "Secure seatbelt."
             ]
         },
         {
-            "task": "Manage time and schedule. Which could include planning in the morning, noting tasks during the day, and scheduling future activities based on current conditions.",
-            "subtasks": []
-        },
-        {
-            "task": "Enter a vehicle.",
+            "task": "Preparing the combine for harvest.",
             "subtasks": [
-                "Open the vehicle door.",
-                "Sit in the driver's seat.",
-                "Fasten seatbelt.",
-                "Start the vehicle's engine.",
-                "Adjust seat and mirrors for comfort and visibility.",
-                "Engage vehicle's transmission."
+                "Check the combine's binders.",
+                "Cover binders with a tarp if needed.",
+                "Remove or adjust the combine's auger.",
+                "Attach a grain cart or bin."
             ]
         },
         {
-            "task": "Harvest soybeans.",
+            "task": "Driving the combine harvester to the field.",
             "subtasks": [
-                "Operate harvester to cut soybean plants.",
-                "Guide the harvester through the field.",
-                "Oversee the process to ensure proper cutting and separation."
-            ]
-        },
-        {
-            "task": "Drive to the farm.",
-            "subtasks": [
-                "Maintain control of the vehicle on the road.",
-                "Observe surroundings for safety while driving.",
-                "Navigate to the designated farm location."
-            ]
-        },
-        {
-            "task": "Load harvested soybeans.",
-            "subtasks": [
-                "Assist in unloading the harvester's bin.",
-                "Transport soybeans to the storage facility.",
-                "Place the soybeans into the designated storage area."
-            ]
-        },
-        {
-            "task": "Manage time and schedule.",
-            "subtasks": [
-                "Plan the morning's activities before departure.",
-                "Note important tasks and deadlines during the day.",
-                "Schedule the next trip based on crop conditions."
+                "Start the combine's engine.",
+                "Check all systems are operational.",
+                "Adjust mirrors and seat for visibility.",
+                "Drive the combine towards the field."
             ]
         }
     ]

@@ -5,95 +5,322 @@
     "category": "Film & Animation",
     "tasks": [
         {
-            "task": "Riding a tractor and attaching implements",
+            "task": "Operate a horse-drawn mower",
             "subtasks": [
-                "Sitting on the tractor seat",
-                "Manipulating the steering wheel or joystick to guide the tractor",
-                "Engaging the hydraulic system to attach the plow",
-                "Operating the tractor's power take-off (PTO) to drive the plow"
+                "Mount the horse-drawn mower",
+                "Secure the mower to the horses",
+                "Adjust the width of the mower blades",
+                "Start the horses and begin moving",
+                "Guide the horses through the field",
+                "Monitor the mower operation",
+                "Stop the horses and dismount"
             ]
         },
         {
-            "task": "Operating the plow attachment",
+            "task": "Cut hay with a sickle",
             "subtasks": [
-                "Engaging the plow'sdraulics to lower it into the ground",
-                "Adjusting the depth of the plow furrows",
-                "Monitoring the plow's operation to ensure proper soil disturbance"
+                "Hold the sickle correctly",
+                "Swing the sickle to cut the hay",
+                "Collect the cut hay into a bundle"
             ]
         },
         {
-            "task": "Attaching the seed drill",
+            "task": "Load hay onto a cart",
             "subtasks": [
-                "Aligning the seed drill with the plowed furrows",
-                "Securing the seed drill to the tractor or implement bar",
-                "Connecting the seed drill to the tractor's power take-off (PTO)"
+                "Position the cart in the hay field",
+                "Gather the hay bundles",
+                "Place the hay bundles onto the cart",
+                "Secure the hay on the cart",
+                "Pull the cart away from the field"
             ]
         },
         {
-            "task": "Seeding the field",
+            "task": "Drive a horse carriage",
             "subtasks": [
-                "Ensuring the seed drill is properly set for the desired seed spacing and depth",
-                "Operating the seed drill to drop seeds into the ground",
-                "Overseeing the process to distribute seeds uniformly along the row"
+                "Mount the carriage",
+                "Secure oneself in the carriage",
+                "Drive the horses in a straight path",
+                "Make turns and navigate obstacles",
+                "Stop the carriage safely",
+                "Dismount the carriage"
             ]
         },
         {
-            "task": "Operating the sprayer",
+            "task": "Prepare a field for planting",
             "subtasks": [
-                "Selecting the appropriate nozzle or spray tip for the pesticide or fertilizer",
-                "Connecting the sprayer to the tractor's hydraulic system or PTO",
-                "Adjusting the spray pressure and flow rate",
-                "Monitoring the sprayer's operation to apply chemicals evenly across the field"
+                "Plow the field with horses and a plow",
+                "Harrow the field to smooth it",
+                "Apply fertilizer or seed to the field"
             ]
         },
         {
-            "task": "Driving the tractor along the field",
+            "task": "Harvest wheat by hand",
             "subtasks": [
-                "Following the planned path or grid pattern for efficient coverage",
-                "Adjusting the tractor's speed to maintain proper application rate",
-                "Stopping the tractor periodically to inspect the application or adjust settings"
+                "Bend the wheat stalks over",
+                "Sever the wheat stalks from the roots",
+                "Bundle the wheat stalks into sheaves"
             ]
         },
         {
-            "task": "Completing the operation and disengaging equipment",
+            "task": "Thresh the wheat",
             "subtasks": [
-                "Raising the plow or other implements",
-                "Disconnecting the seed drill, sprayer, or other attachments",
-                "Shutting down the tractor's engine",
-                "Securing the tractor and equipment for the next operation"
+                "Beat the wheat sheaves to release grain",
+                "Separate grain from chaff",
+                "Winnow the grain"
             ]
         },
         {
-            "task": "Riding a tractor and attaching implements",
-            "subtasks": []
+            "task": "Plant crops using a horse-drawn plow and seed drill",
+            "subtasks": [
+                "Adjust the plowshare depth",
+                "Hitch the plow to the horses",
+                "Drive the horses along the furrows",
+                "Use the seed drill to plant seeds"
+            ]
         },
         {
-            "task": "Operating the plow",
-            "subtasks": []
+            "task": "Milk cows",
+            "subtasks": [
+                "Approach the cow and secure it",
+                "Attach the milking pin",
+                "Begin milking the cow",
+                "Collect the milk",
+                "Disassemble the milking equipment"
+            ]
         },
         {
-            "task": "Attaching the seed drill",
-            "subtasks": []
+            "task": "Feed chickens",
+            "subtasks": [
+                "Collect feed for the chickens",
+                "Distribute feed in the chicken coop",
+                "Ensure water supply for the chickens",
+                "Check for eggs and collect them",
+                "Clean out the chicken coop"
+            ]
         },
         {
-            "task": "Seeding the field",
-            "subtasks": []
+            "task": "Plant potatoes by hand",
+            "subtasks": [
+                "Dig holes in the ground",
+                "Place potato seed pieces in the holes",
+                "Cover the potatoes with soil",
+                "Water the planted area"
+            ]
         },
         {
-            "task": "Operating the sprayer",
-            "subtasks": []
+            "task": "Hoe between rows of crops",
+            "subtasks": [
+                "Position the hoe between crop rows",
+                "Remove weeds by cutting them below the surface",
+                "Smooth the soil around the crops"
+            ]
         },
         {
-            "task": "Driving the tractor",
-            "subtasks": []
+            "task": "Swing a sledgehammer to break up soil",
+            "subtasks": [
+                "Find a suitable area with hard soil",
+                "Stabilize the sledgehammer on the ground",
+                "Swing the hammer to break up the soil"
+            ]
         },
         {
-            "task": "Completing operations",
-            "subtasks": []
+            "task": "Handle livestock (note: observational, no action)",
+            "subtasks": [
+                "Approach a cow to check its condition",
+                "Pet a horse",
+                "Lead a calf to a new location"
+            ]
         },
         {
-            "task": "These tasks directly relate to operating agricultural machinery and preparing the field for planting and treatment, confirming the transcript's relevancy to farming activities. \\boxed{MAINTASK}",
-            "subtasks": []
+            "task": "Prepare a turkey (note: action related to poultry, but details needed)",
+            "subtasks": [
+                "Catch a turkey",
+                "Restrain the turkey",
+                "Pluck the turkey"
+            ]
+        },
+        {
+            "task": "Use a flail to thresh wheat (remotely mentioned)",
+            "subtasks": [
+                "Hold the flail handles",
+                "Swing the flail to beat the wheat",
+                "Pass the threshed grain to another worker"
+            ]
+        },
+        {
+            "task": "Plow a field using a team of horses",
+            "subtasks": [
+                "Attach the plow to the horses",
+                "Control the horses to plow straight",
+                "Ensure the plowshares are set correctly"
+            ]
+        },
+        {
+            "task": "Feed a horse (eating hay)",
+            "subtasks": [
+                "Approach the hay feeder",
+                "Distribute hay into the horse's feed bin",
+                "Observe the horse eating"
+            ]
+        },
+        {
+            "task": "Operate a horse-drawn mower",
+            "subtasks": [
+                "Mount the horse-drawn mower",
+                "Secure the mower to the horses",
+                "Adjust the width of the mower blades",
+                "Start the horses and begin moving",
+                "Guide the horses through the field",
+                "Monitor the mower operation",
+                "Stop the horses and dismount"
+            ]
+        },
+        {
+            "task": "Cut hay with a sickle",
+            "subtasks": [
+                "Hold the sickle correctly",
+                "Swing the sickle to cut the hay",
+                "Collect the cut hay into a bundle"
+            ]
+        },
+        {
+            "task": "Load hay onto a cart",
+            "subtasks": [
+                "Position the cart in the hay field",
+                "Gather the hay bundles",
+                "Place the hay bundles onto the cart",
+                "Secure the hay on the cart",
+                "Pull the cart away from the field"
+            ]
+        },
+        {
+            "task": "Drive a horse carriage",
+            "subtasks": [
+                "Mount the carriage",
+                "Secure oneself in the carriage",
+                "Drive the horses in a straight path",
+                "Make turns and navigate obstacles",
+                "Stop the carriage safely",
+                "Dismount the carriage"
+            ]
+        },
+        {
+            "task": "Prepare a field for planting",
+            "subtasks": [
+                "Plow the field with horses and a plow",
+                "Harrow the field to smooth it",
+                "Apply fertilizer or seed to the field"
+            ]
+        },
+        {
+            "task": "Harvest wheat by hand",
+            "subtasks": [
+                "Bend the wheat stalks over",
+                "Sever the wheat stalks from the roots",
+                "Bundle the wheat stalks into sheaves"
+            ]
+        },
+        {
+            "task": "Thresh the wheat",
+            "subtasks": [
+                "Beat the wheat sheaves to release grain",
+                "Separate grain from chaff",
+                "Winnow the grain"
+            ]
+        },
+        {
+            "task": "Plant crops using a horse-drawn plow and seed drill",
+            "subtasks": [
+                "Adjust the plowshare depth",
+                "Hitch the plow to the horses",
+                "Drive the horses along the furrows",
+                "Use the seed drill to plant seeds"
+            ]
+        },
+        {
+            "task": "Milk cows",
+            "subtasks": [
+                "Approach the cow and secure it",
+                "Attach the milking pin",
+                "Begin milking the cow",
+                "Collect the milk",
+                "Disassemble the milking equipment"
+            ]
+        },
+        {
+            "task": "Feed chickens",
+            "subtasks": [
+                "Collect feed for the chickens",
+                "Distribute feed in the chicken coop",
+                "Ensure water supply for the chickens",
+                "Check for eggs and collect them",
+                "Clean out the chicken coop"
+            ]
+        },
+        {
+            "task": "Plant potatoes by hand",
+            "subtasks": [
+                "Dig holes in the ground",
+                "Place potato seed pieces in the holes",
+                "Cover the potatoes with soil",
+                "Water the planted area"
+            ]
+        },
+        {
+            "task": "Hoe between rows of crops",
+            "subtasks": [
+                "Position the hoe between crop rows",
+                "Remove weeds by cutting them below the surface",
+                "Smooth the soil around the crops"
+            ]
+        },
+        {
+            "task": "Swing a sledgehammer to break up soil",
+            "subtasks": [
+                "Find a suitable area with hard soil",
+                "Stabilize the sledgehammer on the ground",
+                "Swing the hammer to break up the soil"
+            ]
+        },
+        {
+            "task": "Handle livestock (note: observational, no action)",
+            "subtasks": [
+                "Approach a cow to check its condition",
+                "Pet a horse",
+                "Lead a calf to a new location"
+            ]
+        },
+        {
+            "task": "Prepare a turkey (note: action related to poultry, but details needed)",
+            "subtasks": [
+                "Catch a turkey",
+                "Restrain the turkey",
+                "Pluck the turkey"
+            ]
+        },
+        {
+            "task": "Use a flail to thresh wheat (remotely mentioned)",
+            "subtasks": [
+                "Hold the flail handles",
+                "Swing the flail to beat the wheat",
+                "Pass the threshed grain to another worker"
+            ]
+        },
+        {
+            "task": "Plow a field using a team of horses",
+            "subtasks": [
+                "Attach the plow to the horses",
+                "Control the horses to plow straight",
+                "Ensure the plowshares are set correctly"
+            ]
+        },
+        {
+            "task": "Feed a horse (eating hay)",
+            "subtasks": [
+                "Approach the hay feeder",
+                "Distribute hay into the horse's feed bin",
+                "Observe the horse eating"
+            ]
         }
     ]
 }

@@ -5,110 +5,267 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Entering the farm",
+            "task": "Walking up the hill with the garden cart.",
             "subtasks": [
-                "Walk towards the gate",
-                "Open the gate",
-                "Go through the gate",
-                "Close the gate"
+                "Pushing the garden cart uphill.",
+                "Balancing the garden cart on the slope."
             ]
         },
         {
-            "task": "Boarding the combine harvester",
+            "task": "Moving the garden cart off the slope.",
             "subtasks": [
-                "Approach the combine harvester",
-                "Climb onto the cab",
-                "Secure seat belt"
+                "Steer the garden cart away from the hill.",
+                "Lower the garden cart to the ground."
             ]
         },
         {
-            "task": "Starting the combine harvester",
+            "task": "Unloading the garden cart in the garden.",
             "subtasks": [
-                "Locate the key",
-                "Insert key into ignition",
-                "Turn key to start engine"
+                "Empty the contents of the garden cart into the garden.",
+                "Dispose of any excess material from the garden cart."
             ]
         },
         {
-            "task": "Checking the combines operation",
+            "task": "Returning the garden cart to the garden.",
             "subtasks": [
-                "Monitor all displays",
-                "Adjust levers and controls",
-                "Inspect gauge readings"
+                "Reload the garden cart with tools or materials.",
+                "Carrying the garden cart back down the hill.",
+                "Pushing the garden cart down the slope.",
+                "Braking the garden cart to stop at the bottom."
             ]
         },
         {
-            "task": "Planting the combine harvester",
+            "task": "Using the garden tools in the garden.",
             "subtasks": [
-                "Operate the harvester to cut the wheat",
-                "Adjust height of cutterbars",
-                "Maintain proper speed"
+                "Digging with a garden fork.",
+                "Mixing soil with the garden fork."
             ]
         },
         {
-            "task": "Ensuring a safe environment",
+            "task": "Watering the garden.",
             "subtasks": [
-                "Clear any obstructions around the combine",
-                "Check surrounding area for animals",
-                "Keep watch for other machinery"
+                "Using a watering can or hose to apply water.",
+                "Ensuring even distribution of water across the garden area."
             ]
         },
         {
-            "task": "Communicating with crew",
+            "task": "Returning the garden fork to the garden cart and pushing back up.",
             "subtasks": [
-                "Coordinate with field workers",
-                "Instruct crew on harvesting procedures"
+                "Loading the garden fork onto the garden cart.",
+                "Steering the garden cart up the hill again.",
+                "Braking the cart as needed while ascending."
             ]
         },
         {
-            "task": "Take a break",
+            "task": "Lowering the garden cart at the top of the hill.",
             "subtasks": [
-                "Stop the combine harvester",
-                "Step out of the cab",
-                "Stretch legs, possibly have water"
+                "Placing the cart's wheels on the ground at the top.",
+                "Stabilizing the cart if necessary."
             ]
         },
         {
-            "task": "Reenter the combine harvester",
+            "task": "Unloading the garden cart once more.",
             "subtasks": [
-                "Climb back into the cab",
-                "Engage the key in ignition",
-                "Resume operation"
+                "Removing the garden fork from the cart.",
+                "Putting the garden fork back into the garden to put away."
             ]
         },
         {
-            "task": "Discontinue operation",
+            "task": "Walking up the hill with the garden cart.",
             "subtasks": [
-                "Shut down the engine",
-                "Wait for engine to cool",
-                "Exit the cab",
-                "Close the gate behind",
-                "Lock the gate if necessary",
-                "Head back towards the farmhouse (additionally as MAINTASK: Exiting the farm)",
-                "Walk towards the farmhouse",
-                "Enter the farmhouse",
-                "Take a shower or rest",
-                "Take off farming clothes",
-                "Eat dinner with family",
-                "Possibly watch TV or read a book"
+                "Pushing the garden cart uphill.",
+                "Balancing the garden cart on the slope."
             ]
         },
         {
-            "task": "Tasks outside (could imply the next day)",
+            "task": "Moving the garden cart off the slope.",
             "subtasks": [
-                "Prepare breakfast",
-                "Feed livestock",
-                "Check crops in the fields",
-                "Apply fertilizer",
-                "Repair machinery",
-                "Plan for next season"
+                "Steer the garden cart away from the hill.",
+                "Lower the garden cart to the ground."
             ]
         },
         {
-            "task": "Conclude the day",
+            "task": "Unloading the garden cart in the garden.",
             "subtasks": [
-                "Retire for the night",
-                "\" and systematically lists each required task."
+                "Empty the contents of the garden cart into the garden.",
+                "Dispose of any excess material from the garden cart."
+            ]
+        },
+        {
+            "task": "Returning the garden cart to the garden.",
+            "subtasks": [
+                "Reload the garden cart with tools or materials.",
+                "Carrying the garden cart back down the hill.",
+                "Pushing the garden cart down the slope.",
+                "Braking the garden cart to stop at the bottom."
+            ]
+        },
+        {
+            "task": "Using the garden tools in the garden.",
+            "subtasks": [
+                "Digging with a garden fork.",
+                "Mixing soil with the garden fork."
+            ]
+        },
+        {
+            "task": "Watering the garden.",
+            "subtasks": [
+                "Using a watering can or hose to apply water.",
+                "Ensuring even distribution of water across the garden area."
+            ]
+        },
+        {
+            "task": "Returning the garden fork to the garden cart and pushing back up.",
+            "subtasks": [
+                "Loading the garden fork onto the garden cart.",
+                "Steering the garden cart up the hill again.",
+                "Braking the cart as needed while ascending."
+            ]
+        },
+        {
+            "task": "Lowering the garden cart at the top of the hill.",
+            "subtasks": [
+                "Placing the cart's wheels on the ground at the top.",
+                "Stabilizing the cart if necessary."
+            ]
+        },
+        {
+            "task": "Unloading the garden cart once more.",
+            "subtasks": [
+                "Removing the garden fork from the cart.",
+                "Putting the garden fork back into the garden to put away."
+            ]
+        },
+        {
+            "task": "Walking up the hill with the garden cart.",
+            "subtasks": [
+                "Pushing the garden cart uphill.",
+                "Balancing the garden cart on the slope."
+            ]
+        },
+        {
+            "task": "Moving the garden cart off the slope.",
+            "subtasks": [
+                "Steer the garden cart away from the hill.",
+                "Lower the garden cart to the ground."
+            ]
+        },
+        {
+            "task": "Unloading the garden cart in the garden.",
+            "subtasks": [
+                "Empty the contents of the garden cart into the garden.",
+                "Dispose of any excess material from the garden cart."
+            ]
+        },
+        {
+            "task": "Returning the garden cart to the garden.",
+            "subtasks": [
+                "Reload the garden cart with tools or materials.",
+                "Carrying the garden cart back down the hill.",
+                "Pushing the garden cart down the slope.",
+                "Braking the garden cart to stop at the bottom."
+            ]
+        },
+        {
+            "task": "Using the garden tools in the garden.",
+            "subtasks": [
+                "Digging with a garden fork.",
+                "Mixing soil with the garden fork."
+            ]
+        },
+        {
+            "task": "Watering the garden.",
+            "subtasks": [
+                "Using a watering can or hose to apply water.",
+                "Ensuring even distribution of water across the garden area."
+            ]
+        },
+        {
+            "task": "Returning the garden fork to the garden cart and pushing back up.",
+            "subtasks": [
+                "Loading the garden fork onto the garden cart.",
+                "Steering the garden cart up the hill again.",
+                "Braking the garden cart as needed while ascending."
+            ]
+        },
+        {
+            "task": "Lowering the garden cart at the top of the hill.",
+            "subtasks": [
+                "Placing the cart's wheels on the ground at the top.",
+                "Stabilizing the cart if necessary."
+            ]
+        },
+        {
+            "task": "Unloading the garden cart once more.",
+            "subtasks": [
+                "Removing the garden fork from the cart.",
+                "Putting the garden fork back into the garden to put away."
+            ]
+        },
+        {
+            "task": "Walking up the hill with the garden cart.",
+            "subtasks": [
+                "Pushing the garden cart uphill.",
+                "Balancing the garden cart on the slope."
+            ]
+        },
+        {
+            "task": "Moving the garden cart off the slope.",
+            "subtasks": [
+                "Steer the garden cart away from the hill.",
+                "Lower the garden cart to the ground."
+            ]
+        },
+        {
+            "task": "Unloading the garden cart in the garden.",
+            "subtasks": [
+                "Empty the contents of the garden cart into the garden.",
+                "Dispose of any excess material from the garden cart."
+            ]
+        },
+        {
+            "task": "Returning the garden cart to the garden.",
+            "subtasks": [
+                "Reload the garden cart with tools or materials.",
+                "Carrying the garden cart back down the hill.",
+                "Pushing the garden cart down the slope.",
+                "Braking the garden cart to stop at the bottom."
+            ]
+        },
+        {
+            "task": "Using the garden tools in the garden.",
+            "subtasks": [
+                "Digging with a garden fork.",
+                "Mixing soil with the garden fork."
+            ]
+        },
+        {
+            "task": "Watering the garden.",
+            "subtasks": [
+                "Using a watering can or hose to apply water.",
+                "Ensuring even distribution of water across the garden area."
+            ]
+        },
+        {
+            "task": "Returning the garden fork to the garden cart and pushing back up.",
+            "subtasks": [
+                "Loading the garden fork onto the garden cart.",
+                "Steering the garden cart up the hill again.",
+                "Braking the garden cart as needed while ascending."
+            ]
+        },
+        {
+            "task": "Lowering the garden cart at the top of the hill.",
+            "subtasks": [
+                "Placing the cart's wheels on the ground at the top.",
+                "Stabilizing the cart if necessary."
+            ]
+        },
+        {
+            "task": "Unloading the garden cart once more.",
+            "subtasks": [
+                "Removing the garden fork from the cart.",
+                "Putting the garden fork back into the garden to put away."
             ]
         }
     ]

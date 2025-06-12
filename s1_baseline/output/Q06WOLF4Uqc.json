@@ -5,51 +5,1110 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Operating and maintaining a linear irrigation system",
+            "task": "Farmer discusses linear irrigation systems with an agriculture expert.",
             "subtasks": [
-                "Mentally preparing to swap hoses every 500 feet",
-                "Driving a tractor or truck to drag a hose to the next hydrant",
-                "Ensuring hydrants are not easily dislodged (located ~4 feet underground)",
-                "Monitoring hose lifespan (typically 8-10 years)",
-                "Ensuring consistent water usage compared to center pivot systems",
-                "Adjusting to labor-intensive tasks during hot weather (e.g., irrigation)",
-                "Maintaining a furrow for the linear irrigation system",
-                "Operating GPS auto steel tractors for precise furrow digging",
-                "Monitoring the linear irrigation machine's sensors to prevent water cutoff",
-                "Understanding the system's vulnerability to wheel alignment (e.g., boards or 2x4 guides)"
+                "Farmer greets the agriculture expert and introduces themselves.",
+                "Farmer and expert explain the concept of linear irrigation.",
+                "Expert describes the advantages of linear irrigation for rectangular fields.",
+                "Farmer mentions the water efficiency of linear systems compared to center pivots.",
+                "Expert explains the limitations of linear systems, such as labor requirements and hose maintenance.",
+                "Farmer and expert discuss the longevity of hoses in linear irrigation systems."
             ]
         },
         {
-            "task": "Running a linear irrigation system",
+            "task": "Farmer demonstrates how to operate a linear irrigation system.",
             "subtasks": [
-                "Setting up the system to cover a square or rectangular field",
-                "Aligning the system's movement pattern (down and back) with field layout",
-                "Ensuring full coverage in straight fields without circular system edges",
-                "Adjusting to the need for manual hose swapping compared to automated center pivots",
-                "Managing system efficiency and comparing to other irrigation methods (drip vs. center pivot)"
+                "Farmer explains the process of setting up the irrigation system.",
+                "Farmer describes the need to swap hoses at regular intervals.",
+                "Farmer explains how to connect hoses to hydrants and run the system.",
+                "Expert discusses the importance of maintaining a proper furrow for the system.",
+                "Farmer demonstrates using GPS technology to guide the irrigation machine."
             ]
         },
         {
-            "task": "Addressing challenges and considerations specific to linear irrigation",
+            "task": "Farmer explains the future aspects of linear irrigation systems.",
             "subtasks": [
-                "Noting the necessity for manual labor (hose swapping, furrow maintenance)",
-                "Evaluating the system's adaptability to various crops (corn, soybeans, cotton, strawberries)",
-                "Understanding the system's impact on crop management (ground-level irrigation, evaporation control)",
-                "Considering the system's longevity and replacement intervals (hydrants every 8-10 years)",
-                "Assessing the use of GPS technology in maintaining system alignment",
-                "Preparing for the potential complexity of resetting the system after hose swaps"
+                "Farmer reflects on the ongoing maintenance of linear irrigation systems.",
+                "Farmer considers potential improvements in linear irrigation technology, such as GPS guidance.",
+                "Farmer thanks the expert for the discussion.",
+                "Farmer encourages viewers to check out other agricultural videos."
             ]
         },
         {
-            "task": "Operating and maintaining a linear irrigation system",
+            "task": "Farmer describes and demonstrates linear irrigation systems.",
             "subtasks": []
         },
         {
-            "task": "Running a linear irrigation system",
+            "task": "Introduce the discussion and start talking about linear irrigation.",
             "subtasks": []
         },
         {
-            "task": "Addressing challenges and considerations specific to linear irrigation",
+            "task": "Farmer explains linear irrigation systems.",
+            "subtasks": []
+        },
+        {
+            "task": "Farmer explains and demonstrates linear irrigation systems.",
+            "subtasks": [
+                "",
+                ""
+            ]
+        },
+        {
+            "task": "Farmer discusses linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Wait, no. In the video, the transcript suggests that the farmer is explaining the system, and shows the hose being dragged. But in the actual video (since this is a transcript), maybe the farmer is described showing how it's done. But given it's just a transcription, the farmer provides all the explanations and mentions operational aspects. So if that's the case, MAINTASK is explaining the system and operation. So split that into conceptual overview (subtask1), labor aspects (subtask2), and technical operation (subtask3).",
+            "subtasks": []
+        },
+        {
+            "task": "But maybe the task is still about explaining and demonstrating the system, which involves both the concept and operation. But I need to be careful not to make the tasks too broad or too narrow. Let me define what a task is. Each task should be a high-level physical task or step the person would take. For example, explaining the system could be a task, operating the system could be another. So perhaps MAINTASK is \"Farmer explains and demonstrates linear irrigation systems\" and under that are the multiple subtasks. But given that the farmer is both explaining and then perhaps showing (despite being a transcript, so only his words are provided, but let's just go off the text).",
+            "subtasks": []
+        },
+        {
+            "task": "Farmer explains and demonstrates linear irrigation systems.",
+            "subtasks": []
+        },
+        {
+            "task": "Farmer explains linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "The main task is that the farmer is explaining linear irrigation systems. Perhaps MAINTASK should be \"Farmer explains linear irrigation systems to the expert\", but given that after their conversation, the closing lines indicate the farmer thanks the expert and encourages viewers to check other videos. But since the user's request is to generate tasks based on the given transcript, which is solely from the farmer's side. So maybe MAINTASK is \"Farmer discusses linear irrigation systems\", which would cover the entire conversation. But in reality, the expert is contributing some parts. However, since the expert's input would be presented by the farmer in the explanation, perhaps the main task should pertain to the farmer's demonstration of linear irrigation, including explanation and operation.",
+            "subtasks": []
+        },
+        {
+            "task": "But perhaps \"Farmer explains and demonstrates the setup and operation of a linear irrigation system\" can be the MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "Farmer sets up and operates a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Therefore, MAINTASK would be \"Farmer sets up and operates a linear irrigation system\".",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and operate a linear irrigation system.",
+            "subtasks": [
+                "Dig a furrow for the system.",
+                "Position the hose drag system at the start of the field.",
+                "Attach the first hose to the initial hydrant.",
+                "Drag the hose to the next hydrant location and swap the hose every 500 feet.",
+                "Connect the hose to each hydrant as the system is moved.",
+                "Guide the irrigation machine through the furrow.",
+                "Use RTK technology to maintain the machine's precise position.",
+                "Monitor water distribution and adjust as necessary.",
+                "Check for any leaks or misalignments during operation."
+            ]
+        },
+        {
+            "task": "Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Set up a linear irrigation system (subtasks: dig furrow, position hydrants, attach hoses).",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system (subtasks: guide machine, use RTK, monitor).",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Setup linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "However, given they are two distinct sections in the transcript, first the farmer explaining how it's set up and then the operation. If the video transcript is about setting up the system, then MAINTASK1 is setup, and if it's about operating it, MAINTASK2 is operation.",
+            "subtasks": []
+        },
+        {
+            "task": "setup (~ hardware installation) and operation (~ using the system). But maybe it's one MAINTASK with subtasks as setup and operation combined.",
+            "subtasks": []
+        },
+        {
+            "task": "Alternatively, check the transcript for clues. When the farmer talks about \"the system has been in for about 20 years\" and mentions past experiences, suggesting that he's mainly discussing the system's operation, rather than setup. Since the transcript includes references to hoses, hydrants, and running the system, leading to a conclusion that MAINTASK is \"Operate a linear irrigation system\". However, without setup steps, perhaps the person would need to perform both setup and operation. Therefore, the MAINTASK is \"Operate a functioning linear irrigation system\", and gets set up as part of it.",
+            "subtasks": []
+        },
+        {
+            "task": "\"Set up and operate a linear irrigation system\" with two subtasks: setup and operation.",
+            "subtasks": []
+        },
+        {
+            "task": "But given that the answer's purpose is to generate physical tasks based on the transcript's content, and the transcript covers aspects of both setup and operation, it's possible the intended MAINTASK is \"Operate a linear irrigation system\", with setup implicit because one doesn't typically set up the system every time.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Set up a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Run a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "\"Set up and operate a linear irrigation system\"",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "\"Setup linear irrigation system\" and \"Operate linear irrigation system\" with the transcript content split accordingly.",
+            "subtasks": []
+        },
+        {
+            "task": "However, based on the conversation, the farmer may be describing steps, so maybe more accurately the MAINTASK is \"Operate a linear irrigation system\", but accepts the setup steps as part of operation. Since the transcript mentions both the setting and moving of the hose system, it's operation. For instance, on the farm, one would set up the system before operating it, but in the instruction context, the tasks can be merged.",
+            "subtasks": []
+        },
+        {
+            "task": "\"generate a series of tasks based on the transcript that a person would have to perform\" implying these are individual steps that, when completed, a user needs to go through; the setup includes things like initializing the system, which involves prepping the field, while operation is moving through the field. So someone (the third person) isn't familiar with the system, so both setup and operation are required. Hence, MAINTASK combines both.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "But if the view is getting the system from its storage to running, perhaps Step a & b are covered. After that, set to go. Hence, combining setup and operation. Therefore, MAINTASK is \"Set Up and Operate a Linear Irrigation System\"",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK1: Set up a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the linear irrigation system, and during setup one needs to do certain things.",
+            "subtasks": []
+        },
+        {
+            "task": "But, the video is from the farmer explaining and demonstrating the entire process. Hence, the viewer would need both setup and operation steps. Therefore, MAINTASK Combines setup and operation.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Set up a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "[User] operates a linear irrigation system, with instructions on how to do this. The setup steps must have already been done. Therefore:",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "But in any case, all the options require breaking down the relevant information into key physical steps. Given the transcript's structure, alternating between system set up (initial digging, hydrants, hoses) to operation (guidance, monitoring), the MAINTASKs must combine both phases.",
+            "subtasks": []
+        },
+        {
+            "task": "Given the initial parts of the conversation introduce the concept and system setup process, but later shift into the system's operation. However, in practice, the system\u2019s setup is a one-time event, but its operation is regular. For MAINTASK purposes, if we treat the system as static (as in once set up, it operates), then the task would be a one-time setup or a regular operation. However, the presence of the RTK system suggests the ability to recut the furrow and drive the machines through.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system (including setting up the system once, then operating it).",
+            "subtasks": []
+        },
+        {
+            "task": "In any case, the MAINTASK and subtasks should cover all physical activities required to go from start to finish for a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system with hose-swapping and RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "Run a linear irrigation system using RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "Explain the concept and benefits of linear irrigation.",
+            "subtasks": []
+        },
+        {
+            "task": "Discuss operational aspects and challenges of linear irrigation.",
+            "subtasks": []
+        },
+        {
+            "task": "Demonstrate running a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "[Duke] set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "[Farmer] operates a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "...\") but given the answer format instructions, leaving as final answer:",
+            "subtasks": []
+        },
+        {
+            "task": "[Farmer] operates a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Set up a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate the linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "But since this video is for an adult doing agricultural work, and because MAINTASK should be generated based on physical tasks. The person isn't going to replace the entire system and would need example tasks related to that system.",
+            "subtasks": []
+        },
+        {
+            "task": "Explain and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Operate a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK guidance",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up and operate a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Demonstrate the operation of a linear irrigation system utilizing RTK guidance",
+            "subtasks": []
+        },
+        {
+            "task": "** Explain and operate a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Explain and pilot a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Perform daily maintenance and operation of a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK guidance",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up and run a linear irrigation system using RTK technology",
+            "subtasks": []
+        },
+        {
+            "task": "** Manage a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Engage in linear irrigation operations",
+            "subtasks": []
+        },
+        {
+            "task": "** Run a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Irrelevant because the video discusses only the theoretical aspects of linear irrigation, not practical operations.",
+            "subtasks": []
+        },
+        {
+            "task": "Manual Linear Irrigation Setup and Operation",
+            "subtasks": []
+        },
+        {
+            "task": "Explain and Demonstrate Linear Irrigation System",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "[Farmer] uses RTK technology to operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "[Farmer] demonstrates the operation of a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Troubleshoot and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Explain and set up a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Farm Mechanization.",
+            "subtasks": []
+        },
+        {
+            "task": "Linear Irrigation System Operations",
+            "subtasks": []
+        },
+        {
+            "task": "Perform Linear Irrigation System Setup and Operation",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system using RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "Create and manage a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Perform linear irrigation system operations.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Use a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and drive a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Linear Irrigation Operations and Monitoring",
+            "subtasks": []
+        },
+        {
+            "task": "Maintain and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "[Farmer] operates a linear irrigation system with hydraulic assist.",
+            "subtasks": []
+        },
+        {
+            "task": "Linear Irrigation System Parameters Management",
+            "subtasks": []
+        },
+        {
+            "task": "Linear Irrigation Machine Operation",
+            "subtasks": []
+        },
+        {
+            "task": "** Manage linear irrigation system operations",
+            "subtasks": []
+        },
+        {
+            "task": "** Manual Irrigation System Operations",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare and operate a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Linear Irrigation Systems Operational Procedures",
+            "subtasks": []
+        },
+        {
+            "task": "** Irrigation System Execution",
+            "subtasks": []
+        },
+        {
+            "task": "** Implement and maintain a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Linear Irrigation. Setup and Utilization",
+            "subtasks": []
+        },
+        {
+            "task": "** Agricultural Watering System Operation",
+            "subtasks": []
+        },
+        {
+            "task": "** Linear Irrigation Machine Running",
+            "subtasks": []
+        },
+        {
+            "task": "** Operating Linear Irrigation with RTK",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up and operate a linear irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "** Linear Irrigation Bucket List",
+            "subtasks": []
+        },
+        {
+            "task": "** [Farmer] operates a linear irrigation system using RTK guidance and hoses.",
+            "subtasks": []
+        },
+        {
+            "task": "** Linear Irrigation Machine Operation",
+            "subtasks": []
+        },
+        {
+            "task": "Drive a linear irrigation system through a field.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** Linear Irrigation System Usage",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** Support Efficient Field Irrigation",
+            "subtasks": []
+        },
+        {
+            "task": "Control a Linear Irrigation System using RTK Capability",
+            "subtasks": []
+        },
+        {
+            "task": "Linear Irrigation System Usage",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and drive a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** [Agricultrualist] adjust and operate a linear irrigation system involving RTK technology.",
+            "subtasks": []
+        },
+        {
+            "task": "Farm Water Management System Setup**",
+            "subtasks": []
+        },
+        {
+            "task": "Precise Field Irrigation with Linear System**",
+            "subtasks": []
+        },
+        {
+            "task": "Hands-On Linear Irrigation System Operation**",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** Drive a linear irrigation machine with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "** [Agricultural Operation]",
+            "subtasks": []
+        },
+        {
+            "task": "** Irrigation System Operation with Manual Adjustments",
+            "subtasks": []
+        },
+        {
+            "task": "Linear Irrigation Machine Operation Using RTK",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK positioning.",
+            "subtasks": []
+        },
+        {
+            "task": "** Agricultural Watering System Operation using Linear Systems and RTK",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up Linear Irrigation System for Rectangular Fields",
+            "subtasks": []
+        },
+        {
+            "task": "** Maintain a Linear Irrigation System",
+            "subtasks": []
+        },
+        {
+            "task": "** Linear Irrigation System Watering",
+            "subtasks": []
+        },
+        {
+            "task": "** AgriTech Support for Ditch Irrigation",
+            "subtasks": []
+        },
+        {
+            "task": "** Liner Irrigation System Management with RTK and Tight Furrows",
+            "subtasks": []
+        },
+        {
+            "task": "** Linear Irrigation System Use",
+            "subtasks": []
+        },
+        {
+            "task": "** Farm Manager - Linear Irrigated Field Operation",
+            "subtasks": []
+        },
+        {
+            "task": "** Precede Operation of Linear Irrigation System",
+            "subtasks": []
+        },
+        {
+            "task": "** Agricultural Watering Operation Using Linear System and RTK",
+            "subtasks": []
+        },
+        {
+            "task": "** Drag Hoses for Linear Irrigation and Apply Water",
+            "subtasks": []
+        },
+        {
+            "task": "** Execute Linear Irrigation with RTK Technology",
+            "subtasks": []
+        },
+        {
+            "task": "** Restore Irrigation System Functionality Using RTK",
+            "subtasks": []
+        },
+        {
+            "task": "**Set up and align linear irrigation system with RTK.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** Linear Irrigation with RTK Support",
+            "subtasks": []
+        },
+        {
+            "task": "** Guide Linear Irrigation Machine in Rectangular Fields",
+            "subtasks": []
+        },
+        {
+            "task": "** Maintain and Optimize Linear Irrigation System",
+            "subtasks": []
+        },
+        {
+            "task": "** [Farmer] sets up and operates a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "** [Farmer] demonstrates linear irrigation setup and operation.",
+            "subtasks": []
+        },
+        {
+            "task": "[Farmer] operates a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "N/A",
+            "subtasks": []
+        },
+        {
+            "task": "** Vet Clinic Ride and Fencing Inspection",
+            "subtasks": []
+        },
+        {
+            "task": "** [Veterinarian] inspects equine facilities and provides medical care.",
+            "subtasks": []
+        },
+        {
+            "task": "** Horse Care 101",
+            "subtasks": []
+        },
+        {
+            "task": "** [Equine Professional] Performs Routine Care",
+            "subtasks": []
+        },
+        {
+            "task": "** Equine Facility Inspection",
+            "subtasks": []
+        },
+        {
+            "task": "**  Develop a Horse Care Regimen",
+            "subtasks": []
+        },
+        {
+            "task": "** [Ranch Manager]  Verifies Equine Care and Farm Safety",
+            "subtasks": []
+        },
+        {
+            "task": "** Horse-Ride Setup and maintenance",
+            "subtasks": []
+        },
+        {
+            "task": "** Horse and Facilities Management",
+            "subtasks": []
+        },
+        {
+            "task": "** Ensuring Equine Wellness and Facility Integrity",
+            "subtasks": []
+        },
+        {
+            "task": "Groom and ride a horse.",
+            "subtasks": []
+        },
+        {
+            "task": "** Farm Horse Management",
+            "subtasks": []
+        },
+        {
+            "task": "** Pre-Ride Horse Care",
+            "subtasks": []
+        },
+        {
+            "task": "** Equine Facilities Surveillance and Grooming",
+            "subtasks": []
+        },
+        {
+            "task": "** Conduct a horse inspection and ensure stable safety.",
+            "subtasks": []
+        },
+        {
+            "task": "** Horizontal Horse Management",
+            "subtasks": []
+        },
+        {
+            "task": "** [Equestrian Instructor] Performs Pre-Ride Inspections",
+            "subtasks": []
+        },
+        {
+            "task": "** Horse Training Session Setup",
+            "subtasks": []
+        },
+        {
+            "task": "** [Farmer] checks equine health and stable safety.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u68c0\u67e5\u6c60\u5858\u548c\u9632\u62a4\u56f4\u680f\u4ee5\u786e\u4fdd\u9a6c\u5339\u7684\u5b89\u5168\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** \u786e\u4fdd\u7267\u573a\u5b89\u5168\u4e0e\u9a6c\u5339\u62a4\u7406\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "**[Farmer]\u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "The given transcript is about operating a linear irrigation system, which includes digging a furrow, connecting hoses, and using RTK guidance. Therefore, the MAINTASK should be to operate a linear irrigation system, with subtasks covering these key aspects.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** [Operator]\u8fd0\u884c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** Use RTK guidance to run a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "\u7ba1\u7406\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf",
+            "subtasks": []
+        },
+        {
+            "task": "\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u7684\u64cd\u4f5c",
+            "subtasks": []
+        },
+        {
+            "task": "** Irrigation System Operation and Maintenance",
+            "subtasks": []
+        },
+        {
+            "task": "** \u4f7f\u7528RTK\u8f85\u52a9\u8fdb\u884c\u7530\u95f4\u704c\u6e89\u64cd\u4f5c",
+            "subtasks": []
+        },
+        {
+            "task": "** [\u519c\u4e1a\u5de5\u4eba] Employs linear irrigation system with RTK guides.",
+            "subtasks": []
+        },
+        {
+            "task": "** Farming \u6d82\u62b9\u76f4\u7ebf\u704c\u6e89\u8bbe\u5907\u4f7f\u7528",
+            "subtasks": []
+        },
+        {
+            "task": "\u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u3002**",
+            "subtasks": []
+        },
+        {
+            "task": "** \u7ba1\u7406\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf",
+            "subtasks": []
+        },
+        {
+            "task": "** Irrigation System Operations Using RTK",
+            "subtasks": []
+        },
+        {
+            "task": "** \u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u64cd\u4f5c",
+            "subtasks": []
+        },
+        {
+            "task": "** Operation of Linear Irrigation System with RTK Guidance",
+            "subtasks": []
+        },
+        {
+            "task": "** Use RTK guidance to control linear irrigation operations.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u6574\u7406:\u64cd\u4f5c\u6db2\u4f53\u6539\u5236\u6c34\u7cfb\u7edf\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u64cd\u4f5c",
+            "subtasks": []
+        },
+        {
+            "task": "** \u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf",
+            "subtasks": []
+        },
+        {
+            "task": "** Main task: [Farmer] operates a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "Use RTK to operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u7ebf\u6027\u55b7\u704c\u7cfb\u7edf\u64cd\u4f5c",
+            "subtasks": []
+        },
+        {
+            "task": "** Use RTK guidance on a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u7684\u64cd\u4f5c\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a Linear Irrigation System**",
+            "subtasks": []
+        },
+        {
+            "task": "** \u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u64cd\u4f5c",
+            "subtasks": []
+        },
+        {
+            "task": "** \u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf",
+            "subtasks": []
+        },
+        {
+            "task": "** Irrigator \u4f7f\u7528\u81ea\u52a8\u7ebf\u6027\u55b7\u704c\u7cfb\u7edf",
+            "subtasks": []
+        },
+        {
+            "task": "**[\u519c\u592b]\u64cd\u4f5c\u914d\u5907\u4e86RTK\u7cfb\u7edf\u7684\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** [\u519c\u6c11]\u4f7f\u7528RTK\u7cfb\u7edf\u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u673a\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u96c7\u4e3b\u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u673a,\u9075\u5faa\u7cbe\u51c6\u7684 RTK \u6307\u5f15\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system using RTK for guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "Set up and operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u5f00\u53d1Evaporation Control\u9879\u76ee\u4ee5\u51cf\u5c11\u704c\u6e89\u7528\u6c34\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** \u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up and operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "** Configure and operate a linear irrigation system using RTK.",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u64cd\u4f5c",
+            "subtasks": []
+        },
+        {
+            "task": "** \u68c0\u9a8c\u548c\u624b\u52a8\u64cd\u4f5c\u704c\u6e89\u7cfb\u7edf\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "\u64cd\u4f5c\u4e00\u4e2a\u914d\u5907RTK\u5f15\u5bfc\u7684\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u4f7f\u7528RTK\u7cfb\u7edf\u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** \u6307\u5bfc\u4f7f\u7528RTK\u7684\u7ebf\u6027\u704c\u6e89\u64cd\u4f5c\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "\u6307\u6325\u5e76\u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u4f7f\u7528RTK\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** \u64cd\u4f5c\u704c\u6e89\u7cfb\u7edf\u5e76\u68c0\u67e5\u662f\u5426\u6709\u6cc4\u9732\u6216\u5176\u4ed6\u4e0d\u6b63\u5e38\u60c5\u51b5\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** Zinc\u4f7f\u7528RTK\u6307\u5f15\u7684\u7ebf\u6027\u55b7\u704c\u7cfb\u7edf\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** \u4f7f\u7528RTK\u5bfc\u822a\u7684\u7ebf\u6027\u704c\u6e89\u64cd\u4f5c",
+            "subtasks": []
+        },
+        {
+            "task": "**MAINTASK:** Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system with RTK technology.",
+            "subtasks": []
+        },
+        {
+            "task": "**\u4f7f\u7528RTK\u6280\u672f\u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf\u7684\u519c\u6c11",
+            "subtasks": []
+        },
+        {
+            "task": "** \u7528RTK\u7cfb\u7edf\u9a71\u52a8\u7ebf\u6027\u55b7\u704c\u673a\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** Control a linear irrigation system.",
+            "subtasks": []
+        },
+        {
+            "task": "** [\u519c\u4e1a\u5de5\u4eba]\u64cd\u4f5c\u5e26\u6709RTK\u7cfb\u7edf\u7684\u7ebf\u6027\u704c\u6e89\u88c5\u7f6e\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** \u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf,\u4f7f\u7528RTK\u5bfc\u822a,\u786e\u4fdd\u7cbe\u51c6\u704c\u6e89\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** Set up and operate a Linear Irrigation System with RTK",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "\u4f7f\u7528RTK\u5b9a\u4f4d\u704c\u6e89\u673a\u64cd\u4f5c\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** Lineal Irrigation System Operation with Real Time Kinematic (RTK)",
+            "subtasks": []
+        },
+        {
+            "task": "Use RTK guidance to drive the linear irrigation system and monitor water distribution.",
+            "subtasks": []
+        },
+        {
+            "task": "Opera di covura verde superiore con linea di irrigazione lineare.",
+            "subtasks": []
+        },
+        {
+            "task": "** \u64cd\u4f5c\u7ebf\u6027\u704c\u6e89\u7cfb\u7edf",
+            "subtasks": []
+        },
+        {
+            "task": "\u4e3a\u7530\u5730\u94fa\u8bbe\u6c9f\u6e20\u5e76\u64cd\u4f5c\u7ebf\u6027\u55b7\u704c\u7cfb\u7edf\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "Operate a linear irrigation system with RTK guidance.",
+            "subtasks": []
+        },
+        {
+            "task": "**  \u8c03\u7528\u704c\u6e89\u7cfb\u7edf\u53ca\u6307\u5bfc\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "**[\u64cd\u4f5c\u5458]\u4f7f\u7528RTK\u6307\u5f15\u8fdb\u884c\u7cbe\u51c6\u704c\u6e89\u64cd\u4f5c\u3002",
+            "subtasks": []
+        },
+        {
+            "task": "** Operate a linear irrigation system with RTK guidance.",
             "subtasks": []
         }
     ]

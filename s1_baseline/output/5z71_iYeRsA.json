@@ -5,113 +5,59 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Planting peanuts in April and May",
+            "task": "Plant peanuts in April and May",
             "subtasks": [
-                "Choose peanut seeds",
                 "Prepare soil for planting",
-                "Plant peanut seeds in rows or desired pattern",
-                "Water newly planted seeds"
+                "Plant peanuts",
+                "Confirm planting was completed in April and May"
             ]
         },
         {
-            "task": "Observing peanut flower development",
+            "task": "Monitor peanut growth",
             "subtasks": [
-                "Check for flower blooms above the ground",
-                "Identify peanuts developing below the ground via pegs"
+                "Observe peanut flowers blooming above ground",
+                "Note development of peanut fruit below ground"
             ]
         },
         {
-            "task": "Monitoring peanut growth",
+            "task": "Peg formation and peanut development",
             "subtasks": [
-                "Check overall plant health",
-                "Monitor for pests or diseases",
-                "Ensure proper soil moisture and nutrition"
+                "Wait for small stems called pegs to reach down from flowers"
             ]
         },
         {
-            "task": "Harvesting peanuts",
+            "task": "Harvest peanuts after four months",
             "subtasks": [
-                "Wait until four months after planting, around August or September",
-                "Detect when peanuts are ready (pegs turn brown)",
-                "Dig up mature plants",
-                "Separate peanuts from vines",
-                "Dry harvested peanuts"
+                "Confirm harvest time has arrived four months after planting",
+                "Collect peanuts from below the soil"
             ]
         },
         {
-            "task": "Planting peanuts in April and May",
+            "task": "Plant peanuts in April and May**",
             "subtasks": [
-                "Choose peanut seeds",
-                "Prepare soil for planting (maybe tilling, adding fertilizer)",
-                "Plant peanut seeds in rows or the desired pattern",
-                "Water newly planted seeds"
+                "Prepare soil for planting (cleared of debris, tilled, etc.)",
+                "Plant peanuts (proper depth and spacing)",
+                "Confirm planting was done between April and May"
             ]
         },
         {
-            "task": "Observing peanut flower development",
+            "task": "Monitor peanut growth**",
             "subtasks": [
-                "Check for flower blooms above the ground",
-                "Identify peanuts developing below the ground via pegs"
+                "Observe peanut flowers blooming above ground",
+                "Note development of peanut fruit below ground"
             ]
         },
         {
-            "task": "Monitoring peanut growth",
+            "task": "Peg formation and peanut development**",
             "subtasks": [
-                "Check overall plant health",
-                "Monitor for pests or diseases",
-                "Ensure proper soil moisture and nutrition"
+                "Wait for small stems called pegs to reach down from the flowers"
             ]
         },
         {
-            "task": "Harvesting peanuts",
+            "task": "Harvest peanuts after four months**",
             "subtasks": [
-                "Wait until four months after planting, around August or September",
-                "Detect when peanuts are ready (pegs turn brown)",
-                "Dig up mature plants",
-                "Separate peanuts from vines",
-                "Dry harvested peanuts"
-            ]
-        },
-        {
-            "task": "I think that covers it. Let me verify once more. The transcript is about the process of peanut growth, from planting to harvest, mentioning that the plants take four months, flowers bloom above and pegs grow below. So tasks related to each of those stages. Planting, monitoring, harvesting. Seems good. So I'll put MAINTASKs for each of those, then the subtasks underneath.",
-            "subtasks": []
-        },
-        {
-            "task": "Thus, the answer should be presented as MAINTASKs with corresponding subtasks. Also, since the prompt says to include only tasks related to farming, agriculture, or operating farming equipment, and as long as the tasks involve physical actions, they should be included. So that's what we've done here. Each subtask is a specific action a person would take in a farming context.",
-            "subtasks": []
-        },
-        {
-            "task": "Planting peanuts in April and May**",
-            "subtasks": [
-                "** Choose peanut seeds",
-                "** Prepare soil for planting (tilling, fertilizing)",
-                "** Plant peanut seeds in rows or desired pattern",
-                "** Water newly planted seeds"
-            ]
-        },
-        {
-            "task": "Observing peanut flower development**",
-            "subtasks": [
-                "** Check for flower blooms above the ground",
-                "** Identify peanuts developing below the ground via pegs"
-            ]
-        },
-        {
-            "task": "Monitoring peanut growth**",
-            "subtasks": [
-                "** Check overall plant health",
-                "** Monitor for pests or diseases",
-                "** Ensure proper soil moisture and nutrition"
-            ]
-        },
-        {
-            "task": "Harvesting peanuts**",
-            "subtasks": [
-                "** Wait until four months after planting (August or September)",
-                "** Detect when peanuts are ready (pegs turn brown)",
-                "** Dig up mature plants",
-                "** Separate peanuts from vines",
-                "** Dry harvested peanuts"
+                "Confirm harvest time has arrived four months after planting",
+                "Collect peanuts from below the soil"
             ]
         }
     ]

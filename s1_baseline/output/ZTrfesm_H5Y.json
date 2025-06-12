@@ -5,26 +5,41 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Construct a low-cost rope pump for accessing clean water.",
+            "task": "Construct a rope pump for extracting water from a well.",
             "subtasks": [
-                "Gather necessary tools (hand saw, hand drill, knife, wrenches).",
-                "Acquire local materials (wood, used car tire, rope, PVC pipe, glass bottles, wire, wax, nails, bolts).",
-                "Drill holes in wood for bearings.",
-                "Create glass bottles as friction reducers.",
-                "Make double piston arrangement using tire sidewall.",
-                "Assemble the pump using wood bearings and pistons.",
-                "Lower the rope with piston down the 20-foot well.",
-                "Attach the rope pump to a three-row water distribution system made from wood and painted fabric.",
-                "Connect the drip irrigation system using Visqueen material.",
-                "Operate the leg-driven pump for agricultural needs."
+                "Gather necessary materials (wood, used car tire, rope, PVC pipe, glass bottles, wire, wax, nails, bolts).",
+                "Use a hand saw to cut PVC pipe and wood.",
+                "Drill holes in wood using a hand drill.",
+                "Prepare glass bottles as friction reducers for rope.",
+                "Convert a bicycle frame into a hole saw.",
+                "Construct wood bearings with wax for smooth operation.",
+                "Make pistons from tire sidewall rubber.",
+                "Assemble pump with double piston arrangement for efficiency."
             ]
         },
         {
-            "task": "Distribute water using a locally produced drip irrigation system.",
+            "task": "Set up a three-row water distribution system.",
             "subtasks": [
-                "Install the Visqueen drip irrigation system.",
-                "Ensure proper attachment to the water distribution system.",
-                "Maintain water pressure and flow for efficient irrigation."
+                "Construct distribution system using wood and painted fabric."
+            ]
+        },
+        {
+            "task": "Install a Visqueen drip irrigation system.",
+            "subtasks": [
+                "Prepare Visqueen material for irrigation.",
+                "Connect drip irrigation system to the water distribution."
+            ]
+        },
+        {
+            "task": "Drive the pump using legs for agricultural purposes.",
+            "subtasks": [
+                "Secure the pump for leg-powered operation."
+            ]
+        },
+        {
+            "task": "Maintain the system with local resources.",
+            "subtasks": [
+                "Ensure no outside funding is required for maintenance."
             ]
         }
     ]

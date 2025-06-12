@@ -5,20 +5,84 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Engage local farmers in training workshops on vegetable grafting for climate-smart agriculture.",
+            "task": "Participate in a training workshop on vegetable grafting.",
             "subtasks": [
-                "Deliver theoretical lectures on local grafting research (various rootstocks for tomatoes and sweet peppers).",
-                "Present findings on grafting's impact on biotic and abiotic stress resistance.",
-                "Explain how vegetable grafting reduces financial losses and pesticide use.",
-                "Illustrate the potential for increased food security through successful crop protection."
+                "Attend the theoretical session.",
+                "Listen to lectures on local grafting research.",
+                "Learn about grafting tomatoes and sweet peppers on various rootstocks.",
+                "Understand performance benefits against biotic and abiotic stresses."
             ]
         },
         {
-            "task": "Facilitate farmer adoption of IPM (Integrated Pest Management) practices.",
+            "task": "Participate in the practical session.",
             "subtasks": [
-                "Educate farmers on using vegetable grafting as the first line of defense against soil-borne diseases.",
-                "Highlight the contrast between grafting and immediate chemical intervention, emphasizing lower costs and higher success rates.",
-                "Showcase positive farmer feedback and practical application of learned grafting techniques."
+                "Apply vegetable grafting techniques under guidance."
+            ]
+        },
+        {
+            "task": "Receive training on Integrated Pest Management (IPM).",
+            "subtasks": [
+                "Learn why IPM reduces reliance on chemicals.",
+                "Understand how vegetable grafting can protect crops from diseases.",
+                "Grasp the potential of grafting to reduce crop loss and pesticide expenses.",
+                "Recognize the link between grafting techniques and food security."
+            ]
+        },
+        {
+            "task": "Engage in farmer recommendations for varieties suitable for grafting.",
+            "subtasks": [
+                "Discuss with facilitators varieties suggested for grafting."
+            ]
+        },
+        {
+            "task": "Absorb principles taught for immediate application.",
+            "subtasks": [
+                "Implement learned grafting methods on their farms.",
+                "theoretical and practical. So, maybe separate those into subtasks. The theoretical part is lectures on the research done locally, so topics like grafting tomatoes and peppers on different rootstocks, their performance against stresses. IPM is also covered, explaining why it's better to use grafting as the first line of defense. Then the practical part is where they do hands-on grafting. Also, farmers immediately apply what's taught, suggesting_SUBTASK: recognizing the farmer's engagement and recommendations. Another subtask could be applying the principles taught on their own farms. But first, it's important to note that the training is part of a broader effort by the Ministry of Agriculture and WUSC. But since that's more about the organization, maybe not directly a person's task, so maybe filtered out. The main person in the video is Ryan O'Brien from the Ministry, so perhaps the transcript is from an interview or report about the event. But according to the instructions, I have to base the tasks on the transcript alone, so focusing on what participants would do. So the MAINTASK is participation in the workshop, then theoretical and practical components. But also, the maintenance of knowledge for food security and better practices. I thought about adding a subtask for downloading information, but that might be stretching. The principles taught are to be immediately applied, so maybe that's a subtask. Additionally, the response from farmers has been encouraging, which shows engagement, so that's good. Recommendations for varieties and immediate application show farmers are learning and acting on the knowledge. So perhaps making farmer recommendations is a subtask. But in any case, the transcript is about the vegetable grafting workshop, its contents, and the enthusiastic response. So, all these components would form the main task and subtasks. Let's list them again."
+            ]
+        },
+        {
+            "task": "Participate in a training workshop on vegetable grafting. Then break it into:",
+            "subtasks": []
+        },
+        {
+            "task": "Thus, final answer with MAINTASK and sub-tasks. Also, checking if the transcript is relevant. Since the transcript is about a vegetable grafting workshop, which is directly about farming techniques, which is relevant, so there's no need for the !!!TRANSCRIPT_IRRELEVANT. Hence, the transcript is relevant. The reason is it's about a training workshop on agricultural techniques, which is directly helpful to farmers in terms of improving practices and knowledge.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Participate in a training workshop on vegetable grafting.",
+            "subtasks": [
+                "Attend the theoretical session.",
+                "Listen to lectures on the work done locally on grafting vegetables.",
+                "Learn about grafting tomatoes and sweet peppers on various rootstocks.",
+                "Understand performance benefits against biotic and abiotic stresses."
+            ]
+        },
+        {
+            "task": "Participate in the practical session.",
+            "subtasks": [
+                "Apply vegetable grafting techniques under guidance."
+            ]
+        },
+        {
+            "task": "Receive training on Integrated Pest Management (IPM).",
+            "subtasks": [
+                "Learn why IPM reduces reliance on chemicals.",
+                "Understand how vegetable grafting can protect crops from diseases.",
+                "Grasp the potential of grafting to reduce crop loss and pesticide expenses.",
+                "Recognize the link between grafting techniques and food security."
+            ]
+        },
+        {
+            "task": "Engage in farmer recommendations for varieties suitable for grafting.",
+            "subtasks": [
+                "Discuss with facilitators varieties suggested for grafting."
+            ]
+        },
+        {
+            "task": "Absorb principles taught for immediate application.",
+            "subtasks": [
+                "Implement learned grafting methods on their own farms."
             ]
         }
     ]

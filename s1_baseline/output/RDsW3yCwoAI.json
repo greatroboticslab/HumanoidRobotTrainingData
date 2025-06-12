@@ -5,48 +5,62 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Plant the three sisters (corn, beans, and squash) in a symbiotic farming method.",
+            "task": "Planting three sisters crops",
             "subtasks": [
-                "Prepare the soil for planting by tilling or digging.",
-                "Plant corn first and create mounds for the plants.",
-                "Sow beans and squash seeds around the corn, utilizing the corn as a trellis for beans.",
-                "Water and tend the plants regularly."
+                "Selecting corn seeds",
+                "Selecting bean seeds",
+                "Selecting squash seeds",
+                "Preparing the soil",
+                "Planting corn seeds in a mound",
+                "Planting bean seeds near corn stalks",
+                "Planting squash seeds near corn mounds",
+                "Watering the plants"
             ]
         },
         {
-            "task": "Practice crop rotation and sustainable farming techniques.",
+            "task": "Maintaining the three sisters garden",
             "subtasks": [
-                "Understand the symbiotic relationship between corn, beans, and squash.",
-                "Recognize how beans fix nitrogen in the soil.",
-                "Observe the use of squash leaves to suppress weeds.",
-                "Rotate crops to maintain soil fertility.",
-                "Additionally, the video likely explains the benefits of this method, such as enhanced soil fertility and weed suppression. Subtasks include understanding the symbiotic relationship (nitrogen fixation by beans and weed suppression by squash) and practicing sustainable farming techniques like crop rotation. The tasks are general physical actions related to the video's content. Answer shown in Scratch format with MAINTASKs and SUBTASKs. The transcript is relevant to farming and agriculture, focusing on traditional farming methods. Answer begins and ends with triple backticks for Markdown formatting. Spreadsheet-style formatting is not necessary here. All components and steps are included."
+                "Checking for weeds and removing them",
+                "Providing support for bean plants (if needed)",
+                "Monitoring for pests and diseases",
+                "Applying natural compost or manure (as part of sustainable farming)"
             ]
         },
         {
-            "task": "MAINTASK: Plant the three sisters (corn, beans, and squash) in a symbiotic farming method.",
+            "task": "Understanding the symbiotic relationships",
+            "subtasks": [
+                "Observing how corn supports bean plants",
+                "Observing how beans fix nitrogen in the soil",
+                "Observing how squash leaves help suppress weeds"
+            ]
+        },
+        {
+            "task": "First, I need to think about the main task here, which is planting and maintaining the three sisters. That would be the main maintenance tasks related to the garden. So, MAINTASK would be \"Planting three sisters crops\" or \"Maintaining a three sisters garden.\" Then the subtasks would break down the actual actions involved.",
             "subtasks": []
         },
         {
-            "task": "Practice crop rotation and sustainable farming techniques.",
-            "subtasks": []
-        },
-        {
-            "task": "Plant the three sisters (corn, beans, and squash) in a symbiotic farming method.",
+            "task": "MAINTASK: Planting three sisters crops",
             "subtasks": [
-                "Prepare the soil for planting by tilling or digging.",
-                "Plant corn first and create mounds for the plants.",
-                "Sow beans and squash seeds around the corn, utilizing the corn as a trellis for beans.",
-                "Water and tend the plants regularly."
+                "Selecting corn seeds",
+                "Selecting bean seeds",
+                "Selecting squash seeds",
+                "Preparing the soil",
+                "Planting corn seeds in a mound",
+                "Planting bean seeds near corn stalks",
+                "Planting squash seeds near corn mounds",
+                "Watering the plants"
             ]
         },
         {
-            "task": "Practice crop rotation and sustainable farming techniques.",
+            "task": "Maintaining the three sisters garden",
             "subtasks": [
-                "Understand the symbiotic relationship between corn, beans, and squash.",
-                "Recognize how beans fix nitrogen in the soil.",
-                "Observe the use of squash leaves to suppress weeds.",
-                "Rotate crops to maintain soil fertility."
+                "Checking for weeds and removing them",
+                "Providing support for bean plants (if needed)",
+                "Monitoring for pests and diseases",
+                "Understanding the symbiotic relationships",
+                "Observing how corn supports bean plants",
+                "Observing how beans fix nitrogen in the soil",
+                "Observing how squash leaves help suppress weeds"
             ]
         }
     ]

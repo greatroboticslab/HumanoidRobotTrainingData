@@ -5,203 +5,245 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Roll a bale into the truck",
+            "task": "Check the oil and fluid levels in a tractor.",
             "subtasks": [
-                "Approach the bale",
-                "Lift the bale onto the wheelbarrow",
-                "Push the wheelbarrow to the truck",
-                "Align the bale with the truck bed",
-                "Lower the bale into the truck bed"
+                "Approach the tractor to inspect the oil level.",
+                "Lift the hood or bonnet of the tractor to access the engine compartment.",
+                "Locate the oil reservoir or sump and determine the oil level.",
+                "Compare the oil level to the maximum and minimum markings on the reservoir.",
+                "If the oil is below the minimum, add the correct type of oil as per the tractor's manual."
             ]
         },
         {
-            "task": "Back up the truck",
+            "task": "Service the air filters of a tractor.",
             "subtasks": [
-                "Position the truck behind the stack",
-                "Engage the reverse gears",
-                "Observe the rear view",
-                "Start moving in reverse"
+                "Identify the air filter housing or intake system on the tractor.",
+                "Remove the air filter cover or housing from the tractor's air intake.",
+                "Check the condition of the current air filter element(s).",
+                "If the filter is dirty or clogged, replace it with a new one.",
+                "Reinstall the air filter cover and check for proper seating."
             ]
         },
         {
-            "task": "Attach the topper to the baler",
+            "task": "Inspect and replace spark plugs in a tractor's engine.",
             "subtasks": [
-                "Secure the topper to the baler's tailgate",
-                "Position the topper over the output chute",
-                "Ensure proper fit before unhooking"
+                "Find the access points or spark plug holes in the engine block.",
+                "Use a socket wrench to remove the spark plugs.",
+                "Examine each spark plug for wear, carbon build-up, or damage.",
+                "Replace any spark plugs that are worn or in poor condition with new ones.",
+                "Torque the spark plugs to the manufacturer's specified setting using a torque wrench."
             ]
         },
         {
-            "task": "Repeat the process of rolling, backing up, attaching",
+            "task": "Perform a visual inspection of the tractor's frame for any damages.",
             "subtasks": [
-                "Validate the stacking order",
-                "Repeat for subsequent bales",
-                "Monitor balance of the stack"
+                "Walk around the tractor to visually check the frame structure.",
+                "Look for cracks, bends, or signs of rust or corrosion.",
+                "Inspect the attachment points for implements or accessories.",
+                "Note any areas requiring repair or replacement before proceeding."
             ]
         },
         {
-            "task": "Direct the baler operator",
+            "task": "Check the condition and replace brake pads in the tractor\u2019s hydraulic braking system.",
             "subtasks": [
-                "Signal the operator to stop",
-                "Identify the bale at the tailgate",
-                "Coordinate the timing of bale roll-off and stacking"
+                "Locate the master cylinder reservoir in the tractor's brake system.",
+                "Drain the old brake fluid if necessary and clean the reservoir.",
+                "Check the brake fluid level and replace it if it is low.",
+                "Inspect the brake lines and hoses for any leaks or damage.",
+                "If necessary, replace brake pads and check the condition of the calipers."
             ]
         },
         {
-            "task": "Maintain the stack of bales",
+            "task": "Adjust the tractor\u2019s steering mechanisms.",
             "subtasks": [
-                "Check for stability of each bale added",
-                "Prevent toppling by organizing rows properly",
-                "Mistake corrections if a bale rolls off"
+                "Check the front and rear steering components for play or looseness.",
+                "Tighten any loose steering linkages or adjust steering tie rods if needed.",
+                "Test the steering responsiveness by turning the steering wheel and assessing precision."
             ]
         },
         {
-            "task": "Unload bales from the truck",
+            "task": "Check the battery connections and terminal posts.",
             "subtasks": [
-                "Approach the truck bed",
-                "Edge the wheelbarrow near the truck opening",
-                "Lift the bale from the truck bed",
-                "Transfer the bale into the wheelbarrow",
-                "Roll the wheelbarrow to the desired location",
-                "Download the bale from the wheelbarrow",
-                "Place the bale in the correct spot"
+                "Open the bonnet to access the battery located under the hood.",
+                "Clean the battery terminals and cable connections using a wire brush or cloth.",
+                "Check for corrosion around the terminals and replace the battery if it is failing.",
+                "Tighten the battery clamps to ensure a secure connection."
             ]
         },
         {
-            "task": "Secure the baler attach to the truck",
+            "task": "Check and adjust the tire pressure on the tractor\u2019s wheels.",
             "subtasks": [
-                "Align the baler attachment hooks with the truck's trailer hitch",
-                "Hook the baler to the truck",
-                "Tighten any securing straps"
+                "Locate the tire pressure gauges and standard pressure values from the tractor\u2019s manual.",
+                "Remove the valve caps and inflate the tires to the correct pressure using an air compressor.",
+                "Check the tread depth and replace tires if the minimum is reached."
             ]
         },
         {
-            "task": "Prepare for the next baler operation",
+            "task": "Check the connections of the driveshaft and test the transmission to ensure smooth operation.",
             "subtasks": [
-                "Ensure the bales are stacked safely",
-                "Check that all attachments are correctly positioned",
-                "Plan the direction and route for the next set of bales",
-                "\" in the example, so perhaps each main task should start with MAINTASK:, followed by subtasks indented or listed below. Given the instruction to separate tasks with a new line, I can list each main task followed by its subtasks on subsequent lines, starting with SUBTASK: for each. However, the user may have wanted a hierarchical structure, but since the initial question says \"generate a list of physical tasks a person would have to perform\" separated by line breaks, I'll just list the MAIN tasks and then each corresponding SUBTASK on a new line."
+                "Inspect the driveshaft for any signs of damage, leaks, or worn parts.",
+                "Test drive the tractor in different gears to check for unusual noises or vibrations.",
+                "Assess the shifting mechanism for smoothness and correct engagement."
             ]
         },
         {
-            "task": "and then the subtasks under it. Since the answer also asked to include \"in the order as per the transcript,\" but I don't have the original transcript here. However, the thought process I followed above aligns with summarizing tasks from the given information.",
+            "task": "Check the oil and fluid levels in a tractor.",
             "subtasks": [
-                "Lastly, the user requested this for a specific video transcript. If I check the initial question, it says \"Given this transcript, please generate a list... separated by a new line.\" So I should ensure the list is comprehensive, including all relevant tasks. The final output will have one MAINTASK per main action and multiple SUBTASKs under each, each instruction separated by a line.",
-                "**MAINTASKs and SUBTASKs**",
-                "Approach the bale",
-                "Lift the bale onto the wheelbarrow",
-                "Push the wheelbarrow to the truck",
-                "Align the bale with the truck bed",
-                "Lower the bale into the truck bed",
-                "Position the truck behind the stack",
-                "Engage the reverse gears",
-                "Observe the rear view",
-                "Start moving in reverse",
-                "Secure the topper to the baler\u2019s tailgate",
-                "Position the topper over the output chute",
-                "Ensure proper fit before unhooking",
-                "Validate the stacking order",
-                "Repeat for subsequent bales",
-                "Monitor balance of the stack",
-                "Signal the operator to stop",
-                "Identify the bale at the tailgate",
-                "Coordinate the timing of bale roll-off and stacking",
-                "Check for stability of each bale added",
-                "Prevent toppling by organizing rows properly",
-                "Mistake corrections if a bale rolls off (rolling it back or realigning)",
-                "Approach the truck bed",
-                "Edge the wheelbarrow near the truck opening",
-                "Lift the bale from the truck bed",
-                "Transfer the bale into the wheelbarrow",
-                "Roll the wheelbarrow to the desired location",
-                "Download the bale from the wheelbarrow",
-                "Place the bale in the correct spot",
-                "Align the baler attachment hooks with the truck's trailer hitch",
-                "Hook the baler to the truck",
-                "Tighten any securing straps",
-                "Ensure the bales are stacked safely",
-                "Check that all attachments are correctly positioned",
-                "Plan the direction and route for the next set of bales."
+                "Approach the tractor to inspect the oil level.",
+                "Lift the hood of the tractor to access the engine compartment.",
+                "Locate the oil reservoir or sump and determine the oil level.",
+                "Compare the oil level to minimum and maximum markings.",
+                "Add oil if the level is below minimum."
             ]
         },
         {
-            "task": "Roll a bale into the truck",
+            "task": "Service the air filters of a tractor.",
             "subtasks": [
-                "** Approach the bale",
-                "** Lift the bale onto the wheelbarrow",
-                "** Push the wheelbarrow to the truck",
-                "** Align the bale with the truck bed",
-                "** Lower the bale into the truck bed"
+                "Identify the air filter housing on the tractor.",
+                "Remove the air filter cover.",
+                "Check the condition of the current air filter element.",
+                "Replace the filter if dirty or clogged.",
+                "Reinstall the air filter cover."
             ]
         },
         {
-            "task": "Back up the truck",
+            "task": "Inspect and replace spark plugs in the tractor's engine.",
             "subtasks": [
-                "** Position the truck behind the stack",
-                "** Engage the reverse gears",
-                "** Observe the rear view",
-                "** Start moving in reverse"
+                "Locate spark plug access points.",
+                "Remove the spark plugs using a socket wrench.",
+                "Examine each spark plug for wear.",
+                "Replace damaged or worn spark plugs.",
+                "Torque the new spark plugs to the specified torque value."
             ]
         },
         {
-            "task": "Attach the topper to the baler",
+            "task": "Check the tractor\u2019s frame for damage.",
             "subtasks": [
-                "** Secure the topper to the baler\u2019s tailgate",
-                "** Position the topper over the output chute",
-                "** Ensure proper fit before unhooking"
+                "Visually inspect the frame, hinge points, and structural elements.",
+                "Look for cracks, bends, rust, or corrosion.",
+                "Note areas needing repair or replacement."
             ]
         },
         {
-            "task": "Repeat the process (rolling, backing up, attaching)",
+            "task": "Replace brake pads in the hydraulic braking system.",
             "subtasks": [
-                "** Validate the stacking order",
-                "** Repeat for subsequent bales",
-                "** Monitor balance of the stack"
+                "Drain and clean the master cylinder reservoir.",
+                "Inspect brake fluid level and replace if necessary.",
+                "Check brake lines and hoses for damage.",
+                "Replace brake pads and caliper if required."
             ]
         },
         {
-            "task": "Direct the baler operator",
+            "task": "Adjust the steering mechanisms.",
             "subtasks": [
-                "** Signal the operator to stop",
-                "** Identify the bale at the tailgate",
-                "** Coordinate the timing of bale roll-off and stacking"
+                "Check front and rear steering components for play.",
+                "Tighten steering linkages or adjust tie rods.",
+                "Test steering responsiveness and adjust as needed."
             ]
         },
         {
-            "task": "Maintain the stack of bales",
+            "task": "Check the battery connections.",
             "subtasks": [
-                "** Check for stability of each bale added",
-                "** Prevent toppling by organizing rows properly",
-                "** Mistake corrections if a bale rolls off"
+                "Clean battery terminals and cable connections.",
+                "Inspect battery condition and replace if necessary.",
+                "Tighten battery clamps for secure connection."
             ]
         },
         {
-            "task": "Unload bales from the truck",
+            "task": "Check the tire pressure.",
             "subtasks": [
-                "** Approach the truck bed",
-                "** Edge the wheelbarrow near the truck opening",
-                "** Lift the bale from the truck bed",
-                "** Transfer the bale into the wheelbarrow",
-                "** Roll the wheelbarrow to the desired location",
-                "** Download the bale from the wheelbarrow",
-                "** Place the bale in the correct spot"
+                "Inflate tires to the correct pressure.",
+                "Inspect tire tread depth and replace tires if necessary."
             ]
         },
         {
-            "task": "Secure the baler attachment to the truck",
+            "task": "Test the driveshaft and transmission.",
             "subtasks": [
-                "** Align the baler attachment hooks with the truck's trailer hitch",
-                "** Hook the baler to the truck",
-                "** Tighten any securing straps"
+                "Inspect the driveshaft for damage or leaks.",
+                "Conduct a test drive in different gears.",
+                "Assess shifting smoothness and adjust if needed."
             ]
         },
         {
-            "task": "Prepare for the next operation",
+            "task": "Check the oil and fluid levels in a tractor.",
             "subtasks": [
-                "** Ensure the bales are stacked safely",
-                "** Check that all attachments are correctly positioned",
-                "** Plan the direction and route for the next set of bales"
+                "Approach the tractor to inspect the oil level.",
+                "Lift the hood of the tractor to access the engine compartment.",
+                "Locate the oil reservoir or sump and determine the oil level.",
+                "Compare the oil level to the maximum and minimum markings on the reservoir.",
+                "If the oil is below the minimum, add the correct type of oil as per the tractor's manual."
+            ]
+        },
+        {
+            "task": "Service the air filters of a tractor.",
+            "subtasks": [
+                "Identify the air filter housing on the tractor.",
+                "Remove the air filter cover or housing from the tractor's air intake.",
+                "Check the condition of the current air filter element.",
+                "If the filter is dirty or clogged, replace it with a new one.",
+                "Reinstall the air filter cover and check for proper seating."
+            ]
+        },
+        {
+            "task": "Inspect and replace spark plugs in a tractor's engine.",
+            "subtasks": [
+                "Find the access points or spark plug holes in the engine block.",
+                "Use a socket wrench to remove the spark plugs.",
+                "Examine each spark plug for wear, carbon build-up, or damage.",
+                "Replace any spark plugs that are worn or in poor condition with new ones.",
+                "Torque the spark plugs to the manufacturer's specified setting using a torque wrench."
+            ]
+        },
+        {
+            "task": "Check the tractor's frame for any damages.",
+            "subtasks": [
+                "Walk around the tractor to visually check the frame structure.",
+                "Look for cracks, bends, or signs of rust or corrosion.",
+                "Inspect the attachment points for implements or accessories.",
+                "Note any areas requiring repair or replacement before proceeding."
+            ]
+        },
+        {
+            "task": "Replace brake pads in the tractor\u2019s hydraulic braking system.",
+            "subtasks": [
+                "Locate the master cylinder reservoir in the brake system.",
+                "Drain the old brake fluid if necessary and clean the reservoir.",
+                "Check the brake fluid level and replace it if it is low.",
+                "Inspect the brake lines and hoses for any leaks or damage.",
+                "If necessary, replace brake pads and check the condition of the calipers."
+            ]
+        },
+        {
+            "task": "Adjust the tractor\u2019s steering mechanisms.",
+            "subtasks": [
+                "Check the front and rear steering components for play or looseness.",
+                "Tighten any loose steering linkages or adjust steering tie rods if needed.",
+                "Test the steering responsiveness by turning the steering wheel and assessing precision."
+            ]
+        },
+        {
+            "task": "Check the battery connections and terminal posts.",
+            "subtasks": [
+                "Open the bonnet to access the battery located under the hood.",
+                "Clean the battery terminals and cable connections using a wire brush or cloth.",
+                "Check for corrosion around the terminals and replace the battery if it is failing.",
+                "Tighten the battery clamps to ensure a secure connection."
+            ]
+        },
+        {
+            "task": "Check the tire pressure on the tractor\u2019s wheels.",
+            "subtasks": [
+                "Locate the tire pressure gauges and standard pressure values from the tractor\u2019s manual.",
+                "Remove the valve caps and inflate the tires to the correct pressure using an air compressor.",
+                "Check the tread depth and replace tires if the minimum is reached."
+            ]
+        },
+        {
+            "task": "Check the connection of the driveshaft and test the transmission to ensure smooth operation.",
+            "subtasks": [
+                "Inspect the driveshaft for any signs of damage, leaks, or worn parts.",
+                "Conduct a test drive in different gears to check for unusual noises or vibrations.",
+                "Assess the shifting mechanism for smoothness and correct engagement."
             ]
         }
     ]

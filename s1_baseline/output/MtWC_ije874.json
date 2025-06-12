@@ -5,33 +5,41 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Teach crop rotation benefits",
+            "task": "Explain and implement crop rotation.",
             "subtasks": [
-                "Explain crop rotation concept",
-                "Describe soil nutrient cycling",
-                "Highlight pest and weed management",
-                "Discuss soil health improvement",
-                "Encourage adoption of crop rotation",
-                "Wish audience success"
+                "Understand the benefits of crop rotation (resting soil, balancing nutrients, pest control).",
+                "Plan crop rotation schedules (alternate different crops each year).",
+                "Adjust planting methods accordingly (seed different crops in sequential years)."
             ]
         },
         {
-            "task": "First, the video starts with an opening line, probably to engage the audience, saying \"I bet you didn't know crop rotation could be your farm's secret weapon.\" Then it transitions into explaining what crop rotation is. So the main task I need to identify is teaching the audience about crop rotation and its benefits. That's the MAINTASK.",
-            "subtasks": []
-        },
-        {
-            "task": "So summarizing, the MAINTASK is teaching about crop rotation benefits. The subtasks would include explaining what crop rotation is (like a soil vacation with varied crops), how different crops affect soil nutrients (nutrient cycling, root systems), benefits such as pest/weed control, soil health improvement, and then encouraging the audience to implement it and wish them well.",
-            "subtasks": []
-        },
-        {
-            "task": "MAINTASK: Teach crop rotation benefits",
+            "task": "Educate others about crop rotation.",
             "subtasks": [
-                "Explain crop rotation concept",
-                "Describe soil nutrient cycling",
-                "Highlight pest and weed management",
-                "Discuss soil health improvement",
-                "Encourage adoption of crop rotation",
-                "Wish audience success"
+                "Convey the advantages of crop rotation to an audience."
+            ]
+        },
+        {
+            "task": "Engage with farming community.",
+            "subtasks": [
+                "Promote the concept of crop rotation through video content.",
+                "Encourage viewers to adopt crop rotation practices.",
+                "MAINTASK: Understand and explain crop rotation. SUBTASK: Learn about crop rotation benefits. SUBTASK: Communicate crop rotation concept to others. However, since promotion and engagement are also part of the activities mentioned, perhaps MAINTASK: Market the benefits of crop rotation; SUBTASK: Create educational content about crop rotation; SUBTASK: Encourage farmers to try crop rotation. Because the physical actions related to crop rotation, such as planting different crops each year, are part of the farming operations but the given transcript isn't focusing on those specific tasks. Instead, the transcript is more about discussing the concept and its benefits. Therefore, if this interpretation is correct, the transcript is more about knowledge dissemination rather than performing the physical task. Hence, the answer aligns with this."
+            ]
+        },
+        {
+            "task": "MAINTASK: Understand and explain crop rotation.",
+            "subtasks": [
+                "Learn about the benefits of crop rotation (resting soil, balancing nutrients, pest control).",
+                "Plan crop rotation schedules (alternate different crops each year).",
+                "Adjust planting methods accordingly (seed different crops in sequential years)."
+            ]
+        },
+        {
+            "task": "Educate others about crop rotation.",
+            "subtasks": [
+                "Convey the advantages of crop rotation to an audience.",
+                "Promote the concept of crop rotation through video content.",
+                "Encourage viewers to adopt crop rotation practices."
             ]
         }
     ]

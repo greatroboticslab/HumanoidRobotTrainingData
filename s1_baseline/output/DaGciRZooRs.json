@@ -5,23 +5,33 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Rice transplanting preparation and execution",
+            "task": "Transplanting rice seedlings",
             "subtasks": [
-                "Concern about low rice yields",
-                "Timing of transplanting (25-35 days after sowing)",
-                "Preparing the paddy field (leveling, adding organic manure)",
-                "Choosing transplanting method (manual or machine)",
-                "Manual transplanting technique (spacing 20x20 cm)",
-                "Machine transplanting (following manufacturer's guidelines)",
-                "Post-transplant care (maintaining flood water for 7-10 days)",
-                "Monitoring for pests and weeds"
+                "Check transplant timing (25-35 days after sowing)",
+                "Prepare paddy field (leveling, adding organic manure)",
+                "Choose manual or machine transplanting method",
+                "Space seedlings appropriately (20x20 cm for manual, follow machine guidelines)",
+                "Post-transplant care (flood field 7-10 days, monitor pests/weeds)"
             ]
         },
         {
-            "task": "Sharing knowledge and encouraging others",
+            "task": "Maintaining pest and weed control",
             "subtasks": [
-                "Recommending helpful tips to fellow farmers",
-                "Using relevant hashtags for farming advice"
+                "Monitor for pests and weeds after transplanting",
+                "Address pest and weed issues promptly"
+            ]
+        },
+        {
+            "task": "Flood management",
+            "subtasks": [
+                "Flood paddy field for 7-10 days following transplanting"
+            ]
+        },
+        {
+            "task": "Sharing knowledge and engagement",
+            "subtasks": [
+                "Like and share the guide on social media",
+                "Encourage fellow farmers to follow tips"
             ]
         }
     ]

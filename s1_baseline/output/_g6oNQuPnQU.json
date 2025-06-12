@@ -5,105 +5,149 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Farming equipment operation.",
+            "task": "Plowing a field with a tractor",
             "subtasks": [
-                "Starting a tractor.",
-                "Guiding a tractor.",
-                "Operating a plow attachment.",
-                "Navigating a field."
+                "sitting in tractor seat",
+                "operating steering wheel to guide the tractor",
+                "using control levers to raise and lower plow",
+                "engaging hydraulic system to lift attachments",
+                "adjusting speed to match plowing requirements"
             ]
         },
         {
-            "task": "Planting seeds.",
+            "task": "Attaching a plow to the tractor",
             "subtasks": [
-                "Loading a planter with seeds.",
-                "Positioning seeds in soil.",
-                "Ensuring correct planting depth."
+                "Securing plow to the tractor's implement hitch",
+                "Checking that the plow is secure before operation"
             ]
         },
         {
-            "task": "Shortly after planting.",
+            "task": "Planting soybeans",
             "subtasks": [
-                "Checking to ensure no damage."
+                "Adjusting planter settings on the tractor",
+                "Walking behind the planted rows to check seed placement",
+                "Feeding soybean seeds into the planter hopper"
             ]
         },
         {
-            "task": "Checking the tractor.",
+            "task": "Applying herbicide to the soybean field",
             "subtasks": [
-                "Inspecting for any issues.",
-                "Greasing moving parts.",
-                "Tightening loose nuts and bolts.",
-                "Replacing any worn parts."
+                "Loading the spray tank with herbicide solution",
+                "Attaching the herbicide sprayer to the tractor",
+                "Guiding the tractor along the rows",
+                "Adjusting the nozzle pressure and swath width"
             ]
         },
         {
-            "task": "Farming equipment operation: Subtasks are starting a tractor (turning it on), guiding the tractor (maneuvering it through the field), operating a plow attachment (attaching it, adjusting settings, operating levers), and navigating the field (observing terrain, making turns). Then, after planting, subtasks would be checking to ensure no damage (making sure the tractor didn't cause any issues), which could relate to soil compaction or other physical damage. Then MAINTASK: Planting seeds: Subtasks include loading the planter with seeds (correctly loading, ensuring even distribution), positioning seeds in the soil (using the planter correctly, ensuring proper spacing and depth), ensuring correct planting depth (adjusting the planter settings), and then after planting, checking the rows to see if everything was done properly (looking for missed spots or overly deep seeds). Then the MAINTASK: Checking the tractor: Subtasks are inspecting for any issues (looking for any signs of wear or damage), greasing moving parts (maintaining lubrication), tightening loose nuts and bolts (to prevent loosening during operation), and replacing any worn parts (like belts, filters, etc.). Each of these seems like a key physical task a farmer would perform.",
-            "subtasks": []
-        },
-        {
-            "task": "Farming equipment operation. Subtasks under this are starting a tractor, guiding the tractor, operating a plow attachment, and navigating a field. Then MAINTASK: Planting seeds with subtasks of loading the planter, positioning seeds in the soil, ensuring correct depth, and then shortly after planting, a subtask of checking to ensure nothing got damaged. Then, MAINTASK: Checking the tractor with subtasks like inspecting for issues, greasing parts, tightening bolts, and replacing worn parts. That seems right. So these tasks are physical actions related to farming, as requested. So the transcript led me to list these tasks and subtasks. All relevant to the video.",
-            "subtasks": []
-        },
-        {
-            "task": "Farming equipment operation.",
+            "task": "Harvesting soybeans",
             "subtasks": [
-                "Starting a tractor.",
-                "Guiding a tractor.",
-                "Operating a plow attachment.",
-                "Navigating a field."
+                "Attaching the combine harvester to the tractor",
+                "Guiding the combine through the soybean field",
+                "Operating the combine's cutting mechanism",
+                "Adjusting the combine's header to match crop height",
+                "Monitoring grain moisture content in the combine"
             ]
         },
         {
-            "task": "Planting seeds.",
+            "task": "Cleaning the soybean combine",
             "subtasks": [
-                "Loading a planter with seeds.",
-                "Positioning seeds in soil.",
-                "Ensuring correct planting depth."
+                "Separating grain from chaff and stems",
+                "Screening out impurities from the harvested soybeans",
+                "Stacking clean soybeans into bags or bins"
             ]
         },
         {
-            "task": "Shortly after planting.",
+            "task": "Operating a rotary hoe",
             "subtasks": [
-                "Checking to ensure no damage."
+                "Pushing the hoe through the soil to break up clumps"
             ]
         },
         {
-            "task": "Checking the tractor.",
+            "task": "Feeding pigs",
             "subtasks": [
-                "Inspecting for any issues.",
-                "Grease"
+                "Walking through the pigsty",
+                "Collecting feed from feed bins",
+                "Distributing feed to individual pig troughs"
             ]
         },
         {
-            "task": "Farming equipment operation.",
+            "task": "Cleaning barn stalls",
             "subtasks": [
-                "Starting a tractor.",
-                "Guiding a tractor.",
-                "Operating a plow attachment.",
-                "Navigating a field."
+                "Removing manure from stalls",
+                "Spraying disinfectant solution on stall floors"
             ]
         },
         {
-            "task": "Planting seeds.",
+            "task": "MAINTASK: Plowing a field with a tractor",
             "subtasks": [
-                "Loading a planter with seeds.",
-                "Positioning seeds in soil.",
-                "Ensuring correct planting depth."
+                "sitting in tractor seat",
+                "operating steering wheel to guide the tractor",
+                "using control levers to raise and lower plow",
+                "engaging hydraulic system to lift attachments",
+                "adjusting speed to match plowing requirements"
             ]
         },
         {
-            "task": "Shortly after planting.",
+            "task": "Attaching a plow to the tractor",
             "subtasks": [
-                "Checking to ensure no damage."
+                "Securing plow to the tractor's implement hitch",
+                "Checking that the plow is secure before operation"
             ]
         },
         {
-            "task": "Checking the tractor.",
+            "task": "Planting soybeans",
             "subtasks": [
-                "Inspecting for any issues.",
-                "Greasing moving parts.",
-                "Tightening loose nuts and bolts.",
-                "Replacing any worn parts."
+                "Adjusting planter settings on the tractor",
+                "Walking behind the planted rows to check seed placement",
+                "Feeding soybean seeds into the planter hopper"
+            ]
+        },
+        {
+            "task": "Applying herbicide to the soybean field",
+            "subtasks": [
+                "Loading the spray tank with herbicide solution",
+                "Attaching the herbicide sprayer to the tractor",
+                "Guiding the tractor along the rows",
+                "Adjusting the nozzle pressure and swath width"
+            ]
+        },
+        {
+            "task": "Harvesting soybeans",
+            "subtasks": [
+                "Attaching the combine harvester to the tractor",
+                "Guiding the combine through the soybean field",
+                "Operating the combine's cutting mechanism",
+                "Adjusting the combine's header to match crop height",
+                "Monitoring grain moisture content in the combine"
+            ]
+        },
+        {
+            "task": "Cleaning the soybean combine",
+            "subtasks": [
+                "Separating grain from chaff and stems",
+                "Screening out impurities from the harvested soybeans",
+                "Stacking clean soybeans into bags or bins"
+            ]
+        },
+        {
+            "task": "Operating a rotary hoe",
+            "subtasks": [
+                "Pushing the hoe through the soil to break up clumps"
+            ]
+        },
+        {
+            "task": "Feeding pigs",
+            "subtasks": [
+                "Walking through the pigsty",
+                "Collecting feed from feed bins",
+                "Distributing feed to individual pig troughs"
+            ]
+        },
+        {
+            "task": "Cleaning barn stalls",
+            "subtasks": [
+                "Removing manure from stalls",
+                "Spraying disinfectant solution on stall floors"
             ]
         }
     ]

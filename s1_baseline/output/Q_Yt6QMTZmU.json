@@ -5,60 +5,175 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Swimming in shallow water",
+            "task": "Plantaing trees on a farm.",
             "subtasks": [
-                "Enter the water and submerge up to the waist",
-                "Move limbs to swim forward",
-                "Navigate through calm surface water"
+                "Preparation of soil using a tractor equipped with a plow.",
+                "Transporting saplings from nursery to planting site.",
+                "Digging holes for saplings with a shovel or digging implement.",
+                "Planting saplings in holes and covering with soil.",
+                "Watering newly planted saplings with agricultural hoses or sprinklers.",
+                "Monitoring saplings' growth and health."
             ]
         },
         {
-            "task": "Protecting oneself from sun exposure",
+            "task": "Checking crop yield during harvest.",
             "subtasks": [
-                "Wearing or applying sunscreen on exposed skin",
-                "Seeking shade when available"
+                "Walking through the fields to assess maturity levels of crops.",
+                "Using sample plots to determine overall harvest readiness.",
+                "Collecting samples from different parts of the field for testing.",
+                "Estimating total crop yield based on sample data."
             ]
         },
         {
-            "task": "Walking from spawn point A to B",
+            "task": "Feeding livestock.",
             "subtasks": [
-                "Moving feet to traverse sandy terrain",
-                "Avoiding obstacles encountered along the path"
+                "Preparing feed for animals at designated times.",
+                "Transporting feed from storage areas to feed troughs.",
+                "Distributing feed to livestock in pens or grazing areas."
             ]
         },
         {
-            "task": "Examining octopus hiding in shallow water",
+            "task": "Operating a combine harvester during grain harvest.",
             "subtasks": [
-                "Carefully examine rock surfaces or crevices",
-                "Identify octopus and assess movements"
+                "Loading combine harvester with grain bins.",
+                "Guiding the combine through the fields, cutting and threshing heads.",
+                "Cleaning grain as it's processed in the combine.",
+                "Emptying grain bins periodically during harvest."
             ]
         },
         {
-            "task": "Wading in water with current",
+            "task": "Applying fertilizer to fields.",
             "subtasks": [
-                "Move parallel to the current while keeping balance",
-                "Adjust walking speed to prevent being swept away"
+                "Preparing fertilizer solutions or dry granules.",
+                "Loading equipment (e.g., spreader) with fertilizer.",
+                "Driving through fields at specific rates to apply fertilizer evenly."
             ]
         },
         {
-            "task": "Swimming in shallow water**",
-            "subtasks": []
+            "task": "Irrigating crops.",
+            "subtasks": [
+                "Checking irrigation system for leaks or malfunctions.",
+                "Adjusting water pumps or valves to control flow rate.",
+                "Monitoring soil moisture levels using sensors or field tests.",
+                "Ensuring even distribution of water across field areas."
+            ]
         },
         {
-            "task": "Protecting oneself from sun exposure**",
-            "subtasks": []
+            "task": "Conducting soil tests for nutrient analysis.",
+            "subtasks": [
+                "Collecting soil samples from various field locations.",
+                "Sending samples to a lab for comprehensive analysis.",
+                "Reviewing test results to plan fertilizer and lime applications."
+            ]
         },
         {
-            "task": "Walking from spawn point A to B**",
-            "subtasks": []
+            "task": "Caring for farm equipment.",
+            "subtasks": [
+                "Performing regular maintenance checks on tractors and implements.",
+                "Greasing moving parts to prevent wear.",
+                "Changing filters and fluids as needed.",
+                "Storing equipment properly after use to prevent damage."
+            ]
         },
         {
-            "task": "Examining octopus hiding in shallow water**",
-            "subtasks": []
+            "task": "Investigating a nearby object (possibly indicating potential threat or support needed).",
+            "subtasks": [
+                "Approaching the object cautiousy to assess its nature.",
+                "Assuming the object is an emergency or hazard, notify\u76f8\u5173\u4eba\u5458. for if necessary."
+            ]
         },
         {
-            "task": "Wading in water with current**",
-            "subtasks": []
+            "task": "Coordination with co-workers and decision-making, potentially related to agricultural management.",
+            "subtasks": [
+                "Consulting with a colleague about the planting speed.",
+                "Deciding the appropriate speed of planting or other operations based on current conditions."
+            ]
+        },
+        {
+            "task": "Plantaing trees on a farm.",
+            "subtasks": [
+                "Preparation of soil using a tractor equipped with a plow.",
+                "Transporting saplings from nursery to planting site.",
+                "Digging holes for saplings with a shovel or digging implement.",
+                "Planting saplings in holes and covering with soil.",
+                "Watering newly planted saplings with agricultural hoses or sprinklers.",
+                "Monitoring saplings' growth and health."
+            ]
+        },
+        {
+            "task": "Checking crop yield during harvest.",
+            "subtasks": [
+                "Walking through the fields to assess maturity levels of crops.",
+                "Using sample plots to determine overall harvest readiness.",
+                "Collecting samples from different parts of the field for testing.",
+                "Estimating total crop yield based on sample data."
+            ]
+        },
+        {
+            "task": "Feeding livestock.",
+            "subtasks": [
+                "Preparing feed for animals at designated times.",
+                "Transporting feed from storage areas to feed troughs.",
+                "Distributing feed to livestock in pens or grazing areas."
+            ]
+        },
+        {
+            "task": "Operating a combine harvester during grain harvest.",
+            "subtasks": [
+                "Loading combine harvester with grain bins.",
+                "Guiding the combine through the fields, cutting and threshing heads.",
+                "Cleaning grain as it's processed in the combine.",
+                "Emptying grain bins periodically during harvest."
+            ]
+        },
+        {
+            "task": "Applying fertilizer to fields.",
+            "subtasks": [
+                "Preparing fertilizer solutions or dry granules.",
+                "Loading equipment (e.g., spreader) with fertilizer.",
+                "Driving through fields at specific rates to apply fertilizer evenly."
+            ]
+        },
+        {
+            "task": "Irrigating crops.",
+            "subtasks": [
+                "Checking irrigation system for leaks or malfunctions.",
+                "Adjusting water pumps or valves to control flow rate.",
+                "Monitoring soil moisture levels using sensors or field tests.",
+                "Ensuring even distribution of water across field areas."
+            ]
+        },
+        {
+            "task": "Conducting soil tests for nutrient analysis.",
+            "subtasks": [
+                "Collecting soil samples from various field locations.",
+                "Sending samples to a lab for comprehensive analysis.",
+                "Reviewing test results to plan fertilizer and lime applications."
+            ]
+        },
+        {
+            "task": "Caring for farm equipment.",
+            "subtasks": [
+                "Performing regular maintenance checks on tractors and implements.",
+                "Greasing moving parts to prevent wear.",
+                "Changing filters and fluids as needed.",
+                "Storing equipment properly after use to prevent damage."
+            ]
+        },
+        {
+            "task": "Investigating a nearby object (possibly indicating potential threat or support needed).",
+            "subtasks": [
+                "Approaching the object cautiousy to assess its nature.",
+                "Assuming the object is an emergency or hazard, notify\u76f8\u5173\u4eba\u5458. for if necessary."
+            ]
+        },
+        {
+            "task": "Coordination with co-workers and decision-making, potentially related to agricultural management.",
+            "subtasks": [
+                "Consulting with a colleague about the planting speed.",
+                "Deciding the appropriate speed of planting or other operations based on current conditions.",
+                "\\nMAINTASK: Planting trees on a farm.\\nSUBTASK: Preparation of soil with a tractor plow.\\nSUBTASK: Transporting saplings.\\nSUBTASK: Digging holes.\\nSUBTASK: Planting saplings.\\nSUBTASK: Watering saplings.\\n\\nMAINTASK: Checking crop yield.\\nSUBTASK: Field walk and maturity assessment.\\nSUBTASK: Sampling.\\nSUBTASK: Yield estimation.\\n\\nMAINTASK: Feeding livestock.\\nSUBTASK: Preparing feed.\\nSUBTASK: Transporting feed.\\nSUBTASK: Distributing feed.\\n\\nMAINTASK: Operating combine harvester.\\nSUBTASK: Loading bins.\\nSUBTASK: Field operation.\\nSUBTASK: Grain cleaning.\\nSUBTASK: Grain bin emptying.\\n\\nMAINTASK: Applying fertilizer.\\nSUBTASK: Preparing fertilizer.\\nSUBTASK: Loading equipment.\\nSUBTASK: Field application.\\n\\nMAINTASK: Irrigating crops.\\nSUBTASK: System checks.\\nSUBTASK: Adjusting water flow.\\nSUBTASK: Soil moisture monitoring.\\nSUBTASK: Water distribution.\\n\\nMAINTASK: Soil testing.\\nSUBTASK: Sample collection.\\nSUBTASK: Lab analysis.\\nSUBTASK: Review results.\\n\\nMAINTASK: Maintaining equipment.\\nSUBTASK: Regular checks.\\nSUBTASK: Greasing.\\nSUBTASK: Fluid changes.\\nSUBTASK: Proper storage.\\n\\nMAINTASK: Investigating an object.\\nSUBTASK: Assessing the object.\\nSUBTASK: Reporting if necessary.\\n\\nMAINTASK: Coordinating with colleagues.\\nSUBTASK: Consulting on planting speed.\\nSUBTASK: Decision-making based on conditions.\""
+            ]
         }
     ]
 }

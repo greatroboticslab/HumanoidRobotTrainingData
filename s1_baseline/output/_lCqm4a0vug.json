@@ -5,176 +5,143 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Feed chickens in the morning.",
+            "task": "Planting seeds in a field",
             "subtasks": [
-                "Approach the chicken coop.",
-                "Open the entrance door of the chicken coop.",
-                "Reach into the coop and gather a feeding scoop.",
-                "Scoop feed from the storage container into the feeding scoop.",
-                "Walk to the designated feeding area.",
-                "Distribute the feed evenly across the feeding area.",
-                "Close the entrance door after finishing."
+                "Walking through the field",
+                "Selecting seeds from the bag",
+                "Bending down to reach the ground",
+                "Making a small hole in the soil",
+                "Placing a seed into the hole",
+                "Covering the seed with soil",
+                "Repeating the process in different parts of the field"
             ]
         },
         {
-            "task": "Check the health of chickens.",
+            "task": "Checking the condition of crops",
             "subtasks": [
-                "Approach the chicken coop.",
-                "Open the entrance door of the chicken coop.",
-                "Observe the chickens for any signs of illness or injury.",
-                "Check each chicken's plumage, behavior, and droppings.",
-                "Take note of any chickens that require additional attention."
+                "Walking through the crop rows",
+                "Observing the crops for signs of stress or harm",
+                "Identifying any issues, such as pests or disease",
+                "Noting the progress of the crops' growth"
             ]
         },
         {
-            "task": "Collect eggs from the coop.",
+            "task": "Applying fertilizer to crops",
             "subtasks": [
-                "Approach the chicken coop.",
-                "Open the entrance door of the chicken coop.",
-                "Walk to the nesting boxes.",
-                "Carefully lift each egg from the nesting box without dropping it.",
-                "Place the eggs into a collection basket or tray.",
-                "Close the entrance door after finishing."
+                "Walking through the crop fields",
+                "Using a spreader or similar equipment to apply fertilizer",
+                "Ensuring even distribution of the fertilizer",
+                "Monitoring the rate of application to prevent over-fertilizing"
             ]
         },
         {
-            "task": "Clean the chicken coop.",
+            "task": "Operating a grain combine harvester",
             "subtasks": [
-                "Approach the chicken coop.",
-                "Open the entrance door of the chicken coop.",
-                "Remove any uneaten feed, droppings, or spilled food from the floor.",
-                "Wipe down nesting boxes with a hose or cleaning solution.",
-                "Ventilate the coop by opening windows or doors.",
-                "Close the entrance door after cleaning."
+                "Climbing onto the combine",
+                "Attaching the combine to a tractor or\u62d6\u62c9\u673a (assuming translation; for original, \"\u62d6\u62c9\u673a\" might need translation)",
+                "Adjusting the combine's settings according to crop type",
+                "Starting the combine's engine",
+                "Driving the combine through the crop rows",
+                "Separating grains from chaff and stalks",
+                "Collecting the harvested grain into containers",
+                "Unloading the grain after each pass",
+                "Ensuring the combine's tracks or wheels don't damage the field"
             ]
         },
         {
-            "task": "Check water levels for chickens.",
+            "task": "Driving a farm truck",
             "subtasks": [
-                "Approach the chicken coop.",
-                "Open the entrance door of the chicken coop.",
-                "Check the waterers for proper functioning and adequate water levels.",
-                "Fill waterers if necessary."
+                "Entering the driver's seat of the truck",
+                "Starting the truck's engine",
+                "Checking the mirrors and surrounding area for obstacles",
+                "Backing up the truck by looking through the rear view mirror",
+                "Driving the truck to a grain storage facility or another location",
+                "Loading grain into the truck's cargo area using a conveyor belt or manually",
+                "Securing the load to prevent spillage during transport",
+                "Adjusting the truck's speed for safe travel on rural roads"
             ]
         },
         {
-            "task": "Locate and return a lost chicken.",
+            "task": "Operating a sprayer",
             "subtasks": [
-                "Identify the missing chicken by its distinct markings or behavior.",
-                "Walk around the property, calling the chicken's name.",
-                "Check hidden areas such as sheds, bushes, or under buildings.",
-                "Find the lost chicken and lead it back to the coop."
+                "Checking the sprayer's tank for chemicals",
+                "Connecting the sprayer to a water source or tank",
+                "Diluting the chemicals if necessary",
+                "Mixing the solution with water in the sprayer",
+                "Starting the sprayer's engine or pump",
+                "Walking through the field, directing the sprayer to apply chemicals evenly",
+                "Monitoring the spray pattern to ensure coverage",
+                "Protective clothing and equipment preparation (although not shown in the transcript, often necessary for pesticide application)",
+                "The transcript provided includes a series of agricultural activities that a person would perform on a farm. The main tasks are planting seeds, checking crops, applying fertilizer, operating a combine harvester, driving a truck, and using a sprayer. Each main task is broken down into specific subtasks that require physical action, such as walking, observing, manipulating equipment, and so on. The response includes all the actions mentioned in the transcript and additionally infers some necessary steps based on typical farming practices. The use of \"MAINTASK\" and \"SUBTASK\" labels follows the specified format. The scenario is clearly relevant to physical farming tasks, so instead of the alternative instructions, the relevant tasks are extracted."
             ]
         },
         {
-            "task": "Maintain the chicken coop environment.",
+            "task": "Planting Seeds in a Field",
             "subtasks": [
-                "Check the coop's ventilation system for proper functioning.",
-                "Monitor the coop's temperature and humidity levels.",
-                "Adjust ventilation or temperature control as needed.",
-                "Inspect the coop's structural integrity for any damages.",
-                "Clean or repair any damaged areas."
+                "Walking through the field**",
+                "Selecting seeds from the bag**",
+                "Bending down to reach the ground**",
+                "Making a small hole in the soil**",
+                "Placing a seed into the hole**",
+                "Covering the seed with soil**",
+                "Repeating the process in different parts of the field**"
             ]
         },
         {
-            "task": "Observe and maintain the garden surrounding the coop.",
+            "task": "Checking the Condition of Crops",
             "subtasks": [
-                "Walk around the chicken coop to survey the garden area.",
-                "Check for any weeds or invasive plants.",
-                "Remove any debris or fallen leaves from the garden.",
-                "Water the plants if necessary.",
-                "Prune or trim any overgrown vegetation."
+                "Walking through the crop rows**",
+                "Observing the crops for signs of stress or harm**",
+                "Identifying any issues, such as pests or disease**",
+                "Noting the progress of the crops' growth**"
             ]
         },
         {
-            "task": "Collect eggs from the coop at night.",
+            "task": "Applying Fertilizer to Crops",
             "subtasks": [
-                "As in MAINTASK: Collect eggs from the coop, but at nighttime."
+                "Walking through the crop fields**",
+                "Using a spreader or similar equipment to apply fertilizer**",
+                "Ensuring even distribution of the fertilizer**",
+                "Monitoring the rate of application to prevent over-fertilizing**"
             ]
         },
         {
-            "task": "Ensure the security of the chicken coop.",
+            "task": "Operating a Grain Combine Harvester",
             "subtasks": [
-                "Walk around the perimeter of the coop to check for potential entry points.",
-                "Close any gaps or holes with wire mesh or hardware cloth.",
-                "Check locks or latches on the entrance door.",
-                "Ensure all windows are securely closed."
+                "Climbing onto the combine**",
+                "Attaching the combine to a tractor (assuming translation of \"\u62d6\u62c9\u673a\")**",
+                "Adjusting the combine's settings according to crop type**",
+                "Starting the combine's engine**",
+                "Driving the combine through the crop rows**",
+                "Separating grains from chaff and stalks**",
+                "Collecting the harvested grain into containers**",
+                "Unloading the grain after each pass**",
+                "Ensuring the combine's tracks or wheels don't damage the field**"
             ]
         },
         {
-            "task": "Apply feed supplements.",
+            "task": "Driving a Farm Truck",
             "subtasks": [
-                "Determine the appropriate feed supplement based on the chickens' diet requirements.",
-                "Measure the required amount of supplement.",
-                "Mix the supplement into the feed or provide it separately.",
-                "Monitor the chickens' response to the supplement."
+                "Entering the driver's seat of the truck**",
+                "Starting the truck's engine**",
+                "Checking the mirrors and surrounding area for obstacles**",
+                "Backing up the truck by looking through the rear view mirror**",
+                "Driving the truck to a grain storage facility or another location**",
+                "Loading grain into the truck's cargo area using a conveyor belt or manually**",
+                "Securing the load to prevent spillage during transport**",
+                "Adjusting the truck's speed for safe travel on rural roads**"
             ]
         },
         {
-            "task": "Change brooder lamps.",
+            "task": "Operating a Sprayer",
             "subtasks": [
-                "Identified that the existing brooder lamp needs changing.",
-                "Take off the current brooder lamp.",
-                "Replace it with a new lamp of the correct wattage.",
-                "Check the temperature inside the brooder area."
-            ]
-        },
-        {
-            "task": "Collect eggs during peak laying season.",
-            "subtasks": [
-                "As in MAINTASK: Collect eggs from the coop, but during peak laying season when more eggs are laid."
-            ]
-        },
-        {
-            "task": "Inspect the chickens for mites or lice.",
-            "subtasks": [
-                "Examine the chickens closely for signs of external parasites.",
-                "Use a magnifying glass or comb to check the feathers and skin.",
-                "Remove detected parasites if found.",
-                "Apply appropriate treatments if necessary."
-            ]
-        },
-        {
-            "task": "Maintain air quality in the coop.",
-            "subtasks": [
-                "Open windows or doors for cross ventilation.",
-                "Use fans or ventilation systems to regulate air movement.",
-                "Ensure adequate carbon dioxide levels do not build up.",
-                "Monitor for ammonia odors indicating urine buildup.",
-                "Adjust bedding if necessary to reduce ammonia."
-            ]
-        },
-        {
-            "task": "Ensure proper ventilation in the coop.",
-            "subtasks": [
-                "Open windows or vents to allow fresh air circulation.",
-                "Check for any blockages in air intake or exhaust.",
-                "Adjust the placement of air vents for optimal airflow."
-            ]
-        },
-        {
-            "task": "Assist in hatching chicks.",
-            "subtasks": [
-                "Check the incubator for proper temperature and humidity settings.",
-                "Monitor the progress of hatching eggs.",
-                "Help turn eggs as needed.",
-                "Prepare the brooder area for new chicks."
-            ]
-        },
-        {
-            "task": "Administer medication to sick chickens.",
-            "subtasks": [
-                "Identify sick chickens with clinical signs.",
-                "Obtain the appropriate medication from storage.",
-                "Administer the medication according to the veterinarian's instructions.",
-                "Monitor the chickens for improved health."
-            ]
-        },
-        {
-            "task": "Check the timing of the feed distribution.",
-            "subtasks": [
-                "Observe the chickens' feeding habits to ensure consistent distribution.",
-                "Adjust the feeding schedule if necessary."
+                "Checking the sprayer's tank for chemicals**",
+                "Connecting the sprayer to a water source or tank**",
+                "Diluting the chemicals if necessary**",
+                "Mixing the solution with water in the sprayer**",
+                "Starting the sprayer's engine or pump**",
+                "Walking through the field, directing the sprayer to apply chemicals evenly**",
+                "Monitoring the spray pattern to ensure coverage**"
             ]
         }
     ]

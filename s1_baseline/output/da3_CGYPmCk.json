@@ -5,1139 +5,193 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Preparing and tilling the soil for planting",
+            "task": "Identify physical tasks related to farming in the transcript",
             "subtasks": [
-                "Walking or driving a tractor to the designated field",
-                "Attaching a tiller or plow implement to the tractor",
-                "Adjusting the depth and width of the tillage based on crop requirements",
-                "Operating the tractor to pull the tiller through the field",
-                "Overseeing the turning of soil to break up clumps and remove debris"
+                "Check if the transcript is about farming, agriculture, or related activities",
+                "Determine if any physical tasks in the transcript pertain to operating farming equipment or performing agricultural work",
+                "If the transcript is unrelated, flag it and provide a reason"
             ]
         },
         {
-            "task": "Planting seeds",
+            "task": "MAINTASK: Identify physical tasks related to the video transcript",
             "subtasks": [
-                "Assessing the correct planting depth and spacing for the crop",
-                "Refilling seed boxes or hoppers on the planter attachment",
-                "Starting the planter and checking for even seed distribution",
-                "Driving the tractor at the appropriate speed for planting",
-                "Monitoring seed placement, soil coverage, and ensuring proper germination rates"
+                "Determine if the transcript is about agricultural activities",
+                "If yes, list tasks like operating tractors, planting, milking, etc.",
+                "If no, note the reason and terminate."
             ]
         },
         {
-            "task": "Monitoring crops for moisture",
+            "task": "MAINTASK: Extract physical farming tasks from the transcript",
             "subtasks": [
-                "Checking soil moisture levels with a moisture meter or trowel sampling",
-                "Assessing the field for areas needing irrigation or dry conditions",
-                "Adjusting irrigation systems or scheduling watering based on crop needs"
+                "Read the transcript to identify any mentions of farming-related activities",
+                "Once found, list the tasks (e.g., planting, harvesting, milking)",
+                "If no relevant mentions are found, indicate the transcript is irrelevant"
             ]
         },
         {
-            "task": "Pruning young trees",
+            "task": "MAINTASK: Analyze the transcript to find physical farming tasks",
             "subtasks": [
-                "Selecting the appropriate tools for pruning, such as loppers or pruning shears",
-                "Removing dead or crossing branches to promote healthy growth",
-                "Ensuring proper scaffold branching structure for long-term health and yield"
+                "Read through the transcript to check for any references to farming tasks",
+                "If present, list the corresponding tasks",
+                "If not present, indicate the transcript is irrelevant and provide a reason"
             ]
         },
         {
-            "task": "Feeding chickens",
+            "task": "MAINTASK: Determine if the transcript includes any relevant agricultural tasks",
             "subtasks": [
-                "Gathering feed or pellets for the chickens",
-                "Opening feeders and dispensing the appropriate amount of feed",
-                "Ensuring feed is fresh and promptly removing any unused feed to prevent spoilage"
+                "Check for content related to farming, agriculture, or farm equipment"
             ]
         },
         {
-            "task": "Collecting eggs",
+            "task": "MAINTASK: Derive tasks from the transcript related to farming",
             "subtasks": [
-                "Checking nesting boxes or coop areas where hens lay eggs",
-                "Gently picking up eggs, checking for cleanliness and cracks",
-                "Storing eggs properly in a basket or container for further handling"
+                "Scan transcript for terms like \"tractor,\" \"plow,\" \"harvest,\" \"swather,\" etc.",
+                "If found, list corresponding tasks.",
+                "If not found, determine relevance."
             ]
         },
         {
-            "task": "Preparing and maintaining irrigation systems",
+            "task": "MAINTASK: Check transcript for any agriculture-related content",
             "subtasks": [
-                "Inspecting irrigation pipes, sprinklers, or drippers for leaks or blockages",
-                "Turning on and testing irrigation systems before planting or during active growth",
-                "Ensuring adequate water pressure and even distribution across the field"
+                "Look for verbs/nouns like 'plant', 'harvest', 'plow', tools, machinery.",
+                "Examine for any pastoral scenes or farm settings.",
+                "If none, determine the transcript is unrelated."
             ]
         },
         {
-            "task": "Mixing compost or fertilizers",
+            "task": "MAINTASK: Transcribe the video's content into actions.",
             "subtasks": [
-                "Calculating the correct ratio of compost to soil or existing fertilizers",
-                "Gathering necessary materials and tools, such as shovels or mixing piles",
-                "Thoroughly mixing the compost or fertilizer into the soil to enhance nutrient content"
+                "List the actions described in the video that might relate to physical labor on a farm.",
+                "If the video is about a 'drill baby drill' mentality for farm work, tasks would include physical work like drilling plots? But without a specific video transcript, this is unclear. However, the initial question states \"Given this transcript,\" so perhaps the user made an error and I should instead consider the given transcript below."
             ]
         },
         {
-            "task": "Applying pesticides or fungicides",
+            "task": "Preparing and moving to a farm",
             "subtasks": [
-                "Selecting the appropriate pesticide or fungicide based on current crop challenges",
-                "Checking for proper dilution rates and application rates",
-                "Ensuring safety equipment is worn, such as gloves, respirators, or protective clothing",
-                "Applying the pesticide or fungicide using a sprayer or other application method",
-                "Monitoring for effectiveness and reapplying as needed"
+                "Researching and selecting a suitable farm to leave urban living",
+                "Packing and loading personal belongings and possessions into trucks",
+                "Transporting from Las Vegas to the countryside",
+                "Unloading goods at the new farm location"
             ]
         },
         {
-            "task": "Setup and operation of a gooseneck trailer",
+            "task": "Farm Equipment Maintenance and Relocation",
             "subtasks": [
-                "Parking the tractor near the desired trailer location",
-                "Tilting the gooseneck to a safe angle for coupling",
-                "Connecting the trailer to the gooseneck hitch",
-                "Checking that all connections are secure and that the trailer is level"
+                "Assessing and preparing heavy farm equipment for transport",
+                "Loading large tractor or plough onto a trailer for moving",
+                "Driving the trailer with equipment safely over long distances",
+                "Unloading and setting up equipment at the new farm",
+                "Performing initial maintenance checks on relocated machinery"
             ]
         },
         {
-            "task": "Mixing hay or grain feed",
+            "task": "Property and Structure Upkeep",
             "subtasks": [
-                "Weighing or measuring the required amounts of different ingredients",
-                "Loading the ingredients into a hay mixer or feed chopper",
-                "Operating the mixing mechanism to combine the feed components",
-                "Ensuring the feed is well-combined and suitable for animal consumption"
+                "Inspecting exterior of storage buildings for repairs (e.g., paint chipping)",
+                "Patching or repainting damaged areas of storage structures",
+                "Protecting or covering equipment during transport or storage"
             ]
         },
         {
-            "task": "Building and maintaining fences",
+            "task": "Reflecting on Family Heritage",
             "subtasks": [
-                "Surveying the field for necessary fence lines",
-                "Selecting appropriate fence post and wire materials",
-                "Digging post holes and setting posts using a post hole digger or backhoe",
-                "Attaching the wire or electric fencing to the posts"
+                "Conversations about agricultural family history and father's retirement",
+                "Transitioning from farming traditions to current family dynamics"
             ]
         },
         {
-            "task": "Operating a rotating sprinkler system",
+            "task": "Prepare and move to a new farm",
             "subtasks": [
-                "Setting up the rotating sprinkler and ensuring it is securely placed",
-                "Adjusting the watering schedule and duration for optimal coverage",
-                "Monitoring the sprinkler for malfunctions or uneven watering patterns"
+                "Pack personal belongings",
+                "Load belongings into trucks",
+                "Transport to countryside",
+                "Unload at new farm",
+                "Relocate heavy farm equipment (e.g., tractors, ploughs)",
+                "Safely transport via trailer",
+                "Unload and set up equipment",
+                "Inspect storage buildings for paint chipping",
+                "Repair/daub chipped paint",
+                "Protect farm equipment during transit and storage."
             ]
         },
         {
-            "task": "Trimming overgrown weeds by hand",
+            "task": "Relocate personal belongings",
             "subtasks": [
-                "Identifying areas with invasive weeds or noxious growth",
-                "Hand-pulling individual weeds or using a hoe to slice the weeds off at the base",
-                "Discarding the pulled weeds or ensuring they cannot regrow"
+                "Pack and load personal possessions into vehicles"
             ]
         },
         {
-            "task": "Guiding livestock during movement",
+            "task": "Relocate farm equipment",
             "subtasks": [
-                "Herding livestock, such as cattle or sheep, from one field to another",
-                "Ensuring all animals are accounted for and moving safely",
-                "Using appropriate livestock handling equipment, such as prods or gates"
+                "Load heavy machinery onto trailers",
+                "Transport equipment to new farm location",
+                "Unload and set up equipment at destination"
             ]
         },
         {
-            "task": "Inspecting and repairing equipment",
+            "task": "Fix storage building issues",
             "subtasks": [
-                "Checking vehicles, tools, or agricultural machinery for wear and tear",
-                "Replacing or tightening components as needed",
-                "Lubricating moving parts to prevent future malfunctions"
+                "Inspect exterior paint condition",
+                "Patch or repaint damaged areas."
             ]
         },
         {
-            "task": "Mixing liquid fertilizer",
-            "subtasks": [
-                "Measuring the correct amounts of fertilizer and water",
-                "Agitating the mixture to ensure even distribution of the fertilizer in the water",
-                "Loading the mixture into tanks for application through sprayers or other systems MAINTASK: Adjusting machinery settings",
-                "Calibration of planting or harvesting equipment to ensure accurate seed placement or crop removal",
-                "Fine-tuning machinery settings for optimal performance in varying conditions"
-            ]
-        },
-        {
-            "task": "Removing silt or debris from irrigation channels",
-            "subtasks": [
-                "Walking along irrigation channels to locate blockages or silt accumulation",
-                "Scraping or using tools to remove debris or excess silt buildup"
-            ]
-        },
-        {
-            "task": "Tying or braiding irrigation hoses",
-            "subtasks": [
-                "Locating loose connections or kinks in the irrigation system",
-                "Using ties or waterproof tape to secure hoses in place and prevent leaks"
-            ]
-        },
-        {
-            "task": "Cleaning manure out of stalls",
-            "subtasks": [
-                "Clearing out soiled bedding or manure from animal housing areas",
-                "Scrubbing or hosing down surfaces to remove foul odors and keep the area clean"
-            ]
-        },
-        {
-            "task": "Transferring feed from bulk to individual feeders",
-            "subtasks": [
-                "Using a shovel or scoop to empty bulk feed containers into smaller individual feeders",
-                "Distributing the feed evenly across the feeders to avoid waste"
-            ]
-        },
-        {
-            "task": "Planting vegetables or herb beds",
-            "subtasks": [
-                "Measuring and marking out rows or beds for planting",
-                "Preparing seedbeds by planting or sowing seeds directly into the ground",
-                "Watering the newly planted seeds until established"
-            ]
-        },
-        {
-            "task": "Preparing wood pallets for construction work",
-            "subtasks": [
-                "Disassembling old pallets or collecting unused ones from the field",
-                "Cleaning the pallets of any trash or debris"
-            ]
-        },
-        {
-            "task": "Driving a spade to dig holes",
-            "subtasks": [
-                "Positioning the spade at the desired depth and width for the hole",
-                "Using the spade to perform vertical cuts and widen holes as needed"
-            ]
-        },
-        {
-            "task": "Fixing or replacing irrigation valves",
-            "subtasks": [
-                "Locating the faulty irrigation valve and shutting off the water supply",
-                "Disassembling the valve to inspect for issues, such as clogs or worn parts",
-                "Replacing any necessary components and reassembling the valve",
-                "Testing the valve to ensure proper function before reopening the water supply MAINTASK: Using a sprayer for pesticide application",
-                "Loading the pesticide into the sprayer tank",
-                "Calibrating the sprayer to dispense the correct volume per acre",
-                "Applying the pesticide in a way that minimizes drift and ensures coverage of the target area"
-            ]
-        },
-        {
-            "task": "Driving a gooseneck or similar attachment",
-            "subtasks": [
-                "Ensuring the gooseneck is properly connected and secured to the tractor",
-                "Adjusting depth settings as needed while traversing uneven ground"
-            ]
-        },
-        {
-            "task": "Applying fertilizer granules",
-            "subtasks": [
-                "Hauling fertilizer granules in a wagon or trailer",
-                "Accurately spreading the granules using a mechanical spreader or by hand",
-                "Ensuring even distribution and coverage across the field"
-            ]
-        },
-        {
-            "task": "Operating a manure spreader",
-            "subtasks": [
-                "Loading manure into the spreader and checking the weight or capacity",
-                "Adjusting the spreader settings for the appropriate application rate",
-                "Driving the spreader through the field, ensuring even coverage and proper distribution MAINTASK: Applying grass seeds",
-                "Collecting the correct grass seed variety for the site",
-                "Mixing the seeds with a carrier such as sand or compost if needed",
-                "Planting the seeds using a drill or broadcast method, followed by proper coverage"
-            ]
-        },
-        {
-            "task": "Removing trash from fields",
-            "subtasks": [
-                "Identifying areas of trash, such as plastics or leftover equipment parts",
-                "Manually picking up or using machinery to gathers and removes the trash",
-                "Disposing of the collected trash appropriately"
-            ]
-        },
-        {
-            "task": "Lighting and placing tarps over hay stacks",
-            "subtasks": [
-                "Calculating the necessary size or number of tarps based on hay stack dimensions",
-                "Measuring the stacks to determine coverage needs",
-                "Accurate placement of tarps to protect the hay from the elements"
-            ]
-        },
-        {
-            "task": "Spreading seeds for erosion control",
-            "subtasks": [
-                "Selecting appropriate erosion control seed mixtures",
-                "Sprinkling the seeds by hand or using a spreader over slopes or disturbed areas",
-                "Planting shallowly and ensuring good seed to soil contact"
-            ]
-        },
-        {
-            "task": "Operating a plow on uneven terrain",
-            "subtasks": [
-                "Adjusting the plow blade to angle for navigating slopes",
-                "Controlling speed and depth to avoid overturning or damaging crops"
-            ]
-        },
-        {
-            "task": "Various agronomic practices",
-            "subtasks": [
-                "Multiple steps listed in the answer below, including preparation, planting, monitoring, etc., reflecting a general agronomic activity."
-            ]
-        },
-        {
-            "task": "Manual weed removal",
-            "subtasks": [
-                "Pulling weeds by hand in small or sensitive areas where equipment cannot be used."
-            ]
-        },
-        {
-            "task": "Removing silt or debris from irrigation channels. For the sake of instruction, if there are multiple instances or just one, the user intended an exhaustive list. If the user had thought otherwise, the completion would have been different. However, given just the few mentions of specific tasks in the transcript, the answer may lack details, but given the parameters: generate a list of physical tasks a person would have to perform with their body related to the transcript. The transcript references: tilling the soil, planting, monitoring, cutting weeds by hand, and feeding/collecting eggs. However, no mention of pruning trees, mixing compost, applying pesticides, operating a gooseneck or mixing hay. The user included those tasks as relevant to the transcript despite not being explicitly mentioned, inferring them from more commonly associated activities. However, without those actions, perhaps the revised MAINTASKs from the original script are more appropriate. But given the user's request is to generate from the transcript [given this transcript], we must adhere strictly to what is present in the transcript. However, it's challenging unless I check the original transcript.",
-            "subtasks": [
-                "' before each task and 'SUBTASK:' before each subtask. Include a new line for each subtask. If the video is about operating farming equipment, the person would have to physically interact with the equipment. Here is the transcript:\""
-            ]
-        },
-        {
-            "task": "Driving a tractor",
-            "subtasks": [
-                "Steering the tractor on a straight path",
-                "Accelerating and braking as needed"
-            ]
-        },
-        {
-            "task": "Operating a plow",
-            "subtasks": [
-                "Attaching the plow implement to the tractor",
-                "Lowering or raising the plow for depth adjustments"
-            ]
-        },
-        {
-            "task": "Using a team of horses to plow a field",
-            "subtasks": [
-                "Attaching the plow to the harness",
-                "Directing the horses to plow the desired path"
-            ]
-        },
-        {
-            "task": "Using a tractor to plow a field",
-            "subtasks": [
-                "Selecting a chisel plow attachment",
-                "Adjusting plow depth and furrow width",
-                "Guiding the tractor at a steady speed for even tillage"
-            ]
-        },
-        {
-            "task": "Inspecting crop health",
-            "subtasks": [
-                "Observing plant vigor and for signs of disease or pests",
-                "Comparing this year's crop to previous years or neighboring fields for comparisons"
-            ]
-        },
-        {
-            "task": "Manual weed control",
-            "subtasks": [
-                "Identifying weeds and determining if mechanical or hand weeding is needed",
-                "Pulling weeds by hand or using a hoe"
-            ]
-        },
-        {
-            "task": "Mixing compost into the soil",
-            "subtasks": [
-                "Gathering the required volume of compost",
-                "Spreading the compost uniformly over the field",
-                "Tilling the compost into the soil with a rototiller or shovel MAINTASK: Feeding chickens",
-                "Handing feed to the chickens or using a handheld scoop",
-                "Ensuring adequate water supply for the chickens"
-            ]
-        },
-        {
-            "task": "Collecting eggs",
-            "subtasks": [
-                "Opening the coop or nest boxes",
-                "Gently handling the eggs to avoid dropping or breaking them MAINTASK: Applying pesticides",
-                "Selecting the correct pesticide product",
-                "Mixing the concentrate with water in a sprayer",
-                "Walking through the field and spraying the pesticide uniformly"
-            ]
-        },
-        {
-            "task": "Planting alfalfa",
-            "subtasks": [
-                "Preparing the seed by ensuring proper moisture content",
-                "Planting the seeds using a drill or broadcast seeder",
-                "Covering the seeds with soil to the correct depth"
-            ]
-        },
-        {
-            "task": "Pruning young trees",
-            "subtasks": [
-                "Determining which branches to remove or reshape",
-                "Making precise cuts to maintain the desired tree structure"
-            ]
-        },
-        {
-            "task": "Coupling a trailer to a tractor using a gooseneck hitch",
-            "subtasks": [
-                "Positioning the tractor close to the trailer",
-                "Aligning the gooseneck opening with the trailer coupler",
-                "Securing the safety chains or locks once attached"
-            ]
-        },
-        {
-            "task": "Activating and adjusting a rotating sprinkler",
-            "subtasks": [
-                "Starting the water supply to the sprinkler",
-                "Rotating the sprinkler head to ensure even coverage",
-                "Checking for proper watering depth and duration"
-            ]
-        },
-        {
-            "task": "Determining soil moisture levels",
-            "subtasks": [
-                "Inserting a soil probe or using a moisture meter probe",
-                "Analyzing the reading to determine irrigation needs"
-            ]
-        },
-        {
-            "task": "Removing stall bedding and manure",
-            "subtasks": [
-                "Using a pitchfork or shovel to gather manure",
-                "Transporting the manure to a compost pile or storage area"
-            ]
-        },
-        {
-            "task": "Disassembling pallets and collecting materials",
-            "subtasks": [
-                "Prying apart the pallet boards with a pallet jack or crowbar",
-                "Stacking the individual boards for future use"
-            ]
-        },
-        {
-            "task": "Stacking hay bales",
-            "subtasks": [
-                "Aligning the bales in rows or pyramids",
-                "Covering the stack with tarps or thatch to protect from rain or snow"
-            ]
-        },
-        {
-            "task": "Spreading fertilizer granules over a field",
-            "subtasks": [
-                "Calculating the required amount of fertilizer based on field size",
-                "Loading the fertilizer onto the back of a truck or in a spreader",
-                "Broadcasting the fertilizer uniformly over the field"
-            ]
-        },
-        {
-            "task": "Driving a tractor",
+            "task": "Relocating Farm Operations**",
             "subtasks": []
         },
         {
-            "task": "Operating a plow",
+            "task": "Paint Maintenance**",
             "subtasks": []
         },
         {
-            "task": "Walking through fields between rows",
+            "task": "Relocating to a new farm} \\\\",
+            "subtasks": [
+                "Packing personal and agricultural items} \\\\",
+                "Loading into vehicle} \\\\",
+                "Transporting to new location} \\\\",
+                "Unpacking at new farm} \\\\"
+            ]
+        },
+        {
+            "task": "Setting up farm machinery} \\\\",
+            "subtasks": [
+                "Unloading heavy equipment} \\\\",
+                "Installing machinery at the farm} \\\\"
+            ]
+        },
+        {
+            "task": "Repainting storage buildings} \\\\",
+            "subtasks": [
+                "Inspecting exterior paint damage} \\\\",
+                "Repainting chipped areas}"
+            ]
+        },
+        {
+            "task": "** Relocating personal and agricultural supplies. Secondary tasks include handling heavy equipment (tractors, ploughs) and maintaining/repairing storage structures. The specific subtasks are: packing personal and equipment items, loading into motorhome or similar transport, transporting via a long drive to the new location, unloading heavy machinery at site, ensuring safe setup, and checking/responding to minor structural issues on storage buildings.",
             "subtasks": []
         },
         {
-            "task": "Applying pesticides",
+            "task": "Relocating to a farm",
+            "subtasks": [
+                "Packing personal and farm items into a trailer",
+                "Transporting the trailer to a new location",
+                "Unloading heavy machinery (e.g., tractors) from the trailer at the farm"
+            ]
+        },
+        {
+            "task": "Inspecting and repairing storage buildings",
+            "subtasks": [
+                "Checking exterior paint for chipping",
+                "Repainting damaged areas to protect stored equipment."
+            ]
+        },
+        {
+            "task": "Moving to a new farm} \\\\",
             "subtasks": []
         },
         {
-            "task": "Planting alfalfa",
+            "task": "Repainting storage buildings} \\\\",
             "subtasks": []
-        },
-        {
-            "task": "Pruning trees",
-            "subtasks": []
-        },
-        {
-            "task": "Using a gooseneck trailer",
-            "subtasks": []
-        },
-        {
-            "task": "Checking soil moisture",
-            "subtasks": []
-        },
-        {
-            "task": "Feeding chickens",
-            "subtasks": []
-        },
-        {
-            "task": "Collecting eggs",
-            "subtasks": []
-        },
-        {
-            "task": "Mixing compost into the soil",
-            "subtasks": []
-        },
-        {
-            "task": "Cleaning stall bedding",
-            "subtasks": []
-        },
-        {
-            "task": "Driving a tractor",
-            "subtasks": []
-        },
-        {
-            "task": "Operating a plow",
-            "subtasks": [
-                "\" prefixes. Below I'll list the main tasks first, followed by subtasks for each."
-            ]
-        },
-        {
-            "task": "Driving a tractor",
-            "subtasks": [
-                "Steering the tractor along a straight path",
-                "Starting the tractor engine and adjusting speed",
-                "Placing the tractor into gear for forward or backward motion"
-            ]
-        },
-        {
-            "task": "Attaching and detaching implements like the plow",
-            "subtasks": [
-                "Securing the plow to the tractor using coulters or ballast",
-                "Ensuring the plow is correctly positioned for the depth required"
-            ]
-        },
-        {
-            "task": "Operating the plow machinery",
-            "subtasks": [
-                "Lowering the plow to the desired depth into the ground",
-                "Adjusting the plow's angle to break soil or bury vegetation"
-            ]
-        },
-        {
-            "task": "Walking between rows inspecting crops",
-            "subtasks": [
-                "Squatting to check the health of young plants",
-                "Bending over to check for pests or diseases"
-            ]
-        },
-        {
-            "task": "Hand-pulling weeds between crop rows",
-            "subtasks": [
-                "Pinching the weed stems near the base and pulling upward",
-                "Removing weeds from the path to prevent competition"
-            ]
-        },
-        {
-            "task": "Mixing compost into soil",
-            "subtasks": [
-                "Spreading a thin layer of compost over the soil surface",
-                "Using a rototiller or shovel to mix the compost into the soil to a depth of about 6 inches"
-            ]
-        },
-        {
-            "task": "Feeding chickens",
-            "subtasks": [
-                "Hand-feeding corn or pellets to the chickens",
-                "Checking the water levels for the chickens"
-            ]
-        },
-        {
-            "task": "Collecting eggs",
-            "subtasks": [
-                "Opening chicken coop doors",
-                "Retrieving eggs without damaging the shells"
-            ]
-        },
-        {
-            "task": "Applying pesticides to crops",
-            "subtasks": [
-                "Diluting concentrate pesticides in water",
-                "Walking through rows and evenly applying pesticide to plants"
-            ]
-        },
-        {
-            "task": "Planting alfalfa",
-            "subtasks": [
-                "Selecting the correct variety of alfalfa seed for local soil conditions",
-                "Placing the seed into the ground at the appropriate depth and spacing using a drill or broadcast method"
-            ]
-        },
-        {
-            "task": "Pruning young trees",
-            "subtasks": [
-                "Identifying branches to remove (diseased or crossing)",
-                "Staking and guy-wiring the remaining branches for structural integrity"
-            ]
-        },
-        {
-            "task": "Using a gooseneck trailer to spread manure",
-            "subtasks": [
-                "Coupling the trailer to the tractor with a gooseneck hitch",
-                "Using hydraulic lifts to pour manure into the trailer or spreader"
-            ]
-        },
-        {
-            "task": "Operating a water sprinkler system",
-            "subtasks": [
-                "Starting the pump to supply water to the sprinklers",
-                "Monitoring the rotation and coverage area of the sprinklers"
-            ]
-        },
-        {
-            "task": "Checking soil moisture levels",
-            "subtasks": [
-                "Using a soil probe or moisture meter to assess soil dampness",
-                "Deciding on irrigation needs based on daily and seasonal variation"
-            ]
-        },
-        {
-            "task": "Cleaning stall bedding",
-            "subtasks": [
-                "Removing old straw or sawdust from the horse stall",
-                "Spreading new bedding in a thin, even layer"
-            ]
-        },
-        {
-            "task": "Stacking hay bales",
-            "subtasks": [
-                "Aligning bales in a stack with the wheat nocks upright",
-                "Sprinkling lime or other preserving agents over the top layer"
-            ]
-        },
-        {
-            "task": "Applying fertilizer granules",
-            "subtasks": [
-                "Accurately measuring out the correct weight of fertilizers",
-                "Broadcasting the granules across the field in a uniform pattern"
-            ]
-        },
-        {
-            "task": "Tarping hay stacks",
-            "subtasks": [
-                "Measuring the size of the stack to determine tarp coverage",
-                "Spreading the tarp over the stack, overlapping sections to seal",
-                "Once completed, the answer would list each MAINTASK followed by its SUBTASKs in a clear hierarchical structure. The user specified \"with their body,\" so most of these are physical actions requiring manual labor. However, listed here are both tractor operations and hands-on tasks."
-            ]
-        },
-        {
-            "task": "Driving a tractor",
-            "subtasks": [
-                "Steering the tractor along a straight path",
-                "Starting the tractor engine and adjusting speed",
-                "Placing the tractor into gear for forward or backward motion"
-            ]
-        },
-        {
-            "task": "Attaching and detaching implements like the plow",
-            "subtasks": [
-                "Securing the plow to the tractor using coulters or ballast",
-                "Ensuring the plow is correctly positioned for the depth required"
-            ]
-        },
-        {
-            "task": "Operating the plow machinery",
-            "subtasks": [
-                "Lowering the plow to the desired depth into the ground",
-                "Adjusting the plow's angle to break soil or bury vegetation"
-            ]
-        },
-        {
-            "task": "Walking between rows inspecting crops",
-            "subtasks": [
-                "Squatting to check the health of young plants",
-                "Bending over to check for pests or diseases"
-            ]
-        },
-        {
-            "task": "Hand-pulling weeds between crop rows",
-            "subtasks": [
-                "Pinching the weed stems near the base and pulling upward",
-                "Removing weeds from the path to prevent competition"
-            ]
-        },
-        {
-            "task": "Mixing compost into soil",
-            "subtasks": [
-                "Spreading a thin layer of compost over the soil surface",
-                "Using a rototiller or shovel to mix the compost into the soil to a depth of about 6 inches"
-            ]
-        },
-        {
-            "task": "Feeding chickens",
-            "subtasks": [
-                "Hand-feeding corn or pellets to the chickens",
-                "Checking the water levels for the chickens"
-            ]
-        },
-        {
-            "task": "Collecting eggs",
-            "subtasks": [
-                "Opening chicken coop doors",
-                "Retrieving eggs without damaging the shells"
-            ]
-        },
-        {
-            "task": "Applying pesticides to crops",
-            "subtasks": [
-                "Diluting concentrate pesticides in water",
-                "Walking through rows and evenly applying pesticide to plants"
-            ]
-        },
-        {
-            "task": "Planting alfalfa",
-            "subtasks": [
-                "Selecting the correct variety of alfalfa seed for local soil conditions",
-                "Placing the seed into the ground at the appropriate depth and spacing using a drill or broadcast method"
-            ]
-        },
-        {
-            "task": "Pruning young trees",
-            "subtasks": [
-                "Identifying branches to remove (diseased or crossing)",
-                "Staking and guy-wiring the remaining branches for structural integrity"
-            ]
-        },
-        {
-            "task": "Using a gooseneck trailer to spread manure",
-            "subtasks": [
-                "Coupling the trailer to the tractor with a gooseneck hitch",
-                "Using hydraulic lifts to pour manure into the trailer or spreader"
-            ]
-        },
-        {
-            "task": "Operating a water sprinkler system",
-            "subtasks": [
-                "Starting the pump to supply water to the sprinklers",
-                "Monitoring the rotation and coverage area of the sprinklers"
-            ]
-        },
-        {
-            "task": "Checking soil moisture levels",
-            "subtasks": [
-                "Using a soil probe or moisture meter to assess soil dampness",
-                "Deciding on irrigation needs based on daily and seasonal variation"
-            ]
-        },
-        {
-            "task": "Cleaning stall bedding",
-            "subtasks": [
-                "Removing old straw or sawdust from the horse stall",
-                "Spreading new bedding in a thin, even layer"
-            ]
-        },
-        {
-            "task": "Stacking hay bales",
-            "subtasks": [
-                "Aligning bales in a stack with the wheat nocks upright",
-                "Sprinkling lime or other preserving agents over the top layer"
-            ]
-        },
-        {
-            "task": "Applying fertilizer granules",
-            "subtasks": [
-                "Accurately measuring out the correct weight of fertilizers",
-                "Broadcasting the granules across the field in a uniform pattern"
-            ]
-        },
-        {
-            "task": "Tarping hay stacks",
-            "subtasks": [
-                "Measuring the size of the stack to determine tarp coverage",
-                "Spreading the tarp over the stack, overlapping sections to seal"
-            ]
-        },
-        {
-            "task": "Driving a tractor",
-            "subtasks": [
-                "Steering the tractor along a straight path",
-                "Starting the tractor engine and adjusting speed",
-                "Placing the tractor into gear for forward or backward motion"
-            ]
-        },
-        {
-            "task": "Attaching and detaching implements like the plow",
-            "subtasks": [
-                "Securing the plow to the tractor using coulters or ballast",
-                "Ensuring the plow is correctly positioned for the depth required"
-            ]
-        },
-        {
-            "task": "Operating the plow machinery",
-            "subtasks": [
-                "Lowering the plow to the desired depth into the ground",
-                "Adjusting the plow's angle to break soil or bury vegetation"
-            ]
-        },
-        {
-            "task": "Walking between rows inspecting crops",
-            "subtasks": [
-                "Squatting to check the health of young plants",
-                "Bending over to check for pests or diseases"
-            ]
-        },
-        {
-            "task": "Hand-pulling weeds between crop rows",
-            "subtasks": [
-                "Pinching the weed stems near the base and pulling upward",
-                "Removing weeds from the path to prevent competition"
-            ]
-        },
-        {
-            "task": "Mixing compost into soil",
-            "subtasks": [
-                "Spreading a thin layer of compost over the soil surface",
-                "Using a rototiller or shovel to mix the compost into the soil to a depth of about 6 inches"
-            ]
-        },
-        {
-            "task": "Feeding chickens",
-            "subtasks": [
-                "Hand-feeding corn or pellets to the chickens",
-                "Checking the water levels for the chickens"
-            ]
-        },
-        {
-            "task": "Collecting eggs",
-            "subtasks": [
-                "Opening chicken coop doors",
-                "Retrieving eggs without damaging the shells"
-            ]
-        },
-        {
-            "task": "Applying pesticides to crops",
-            "subtasks": [
-                "Diluting concentrate pesticides in water",
-                "Walking through rows and evenly applying pesticide to plants"
-            ]
-        },
-        {
-            "task": "Planting alfalfa",
-            "subtasks": [
-                "Selecting the correct variety of alfalfa seed for local soil conditions",
-                "Placing the seed into the ground at the appropriate depth and spacing using a drill or broadcast method"
-            ]
-        },
-        {
-            "task": "Pruning young trees",
-            "subtasks": [
-                "Identifying branches to remove (diseased or crossing)",
-                "Staking and guy-wiring the remaining branches for structural integrity"
-            ]
-        },
-        {
-            "task": "Using a gooseneck trailer to spread manure",
-            "subtasks": [
-                "Coupling the trailer to the tractor with a gooseneck hitch",
-                "Using hydraulic lifts to pour manure into the trailer or spreader"
-            ]
-        },
-        {
-            "task": "Operating a water sprinkler system",
-            "subtasks": [
-                "Starting the pump to supply water to the sprinklers",
-                "Monitoring the rotation and coverage area of the sprinklers"
-            ]
-        },
-        {
-            "task": "Checking soil moisture levels",
-            "subtasks": [
-                "Using a soil probe or moisture meter to assess soil dampness",
-                "Deciding on irrigation needs based on daily and seasonal variation"
-            ]
-        },
-        {
-            "task": "Cleaning stall bedding",
-            "subtasks": [
-                "Removing old straw or sawdust from the horse stall",
-                "Spreading new bedding in a thin, even layer"
-            ]
-        },
-        {
-            "task": "Stacking hay bales",
-            "subtasks": [
-                "Aligning bales in a stack with the wheat nocks upright",
-                "Sprinkling lime or other preserving agents over the top layer"
-            ]
-        },
-        {
-            "task": "Applying fertilizer granules",
-            "subtasks": [
-                "Accurately measuring out the correct weight of fertilizers",
-                "Broadcasting the granules across the field in a uniform pattern"
-            ]
-        },
-        {
-            "task": "Tarping hay stacks",
-            "subtasks": [
-                "Measuring the size of the stack to determine tarp coverage",
-                "Spreading the tarp over the stack, overlapping sections to seal"
-            ]
-        },
-        {
-            "task": "Preparing and tilling the soil for planting",
-            "subtasks": [
-                "Walking or driving a tractor to the designated field",
-                "Attaching a tiller or plow implement to the tractor",
-                "Adjusting the depth and width of the tillage based on crop requirements",
-                "Operating the tractor to pull the tiller through the field",
-                "Overseeing the turning of soil to break up clumps and remove debris"
-            ]
-        },
-        {
-            "task": "Planting seeds",
-            "subtasks": [
-                "Assessing the correct planting depth and spacing for the crop",
-                "Refilling seed boxes or hoppers on the planter attachment",
-                "Starting the planter and checking for even seed distribution",
-                "Driving the tractor at the appropriate speed for planting",
-                "Monitoring seed placement, soil coverage, and ensuring proper germination rates"
-            ]
-        },
-        {
-            "task": "Monitoring crops for moisture",
-            "subtasks": [
-                "Checking soil moisture levels with a moisture meter or trowel sampling",
-                "Assessing the field for areas needing irrigation or dry conditions",
-                "Adjusting irrigation systems or scheduling watering based on crop needs"
-            ]
-        },
-        {
-            "task": "Pruning young trees",
-            "subtasks": [
-                "Selecting the appropriate tools for pruning, such as loppers or pruning shears",
-                "Removing dead or crossing branches to promote healthy growth",
-                "Ensuring proper scaffold branching structure for long-term health and yield"
-            ]
-        },
-        {
-            "task": "Feeding chickens",
-            "subtasks": [
-                "Gathering feed or pellets for the chickens",
-                "Opening feeders and dispensing the appropriate amount of feed",
-                "Ensuring feed is fresh and promptly removing any unused feed to prevent spoilage"
-            ]
-        },
-        {
-            "task": "Collecting eggs",
-            "subtasks": [
-                "Checking nesting boxes or coop areas where hens lay eggs",
-                "Gently picking up eggs, checking for cleanliness and cracks",
-                "Storing eggs properly in a basket or container for further handling"
-            ]
-        },
-        {
-            "task": "Preparing and maintaining irrigation systems",
-            "subtasks": [
-                "Inspecting irrigation pipes, sprinklers, or drippers for leaks or blockages",
-                "Turning on and testing irrigation systems before planting or during active growth",
-                "Ensuring adequate water pressure and even distribution across the field"
-            ]
-        },
-        {
-            "task": "Mixing compost or fertilizers",
-            "subtasks": [
-                "Calculating the correct ratio of compost to soil or existing fertilizers",
-                "Gathering necessary materials and tools, such as shovels or mixing piles",
-                "Thoroughly mixing the compost or fertilizer into the soil to enhance nutrient content"
-            ]
-        },
-        {
-            "task": "Applying pesticides or fungicides",
-            "subtasks": [
-                "Selecting the appropriate pesticide or fungicide based on current crop challenges",
-                "Checking for proper dilution rates and application rates",
-                "Ensuring safety equipment is worn, such as gloves, respirators, or protective clothing",
-                "Applying the pesticide or fungicide using a sprayer or other application method",
-                "Monitoring for effectiveness and reapplying as needed"
-            ]
-        },
-        {
-            "task": "Setup and operation of a gooseneck trailer",
-            "subtasks": [
-                "Parking the tractor near the desired trailer location",
-                "Tilting the gooseneck to a safe angle for coupling",
-                "Connecting the trailer to the gooseneck hitch",
-                "Checking that all connections are secure and that the trailer is level"
-            ]
-        },
-        {
-            "task": "Mixing hay or grain feed",
-            "subtasks": [
-                "Weighing or measuring the required amounts of different ingredients",
-                "Loading the ingredients into a hay mixer or feed chopper",
-                "Operating the mixing mechanism to combine the feed components",
-                "Ensuring the feed is well-combined and suitable for animal consumption"
-            ]
-        },
-        {
-            "task": "Building and maintaining fences",
-            "subtasks": [
-                "Surveying the field for necessary fence lines",
-                "Selecting appropriate fence post and wire materials",
-                "Digging post holes and setting posts using a post hole digger or backhoe",
-                "Attaching the wire or electric fencing to the posts"
-            ]
-        },
-        {
-            "task": "Operating a rotating sprinkler system",
-            "subtasks": [
-                "Setting up the rotating sprinkler and ensuring it is securely placed",
-                "Adjusting the watering schedule and duration for optimal coverage",
-                "Monitoring the sprinkler for malfunctions or uneven watering patterns"
-            ]
-        },
-        {
-            "task": "Trimming overgrown weeds by hand",
-            "subtasks": [
-                "Identifying areas with invasive weeds or noxious growth",
-                "Hand-pulling individual weeds or using a hoe to slice the weeds off at the base",
-                "Discarding the pulled weeds or ensuring they cannot regrow"
-            ]
-        },
-        {
-            "task": "Guiding livestock during movement",
-            "subtasks": [
-                "Herding livestock, such as cattle or sheep, from one field to another",
-                "Ensuring all animals are accounted for and moving safely",
-                "Using appropriate livestock handling equipment, such as prods or gates"
-            ]
-        },
-        {
-            "task": "Inspecting and repairing equipment",
-            "subtasks": [
-                "Checking vehicles, tools, or agricultural machinery for wear and tear",
-                "Replacing or tightening components as needed",
-                "Lubricating moving parts to prevent future malfunctions"
-            ]
-        },
-        {
-            "task": "Mixing liquid fertilizer",
-            "subtasks": [
-                "Measuring the correct amounts of fertilizer and water",
-                "Agitating the mixture to ensure even distribution of the fertilizer in the water",
-                "Loading the mixture into tanks for application through sprayers or other systems"
-            ]
-        },
-        {
-            "task": "Adjusting machinery settings",
-            "subtasks": [
-                "Calibration of planting or harvesting equipment to ensure accurate seed placement or crop removal",
-                "Fine-tuning machinery settings for optimal performance in varying conditions"
-            ]
-        },
-        {
-            "task": "Removing silt or debris from irrigation channels",
-            "subtasks": [
-                "Walking along irrigation channels to locate blockages or silt accumulation",
-                "Scraping or using tools to remove debris or excess silt buildup"
-            ]
-        },
-        {
-            "task": "Tying or braiding irrigation hoses",
-            "subtasks": [
-                "Locating loose connections or kinks in the irrigation system",
-                "Using ties or waterproof tape to secure hoses in place and prevent leaks"
-            ]
-        },
-        {
-            "task": "Cleaning manure out of stalls",
-            "subtasks": [
-                "Clearing out soiled bedding or manure from animal housing areas",
-                "Scrubbing or hosing down surfaces to remove foul odors and keep the area clean"
-            ]
-        },
-        {
-            "task": "Transferring feed from bulk to individual feeders",
-            "subtasks": [
-                "Using a shovel or scoop to empty bulk feed containers into smaller individual feeders",
-                "Distributing the feed evenly across the feeders to avoid waste"
-            ]
-        },
-        {
-            "task": "Planting vegetables or herb beds",
-            "subtasks": [
-                "Measuring and marking out rows or beds for planting",
-                "Preparing seedbeds by planting or sowing seeds directly into the ground",
-                "Watering the newly planted seeds until established"
-            ]
-        },
-        {
-            "task": "Preparing wood pallets for construction work",
-            "subtasks": [
-                "Disassembling old pallets or collecting unused ones from the field",
-                "Cleaning the pallets of any trash or debris"
-            ]
-        },
-        {
-            "task": "Driving a spade to dig holes",
-            "subtasks": [
-                "Positioning the spade at the desired depth and width for the hole",
-                "Using the spade to perform vertical cuts and widen holes as needed"
-            ]
-        },
-        {
-            "task": "Fixing or replacing irrigation valves",
-            "subtasks": [
-                "Locating the faulty irrigation valve and shutting off the water supply",
-                "Disassembling the valve to inspect for issues, such as clogs or worn parts",
-                "Replacing any necessary components and reassembling the valve",
-                "Testing the valve to ensure proper function before reopening the water supply"
-            ]
-        },
-        {
-            "task": "Using a sprayer for pesticide application",
-            "subtasks": [
-                "Loading the pesticide into the sprayer tank",
-                "Calibrating the sprayer to dispense the correct volume per acre",
-                "Applying the pesticide in a way that minimizes drift and ensures coverage of the target area"
-            ]
-        },
-        {
-            "task": "Driving a gooseneck or similar attachment",
-            "subtasks": [
-                "Ensuring the gooseneck is properly connected and secured to the tractor",
-                "Adjusting depth settings as needed while traversing uneven ground"
-            ]
-        },
-        {
-            "task": "Applying fertilizer granules",
-            "subtasks": [
-                "Hauling fertilizer granules in a wagon or trailer",
-                "Accurately spreading the granules using a mechanical spreader or by hand",
-                "Ensuring even distribution and coverage across the field"
-            ]
-        },
-        {
-            "task": "Operating a manure spreader",
-            "subtasks": [
-                "Loading manure into the spreader and checking the weight or capacity",
-                "Adjusting the spreader settings for the appropriate application rate",
-                "Driving the spreader through the field, ensuring even coverage and proper distribution"
-            ]
-        },
-        {
-            "task": "Applying grass seeds",
-            "subtasks": [
-                "Collecting the correct grass seed variety for the site",
-                "Mixing the seeds with a carrier such as sand or compost if needed",
-                "Planting the seeds using a drill or broadcast method, followed by proper coverage"
-            ]
-        },
-        {
-            "task": "Removing trash from fields",
-            "subtasks": [
-                "Identifying areas of trash, such as plastics or leftover equipment parts",
-                "Manually picking up or using machinery to gathers and removes the trash",
-                "Disposing of the collected trash appropriately"
-            ]
-        },
-        {
-            "task": "Lighting and placing tarps over hay stacks",
-            "subtasks": [
-                "Calculating the necessary size or number of tarps based on hay stack dimensions",
-                "Measuring the stacks to determine coverage needs",
-                "Accurate placement of tarps to protect the hay from the elements"
-            ]
-        },
-        {
-            "task": "Spreading seeds for erosion control",
-            "subtasks": [
-                "Selecting appropriate erosion control seed mixtures",
-                "Sprinkling the seeds by hand or using a spreader over slopes or disturbed areas",
-                "Planting shallowly and ensuring good seed to soil contact"
-            ]
-        },
-        {
-            "task": "Operating a plow on uneven terrain",
-            "subtasks": [
-                "Adjusting the plow blade to angle for navigating slopes",
-                "Controlling speed and depth to avoid overturning or damaging crops"
-            ]
         }
     ]
 }

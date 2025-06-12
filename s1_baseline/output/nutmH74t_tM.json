@@ -5,35 +5,87 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "",
+            "task": "Read and understand pesticide instructions",
             "subtasks": [
-                "Read and understand pesticide labels",
-                "Check online resources if labels are unclear",
-                "Identify active ingredients",
-                "Note first aid statements",
-                "Familiarize with emergency treatment instructions",
-                "Understand hazards to animals and humans",
-                "Learn about bee effects",
-                "Follow application directions",
-                "Properly store and dispose of containers"
+                "Choose appropriate pesticide product",
+                "Access label information if difficult to read",
+                "Find label equivalents via internet search",
+                "Identify active ingredient on label",
+                "Locate first-aid statement on label",
+                "Ensure product label is brought to medical facility",
+                "Note hazards to animals on label",
+                "Note hazards to humans on label",
+                "Check impact on bees according to label",
+                "Follow directions for pesticide use",
+                "Properly store pesticide container",
+                "Dispose of pesticide container safely"
             ]
         },
         {
-            "task": "Safely use pesticides in the home",
+            "task": "The main task when it comes to using pesticides is reading the label, so that's MAINTASK. Then, subtasks under that would be identifying what information is on the label that you need to pay attention to. So active ingredient, first-aid, hazards, directions for use, storage, and disposal. Also, if the label is hard to read, go online to find a better version. So maybe those are subtasks. Hmm.",
             "subtasks": []
         },
         {
-            "task": "**MAINTASK:** Safely use pesticides in the home",
+            "task": "Read and understand pesticide instructions. The subtasks under that would include:",
+            "subtasks": []
+        },
+        {
+            "task": "Read and understand pesticide instructions",
+            "subtasks": []
+        },
+        {
+            "task": "Safely use pesticides around the home",
+            "subtasks": []
+        },
+        {
+            "task": "Choose appropriate pesticide product",
+            "subtasks": []
+        },
+        {
+            "task": "Read pesticide label and gather additional information (if needed)",
+            "subtasks": []
+        },
+        {
+            "task": "Follow directions for safe application",
+            "subtasks": []
+        },
+        {
+            "task": "Properly store and dispose of pesticides",
+            "subtasks": []
+        },
+        {
+            "task": "Use pesticides safely",
+            "subtasks": []
+        },
+        {
+            "task": "Read and understand pesticide label",
             "subtasks": [
-                "** Read and understand the pesticide label",
-                "** Check online for clearer label information if needed",
-                "** Identify the active ingredient",
-                "** Note first aid instructions for accidental exposure",
-                "** Familiarize yourself with emergency treatment procedures (e.g., bringing the label to a medical facility)",
-                "** Understand hazards to animals and humans (e.g., bee toxicity)",
-                "** Follow specific application directions on the label as per the statement: \"there might be particular statements about bees and how that product would affect bees.\"",
-                "** Properly store and dispose of the pesticide container after use"
+                ""
             ]
+        },
+        {
+            "task": "\"Use pesticides safely\" would look like:",
+            "subtasks": []
+        },
+        {
+            "task": "Safely use pesticides around the home",
+            "subtasks": []
+        },
+        {
+            "task": "Safely use pesticides around the home",
+            "subtasks": []
+        },
+        {
+            "task": "Read and understand pesticide label",
+            "subtasks": []
+        },
+        {
+            "task": "Read and understand pesticide label",
+            "subtasks": []
+        },
+        {
+            "task": "Read and understand pesticide label**",
+            "subtasks": []
         }
     ]
 }

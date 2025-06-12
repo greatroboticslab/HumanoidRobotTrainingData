@@ -13,13 +13,18 @@
             ]
         },
         {
-            "task": "Planting chilli seeds",
+            "task": "Preparing a planting pot",
             "subtasks": [
-                "Prepare a small pot with drainage holes",
+                "Take a small pot with drainage holes",
                 "Cover the holes with small stones",
-                "Fill the pot with potting mix (70% organic compost and 30% fine sand)",
-                "Gently press the potting mix with hands",
-                "Plant seeds in the potting mix (implied step, not explicitly mentioned)"
+                "Fill pot with potting mix (70% organic compost and 30% fine sand)",
+                "Press potting mix gently with hands"
+            ]
+        },
+        {
+            "task": "Alternative potting option",
+            "subtasks": [
+                "Use seed starting mix instead of custom mix"
             ]
         }
     ]

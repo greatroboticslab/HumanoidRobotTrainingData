@@ -5,28 +5,81 @@
     "category": "Music",
     "tasks": [
         {
-            "task": "Construct and implement a smart irrigation system for agriculture.",
+            "task": "Presenting a problem statement and solution for a smart irrigation system",
             "subtasks": [
-                "Define the problem of water scarcity in agriculture.",
-                "Research traditional irrigation methods and their inefficiencies.",
-                "Design a smart irrigation system using IoT technologies.",
-                "Develop a robotic car equipped with sensors for soil moisture, temperature, nutrient levels, and rainfall detection.",
-                "Integrate IR sensors, thermal cameras, and other sensors for environmental monitoring.",
-                "Utilize ESP826 to control the robotic car based on sensor data.",
-                "Transmit data to an IoT platform (e.g., Blink) for analysis.",
-                "Implement AI algorithms (AIML) for precise data analysis.",
-                "Provide a user-friendly interface for farmers to visualize data like temperature, humidity, nutritional levels, etc.",
-                "Automatically control irrigation through a single click by the farmer.",
-                "Incorporate GPRS sensor for car location tracking."
+                "Introduce the team and problem ID (1554)",
+                "Describe the challenge of water scarcity in agriculture",
+                "Explain the issue with traditional irrigation methods",
+                "Present the smart irrigation system utilizing IoT and sensors",
+                "Detail the system components and their functions",
+                "Explain the data processing and analysis using AI",
+                "Describe the user interface for monitoring data",
+                "Explain the automation for irrigation scheduling",
+                "Mention the use of GPRS for car location",
+                "Highlight the mobility of the robotic car with omnidirectional wheels"
             ]
         },
         {
-            "task": "Create a video demonstration of the smart irrigation system.",
+            "task": "Demonstrating the smart irrigation system's components and functions",
             "subtasks": [
-                "Film a video showcasing the robotic car in action.",
-                "Present the irrigation system's capabilities and effectiveness.",
-                "Highlight user interaction through the interface and automatic irrigation functions.",
-                "Demonstrate accuracy in soil analysis and weather condition integration."
+                "Show the robotic car equipped with various sensors",
+                "Demonstrate soil moisture, temperature, and nutritional level sensors",
+                "Display the IR thermal camera and its purpose",
+                "Use the PK sensors to check soil nutritional level",
+                "Operate the rain detection sensors",
+                "Control the ESP826 microcontroller to drive the car based on sensor data"
+            ]
+        },
+        {
+            "task": "Illustrating the IoT integration and data analysis process",
+            "subtasks": [
+                "Connect the sensors to the ESP826 microcontroller",
+                "Transfer data to the IoT Blink platform",
+                "Apply AI for precise analysis of collected data",
+                "Retrieve and visualize data through the user interface",
+                "Demonstrate the user interface showing temperature, water level, humidity, GPRS, nutrition, and insect data"
+            ]
+        },
+        {
+            "task": "Presenting the automation for irrigation scheduling",
+            "subtasks": [
+                "Explain the motor control connected to the fertilizer pump",
+                "Demonstrate the single-click activation by the farmer",
+                "Show how the system optimizes water usage based on analysis",
+                "Emphasize the goal of maximizing crop yield through precise irrigation"
+            ]
+        },
+        {
+            "task": "Operating a smart irrigation system on a farm",
+            "subtasks": [
+                "Assemble and deploy the robotic car in the field",
+                "Install and calibrate various sensors (soil moisture, temperature, nutritional, etc.)",
+                "Configure the ESP826 microcontroller and IoT Blink platform",
+                "Set up user interface for data visualization",
+                "Use the system to monitor real-time data (temperature, humidity, soil data)",
+                "Actuate the fertilizer pump motor based on analysis",
+                "Adjust irrigation schedules based on system recommendations",
+                "Check and maintain the GPRS functionality for car tracking"
+            ]
+        },
+        {
+            "task": "Present and describe the smart irrigation system",
+            "subtasks": [
+                "Introduce the problem statement (water scarcity in agriculture)",
+                "Explain the challenges with traditional irrigation methods",
+                "Describe the smart irrigation system's components and functions"
+            ]
+        },
+        {
+            "task": "Set up and operate a smart irrigation system",
+            "subtasks": [
+                "Assemble the agricultural monitoring system (robotic car + sensors)",
+                "Configure the ESP826 microcontroller and IoT Blink platform",
+                "Install and calibrate various sensors (soil, environmental) on the farm",
+                "Transfer data from sensors to the IoT platform",
+                "Use the user interface to monitor real-time data",
+                "Adjust irrigation based on system analysis (activate/deactivate pump)",
+                "Maintain the system (check sensors, battery, etc.)"
             ]
         }
     ]

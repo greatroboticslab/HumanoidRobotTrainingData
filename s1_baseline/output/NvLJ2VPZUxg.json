@@ -5,17 +5,31 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Setting up and testing a drip irrigation system for a garden or landscape in a dry climate.",
+            "task": "Selecting and configuring drip irrigation systems based on soil type.",
             "subtasks": [
-                "Choosing the appropriate emitter type based on soil texture.",
-                "Installing the drip irrigation system.",
-                "Testing the irrigation system."
+                "Understanding benefits of drip irrigation in dry climates.",
+                "Considering the type of soil in the garden or landscape.",
+                "Choosing emitters that match the soil texture (e.g., half gallon per hour for clay, two gallons for sandy).",
+                "Checking the University of Wyoming Extension for soil texture identification.",
+                "Setting up the irrigation system after configuration.",
+                "Running the system to check for leaks.",
+                "Ensuring proper water distribution without pooling.",
+                "Verifying water penetration through the root zone of plants."
             ]
         },
         {
-            "task": "Consulting the University of Wyoming Extension for soil testing and advice.",
+            "task": "Checking for leaks and water distribution during system operation.",
             "subtasks": [
-                "Researching irrigation system compatibility with soil type."
+                "Observing the irrigation system's operation.",
+                "Looking for water pooling on the soil surface.",
+                "Ensuring water reaches the entire root zone of plants."
+            ]
+        },
+        {
+            "task": "Determining soil type for irrigation system setup.",
+            "subtasks": [
+                "Consulting the University of Wyoming Extension for soil texture analysis.",
+                "Identifying the type of soil in the garden or landscape (e.g., clay, sandy)."
             ]
         }
     ]

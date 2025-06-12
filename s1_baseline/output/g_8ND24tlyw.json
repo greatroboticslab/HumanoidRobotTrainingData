@@ -5,30 +5,1214 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Moving hay bales",
+            "task": "Towing a tillage implement across a field",
             "subtasks": [
-                "Grasping hay bale",
-                "Lifting hay bale",
-                "Transporting hay bale to storage",
-                "Lowering hay bale into storage"
+                "Starting the tractor",
+                "Engaging the draft power takeoff (PTO)",
+                "Guiding the tractor to pull the implement through the field",
+                "Maintenance check before operation",
+                "Monitoring the equipment during use"
+            ]
+        },
+        {
+            "task": "Loading a grain silo",
+            "subtasks": [
+                "Operating the grain auger or similar equipment",
+                "Climbing a ladder to access the silo top",
+                "Ensuring the grain is of proper moisture content",
+                "Calibrating the auger for correct flow rate",
+                "Emptying the grain tank of the combine harvester"
+            ]
+        },
+        {
+            "task": "Applying fertilizer via aerial spraying",
+            "subtasks": [
+                "Preparing the aircraft for flight",
+                "Loading fertilizer into the aircraft's tank",
+                "Conducting a pre-flight inspection",
+                "Flying the aircraft over the field while supervised",
+                "Diluting the fertilizer solution as needed",
+                "Monitoring weather conditions to avoid unsuitable spray days"
+            ]
+        },
+        {
+            "task": "Planting seeds into a prepared field",
+            "subtasks": [
+                "Operating the planter equipment",
+                "Ensuring proper seed depth and spacing",
+                "Adjusting seed rate based on soil and climate conditions",
+                "Maintenance of the planter before planting season",
+                "Calibration of planters for different seed types"
+            ]
+        },
+        {
+            "task": "Inspecting crop rows for weeds",
+            "subtasks": [
+                "Walking through the field to visually check rows",
+                "Identifying types and levels of weed infestation",
+                "Documenting areas requiring treatment",
+                "Determining appropriate herbicide application timing",
+                "Liaising with the spray team to adjust application"
+            ]
+        },
+        {
+            "task": "Intermittent activities during farm operation",
+            "subtasks": [
+                "Communicating with staff or family members",
+                "Periodic checks on livestock (if applicable)",
+                "Preparing seeds or other materials for planting",
+                "Maintaining equipment in a clean and organized manner",
+                "Rescheduling tasks based on changing weather conditions"
+            ]
+        },
+        {
+            "task": "Planting and maintaining a tree nursery",
+            "subtasks": [
+                "Transplanting seedlings into nursery beds",
+                "Watering and weeding the nursery plots",
+                "Protecting young plants from pests and diseases",
+                "Monitoring the growth and health of each sapling",
+                "Pruning and shape training for optimal growth",
+                "Rotating crops to prevent soil depletion (if mixed with agriculture)"
+            ]
+        },
+        {
+            "task": "Construction or maintenance of farm infrastructure",
+            "subtasks": [
+                "Excavation for foundations or drainage",
+                "Mixing concrete for structures or repair",
+                "Laying bricks or blocks in walls or fences",
+                "Shoveling soil or aggregate materials",
+                "Stacking bricks or other building materials"
+            ]
+        },
+        {
+            "task": "Welding farm equipment parts",
+            "subtasks": [
+                "Assembling components using welding techniques",
+                "Preparing metal pieces for welding",
+                "Inspecting welds for quality and integrity",
+                "Grinding weld edges for smoother finish",
+                "Applying paint or coatings to finished parts"
+            ]
+        },
+        {
+            "task": "Measuring and adjusting irrigation systems",
+            "subtasks": [
+                "Inspecting sprinkler heads or drip lines",
+                "Calculating proper water pressure and flow",
+                "Adjusting valve settings for uniform distribution",
+                "Testing irrigation system functionality before planting",
+                "Training staff on correct system operation"
+            ]
+        },
+        {
+            "task": "Conducting crop variety trials",
+            "subtasks": [
+                "Planting different crop varieties in experimental plots",
+                "Maintaining uniform growing conditions",
+                "Collecting data on yield and performance",
+                "Analyzing results for future planting strategies"
+            ]
+        },
+        {
+            "task": "Repairing fences or gates",
+            "subtasks": [
+                "Identifying damaged or weak sections",
+                "Securing tools for fence repair",
+                "Dismantling and replacing rotten boards or posts",
+                "Repainting fences for longevity",
+                "Mortgagor... (Incomprehensible part; assume 'mortgagor' might refer to someone's position but insufficient context. Discard this portion.)"
             ]
         },
         {
             "task": "Operating a combine harvester",
             "subtasks": [
-                "Entering combine cab",
-                "Steering combine through field",
-                "Operating combine controls",
-                "Monitoring combine\u2019s grain collection"
+                "Harvesting crops at the right maturity stage",
+                "Adjusting cutter bar setting for optimal threshing",
+                "Ensuring grain cleanout between different crops",
+                "Monitoring grain loss and adjusting settings accordingly",
+                "Driving the combine through fields with precise direction"
             ]
         },
         {
-            "task": "Driving a tractor through a field",
+            "task": "Applying pesticides via aerial spraying",
             "subtasks": [
-                "Sitting in tractor seat",
-                "Steering tractor through rows",
-                "Activating tractor hydraulics",
-                "Navigating around field obstacles"
+                "Selecting the correct pesticide and mixing ratio",
+                "Ensuring safety gear is worn",
+                "Checking wind direction and speed before spraying",
+                "Applying pesticide uniformly across the designated area",
+                "Collision avoidance during air passes over the fields"
+            ]
+        },
+        {
+            "task": "Operating a grain dryer",
+            "subtasks": [
+                "Feeding the dryer with harvested grain",
+                "Setting the desired temperature and airflow",
+                "Regular checks for leaks or blockages",
+                "Ensuring proper ventilation to prevent overheating",
+                "Emptying dried grain into storage bins"
+            ]
+        },
+        {
+            "task": "Implementing no-till farming practices",
+            "subtasks": [
+                "Assessing the field's suitability for no-till",
+                "Adjusting equipment for residue management",
+                "Planting seeds directly into undisturbed soil",
+                "Monitoring soil health and adjusting practices as needed"
+            ]
+        },
+        {
+            "task": "Milking dairy cows",
+            "subtasks": [
+                "Positioning the cow at the milking station",
+                "Attaching the milking cup cluster",
+                "Checking the teat cups for a secure fit",
+                "Initiating the milking process and monitoring progress",
+                "Disinfecting teats post-milking"
+            ]
+        },
+        {
+            "task": "Collecting eggs from a chicken coop",
+            "subtasks": [
+                "Opening the coop door for access",
+                "Gently gathering eggs from the nesting boxes",
+                "Checking for any damaged or unusual eggs",
+                "Storing the eggs properly for transportation",
+                "Cleaning and sanitizing the coop afterward"
+            ]
+        },
+        {
+            "task": "Feeding livestock during cold weather",
+            "subtasks": [
+                "Preparing feed mixtures for warmth",
+                "Checking windshelter and cleanliness of containment areas",
+                "Ensuring access to drinking water",
+                "Observing animals for signs of discomfort or distress"
+            ]
+        },
+        {
+            "task": "Performing a grain silo inspection",
+            "subtasks": [
+                "Climbing to the silo top for inspection",
+                "Checking the integrity of the roof and walls",
+                "Assessing for any structural damage or leaks",
+                "Ensuring proper ventilation and exhaust systems are functioning",
+                "Cleaning the silo exterior as needed"
+            ]
+        },
+        {
+            "task": "Operating a chiseling tool for soil aeration",
+            "subtasks": [
+                "Aligning the chisel plow in the field",
+                "Adjusting depth and spacing settings",
+                "Starting the chisel plow and operating it through the field",
+                "Monitoring the soil depth and impacts during operation",
+                "Ensuring the tool is set to appropriate intensity levels"
+            ]
+        },
+        {
+            "task": "Harvesting hay using a baler",
+            "subtasks": [
+                "Guiding the baler to properly cut and collect hay",
+                "Ensuring baling is consistent in size and weight",
+                "Loading bales onto the trailer for transport",
+                "Stacking bales neatly in the storage area"
+            ]
+        },
+        {
+            "task": "Performing road maintenance on muddy farm tracks",
+            "subtasks": [
+                "Preparing de-mudding equipment or chemicals",
+                "Applying materials to reduce mud on tracks",
+                "Driving on tracks to compact the treatment",
+                "Securing the area to prevent traffic until dry"
+            ]
+        },
+        {
+            "task": "Checking water transport systems for irrigation",
+            "subtasks": [
+                "Opening and closing valves to direct water flow",
+                "Inspecting pipes for leaks or blockages",
+                "Measuring water pressure and adjusting as needed",
+                "Using gauges to monitor water distribution in fields"
+            ]
+        },
+        {
+            "task": "Using a sledgehammer as a tool on a farm",
+            "subtasks": [
+                "Breaking up compacted ground or frost heaves",
+                "Demolishing old structures or equipment",
+                "Removing debris safely with the sledgehammer"
+            ]
+        },
+        {
+            "task": "Cutting brakelines on equipment for safe operation",
+            "subtasks": [
+                "Identifying correct brakelines to adjust or replace",
+                "Following the line's routing without damage",
+                "Securing the new brakeline properly for functionality"
+            ]
+        },
+        {
+            "task": "Fixing a chainlink fence damage",
+            "subtasks": [
+                "Evaluating the extent of the damage",
+                "Obtaining necessary replacement materials",
+                "Cutting and installing new sections or links",
+                "Reinforcing the damaged area for security and integrity"
+            ]
+        },
+        {
+            "task": "Installing a windsock for field guidance",
+            "subtasks": [
+                "Attaching the windsock to a suitable pole or stand",
+                "Positioning the windsock where it can indicate prevailing winds",
+                "Ensuring visibility from key operational points in the field",
+                "Periodically checking the windsock's attachment for safety"
+            ]
+        },
+        {
+            "task": "Using a portable grain scaler to check crop weights",
+            "subtasks": [
+                "Weighing individual grain samples accurately",
+                "Comparing weights to expected averages based on field data",
+                "Logging the measurements for future reference or reporting"
+            ]
+        },
+        {
+            "task": "Dressing a joint in silicon during construction of a grain bin",
+            "subtasks": [
+                "Applying a silicon-based sealant to the joint",
+                "Cleaning the areas to be joined for adhesion",
+                "Ensuring the silicone is distributed evenly",
+                "Allow adequate curing time before exposing to grain"
+            ]
+        },
+        {
+            "task": "Applying herbicides via ground spraying",
+            "subtasks": [
+                "Calibrating the sprayer's nozzle to the correct spread",
+                "Walking the boundaries of the spraying area",
+                "Following a systematic pattern for even coverage",
+                "Checking for overlap or skips in application",
+                "Recording the treated areas and product usage"
+            ]
+        },
+        {
+            "task": "Draining a storage silo before cleaning",
+            "subtasks": [
+                "Opening the appropriate valves or doors to drain contents",
+                "Confirming that all materials are removed",
+                "Coordinating with cleaning crew for safety"
+            ]
+        },
+        {
+            "task": "Planting cover crops in field strips",
+            "subtasks": [
+                "Seeding the cover crops in designated rows or blocks",
+                "Adjusting the planter settings for different cover crop species",
+                "Ensuring adequate depth and spacing for good growth",
+                "Planning the cover crops to fix nitrogen or prevent erosion"
+            ]
+        },
+        {
+            "task": "Cleaning the inside of a grain bin",
+            "subtasks": [
+                "Ensuring personal safety with harnesses or ladders",
+                "Removing all remaining grain from the bin",
+                "Inspecting the interior for mold, vermin, or damage",
+                "Pressure washing or brushing the bin walls",
+                "Checking drainage holes for blockages and cleaning as necessary"
+            ]
+        },
+        {
+            "task": "Calculating the number of bags of formic acid needed for a sprayer",
+            "subtasks": [
+                "Understanding the required acid concentration for the applicator",
+                "Measuring the volume of solution to be prepared",
+                "Determining the formula for mixing formic acid with water",
+                "Labeling the mixture to avoid confusion"
+            ]
+        },
+        {
+            "task": "Practicing lifting technique for safely handling bales",
+            "subtasks": [
+                "Choosing the appropriate lifting position",
+                "Checking the bale for stability",
+                "Using both hands to grip the bale base",
+                "Lifting slowly and exhaling during exertion"
+            ]
+        },
+        {
+            "task": "Conducting livestock inventory during a dry (possibly meaning count) season",
+            "subtasks": [
+                "Assembling the counting team",
+                "Walking through all pens or pastures",
+                "Marking or tagging counted animals",
+                "Checking for malnourished or sick animals",
+                "Report discrepancies or issues to management"
+            ]
+        },
+        {
+            "task": "Adjusting the alas (possibly 'als' is a typo; adjusting an aluminum silo perhaps? Not clear. Discard this task.)",
+            "subtasks": []
+        },
+        {
+            "task": "Checking a chain oil level on a piece of equipment",
+            "subtasks": [
+                "Opening the oil filler cap on the hydraulic chain",
+                "Measuring the current oil level",
+                "Topping up the oil to the recommended level",
+                "Ensuring the oil is the correct type for the season"
+            ]
+        },
+        {
+            "task": "Operating a sharpener on a farming tool (confirmation needed on \"engruteuse\" meaning.)",
+            "subtasks": [
+                "Aligning the tool to the sharpener's guidelines",
+                "Applying the appropriate amount of pressure during sharpening",
+                "Checking the new edge for smoothness before usage"
+            ]
+        },
+        {
+            "task": "Capturing firewood with a loader bucket",
+            "subtasks": [
+                "Adjusting the loader's settings for maximum scoop",
+                "Driving the loader towards timber piles or fallen trees",
+                "Emptying the bucket into a designated stacking area",
+                "Ensuring the wood is neatly stacked for easy access"
+            ]
+        },
+        {
+            "task": "Planting a pipeline for irrigation",
+            "subtasks": [
+                "Marking the route with flags or stakes",
+                "Excavating the trench to required depth",
+                "Laying the pipeline in the trench",
+                "Covering the pipe with backfill soil",
+                "Testing the connection for leaks or damage"
+            ]
+        },
+        {
+            "task": "Cleaning lines in a field's subsurface irrigation system",
+            "subtasks": [
+                "Accessing the control valves for the lines",
+                "Installing a cleaning rod or jet to flush the lines",
+                "Operating flushing procedure until clean water runs through",
+                "Rechecking valves and potential leak points afterward",
+                "Documenting any maintenance issues"
+            ]
+        },
+        {
+            "task": "Applying a layer of compacted manure to fields",
+            "subtasks": [
+                "Guiding a manure spreader through the field",
+                "Adjusting spreader settings for desired coverage",
+                "Checking the spread manure's moisture level to avoid compaction",
+                "Ensuring uniform distribution across the field"
+            ]
+        },
+        {
+            "task": "Fixing a bulging tire on a tractor",
+            "subtasks": [
+                "Securing the tractor to a sturdy surface",
+                "Removing the faulty tire and wheel assembly",
+                "Applying sealant or patching the bulge",
+                "Reinstalling the tire and inflating to the proper pressure"
+            ]
+        },
+        {
+            "task": "Laying a windbreak in a field",
+            "subtasks": [
+                "Measuring and marking the row positions for planting trees",
+                "Planting the selected trees at the marked points",
+                "Watering and mulching each tree for better establishment",
+                "Ensuring proper spacing and orientation for wind deflection"
+            ]
+        },
+        {
+            "task": "Operating a baler to bale straw",
+            "subtasks": [
+                "Harvesting the straw with a header attached to a combine",
+                "Feeding the straw into the baler using proper handling",
+                "Tying or compacting the bales as per standards",
+                "Stacking the bales neatly and securely"
+            ]
+        },
+        {
+            "task": "Maintaining chicken coop ventilation during summer heat",
+            "subtasks": [
+                "Checking the operable vents or mesh for cooling",
+                "Ensuring that screens are intact to prevent escapes",
+                "Positioning fans to blow through the coop",
+                "Monitoring temperatures to ensure they do not exceed thresholds"
+            ]
+        },
+        {
+            "task": "Draining and resetting a sprayer tank",
+            "subtasks": [
+                "Emptying the remaining liquid into a safe, designated area",
+                "Cleaning the tank with water or appropriate cleaner",
+                "Conducting a pressure test to check for leaks",
+                "Refilling the tank with the required liquid and recalibrating"
+            ]
+        },
+        {
+            "task": "Transferring grain between two different bins",
+            "subtasks": [
+                "Ensuring the bins are both at their proper capacity",
+                "Opening the transfer chute and gates carefully",
+                "Monitoring the flow to prevent grain bridging or spillage",
+                "Stabilizing the grain levels to prevent uneven weight"
+            ]
+        },
+        {
+            "task": "Properly storing hay in outdoor stacks",
+            "subtasks": [
+                "Overlapping stacks to create a cone shape",
+                "Covering stacks with tarps to protect from rain",
+                "Using hay ties or netting to prevent collapse",
+                "Monitoring stacks for critter entry and rot"
+            ]
+        },
+        {
+            "task": "Installing gravel on a farm road",
+            "subtasks": [
+                "Surveying the roadbed for necessary grading",
+                "Distributing gravel uniformly along the road",
+                "Compact the gravel with a roller or compactor",
+                "Edge trimming to prevent washout"
+            ]
+        },
+        {
+            "task": "Using a hoist to raise and lower a heavy object on the farm.",
+            "subtasks": [
+                "Securing the heavy object to the hoist's sling",
+                "Ensuring the hoist is operating at its safe limits",
+                "Raising the object incrementally to check for load distribution",
+                "Lowering the object with precision to avoid impacts"
+            ]
+        },
+        {
+            "task": "Repairing a leaky drainage pipe in a field",
+            "subtasks": [
+                "Identifying and locating the leak point",
+                "Excavating around the pipe to access the area",
+                "Removing the damaged section and replacing it with new pipe",
+                "Testing the replacement by turning on the water flow",
+                "Refilling the excavation and tamping the soil"
+            ]
+        },
+        {
+            "task": "Operating a sprayer for foliar feeding",
+            "subtasks": [
+                "Translating the sprayer to a low pass mode for application",
+                "Choosing the appropriate nozzle and pressure settings",
+                "Applying the solution evenly across the targeted crop leaves",
+                "Ensuring coverage of both upper and lower leaf surfaces"
+            ]
+        },
+        {
+            "task": "Transporting fresh produce from the fields to the market",
+            "subtasks": [
+                "Loading boxes or crates with picked vegetables",
+                "Securing them on the truck bed or in a trailer",
+                "Inspecting the produce for bruising or damage",
+                "Collecting any necessary documentation for market entry",
+                "Conducting a pre-trip inspection on the transport vehicle"
+            ]
+        },
+        {
+            "task": "Pruning grapevines for optimal yield",
+            "subtasks": [
+                "Removing dead or overgrown branches",
+                "Trimming to open the canopy for better sunlight penetration",
+                "Applying the appropriate trimming techniques for the grape variety",
+                "Cleaning tools between vines to prevent disease spread"
+            ]
+        },
+        {
+            "task": "Mixing and applying fertilizer in a livestock pail",
+            "subtasks": [
+                "Selecing the correct fertilizer types for the application",
+                "Measuring the proper amounts into the pail",
+                "Thoroughly mixing the components",
+                "Distributing the mixture across the pasture or field"
+            ]
+        },
+        {
+            "task": "Feeding animal supplements to livestock via chute feeding",
+            "subtasks": [
+                "Preparing the supplement mix for consistency",
+                "Walking through the pens with the feeding chute",
+                "Directing the chute down the correct livestock entry",
+                "Ensuring accurate amount per animal noted in logs"
+            ]
+        },
+        {
+            "task": "Intermittent note-taking during farm activities",
+            "subtasks": [
+                "Writing observations or data on a notepad",
+                "Filling out forms related to specific tasks",
+                "Entering data into a digital device such as a tablet"
+            ]
+        },
+        {
+            "task": "Installing a new turbine for electricity generation on the farm",
+            "subtasks": [
+                "Assessing the turbine's compatibility with existing structures",
+                "Assembling turbine parts on-site",
+                "Securing the turbine to the selected location",
+                "Connecting the turbine to the electrical grid"
+            ]
+        },
+        {
+            "task": "Managing worm compost bins on a farm",
+            "subtasks": [
+                "Feeding the worms with organic waste",
+                "Monitoring sensory input for optimal conditions",
+                "Harvesting compost at appropriate intervals",
+                "Protecting from extreme temperatures and pests"
+            ]
+        },
+        {
+            "task": "Conducting soil testing for pH and nutrient levels",
+            "subtasks": [
+                "Collecting soil samples from various field locations",
+                "Sending the samples to a laboratory for analysis",
+                "Reviewing the results for nutrient deficiencies or excesses",
+                "Developing a fertilizer application plan based on results"
+            ]
+        },
+        {
+            "task": "Driving a tractor through mature cornfields",
+            "subtasks": [
+                "Guiding the tractor to prevent tilling the stalks into the ground",
+                "Harvesting corn ears by hand or with a grain platform",
+                "Loading the grain tank of the combine efficiently",
+                "Moving from field to field for optimal harvesting sequence"
+            ]
+        },
+        {
+            "task": "Securing livestock trailers while transporting animals",
+            "subtasks": [
+                "Attaching appropriate locks or lower allowing barriers",
+                "Checking all gates and doors to prevent escape during transit",
+                "Ensuring there are ventilation slats or openings for fresh air",
+                "Providing additional hay or food as needed during transport",
+                "followed by the main task, then SUBTASK: for each smaller part of that main task. If a task is incomplete or unclear, note it. If it's a video transcript and not related to physical farming, it should start with an exclamation mark and the reason."
+            ]
+        },
+        {
+            "task": "\" followed by something, indicating they added the transcript later. Then, starting with the MAINTASK:... But in my past conversations with the user, I think the actual transcript was meant to be in the \"Final Answer\" block. The user might have intended to paste a transcript somewhere but perhaps accidentally deleted it. Wait, user instruction in the initial message had placeholders like \"MAINTASK:\" but the actual transcript was supposed to be provided in the user input, but maybe it\u2019s missing now.",
+            "subtasks": []
+        },
+        {
+            "task": "\" followed by MAINTASK: and so on. So it's assumed that the transcript exists in this \"Final Answer\" section even if the user didn't include it here. Therefore, proceed to extract the tasks from the transcript.",
+            "subtasks": [
+                "\" as a markdown with MAINTASK: and SUBTASK: lines. Wait, but how can I generate tasks from a transcript when I don't have the transcript? Because the instructions are crossed here. If the user is supposed to generate a list from a transcript but forgot to include the transcript, then the response cannot be generated. But the user said in \"Final Answer\":"
+            ]
+        },
+        {
+            "task": "MAINTASK: Towing a tillage implement across a field",
+            "subtasks": [
+                "Since I cannot confirm which transcript it is (since user didn't provide the actual video transcript), but given that the tasks look accurately related to farm operations, I'll accept the user's assertion that the video is relevant. Therefore, the tasks as listed by the user in the Final Answer are considered accurate, and I can proceed to reorganize them into standard tasks separated by line breaks, ensuring each MAINTASK and its SUBTASKs are clearly marked."
+            ]
+        },
+        {
+            "task": "Starting with the list provided in the Final Answer and processing each main task, enhancing or clarifying as necessary, but keeping them concise. When done, the answer from MAINTASK to MAINTASK with increasingly detailed subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Towing a tillage implement across a field",
+            "subtasks": [
+                "Starting the tractor",
+                "Engaging the draft power takeoff (PTO)",
+                "Guiding the tractor to pull the implement through the field",
+                "Maintenance check before operation",
+                "Monitoring the equipment during use"
+            ]
+        },
+        {
+            "task": "Loading a grain silo",
+            "subtasks": [
+                "Operating the grain auger or similar equipment",
+                "Climbing a ladder to access the silo top",
+                "Ensuring the grain is of proper moisture content",
+                "Calibrating the auger for correct flow rate",
+                "Emptying the grain tank of the combine harvester"
+            ]
+        },
+        {
+            "task": "Applying fertilizer via aerial spraying",
+            "subtasks": [
+                "Preparing the aircraft for flight",
+                "Loading fertilizer into the aircraft's tank",
+                "Conducting a pre-flight inspection",
+                "Flying the aircraft over the field while supervised",
+                "Diluting the fertilizer solution as needed",
+                "Monitoring weather conditions to avoid unsuitable spray days"
+            ]
+        },
+        {
+            "task": "Planting seeds into a prepared field",
+            "subtasks": [
+                "Operating the planter equipment",
+                "Ensuring proper seed depth and spacing",
+                "Adjusting seed rate based on soil and climate conditions",
+                "Maintenance of the planter before planting season",
+                "Calibration of planters for different seed types"
+            ]
+        },
+        {
+            "task": "Inspecting crop rows for weeds",
+            "subtasks": [
+                "Walking through the field to visually check rows",
+                "Identifying types and levels of weed infestation",
+                "Documenting areas requiring treatment",
+                "Determining appropriate herbicide application timing",
+                "Liaising with the spray team to adjust application"
+            ]
+        },
+        {
+            "task": "Intermittent activities during farm operation",
+            "subtasks": [
+                "Communicating with staff or family members",
+                "Periodic checks on livestock (if applicable)",
+                "Preparing seeds or other materials for planting",
+                "Maintaining equipment in a clean and organized manner",
+                "Rescheduling tasks based on changing weather conditions"
+            ]
+        },
+        {
+            "task": "Planting and maintaining a tree nursery",
+            "subtasks": [
+                "Transplanting seedlings into nursery beds",
+                "Watering and weeding the nursery plots",
+                "Protecting young plants from pests and diseases",
+                "Monitoring the growth and health of each sapling",
+                "Pruning and shape training for optimal growth",
+                "Rotating crops to prevent soil depletion (if mixed with agriculture)"
+            ]
+        },
+        {
+            "task": "Construction or maintenance of farm infrastructure",
+            "subtasks": [
+                "Excavation for foundations or drainage",
+                "Mixing concrete for structures or repair",
+                "Laying bricks or blocks in walls or fences",
+                "Shoveling soil or aggregate materials",
+                "Stacking bricks or other building materials"
+            ]
+        },
+        {
+            "task": "Welding farm equipment parts",
+            "subtasks": [
+                "Assembling components using welding techniques",
+                "Preparing metal pieces for welding",
+                "Inspecting welds for quality and integrity",
+                "Grinding weld edges for smoother finish",
+                "Applying paint or coatings to finished parts"
+            ]
+        },
+        {
+            "task": "Measuring and adjusting irrigation systems",
+            "subtasks": [
+                "Inspecting sprinkler heads or drip lines",
+                "Calculating proper water pressure and flow",
+                "Adjusting valve settings for uniform distribution",
+                "Testing irrigation system functionality before planting",
+                "Training staff on correct system operation"
+            ]
+        },
+        {
+            "task": "Conducting crop variety trials",
+            "subtasks": [
+                "Planting different crop varieties in experimental plots",
+                "Maintaining uniform growing conditions",
+                "Collecting data on yield and performance",
+                "Analyzing results for future planting strategies"
+            ]
+        },
+        {
+            "task": "Repairing fences or gates",
+            "subtasks": [
+                "Identifying damaged or weak sections",
+                "Securing tools for fence repair",
+                "Dismantling and replacing rotten boards or posts",
+                "Repainting fences for longevity",
+                "Mortgagor... (Incomprehensible part; possibly 'mortgagor'."
+            ]
+        },
+        {
+            "task": "Operating a combine harvester",
+            "subtasks": [
+                "Harvesting crops at the right maturity stage",
+                "Adjusting cutter bar setting for optimal threshing",
+                "Ensuring grain cleanout between different crops",
+                "Monitoring grain loss and adjusting settings accordingly",
+                "Driving the combine through fields with precise direction"
+            ]
+        },
+        {
+            "task": "Applying pesticides via aerial spraying",
+            "subtasks": [
+                "Selecting the correct pesticide and mixing ratio",
+                "Ensuring safety gear is worn",
+                "Checking wind direction and speed before spraying",
+                "Applying pesticide uniformly across the designated area",
+                "Collision avoidance during air passes over the fields"
+            ]
+        },
+        {
+            "task": "Operating a grain dryer",
+            "subtasks": [
+                "Feeding the dryer with harvested grain",
+                "Setting the desired temperature and airflow",
+                "Regular checks for leaks or blockages",
+                "Ensuring proper ventilation to prevent overheating",
+                "Emptying dried grain into storage bins"
+            ]
+        },
+        {
+            "task": "Implementing no-till farming practices",
+            "subtasks": [
+                "Assessing the field's suitability for no-till",
+                "Adjusting equipment for residue management",
+                "Planting seeds directly into undisturbed soil",
+                "Monitoring soil health and adjusting practices as needed"
+            ]
+        },
+        {
+            "task": "Milking dairy cows",
+            "subtasks": [
+                "Positioning the cow at the milking station",
+                "Attaching the milking cup cluster",
+                "Checking the teat cups for a secure fit",
+                "Initiating the milking process and monitoring progress",
+                "Disinfecting teats post-milking"
+            ]
+        },
+        {
+            "task": "Collecting eggs from a chicken coop",
+            "subtasks": [
+                "Opening the coop door for access",
+                "Gently gathering eggs from the nesting boxes",
+                "Checking for any damaged or unusual eggs",
+                "Storing the eggs properly for transportation",
+                "Cleaning and sanitizing the coop afterward"
+            ]
+        },
+        {
+            "task": "Feeding livestock during cold weather",
+            "subtasks": [
+                "Preparing feed mixtures for warmth",
+                "Checking windshelter and cleanliness of containment areas",
+                "Ensuring access to drinking water",
+                "Observing animals for signs of discomfort or distress"
+            ]
+        },
+        {
+            "task": "Performing a grain silo inspection",
+            "subtasks": [
+                "Climbing to the silo top for inspection",
+                "Checking the integrity of the roof and walls",
+                "Assessing for any structural damage or leaks",
+                "Ensuring proper ventilation and exhaust systems are functioning",
+                "Cleaning the silo exterior as needed"
+            ]
+        },
+        {
+            "task": "Operating a chiseling tool for soil aeration",
+            "subtasks": [
+                "Aligning the chisel plow in the field",
+                "Adjusting depth and spacing settings",
+                "Starting the chisel plow and operating it through the field",
+                "Monitoring the soil depth and impacts during operation",
+                "Ensuring the tool is set to appropriate intensity levels"
+            ]
+        },
+        {
+            "task": "Harvesting hay using a baler",
+            "subtasks": [
+                "Guiding the baler to properly cut and collect hay",
+                "Ensuring baling is consistent in size and weight",
+                "Loading bales onto the trailer for transport",
+                "Stacking bales neatly in the storage area"
+            ]
+        },
+        {
+            "task": "Road maintenance on muddy farm tracks",
+            "subtasks": [
+                "Preparing de-mudding equipment or chemicals",
+                "Applying materials to reduce mud on tracks",
+                "Driving on tracks to compact the treatment",
+                "Securing the area to prevent traffic until dry"
+            ]
+        },
+        {
+            "task": "Checking water transport systems for irrigation",
+            "subtasks": [
+                "Opening and closing valves to direct water flow",
+                "Inspecting pipes for leaks or blockages",
+                "Measuring water pressure and adjusting as needed",
+                "Using gauges to monitor water distribution in fields"
+            ]
+        },
+        {
+            "task": "Using a sledgehammer as a tool on a farm",
+            "subtasks": [
+                "Breaking up compacted ground or frost heaves",
+                "Demolishing old structures or equipment",
+                "Removing debris safely with the sledgehammer"
+            ]
+        },
+        {
+            "task": "Fixing a chainlink fence damage",
+            "subtasks": [
+                "Evaluating the extent of the damage",
+                "Obtaining necessary replacement materials",
+                "Cutting and installing new sections or links",
+                "Reinforcing the damaged area for security and integrity"
+            ]
+        },
+        {
+            "task": "Installing a windsock for field guidance",
+            "subtasks": [
+                "Attaching the windsock to a suitable pole or stand",
+                "Positioning the windsock where it can indicate prevailing winds",
+                "Ensuring visibility from key operational points in the field",
+                "Periodically checking the windsock's attachment for safety"
+            ]
+        },
+        {
+            "task": "Using a portable grain scaler to check crop weights",
+            "subtasks": [
+                "Weighing individual grain samples accurately",
+                "Comparing weights to expected averages based on field data",
+                "Logging the measurements for future reference or reporting"
+            ]
+        },
+        {
+            "task": "Dressing a joint in silicone during construction of a grain bin",
+            "subtasks": [
+                "Applying a silicon-based sealant to the joint",
+                "Cleaning the areas to be joined for adhesion",
+                "Ensuring the silicone is distributed evenly",
+                "Allow adequate curing time before exposing to grain"
+            ]
+        },
+        {
+            "task": "Applying herbicides via ground spraying",
+            "subtasks": [
+                "Calibrating the sprayer's nozzle to the correct spread",
+                "Walking the boundaries of the spraying area",
+                "Following a systematic pattern for even coverage",
+                "Checking for overlap or skips in application",
+                "Recording the treated areas and product usage"
+            ]
+        },
+        {
+            "task": "Draining a storage silo before cleaning",
+            "subtasks": [
+                "Opening the appropriate valves or doors to drain contents",
+                "Confirming that all materials are removed",
+                "Coordinating with cleaning crew for safety"
+            ]
+        },
+        {
+            "task": "Planting cover crops in field strips",
+            "subtasks": [
+                "Seeding the cover crops in designated rows or blocks",
+                "Adjusting the planter settings for different cover crop species",
+                "Ensuring adequate depth and spacing for good growth",
+                "Planning the cover crops to fix nitrogen or prevent erosion"
+            ]
+        },
+        {
+            "task": "Cleaning the inside of a grain bin",
+            "subtasks": [
+                "Ensuring personal safety with harnesses or ladders",
+                "Removing all remaining grain from the bin",
+                "Inspecting the interior for mold, vermin, or damage",
+                "Pressure washing or brushing the bin walls",
+                "Checking drainage holes for blockages and cleaning as necessary"
+            ]
+        },
+        {
+            "task": "Calculating the number of bags of formic acid needed for a sprayer",
+            "subtasks": [
+                "Understanding the required acid concentration for the applicator",
+                "Measuring the volume of solution to be prepared",
+                "Determining the formula for mixing formic acid with water",
+                "Labeling the mixture to avoid confusion"
+            ]
+        },
+        {
+            "task": "Practicing lifting technique for safely handling bales",
+            "subtasks": [
+                "Choosing the appropriate lifting position",
+                "Checking the bale for stability",
+                "Using both hands to grip the bale base",
+                "Lifting slowly and exhaling during exertion"
+            ]
+        },
+        {
+            "task": "Conducting livestock inventory during a dry season",
+            "subtasks": [
+                "Assembling the counting team",
+                "Walking through all pens or pastures",
+                "Marking or tagging counted animals",
+                "Checking for malnourished or sick animals",
+                "Report discrepancies or issues to management"
+            ]
+        },
+        {
+            "task": "Adjusting the alas (unclear; possible typo).",
+            "subtasks": []
+        },
+        {
+            "task": "Checking a chain oil level on a piece of equipment",
+            "subtasks": [
+                "Opening the oil filler cap on the hydraulic chain",
+                "Measuring the current oil level",
+                "Topping up the oil to the recommended level",
+                "Ensuring the oil is the correct type for the season"
+            ]
+        },
+        {
+            "task": "Operating a sharpener on a farming tool (confusion on \"engruteuse\").",
+            "subtasks": []
+        },
+        {
+            "task": "Capturing firewood with a loader bucket",
+            "subtasks": [
+                "Adjusting the loader's settings for maximum scoop",
+                "Driving the loader towards timber piles or fallen trees",
+                "Emptying the bucket into a designated stacking area",
+                "Ensuring the wood is neatly stacked for easy access"
+            ]
+        },
+        {
+            "task": "Planting a pipeline for irrigation",
+            "subtasks": [
+                "Marking the route with flags or stakes",
+                "Excavating the trench to required depth",
+                "Laying the pipeline in the trench",
+                "Covering the pipe with backfill soil",
+                "Testing the connection for leaks or damage"
+            ]
+        },
+        {
+            "task": "Cleaning lines in a field's subsurface irrigation system",
+            "subtasks": [
+                "Accessing the control valves for the lines",
+                "Installing a cleaning rod or jet to flush the lines",
+                "Operating flushing procedure until clean water runs through",
+                "Rechecking valves and potential leak points afterward",
+                "Documenting any maintenance issues"
+            ]
+        },
+        {
+            "task": "Applying a layer of compacted manure to fields",
+            "subtasks": [
+                "Guiding a manure spreader through the field",
+                "Adjusting spreader settings for desired coverage",
+                "Checking the spread manure's moisture level to avoid compaction",
+                "Ensuring uniform distribution across the field"
+            ]
+        },
+        {
+            "task": "Fixing a bulging tire on a tractor",
+            "subtasks": [
+                "Securing the tractor to a sturdy surface",
+                "Removing the faulty tire and wheel assembly",
+                "Applying sealant or patching the bulge",
+                "Reinstalling the tire and inflating to the proper pressure"
+            ]
+        },
+        {
+            "task": "Laying a windbreak in a field",
+            "subtasks": [
+                "Measuring and marking the row positions for planting trees",
+                "Planting the selected trees at the marked points",
+                "Watering and mulching each tree for better establishment",
+                "Ensuring proper spacing and orientation for wind deflection"
+            ]
+        },
+        {
+            "task": "Operating a baler to bale straw",
+            "subtasks": [
+                "Harvesting the straw with a header attached to a combine",
+                "Feeding the straw into the baler using proper handling",
+                "Tying or compacting the bales as per standards",
+                "Stacking the bales neatly and securely"
+            ]
+        },
+        {
+            "task": "Maintaining chicken coop ventilation during summer heat",
+            "subtasks": [
+                "Checking the operable vents or mesh for cooling",
+                "Ensuring that screens are intact to prevent escapes",
+                "Positioning fans to blow through the coop",
+                "Monitoring temperatures to ensure they do not exceed thresholds"
+            ]
+        },
+        {
+            "task": "Draining and resetting a sprayer tank",
+            "subtasks": [
+                "Emptying the remaining liquid into a safe, designated area",
+                "Cleaning the tank with water or appropriate cleaner",
+                "Conducting a pressure test to check for leaks",
+                "Refilling the tank with the required liquid and recalibrating"
+            ]
+        },
+        {
+            "task": "Transferring grain between two different bins",
+            "subtasks": [
+                "Ensuring the bins are both at their proper capacity",
+                "Opening the transfer chute and gates carefully",
+                "Monitoring the flow to prevent grain bridging or spillage",
+                "Stabilizing the grain levels to prevent uneven weight"
+            ]
+        },
+        {
+            "task": "Properly storing hay in outdoor stacks",
+            "subtasks": [
+                "Overlapping stacks to create a cone shape",
+                "Covering stacks with tarps to protect from rain",
+                "Using hay ties or netting to prevent collapse",
+                "Monitoring stacks for critter entry and rot"
+            ]
+        },
+        {
+            "task": "Installing gravel on a farm road",
+            "subtasks": [
+                "Surveying the roadbed for necessary grading",
+                "Distributing gravel uniformly along the road",
+                "Compacting the gravel with a roller or compactor",
+                "Edge trimming to prevent washout"
+            ]
+        },
+        {
+            "task": "Using a hoist to raise and lower a heavy object on the farm",
+            "subtasks": [
+                "Securing the heavy object to the hoist's sling",
+                "Ensuring the hoist is operating at its safe limits",
+                "Raising the object incrementally to check for load distribution",
+                "Lowering the object with precision to avoid impacts"
+            ]
+        },
+        {
+            "task": "Repairing a leaky drainage pipe in a field",
+            "subtasks": [
+                "Identifying and locating the leak point",
+                "Excavating around the pipe to access the area",
+                "Removing the damaged section and replacing it with new pipe",
+                "Testing the replacement by turning on the water flow",
+                "Refilling the excavation and tamping the soil"
+            ]
+        },
+        {
+            "task": "Operating a sprayer for foliar feeding",
+            "subtasks": [
+                "Translating the sprayer to a low pass mode for application",
+                "Choosing the appropriate nozzle and pressure settings",
+                "Applying the solution evenly across the targeted crop leaves",
+                "Ensuring coverage of both upper and lower leaf surfaces"
+            ]
+        },
+        {
+            "task": "Transporting fresh produce from the fields to the market",
+            "subtasks": [
+                "Loading boxes or crates with picked vegetables",
+                "Securing them on the truck bed or in a trailer",
+                "Inspecting the produce for bruising or damage",
+                "Collecting any necessary documentation for market entry",
+                "Conducting a pre-trip inspection on the transport vehicle"
+            ]
+        },
+        {
+            "task": "Pruning grapevines for optimal yield",
+            "subtasks": [
+                "Removing dead or overgrown branches",
+                "Trimming to open the canopy for better sunlight penetration",
+                "Applying the appropriate trimming techniques for the grape variety",
+                "Cleaning tools between vines to prevent disease spread"
+            ]
+        },
+        {
+            "task": "Mixing and applying fertilizer in a livestock pail",
+            "subtasks": [
+                "Selecting the correct fertilizer types for the application",
+                "Measuring the proper amounts into the pail",
+                "Thoroughly mixing the components",
+                "Distributing the mixture across the pasture or field"
+            ]
+        },
+        {
+            "task": "Feeding animal supplements to livestock via chute feeding",
+            "subtasks": [
+                "Preparing the supplement mix for consistency",
+                "Walking through the pens with the feeding chute",
+                "Directing the chute down the correct livestock entry",
+                "Ensuring accurate amount per animal noted in logs"
+            ]
+        },
+        {
+            "task": "Intermittent note-taking during farm activities",
+            "subtasks": [
+                "Writing observations or data on a notepad",
+                "Filling out forms related to specific tasks",
+                "Entering data into a digital device such as a tablet"
+            ]
+        },
+        {
+            "task": "Installing a new turbine for electricity generation on the farm",
+            "subtasks": [
+                "Assessing the turbine's compatibility with existing structures",
+                "Assembling turbine parts on-site",
+                "Securing the turbine to the selected location",
+                "Connecting the turbine to the electrical grid"
+            ]
+        },
+        {
+            "task": "Managing worm compost bins on a farm",
+            "subtasks": [
+                "Feeding the worms with organic waste",
+                "Monitoring sensory input for optimal conditions",
+                "Harvesting compost at appropriate intervals",
+                "Protecting from extreme temperatures and pests"
+            ]
+        },
+        {
+            "task": "Conducting soil testing for pH and nutrient levels",
+            "subtasks": [
+                "Collecting soil samples from various field locations",
+                "Sending the samples to a laboratory for analysis",
+                "Reviewing the results for nutrient deficiencies or excesses",
+                "Developing a fertilizer application plan based on results"
+            ]
+        },
+        {
+            "task": "Driving a tractor through mature cornfields",
+            "subtasks": [
+                "Guiding the tractor to prevent tilling the stalks into the ground",
+                "Harvesting corn ears by hand or with a grain platform",
+                "Loading the grain tank of the combine efficiently",
+                "Moving from field to field for optimal harvesting sequence"
+            ]
+        },
+        {
+            "task": "Securing livestock trailers while transporting animals",
+            "subtasks": [
+                "Attaching appropriate locks or lower allowing barriers",
+                "Checking all gates and doors to prevent escape during transit",
+                "Ensuring there are ventilation slats or openings for fresh air",
+                "Providing additional hay or food as needed during transport"
             ]
         }
     ]

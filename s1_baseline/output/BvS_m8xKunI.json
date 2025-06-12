@@ -5,89 +5,15 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Drive to a dairy farm",
+            "task": "Touring a dairy farm and recording activities",
             "subtasks": [
-                "Enter a vehicle",
-                "Operate vehicle to drive 15 minutes",
-                "Arrive at a lookout over the Murray River",
-                "Check wind conditions",
-                "Activate a drone if wind permits"
-            ]
-        },
-        {
-            "task": "Tour a dairy farm",
-            "subtasks": [
-                "Observe cows being brought in",
-                "Operate hydraulic lever for feeding cows",
-                "Assist in milking process",
-                "Handle fresh eggs, beef, and lamb patties",
-                "Prepare and cook meal with dairy farm products",
-                "entering and operating the vehicle, driving to the lookout (maybe to check wind conditions for drone?) so another task.",
-                "\"Tour a dairy farm\" with SUBTASKs: observe cows being brought in, operate hydraulic lever, assist in milking process, handle farm products, cook and consume meal.",
-                "Check weather before drone operation."
-            ]
-        },
-        {
-            "task": "Drive to a dairy farm",
-            "subtasks": [
-                "Enter vehicle",
-                "Drive for 15 minutes",
-                "Arrive at the lookout over the Murray River",
-                "Check wind conditions for drone use"
-            ]
-        },
-        {
-            "task": "Tour the dairy farm",
-            "subtasks": [
-                "Observe cows being brought in",
-                "Operate hydraulic lever (for feeding or something)",
-                "Assist in the milking process (implied)",
-                "Handle and eat farm products (eggs, meat)"
-            ]
-        },
-        {
-            "task": "\u5f00\u8f66\u5230\u5976\u725b\u519c\u573a**",
-            "subtasks": [
-                "\u8fdb\u5165\u8f66\u8f86**",
-                "\u9a7e\u8f66\u884c\u9a7615\u5206\u949f**",
-                "\u5230\u8fbe\u574e\u4f69\u6069\u6cb3\u4e0a\u7684\u89c2\u666f\u53f0**",
-                "\u68c0\u67e5\u98ce\u5411\u4ee5\u51b3\u5b9a\u662f\u5426\u653e\u98de\u65e0\u4eba\u673a**"
-            ]
-        },
-        {
-            "task": "\u5976\u725b\u519c\u573a\u4e4b\u65c5**",
-            "subtasks": [
-                "\u89c2\u5bdf\u5976\u725b\u88ab\u5f15\u5bfc\u8fdb\u5165\u6324\u5976\u5927\u68da**",
-                "\u64cd\u4f5c\u6db2\u538b\u88c5\u7f6e\u4e3a\u5976\u725b\u6295\u98df**",
-                "\u534f\u52a9\u6324\u5976\u8fc7\u7a0b**",
-                "\u5904\u7406\u519c\u573a\u4ea7\u54c1 (\u9e21\u86cb\u3001\u725b\u8089\u3001\u7f8a\u8089\u5207\u8089)**",
-                "\u51c6\u5907\u5e76\u4eab\u7528\u7528\u519c\u573a\u4ea7\u54c1\u70f9\u996a\u7684\u83dc\u80b4**"
-            ]
-        },
-        {
-            "task": "Drive to a Dairy Farm",
-            "subtasks": []
-        },
-        {
-            "task": "Tour the Dairy Farm",
-            "subtasks": []
-        },
-        {
-            "task": "Drive to a dairy farm",
-            "subtasks": [
-                "Enter vehicle",
-                "Drive for 15 minutes",
-                "Arrive at the lookout over the Murray River",
-                "Check wind conditions for drone use"
-            ]
-        },
-        {
-            "task": "Tour the dairy farm",
-            "subtasks": [
-                "Observe cows being brought in",
-                "Operate hydraulic lever for feeding cows",
-                "Assist in the milking process (implied)",
-                "Handle and eat farm products (eggs, meat)"
+                "Observing cows being brought into the dairy",
+                "Operating a hydraulic lever to dispense grain for the cows",
+                "Recording the cows' response to the grain",
+                "Noting the direct release of milk from the udders (milking process)",
+                "Performing a drone flight over the farm",
+                "Enjoying a camp cook-up with fresh dairy products (eggs, beef, lamb)",
+                "Grilling the cows directly after they were milked"
             ]
         }
     ]

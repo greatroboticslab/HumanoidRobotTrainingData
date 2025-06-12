@@ -5,65 +5,431 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Pilot a bee truck from hive to field",
+            "task": "Logging in to System (Computer Task)}",
             "subtasks": [
-                "Enter the bee truck",
-                "Secure bee boxes in the truck",
-                "Drive the bee truck to the intended field",
-                "Align the truck with the field entrance",
-                "Unload bee boxes from the truck",
-                "Place bee boxes in the designated field area"
+                "Enter login credentials}",
+                "Click 'Login' button}",
+                "Wait for Dashboard to load}"
             ]
         },
         {
-            "task": "Plant seeds in the field",
+            "task": "Drive Tractor to Field (Agricultural Operation)}",
             "subtasks": [
-                "Approach the seed drill",
-                "Load the seed drill with seeds",
-                "Adjust the drill depth and furrow spacing",
-                "Attach the seed drill to the tractor",
-                "Drive the tractor to the field rows",
-                "Operate the seed drill to plant seeds in rows"
+                "Turn tractor on}",
+                "Adjust steering to align with path}",
+                "Accelerate tractor to appropriate speed}",
+                "Maneuver tractor into position for plowing}",
+                "Use steering wheel to follow rows}"
             ]
         },
         {
-            "task": "Monitor the bees' activity",
+            "task": "Manipulate Plow Mechanism (Farming Equipment Operation)}",
             "subtasks": [
-                "Check on the bees periodically while they forage",
-                "Assess whether the bees are collecting sufficient nectar",
-                "Adjust bee placement if necessary to optimize pollination coverage"
+                "Engage plow blades}",
+                "Monitor ground depth while plowing}",
+                "Adjust plow angle as needed}",
+                "Check for obstructions in blade path}"
             ]
         },
         {
-            "task": "Handle hive management while in transit",
+            "task": "Return Tractor to Shed (Agricultural Operation)}",
             "subtasks": [
-                "Ensure the hives are secure during transport",
-                "Minimize movement to avoid swarming",
-                "Monitor bees for signs of stress during transit"
+                "Slow down tractor approach to shed}",
+                "Align tractor with entrance of shed}",
+                "Turn off tractor engine}",
+                "Park tractor in designated area}",
+                "Secure tractor wheels if necessary}"
             ]
         },
         {
-            "task": "Adjust tractor settings during planting",
+            "task": "Operate Cultivator (Agricultural Operation)}",
             "subtasks": [
-                "Modify the planter's speed",
-                "Clamp down on seeds for proper planting depth",
-                "Monitor the drill\u5f00\u5b54\u5668 for efficiency",
-                "Refill seed boxes as needed"
+                "Insert cultivator tines into ground}",
+                "Control depth of cultivator furrows}",
+                "Walk behind cultivator, guiding direction}",
+                "Check for proper soil coverage and seed placement}"
             ]
         },
         {
-            "task": "Navigate the field efficiently",
+            "task": "Apply Fertilizer (Agricultural Task)}",
             "subtasks": [
-                "Determine the most effective route through the field",
-                "Adjust the tractor's direction as needed",
-                "Maintain a steady speed for consistent planting"
+                "Load fertilizer hopper}",
+                "Operate fertilizer spreader mechanism}",
+                "Monitor distribution pattern}",
+                "Regulate speed to avoid excess application}"
             ]
         },
         {
-            "task": "Protect hive loading",
+            "task": "Contribute to Farm Management (Business Aspect)}",
             "subtasks": [
-                "Precautionary measures when moving hives to prevent escapes",
-                "Secure lids tightly after loading bees into the truck"
+                "Enter crop data into system}",
+                "Note field conditions and equipment status}",
+                "Receive and execute field reports}",
+                "Update farm operations dashboard}"
+            ]
+        },
+        {
+            "task": "Communicate with Team Members (Interpersonal Skill)}",
+            "subtasks": [
+                "Relay instructions to ground crew}",
+                "Coordinate plowing schedule with others}",
+                "Confirm readiness for next machine operation}",
+                "Offer guidance on equipment use}"
+            ]
+        },
+        {
+            "task": "Monitor Soil Moisture (Agricultural Task)}",
+            "subtasks": [
+                "Use soil probe to check moisture level}",
+                "Compare readings with data from probe}",
+                "Adjust irrigation schedule accordingly}",
+                "Note any unexpected dry spots}"
+            ]
+        },
+        {
+            "task": "Conduct Pre-Operation Check on Tractor (Safety)}",
+            "subtasks": [
+                "Inspect tires for proper inflation}",
+                "Check fuel levels and refill if necessary}",
+                "Test lights and signals}",
+                "Lubricate necessary components}",
+                "Tighten any loose nuts or bolts}"
+            ]
+        },
+        {
+            "task": "Transport Crop to Market (Logistics)}",
+            "subtasks": [
+                "Load harvested crops onto truck}",
+                "Weigh crop to calculate yield}",
+                "Arrange delivery schedule with market}",
+                "Secure cargo during transport}",
+                "Check vehicle for any damage prior to departure}"
+            ]
+        },
+        {
+            "task": "Plant Seedlings (Husbandry Task)}",
+            "subtasks": [
+                "Gather seedlings from nursery}",
+                "Prepare planting holes at correct spacing}",
+                "Insert seedlings into holes, ensuring proper depth}",
+                "Water newly planted seedlings}",
+                "Cover holes with soil and tamp down}"
+            ]
+        },
+        {
+            "task": "Supply Nutrition to Crops (Agriculture)}",
+            "subtasks": [
+                "Mix nutrient solution}",
+                "Apply fertilizer to soil as directed}",
+                "Monitor plant health for nutrient deficiencies}",
+                "Adjust fertilizer application as needed based on growth}"
+            ]
+        },
+        {
+            "task": "Respond to Animal Distress (Husbandry Care)}",
+            "subtasks": [
+                "Notice signs of animal distress in field}",
+                "Approach the animal slowly, avoiding aggression}",
+                "Check for injuries or illness}",
+                "Call veterinary services if necessary}",
+                "Provide temporary care until expert arrives}"
+            ]
+        },
+        {
+            "task": "Monitor Field Conditions (Monitoring Task)}",
+            "subtasks": [
+                "Check weather reports for upcoming changes}",
+                "Evaluate soil moisture levels across the field}",
+                "Inspect for pest or disease infestations}",
+                "Note any structural damages to equipment}",
+                "Update maintenance calendar}"
+            ]
+        },
+        {
+            "task": "Organize Tools and Equipment (Organizational Task)}",
+            "subtasks": [
+                "Return tools to toolbox after use}",
+                "Label and store seeds properly}",
+                "Check parts inventory for replacements}",
+                "Clean equipment and apply protective oils}",
+                "Arrange work schedule for the following day}"
+            ]
+        },
+        {
+            "task": "Prepare Soil Before Planting (Agricultural Prep)}",
+            "subtasks": [
+                "Turn soil using a tiller}",
+                "Remove weeds or debris from surface}",
+                "Level the soil to ensure even planting}",
+                "Apply any necessary amendments like lime or sulfur}"
+            ]
+        },
+        {
+            "task": "Harvest Crops (Physical Labor)}",
+            "subtasks": [
+                "Identify ripe crops ready for harvest}",
+                "Use sickle or harvesting machine}",
+                "Gather crops into bundles}",
+                "Transfer harvested goods to storage area}"
+            ]
+        },
+        {
+            "task": "Prime Threshing Machine (Equipment Operation)}",
+            "subtasks": [
+                "Feed crops into machine one by one}",
+                "Regulate the speed of crop entry}",
+                "Operate sieves to separate grains from chaff}",
+                "Ensure proper drying and storage of threshed grain}"
+            ]
+        },
+        {
+            "task": "Fix Equipment Issue (Maintenance Task)}",
+            "subtasks": [
+                "Identify the faulty part causing stopping}",
+                "Refer to manual for troubleshooting procedure}",
+                "Replace or adjust broken/loose parts}",
+                "Test machine functionality after repairs}"
+            ]
+        },
+        {
+            "task": "Inspect Field for Damage (Agricultural Monitoring)}",
+            "subtasks": [
+                "Walk across field to assess crop health}",
+                "Check for signs of pests or nutrient deficiencies}",
+                "Note areas with uneven growth or lodging}",
+                "Take samples for lab analysis if required}"
+            ]
+        },
+        {
+            "task": "Communicate with Market for Orders (Business Engagement)}",
+            "subtasks": [
+                "Contact market representative to discuss orders}",
+                "Confirm quantities and delivery times}",
+                "Arrange payment terms and deadlines}",
+                "Schedule delivery pick-up date}"
+            ]
+        },
+        {
+            "task": "Apply Weed Killer (Husbandry Task)}",
+            "subtasks": [
+                "Mix weed killer according to instructions}",
+                "Spray the solution onto targeted weeds}",
+                "Cover all needed areas without overspill}",
+                "Dispose of used containers properly}"
+            ]
+        },
+        {
+            "task": "Logging in to System (Computer Task)",
+            "subtasks": [
+                "Enter login credentials",
+                "Click 'Login' button",
+                "Wait for Dashboard to load"
+            ]
+        },
+        {
+            "task": "Drive Tractor to Field (Agricultural Operation)",
+            "subtasks": [
+                "Turn tractor on",
+                "Adjust steering to align with path",
+                "Accelerate tractor to appropriate speed",
+                "Maneuver tractor into position for plowing",
+                "Use steering wheel to follow rows"
+            ]
+        },
+        {
+            "task": "Manipulate Plow Mechanism (Farming Equipment Operation)",
+            "subtasks": [
+                "Engage plow blades",
+                "Monitor ground depth while plowing",
+                "Adjust plow angle as needed",
+                "Check for obstructions in blade path"
+            ]
+        },
+        {
+            "task": "Return Tractor to Shed (Agricultural Operation)",
+            "subtasks": [
+                "Slow down tractor approach to shed",
+                "Align tractor with entrance of shed",
+                "Turn off tractor engine",
+                "Park tractor in designated area",
+                "Secure tractor wheels if necessary"
+            ]
+        },
+        {
+            "task": "Operate Cultivator (Agricultural Operation)",
+            "subtasks": [
+                "Insert cultivator tines into ground",
+                "Control depth of cultivator furrows",
+                "Walk behind cultivator, guiding direction",
+                "Check for proper soil coverage and seed placement"
+            ]
+        },
+        {
+            "task": "Apply Fertilizer (Agricultural Task)",
+            "subtasks": [
+                "Load fertilizer hopper",
+                "Operate fertilizer spreader mechanism",
+                "Monitor distribution pattern",
+                "Regulate speed to avoid excess application"
+            ]
+        },
+        {
+            "task": "Contribute to Farm Management (Business Aspect)",
+            "subtasks": [
+                "Enter crop data into system",
+                "Note field conditions and equipment status",
+                "Receive and execute field reports",
+                "Update farm operations dashboard"
+            ]
+        },
+        {
+            "task": "Communicate with Team Members (Interpersonal Skill)",
+            "subtasks": [
+                "Relay instructions to ground crew",
+                "Coordinate plowing schedule with others",
+                "Confirm readiness for next machine operation",
+                "Offer guidance on equipment use"
+            ]
+        },
+        {
+            "task": "Monitor Soil Moisture (Agricultural Task)",
+            "subtasks": [
+                "Use soil probe to check moisture level",
+                "Compare readings with data from probe",
+                "Adjust irrigation schedule accordingly",
+                "Note any unexpected dry spots"
+            ]
+        },
+        {
+            "task": "Conduct Pre-Operation Check on Tractor (Safety)",
+            "subtasks": [
+                "Inspect tires for proper inflation",
+                "Check fuel levels and refill if necessary",
+                "Test lights and signals",
+                "Lubricate necessary components",
+                "Tighten any loose nuts or bolts"
+            ]
+        },
+        {
+            "task": "Transport Crop to Market (Logistics)",
+            "subtasks": [
+                "Load harvested crops onto truck",
+                "Weigh crop to calculate yield",
+                "Arrange delivery schedule with market",
+                "Secure cargo during transport",
+                "Check vehicle for any damage prior to departure"
+            ]
+        },
+        {
+            "task": "Plant Seedlings (Husbandry Task)",
+            "subtasks": [
+                "Gather seedlings from nursery",
+                "Prepare planting holes at correct spacing",
+                "Insert seedlings into holes, ensuring proper depth",
+                "Water newly planted seedlings",
+                "Cover holes with soil and tamp down"
+            ]
+        },
+        {
+            "task": "Supply Nutrition to Crops (Agriculture)",
+            "subtasks": [
+                "Mix nutrient solution",
+                "Apply fertilizer to soil as directed",
+                "Monitor plant health for nutrient deficiencies",
+                "Adjust fertilizer application as needed based on growth"
+            ]
+        },
+        {
+            "task": "Respond to Animal Distress (Husbandry Care)",
+            "subtasks": [
+                "Notice signs of animal distress in field",
+                "Approach the animal slowly, avoiding aggression",
+                "Check for injuries or illness",
+                "Call veterinary services if necessary",
+                "Provide temporary care until expert arrives"
+            ]
+        },
+        {
+            "task": "Monitor Field Conditions (Monitoring Task)",
+            "subtasks": [
+                "Check weather reports for upcoming changes",
+                "Evaluate soil moisture levels across the field",
+                "Inspect for pest or disease infestations",
+                "Note any structural damages to equipment",
+                "Update maintenance calendar"
+            ]
+        },
+        {
+            "task": "Organize Tools and Equipment (Organizational Task)",
+            "subtasks": [
+                "Return tools to toolbox after use",
+                "Label and store seeds properly",
+                "Check parts inventory for replacements",
+                "Clean equipment and apply protective oils",
+                "Arrange work schedule for the following day"
+            ]
+        },
+        {
+            "task": "Prepare Soil Before Planting (Agricultural Prep)",
+            "subtasks": [
+                "Turn soil using a tiller",
+                "Remove weeds or debris from surface",
+                "Level the soil to ensure even planting",
+                "Apply any necessary amendments like lime or sulfur"
+            ]
+        },
+        {
+            "task": "Harvest Crops (Physical Labor)",
+            "subtasks": [
+                "Identify ripe crops ready for harvest",
+                "Use sickle or harvesting machine",
+                "Gather crops into bundles",
+                "Transfer harvested goods to storage area"
+            ]
+        },
+        {
+            "task": "Prime Threshing Machine (Equipment Operation)",
+            "subtasks": [
+                "Feed crops into machine one by one",
+                "Regulate the speed of crop entry",
+                "Operate sieves to separate grains from chaff",
+                "Ensure proper drying and storage of threshed grain"
+            ]
+        },
+        {
+            "task": "Fix Equipment Issue (Maintenance Task)",
+            "subtasks": [
+                "Identify the faulty part causing stopping",
+                "Refer to manual for troubleshooting procedure",
+                "Replace or adjust broken/loose parts",
+                "Test machine functionality after repairs"
+            ]
+        },
+        {
+            "task": "Inspect Field for Damage (Agricultural Monitoring)",
+            "subtasks": [
+                "Walk across field to assess crop health",
+                "Check for signs of pests or nutrient deficiencies",
+                "Note areas with uneven growth or lodging",
+                "Take samples for lab analysis if required"
+            ]
+        },
+        {
+            "task": "Communicate with Market for Orders (Business Engagement)",
+            "subtasks": [
+                "Contact market representative to discuss orders",
+                "Confirm quantities and delivery times",
+                "Arrange payment terms and deadlines",
+                "Schedule delivery pick-up date"
+            ]
+        },
+        {
+            "task": "Apply Weed Killer (Husbandry Task)",
+            "subtasks": [
+                "Mix weed killer according to instructions",
+                "Spray the solution onto targeted weeds",
+                "Cover all needed areas without overspill",
+                "Dispose of used containers properly"
             ]
         }
     ]

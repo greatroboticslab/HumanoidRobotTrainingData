@@ -5,57 +5,137 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Operating cover crop management on an organic farm",
+            "task": "Operating a spader and implementing cover crops on a vegetable farm.",
             "subtasks": [
-                "Seeding cover crops in spring (peas and oats)",
-                "Seeding cover crops in late summer (winter rye and hairy vetch)",
-                "Cultivating peas and oats when young for harvest",
-                "Turning over cover crop strips for transplanting tomatoes (using tractor and mower)",
-                "Utilizing cover crop mulch for tomato beds",
-                "Managing cover crops for potato beetle deterrence (timed knockdown)",
-                "Tillage using a spader to incorporate cover crops",
-                "Preparing seed beds with a field cultivator after spader work"
+                "Using a tractor to till the soil with a spader.",
+                "Timing the spading of cover crops (e.g., hairy vetch and rye) for optimal biomass contribution.",
+                "Harvesting pea shoots for early spring income.",
+                "Managing tomato plant beds with straw mulch and trellising.",
+                "Utilizing cover crop strips for pest management (e.g., Colorado potato beetles)."
             ]
         },
         {
-            "task": "Crop cultivation and rotation",
+            "task": "Utilizing green manure crops for soil fertility.",
             "subtasks": [
-                "Transplanting tomato plants into prepared beds",
-                "Planting potatoes using a spader for incorporation"
+                "Sowing legume-based cover crops (e.g., peas and oats) in the spring.",
+                "Planting winter rye and hairy vetch in late summer/early fall.",
+                "Managing the growth stage of cover crops before mowing and incorporation."
             ]
         },
         {
-            "task": "Weed control and pest management",
+            "task": "Managing pest prevention through cover cropping.",
             "subtasks": [
-                "Cultivating weeds around tomato plants",
-                "Hilling potatoes to protect from pests",
-                "Spot spraying potato beetles as needed",
-                "Monitoring potato beetle activity in fields"
+                "Confusing pests (e.g., Colorado potato beetles) with cover crop strips.",
+                "Timing spading operations to coincide with pest activity cycles."
             ]
         },
         {
-            "task": "Soil stewardship practices",
+            "task": "Mulching and weed control for potato crops.",
             "subtasks": [
-                "Maximizing biomass through cover cropping",
-                "Feeding soil with organic matter",
-                "Confusing pests (Colorado potato beetles) with cover crop strips",
-                "Protecting soil structure using a spader and field cultivator"
+                "Applying straw mulch to potato plants.",
+                "Controlling weeds around potato plants using cultivation methods."
             ]
         },
         {
-            "task": "Operating cover crop management on an organic farm",
+            "task": "Implementing integrated pest management techniques.",
+            "subtasks": [
+                "Monitoring disease susceptibility in wide-spaced crops like tomatoes.",
+                "Applying targeted spot-spraying for pest control if necessary."
+            ]
+        },
+        {
+            "task": "Cultivating heirloom tomatoes and other specialty crops.",
+            "subtasks": [
+                "Knowledge of heirloom varieties and their planting times.",
+                "Managing the spacing and support of tomatoes using basket weed systems."
+            ]
+        },
+        {
+            "task": "The farm uses cover crops, like peas and oats in the spring and rye and hairy vetch in the fall. Spading the cover crops with a spader. So MAINTASK would be operating a spader and implementing cover crops. Then subtasks: using the tractor for spading (subtask), timing when to spade the cover crops for maximum biomass (subtask). They mentioned spading in mid-April for the rye and vetch. Also, harvesting the peas early for income (subtask) like four to six weeks after planting. So that's a separate task.",
             "subtasks": []
         },
         {
-            "task": "Crop cultivation and rotation",
+            "task": "Cover crops also fix nitrogen, which is part of their green manure strategy (MAINTASK). So sowing the legume cover crops in spring (subtask) and fall (subtask). They sow peas and oats in spring, then rye and vetch in late summer. Managing the growth stage of the cover crops before mowing\u2014so the vetch starts flowering or rye is in pollen stage (subtask). That's another timing aspect.",
             "subtasks": []
         },
         {
-            "task": "Weed control and pest management",
+            "task": "Operating a spader and implementing cover crops.",
             "subtasks": []
         },
         {
-            "task": "Soil stewardship practices",
+            "task": "Managing tomato beds.",
+            "subtasks": []
+        },
+        {
+            "task": "Managing pests through cover cropping.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a spader and implementing cover crops",
+            "subtasks": []
+        },
+        {
+            "task": "Using a tractor to till the soil with a spader (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Timing the spading of cover crops (e.g., hairy vetch and rye) for optimal biomass (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Sowing legume-based cover crops (e.g., peas and oats) in the spring (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Planting winter rye and hairy vetch in late summer/early fall (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Managing the growth stage of cover crops before mowing (e.g., when vetch starts flowering or rye is in pollen stage) (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Managing tomato beds",
+            "subtasks": []
+        },
+        {
+            "task": "Planting tomatoes in wide spacing for disease management (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Applying straw mulch around tomato plants (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up trellises for support (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Cultivating to control weeds (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Monitoring for disease and applying spot-spraying if necessary (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Managing pests through cover cropping",
+            "subtasks": []
+        },
+        {
+            "task": "Planting cover crops to confuse pests (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Timing spading operations to coincide with pest activity cycles (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Applying straw mulch around potato plants (MAINTASK)",
+            "subtasks": []
+        },
+        {
+            "task": "Monitoring potato beetles and controlling selectively (MAINTASK)",
             "subtasks": []
         }
     ]

@@ -5,17 +5,66 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Setting up a drip line irrigation system for a garden",
+            "task": "Setting up a drip irrigation system for a garden",
             "subtasks": [
+                "Installing a drip line irrigation system to improve water efficiency",
                 "Replacing a tine on a broad fork",
-                "Welding a replacement part for the drip line system",
-                "Installing a filter for the irrigation system",
-                "Installing reducing T-junctions for the irrigation lines",
-                "Attaching ball valves to manage the irrigation system",
-                "Drilling holes for the drip lines in the irrigation sub-main",
-                "Connecting drip lines to the irrigation system",
-                "Preparing the garden beds for the new irrigation system",
-                "Monitoring and maintaining the irrigation system"
+                "Welding a metal part for the irrigation system",
+                "Planning the layout of the drip lines for garden beds",
+                "Preparing the garden beds for the new irrigation system by rotating crops",
+                "Showcasing the existing garden setup and explaining the benefits of the new irrigation system"
+            ]
+        },
+        {
+            "task": "MAINTASK: Setting up a drip irrigation system for a garden.",
+            "subtasks": [
+                "SUBTASK: Repairing a broad fork. Wait, but in the transcript, he mentions he's not installing the drip line today, but he's replacing a tine on the broad fork. So maybe the main task is setting up the irrigation system, but the subtask related to tool maintenance would be replacing the tine.",
+                "SUBTASK: Welding a metal component for the irrigation system.",
+                "SUBTASK: Mapping out the placement of drip lines for the garden beds.",
+                "SUBTASK: Rotating crops in the garden for the upcoming season.",
+                "wait, the filter is part of the system. So the subtasks include getting the right filtration (ST): SUBTASK: Ensuring proper filtration for the irrigation system to prevent clogs.",
+                "SUBTASK: Installing inline emitters in the drip lines."
+            ]
+        },
+        {
+            "task": "Setting up a drip irrigation system for a garden.",
+            "subtasks": [
+                "Repairing a broad fork tine.",
+                "Welding a metal component for the drip line system.",
+                "Planning the layout of the drip lines for the garden beds.",
+                "Rotating crops in the garden for the new irrigation system."
+            ]
+        },
+        {
+            "task": "Setting up a drip line irrigation system.",
+            "subtasks": [
+                "- Repairing a broad fork tine (SUBTASK).",
+                "- Welding metal components (SUBTASK).",
+                "- Preparing the line layout (SUBTASK).",
+                "- Rotating crops to prepare for the new irrigation system (SUBTASK).",
+                "Preparing garden beds for new planting. So in South Africa, \"composing\" might mean turning the soil or composting. So you might till the soil, mix in compost or old plants, a subtask related to soil preparation."
+            ]
+        },
+        {
+            "task": "Setting up a drip irrigation system for a garden",
+            "subtasks": [
+                "Repairing a broad fork tine",
+                "Welding a metal component for the irrigation system",
+                "Monitoring and planning the layout of the drip lines",
+                "Rotating crops and preparing beds for the new system"
+            ]
+        },
+        {
+            "task": "Setting up a drip irrigation system for a garden",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up a drip irrigation system for a garden",
+            "subtasks": [
+                "Repairing a broad fork tine",
+                "Welding a metal component for the irrigation system",
+                "Planning the placement of drip lines for garden beds",
+                "Rotating crops in the garden Prepare for the new irrigation system"
             ]
         }
     ]

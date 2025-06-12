@@ -5,18 +5,64 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Attend online agricultural science conference panel discussion focusing on data interoperability and challenges.",
+            "task": "Panel at DCMI 2020 on Challenges in Food and Agriculture Information",
             "subtasks": [
-                "Greet participants from different time zones.",
-                "Introduce panelists and their roles in agricultural data management.",
-                "Summarize AgData Commons\u2019 role in metadata curation and access for USDA-funded research.",
-                "Highlight challenges in metadata quality and cross-language data integration for AgData Commons.",
-                "Explain AGRIS system evolution, multilingual metadata management, and integration challenges.",
-                "Discuss Beijing Academy of Agriculture and Forestry Sciences\u2019 experiences with data resource construction and semantic technologies.",
-                "Present CGIR\u2019s efforts in big data, FAIR principles, and cross-center data sharing.",
-                "Emphasize the importance of controlled vocabularies, metadata standards, and cross-sector collaboration for data accessibility.",
-                "Encourage culture change and incentives for researchers to improve data metadata and management practices.",
-                "Address challenges in harmonizing metadata across diverse data sources and recommend standardizing practices."
+                "Introduce Erin Antonioli from USDA NAL",
+                "Present AgData Commons as a catalog and repository for USDA-funded research data",
+                "Highlight key features of AgData Commons (e.g., metadata standards, search, access, DOI tagging)",
+                "Address challenges in metadata requirements balance",
+                "Discuss role of controlled vocabularies and the USDA's NAL Thesaurus",
+                "Explain AgCross integration and data.gov submission processes",
+                "Brief on challenges like search performance, multilingualism, and linked data integration"
+            ]
+        },
+        {
+            "task": "Fabrizio Celli from FAO on AGRIS Database",
+            "subtasks": [
+                "History and evolution of AGRIS (1974 initiative, now over 400 data providers)",
+                "Challenges in integrating data from diverse sources (difficulties in metadata quality, encoding, and multilingualism)",
+                "Data integration processes, including manual validation, format conversion, and metadata enrichment",
+                "Use of AGRAVOC for classification and multilingual search enhancement",
+                "Strategies for dealing with automatic data ingestion and harvesting"
+            ]
+        },
+        {
+            "task": "Shio-Yin King from Beijing Academy of Agriculture's presentation (via video)",
+            "subtasks": [
+                "Overview of agricultural information resource construction at BAFS, including Beijing Agriculture Think Tank Platform",
+                "Challenges in resource construction (data from multiple sources, language issues, metadata standards)",
+                "Standardization efforts using STCourse vocabulary and core metadata models",
+                "Plans for future AI/AK and multilingual unified retrieval"
+            ]
+        },
+        {
+            "task": "Medha Devare from IFPRI on CGIR Big Data Platform",
+            "subtasks": [
+                "Introduction of CGIAR's 15 centers and focus on poverty reduction, food security",
+                "Challenges in open data and FAIR standards adoption in research",
+                "Data discovery portal (Guardian) and interoperable data from various sources (USDA, World Bank, gene banks)",
+                "FAIR workflow approaches (metadata enrichment, ontology integration, data visualization)",
+                "Broader discussion on cultural change, tooling, and incentives for better data management"
+            ]
+        },
+        {
+            "task": "Laura Megdaleno from Land Portal Foundation",
+            "subtasks": [
+                "Land Portal's role in land governance data aggregation and standardization",
+                "LandVoc (subset of AgroVoc) for subject control, and challenges with multilingual metadata",
+                "Strategies for dealing with fragmented data sources and harmonization needs",
+                "Emphasis on community building and capacity development for data standards adoption",
+                "Call for collaboration to improve data interoperability and promote open access"
+            ]
+        },
+        {
+            "task": "Roundtable discussion and Q&A",
+            "subtasks": [
+                "Panelists discuss recommendations for metadata quality and best practices",
+                "Highlight of the need for capacity building, education, tooling, and cultural change",
+                "Idea sharing on cross-organizational cooperation for standardization and data sharing",
+                "Exploration of leveraging existing vocabularies (e.g., AGRAVOC, LandVoc) for semantic interoperability",
+                "Reflection on passing promising on open FAIR data practices and research use-cases"
             ]
         }
     ]

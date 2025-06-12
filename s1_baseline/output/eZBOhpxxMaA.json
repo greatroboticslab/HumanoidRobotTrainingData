@@ -5,109 +5,59 @@
     "category": "Howto & Style",
     "tasks": [
         {
-            "task": "Operating a mechanical harvester for cabbage farming",
+            "task": "Setting up and operating a mechanical harvester for cabbage harvesting",
             "subtasks": [
-                "Loading the harvester onto a transport vehicle",
-                "Guiding the harvester across the field",
-                "Monitoring the machine's operation for optimal performance",
-                "Ensuring the machine's front unit is correctly positioned",
-                "Adjusting the rotation speed of the metal spindles as needed",
-                "Verifying the harvested cabbage is undamaged"
+                "Preparing the harvester for field operation",
+                "Aligning the harvester with the rows of cabbage",
+                "Initiating the harvester's movement across the field",
+                "Monitoring the harvester's operation to ensure efficient harvesting",
+                "Adjusting harvester settings as needed during operation"
             ]
         },
         {
-            "task": "Managing workforce transition from manual to mechanical harvesting",
+            "task": "Maintaining the mechanical harvester",
             "subtasks": [
-                "Training current employees on using the new harvester",
-                "Educating staff on safety protocols for the mechanical system",
-                "Adjusting job roles within the team to accommodate fewer workers",
-                "Monitoring crop yield and quality before and after mechanical harvesting"
+                "Regularly checking the harvester's mechanical components",
+                "Ensuring proper lubrication of moving parts",
+                "Inspecting the condition of spindles and replacing damaged ones",
+                "Verifying the alignment and tightness of the harvester's rotating spindles",
+                "Cleaning debris from the harvester after each use"
             ]
         },
         {
-            "task": "Maintaining the mechanical harvester to minimize damage to the crop",
+            "task": "Managing the harvested cabbage",
             "subtasks": [
-                "Checking the condition of the metal spindles regularly",
-                "Cleaning the harvester after each use to prevent contamination",
-                "Replacing worn parts such as spindles to maintain efficiency"
+                "Loading harvested cabbage onto transport vehicles",
+                "Assessing the quality of harvested cabbage for potential damage",
+                "Directing the transport of harvested cabbage to storage or processing facilities"
             ]
         },
         {
-            "task": "First off, the main task here is operating the mechanical harvester, I think. So, the MAINTASK would be something like \"Operating a mechanical harvester for cabbage farming.\" That seems relevant because the entire transcript is about a mechanical harvester used in farming.",
-            "subtasks": []
-        },
-        {
-            "task": "Another MAINTASK might be managing the transition from manual to mechanical harvesting. So, \"Managing workforce transition from manual to mechanical harvesting\" as a main task. Under that, subtasks could include training current employees on using the new harvester, which is a physical task because they have to help people learn how to operate the machine. Then, educating staff on safety protocols for the mechanical system \u2013 that\u2019s another subtask where maybe distributing safety materials or physically demonstrating safe practices. Then, adjusting job roles within the team to accommodate fewer workers. Since the harvester can handle the work of a whole workforce, the jobs might change. So, \"Adjusting job roles within the team\" could be a subtask.",
-            "subtasks": []
-        },
-        {
-            "task": "Another MAINTASK could be maintaining the mechanical harvester to minimize damage to the crop. Because the spindles are rotating, they need to be in good condition. So, \"Maintaining the mechanical harvester to minimize damage to the crop\" is the main task here. Subtasks could include checking the condition of the spindles regularly \u2013 like doing inspections. Then, cleaning the harvester after each use to prevent contamination \u2013 \"Cleaning the harvester after each use\" as a subtask. And replacing worn parts like spindles to maintain efficiency \u2013 that's \"Replacing worn parts such as spindles to maintain efficiency.\"",
-            "subtasks": []
-        },
-        {
-            "task": "Operating a mechanical harvester for cabbage farming",
+            "task": "Setting up and operating a mechanical harvester for cabbage harvesting**",
             "subtasks": [
-                "Loading the harvester onto a transport vehicle",
-                "Guiding the harvester across the field",
-                "Monitoring the machine's operation for optimal performance",
-                "Ensuring the machine's front unit is correctly positioned",
-                "Adjusting the rotation speed of the metal spindles as needed",
-                "Verifying the harvested cabbage is undamaged"
+                "** Preparing the harvester for field operation (e.g., checking fuel, lubricating parts, ensuring all components are functional).",
+                "** Aligning the harvester with the rows of cabbage to ensure efficient and precise harvesting.",
+                "** Initiating the harvester's movement across the field, monitoring its operation, and making adjustments as needed to maintain optimal performance.",
+                "** Ensuring the machine's rotating spindles are functioning properly to minimize damage to the cabbage.",
+                "** Cleaning the harvester of debris after use to prepare it for subsequent operations."
             ]
         },
         {
-            "task": "Managing workforce transition from manual to mechanical harvesting",
+            "task": "Maintaining the mechanical harvester**",
             "subtasks": [
-                "Training current employees on using the new harvester",
-                "Educating staff on safety protocols for the mechanical system",
-                "Adjusting job roles within the team to accommodate fewer workers",
-                "Monitoring crop yield and quality before and after mechanical harvesting"
+                "** Regularly inspecting the harvester's mechanical components for wear and tear.",
+                "** Lubricating moving parts to prevent malfunction and extend the machine's lifespan.",
+                "** Replacing spindles or other damaged components as needed to maintain harvesting efficiency.",
+                "** Checking the alignment and tightness of spindles to ensure they are not causing damage to the cabbage.",
+                "** Cleaning debris from the harvester after each use to maintain operational efficiency."
             ]
         },
         {
-            "task": "Maintaining the mechanical harvester to minimize damage to the crop",
+            "task": "Managing the harvested cabbage**",
             "subtasks": [
-                "Checking the condition of the metal spindles regularly",
-                "Cleaning the harvester after each use to prevent contamination",
-                "Replacing worn parts such as spindles to maintain efficiency"
-            ]
-        },
-        {
-            "task": "one for operating the machine (tasks related to driving and monitoring) and another for managing the workforce transition and maintenance. But maybe that's splitting hairs.",
-            "subtasks": []
-        },
-        {
-            "task": "Yes, this makes sense. So the three MAINTASKs cover the operation (loading, guiding, monitoring, adjusting, verifying), workforce change management (training, adjusting roles), and equipment maintenance (checking spindles, cleaning, replacing parts).",
-            "subtasks": [
-                "But as an operator, you don't physically handle the spindles; the machine does. So perhaps the operator is ensuring that the machine is set up correctly. For example, the operator may need to adjust the distance between the spindles or the rotation speed. The transcript mentions that the machine's front unit handles all the work, so the operator is responsible for guiding it across the field and ensuring it's performing correctly. Therefore, monitoring the machine's operation (SUBTASK) and making necessary adjustments (another SUBTASK). Checking the condition of the spindles (maintenance task) would be a part of ensuring good performance."
-            ]
-        },
-        {
-            "task": "MAINTASK: Operating a mechanical harvester for cabbage farming",
-            "subtasks": [
-                "Loading the harvester onto a transport vehicle",
-                "Guiding the harvester across the field",
-                "Monitoring the machine's operation for optimal performance",
-                "Ensuring the machine's front unit is correctly positioned",
-                "Adjusting the rotation speed of the metal spindles as needed",
-                "Verifying the harvested cabbage is undamaged"
-            ]
-        },
-        {
-            "task": "Managing workforce transition from manual to mechanical harvesting",
-            "subtasks": [
-                "Training current employees on using the new harvester",
-                "Educating staff on safety protocols for the mechanical system",
-                "Adjusting job roles within the team to accommodate fewer workers",
-                "Monitoring crop yield and quality before and after mechanical harvesting"
-            ]
-        },
-        {
-            "task": "Maintaining the mechanical harvester to minimize damage to the crop",
-            "subtasks": [
-                "Checking the condition of the metal spindles regularly",
-                "Cleaning the harvester after each use to prevent contamination",
-                "Replacing worn parts such as spindles to maintain efficiency"
+                "** Loading the harvested cabbage onto transport vehicles for further processing or storage.",
+                "** Assessing the quality of the harvested cabbage to check for any damage during the harvesting process.",
+                "** Coordinating the transport of harvested cabbage to the appropriate facilities, such as storage units or processing plants."
             ]
         }
     ]

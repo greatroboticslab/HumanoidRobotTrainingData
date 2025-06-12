@@ -5,60 +5,138 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Driving a tractor to plant crops",
+            "task": "Control combine harvester in a field",
+            "subtasks": [
+                "Sit in the driver's seat",
+                "Monitor crop maturity",
+                "Adjust combine settings",
+                "Engage the combine's harvest mechanism",
+                "Directly control combine movements",
+                "Align combine with rows"
+            ]
+        },
+        {
+            "task": "Drive tractor to field",
             "subtasks": [
                 "Sit on tractor seat",
-                "Use control levers to direct movement",
-                "Operate seed dispense mechanism",
-                "Engage power take-off (PTO) for attachments",
+                "Start the tractor engine",
                 "Adjust tractor speed",
-                "Navigate rows for planting"
+                "Navigate to the field through rows"
             ]
         },
         {
-            "task": "Attaching a harrow to the tractor",
+            "task": "Load harvested grain onto truck",
             "subtasks": [
-                "Approach the harrow trailer",
-                "Align the harrow with tractor",
-                "Connect coupling\u6760\u63a5\u6536\u6302\u94a9",
-                "Tighten connection pins"
+                "Approach the grain pile",
+                "Use loader bucket to scoop grain",
+                "Haul grain to storage location"
             ]
         },
         {
-            "task": "Operating a harrow for soil cultivation",
+            "task": "Transport manure to fields",
             "subtasks": [
-                "Position tractor with harrow facing forward",
-                "Lower harrow into soil",
-                "Control speed to match cultivation depth",
-                "Monitor soil turning and debris removal"
+                "Load manure onto truck",
+                "Drive truck to field",
+                "Discharge manure onto farmland"
             ]
         },
         {
-            "task": "Securing the harrow after use",
+            "task": "Manage irrigation system",
             "subtasks": [
-                "Raise the harrow from soil",
-                "Drag the harrow back to storage area",
-                "Release coupling and disconnect",
-                "Secure harrow for transport"
+                "Walk along rows",
+                "Turn on water valves",
+                "Adjust sprinklers direction",
+                "Check for clogs in the irrigation lines"
             ]
         },
         {
-            "task": "Attaching seed drills for planting",
+            "task": "Control combine harvester in a field",
             "subtasks": [
-                "Mount seed drills on tractor",
-                "Secure seed boxes to drills",
-                "Set appropriate seed depth and spacing",
-                "Attaching fertilizer spreader for precision application",
-                "Position spreader between seed drills"
+                "Sit in the driver's seat",
+                "Monitor crop maturity",
+                "Adjust combine settings",
+                "Engage the combine's harvest mechanism",
+                "Directly control combine movements",
+                "Align combine with rows"
             ]
         },
         {
-            "task": "Applying weed control using a sprayer",
+            "task": "Drive tractor to field",
             "subtasks": [
-                "Fill sprayer tank with herbicide",
-                "Connect sprayer to tractor PTO",
-                "Adjust spray nozzles for coverage",
-                "Calibrate application rate and pattern"
+                "Sit on tractor seat",
+                "Start the tractor engine",
+                "Adjust tractor speed",
+                "Navigate to the field through rows"
+            ]
+        },
+        {
+            "task": "Load harvested grain onto truck",
+            "subtasks": [
+                "Approach the grain pile",
+                "Use loader bucket to scoop grain",
+                "Haul grain to storage location"
+            ]
+        },
+        {
+            "task": "Transport manure to fields",
+            "subtasks": [
+                "Load manure onto truck",
+                "Drive truck to field",
+                "Discharge manure onto farmland"
+            ]
+        },
+        {
+            "task": "Manage irrigation system",
+            "subtasks": [
+                "Walk along rows",
+                "Turn on water valves",
+                "Adjust sprinklers direction",
+                "Check for clogs in the irrigation lines"
+            ]
+        },
+        {
+            "task": "Control combine harvester in a field",
+            "subtasks": [
+                "Sit in the driver's seat",
+                "Monitor crop maturity",
+                "Adjust combine settings",
+                "Engage the combine's harvest mechanism",
+                "Directly control combine movements",
+                "Align combine with rows"
+            ]
+        },
+        {
+            "task": "Drive tractor to field",
+            "subtasks": [
+                "Sit on tractor seat",
+                "Start the tractor engine",
+                "Adjust tractor speed",
+                "Navigate to the field through rows"
+            ]
+        },
+        {
+            "task": "Load harvested grain onto truck",
+            "subtasks": [
+                "Approach the grain pile",
+                "Use loader bucket to scoop grain",
+                "Haul grain to storage location"
+            ]
+        },
+        {
+            "task": "Transport manure to fields",
+            "subtasks": [
+                "Load manure onto truck",
+                "Drive truck to field",
+                "Discharge manure onto farmland"
+            ]
+        },
+        {
+            "task": "Manage irrigation system",
+            "subtasks": [
+                "Walk along rows",
+                "Turn on water valves",
+                "Adjust sprinklers direction",
+                "Check for clogs in the irrigation lines"
             ]
         }
     ]

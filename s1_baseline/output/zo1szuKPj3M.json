@@ -5,116 +5,77 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Drive a tractor to plant corn",
+            "task": "Drive a tractor to plant seeds.",
             "subtasks": [
-                "Sit on the tractor seat",
-                "Adjust steering wheel to direct the tractor",
-                "Operate the tractor's accelerator pedal to move forward",
-                "Use hand levers to steer the planter",
-                "Monitor the planting depth of corn seeds",
-                "Check seed spacing consistency",
-                "Adjust the planter's seed opener depth as needed",
-                "Ensure proper seed coverage with soil",
-                "Lubricate the planter mechanism during operation if necessary"
+                "Sit on the tractor seat.",
+                "Operate the tractor's steering wheel to navigate the field.",
+                "Engage the tractor's power takeoff (PTO) to run the planter.",
+                "Monitor the planter's mechanics while driving.",
+                "Adjust direction as needed to maintain proper planting rows."
             ]
         },
         {
-            "task": "Tend to corn crops during the growing season",
+            "task": "Operate a planter attachment on the tractor.",
             "subtasks": [
-                "Monitor corn plants for pests and diseases",
-                "Apply herbicides to control weeds",
-                "Hand-pick weeds between corn plants",
-                "Water crops during drought conditions",
-                "Use a blossoming stick to remove corn tassels",
-                "Check for proper pollination and silk emergence",
-                "Assess plant emergence and stand quality",
-                "Twin corn rows if necessary"
+                "Assemble the planter\u2019s seed boxes and seed plates.",
+                "Load seeds into the seed boxes.",
+                "Attach the seed plates to the planter's openers.",
+                "Connect the planter's seed tubes to the seed box and seed plate.",
+                "Check that all parts are secure and properly aligned."
             ]
         },
         {
-            "task": "Harvest corn crop",
+            "task": "Load fertilizer into the tractor's fertilizer tank.",
             "subtasks": [
-                "Operate a combine harvester to cut corn stalks",
-                "Separate corn kernels from the stalks",
-                "Clean harvested corn by removing debris",
-                "Load corn onto a truck or train for transport",
-                "Monitor moisture levels of corn kernels",
-                "Condition corn for proper drying if needed"
+                "Open the fertilizer tank access door.",
+                "Securely attach a measuring cup or scoop to the tank.",
+                "Pour the correct amount of fertilizer into the tank.",
+                "Close the access door and ensure it is tightly sealed."
             ]
         },
         {
-            "task": "Clean and prepare machinery for storage",
+            "task": "Water the freshly planted field.",
             "subtasks": [
-                "Disassemble the planter and clean individual components",
-                "Lubricate moving parts of the machinery",
-                "Store the planter in a protected area",
-                "Winterize the tractor and equipment",
-                "Check for and fix mechanical issues before the next season"
+                "Drive the sprayer to the field.",
+                "Prime the sprayer's pumps.",
+                "Mix the appropriate water and chemicals in the sprayer tank.",
+                "Adjust spray nozzles for the desired pattern and coverage.",
+                "Drive through the field, ensuring even distribution of water."
             ]
         },
         {
-            "task": "Drive a tractor to plant corn",
+            "task": "Check the soil moisture before planting.",
             "subtasks": [
-                "Sit on the tractor seat",
-                "Adjust steering wheel to direct the tractor",
-                "Operate the tractor's accelerator pedal",
-                "Use hand levers to steer the planter",
-                "Monitor planting depth",
-                "Check seed spacing",
-                "Adjust seed opener depth",
-                "Ensure soil coverage",
-                "Lubricate mechanisms if needed"
+                "Walk through the field to observe soil conditions.",
+                "Use a hand tool or meter to measure soil moisture levels.",
+                "Document areas needing irrigation or adjusting planting times."
             ]
         },
         {
-            "task": "Tend to corn crops",
+            "task": "Collect data on field conditions.",
             "subtasks": [
-                "Inspect for pests and diseases",
-                "Apply herbicides",
-                "Manually remove weeds",
-                "Water during drought",
-                "Use a stick to remove tassels",
-                "Check pollination and silk",
-                "Assess plant emergence",
-                "Twin rows if necessary"
+                "Use a tablet or clipboard to record observations.",
+                "Note soil type, weed presence, or other critical factors.",
+                "Input data into the farm management system."
             ]
         },
         {
-            "task": "Harvest corn",
+            "task": "Communicate with the agricultural cooperative.",
             "subtasks": [
-                "Operate combine to cut stalks",
-                "Separate kernels",
-                "Clean harvested corn",
-                "Load for transport",
-                "Check moisture levels",
-                "Condition corn if needed"
+                "Contact the cooperative regarding supplies or services.",
+                "Provide necessary information about required products or schedules.",
+                "Receive feedback or updates from the cooperative."
             ]
         },
         {
-            "task": "Clean and store equipment",
+            "task": "Prepare the field for planting.",
             "subtasks": [
-                "Disassemble planter and clean parts",
-                "Lubricate moving parts",
-                "Store planter",
-                "Winterize tractor",
-                "Conduct pre-season maintenance"
+                "Drive the tillage equipment to break up the soil.",
+                "Guide the equipment to cover the desired area.",
+                "Monitor the tillage depth and uniformity.",
+                "Level the soil using a finisher disk or similar tool.",
+                "Perform a final pass with the tractor to smooth the field."
             ]
-        },
-        {
-            "task": "Drive a tractor to plant corn",
-            "subtasks": []
-        },
-        {
-            "task": "Tend to corn crops during the growing season",
-            "subtasks": []
-        },
-        {
-            "task": "Harvest corn crop",
-            "subtasks": []
-        },
-        {
-            "task": "Clean and prepare machinery for storage",
-            "subtasks": []
         }
     ]
 }

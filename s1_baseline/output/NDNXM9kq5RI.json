@@ -5,32 +5,80 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Performing spring garden preparation tasks.",
+            "task": "Prepare spring garden",
             "subtasks": [
-                "Selecting a method for weed removal",
-                "Choosing herbicides for weed control",
-                "Checking moisture content before tilling",
-                "Soil testing",
-                "Practicing good gardening hygiene"
+                "Get rid of weeds",
+                "Disks and plows the garden (using tractor)",
+                "Check moisture content before tilling",
+                "Hand remove weeds (if necessary)",
+                "Use herbicides (e.g., glyphosate) to control weeds",
+                "Wait two weeks after herbicide application before planting",
+                "Take soil test if done less than every three years",
+                "Check pH level and adjust if needed (add lime if necessary)",
+                "Determine fertility level and required nutrients",
+                "Buy soil test kits/boxes from local county extension office or garden centers",
+                "\"SUBTASK: Take soil test if haven't done in the last three years\" \u0111\u00e3 \u0111\u1ec1 c\u1eadp vi\u1ec7c-check , nh\u01b0ng n\u1ebfu kh\u00f4ng c\u1ee5 th\u1ec3 v\u00e0o l\u00e0m sao th\u00ec v\u1eabn ch\u01b0a r\u00f5. C\u00f3 th\u1ec3 b\u1ed5 sung subtask nh\u01b0 sau:",
+                "Collect soil samples following instructions from extension office",
+                "Submit collected samples to local county extension office or garden centers"
             ]
         },
         {
-            "task": "Participating in agricultural extension activities.",
+            "task": "Prepare spring garden",
             "subtasks": [
-                "Accessing soil test kits and boxes from local extension offices and garden centers.",
-                "Using online resources (e.g., aces.edu) for gardening advice."
+                "Remove weeds manually or with implements",
+                "Use mechanical methods (disc, plow) to prepare soil (maintaining moisture considerations)",
+                "Employ chemical weed control (herbicides)",
+                "Follow post-herbicide application waiting period",
+                "Conduct soil testing if not done within a three-year cycle",
+                "Interpret soil test results (pH, nutrient content) and determine actions"
             ]
         },
         {
-            "task": "Maintaining a chemical application schedule.",
+            "task": "Use herbicide for weed control",
             "subtasks": [
-                "Applying herbicides when the garden is ready (springtime), with a two-week wait period before planting."
+                "Apply glyphosate-based herbicide in garden",
+                "Wait two weeks after application before planting"
             ]
         },
         {
-            "task": "Operating agricultural machinery.",
+            "task": "Take soil samples for testing",
             "subtasks": [
-                "Using a tractor for disk and plow operations (pawpaw method referenced)."
+                "Collect soil samples according to extension office instructions",
+                "Send samples to testing facility",
+                "Schedule soil testing through local extension office"
+            ]
+        },
+        {
+            "task": "Adjust soil pH based on test results",
+            "subtasks": [
+                "Purchase and spread lime if needed"
+            ]
+        },
+        {
+            "task": "Apply soil amendments",
+            "subtasks": [
+                "Identify necessary amendments (based on test results)"
+            ]
+        },
+        {
+            "task": "Contact local county extension office for information",
+            "subtasks": [
+                "Learn about services offered by local county extension office"
+            ]
+        },
+        {
+            "task": "MAINTASK: Prepare spring garden",
+            "subtasks": [
+                "Get rid of weeds",
+                "Disks and plows the garden (using tractor)",
+                "Check moisture content before tilling",
+                "Hand remove weeds (if necessary)",
+                "Use herbicides (e.g., glyphosate) to control weeds",
+                "Wait two weeks after herbicide application before planting",
+                "Take soil test if done less than every three years",
+                "Check pH level and adjust if needed (add lime if necessary)",
+                "Determine fertility level and required nutrients",
+                "Buy soil test kits/boxes from local county extension office or garden centers"
             ]
         }
     ]

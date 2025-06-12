@@ -5,44 +5,56 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Performing a quest in Saga of Survival",
+            "task": "Retrieving and completing an Adventurer's Quest in Saga of Survival",
             "subtasks": [
-                "Checking the Vault for the Adventurer's Quest",
-                "Activating the limited-time adventure zone on the map",
-                "Moving through the zone to assist the pilot",
-                "Engaging in combat with goblins and collecting loot",
-                "Interacting with a lever to progress through the quest",
-                "Harvesting resources such as wood, charcoals, and berries",
-                "Identifying and destroying curse and dark frogs",
-                "Experiencing changes in crossbow firing rate",
-                "Using a horse for transportation within the zone",
-                "Claiming rewards for completing the Adventurer's Quest",
-                "General exploration and looting of the zone"
+                "Viewing the quest details and identifying the necessary items",
+                "Locating the airship zone on the overworld map",
+                "Entering the airship zone to engage enemies",
+                "Engaging in battle with goblins and collecting drops (berries, scrolls, cobblestone, leather, etc.)",
+                "Repairing and using tools (axe, pickaxe, crossbow) to collect resources (wood, ore, etc.)",
+                "Activating hidden levers or switches to progress through the level",
+                "Crafting or gathering specific items (like the skillet pan) to complete the quest",
+                "Returning to the airship zone entrance to claim the reward"
             ]
         },
         {
-            "task": "Performing a quest in Saga of Survival",
-            "subtasks": []
-        },
-        {
-            "task": "activating it, entering the zone, combat, gathering resources, interacting with the environment, using tools, getting around with a horse.",
-            "subtasks": []
-        },
-        {
-            "task": "Performing a quest in Saga of Survival. Subtasks related to moving, combat, gathering, tool use, navigation, and NPC interaction, like moving through the zone to assist the pilot, battling goblins, collecting timber, identifying and eliminating frogs, etc.",
-            "subtasks": []
-        },
-        {
-            "task": "Performing a quest in Saga of Survival",
+            "task": "Interacting with the in-game economy and managing collected items",
             "subtasks": [
-                "Activating the limited-time airship adventure zone",
-                "Exploring the zone to locate the fallen airship and assist the pilot",
-                "Engaging in combat with goblins and other enemies",
-                "Collecting necessary resources (e.g., wood, materials)",
-                "Identifying and destroying specific creatures (e.g., curse frogs)",
-                "Interacting with environmental elements (e.g., levers, barrels)",
-                "Using a horse for transportation",
-                "Using melee and ranged weapons (swords and crossbows) as needed"
+                "Storing and organizing collected materials (wood, ore, crafted items) in the vault",
+                "Trading or using resources for currency (like clay, oil, etc.)",
+                "Upgrading equipment using collected materials and gold currency"
+            ]
+        },
+        {
+            "task": "Navigating in-game trades and crafting systems",
+            "subtasks": [
+                "Finding and interacting with NPCs for quests or purchases",
+                "Crafting materials using workbenches (like skillet pan, fences, etc.)",
+                "Purchasing items from the market or using collected materials to create trade goods"
+            ]
+        },
+        {
+            "task": "Engaging in combat and resource gathering",
+            "subtasks": [
+                "Identifying and attacking enemy NPCs (like goblins, swamp creatures)",
+                "Collecting and managing resources (berries, herbs, ores, etc.)",
+                "Using various tools (axe, pickaxe) to harvest resources from the environment",
+                "Defending against AI-aggressive creatures like swarms of flies or traps"
+            ]
+        },
+        {
+            "task": "Managing visual and audio game elements",
+            "subtasks": [
+                "Noticing environmental damage effects (curse points, health bars)",
+                "Adjusting game settings for visual clarity (e.g., improving enemy visuals)"
+            ]
+        },
+        {
+            "task": "Subscribing to the content creator and providing feedback",
+            "subtasks": [
+                "Engaging with the community through comments and likes",
+                "Subscribing to the channel for future updates",
+                "Recommending the content to others by sharing on social media platforms"
             ]
         }
     ]

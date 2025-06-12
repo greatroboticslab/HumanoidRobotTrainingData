@@ -5,15 +5,46 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Milking a dairy cow",
+            "task": "Milking the cow for milk collection.",
             "subtasks": [
-                "Waking up the cow and preparing",
-                "Directing the cow's movement",
-                "Washing the cow with a washcloth",
-                "Drying the cow with a towel",
-                "Using a cup to milk the cow",
-                "Collecting and checking milk yield"
+                "Wake up in the morning.",
+                "Greet Bernie (the cow) and Maisie (possibly a sheep or goat).",
+                "Prepare the milking area with warm water, washcloth, and dry towel.",
+                "Clean the cow's udder/do teats using the washcloth.",
+                "Dry the cow's udder with a dry towel after washing.",
+                "Use a milking cup to express milk from the cow's udder.",
+                "Collect milk shots into a container.",
+                "Discard any milk that is already being let down naturally."
             ]
+        },
+        {
+            "task": "Carrying out a milking session.",
+            "subtasks": [
+                "Inspect the cow\u2019s readiness for milking.",
+                "Ensure proper cleanliness before milking to prevent contamination.",
+                "Milking the cow manually using the milking cup.",
+                "Continue milking until the cow stops producing milk or the desired amount is collected."
+            ]
+        },
+        {
+            "task": "Wiping down and drying the cow after milking.",
+            "subtasks": [
+                "Apply a washcloth to the cow's udder to remove any remaining milk.",
+                "Dry the cow's udder thoroughly to prevent moisture-related issues."
+            ]
+        },
+        {
+            "task": "Transporting the milking equipment and the cow.",
+            "subtasks": [
+                "Move the cow to a designated milking area.",
+                "Position the cow for ease of milking.",
+                "Secure the milking cup to the teats.",
+                "Release the milking cup after the milking session."
+            ]
+        },
+        {
+            "task": "Milking the cow for milk collection involves several subtasks: waking up, greeting the cow and another animal, preparing cleaning materials, washing the cow's udder, drying it, milking with a cup, discarding initial milk, ensuring thorough drying, and moving the cow. These tasks reflect typical practices in dairy agriculture.",
+            "subtasks": []
         }
     ]
 }

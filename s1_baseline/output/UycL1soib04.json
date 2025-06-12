@@ -5,18 +5,26 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Analyze the relationships and parameters for furrow irrigation design.",
+            "task": "Determine the time and depth of water infiltration during furrow irrigation, considering advance time, recession time, and application efficiency.",
             "subtasks": [
-                "Understand the time components in furrow irrigation (infiltration opportunity, water application, advance, and recession times).",
-                "Calculate the net irrigation time using the modified infiltration equation.",
-                "Determine the advance time (TT) based on furrow length and stream size.",
-                "Compute the average infiltration opportunity time for the furrow length.",
-                "Calculate the gross depth of water application using cutoff time and furrow spacing.",
-                "Evaluate surface runoff and deep percolation losses by comparing gross depth to net depth.",
-                "Assess application efficiency and distribution pattern efficiency.",
-                "Explore the cutback system for improved efficiency by adjusting stream size mid-furrow.",
-                "Understand the relationship between fractional advance ratio (FAR) and losses to optimize irrigation scheduling.",
-                "Apply graphical charts and family curves for designing surface irrigation systems."
+                "Calculate the net time requirement (Tn) using the modified infiltration equation.",
+                "Determine the advance time (TT) required for water to reach the downstream end of the furrow.",
+                "Compute the cutoff time (TCO) by combining the net time requirement, advance time, and recession time.",
+                "Calculate the average infiltration opportunity time (TO) for the entire furrow length.",
+                "Determine the gross depth of water application (YG) considering the stream size and cutoff time.",
+                "Evaluate the distribution pattern efficiency (YD/YG * 100) to assess water application uniformity.",
+                "Calculate the equivalent depth of surface runoff (DRO) by subtracting the average infiltration depth from the gross depth.",
+                "Determine the depth of deep percolation by subtracting the net irrigation depth from the average infiltration depth."
+            ]
+        },
+        {
+            "task": "Analyze the impact of a cutback system on water application efficiency.",
+            "subtasks": [
+                "Adjust the stream size midway through irrigation (from Q1 to Q2, e.g., Q2 = 0.5 * Q1).",
+                "Modify the adjusted weighted parameter (P) and net infiltration time (Tn) to account for the cutback.",
+                "Recalculate the average infiltration opportunity time considering both the pre-cutback and post-cutback periods.",
+                "Assess the reduction in surface runoff and deep percolation through the cutback system.",
+                "Compare distribution pattern efficiency before and after implementing the cutback system."
             ]
         }
     ]

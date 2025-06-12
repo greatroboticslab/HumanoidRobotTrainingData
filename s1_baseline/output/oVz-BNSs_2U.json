@@ -5,24 +5,43 @@
     "category": "News & Politics",
     "tasks": [
         {
-            "task": "Planting flowers and bulbs in a garden setting.",
+            "task": "Planting garden flowers and bulbs",
             "subtasks": [
-                "Bending while planting.",
-                "Kneeling while gardening.",
-                "Using tools to minimize physical strain during planting.",
-                "Staggering planting dates to extend growing season.",
-                "Transferring seedlings into borders.",
-                "Planting larger quantities of bulbs and seedlings."
+                "Bending",
+                "Kneeling",
+                "Handling flower seedlings",
+                "Moving flower seedlings into borders",
+                "Planting bulbs",
+                "Staggering planting dates",
+                "Using tools to reduce physical strain"
             ]
         },
         {
-            "task": "MAINTASK: Planting flowers and bulbs in a garden setting.",
+            "task": "Planting garden flowers and bulbs, with subtasks:",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Planting garden flowers and bulbs",
             "subtasks": [
-                "Bending while planting individual flowers (e.g., pansies, ranunculus).",
-                "Kneeling frequently to work on the ground level, typical in flower bed planting.",
-                "Using tools (e.g., to reduce strain during planting, mentioned as a mitigating factor for physical labor).",
-                "Transferring and planting large quantities of seedlings (up to 35-40,000) and bulbs (5-6,000) requires handling many plants.",
-                "Staggering planting dates (over 8-10 weeks) to manage workload and maximize bench space."
+                "Bending",
+                "Kneeling",
+                "Handling flower seedlings",
+                "Moving flower seedlings into borders",
+                "Planting bulbs",
+                "Staggering planting dates (though this is more about scheduling)",
+                "Using tools to reduce physical strain (e.g., for planting without bending)"
+            ]
+        },
+        {
+            "task": "Planting garden flowers and bulbs",
+            "subtasks": [
+                "Bending",
+                "Kneeling",
+                "Handling flower seedlings",
+                "Moving flower seedlings into borders",
+                "Planting bulbs",
+                "Staggering planting dates",
+                "Using tools to alleviate physical strain"
             ]
         }
     ]

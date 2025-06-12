@@ -5,15 +5,22 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Pickup",
+            "task": "Gather and arrange flowers or plants in a specific direction.",
             "subtasks": [
-                "Approach the items to be picked up",
-                "Lower down to reach the items",
-                "Grasp the items using hands",
-                "Lift the items using leg and core muscles",
-                "Align the body to maintain balance during carry",
-                "Adjust grip if necessary during transport",
-                "Transfer items to a different location or position"
+                "Observe the beauty of the gathered items.",
+                "Determine the direction in which the items should be arranged.",
+                "Collect flowers or plants from the area.",
+                "Arrange the flowers or plants in the specified direction.",
+                "The given transcript mentions \"gathered here as well\" and \"same direction,\" which suggest that the person is in a location where flowers or plants are present and need to be collected and arranged in a specific direction. The tasks involve observing the beauty of the items, determining the arrangement direction, picking the flowers/plants, and then placing them accordingly. Therefore, the main task is \"Gather and arrange flowers or plants in a specific direction,\" with subtasks related to observing, direction determination, collection, and arrangement. However, the exact items need to be inferred from the context, but as per the transcript, it's about gathering and arranging, hence the name of the task. The initial phrase \"see how beautiful were actually gathered here as well\" indicates the presence of previously gathered items, perhaps in a scenic area, leading to the need to arrange them in the same direction, maybe for display or photography. Therefore, the tasks focus on the physical actions of gathering, arranging, and considering the direction. The mention of \"flowers\" is there but as it's not specified, but given the context, it's a logical conclusion. So the answer is structured as per the instruction, with MAINTASK and SUBTASKS as specified."
+            ]
+        },
+        {
+            "task": "Gather and arrange flowers or plants in a specific direction.",
+            "subtasks": [
+                "Observe the beauty of the gathered items.",
+                "Determine the direction in which the items should be arranged.",
+                "Collect flowers or plants from the area.",
+                "Arrange the flowers or plants in the specified direction."
             ]
         }
     ]

@@ -5,37 +5,45 @@
     "category": "Pets & Animals",
     "tasks": [
         {
-            "task": "Performing chemical processes and maintenance on adhesive joints for safety.",
+            "task": "Applying glue to a tube to create a seal",
             "subtasks": [
-                "Applying glue to a joint.",
-                "Monitoring the chemical reaction between glue components.",
-                "Heating the glued area to facilitate bonding.",
-                "Verifying the joint's stability during expansion and contraction.",
-                "Ensuring the joint cools properly to maintain structural integrity."
+                "Mixing the chemical components of the glue",
+                "Ensuring proper application of glue along the seam",
+                "Positioning the tube to allow the glue to expand and seal effectively",
+                "Monitoring the cooling process to prevent premature handling"
             ]
         },
         {
-            "task": "Evaluating and addressing potential hazards in a home environment.",
+            "task": "Removing obstacles from a roof",
             "subtasks": [
-                "Identifying unsafe conditions or potential risks in a residential setting.",
-                "Promptly addressing identified hazards to prevent accidents."
+                "Identifying and locating obstacles (e.g., leaves, branches) on a roof",
+                "Safely accessing the roof to remove the obstacles",
+                "Removing debris without causing damage to the roof"
             ]
         },
         {
-            "task": "MAINTASK: Performing chemical processes and maintenance on adhesive joints for safety.",
+            "task": "Applying glue to a tube to create a seal**",
+            "subtasks": []
+        },
+        {
+            "task": "Removing obstacles on homes**",
+            "subtasks": []
+        },
+        {
+            "task": "Applying glue to a tube to create a seal",
             "subtasks": [
-                "Applying glue to a joint.",
-                "Monitoring the chemical reaction between glue components.",
-                "Heating the glued area to facilitate bonding.",
-                "Verifying the joint's stability during expansion and contraction.",
-                "Ensuring the joint cools properly to maintain structural integrity."
+                "Mixing the chemical components of the glue",
+                "Ensuring proper application of glue along the seam",
+                "Positioning the tube to allow the glue to expand and seal effectively",
+                "Monitoring the cooling process to prevent premature handling"
             ]
         },
         {
-            "task": "Evaluating and addressing potential hazards in a home environment.",
+            "task": "Removing obstacles from a roof",
             "subtasks": [
-                "Identifying unsafe conditions or potential risks in a residential setting.",
-                "Promptly addressing identified hazards to prevent accidents."
+                "Identifying and locating obstacles on the roof",
+                "Safely accessing the roof",
+                "Removing debris without causing damage"
             ]
         }
     ]

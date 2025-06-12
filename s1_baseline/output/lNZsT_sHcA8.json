@@ -5,95 +5,62 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Planting and caring for onion seeds or bulbs.",
+            "task": "Planting onion seeds or bulbs in the fields",
             "subtasks": [
-                "Soaking seeds in warm water.",
-                "Treating seeds to enhance germination rate and pest resistance.",
-                "Planting seeds or bulbs in nursery soil or prepared fields.",
-                "Applying drip irrigation to maintain optimal water levels.",
-                "Weeding the fields to prevent nutrient competition.",
-                "Using organic fertilizers to enhance growth."
+                "Soaking seeds in warm water for 12-24 hours",
+                "Treating seeds for germination rate and pest resistance",
+                "Choosing suitable soil (loose, well-drained, rich in organic matter)",
+                "Preparing the soil for planting",
+                "Sowing seeds or planting onion bulbs in arranged rows",
+                "Watering the planted area using drip irrigation"
             ]
         },
         {
-            "task": "Harvesting mature onions.",
+            "task": "Caring for the growing onions",
             "subtasks": [
-                "Monitoring onion growth and identifying maturity (when tops fall over).",
-                "Carefully pulling or lifting onions from the ground to avoid damage."
+                "Regularly weeding to prevent nutrient competition",
+                "Applying organic fertilizers"
             ]
         },
         {
-            "task": "Processing harvested onions.",
+            "task": "Harvesting mature onions",
             "subtasks": [
-                "Sorting onions by size and quality.",
-                "Cleaning onions using conveyors and automatic sorters.",
-                "Packaging onions for shipping to markets."
+                "Checking for signs of maturity (tops falling over)",
+                "Carefully lifting onions to avoid damage"
             ]
         },
         {
-            "task": "Maintaining agricultural technology.",
+            "task": "Processing harvested onions",
             "subtasks": [
-                "Using MEDI-Standling machine for pest control.",
-                "Applying external heat treatments to manage pests.",
-                "Ensuring accurate and efficient processing with technology.",
-                "Verifying substrateiaemicular levels and prieto control."
+                "Sorting onions by size and quality",
+                "Cleaning and packaging onions"
             ]
         },
         {
-            "task": "",
+            "task": "Irrelevant task (arbitrarily mentioned unrelated phrases)",
+            "subtasks": [
+                "Note on chemical purchases and ratings",
+                "Mention of Amazon and shipping Canada",
+                "Recommendation for farmers' assistance",
+                "Hype about unseen products' success",
+                "Mention of the plant market",
+                "Encouragement to subsribe and hit notification bell"
+            ]
+        },
+        {
+            "task": "** Planting onion seeds or bulbs in the fields",
             "subtasks": []
         },
         {
-            "task": "Each MAINTASK can be broken down into the corresponding subtasks.",
+            "task": "** Caring for the growing onions",
             "subtasks": []
         },
         {
-            "task": "Planting and caring for onion seeds/bulbs.",
-            "subtasks": [
-                "Soaking onion seeds in warm water for 12 to 24 hours to stimulate germination.",
-                "Treating seeds to enhance germination rate and resistance to pests (treatments may include soaking in solution, etc.)"
-            ]
-        },
-        {
-            "task": "Harvesting mature onions.",
-            "subtasks": [
-                "Observing the fields to determine when onions are mature (tops fall over). This involves walking through the fields to check the growth stage."
-            ]
-        },
-        {
-            "task": "Processing harvested onions for market.",
-            "subtasks": [
-                "Using conveyors to move onions through the processing line, which may require operating the machinery and guiding the onions.",
-                "Utilizing automatic sorters to categorize onions by size and quality. This may require adjusting the settings or running the sorter manually when necessary.",
-                "Cleaning the onions, possibly with water or brushes, which involves physical cleaning tasks.",
-                "Packaging the onions into crates, bags, or boxes, which is a manual task requiring lifting and organizing containers."
-            ]
-        },
-        {
-            "task": "Pest control.",
-            "subtasks": [
-                "Using the MEDI-Standling machine for heat treatments to manage pests. This may involve operating the machine, applying heat to affected areas, or supervising the process.",
-                "Applying organic or chemical-free methods to control pests like onion thrips. This involves spraying or using other organic pest control measures. The exact method would depend on the farmer's practices."
-            ]
-        },
-        {
-            "task": "When talking about harvesting, the video mentions both manual methods and machine methods. Specifically, \"In smaller farms, harvesting is done by hand, but for larger operations, specialized machines make the process quicker and more efficient.\" So for larger farms, the operator would need to run these machines. However, the topics might not go into how to operate the machines in detail. Maybe the machining operation is a given. But since the video is about the process, not necessarily the operation of each machine, only the use is mentioned. Therefore, perhaps there's a subtask under harvesting for using specialized machines, but the actual operation steps aren't detailed. Similarly, processing uses conveyors and sorters. The farmer would need to operate these, but the video doesn't go into how, just that they are used. So maybe a subtask like \"operate processing machines\" is part of MAINTASK Processing.",
+            "task": "** Harvesting mature onions",
             "subtasks": []
         },
         {
-            "task": "MAINTASK: Planting and caring for onion seeds or bulbs.",
-            "subtasks": []
-        },
-        {
-            "task": "Harvesting mature onions.",
-            "subtasks": []
-        },
-        {
-            "task": "Processing harvested onions.",
-            "subtasks": []
-        },
-        {
-            "task": "Pest control.",
+            "task": "** Processing harvested onions",
             "subtasks": []
         }
     ]

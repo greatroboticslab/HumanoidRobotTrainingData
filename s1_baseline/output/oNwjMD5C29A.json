@@ -5,23 +5,40 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Understand foot and mouth disease in livestock.",
+            "task": "Reporting Suspected Foot and Mouth Disease",
             "subtasks": [
-                "Identify affected animals (cows, sheep, goats, pigs).",
-                "Recognize signs of FMD (fever, difficulty eating, blisters, lesions).",
-                "Isolate infected animals and limit farm movements.",
-                "Contact veterinarian for diagnosis and samples.",
-                "Follow containment measures and authorities' guidance."
+                "Recognize signs of FMD in livestock (cattle, pigs, sheep, goats)",
+                "Note symptoms specific to each species (e.g., fever, blisters, difficulty standing)",
+                "Identify high-risk conditions (recent contact with an infected farm, movement of animals)",
+                "Gather affected animals for veterinary assessment (e.g., isolated them)",
+                "Contact local veterinarian or authority immediately upon suspicion",
+                "Restrict movement of animals and people on the farm"
             ]
         },
         {
-            "task": "Prevent FMD spread.",
+            "task": "Preventative Measures Against FMD Spread",
             "subtasks": [
-                "Avoid direct contact with infected animals.",
-                "Clean and disinfect equipment, clothing, and vehicles.",
-                "Monitor imported feeds and products.",
-                "Report suspicious cases promptly.",
-                "Follow biosecurity protocols on farm visits."
+                "Disinfect clothing, footwear, and equipment before entering the farm",
+                "Isolate contaminated materials (feed, bedding, water sources)",
+                "Clean and disinfect farm facilities (pens, buildings, vehicles)",
+                "Monitor imported animal products carefully (cooked or processed)",
+                "Be cautious of wind-borne transmission from nearby farms"
+            ]
+        },
+        {
+            "task": "Cooperate with Authorities in FMD Outbreak Response",
+            "subtasks": [
+                "Comply with veterinary instructions for sample collection and testing",
+                "Adhere to containment protocols (quarantine unaffected animals)",
+                "Cooperate with notifications from local authorities re: contacts with infected farms"
+            ]
+        },
+        {
+            "task": "Public Awareness and Vigilance",
+            "subtasks": [
+                "Stay informed about FMD prevalence in local and global markets",
+                "Report suspicious cases promptly to maintain disease-free status",
+                "Educate farm neighbors and community members about FMD control measures"
             ]
         }
     ]

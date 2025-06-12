@@ -5,57 +5,293 @@
     "category": "Travel & Events",
     "tasks": [
         {
-            "task": "Extract corn kernels using a spoon",
+            "task": "Show how to extract corn kernels",
             "subtasks": [
-                "Obtain a spoon",
-                "Take out the first row of kernels, expecting some mashing",
-                "Push the kernels out after the first row",
-                "Extract the second row of kernels, noticing increased ease",
-                "Store the extracted kernels in the freezer for up to 50 days",
-                "Serve the kernels raw for maximum sweetness"
+                "Hold a spoon",
+                "Push the first row of kernels",
+                "Extract the first row of kernels",
+                "Push the second row of kernels",
+                "Extract the second row of kernels",
+                "Store extracted corn in freezer",
+                "Eat the extracted corn raw"
             ]
         },
         {
-            "task": "Freeze corn kernels",
+            "task": "Store extracted corn in freezer",
             "subtasks": [
-                "Transfer extracted kernels into freezer storage",
-                "Ensure freezer storage can maintain freshness for at least 50 days"
+                "Place extracted corn in freezer",
+                "Set timer for 50 days"
             ]
         },
         {
-            "task": "Prepare and serve fresh corn kernels",
+            "task": "Eat the extracted corn raw",
             "subtasks": [
-                "Remove kernels from the cob",
-                "Store kernels in the freezer",
-                "Either use fresh kernels immediately or serve frozen kernels"
+                "Rinse corn with water",
+                "Bite into corn kernel"
             ]
         },
         {
-            "task": "Extract corn kernels using a spoon. Then for that, the subtasks are: get the spoon, take out the first row (expecting some mashing), then push the rest out. Then they do the second row too, which is easier. Next, MAINTASK: Freeze the extracted kernels. Subtasks there would be transferring them to freezer storage and ensuring it's good for up to 50 days. Then finally, MAINTASK: Serve the corn kernels. Whether fresh or frozen, although in this case they mention serving it raw after extraction, so that's part of the serving process.",
+            "task": "Rinse corn with water",
+            "subtasks": [
+                "Fill bowl with water",
+                "Submerge corn in water"
+            ]
+        },
+        {
+            "task": "Bite into corn kernel",
+            "subtasks": [
+                "Place corn kernel in mouth",
+                "Chew and taste corn \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u043f\u0435\u0440\u0435\u0432\u0435\u0434\u0435\u043d\u043eeel-UNique-translator"
+            ]
+        },
+        {
+            "task": "Show how to extract corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Show how to take out corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Store extracted corn in freezer",
+            "subtasks": []
+        },
+        {
+            "task": "Take out corn kernels (with subtasks)",
+            "subtasks": []
+        },
+        {
+            "task": "Store extracted corn (using freezer)",
+            "subtasks": []
+        },
+        {
+            "task": "Extract corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Store extracted corn",
+            "subtasks": []
+        },
+        {
+            "task": "Consume the corn",
+            "subtasks": []
+        },
+        {
+            "task": "Extract corn kernels",
+            "subtasks": [
+                "Hold a spoon",
+                "Push first row of kernels",
+                "Extract first row",
+                "Push second row of kernels",
+                "Extract second row"
+            ]
+        },
+        {
+            "task": "Explain storage options",
+            "subtasks": [
+                "Mention freezer storage (up to 50 days)"
+            ]
+        },
+        {
+            "task": "Consume corn",
+            "subtasks": [
+                "Take corn out of freezer",
+                "Bite into a kernel and taste"
+            ]
+        },
+        {
+            "task": "Extract corn kernels with a spoon",
+            "subtasks": []
+        },
+        {
+            "task": "Store extracted corn in freezer (up to 50 days)",
+            "subtasks": []
+        },
+        {
+            "task": "Eat the extracted corn raw",
+            "subtasks": []
+        },
+        {
+            "task": "Extract corn kernels**",
+            "subtasks": []
+        },
+        {
+            "task": "Store extracted corn in freezer**",
+            "subtasks": []
+        },
+        {
+            "task": "Consume the corn**",
+            "subtasks": [
+                ""
+            ]
+        },
+        {
+            "task": "Show how to extract corn kernels",
+            "subtasks": [
+                "Hold a spoon",
+                "Push the first row of kernels",
+                "Extract the first row of kernels",
+                "Push the second row of kernels",
+                "Extract the second row of kernels"
+            ]
+        },
+        {
+            "task": "Store extracted corn in freezer",
+            "subtasks": [
+                "Place extracted corn in freezer",
+                "Set timer for 50 days (may not be a physical task, but the user needs to know)"
+            ]
+        },
+        {
+            "task": "Eat the extracted corn raw",
+            "subtasks": [
+                "Rinse corn with water",
+                "Bite into corn kernel"
+            ]
+        },
+        {
+            "task": "Extract corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Store in freezer (up to 50 days)_?",
+            "subtasks": []
+        },
+        {
+            "task": "Alternatively, putting the corn in the freezer once it's extracted is part of the storage, which is another MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "If the storage is up to 50 days, that's a separate MAINTASK with a subtask of placing it in the freezer.",
+            "subtasks": []
+        },
+        {
+            "task": "Extract corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Store extracted corn in freezer (up to 50 days)",
+            "subtasks": []
+        },
+        {
+            "task": "Consume the extracted corn",
+            "subtasks": []
+        },
+        {
+            "task": "Extract corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Store extracted corn in freezer",
+            "subtasks": []
+        },
+        {
+            "task": "Consume corn",
             "subtasks": []
         },
         {
             "task": "Extract corn kernels using a spoon",
+            "subtasks": []
+        },
+        {
+            "task": "extract corn kernels.",
+            "subtasks": []
+        },
+        {
+            "task": "consume (bite into it, to check how sweet it is)",
+            "subtasks": []
+        },
+        {
+            "task": "Show how to extract corn kernels",
             "subtasks": [
-                "Obtain a spoon",
-                "Remove the first row of kernels, expecting minor damage",
-                "Push remaining kernels out using spoon",
-                "Remove second row of kernels easily"
+                "Hold a spoon",
+                "Push the first row of kernels",
+                "Extract the first row",
+                "Push the second row of kernels",
+                "Extract the second row"
             ]
         },
         {
-            "task": "Store extracted kernels",
+            "task": "Store extracted corn in freezer",
             "subtasks": [
-                "Transfer kernels to freezer storage",
-                "Ensure storage allows for at least 50 days freshness"
+                "Place extracted corn in freezer",
+                "Set timer for 50 days"
             ]
         },
         {
-            "task": "Serve sweet corn",
+            "task": "Consume the extracted corn",
             "subtasks": [
-                "Prepare kernels by extraction",
-                "Choose to serve fresh or frozen"
+                "Take extracted corn out of freezer (if stored)",
+                "Taste the corn"
             ]
+        },
+        {
+            "task": "Wait, but in the transcript they mention how you can take it raw also, meaning you don't need to store it if you eat it immediately. So perhaps a person could choose either to store or not, so combining them into one MAINTASK of consuming. But per the transcript, there is storing mentioned as an option. So probably safer to have two MAINTasks for storing and consuming. But if the point is that the steps are shown as part of a process, which has the option of freezing or eating raw, then maybe both are part of the overall task.",
+            "subtasks": []
+        },
+        {
+            "task": "But since the transcript explicity mentions frozen and raw, it's two options, so two separate MAINTASKs.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "But wait, those last two may be conflating into one, but per the video model, there's a distinct storage and consumption. Original code given had an MAINTASK for storing the corn and one for eating. But better to follow the key elements of the script.",
+            "subtasks": []
+        },
+        {
+            "task": "Show how to extract corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Store the extracted corn in freezer",
+            "subtasks": []
+        },
+        {
+            "task": "Consume the extracted corn",
+            "subtasks": []
+        },
+        {
+            "task": "Extract corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Store extracted corn in freezer (up to 50 days)",
+            "subtasks": []
+        },
+        {
+            "task": "Consume the corn",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Show how to take out corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Store extracted corn in freezer",
+            "subtasks": []
+        },
+        {
+            "task": "Enjoy the corn",
+            "subtasks": []
+        },
+        {
+            "task": "Extract corn kernels",
+            "subtasks": []
+        },
+        {
+            "task": "Store corn kernels in freezer (up to 50 days)",
+            "subtasks": []
+        },
+        {
+            "task": "Consume corn kernels",
+            "subtasks": []
         }
     ]
 }

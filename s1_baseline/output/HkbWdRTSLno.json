@@ -5,23 +5,81 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Selecting time windows for agricultural data visualization",
+            "task": "Creating a geographical query to analyze agricultural data",
             "subtasks": [
-                "Create a new query",
-                "Choose 250 meter resolution crop planting map from the US Department of Agriculture",
-                "Select prism historical daily maximum temperature weather data",
-                "Zoom in and select a rectangle in the Midwest (midwestern US)",
-                "Set time window for crop type to January 1st, 2017",
-                "Set time window for maximum temperature to June 2017",
-                "Submit the query"
+                "Navigating to the query creation page",
+                "Selecting the 250-meter resolution crop planting map from the survey category",
+                "Choosing the daily maximum temperature data from the prism historical weather dataset",
+                "Selecting the geographic region (Midwestern US) and spatially defining the polygon for the analysis",
+                "Setting the time window for the crop planting data (January 1st, 2017)",
+                "Setting the time window for the temperature data (June 2017)",
+                "Submitting the query and visualizing the results, including crop types and temperature time series"
             ]
         },
         {
-            "task": "Visualizing and analyzing the results",
+            "task": "Verifying and interacting with the query results",
             "subtasks": [
-                "Clicking on a point to see crop type and numerical code",
-                "Checking the time series data for temperature",
-                "Launching an animation of temperature variation during June"
+                "Clicking on a point in the map to see the crop type code and its corresponding value",
+                "Launching an animation to see temperature changes over June 2017"
+            ]
+        },
+        {
+            "task": "Engaging in a conversational response for a manager (Mark)",
+            "subtasks": [
+                "Acknowledging understanding of the process",
+                "Confirming assistance and availability"
+            ]
+        },
+        {
+            "task": "Creating a geographical query to analyze agricultural data",
+            "subtasks": [
+                "Navigating to the query creation page",
+                "Selecting the 250-meter resolution crop planting map from the survey category",
+                "Choosing the daily maximum temperature data from the prism historical weather dataset",
+                "Selecting the geographic region (Midwestern US) and spatially defining the polygon for the analysis",
+                "Setting the time window for the crop planting data (January 1st, 2017)",
+                "Setting the time window for the temperature data (June 2017)",
+                "Submitting the query and visualizing the results, including crop types and temperature time series"
+            ]
+        },
+        {
+            "task": "Verifying and interacting with the query results",
+            "subtasks": [
+                "Clicking on a point in the map to see the crop type code and its corresponding value",
+                "Launching an animation to see temperature changes over June 2017"
+            ]
+        },
+        {
+            "task": "Engaging in a conversational response for a manager (Mark)",
+            "subtasks": [
+                "Acknowledging understanding of the process",
+                "Confirming assistance and availability"
+            ]
+        },
+        {
+            "task": "Creating a geographical query to analyze agricultural data",
+            "subtasks": [
+                "Navigating to the query creation page",
+                "Selecting the 250-meter resolution crop planting map from the survey category",
+                "Choosing the daily maximum temperature data from the prism historical weather dataset",
+                "Selecting the geographic region (Midwestern US) and spatially defining the polygon for the analysis",
+                "Setting the time window for the crop planting data (January 1st, 2017)",
+                "Setting the time window for the temperature data (June 2017)",
+                "Submitting the query and visualizing the results, including crop types and temperature time series"
+            ]
+        },
+        {
+            "task": "Verifying and interacting with the query results",
+            "subtasks": [
+                "Clicking on a point in the map to see the crop type code and its corresponding value",
+                "Launching an animation to see temperature changes over June 2017"
+            ]
+        },
+        {
+            "task": "Engaging in a conversational response for a manager (Mark)",
+            "subtasks": [
+                "Acknowledging understanding of the process",
+                "Confirming assistance and availability"
             ]
         }
     ]

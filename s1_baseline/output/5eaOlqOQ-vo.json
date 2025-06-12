@@ -7,30 +7,42 @@
         {
             "task": "Cornrowing hair",
             "subtasks": [
-                "Section the hair at the top into three parts (top, middle, bottom)",
-                "Pass the middle section under the first section",
-                "Grab hair from the right side with the forefinger",
-                "Make the grabbed right side hair the new middle section",
-                "Pass the forefinger under the middle section again",
-                "Grab hair from the left side",
-                "Use grabbed hair to help secure the cornrow to the head",
-                "Repeat process for each section"
+                "Sectioning hair at the top",
+                "Splitting sections into top, middle, and bottom",
+                "Passing middle section under the braid",
+                "Grabbing hair from right side during braid creation",
+                "Forming new middle section with grabbed hair",
+                "Passing forefinger under middle section",
+                "Grabbing hair from left side during braid creation",
+                "Ensuring each grab holds hair to maintain braid formation"
             ]
         },
         {
-            "task": "Applying cornrowing for hair extensions or styling",
+            "task": "Applying products to hair (implied)",
             "subtasks": [
-                "Securing hair extensions using cornrowing method",
-                "Maintaining the cornrowed hairstyle over time"
+                "Using products to make braids easier to create",
+                "Maybe using products to stick braids to the head (?)",
+                "Noting the use of \"camera carbs\" for braiding (for styling)"
             ]
         },
         {
-            "task": "Based on the given transcript, several tasks related to braiding hair (specifically cornrowing) are mentioned. The primary task is **MAINTASK: Cornrowing hair**, which involves sectioning the hair into top, middle, and bottom parts. The process then requires repeatedly passing the middle section under and adding hair from the sides. Here are the step-by-step subtasks:",
-            "subtasks": []
+            "task": "Addressing possible hair rip (implied but not clear)",
+            "subtasks": [
+                "Addressing an issue with hair tearing or breaking during braiding"
+            ]
         },
         {
-            "task": "Applying cornrowing for hair extensions or styling**, which includes securing extensions and maintaining the hairstyle. The user\u2019s thanks and the mention of using *ripping* (possibly a typo for \"products\") suggest they are providing a demonstration or explanation of the cornrowing technique, leading to the **MEDTASK: Understanding the cornrowing technique**.",
-            "subtasks": []
+            "task": "Cornrowing hair",
+            "subtasks": [
+                "Sectioning hair at the top",
+                "Splitting sections into top, middle, and bottom",
+                "Passing middle section under the braid",
+                "Grabbing hair from right side during braid creation",
+                "Forming new middle section with grabbed hair",
+                "Passing forefinger under middle section",
+                "Grabbing hair from left side during braid creation",
+                "Ensuring each grab holds hair to maintain braid formation"
+            ]
         }
     ]
 }

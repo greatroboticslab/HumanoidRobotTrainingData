@@ -7,15 +7,31 @@
         {
             "task": "Chicken rearing",
             "subtasks": [
-                "Provide a suitable and secure housing facility",
-                "Choose chicken breeds based on goals",
+                "Provide suitable housing",
+                "Select appropriate breeds",
                 "Feed chickens a balanced diet",
-                "Monitor chickens for health issues",
-                "Manage egg production (if applicable)",
-                "Support meat production (if applicable)",
-                "Provide a clean and comfortable environment",
-                "Maintain hygiene practices",
-                "Keep records of important details"
+                "Monitor health and provide care",
+                "Manage egg production",
+                "Monitor meat production",
+                "Provide general care",
+                "Maintain records"
+            ]
+        },
+        {
+            "task": "Chicken rearing",
+            "subtasks": []
+        },
+        {
+            "task": "Chicken rearing",
+            "subtasks": [
+                "Provide suitable housing",
+                "Select appropriate breeds",
+                "Feed chickens a balanced diet",
+                "Monitor health and provide care",
+                "Manage egg production",
+                "Monitor meat production",
+                "Provide general care",
+                "Maintain records"
             ]
         }
     ]

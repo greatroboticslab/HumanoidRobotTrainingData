@@ -5,271 +5,534 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Plowing the field",
+            "task": "Climbing in and out of truck",
             "subtasks": [
-                "Sit on the tractor seat",
-                "Grip the steering wheel to control direction",
-                "Adjust the plow depth manually",
-                "Oversee the plowing operation to ensure straight rows"
+                "Approach truck",
+                "Grasp truck door handle",
+                "Lift upper body to open door",
+                "Slide into driver's seat",
+                "Position body in seat",
+                "Close door"
             ]
         },
         {
-            "task": "Attaching the plow to the tractor",
+            "task": "Securing seatbelt",
             "subtasks": [
-                "Lower the plow onto the hitch of the tractor",
-                "Secure the plow to the tractor using bolts or pins",
-                "Check the attachment for stability before starting the tractor"
+                "Locate seatbelt",
+                "Unravel seatbelt",
+                "Insert seatbelt through belt path",
+                "Fasten seatbelt around body"
             ]
         },
         {
-            "task": "Loading the tractor trailer",
+            "task": "Turning on truck lights",
             "subtasks": [
-                "Load hay bales or crops into the trailer bed",
-                "Secure the load with straps or nets",
-                "Balance the load to prevent uneven weight distribution"
+                "Locate lights switch",
+                "Shift lever to park",
+                "Engage parking break",
+                "Activate headlights or auxiliary lights"
             ]
         },
         {
-            "task": "Walking behind the plowed field",
+            "task": "Backing up truck",
             "subtasks": [
-                "Monitor for uneven ground that may damage equipment",
-                "Check for any signs of equipment malfunctions",
-                "Manual seeding if necessary after plowing"
+                "Adjust seat position for rearward visibility",
+                "Remove parking break",
+                "Place shift lever in reverse",
+                "Slowly release brake pedal and shift into reverse",
+                "Look over right shoulder to check for traffic",
+                "Check rearview mirror for obstacles",
+                "Gradually apply gas pedal while maintaining control",
+                "Align truck with driveway or desired path"
             ]
         },
         {
-            "task": "Driving the tractor while attached to the equipment (e.g., plow, trailer)",
+            "task": "Starting the engine",
             "subtasks": [
-                "Monitor speed and grading of the road while driving",
-                "Adjust throttle and gear shifts for optimal performance",
-                "React to terrain changes without causing equipment damage"
+                "Reach forward to turn key",
+                "Rotate key to start engine"
             ]
         },
         {
-            "task": "Unloading the trailer",
+            "task": "Activating wing mirror",
             "subtasks": [
-                "Unfasten securing straps or nets",
-                "Lift the bales or crops from the trailer bed",
-                "Stack or distribute the load as needed"
+                "Locate wing mirror control",
+                "Adjust mirror to check rear view"
             ]
         },
         {
-            "task": "Ensuring documented preservation and handover of the equipment",
+            "task": "Inspecting engine",
             "subtasks": [
-                "Check maintenance records to ensure regular servicing",
-                "Inspect equipment for wear or damage before use"
+                "Walk around truck to reach engine area",
+                "Look under hood for any signs of issues"
             ]
         },
         {
-            "task": "Maintenance of tractor and equipment",
+            "task": "Checking tire pressure",
             "subtasks": [
-                "Schedule regular oil changes and filter replacements",
-                "Grease or lubricate moving parts as needed",
-                "Inspect tires for wear and adjust air pressure"
+                "Locate tire pressure gauge",
+                "Check air pressure in each tire"
             ]
         },
         {
-            "task": "Monitoring weather conditions",
+            "task": "Refueling truck",
             "subtasks": [
-                "Check forecasts to plan plowing instead of during rain",
-                "Adjust operations based on current conditions (e.g., drying soil after rain)"
+                "Approach fueling station",
+                "Open fuel tank cap",
+                "Connect fuel hose",
+                "Start pump and measure fuel amount",
+                "Wait for fueling to complete",
+                "Remove fuel hose",
+                "Close fuel tank"
             ]
         },
         {
-            "task": "Dig out the front pan from the plow",
+            "task": "Driving to farm field",
             "subtasks": [
-                "Identify the stuck pan part",
-                "Remove the plow from the tractor",
-                "Use a spade or shovel to dig out the soil and debris",
-                "Clean the pan and replace any damaged parts"
+                "Preheat engine if necessary (if approaching colder temps)",
+                "Adjust mirrors to proper position for driving",
+                "Increase speed to\u9002\u5b9c\u7684\u901f\u5ea6",
+                "Navigate to the farm field, accounting for traffic and roads"
             ]
         },
         {
-            "task": "Feeding the horses",
+            "task": "Entering farm field through gate",
             "subtasks": [
-                "Locate feed and water for the horses",
-                "Measure the appropriate amount of feed",
-                "Groom the horses to ensure cleanliness and prepare for work",
-                "Lead the horses to the field or stable"
+                "Slow down near gate",
+                "Check for any obstructions or potential hazards",
+                "Open gate (if necessary)",
+                "Drive through gate",
+                "Close gate behind"
             ]
         },
         {
-            "task": "Driving the horses in a harness",
+            "task": "Parking in designated area",
             "subtasks": [
-                "Secure the horse collar to the harness",
-                "Attach the harness to the plow or other farming equipment",
-                "Adjust the fit of the horse\u2019s harness for safety",
-                "Mount the horse or lead them with reins",
-                "Guide the horse through the plowing process"
+                "Choose appropriate parking spot in field",
+                "Align truck in the spot",
+                "Apply parking break",
+                "Lower gears if necessary",
+                "Turn off vehicle"
             ]
         },
         {
-            "task": "Transport and organize the seed carts",
+            "task": "Leaving truck",
             "subtasks": [
-                "Collect seed carts from the field",
-                "Ensure each cart has the correct type of seeds",
-                "Distribute the seeds onto the plowed field evenly",
-                "Refill the seed carts as necessary during long days"
+                "Unlock doors",
+                "Exit vehicle",
+                "Close door after exiting"
             ]
         },
         {
-            "task": "Moving the sand (for mixing with seeds)",
+            "task": "Inspecting soil conditions",
             "subtasks": [
-                "Transport sand from the storage area to the mixing station",
-                "Pour sand into the seed carts evenly",
-                "Distribute sand on the plowed ground as directed"
+                "Step off vehicle to check soil",
+                "Analyze soil moisture, texture, and compaction"
             ]
         },
         {
-            "task": "Extinguishing a grass or forest fire",
+            "task": "Checking crops for growth",
             "subtasks": [
-                "Assess the size and location of the fire",
-                "Retrieve fire extinguishing equipment (hose, bucket, etc.)",
-                "Attempt to contain the fire before it spreads",
-                "Communicate with neighbors or emergency services if necessary"
+                "Walk rows of crops",
+                "Observe plants for signs of stress or disease",
+                "Take notes on crop health"
             ]
         },
         {
-            "task": "Removing the plow from the tractor",
+            "task": "Observing livestock",
             "subtasks": [
-                "Detach the plow using the tractor\u2019s hydraulic system",
-                "Position the plow on a flat surface for maintenance or storage"
+                "Approach animal area",
+                "Check animals for any signs of illness or injury",
+                "Ensure housing is clean and dry",
+                "Feed animals if necessary"
             ]
         },
         {
-            "task": "Repairing the plow parts",
+            "task": "Operating farming equipment",
             "subtasks": [
-                "Identify the broken or damaged sections of the plow",
-                "Use tools to disassemble the plow for repair",
-                "Apply welds or patches as necessary",
-                "Reassemble the plow and test its function"
+                "Engage with equipment operator to ensure safety",
+                "Perform pre-operation checks on machinery",
+                "Start and monitor machine operation",
+                "Attend to maintenance needs during operation"
             ]
         },
         {
-            "task": "Shifting gears on the tractor while in motion",
+            "task": "Applying fertilizer",
             "subtasks": [
-                "Observe traffic signs and road conditions",
-                "Smoothly change gears to transition between different paces",
-                "Ensure smooth operation when moving from plowing to straight driving",
-                "Check the attachment for stability before starting the tractor), this suggests regular checks to prevent issues, akin to a pre-operation inspection. Hence, this task reflects a general practice in machinery use, but its specific mention in the transcript is when the attachment is being secured.",
-                "Sit on the tractor seat",
-                "Grip the steering wheel to control direction",
-                "Adjust the plow depth manually",
-                "Oversee the plowing operation to ensure straight rows",
-                "Lower the plow onto the hitch of the tractor",
-                "Secure the plow to the tractor using bolts or pins",
-                "Check the attachment for stability before starting the tractor",
-                "Load hay bales or crops into the trailer bed",
-                "Secure the load with straps or nets",
-                "Balance the load to prevent uneven weight distribution",
-                "Monitor for uneven ground that may damage equipment",
-                "Check for any signs of equipment malfunctions",
-                "Manual seeding if necessary after plowing",
-                "Monitor speed and grading of the road while driving",
-                "Adjust throttle and gear shifts for optimal performance",
-                "React to terrain changes without causing equipment damage",
-                "Unfasten securing straps or nets",
-                "Lift the bales or crops from the trailer bed",
-                "Stack or distribute the load as needed",
-                "Check maintenance records to ensure regular servicing",
-                "Inspect equipment for wear or damage before use",
-                "Schedule regular oil changes and filter replacements",
-                "Grease or lubricate moving parts as needed",
-                "Inspect tires for wear and adjust air pressure",
-                "Check forecasts to plan plowing instead of during rain",
-                "Adjust operations based on current conditions (e.g., drying soil after rain)",
-                "Identify the stuck pan part",
-                "Remove the plow from the tractor",
-                "Use a spade or shovel to dig out the soil and debris",
-                "Clean the pan and replace any damaged parts",
-                "Locate feed and water for the horses",
-                "Measure the appropriate amount of feed",
-                "Groom the horses to ensure cleanliness and prepare for work",
-                "Lead the horses to the field or stable",
-                "Secure the horse collar to the harness",
-                "Attach the harness to the plow or other farming equipment",
-                "Adjust the fit of the horse\u2019s harness for safety",
-                "Mount the horse or lead them with reins",
-                "Guide the horse through the plowing process",
-                "Collect seed carts from the field",
-                "Ensure each cart has the correct type of seeds",
-                "Distribute the seeds onto the plowed field evenly",
-                "Refill the seed carts as necessary during long days",
-                "Transport sand from the storage area to the mixing station",
-                "Pour sand into the seed carts evenly",
-                "Distribute sand on the plowed ground as directed",
-                "Assess the size and location of the fire",
-                "Retrieve fire extinguishing equipment (hose, bucket, etc.)",
-                "Attempt to contain the fire before it spreads",
-                "Communicate with neighbors or emergency services if necessary",
-                "Detach the plow using the tractor\u2019s hydraulic system",
-                "Position the plow on a flat surface for maintenance or storage",
-                "Identify the broken or damaged sections of the plow",
-                "Use tools to disassemble the plow for repair",
-                "Apply welds or patches as necessary",
-                "Reassemble the plow and test its function",
-                "Observe traffic signs and road conditions",
-                "Smoothly change gears to transition between different paces",
-                "Ensure smooth operation when moving from plowing to straight driving",
-                "Sit on the tractor seat",
-                "Grip the steering wheel to control direction",
-                "Adjust the plow depth manually",
-                "Oversee the plowing operation to ensure straight rows",
-                "Lower the plow onto the hitch of the tractor",
-                "Secure the plow to the tractor using bolts or pins",
-                "Check the attachment for stability before starting the tractor",
-                "Load hay bales or crops into the trailer bed",
-                "Secure the load with straps or nets",
-                "Balance the load to prevent uneven weight distribution",
-                "Monitor for uneven ground that may damage equipment",
-                "Check for any signs of equipment malfunctions",
-                "Manual seeding if necessary after plowing",
-                "Monitor speed and grading of the road while driving",
-                "Adjust throttle and gear shifts for optimal performance",
-                "React to terrain changes without causing equipment damage",
-                "Unfasten securing straps or nets",
-                "Lift the bales or crops from the trailer bed",
-                "Stack or distribute the load as needed",
-                "Check maintenance records to ensure regular servicing",
-                "Inspect equipment for wear or damage before use",
-                "Schedule regular oil changes and filter replacements",
-                "Grease or lubricate moving parts as needed",
-                "Inspect tires for wear and adjust air pressure",
-                "Check forecasts to plan plowing instead of during rain",
-                "Adjust operations based on current conditions (e.g., drying soil after rain)",
-                "Identify the stuck pan part",
-                "Remove the plow from the tractor",
-                "Use a spade or shovel to dig out the soil and debris",
-                "Clean the pan and replace any damaged parts",
-                "Locate feed and water for the horses",
-                "Measure the appropriate amount of feed",
-                "Groom the horses to ensure cleanliness and prepare for work",
-                "Lead the horses to the field or stable",
-                "Secure the horse collar to the harness",
-                "Attach the harness to the plow or other farming equipment",
-                "Adjust the fit of the horse\u2019s harness for safety",
-                "Mount the horse or lead them with reins",
-                "Guide the horse through the plowing process",
-                "Collect seed carts from the field",
-                "Ensure each cart has the correct type of seeds",
-                "Distribute the seeds onto the plowed field evenly",
-                "Refill the seed carts as necessary during long days",
-                "Transport sand from the storage area to the mixing station",
-                "Pour sand into the seed carts evenly",
-                "Distribute sand on the plowed ground as directed",
-                "Assess the size and location of the fire",
-                "Retrieve fire extinguishing equipment (hose, bucket, etc.)",
-                "Attempt to contain the fire before it spreads",
-                "Communicate with neighbors or emergency services if necessary",
-                "Detach the plow using the tractor\u2019s hydraulic system",
-                "Position the plow on a flat surface for maintenance or storage",
-                "Identify the broken or damaged sections of the plow",
-                "Use tools to disassemble the plow for repair",
-                "Apply welds or patches as necessary",
-                "Reassemble the plow and test its function",
-                "Observe traffic signs and road conditions",
-                "Smoothly change gears to transition between different paces",
-                "Ensure smooth operation when moving from plowing to straight driving"
+                "Attach fertilizer spreader to equipment",
+                "Adjust settings for proper application rate",
+                "Begin spreading fertilizer over field",
+                "Monitor wind conditions to avoid drift",
+                "Adjust rate or stop if necessary"
+            ]
+        },
+        {
+            "task": "Checking water levels in irrigation systems",
+            "subtasks": [
+                "Inspect valves and sprinkler heads",
+                "Open or close valves as needed",
+                "Test spray patterns for optimal coverage"
+            ]
+        },
+        {
+            "task": "Checking fuel levels on equipment",
+            "subtasks": [
+                "Access fuel tanks on machinery",
+                "Measure remaining fuel and plan refills"
+            ]
+        },
+        {
+            "task": "Climbing in and out of truck",
+            "subtasks": [
+                "Approach truck",
+                "Grasp truck door handle",
+                "Lift upper body to open door",
+                "Slide into driver's seat",
+                "Position body in seat",
+                "Close door"
+            ]
+        },
+        {
+            "task": "Securing seatbelt",
+            "subtasks": [
+                "Locate seatbelt",
+                "Unravel seatbelt",
+                "Insert seatbelt through belt path",
+                "Fasten seatbelt around body"
+            ]
+        },
+        {
+            "task": "Turning on truck lights",
+            "subtasks": [
+                "Locate lights switch",
+                "Shift lever to park",
+                "Engage parking break",
+                "Activate headlights or auxiliary lights"
+            ]
+        },
+        {
+            "task": "Backing up truck",
+            "subtasks": [
+                "Adjust seat position for rearward visibility",
+                "Remove parking break",
+                "Place shift lever in reverse",
+                "Slowly release brake pedal and shift into reverse",
+                "Look over right shoulder to check for traffic",
+                "Check rearview mirror for obstacles",
+                "Gradually apply gas pedal while maintaining control",
+                "Align truck with driveway or desired path"
+            ]
+        },
+        {
+            "task": "Starting the engine",
+            "subtasks": [
+                "Reach forward to turn key",
+                "Rotate key to start engine"
+            ]
+        },
+        {
+            "task": "Activating wing mirror",
+            "subtasks": [
+                "Locate wing mirror control",
+                "Adjust mirror to check rear view"
+            ]
+        },
+        {
+            "task": "Inspecting engine",
+            "subtasks": [
+                "Walk around truck to reach engine area",
+                "Look under hood for any signs of issues"
+            ]
+        },
+        {
+            "task": "Checking tire pressure",
+            "subtasks": [
+                "Locate tire pressure gauge",
+                "Check air pressure in each tire"
+            ]
+        },
+        {
+            "task": "Refueling truck",
+            "subtasks": [
+                "Approach fueling station",
+                "Open fuel tank cap",
+                "Connect fuel hose",
+                "Start pump and measure fuel amount",
+                "Wait for fueling to complete",
+                "Remove fuel hose",
+                "Close fuel tank"
+            ]
+        },
+        {
+            "task": "Driving to farm field",
+            "subtasks": [
+                "Preheat engine if necessary (if approaching colder temps)",
+                "Adjust mirrors to proper position for driving",
+                "Increase speed to\u9002\u5b9c\u7684\u901f\u5ea6",
+                "Navigate to the farm field, accounting for traffic and roads"
+            ]
+        },
+        {
+            "task": "Entering farm field through gate",
+            "subtasks": [
+                "Slow down near gate",
+                "Check for any obstructions or potential hazards",
+                "Open gate (if necessary),",
+                "Drive through gate",
+                "Close gate behind"
+            ]
+        },
+        {
+            "task": "Parking in designated area",
+            "subtasks": [
+                "Choose appropriate parking spot in field",
+                "Align truck in the spot",
+                "Apply parking break",
+                "Lower gears if necessary",
+                "Turn off vehicle"
+            ]
+        },
+        {
+            "task": "Leaving truck",
+            "subtasks": [
+                "Unlock doors",
+                "Exit vehicle",
+                "Close door after exiting"
+            ]
+        },
+        {
+            "task": "Inspecting soil conditions",
+            "subtasks": [
+                "Step off vehicle to check soil",
+                "Analyze soil moisture, texture, and compaction"
+            ]
+        },
+        {
+            "task": "Checking crops for growth",
+            "subtasks": [
+                "Walk rows of crops",
+                "Observe plants for signs of stress or disease",
+                "Take notes on crop health"
+            ]
+        },
+        {
+            "task": "Observing livestock",
+            "subtasks": [
+                "Approach animal area",
+                "Check animals for any signs of illness or injury",
+                "Ensure housing is clean and dry",
+                "Feed animals if necessary"
+            ]
+        },
+        {
+            "task": "Operating farming equipment",
+            "subtasks": [
+                "Engage with equipment operator to ensure safety",
+                "Perform pre-operation checks on machinery",
+                "Start and monitor machine operation",
+                "Attend to maintenance needs during operation"
+            ]
+        },
+        {
+            "task": "Applying fertilizer",
+            "subtasks": [
+                "Attach fertilizer spreader to equipment",
+                "Adjust settings for proper application rate",
+                "Begin spreading fertilizer over field",
+                "Monitor wind conditions to avoid drift",
+                "Adjust rate or stop if necessary"
+            ]
+        },
+        {
+            "task": "Checking water levels in irrigation systems",
+            "subtasks": [
+                "Inspect valves and sprinkler heads",
+                "Open or close valves as needed",
+                "Test spray patterns for optimal coverage"
+            ]
+        },
+        {
+            "task": "Checking fuel levels on equipment",
+            "subtasks": [
+                "Access fuel tanks on machinery",
+                "Measure remaining fuel and plan refills"
+            ]
+        },
+        {
+            "task": "Climbing in and out of truck**",
+            "subtasks": [
+                "** Approach truck",
+                "** Grasp truck door handle",
+                "** Lift upper body to open door",
+                "** Slide into driver's seat",
+                "** Position body in seat",
+                "** Close door"
+            ]
+        },
+        {
+            "task": "Securing seatbelt**",
+            "subtasks": [
+                "** Locate seatbelt",
+                "** Unravel seatbelt",
+                "** Insert seatbelt through belt path",
+                "** Fasten seatbelt around body"
+            ]
+        },
+        {
+            "task": "Turning on truck lights**",
+            "subtasks": [
+                "** Locate lights switch",
+                "** Shift lever to park",
+                "** Engage parking break",
+                "** Activate headlights or auxiliary lights"
+            ]
+        },
+        {
+            "task": "Backing up truck**",
+            "subtasks": [
+                "** Adjust seat position for rearward visibility",
+                "** Remove parking break",
+                "** Place shift lever in reverse",
+                "** Slowly release brake pedal and shift into reverse",
+                "** Look over right shoulder to check for traffic",
+                "** Check rearview mirror for obstacles",
+                "** Gradually apply gas pedal while maintaining control",
+                "** Align truck with driveway or desired path"
+            ]
+        },
+        {
+            "task": "Starting the engine**",
+            "subtasks": [
+                "** Reach forward to turn key",
+                "** Rotate key to start engine"
+            ]
+        },
+        {
+            "task": "Activating wing mirror**",
+            "subtasks": [
+                "** Locate wing mirror control",
+                "** Adjust mirror to check rear view"
+            ]
+        },
+        {
+            "task": "Inspecting engine**",
+            "subtasks": [
+                "** Walk around truck to reach engine area",
+                "** Look under hood for any signs of issues"
+            ]
+        },
+        {
+            "task": "Checking tire pressure**",
+            "subtasks": [
+                "** Locate tire pressure gauge",
+                "** Check air pressure in each tire"
+            ]
+        },
+        {
+            "task": "Refueling truck**",
+            "subtasks": [
+                "** Approach fueling station",
+                "** Open fuel tank cap",
+                "** Connect fuel hose",
+                "** Start pump and measure fuel amount",
+                "** Wait for fueling to complete",
+                "** Remove fuel hose",
+                "** Close fuel tank"
+            ]
+        },
+        {
+            "task": "Driving to farm field**",
+            "subtasks": [
+                "** Preheat engine if necessary (if approaching colder temps)",
+                "** Adjust mirrors to proper position for driving",
+                "** Increase speed to \u9002\u5b9c\u7684\u901f\u5ea6",
+                "** Navigate to the farm field, accounting for traffic and roads"
+            ]
+        },
+        {
+            "task": "Entering farm field through gate**",
+            "subtasks": [
+                "** Slow down near gate",
+                "** Check for any obstructions or potential hazards",
+                "** Open gate (if necessary)",
+                "** Drive through gate",
+                "** Close gate behind"
+            ]
+        },
+        {
+            "task": "Parking in designated area**",
+            "subtasks": [
+                "** Choose appropriate parking spot in field",
+                "** Align truck in the spot",
+                "** Apply parking break",
+                "** Lower gears if necessary",
+                "** Turn off vehicle"
+            ]
+        },
+        {
+            "task": "Leaving truck**",
+            "subtasks": [
+                "** Unlock doors",
+                "** Exit vehicle",
+                "** Close door after exiting"
+            ]
+        },
+        {
+            "task": "Inspecting soil conditions**",
+            "subtasks": [
+                "** Step off vehicle to check soil",
+                "** Analyze soil moisture, texture, and compaction"
+            ]
+        },
+        {
+            "task": "Checking crops for growth**",
+            "subtasks": [
+                "** Walk rows of crops",
+                "** Observe plants for signs of stress or disease",
+                "** Take notes on crop health"
+            ]
+        },
+        {
+            "task": "Observing livestock**",
+            "subtasks": [
+                "** Approach animal area",
+                "** Check animals for any signs of illness or injury",
+                "** Ensure housing is clean and dry",
+                "** Feed animals if necessary"
+            ]
+        },
+        {
+            "task": "Operating farming equipment**",
+            "subtasks": [
+                "** Engage with equipment operator to ensure safety",
+                "** Perform pre-operation checks on machinery",
+                "** Start and monitor machine operation",
+                "** Attend to maintenance needs during operation"
+            ]
+        },
+        {
+            "task": "Applying fertilizer**",
+            "subtasks": [
+                "** Attach fertilizer spreader to equipment",
+                "** Adjust settings for proper application rate",
+                "** Begin spreading fertilizer over field",
+                "** Monitor wind conditions to avoid drift",
+                "** Adjust rate or stop if necessary"
+            ]
+        },
+        {
+            "task": "Checking water levels in irrigation systems**",
+            "subtasks": [
+                "** Inspect valves and sprinkler heads",
+                "** Open or close valves as needed",
+                "** Test spray patterns for optimal coverage"
+            ]
+        },
+        {
+            "task": "Checking fuel levels on equipment**",
+            "subtasks": [
+                "** Access fuel tanks on machinery",
+                "** Measure remaining fuel and plan refills"
             ]
         }
     ]

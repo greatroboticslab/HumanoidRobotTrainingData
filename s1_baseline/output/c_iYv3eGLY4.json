@@ -5,62 +5,82 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "_Seeding wheat, barley, and oats",
+            "task": "Operate farming equipment to harvest grain (wheat, barley, oats).",
             "subtasks": [
-                "Select the appropriate seeder (Limpkin Sultar 12)",
-                "Load the seeder with seed (1,050 liters)",
-                "Adjust the crop to be planted (wheat)",
-                "Seed the field with 298 liters of seed",
-                "Address the field and monitor weed growth",
-                "Apply herbicide to remove weeds"
+                "Align combine harvester with grain field.",
+                "Engage grain header on combine harvester.",
+                "Drive harvester through grain field, collecting grain and straw.",
+                "Use forage wagon to collect straw windrows formed by swather.",
+                "Transport grain to silo using tractor and grain trailer.",
+                "Offload grain into silo using auger.",
+                "Store grain in silo for later use."
             ]
         },
         {
-            "task": "Harvesting grain with a combine harvester",
+            "task": "Process grain into flour using grain mill.",
             "subtasks": [
-                "Prepare the combine harvester (Lexion 6900 with standard header)",
-                "Use the forage wagon to collect straw",
-                "Adjust the header for straw collection (Macdon swather)",
-                "Collect grain and straw using the pick-up header"
+                "Transport wheat, barley, or oats from silo to grain mill.",
+                "Load grain into grain mill hopper.",
+                "Operate grain mill to grind grain into flour.",
+                "Transfer flour from grain mill to storage bin or truck."
             ]
         },
         {
-            "task": "Storing grain and straw",
+            "task": "Produce bread or cakes using flour.",
             "subtasks": [
-                "Store grain in silos (Brick, Concrete, Steel, or Bin silos)",
-                "Use augers to load and unload grain from silos"
+                "Assemble ingredients for bread (flour, water, yeast) and mix them.",
+                "Shape dough into loaves and place in oven.",
+                "Bake bread until golden brown.",
+                "Assemble ingredients for cakes (flour, sugar, eggs, butter) and mix them.",
+                "Pour batter into muffin tins or cake pans.",
+                "Bake cakes in oven until risen and golden."
             ]
         },
         {
-            "task": "Using grain for production",
+            "task": "Manufacture cereal using oats.",
             "subtasks": [
-                "Process grain at the grain mill (wheat, barley, oats)",
-                "Produce flour at the bakery (wheat, barley)",
-                "Create cereal at the cereal factory (oats)"
+                "Combine oats with corn, chocolate, and honey in cereal factory.",
+                "Operate cereal factory to produce boxes of cereal.",
+                "Transport cereal boxes to storage or market for sale."
             ]
         },
         {
-            "task": "Handling straw from crop residue",
+            "task": "Store straw from harvested grain fields.",
             "subtasks": [
-                "Reap straw after grain harvest (using baler or forage wagon)",
-                "Utilize straw as bedding, Total Mixed Ration (TMR), or for mulching",
-                "Store straw in hayloft or bale for later use"
+                "Use baler to form bales of straw.",
+                "Transport bales of straw to storage or bedding area.",
+                "Use forage wagon to collect loose straw and deposit into storage bin."
             ]
         },
         {
-            "task": "Planting and managing growth cycle",
+            "task": "Apply straw as bedding for animals.",
             "subtasks": [
-                "Crop rotation (wheat, barley, oat planting in September and October)",
-                "Maintain soil fertility (fertilizing, cultivation)",
-                "Harvest crops in July and August"
+                "Spread straw bedding in stalls or pens for livestock.",
+                "Clean and remove manure-contaminated straw to maintain hygiene."
             ]
         },
         {
-            "task": "Maintaining equipment",
+            "task": "Incorporate straw into Total Mixed Ration (TMR) for animals.",
             "subtasks": [
-                "Inspect and clean headers, harvester, and forage wagon",
-                "Perform regular maintenance on harvesters (Lexion 6900, Macdon swather)",
-                "Afford DLC (Macdon Pack) for additional harvest tools and swathing"
+                "Mix chopped straw with other feed components in TMR wagon.",
+                "Distribute TMR throughout animal pens for feeding.",
+                "Monitor animals' consumption and adjust TMR formulation as needed."
+            ]
+        },
+        {
+            "task": "Consider straw sale for additional income.",
+            "subtasks": [
+                "Dry and bale straw for market.",
+                "Weigh and price bales for sale to buyers.",
+                "Transport straw bales to marketplace for sale and payment."
+            ]
+        },
+        {
+            "task": "Improve field yield through machinery upgrades.",
+            "subtasks": [
+                "Use Macdon swather and pickup header combination to increase grain yield.",
+                "Adjust machinery settings for optimal grain collection and straw distribution.",
+                "Determine economic viability of upgrades based on increased grain and straw output."
             ]
         }
     ]

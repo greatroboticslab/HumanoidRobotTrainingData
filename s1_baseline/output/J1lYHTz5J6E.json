@@ -5,38 +5,457 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Driving and maintaining a farming vehicle.",
+            "task": "Fiddling with the Farm Equipment",
             "subtasks": [
-                "Starting the agricultural vehicle engine.",
-                "Adjusting the steering wheel to turn the vehicle.",
-                "Accelerating the vehicle by pressing the gas pedal.",
-                "Braking the vehicle by pressing the brake pedal.",
-                "Changing gears using the shifter.",
-                "Steering the vehicle left and right using the steering wheel.",
-                "Navigating the vehicle through fields."
+                "Adjusting the tractor's attachments",
+                "Connecting the disk harrow to the tractor",
+                "Guiding the disk harrow through the field",
+                "Ensuring the harrow is set at the correct depth"
             ]
         },
         {
-            "task": "Operating a combine harvester.",
+            "task": "Driving a Tractor",
             "subtasks": [
-                "Attaching the combine's intake conveyor belt.",
-                "Adjusting the combine's header height.",
-                "Starting the combine's engine.",
-                "Operating the combine's thresher.",
-                "Regulating the combine's chaffer speed.",
-                "Monitoring the combine's grain tank level.",
-                "Cleaning the combine's sieves and ducts.",
-                "Driving the combine through harvested fields."
+                "Starting the tractor engine",
+                "Adjusting the speed while navigating fields",
+                "Stopping the tractor at appropriate intervals"
             ]
         },
         {
-            "task": "Attaching and detaching implements to a tractor.",
+            "task": "Operating a Disk Harrow",
             "subtasks": [
-                "Aligning implement hitch to tractor drawbar.",
-                "Tightening implement couplings.",
-                "Lifting the implement onto the tractor.",
-                "Lowering the implement onto the ground.",
-                "Disconnecting the implement from the tractor."
+                "Setting the harrow blades to desired angle",
+                "Monitoring the harrow depth as it works through the soil",
+                "Pushing the harrow to till the ground"
+            ]
+        },
+        {
+            "task": "Driving Over Unplanted Rows",
+            "subtasks": [
+                "Navigating the tractor through rows without crops",
+                "Ensuring straight path for the harrow operation"
+            ]
+        },
+        {
+            "task": "Cross-Country Travel on Farm Equipment",
+            "subtasks": [
+                "Moving the tractor across unplanted areas",
+                "Maintaining speed and direction while moving through fields"
+            ]
+        },
+        {
+            "task": "Checking the Harrow for Proper Tilling",
+            "subtasks": [
+                "Observing the ground after the harrow has passed",
+                "Determining if the soil is adequately broken up or not"
+            ]
+        },
+        {
+            "task": "Stopping the Tractor for Breaks",
+            "subtasks": [
+                "Applying the brakes to stop the tractor",
+                "Turning off the engine and allowing unloading"
+            ]
+        },
+        {
+            "task": "Unloading the Harrow",
+            "subtasks": [
+                "Disengaging the harrow from the tractor",
+                "Manually lowering the harrow to the ground",
+                "Removing any attached equipment"
+            ]
+        },
+        {
+            "task": "Stopping the Tractor and Lowering it",
+            "subtasks": [
+                "Bringing the tractor to a halt",
+                "Positioning the tractor on its stand or lowering it to the ground"
+            ]
+        },
+        {
+            "task": "Ensuring the Harrow is Secure",
+            "subtasks": [
+                "Checking the harrow's securing mechanism",
+                "Making sure it won't shift during transport"
+            ]
+        },
+        {
+            "task": "Moving the Farm Equipment to the Garage",
+            "subtasks": [
+                "Guiding the tractor back to its storage area",
+                "Park the tractor in its designated spot",
+                "Ensuring all equipment is neatly stored"
+            ]
+        },
+        {
+            "task": "Operating a Trailer for Equipment Transport",
+            "subtasks": [
+                "Hitching the trailer to the tractor",
+                "Driving the trailer slowly to the garage or shop",
+                "Securing the equipment onto the trailer"
+            ]
+        },
+        {
+            "task": "Cleaning the Harrow",
+            "subtasks": [
+                "Brushing off debris from the harrow teeth",
+                "Inspecting for any broken or loose components"
+            ]
+        },
+        {
+            "task": "Applying Light Oil to Lubricate",
+            "subtasks": [
+                "Opening the oil can or spray bottle",
+                "Applying a light coat of oil to moving parts"
+            ]
+        },
+        {
+            "task": "Securing the Harrow for Storage",
+            "subtasks": [
+                "Tightening any bolts or pins on the harrow",
+                "Covering the harrow with a protective tarp or blanket"
+            ]
+        },
+        {
+            "task": "Disconnecting the Trailer",
+            "subtasks": [
+                "Detaching the trailer from the tractor",
+                "Unloading the trailer if necessary",
+                "Securing the trailer in its storage area"
+            ]
+        },
+        {
+            "task": "Checking Cargo and Securement",
+            "subtasks": [
+                "Ensuring all farm equipment is properly stowed",
+                "Checking bindings or chains securing the load"
+            ]
+        },
+        {
+            "task": "Extinguishing the Engine",
+            "subtasks": [
+                "Turning off the tractor's engine",
+                "Allowing the engine to cool down"
+            ]
+        },
+        {
+            "task": "Filling Equipment with Fuel",
+            "subtasks": [
+                "Connecting the fuel hose to the equipment's tank",
+                "Monitoring the fuel level until it is full"
+            ]
+        },
+        {
+            "task": "Unfolding the Protective Cover",
+            "subtasks": [
+                "Removing the tarp from the harrow",
+                "Positioning the tarp neatly for reuse"
+            ]
+        },
+        {
+            "task": "Connecting Tractor Attachments",
+            "subtasks": [
+                "Aligning the disk harrow coulter with the tractor's hitch Point",
+                "Securing the coulter to the tractor for traction"
+            ]
+        },
+        {
+            "task": "Returning to the House",
+            "subtasks": [
+                "Walking the tractor from the barn to the house",
+                "Unlocking the door and entering the home"
+            ]
+        },
+        {
+            "task": "Storing Personal Effects",
+            "subtasks": [
+                "Putting away any tools or gear used during the day",
+                "Hanging clothes or accessories in designated areas"
+            ]
+        },
+        {
+            "task": "Operating a Disk Harrow, there could be a subtask about setting the angle and depth. Then driving the tractor, which includes starting, adjusting speed, and stopping. So the main activities are driving the tractor, operating the harrow, unloading and storing the equipment, and cleaning.",
+            "subtasks": []
+        },
+        {
+            "task": "Fiddling with the Farm Equipment",
+            "subtasks": []
+        },
+        {
+            "task": "Driving a Tractor",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a Disk Harrow",
+            "subtasks": []
+        },
+        {
+            "task": "Driving Over Unplanted Rows",
+            "subtasks": []
+        },
+        {
+            "task": "Cross-Country Travel on Farm Equipment",
+            "subtasks": []
+        },
+        {
+            "task": "Checking the Harrow for Proper Tilling",
+            "subtasks": []
+        },
+        {
+            "task": "Stopping the Tractor for Breaks",
+            "subtasks": []
+        },
+        {
+            "task": "Unloading the Harrow",
+            "subtasks": []
+        },
+        {
+            "task": "Stopping the Tractor and Lowering it",
+            "subtasks": []
+        },
+        {
+            "task": "Ensuring the Harrow is Secure",
+            "subtasks": []
+        },
+        {
+            "task": "Moving the Farm Equipment to the Garage",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a Trailer for Equipment Transport",
+            "subtasks": []
+        },
+        {
+            "task": "Cleaning the Harrow",
+            "subtasks": []
+        },
+        {
+            "task": "Applying Light Oil to Lubricate",
+            "subtasks": []
+        },
+        {
+            "task": "Securing the Harrow for Storage",
+            "subtasks": []
+        },
+        {
+            "task": "Disconnecting the Trailer",
+            "subtasks": []
+        },
+        {
+            "task": "Checking Cargo and Securement",
+            "subtasks": []
+        },
+        {
+            "task": "Extinguishing the Engine",
+            "subtasks": []
+        },
+        {
+            "task": "Filling Equipment with Fuel",
+            "subtasks": []
+        },
+        {
+            "task": "Unfolding the Protective Cover",
+            "subtasks": []
+        },
+        {
+            "task": "Connecting Tractor Attachments",
+            "subtasks": []
+        },
+        {
+            "task": "Returning to the House",
+            "subtasks": []
+        },
+        {
+            "task": "Storing Personal Effects",
+            "subtasks": []
+        },
+        {
+            "task": "Checking the Harrow for Proper Tilling. Are there any other checks they might perform? The example video might not show, but perhaps they check for uneven tilling, make sure the teeth aren't clogged. So maybe as part of checking the harrow, those could be subtasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a Trailer. So ensuring proper coupling, driving slowly to the garage, checking load security.",
+            "subtasks": []
+        },
+        {
+            "task": "Stopping the Tractor for Breaks.",
+            "subtasks": []
+        },
+        {
+            "task": "Operating a Trailer. Subtasks like hitching the trailer, driving it safely, unloading, and checking security.",
+            "subtasks": []
+        },
+        {
+            "task": "Lastly, returning to the house and storing personal effects. Maybe just putting away tools. So that's a separate MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "Fiddling with the Farm Equipment",
+            "subtasks": [
+                "Adjusting the tractor's attachments",
+                "Connecting the disk harrow to the tractor",
+                "Guiding the disk harrow through the field",
+                "Ensuring the harrow is set at the correct depth"
+            ]
+        },
+        {
+            "task": "Driving a Tractor",
+            "subtasks": [
+                "Starting the tractor engine",
+                "Adjusting the speed while navigating fields",
+                "Stopping the tractor at appropriate intervals"
+            ]
+        },
+        {
+            "task": "Operating a Disk Harrow",
+            "subtasks": [
+                "Setting the harrow blades to desired angle",
+                "Monitoring the harrow depth as it works through the soil",
+                "Pushing the harrow to till the ground"
+            ]
+        },
+        {
+            "task": "Driving Over Unplanted Rows",
+            "subtasks": [
+                "Navigating the tractor through rows without crops",
+                "Ensuring straight path for the harrow operation"
+            ]
+        },
+        {
+            "task": "Cross-Country Travel on Farm Equipment",
+            "subtasks": [
+                "Moving the tractor across unplanted areas",
+                "Maintaining speed and direction while moving through fields"
+            ]
+        },
+        {
+            "task": "Checking the Harrow for Proper Tilling",
+            "subtasks": [
+                "Observing the ground after the harrow has passed",
+                "Determining if the soil is adequately broken up or not"
+            ]
+        },
+        {
+            "task": "Stopping the Tractor for Breaks",
+            "subtasks": [
+                "Applying the brakes to stop the tractor",
+                "Turning off the engine and allowing unloading"
+            ]
+        },
+        {
+            "task": "Unloading the Harrow",
+            "subtasks": [
+                "Disengaging the harrow from the tractor",
+                "Manually lowering the harrow to the ground",
+                "Removing any attached equipment"
+            ]
+        },
+        {
+            "task": "Stopping the Tractor and Lowering it",
+            "subtasks": [
+                "Bringing the tractor to a halt",
+                "Positioning the tractor on its stand or lowering it to the ground"
+            ]
+        },
+        {
+            "task": "Ensuring the Harrow is Secure",
+            "subtasks": [
+                "Checking the harrow's securing mechanism",
+                "Making sure it won't shift during transport"
+            ]
+        },
+        {
+            "task": "Moving the Farm Equipment to the Garage",
+            "subtasks": [
+                "Guiding the tractor back to its storage area",
+                "Park the tractor in its designated spot",
+                "Ensuring all equipment is neatly stored"
+            ]
+        },
+        {
+            "task": "Operating a Trailer for Equipment Transport",
+            "subtasks": [
+                "Hitching the trailer to the tractor",
+                "Driving the trailer slowly to the garage or shop",
+                "Securing the equipment onto the trailer"
+            ]
+        },
+        {
+            "task": "Cleaning the Harrow",
+            "subtasks": [
+                "Brushing off debris from the harrow teeth",
+                "Inspecting for any broken or loose components"
+            ]
+        },
+        {
+            "task": "Applying Light Oil to Lubricate",
+            "subtasks": [
+                "Opening the oil can or spray bottle",
+                "Applying a light coat of oil to moving parts"
+            ]
+        },
+        {
+            "task": "Securing the Harrow for Storage",
+            "subtasks": [
+                "Tightening any bolts or pins on the harrow",
+                "Covering the harrow with a protective tarp or blanket"
+            ]
+        },
+        {
+            "task": "Disconnecting the Trailer",
+            "subtasks": [
+                "Detaching the trailer from the tractor",
+                "Unloading the trailer if necessary",
+                "Securing the trailer in its storage area"
+            ]
+        },
+        {
+            "task": "Checking Cargo and Securement",
+            "subtasks": [
+                "Ensuring all farm equipment is properly stowed",
+                "Checking bindings or chains securing the load"
+            ]
+        },
+        {
+            "task": "Extinguishing the Engine",
+            "subtasks": [
+                "Turning off the tractor's engine",
+                "Allowing the engine to cool down"
+            ]
+        },
+        {
+            "task": "Filling Equipment with Fuel",
+            "subtasks": [
+                "Connecting the fuel hose to the equipment's tank",
+                "Monitoring the fuel level until it is full"
+            ]
+        },
+        {
+            "task": "Unfolding the Protective Cover",
+            "subtasks": [
+                "Removing the tarp from the harrow",
+                "Positioning the tarp neatly for reuse"
+            ]
+        },
+        {
+            "task": "Connecting Tractor Attachments",
+            "subtasks": [
+                "Aligning the disk harrow coulter with the tractor's hitch Point",
+                "Securing the coulter to the tractor for traction"
+            ]
+        },
+        {
+            "task": "Returning to the House",
+            "subtasks": [
+                "Walking the tractor from the barn to the house",
+                "Unlocking the door and entering the home"
+            ]
+        },
+        {
+            "task": "Storing Personal Effects",
+            "subtasks": [
+                "Putting away any tools or gear used during the day",
+                "Hanging clothes or accessories in designated areas"
             ]
         }
     ]

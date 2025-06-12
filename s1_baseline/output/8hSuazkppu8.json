@@ -5,19 +5,734 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Planting corn",
+            "task": "Watching a hay bale go through a baler",
             "subtasks": [
-                "Walking behind the tractor",
-                "Operating the planter attachments",
-                "Ensuring the correct seed spacing",
-                "Monitoring plant depth"
+                "Observing the movement of the hay bale into the baler",
+                "Monitoring the machine's operation to ensure proper bale formation"
             ]
         },
         {
-            "task": "Checking for standing corn",
+            "task": "Loading a hay bale onto a vehicle",
             "subtasks": [
-                "Scanning the field from a vehicle",
-                "Confirming corn stand after heavy rain"
+                "Assessing the size and weight of the bale to be lifted",
+                "Positioning oneself near the bale for safe handling",
+                "Gripping the bale securely with both hands",
+                "Lifting the bale onto the vehicle bed using legs and back (possibly with some knee bending)",
+                "Ensuring the bale is stable and properly placed on the vehicle"
+            ]
+        },
+        {
+            "task": "Unloading a hay bale from a vehicle",
+            "subtasks": [
+                "Approaching the vehicle to assess the placement of the bale",
+                "Grasping the bale with both hands for stability",
+                "Initiating movement to carry the bale to the desired location",
+                "Using the legs and back to lift and carry the bale, which may involve some squatting and walking",
+                "Placing the bale in the field or storage area safely"
+            ]
+        },
+        {
+            "task": "Observing the process of hay baler operation",
+            "subtasks": [
+                "Noting how the hay is fed into the baler",
+                "Watching the compression and wrapping mechanism",
+                "Checking for any malfunctions or issues during operation"
+            ]
+        },
+        {
+            "task": "Tending to livestock in a pasture",
+            "subtasks": [
+                "Walking through the pasture to check on the animals",
+                "Observing the behavior and health of the livestock",
+                "Ensuring the animals have adequate space and shade",
+                "Checking if fencing is intact and without holes"
+            ]
+        },
+        {
+            "task": "Checking for fence repairs",
+            "subtasks": [
+                "Walking along the fence line to identify damage",
+                "Assesment of the extent of the damage (e.g., broken posts, missing wire)",
+                "Planning the steps needed for repair"
+            ]
+        },
+        {
+            "task": "Operating a tractor",
+            "subtasks": [
+                "Starting the tractor engine",
+                "Maneuvering the tractor to the field",
+                "Attaching necessary equipment (e.g., the baler or plow)",
+                "Driving the tractor in the field for efficient work progress"
+            ]
+        },
+        {
+            "task": "Guiding the hay bale through the baler machine",
+            "subtasks": [
+                "Ensuring the hay bale is fed correctly into the baler",
+                "Monitoring the bale's position within the machine",
+                "Adjusting the feed mechanism if necessary"
+            ]
+        },
+        {
+            "task": "Assessing soil conditions for planting",
+            "subtasks": [
+                "Walking through a field to assess soil moisture",
+                "Checking the ground for erosion or compaction",
+                "Noting areas that may need special attention for planting"
+            ]
+        },
+        {
+            "task": "Planting seeds or crops",
+            "subtasks": [
+                "Preparing the soil for planting",
+                "Loading planting equipment with seeds",
+                "Driving the equipment in the field while planting",
+                "Checking the depth and spacing of seeds inserted into the soil"
+            ]
+        },
+        {
+            "task": "Using a disc harrow on a field",
+            "subtasks": [
+                "Attaching the disc harrow to the tractor",
+                "Driving the tractor over the field to break up soil",
+                "Adjusting the harrow depth for optimal tillage",
+                "Ensuring the harrow is properly attached and balanced"
+            ]
+        },
+        {
+            "task": "Feeding livestock in a barn",
+            "subtasks": [
+                "Preparing feed for the animals",
+                "Transporting feed to the barn or pasture",
+                "Dispensing the feed into designated areas",
+                "Ensuring all animals have access to feed"
+            ]
+        },
+        {
+            "task": "Moving bales of hay to storage",
+            "subtasks": [
+                "Selecting the bales needed for storage",
+                "Transporting the bales using a vehicle or tractor",
+                "Stacking the bales in a suitable location (e.g., barn, shed)",
+                "Securing the bales to prevent collapse"
+            ]
+        },
+        {
+            "task": "Checking water supply for livestock",
+            "subtasks": [
+                "Inspecting water troughs or tanks for cleanliness",
+                "Ensuring water is flowing properly",
+                "Refilling water sources as necessary"
+            ]
+        },
+        {
+            "task": "Repairing a gate in a fence",
+            "subtasks": [
+                "Locating the damaged gate",
+                "Gathering materials required for repair (e.g., hardware, tools)",
+                "Disassembling the gate if needed",
+                "Reattaching or replacing the damaged components",
+                "Testing the gate's functionality after repair"
+            ]
+        },
+        {
+            "task": "Driving a tractor to transport equipment",
+            "subtasks": [
+                "Loading the equipment (e.g., baler, plow) onto the tractor",
+                "Securing the equipment attachments safely",
+                "Maneuvering the tractor to the desired field location",
+                "Unloading the equipment once at the field"
+            ]
+        },
+        {
+            "task": "Checking the condition of hay bales in storage",
+            "subtasks": [
+                "Inspecting bales for signs of mold or damage",
+                "Ensuring bales are stable and not shifting in storage",
+                "Monitoring stored bales for moisture levels"
+            ]
+        },
+        {
+            "task": "Applying pesticides or fertilizer",
+            "subtasks": [
+                "Measuring out the required amount of product",
+                "Loading the applicator equipment with the product",
+                "Operating the equipment to distribute the product evenly over the field",
+                "Observing the application to confirm coverage"
+            ]
+        },
+        {
+            "task": "Repairing a tractor or piece of farm equipment",
+            "subtasks": [
+                "Identifying the malfunctioning part",
+                "Gathering the necessary tools and replacement parts",
+                "Disassembling the equipment to reach the issue",
+                "Installing the new part or performing repairs",
+                "Testing the equipment to ensure it's functioning correctly"
+            ]
+        },
+        {
+            "task": "Performing maintenance on a farm tractor",
+            "subtasks": [
+                "Inspecting the tractor's various components (e.g., engine, tires, hydraulic systems)",
+                "Lubricating or greasing moving parts",
+                "Checking fluid levels (oil, coolant, etc.)",
+                "Tightening loose bolts or screws"
+            ]
+        },
+        {
+            "task": "Operating a baler loader on a tractor",
+            "subtasks": [
+                "Attaching the baler loader to the tractor",
+                "Operation of the loader to lift and place bales",
+                "Ensuring the loader is safe to operate",
+                "Adjusting the loader\u2019s settings as needed for the bale size",
+                "Managing the flow of bales from the baler to the loader to the storage area"
+            ]
+        },
+        {
+            "task": "Checking for overwintering risks",
+            "subtasks": [
+                "Inspecting crops or plants for signs of frost or cold damage",
+                "Covering vulnerable plants with mulch or plastic",
+                "Assessing the need for irrigation to protect against freezing"
+            ]
+        },
+        {
+            "task": "Checking equipment for proper attachment",
+            "subtasks": [
+                "Ensuring the baler is securely attached to the tractor",
+                "Verifying that all connections (hydraulic, electrical) are tight and correct",
+                "Confirming that safety mechanisms are activated"
+            ]
+        },
+        {
+            "task": "Ensuring livestock safety",
+            "subtasks": [
+                "Verifying fencing is secure to prevent animal escapes",
+                "Checking that all gates are closing properly",
+                "Removing any hazards in the livestock areas (e.g., broken boards, electric wires)",
+                "Ensuring the animals have proper shelter from harsh weather"
+            ]
+        },
+        {
+            "task": "Maintaining a field by controlling weeds",
+            "subtasks": [
+                "Identifying the type of weeds present in the field",
+                "Selecting appropriate herbicide or cultural control methods",
+                "Applying the control measures as per instructions",
+                "Monitoring the effectiveness of the control over time"
+            ]
+        },
+        {
+            "task": "Checking tire pressure on a vehicle",
+            "subtasks": [
+                "Reference the required air pressure for the tires specified in the equipment manual or on the tire sidewall",
+                "Using a tire gauge to measure the current pressure",
+                "Comparing the measured pressure to the required pressure",
+                "Adding air to the tires as necessary to achieve the correct pressure"
+            ]
+        },
+        {
+            "task": "Organizing hay bales for stacking",
+            "subtasks": [
+                "Arranging the bales in a stack to maximize stability",
+                "Considering the direction the stack will face for weather protection",
+                "Ensuring the stack is not too high to prevent collapse",
+                "Covering the stack with plastic or tarp if necessary"
+            ]
+        },
+        {
+            "task": "Operating a sprayer to apply fertilizer",
+            "subtasks": [
+                "Connecting the sprayer to the appropriate water source",
+                "Calibration of the sprayer for the right application rate",
+                "Driving through the field while applying fertilizer, ensuring even distribution",
+                "Checking wind speed and direction to prevent drift"
+            ]
+        },
+        {
+            "task": "Collecting hay from a field",
+            "subtasks": [
+                "Monitoring the moisture content of the hay as it's baled",
+                "Ensuring the bales are not too wet or dry for optimal storage",
+                "Adjusting the baler settings if needed to obtain the correct moisture level"
+            ]
+        },
+        {
+            "task": "Diagnosing issues with a broken fence wire",
+            "subtasks": [
+                "Inspecting the fencing material to locate the break",
+                "Evaluating the extent of the damage (number of wires affected)",
+                "Either splicing the wire or replacing the damaged section",
+                "Sealing the connection to prevent further detachment"
+            ]
+        },
+        {
+            "task": "Irrigating a field",
+            "subtasks": [
+                "Checking the irrigation system's water pressure and flow rate",
+                "Adjusting the valves or nozzles to distribute water evenly across the field",
+                "Monitoring the field to ensure that all areas are receiving adequate water",
+                "Keeping an eye on weather conditions to avoid overwatering"
+            ]
+        },
+        {
+            "task": "Applying manure to a field",
+            "subtasks": [
+                "Preparing the manure spreader with the collected manure",
+                "Driving the spreader over the field, adjusting the application rate",
+                "Checking that the manure is spread uniformly across the field",
+                "Ensuring the field's nutrient levels are being managed appropriately"
+            ]
+        },
+        {
+            "task": "Checking the balance of a hay loader on a tractor",
+            "subtasks": [
+                "Confirm that the loader is centered properly on the tractor",
+                "Verify that the hydraulic system is functioning smoothly",
+                "Listening for anomalies in the loader\u2019s operation while moving",
+                "Checking load distribution to prevent imbalance"
+            ]
+        },
+        {
+            "task": "Removing weeds from sensitive areas",
+            "subtasks": [
+                "Identifying the appropriate method for removing weeds (hand-pulling, tilling, etc.)",
+                "Executing the weed removal in the targeted area",
+                "Checking the area after removal to ensure all weeds are eliminated"
+            ]
+        },
+        {
+            "task": "Ensuring access to a water source",
+            "subtasks": [
+                "Checking the flow from a well, pond, or river",
+                "Making sure there's sufficient water pressure for machinery and livestock",
+                "Ensuring the water is potable for the animals"
+            ]
+        },
+        {
+            "task": "Securing a hay bale before stacking",
+            "subtasks": [
+                "Wrapping the bale for additional protection against weather",
+                "Positioning the bale in the correct orientation for the stack",
+                "Using straps or twine to hold the bale in place during stacking"
+            ]
+        },
+        {
+            "task": "Feeding animals during a storm",
+            "subtasks": [
+                "Refilling water and feed troughs more frequently",
+                "Ensuring shelter is provided for livestock",
+                "Monitoring for signs of stress or cold in the animals"
+            ]
+        },
+        {
+            "task": "Checking the status of crops during inclement weather",
+            "subtasks": [
+                "Evaluating the impact of heavy rain, snow, or frost on the crop",
+                "Taking protective measures like covering young crops with tarps",
+                "Assessing potential yield loss"
+            ]
+        },
+        {
+            "task": "Using a rake to move hay",
+            "subtasks": [
+                "Positioning the rake in the field where hay needs to be moved",
+                "Engaging the teeth of the rake to lift the hay",
+                "Moving the hay to the desired location or protecting it from weather"
+            ]
+        },
+        {
+            "task": "Attaching a trailer to a vehicle",
+            "subtasks": [
+                "Ensuring the trailer is properly coupled to the vehicle",
+                "Stabilizing the trailer connections",
+                "Checking the trailer's load capacity and the hay\u2019s weight",
+                "Securing the trailer's load for transport"
+            ]
+        },
+        {
+            "task": "Driving through a flooded area",
+            "subtasks": [
+                "Assessing the depth of water on the road",
+                "Ensuring the tractor's height is safe above the water level",
+                "Moving slowly through the flooded area to avoid damage",
+                "Preventing the introduction of water into the equipment"
+            ]
+        },
+        {
+            "task": "Wearing appropriate attire for outdoor farm work",
+            "subtasks": [
+                "Choosing clothing that is protective (e.g., boots, gloves, reflective vest)",
+                "Ensuring layers are manageable for varying weather conditions",
+                "Being aware of sun protection and hydration needs",
+                "Received video transcript. The transcript describes a series of agricultural tasks performed during a day in a farm. The main activities include operating and maintaining farm equipment, such as a hay baler, tractor, and sprayer; handling hay bales (loading, moving, stacking); tending to livestock (hay feeding, water checking, pasture observation); adjusting equipment to soil and weather conditions (fence repair, irrigation, pest control); general farm management (checking hay moisture, applying fertilizer, crop monitoring). Given the detailed content, I've structured the video's key tasks into specific physical actions a person would perform. Each MAINTASK corresponds to a main activity, with SUBTASKs breaking down the physical steps involved. For example, \"Operating a tractor\" encompasses starting the engine, attaching equipment, and driving through fields. The sub-tasks follow a logical sequence of what a farm worker would need to do. The hay-related tasks (loading, unloading, stacking) involve assessing bale size, lifting, walking, and precise carrying. Livestock care includes feeding, checking water, and observing behavior. The crop management tasks (weeding, irrigation, fertilizer application) require specific techniques like cutting weeds, distributing water, and applying chemicals. Repair tasks (fence, machine) involve locating issues, gathering materials, and executing repairs. The support tasks (attaching trailer, tire pressure check) are also included. However, the transcript mentions \"hay going through a baler,\" but if there's no explicit setup or operation described, maybe that part was just background. Also, the hay steering through the baler might be part of the baler's operation, not a task the person does. A second thought: since the video shows a day in the life of a farmer, including various tasks, the list provided includes a wide range of agricultural activities involving physical labor. The tasks are diverse but likely represent typical day-to-day responsibilities. To confirm relevance, since the transcript is about a farm, all the tasks relate to farming or agricultural operations, matching the initial instruction. Therefore, I've categorized all identified tasks under MAINTASKs, each requiring physical action and relevant to agricultural work. If there were any non-agricultural activities, they might not be included here, but given the entire transcript is about a farm environment, the entire list is valid."
+            ]
+        },
+        {
+            "task": "Watching a hay bale go through a baler",
+            "subtasks": [
+                "Observing the movement of the hay bale into the baler",
+                "Monitoring the machine's operation to ensure proper bale formation"
+            ]
+        },
+        {
+            "task": "Loading a hay bale onto a vehicle",
+            "subtasks": [
+                "Assessing the size and weight of the bale to be lifted",
+                "Positioning oneself near the bale for safe handling",
+                "Gripping the bale securely with both hands",
+                "Lifting the bale onto the vehicle bed using legs and back (possibly with some knee bending)",
+                "Ensuring the bale is stable and properly placed on the vehicle"
+            ]
+        },
+        {
+            "task": "Unloading a hay bale from a vehicle",
+            "subtasks": [
+                "Approaching the vehicle to assess the placement of the bale",
+                "Grasping the bale with both hands for stability",
+                "Initiating movement to carry the bale to the desired location",
+                "Using the legs and back to lift and carry the bale, which may involve some squatting and walking",
+                "Placing the bale in the field or storage area safely"
+            ]
+        },
+        {
+            "task": "Observing the process of hay baler operation",
+            "subtasks": [
+                "Noting how the hay is fed into the baler",
+                "Watching the compression and wrapping mechanism",
+                "Checking for any malfunctions or issues during operation"
+            ]
+        },
+        {
+            "task": "Tending to livestock in a pasture",
+            "subtasks": [
+                "Walking through the pasture to check on the animals",
+                "Observing the behavior and health of the livestock",
+                "Ensuring the animals have adequate space and shade",
+                "Checking if fencing is intact and without holes"
+            ]
+        },
+        {
+            "task": "Checking for fence repairs",
+            "subtasks": [
+                "Walking along the fence line to identify damage",
+                "Assessing the extent of the damage (e.g., broken posts, missing wire)",
+                "Planning the steps needed for repair"
+            ]
+        },
+        {
+            "task": "Operating a tractor",
+            "subtasks": [
+                "Starting the tractor engine",
+                "Maneuvering the tractor to the field",
+                "Attaching necessary equipment (e.g., the baler or plow)",
+                "Driving the tractor in the field for efficient work progress"
+            ]
+        },
+        {
+            "task": "Guiding the hay bale through the baler machine",
+            "subtasks": [
+                "Ensuring the hay bale is fed correctly into the baler",
+                "Monitoring the bale's position within the machine",
+                "Adjusting the feed mechanism if necessary"
+            ]
+        },
+        {
+            "task": "Assessing soil conditions for planting",
+            "subtasks": [
+                "Walking through a field to assess soil moisture",
+                "Checking the ground for erosion or compaction",
+                "Noting areas that may need special attention for planting"
+            ]
+        },
+        {
+            "task": "Planting seeds or crops",
+            "subtasks": [
+                "Preparing the soil for planting",
+                "Loading planting equipment with seeds",
+                "Driving the equipment in the field while planting",
+                "Checking the depth and spacing of seeds inserted into the soil"
+            ]
+        },
+        {
+            "task": "Using a disc harrow on a field",
+            "subtasks": [
+                "Attaching the disc harrow to the tractor",
+                "Driving the tractor over the field to break up soil",
+                "Adjusting the harrow depth for optimal tillage",
+                "Ensuring the harrow is properly attached and balanced"
+            ]
+        },
+        {
+            "task": "Feeding livestock in a barn",
+            "subtasks": [
+                "Preparing feed for the animals",
+                "Transporting feed to the barn or pasture",
+                "Dispensing the feed into designated areas",
+                "Ensuring all animals have access to feed"
+            ]
+        },
+        {
+            "task": "Moving bales of hay to storage",
+            "subtasks": [
+                "Selecting the bales needed for storage",
+                "Transporting the bales using a vehicle or tractor",
+                "Stacking the bales in a suitable location (e.g., barn, shed)",
+                "Securing the bales to prevent collapse"
+            ]
+        },
+        {
+            "task": "Checking water supply for livestock",
+            "subtasks": [
+                "Inspecting water troughs or tanks for cleanliness",
+                "Ensuring water is flowing properly",
+                "Refilling water sources as necessary"
+            ]
+        },
+        {
+            "task": "Repairing a gate in a fence",
+            "subtasks": [
+                "Locating the damaged gate",
+                "Gathering materials required for repair (e.g., hardware, tools)",
+                "Disassembling the gate if needed",
+                "Reattaching or replacing the damaged components",
+                "Testing the gate's functionality after repair"
+            ]
+        },
+        {
+            "task": "Driving a tractor to transport equipment",
+            "subtasks": [
+                "Loading the equipment (e.g., baler, plow) onto the tractor",
+                "Securing the equipment attachments safely",
+                "Maneuvering the tractor to the desired field location",
+                "Unloading the equipment once at the field"
+            ]
+        },
+        {
+            "task": "Checking the condition of hay bales in storage",
+            "subtasks": [
+                "Inspecting bales for signs of mold or damage",
+                "Ensuring bales are stable and not shifting in storage",
+                "Monitoring stored bales for moisture levels"
+            ]
+        },
+        {
+            "task": "Applying pesticides or fertilizer",
+            "subtasks": [
+                "Measuring out the required amount of product",
+                "Loading the applicator equipment with the product",
+                "Operating the equipment to distribute the product evenly over the field",
+                "Observing the application to confirm coverage"
+            ]
+        },
+        {
+            "task": "Repairing a tractor or piece of farm equipment",
+            "subtasks": [
+                "Identifying the malfunctioning part",
+                "Gathering the necessary tools and replacement parts",
+                "Disassembling the equipment to reach the issue",
+                "Installing the new part or performing repairs",
+                "Testing the equipment to ensure it's functioning correctly"
+            ]
+        },
+        {
+            "task": "Performing maintenance on a farm tractor",
+            "subtasks": [
+                "Inspecting the tractor's various components (e.g., engine, tires, hydraulic systems)",
+                "Lubricating or greasing moving parts",
+                "Checking fluid levels (oil, coolant, etc.)",
+                "Tightening loose bolts or screws"
+            ]
+        },
+        {
+            "task": "Operating a baler loader on a tractor",
+            "subtasks": [
+                "Attaching the baler loader to the tractor",
+                "Operation of the loader to lift and place bales",
+                "Ensuring the loader is safe to operate",
+                "Adjusting the loader\u2019s settings as needed for the bale size",
+                "Managing the flow of bales from the baler to the loader to the storage area"
+            ]
+        },
+        {
+            "task": "Checking for overwintering risks",
+            "subtasks": [
+                "Inspecting crops or plants for signs of frost or cold damage",
+                "Covering vulnerable plants with mulch or plastic",
+                "Assessing the need for irrigation to protect against freezing"
+            ]
+        },
+        {
+            "task": "Checking equipment for proper attachment",
+            "subtasks": [
+                "Ensuring the baler is securely attached to the tractor",
+                "Verifying that all connections (hydraulic, electrical) are tight and correct",
+                "Confirming that safety mechanisms are activated"
+            ]
+        },
+        {
+            "task": "Ensuring livestock safety",
+            "subtasks": [
+                "Verifying fencing is secure to prevent animal escapes",
+                "Checking that all gates are closing properly",
+                "Removing any hazards in the livestock areas (e.g., broken boards, electric wires)",
+                "Ensuring the animals have proper shelter from harsh weather"
+            ]
+        },
+        {
+            "task": "Maintaining a field by controlling weeds",
+            "subtasks": [
+                "Identifying the type of weeds present in the field",
+                "Selecting appropriate herbicide or cultural control methods",
+                "Applying the control measures as per instructions",
+                "Monitoring the effectiveness of the control over time"
+            ]
+        },
+        {
+            "task": "Checking tire pressure on a vehicle",
+            "subtasks": [
+                "Reference the required air pressure for the tires specified in the equipment manual or on the tire sidewall",
+                "Using a tire gauge to measure the current pressure",
+                "Comparing the measured pressure to the required pressure",
+                "Adding air to the tires as necessary to achieve the correct pressure"
+            ]
+        },
+        {
+            "task": "Organizing hay bales for stacking",
+            "subtasks": [
+                "Arranging the bales in a stack to maximize stability",
+                "Considering the direction the stack will face for weather protection",
+                "Ensuring the stack is not too high to prevent collapse",
+                "Covering the stack with plastic or tarp if necessary"
+            ]
+        },
+        {
+            "task": "Operating a sprayer to apply fertilizer",
+            "subtasks": [
+                "Connecting the sprayer to the appropriate water source",
+                "Calibration of the sprayer for the right application rate",
+                "Driving through the field while applying fertilizer, ensuring even distribution",
+                "Checking wind speed and direction to prevent drift"
+            ]
+        },
+        {
+            "task": "Collecting hay from a field",
+            "subtasks": [
+                "Monitoring the moisture content of the hay as it's baled",
+                "Ensuring the bales are not too wet or dry for optimal storage",
+                "Adjusting the baler settings if needed to obtain the correct moisture level"
+            ]
+        },
+        {
+            "task": "Diagnosing issues with a broken fence wire",
+            "subtasks": [
+                "Inspecting the fencing material to locate the break",
+                "Evaluating the extent of the damage (number of wires affected)",
+                "Either splicing the wire or replacing the damaged section",
+                "Sealing the connection to prevent further detachment"
+            ]
+        },
+        {
+            "task": "Irrigating a field",
+            "subtasks": [
+                "Checking the irrigation system's water pressure and flow rate",
+                "Adjusting the valves or nozzles to distribute water evenly across the field",
+                "Monitoring the field to ensure that all areas are receiving adequate water",
+                "Keeping an eye on weather conditions to avoid overwatering"
+            ]
+        },
+        {
+            "task": "Applying manure to a field",
+            "subtasks": [
+                "Preparing the manure spreader with the collected manure",
+                "Driving the spreader over the field, adjusting the application rate",
+                "Checking that the manure is spread uniformly across the field",
+                "Ensuring the field's nutrient levels are being managed appropriately"
+            ]
+        },
+        {
+            "task": "Checking the balance of a hay loader on a tractor",
+            "subtasks": [
+                "Confirm that the loader is centered properly on the tractor",
+                "Verify that the hydraulic system is functioning smoothly",
+                "Listening for anomalies in the loader\u2019s operation while moving",
+                "Checking load distribution to prevent imbalance"
+            ]
+        },
+        {
+            "task": "Removing weeds from sensitive areas",
+            "subtasks": [
+                "Identifying the appropriate method for removing weeds (hand-pulling, tilling, etc.)",
+                "Executing the weed removal in the targeted area",
+                "Checking the area after removal to ensure all weeds are eliminated"
+            ]
+        },
+        {
+            "task": "Ensuring access to a water source",
+            "subtasks": [
+                "Checking the flow from a well, pond, or river",
+                "Making sure there's sufficient water pressure for machinery and livestock",
+                "Ensuring the water is potable for the animals"
+            ]
+        },
+        {
+            "task": "Securing a hay bale before stacking",
+            "subtasks": [
+                "Wrapping the bale for additional protection against weather",
+                "Positioning the bale in the correct orientation for the stack",
+                "Using straps or twine to hold the bale in place during stacking"
+            ]
+        },
+        {
+            "task": "Feeding animals during a storm",
+            "subtasks": [
+                "Refilling water and feed troughs more frequently",
+                "Ensuring shelter is provided for livestock",
+                "Monitoring for signs of stress or cold in the animals"
+            ]
+        },
+        {
+            "task": "Checking the status of crops during inclement weather",
+            "subtasks": [
+                "Evaluating the impact of heavy rain, snow, or frost on the crop",
+                "Taking protective measures like covering young crops with tarps",
+                "Assessing potential yield loss"
+            ]
+        },
+        {
+            "task": "Using a rake to move hay",
+            "subtasks": [
+                "Positioning the rake in the field where hay needs to be moved",
+                "Engaging the teeth of the rake to lift the hay",
+                "Moving the hay to the desired location or protecting it from weather"
+            ]
+        },
+        {
+            "task": "Attaching a trailer to a vehicle",
+            "subtasks": [
+                "Ensuring the trailer is properly coupled to the vehicle",
+                "Stabilizing the trailer connections",
+                "Checking the trailer's load capacity and the hay\u2019s weight",
+                "Securing the trailer's load for transport"
+            ]
+        },
+        {
+            "task": "Driving through a flooded area",
+            "subtasks": [
+                "Assessing the depth of water on the road",
+                "Ensuring the tractor's height is safe above the water level",
+                "Moving slowly through the flooded area to avoid damage",
+                "Preventing the introduction of water into the equipment"
+            ]
+        },
+        {
+            "task": "Wearing appropriate attire for outdoor farm work",
+            "subtasks": [
+                "Choosing clothing that is protective (e.g., boots, gloves, reflective vest)",
+                "Ensuring layers are manageable for varying weather conditions",
+                "Being aware of sun protection and hydration needs"
             ]
         }
     ]

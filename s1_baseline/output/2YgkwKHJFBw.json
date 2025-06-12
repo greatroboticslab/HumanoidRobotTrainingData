@@ -5,28 +5,217 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Soil testing using home kits or sending samples to a lab.",
+            "task": "Using a home soil testing kit",
             "subtasks": [
-                "Collecting a soil sample.",
-                "Sending soil sample to a lab for analysis (if choosing that option).",
-                "Using a home soil testing kit.",
-                "Mixing soil, water, and reagents in a tube.",
-                "Comparing the resulting color to a provided card or chart.",
-                "Determining soil pH, phosphorus, nitrogen, and potassium levels from the test results."
+                "Collect a soil sample",
+                "Add soil to a test tube",
+                "Add water to the test tube",
+                "Add a reagent to the test tube",
+                "Match the color of the solution to a provided card",
+                "Determine soil pH, phosphorus, nitrogen, and potassium levels"
             ]
         },
         {
-            "task": "Purchasing a home soil testing kit.",
+            "task": "Purchasing a soil testing kit",
             "subtasks": [
-                "Locating garden stores or ordering online.",
-                "Buying a kit under $30."
+                "Visit a garden store",
+                "Buy a soil testing kit for under $30",
+                "Order a soil testing kit online"
             ]
         },
         {
-            "task": "Applying test results to garden needs.",
+            "task": "Comparing results to lab analysis",
             "subtasks": [
-                "Adjusting pH based on test results.",
-                "Adding necessary fertilizers as per the test recommendations."
+                "Understand that home tests are less precise than lab tests",
+                "Use home test results as a general guideline for gardening needs"
+            ]
+        },
+        {
+            "task": "Using a home soil testing kit. Then the steps involved: you collect a soil sample, right? So that's a subtask. Then you add the soil to a test tube provided in the kit. Another subtask: add water to the test tube. Then add a reagent, which is probably a chemical indicator for pH or nutrients. Then you match the color of the solution against a color card that comes with the kit. The video mentions matching the color, so that's a specific step. The purpose is to determine the pH and nutrient levels like phosphorus, nitrogen, and potassium. So for that MAINTASK, the subtasks are collecting the sample, performing the test by adding components and matching colors.",
+            "subtasks": []
+        },
+        {
+            "task": "Purchasing a soil testing kit. The options are garden stores or online for under $30. So subtasks here would be going to a store, buying a kit, or ordering online.",
+            "subtasks": []
+        },
+        {
+            "task": "checking the time of year. But considering the transcript doesn't emphasize timing as a critical step, maybe it\u2019s too vague.",
+            "subtasks": []
+        },
+        {
+            "task": "Using a home soil testing kit",
+            "subtasks": []
+        },
+        {
+            "task": "Purchasing a soil testing kit",
+            "subtasks": []
+        },
+        {
+            "task": "Comparing results to lab analysis (understanding that they are less precise but sufficient for garden use).",
+            "subtasks": []
+        },
+        {
+            "task": "Using a soil testing kit includes collecting sample, adding components, matching color. Another MAINTASK: Determining fertilizer needs involves interpreting the test results. But the question specifies to generate tasks based on the transcript, so the transcript doesn't mention applying fertilizers. Therefore, perhaps the determination part is beyond the scope here.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Using a home soil testing kit",
+            "subtasks": [
+                "Collect a soil sample",
+                "Add soil to a test tube",
+                "Add water to the test tube",
+                "Add a reagent to the test tube",
+                "Match the color of the solution to the provided card",
+                "Determine soil pH and nutrient levels (phosphorus, nitrogen, potassium)",
+                "Understand that the test results provide a general guideline for gardening needs."
+            ]
+        },
+        {
+            "task": "Purchasing a soil testing kit",
+            "subtasks": [
+                "Visit a garden store and buy a kit for under $30",
+                "Order a soil testing kit online",
+                "Note that the kits are available in most garden stores."
+            ]
+        },
+        {
+            "task": "Comparing results to lab analysis",
+            "subtasks": [
+                "Recognize that home test kits are less precise than lab tests",
+                "Consider the results sufficient for general gardening purposes."
+            ]
+        },
+        {
+            "task": "However, for clarity, maybe the third MAINTASK is included for completeness. So potentially all three MAINTASKs as outlined.",
+            "subtasks": []
+        },
+        {
+            "task": "Testing garden soil using a home kit",
+            "subtasks": []
+        },
+        {
+            "task": "Obtaining a home soil testing kit",
+            "subtasks": []
+        },
+        {
+            "task": "Lastly, would 'Educational video viewing' be a task? The video is just explaining the process, so the user isn't performing the task through viewing but rather following instructions. So no, the transcript is just explanatory, hence the MAINTASKs are about the actions the farmer/gardener would perform. So yeah, that's the approach.",
+            "subtasks": []
+        },
+        {
+            "task": "Hence, three main tasks with subtasks each. Since when testing the soil, you have multiple steps, and purchasing the kit is a simpler two-subtask MAINTASK. The final understanding does not require physical action but is necessary information, so including it as a MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "When using the soil testing kit, the user should know that the results are approximate but useful for gardening.",
+            "subtasks": []
+        },
+        {
+            "task": "But the initial guidance mentions 'generate a series of tasks,' so probably wanting more distinct steps. For example, the third MAINTASK could be \"Interpreting the results and understanding their limitations\" but this seems a bit vague.",
+            "subtasks": []
+        },
+        {
+            "task": "Applying fertilizer based on test results, but as mentioned before, that might be out of scope since the transcript doesn't cover application steps.",
+            "subtasks": []
+        },
+        {
+            "task": "Using a home soil testing kit",
+            "subtasks": []
+        },
+        {
+            "task": "But breaking it into two MAINTASKs (Kit Usage and Understanding Limitations) may make it clearer. Alternatively, have mach tasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Alternatively, but for the Qwen system, the instructions just need to respond with the tasks the video mentions without over-interpreting. Given that the video walks through using the kit, the purchasing options, and the accuracy compared to lab tests, the three MAINTASKs I listed make sense.",
+            "subtasks": []
+        },
+        {
+            "task": "\"generate a series of tasks based on the transcript that a person would have to perform. A task should be a generalization, and made up of smaller sub-tasks... Give one task per line. When you are finished with the sub-tasks for a task, you can start a new task by writing MAINTASK: and then the new general task.\" So the user has to generate task generalizations (one per line) based on the transcript. So the transcript does mention options for purchasing, so possibly that task should be included. However, physically going to a store or clicking on an online store might not count, unless explicitly told.",
+            "subtasks": []
+        },
+        {
+            "task": "Using a home soil testing kit",
+            "subtasks": []
+        },
+        {
+            "task": "Purchasing a soil testing kit",
+            "subtasks": []
+        },
+        {
+            "task": "Using a home soil testing kit",
+            "subtasks": []
+        },
+        {
+            "task": "Understanding the limitations of home soil test kits compared to professional lab tests. But this may be overcomplicating.",
+            "subtasks": []
+        },
+        {
+            "task": "Alternatively, include the understanding part under 'Using the kit,' so the user during the process of using the kit needs to know that while it's not as precise as lab tests, the results are sufficient. Hence, part of using the kit is to be aware of its limitations. So combine that into the overall MAINTASK.",
+            "subtasks": []
+        },
+        {
+            "task": "Using a home soil testing kit",
+            "subtasks": [
+                "Collect a soil sample",
+                "Add soil to a test tube",
+                "Add water to the test tube",
+                "Add a reagent to the test tube",
+                "Match the color of the solution to a provided card",
+                "Determine soil pH, phosphorus, nitrogen, and potassium levels",
+                "Understand that home test results are a general guideline for gardening needs, even if less precise than lab tests."
+            ]
+        },
+        {
+            "task": "Purchasing a soil testing kit",
+            "subtasks": [
+                "Visit a local garden store and purchase a kit for under $30",
+                "Order a soil testing kit online"
+            ]
+        },
+        {
+            "task": "I think this covers all the physical tasks related to the transcript. The comprehension part (understanding limitations) is included as a subtask in the first MAINTASK. Additionally, mentioning that the color matching is done \"to the card,\" rather than \" against the card,\" but I think the video says \"match the color in the tube to the color on a card,\" so that's the correct phrasing. So \"match color to provided card\" is accurate.",
+            "subtasks": []
+        },
+        {
+            "task": "MAINTASK: Using a home soil testing kit",
+            "subtasks": [
+                "Collect a soil sample",
+                "Add soil to a test tube",
+                "Add water to the test tube",
+                "Add a reagent to the test tube",
+                "Match the color of the solution to a provided card",
+                "Determine soil pH, phosphorus, nitrogen, and potassium levels",
+                "Understand that home test results are a general guideline for gardening needs, even if less precise than lab tests."
+            ]
+        },
+        {
+            "task": "Purchasing a soil testing kit",
+            "subtasks": [
+                "Visit a local garden store and purchase a kit for under $30",
+                "Order a soil testing kit online"
+            ]
+        },
+        {
+            "task": "Using a home soil testing kit",
+            "subtasks": [
+                "Collect a soil sample",
+                "Add soil to a test tube",
+                "Add water to the test tube",
+                "Add a reagent to the test tube",
+                "Match the color of the solution to a provided card",
+                "Determine soil pH, phosphorus, nitrogen, and potassium levels",
+                "Understand that home test results are a general guideline for gardening needs, even if less precise than lab tests."
+            ]
+        },
+        {
+            "task": "Purchasing a soil testing kit",
+            "subtasks": [
+                "Visit a local garden store and purchase a kit for under $30",
+                "Order a soil testing kit online"
             ]
         }
     ]

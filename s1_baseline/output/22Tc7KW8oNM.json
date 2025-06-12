@@ -5,23 +5,62 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Operating a chopper to process feed",
+            "task": "Feeding livestock with a hay wagon",
             "subtasks": [
-                "Positioning the chopper near the feed source",
-                "Engaging the chopper motor to start operation",
-                "Monitoring feed particles for desired size",
-                "Adjusting chopper blades if necessary",
-                "Ensuring safe operation by maintaining distance from moving parts"
+                "Positioning the hay wagon adjacent to the livestock enclosure",
+                "Lowering the chute mechanism of the hay wagon to release feed",
+                "Verbalizing acknowledgment while feeding (e.g., \"Chuting Chufeed\")",
+                "Ensuring the feed is distributed evenly"
             ]
         },
         {
-            "task": "Feeding livestock",
+            "task": "Operating the hay wagon's chute",
             "subtasks": [
-                "Transporting feed to the livestock area",
-                "Distributing feed evenly among livestock",
-                "Observing livestock for eating behavior and health",
-                "Cleaning feed troughs if necessary"
+                "Manipulating the lever or handle to lower and raise the chute",
+                "Verifying the chute is properly aligned with the livestock feed area"
             ]
+        },
+        {
+            "task": "Verifying even distribution of feed",
+            "subtasks": [
+                "Observing the livestock to ensure all animals receive feed",
+                "Adjusting the chute or wagon position as necessary"
+            ]
+        },
+        {
+            "task": "Feeding livestock with a hay wagon",
+            "subtasks": [
+                "Positioning the hay wagon adjacent to the livestock enclosure",
+                "Lowering the chute mechanism of the hay wagon to release feed",
+                "Verbalizing acknowledgment while feeding (e.g., \"Chuting Chufeed\")",
+                "Ensuring the feed is distributed evenly"
+            ]
+        },
+        {
+            "task": "Operating the hay wagon's chute",
+            "subtasks": [
+                "Manipulating the lever or handle to lower and raise the chute",
+                "Verifying the chute is properly aligned with the livestock feed area"
+            ]
+        },
+        {
+            "task": "Verifying even distribution of feed",
+            "subtasks": [
+                "Observing the livestock to ensure all animals receive feed",
+                "Adjusting the chute or wagon position as necessary"
+            ]
+        },
+        {
+            "task": "Feeding livestock with a hay wagon**",
+            "subtasks": []
+        },
+        {
+            "task": "Operating the hay wagon's chute**",
+            "subtasks": []
+        },
+        {
+            "task": "Verifying even distribution of feed**",
+            "subtasks": []
         }
     ]
 }

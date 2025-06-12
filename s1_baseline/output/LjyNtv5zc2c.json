@@ -5,196 +5,29 @@
     "category": "Nonprofits & Activism",
     "tasks": [
         {
-            "task": "Filling a container with water from a sluice gate.",
+            "task": "Planting soybeans",
             "subtasks": [
-                "Approach the sluice gate.",
-                "Open the sluice gate to allow water flow.",
-                "Position the container under the water outlet.",
-                "Collect water until the desired amount is reached."
+                "Load soybean seed into planter",
+                "Attach seed hood to planter",
+                "Check seed calibration",
+                "Seed the soybean field"
             ]
         },
         {
-            "task": "Watering crops using a jug.",
+            "task": "Spraying herbicide",
             "subtasks": [
-                "Retrieve a watering jug from storage.",
-                "Fill the jug with water from the nearby container.",
-                "Walk to the crop field.",
-                "Pour water onto the crops, applying it evenly."
+                "Load herbicide into sprayer",
+                "Adjust spray nozzle pressure",
+                "Calibrate spray booms",
+                "Drive through soybean field to apply herbicide"
             ]
         },
         {
-            "task": "Collecting vegetables using forceps.",
+            "task": "Walking through soybean field",
             "subtasks": [
-                "Prepare forceps for harvesting.",
-                "Approach the vegetable patch.",
-                "Select mature vegetables with forceps.",
-                "Transfer selected vegetables into a basket or container."
-            ]
-        },
-        {
-            "task": "Dealing with a broken watering pipe.",
-            "subtasks": [
-                "Identify the location of the broken pipe.",
-                "Disconnect the broken pipe from the water source.",
-                "Inspect the damage to the pipe.",
-                "Determine the appropriate repair method.",
-                "Prepare any necessary replacement parts or tools.",
-                "Reattach or replace the pipe segment.",
-                "Test the repaired pipe for leaks or functionality."
-            ]
-        },
-        {
-            "task": "Drain excess water from a field.",
-            "subtasks": [
-                "Locate the irrigation system's drainage mechanism.",
-                "Open the drainage valve or outlet.",
-                "Confirm water begins draining from the field."
-            ]
-        },
-        {
-            "task": "Checking the condition of crops.",
-            "subtasks": [
-                "Walk through the crop rows.",
-                "Visually inspect plant health and growth.",
-                "Note any areas requiring attention."
-            ]
-        },
-        {
-            "task": "Moving a container of collected vegetables.",
-            "subtasks": [
-                "Lift a container filled with harvested vegetables.",
-                "Transport the container to a designated collection point.",
-                "Place the container at the collection area."
-            ]
-        },
-        {
-            "task": "Applying fertilizer to crops.",
-            "subtasks": [
-                "Retrieve a fertilizer spreader or\u6492\u64ad\u5668.",
-                "Fill the spreader with the required fertilizer.",
-                "Walk through the crop rows, releasing the fertilizer evenly."
-            ]
-        },
-        {
-            "task": "Operating a drip irrigation system.",
-            "subtasks": [
-                "Check the drip irrigation tubes for proper placement.",
-                "Turn on the irrigation valves to initiate water flow.",
-                "Monitor the system to ensure even distribution."
-            ]
-        },
-        {
-            "task": "Managing a garden's irrigation schedule.",
-            "subtasks": [
-                "Review the current irrigation log or calendar.",
-                "Adjust the schedule based on weather and growth stages.",
-                "Communicate any changes to relevant team members."
-            ]
-        },
-        {
-            "task": "Checking the level of a water tank.",
-            "subtasks": [
-                "Approach the water tank.",
-                "Determine the current water level visually or via gauge.",
-                "Compare the current level to the previous record.",
-                "Note any required actions based on the tank level.",
-                "Each of these main tasks has several concrete sub-tasks that detail the physical actions involved. The goal was to parse the video transcript for these typical agricultural activities and their component steps. Maybe some parts of the transcript were unclear or overlapped, but the key is to identify the broad actions and break them down into manageable subtasks. Once identified, the MAINTASKs (major tasks) with their SUBTASKs form the complete list. This approach ensures coverage of the transcript's relevant content."
-            ]
-        },
-        {
-            "task": "Filling a container with water from a sluice gate.",
-            "subtasks": [
-                "Approach the sluice gate.",
-                "Open the sluice gate to allow water flow.",
-                "Position the container under the water outlet.",
-                "Collect water until the desired amount is reached."
-            ]
-        },
-        {
-            "task": "Watering crops using a jug.",
-            "subtasks": [
-                "Retrieve a watering jug from storage.",
-                "Fill the jug with water from the nearby container.",
-                "Walk to the crop field.",
-                "Pour water onto the crops, applying it evenly."
-            ]
-        },
-        {
-            "task": "Collecting vegetables using forceps.",
-            "subtasks": [
-                "Prepare forceps for harvesting.",
-                "Approach the vegetable patch.",
-                "Select mature vegetables with forceps.",
-                "Transfer selected vegetables into a basket or container."
-            ]
-        },
-        {
-            "task": "Dealing with a broken watering pipe.",
-            "subtasks": [
-                "Identify the location of the broken pipe.",
-                "Disconnect the broken pipe from the water source.",
-                "Inspect the damage to the pipe.",
-                "Determine the appropriate repair method.",
-                "Prepare any necessary replacement parts or tools.",
-                "Reattach or replace the pipe segment.",
-                "Test the repaired pipe for leaks or functionality."
-            ]
-        },
-        {
-            "task": "Drain excess water from a field.",
-            "subtasks": [
-                "Locate the irrigation system's drainage mechanism.",
-                "Open the drainage valve or outlet.",
-                "Confirm water begins draining from the field."
-            ]
-        },
-        {
-            "task": "Checking the condition of crops.",
-            "subtasks": [
-                "Walk through the crop rows.",
-                "Visually inspect plant health and growth.",
-                "Note any areas requiring attention."
-            ]
-        },
-        {
-            "task": "Moving a container of collected vegetables.",
-            "subtasks": [
-                "Lift a container filled with harvested vegetables.",
-                "Transport the container to a designated collection point.",
-                "Place the container at the collection area."
-            ]
-        },
-        {
-            "task": "Applying fertilizer to crops.",
-            "subtasks": [
-                "Retrieve a fertilizer spreader or\u6492\u64ad\u5668.",
-                "Fill the spreader with the required fertilizer.",
-                "Walk through the crop rows, releasing the fertilizer evenly."
-            ]
-        },
-        {
-            "task": "Operating a drip irrigation system.",
-            "subtasks": [
-                "Check the drip irrigation tubes for proper placement.",
-                "Turn on the irrigation valves to initiate water flow.",
-                "Monitor the system to ensure even distribution."
-            ]
-        },
-        {
-            "task": "Managing an irrigation schedule.",
-            "subtasks": [
-                "Review the current irrigation log or calendar.",
-                "Adjust the schedule based on weather and growth stages.",
-                "Communicate any changes to relevant team members."
-            ]
-        },
-        {
-            "task": "Checking the level of a water tank.",
-            "subtasks": [
-                "Approach the water tank.",
-                "Determine the current water level visually or via gauge.",
-                "Compare the current level to the previous record.",
-                "Note any required actions based on the tank level."
+                "Visual inspect soybean plants",
+                "Check for weed growth",
+                "Note areas needing additional herbicide application"
             ]
         }
     ]

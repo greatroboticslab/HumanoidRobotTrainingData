@@ -5,43 +5,20 @@
     "category": "Science & Technology",
     "tasks": [
         {
-            "task": "Presenting the Agronomy Field Information Management System (AgroFIMS)",
+            "task": "Presenting AgroFIMS and Agro Ontology for Organizing Agricultural Data",
             "subtasks": [
-                "Setup and customize experiment details (e.g., type of experiment, site, crop, design)",
-                "Input experimental treatments (e.g., fertilizers, nutrient amounts, application methods)",
-                "Specify crop measurements and units",
-                "Generate standardized field book for data collection",
-                "Integrate with KD Smart application for mobile data collection"
+                "Standardizing data collection through AgroFIMS",
+                "Collecting and annotating data using KD Smart (mobile app)",
+                "Using Agro Ontology for metadata alignment",
+                "Statistical analysis and reporting"
             ]
         },
         {
-            "task": "Describing the Agronomy Ontology",
+            "task": "Developing and Maintaining the Agro Ontology",
             "subtasks": [
-                "Define agricultural experiments and processes (e.g., planting, fertilization, irrigation)",
-                "Classify agricultural implements and equipment",
-                "Catalog fertilizers and units of measurement",
-                "Develop a hierarchical structure for terms and relations",
-                "Collaborate with external ontologies (e.g., CHEBI, EnvO, plant ontology)"
-            ]
-        },
-        {
-            "task": "Using Ontologies and AGRO for Data Annotation",
-            "subtasks": [
-                "Access AGRO ontology via websites or GitHub",
-                "Utilize Ontology Lookup Service (OLS) for term discovery",
-                "Employ Copo tool for automated data annotation",
-                "Store and aggregate data using AgroFIMS and CG Lab platforms",
-                "Conflict resolution and term creation in AGRO"
-            ]
-        },
-        {
-            "task": "Integrating AgroFIMS and AGRO into the Data Ecosystem",
-            "subtasks": [
-                "Connect with existing data repositories (e.g., Guardian)",
-                "Facilitate data discovery and compliance with FAIR principles",
-                "Support for multiple Croptiles and experimental designs",
-                "Enhance data interoperability through standardized metadata",
-                "Collaborate with breeding management systems for integrated data"
+                "Reusing existing ontologies (e.g., BFO, CHEBI, OBONEXON)",
+                "Creating domain-specific classes (e.g., agricultural experiments, implementing processes)",
+                "Community engagement and feedback"
             ]
         }
     ]

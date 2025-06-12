@@ -5,27 +5,78 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Harvest bok choy from a tower garden.",
+            "task": "Harvest bok choy from tower garden",
             "subtasks": [
-                "Approach the tower garden.",
-                "Reach into the tower garden to retrieve the bok choy.",
-                "Grasp the bok choy, ensuring to handle it gently to preserve the roots.",
-                "Pull the bok choy out from the tower garden, separating it from the roots if necessary.",
-                "Place the harvested bok choy into a container or onto a surface."
+                "Approach the tower garden",
+                "Reach into the tower garden to grasp the bok choy",
+                "Gently pull the bok choy out of the tower garden",
+                "Inspect the roots of the bok choy for health"
             ]
         },
         {
-            "task": "Prepare a stir fry using the harvested bok choy.",
+            "task": "Prepare stir fry",
             "subtasks": [
-                "Gather necessary ingredients for the stir fry, including the harvested bok choy.",
-                "Clean the bok choy under running water to remove any dirt or debris.",
-                "Slice the bok choy into appropriate sizes for the stir fry.",
-                "Heat cooking oil in a wok or frying pan over medium-high heat.",
-                "Add other ingredients to the stir fry, following a recipe or personal preferences.",
-                "Add the sliced bok choy to the stir fry and cook until tender-crisp.",
-                "Taste the stir fry and adjust seasoning if necessary.",
-                "Serve the completed stir fry."
+                "Gather ingredients for the stir fry",
+                "Wash the harvested bok choy",
+                "Chop the bok choy into appropriate sizes for stir fry",
+                "Heat oil in a pan",
+                "Add ingredients to the pan in the order typical for a stir fry",
+                "Stir and cook the ingredients until properly prepared"
             ]
+        },
+        {
+            "task": "Thus, the MAINTASK would be harvesting bok choy from the tower garden, with various subtasks like approaching, reaching, pulling, inspecting. Then maybe another task for chopping and cooking, but since the transcript doesn't mention cooking, only that they're going to make one. So perhaps the answer only includes the harvesting tasks.",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest and prepare bok choy for stir fry",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest and prepare bok choy for stir fry",
+            "subtasks": []
+        },
+        {
+            "task": "Therefore, confident that MAINTASK should be harvesting bok choy from the tower garden, with subtasks approaching, reaching, pulling, inspecting. Then, once they have the vegetables, washing and chopping. However, since the stir fry is mentioned, maybe they did these tasks but it's only referenced. So perhaps only the harvesting tasks are explicitly mentioned in the transcript. But \"make a stir fry\" could imply that preparation is ongoing, so chopping may be part of performing the stir fry. Hmm, this part is a bit hazy.",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest bok choy from tower garden with subtasks approaching, reaching, pulling, inspecting, then perhaps separate MAINTASK: Prepare stir fry with subtasks gathering ingredients, washing, chopping. But given the transcript mentions going to make the stir fry, the preparation may have already been done. Alternatively, the video could be showing someone going into the garden, getting the vegetables, rushing home to make a stir fry, but the transcript only mentions the part where they're going to make it.",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest bok choy from tower garden",
+            "subtasks": []
+        },
+        {
+            "task": "Prepare the harvested bok choy for stir fry",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest Bok Choy and MAINTASK2: Prepare for Stir Fry, each with steps involved.",
+            "subtasks": []
+        },
+        {
+            "task": "Harvest bok choy from tower garden",
+            "subtasks": [
+                "Approach the tower garden",
+                "Reach into the tower garden to grasp the bok choy",
+                "Gently pull the bok choy out of the tower garden",
+                "Inspect the roots of the bok choy for health"
+            ]
+        },
+        {
+            "task": "MAINTASK: Harvest bok choy from tower garden",
+            "subtasks": [
+                "Approach the tower garden",
+                "Reach into the tower garden to grasp the bok choy",
+                "Gently pull the bok choy out of the tower garden",
+                "Inspect the roots of the bok choy for health"
+            ]
+        },
+        {
+            "task": "Harvest bok choy from tower garden",
+            "subtasks": []
         }
     ]
 }

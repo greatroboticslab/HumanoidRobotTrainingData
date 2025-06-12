@@ -5,15 +5,147 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Examine and identify common strawberry diseases in Alabama.",
+            "task": "Attend an educational seminar on strawberry diseases.",
             "subtasks": [
-                "Describe the appearance of common leaf spots (fungal and bacterial).",
-                "Explain methods to control fungal leaf spots and assess their resistance.",
-                "Identify and describe bacterial angular leaf spot, including weather conditions that favor its development.",
-                "Describe the symptoms and management strategies for anthracnose crown rot and phytoptera root and crown rot, noting the importance of resistant varieties and soil drainage.",
-                "Discuss the causes, symptoms, and control methods for gray mold (Botrytis) fruit rot, emphasizing fungicide application schedules and resistance considerations.",
-                "Explain management strategies for other fruit rots, including anthracnose fruit rot, neopestalosphaeria, and rhizopus, highlighting the role of cultural practices and fungicide resistance."
+                "Introduce yourself as a Plant Pathologist.",
+                "Define plant diseases.",
+                "Explain biotic and abiotic causes.",
+                "Discuss preventative measures against diseases.",
+                "Detail common leaf spot diseases (strawberry leaf spot, leaf blight).",
+                "Describe management strategies for leaf spot diseases (fungicide application, resistant varieties).",
+                "Explain bacterial diseases (angular leaf spot) and their management.",
+                "Identify soil and crown rot diseases (anthracnose, phytoptera root rot).",
+                "Outline management strategies for crown and root rots (resistant varieties, sanitation).",
+                "Address fruit rots (gray mold, anthracnose, rhizobus, new diseases).",
+                "Provide cultural practices to control fruit rots (fungicide dips, picking practices).",
+                "Summarize disease prevention and management for commercial growers.",
+                "Provide contact information for further assistance."
             ]
+        },
+        {
+            "task": "Handle strawberry plants in the field.",
+            "subtasks": [
+                "Examine strawberry plants for leaf spots.",
+                "Identify signs of fungal leaf spots (brown lesions, target-like patterns).",
+                "Check for bacterial leaf spots (angular leaf spots).",
+                "Inspect lower leaves for water-soaked yellow lesions.",
+                "Look for leaf blight symptoms (yellow-brown leaves, V-shaped lesions).",
+                "Examine fruit for signs of rot (gray mold, anthracnose spots).",
+                "Check the calyx of infected fruits for visible bacteria.",
+                "Monitor plants for crown and root rot symptoms (withered plants, brown crowns).",
+                "Remove dead or infected plants immediately.",
+                "Apply fungicides according to recommended schedules.",
+                "Dip transplants in fungicide solutions to prevent diseases.",
+                "Prune diseased areas of the plant.",
+                "Practice sanitation by removing fruit debris.",
+                "Monitor soil drainage and adjust planting sites.",
+                "Apply resistant varieties to reduce disease incidence.",
+                "Clean equipment and tools between plants to prevent disease spread."
+            ]
+        },
+        {
+            "task": "Perform pesticide application on strawberry fields.",
+            "subtasks": [
+                "Wear appropriate personal protective equipment (PPE) before application.",
+                "Mix fungicide solutions according to product labels.",
+                "Calibrate pesticide sprayers for proper coverage.",
+                "Apply fungicides uniformly across the plant canopy.",
+                "Monitor weather forecasts to avoid application during rain.",
+                "Rotate fungicide products to manage resistance development.",
+                "Document application dates and products used for record-keeping.",
+                "Dispose of contaminated materials properly."
+            ]
+        },
+        {
+            "task": "Manage contaminated material in the field.",
+            "subtasks": [
+                "Isolate and destroy plants showing severe disease symptoms.",
+                "Bury or dispose of removed plants properly to prevent spread.",
+                "Harvest affected fruit immediately and remove from field.",
+                "Do not reuse infected transplants or propagation material.",
+                "Clean tools and equipment after use to prevent disease carryover."
+            ]
+        },
+        {
+            "task": "Conduct sanitary practices in the greenhouse/nursery.",
+            "subtasks": [
+                "Inspect transplants for disease symptoms before planting.",
+                "Dispose of any plants with visible pathogens.",
+                "Sterilize work surfaces and tools before handling healthy plants.",
+                "Use a fungicide dip solution to treat transplants prior to planting.",
+                "Regularly clean the growing area to remove debris."
+            ]
+        },
+        {
+            "task": "Scout and monitor fields for disease progression.",
+            "subtasks": [
+                "Walk through the strawberry field daily to detect new infections.",
+                "Check for emerging symptoms on young leaves and fruit.",
+                "Isolate affected areas to prevent spread.",
+                "Prune and destroy symptomatic plant parts.",
+                "Document the location and extent of disease outbreaks.",
+                "Adjust control strategies based on monitoring findings."
+            ]
+        },
+        {
+            "task": "Maintain good soil and field hygiene.",
+            "subtasks": [
+                "Test soil for drainage and fertility.",
+                "Amend soil as necessary to improve water drainage.",
+                "Remove crop residue after harvest.",
+                "Rotate crops to break disease cycles.",
+                "Use raised beds or mounds for better air circulation."
+            ]
+        },
+        {
+            "task": "Practice proper harvesting techniques.",
+            "subtasks": [
+                "Handle fruit gently to avoid physical damage that can lead to rot.",
+                "Inspect fruit for signs of disease during harvest.",
+                "Remove diseased fruit immediately and dispose of properly.",
+                "Store harvested fruit in a cool, dry environment to slow decay.",
+                "Follow proper refrigeration techniques for long-term storage."
+            ]
+        },
+        {
+            "task": "Carry out resistant cultivar selection.",
+            "subtasks": [
+                "Research strawberry varieties resistant to prevalent pathogens.",
+                "Select resistant varieties based on regional adaptation and yield potential.",
+                "Test new varieties in a limited area before widespread adoption.",
+                "Document performance of resistant cultivars over multiple growing seasons."
+            ]
+        },
+        {
+            "task": "Conduct sanitation practices after harvest.",
+            "subtasks": [
+                "Clean and disinfect harvesting equipment.",
+                "Discard diseased fruit and do not reuse containers on contaminated materials.",
+                "Bag and dispose of infected plant material properly.",
+                "Maintain cleanliness in storage areas to prevent contamination."
+            ]
+        },
+        {
+            "task": "Label and document application practices.",
+            "subtasks": [
+                "Record the date, product name, rate, and application method.",
+                "Follow label instructions regarding re-entry intervals.",
+                "Keep detailed records for future reference and compliance."
+            ]
+        },
+        {
+            "task": "Communicate with agricultural experts and stakeholders.",
+            "subtasks": [
+                "Share knowledge about disease identification and management with colleagues.",
+                "Participate in workshops and educational events on disease management.",
+                "Collaborate with university extension agents for crop health.",
+                "Provide feedback to product manufacturers about observed resistance issues.",
+                "Stay updated through newsletters and research articles on disease trends."
+            ]
+        },
+        {
+            "task": "Attend an educational seminar on strawberry diseases.**",
+            "subtasks": []
         }
     ]
 }

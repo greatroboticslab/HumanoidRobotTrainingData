@@ -5,40 +5,203 @@
     "category": "Entertainment",
     "tasks": [
         {
-            "task": "Setting up an off-grid garden irrigation system.",
+            "task": "Setting up an off-grid garden irrigation system",
             "subtasks": [
-                "Arranging a frame for solar panels.",
-                "Connecting solar panels to a charge controller.",
-                "Wiring the solar pump and timer.",
-                "Installing a deep cycle battery.",
-                "Assembling the pump and attaching it to the tank.",
-                "Configuring the float valve in the tank.",
-                "Connecting the drip system and adjusting pressure.",
-                "Setting up separate zones for the drip irrigation.",
-                "Installing drip tape for individual irrigation lines."
+                "Obtaining necessary components (irrigation kit, solar panels, charger, well pump, etc.)",
+                "Installing solar panels and charge controller",
+                "Connecting the well pump to the solar charging system and timer",
+                "Assembling the irrigation tank and float valve",
+                "Installing the drip irrigation system (drip tape, drip lines, header pipes)",
+                "Ensuring proper pressure and adjusting if necessary (e.g., adding a pressure regulator)"
             ]
         },
         {
-            "task": "Assembling and testing the solar-powered irrigation pump.",
+            "task": "Checking system functionality during precipitation",
             "subtasks": [
-                "Installing the pump into the tank.",
-                "Connecting the pump to the solar panels via a timer.",
-                "Attaching a pressure gauge to monitor system performance.",
-                "Ensuring proper operation of the float valve."
+                "Observing system performance during rain",
+                "Potential adjustments or additional setup based on real-world testing"
             ]
         },
         {
-            "task": "Installing a drip irrigation system.",
+            "task": "Mounting solar panels on a crate structure",
             "subtasks": [
-                "Selecting appropriate irrigation tubing and fittings.",
-                "Attaching drip tape to the header pipe.",
-                "Distributing the drip lines evenly across the garden beds.",
-                "Testing the drip system for proper water distribution.",
-                "Adjusting the system's pressure and flow rate as needed."
+                "Assembling the crate frame (using pallet and sides)",
+                "Securing two 100-watt solar panels to the crate",
+                "Connecting solar panels to the charge controller"
             ]
         },
         {
-            "task": "Setting up an off-grid garden irrigation system.}",
+            "task": "Setting up the well pump with a timer",
+            "subtasks": [
+                "Installing the pump inside the irrigation tank",
+                "Connecting the pump to the charge controller via the timer",
+                "Configuring the timer for automatic on/off functionality"
+            ]
+        },
+        {
+            "task": "Assembling the irrigation tank and float valve",
+            "subtasks": [
+                "Drilling holes in the tank lid for wires and hose",
+                "Installing the float valve mechanism inside the tank",
+                "Connecting the drip irrigation system to the tank (pressurized water)"
+            ]
+        },
+        {
+            "task": "Configuring the drip irrigation setup",
+            "subtasks": [
+                "Attaching drip tape to the header pipes",
+                "Ensuring proper spacing and coverage for the beds"
+            ]
+        },
+        {
+            "task": "Calibrating system pressure",
+            "subtasks": [
+                "Adjusting the system pressure (considering initial overpressure) for optimal performance",
+                "Installing a pressure regulator if necessary (due to high initial pressure)"
+            ]
+        },
+        {
+            "task": "Testing system functionality during rain",
+            "subtasks": [
+                "Observing water distribution during precipitation",
+                "Making any necessary adjustments to prevent waterlogging or overwatering"
+            ]
+        },
+        {
+            "task": "Final review and adjustments",
+            "subtasks": [
+                "Inspecting all connections for leaks or looseness",
+                "Starting the well pump manually to check performance and pressure gauge reading",
+                "Fine-tuning system components as needed (e.g., pressure regulator, pump speed)"
+            ]
+        },
+        {
+            "task": "Setting up an off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Testing system functionality during rain",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up an off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up an off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Assembling the solar power and irrigation system for homesteading",
+            "subtasks": [
+                "Obtaining crate and pallet for frame",
+                "Constructing frame structure using crate and pallet sides",
+                "Securing two 100-watt solar panels to the frame",
+                "Wiring solar panels to charge controller",
+                "Setting up the well pump and connecting it to the charge controller via a 12-volt timer",
+                "Drill holes in tank lid for wires and hose",
+                "Installing the irrigation tank (presumably placing it where water will flow in)",
+                "Setting up the float valve inside the tank to control water level",
+                "Attaching drip tape to the main header pipe",
+                "Installing drip lines for individual garden beds",
+                "Connecting the drip system to the irrigation tank (pressurized water source)",
+                "Checking line pressure with a gauge",
+                "Considering the necessity of a pressure regulator due to high initial pressure"
+            ]
+        },
+        {
+            "task": "Testing system functionality",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up the off-grid garden irrigation system (assembling solar, irrigation components)",
+            "subtasks": []
+        },
+        {
+            "task": "Testing the system functionality during rain",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up the off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up the off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Assembling and testing the off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "One is building/staging the system, and the other is testing.",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up the off-grid garden irrigation system (critical components and initial installation)",
+            "subtasks": []
+        },
+        {
+            "task": "Testing the irrigation system under various conditions (including rain)",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up the off-grid garden irrigation system (subtasks as above)",
+            "subtasks": []
+        },
+        {
+            "task": "Verifying system functionality during rain (subtasks: observing water distribution, adjusting pressure/regulator if necessary)",
+            "subtasks": []
+        },
+        {
+            "task": "Testing the irrigation system during precipitation",
+            "subtasks": [
+                "Monitoring water distribution and system operation during a rainstorm",
+                "Adjusting pressure or other settings as needed"
+            ]
+        },
+        {
+            "task": "Setting up the off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Testing system functionality during precipitation",
+            "subtasks": []
+        },
+        {
+            "task": "So their actual demonstration of testing is in real-time with rain occurring. So perhaps MAINTASK 2 is combining testing with the system setup. This may complicate.",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up an off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up and testing the off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Assembling the off-grid garden irrigation system and verifying it functions as intended.",
+            "subtasks": []
+        },
+        {
+            "task": "",
+            "subtasks": []
+        },
+        {
+            "task": "Assembling an off-grid garden irrigation system with solar power",
+            "subtasks": []
+        },
+        {
+            "task": "Assembling an off-grid garden irrigation system with solar power",
+            "subtasks": []
+        },
+        {
+            "task": "Setting up an off-grid garden irrigation system",
+            "subtasks": []
+        },
+        {
+            "task": "Testing system functionality during rain",
             "subtasks": []
         }
     ]

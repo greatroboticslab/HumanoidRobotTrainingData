@@ -5,12 +5,47 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Sampling Soil for Agricultural Purposes",
+            "task": "Timing and location considerations for soil sampling.",
             "subtasks": [
-                "Considering the timing of soil sampling",
-                "Choosing representative locations for soil samples",
-                "Evaluating soil sample depth requirements",
-                "Performing a spade test to examine soil profile"
+                "Determine optimal soil sampling time relative to plant growth stage.",
+                "Avoid sampling contaminated areas near roads, tracks, watering points, etc.",
+                "Compare soil samples from problem areas versus healthy areas to identify issues."
+            ]
+        },
+        {
+            "task": "Soil sampling depth considerations.",
+            "subtasks": [
+                "Understand that key nutrients are in the top 30cm and sample this depth.",
+                "If subsoil issues are suspected, sample to greater depth."
+            ]
+        },
+        {
+            "task": "Simple spade test technique.",
+            "subtasks": [
+                "Dig a hole to retrieve a soil profile section.",
+                "Test sampled soil for pH, sodicity, and texture."
+            ]
+        },
+        {
+            "task": "MAINTASK: Timing and location considerations for soil sampling.",
+            "subtasks": [
+                "Determine optimal soil sampling time relative to plant growth stage.",
+                "Avoid sampling contaminated areas such as roads, tracks, watering points, and fence lines.",
+                "Compare soil samples from problem areas with healthy areas to identify specific issues."
+            ]
+        },
+        {
+            "task": "Soil sampling depth considerations.",
+            "subtasks": [
+                "Sample the top 30 centimeters where key nutrients are concentrated.",
+                "Consider sampling deeper if subsoil issues are suspected."
+            ]
+        },
+        {
+            "task": "Simple spade test technique.",
+            "subtasks": [
+                "Dig a hole to retrieve a soil profile section.",
+                "Test sampled soil for pH, sodicity, and texture."
             ]
         }
     ]

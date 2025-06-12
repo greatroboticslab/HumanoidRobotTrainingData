@@ -5,124 +5,33 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Weather forecasting for livestock during Wyoming winters.",
+            "task": "Examine the impact of winter weather on livestock and the strategies farmers use.",
             "subtasks": [
-                "Check the National Weather Service's cold weather advisory website for newborn livestock.",
-                "Monitor weather reports to adjust feed and protect livestock from harsh conditions."
+                "Research weather forecasts for livestock survival.",
+                "Understand the nutritional needs of animals during cold weather.",
+                "Identify physical barriers to wind chill, such as tree rows.",
+                "Recognize the role of the National Weather Service in providing cold weather advisories."
             ]
         },
         {
-            "task": "Adjusting feeding strategies for cold weather.",
+            "task": "Assess the importance of wind chill on livestock.",
             "subtasks": [
-                "Increase livestock's nutritional intake to meet higher energy demands.",
-                "Provide extra hay or supplements when temperatures drop and wind chill occurs."
+                "Identify the temperature range where dry animals have no increased energy needs.",
+                "Determine additional feed or supplements required to meet energy demands.",
+                "Observe the use of natural windbreaks, like tree rows, to protect livestock."
             ]
         },
         {
-            "task": "Protecting livestock from wind chill.",
-            "subtasks": [
-                "Assess pasture windbreaks, such as tree rows, to ensure shelter from wind.",
-                "Move livestock to wind-protected areas or structures when necessary."
-            ]
-        },
-        {
-            "task": "\u8c03\u6574\u51ac\u5b63\u9972\u6599\u4f9b\u5e94",
+            "task": "weather forecasting, feeding strategy, and protection from wind. So the main task should reflect that. So if I write MAINTASK as \"Assess winter survival strategies for livestock producers in Wyoming,\" then split into subtasks for each of the three tactics.",
             "subtasks": []
         },
         {
-            "task": "\u6253\u9020\u6216\u4f18\u5316\u98ce\u5c4f\u969c",
+            "task": "Examine the impact of winter weather on livestock and the strategies farmers use.",
             "subtasks": []
         },
         {
-            "task": "\u76d1\u6d4b\u5929\u6c14\u5e76\u76f8\u5e94\u8c03\u6574\u7b56\u7565",
+            "task": "Examine the impact of winter weather on livestock and the strategies farmers use.**",
             "subtasks": []
-        },
-        {
-            "task": "Check weather warnings for newborn livestock and adjust feeding.",
-            "subtasks": [
-                "Visit the National Weather Service website for cold weather advisories.",
-                "Monitor weather forecasts and notes on wind chill.",
-                "Increase feed quantity for herds based on forecast predictions.",
-                "Supply additional hay, grain, or supplements if necessary."
-            ]
-        },
-        {
-            "task": "Implement wind protection measures for livestock.",
-            "subtasks": [
-                "Inspect existing windbreaks like tree rows.",
-                "Move livestock to more sheltered areas if needed.",
-                "Debris removal or structure erection to enhance wind protection."
-            ]
-        },
-        {
-            "task": "Develop a winter feeding strategy.",
-            "subtasks": [
-                "Assess livestock's increased nutritional needs during colder months.",
-                "Plan feed allocation to meet energy requirements, especially with wind chill.",
-                "Schedule regular feeding times and monitor consumption."
-            ]
-        },
-        {
-            "task": "Increase feed supply for livestock during cold weather.",
-            "subtasks": [
-                "Drive a feed wagon to transport hay from storage to the field.",
-                "Unload hay from the wagon into troughs or directly onto the ground.",
-                "Distribute feed across different areas of the pasture as needed."
-            ]
-        },
-        {
-            "task": "Move livestock to more sheltered locations.",
-            "subtasks": [
-                "Round up scattered cattle into a group using a vehicle or a herd dog.",
-                "Guide livestock to a windbreak, such as a group of trees, using voice commands or a vehicle.",
-                "Wait for livestock to settle in the new area."
-            ]
-        },
-        {
-            "task": "Enhance wind protection for livestock.",
-            "subtasks": [
-                "Remove fallen branches or debris from fields to clear paths to natural windbreaks.",
-                "Prune tree branches to create a denser windscreen.",
-                "Construct a temporary windbreak, like a row of bales or a wire fence."
-            ]
-        },
-        {
-            "task": "Check the National Weather Service's cold weather advisories daily.",
-            "subtasks": []
-        },
-        {
-            "task": "Adjust livestock feeding schedules based on temperature and wind forecasts.",
-            "subtasks": []
-        },
-        {
-            "task": "Inspect existing windbreaks and remove debris.",
-            "subtasks": []
-        },
-        {
-            "task": "Gather livestock and move them to wind-protected areas.",
-            "subtasks": []
-        },
-        {
-            "task": "Weather Forecasting for Livestock**",
-            "subtasks": [
-                "** Check the National Weather Service's cold weather advisory website for newborn livestock (to ensure survival).",
-                "** Regularly monitor weather reports to adjust strategies (feed, movement, etc.) as needed."
-            ]
-        },
-        {
-            "task": "Adjusting Feed Strategies**",
-            "subtasks": [
-                "** Increase livestock's nutritional intake, especially when temperatures drop and wind chill occurs (using hay and supplements).",
-                "** Plan feed allocation to meet increased energy demands."
-            ]
-        },
-        {
-            "task": "Protecting from Wind Chill**",
-            "subtasks": [
-                "** Inspect existing windbreaks (e.g., tree rows) to ensure they shield livestock.",
-                "** Move livestock to wind-protected areas when necessary.",
-                "** Consider building temporary wind barriers if natural protections are insufficient."
-            ]
         }
     ]
 }

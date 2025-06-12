@@ -5,14 +5,49 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Plan vs Implement Tire Tread Pattern Choices",
+            "task": "Evaluate tractor tire tread patterns for specific applications.",
             "subtasks": [
-                "Evaluated five tractor tire tread patterns (R1, R4, R3, HDAP, Carlisle VersaTurf).",
-                "Discussed applications (lawns, snow/ice, paved surfaces, dirt/mud).",
-                "Ranked tread patterns for each application.",
-                "Addressed construction differences (bias vs radial).",
-                "Provided pricing and purchasing information.",
-                "Covered side-to-side stability options (dual wheels, adapters)."
+                "Discuss the R1 Ag style tire's V-shaped pattern and traditional use in farming.",
+                "Explain the R4 industrial style tire's thicker, flatter bars and applications in various machinery.",
+                "Describe the R3 turf tire's design for lawnmowers, golf courses, and floatation.",
+                "Introduce the HDAP (Heavy Duty All Purpose) tire as a hybrid with multiple applications.",
+                "Highlight the Carlisle VersaTurf as a premium radial tire option for larger tractors."
+            ]
+        },
+        {
+            "task": "Compare prices and construction of the discussed tires.",
+            "subtasks": [
+                "Note the same size (26-12-12) and list price similarities of R1, R3, and HDAP tires.",
+                "Explain the higher cost of radial tires like the VersaTurf due to construction differences.",
+                "Differentiate between radial (VersaTurf) and bias (R1, R3, HDAP) tire construction."
+            ]
+        },
+        {
+            "task": "Assess lawn mowing performance of various tire types.",
+            "subtasks": [
+                "Rank tires from best to worst for lawns: radial (VersaTurf) > HDAP > R3/R1.",
+                "Explain why aggressive tires (R1) damage lawns and are unsuitable for frequent use."
+            ]
+        },
+        {
+            "task": "Evaluate tire performance in snow and ice.",
+            "subtasks": [
+                "Rank tires for snow/ice performance: radial (VersaTurf) > HDAP > R3 > R4.",
+                "Highlight power and traction as critical factors in severe weather conditions."
+            ]
+        },
+        {
+            "task": "Compare tires for paved surfaces.",
+            "subtasks": [
+                "Rank tires for paved surfaces: radial (VersaTurf) > HDAP/R3 \u2248 R1/R4.",
+                "Discuss the trade-off between comfort and wear resistance on hard surfaces."
+            ]
+        },
+        {
+            "task": "Evaluate tires for dirt and mud.",
+            "subtasks": [
+                "Rank tires for dirt/mud performance: R1 > HDAP > radial > R4.",
+                "Explain the advantages of R1's pattern for muddy conditions and self-cleaning cleats."
             ]
         }
     ]

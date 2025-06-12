@@ -5,30 +5,63 @@
     "category": "Gaming",
     "tasks": [
         {
-            "task": "Assemble a water distribution system using a water tower.",
+            "task": "Constructing a Water Distribution System Using a Water Tower",
             "subtasks": [
-                "Position water extractor at the starting point.",
-                "Install pumps along the initial pipe line to lift water to the top.",
-                "Guide the lifted water to the required floor level.",
-                "Transfer the water to the water plant at the designated floor.",
-                "Connect subsequent pump segments to the main system for continuous water transport."
+                "Acquire water from a water extractor",
+                "Utilize pumps to transport water vertically to the top of the system using a water tower",
+                "Position pumps at strategic floors to distribute water horizontally",
+                "Connect pipes to transfer water between floors",
+                "Ensure proper height for water tower to facilitate gravity-fed distribution",
+                "Monitor and maintain the system for efficient water flow"
             ]
         },
         {
-            "task": "Construct a multi-level water distribution network with minimal pumping requirements.",
+            "task": "Upgrading Water Supply Infrastructure",
             "subtasks": [
-                "Utilize a water tower to elevate water efficiently across different floors.",
-                "Adjust pipe connections to align with each floor's water needs.",
-                "Integrate additional pumps at lower levels to pressurize the water system."
+                "Identify resource allocation inefficiencies",
+                "Plan alternative water distribution methods to minimize pump usage",
+                "Leverage water towers for height advantage and reduced pump requirements",
+                "Integrate multiple pumps at key floors for pressure and flow management",
+                "Coordinate pipe installation from water towers to lower floors",
+                "Connect water tower to existing water plant or treatment facilities",
+                "Ensure continuous water supply throughout the system"
             ]
         },
         {
-            "task": "Manage resource allocation for water distribution infrastructure.",
+            "task": "Managing Water Distribution Networks",
             "subtasks": [
-                "Optimize the number of pumps to reduce waste and increase efficiency.",
-                "Evaluate water elevation needs for each floor.",
-                "Balance pumping capacity to meet system demands without overexertion."
+                "Assess water supply needs across different floors",
+                "Determine optimal placement of water towers and pumping stations",
+                "Calculate required water pressure for each floor",
+                "Choose appropriate pipe sizes for efficient water flow",
+                "Design routes for water pipes to minimize material and labor costs",
+                "Test water distribution system for leaks and inefficiencies",
+                "Implement fail-safes and backup systems for uninterrupted water supply"
             ]
+        },
+        {
+            "task": "Constructing a Water Distribution System Using a Water Tower. The subtasks under this would be getting the water, lifting it using pumps and the tower, distributing it on different floors, connecting pipes between the tower and each floor. Making sure the pumps are placed correctly so the water flows properly. Also, ensuring that once it's on the desired floor, it's connected to the water plant or system.",
+            "subtasks": []
+        },
+        {
+            "task": "Another MAINTASK could be \"Upgrading Water Supply Infrastructure\". This would involve analyzing current water distribution methods, determining that using a water tower is more efficient (i.e., reducing the number of pumps needed), planning where to place the water tower and pumps, calculating heights and pressures. Then actually implementing the upgrade by setting up the water extraction, tower, pumps, pipes, etc.",
+            "subtasks": []
+        },
+        {
+            "task": "Managing Water Distribution Networks. This would cover designing the layout, including figuring out where water is needed and how much, positioning the water tower and pumps, selecting pipe sizes, and testing the system afterward. Ensuring smooth water flow and reliability.",
+            "subtasks": []
+        },
+        {
+            "task": "Constructing a Water Distribution System Using a Water Tower**",
+            "subtasks": []
+        },
+        {
+            "task": "Upgrading Water Supply Infrastructure**",
+            "subtasks": []
+        },
+        {
+            "task": "Managing Water Distribution Networks**",
+            "subtasks": []
         }
     ]
 }

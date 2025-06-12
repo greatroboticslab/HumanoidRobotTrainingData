@@ -7,26 +7,44 @@
         {
             "task": "Preparing garden for spring planting in a cold climate.",
             "subtasks": [
-                "Checking current garden conditions (e.g., plant health, temperature).",
-                "Monitoring winter sown seedlings (e.g., calendula, sweet peas, basil).",
-                "Protecting seedlings from frost (e.g., using mini greenhouses or covers).",
-                "Delaying planting of sensitive plants (e.g., tomatoes, peppers) until warmer nights.",
-                "Preparing garden beds for upcoming planting seasons (e.g., clearing, mulching).",
-                "Monitoring weather forecasts for temperature predictions.",
-                "Protecting existing plants (e.g., ground cherries, onions) from frost.",
-                "Adjusting garden structures (e.g., closing garden doors at night).",
-                "Using temperature data to guide planting decisions.",
-                "Planning future garden tasks during the waiting period (e.g., dandelion picking).",
-                "Educating viewers about climate considerations in spring gardening."
+                "Monitoring nighttime temperatures and adjusting planting schedules accordingly.",
+                "Protecting tender plants from frost using mini greenhouses and covering.",
+                "Potting up flowers and bedding plants in preparation for outdoor planting.",
+                "Collecting and storing frost-protected plants in a garage overnight."
             ]
         },
         {
-            "task": "Preparing garden for spring planting in a cold climate.",
+            "task": "Planting dandelions for edible oil infusion.",
+            "subtasks": [
+                "Harvesting dandelions in the garden.",
+                "Preparing dandelions for oil infusion, including washing and chopping.",
+                "Infusing dandelions into oil for creating salves."
+            ]
+        },
+        {
+            "task": "monitoring temperatures and timing planting accordingly.",
             "subtasks": []
         },
         {
-            "task": "Preparing garden for spring planting in a cold climate.",
+            "task": "Additionally, they talk about harvesting dandelions for an oil infusion. So there's a MAINTASK related to that. The subtasks there would be harvesting dandelions from the garden, preparing them by washing and chopping, and then infusing them into oil to make salves. Those are the subtasks related to that task.",
             "subtasks": []
+        },
+        {
+            "task": "Preparing garden for spring planting in a cold climate**",
+            "subtasks": [
+                "** Monitoring nighttime temperatures and adjusting planting schedules accordingly.",
+                "** Protecting tender plants from frost using greenhouses and covering.",
+                "** Potting up flower and bedding plants for outdoor planting.",
+                "** Bringing plants indoors (into the garage) when temperatures are too cold."
+            ]
+        },
+        {
+            "task": "Harvesting and processing dandelions for salves**",
+            "subtasks": [
+                "** Picking dandelions from the garden.",
+                "** Preparing dandelions by washing and chopping.",
+                "** Infusing dandelions into oil for making salves."
+            ]
         }
     ]
 }

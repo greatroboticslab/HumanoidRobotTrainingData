@@ -5,17 +5,29 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Pick ripe strawberries from a bed while managing pests.",
+            "task": "Strawberry harvesting and processing",
             "subtasks": [
-                "Identify ripe strawberries.",
-                "Harvest strawberries by hand, placing them into baskets.",
-                "Remove unripe strawberries (leaving them on the plant).",
-                "Deal with pests (sow bugs) by picking them before they damage the fruit.",
-                "Avoid overripe strawberries to prevent pest infestation.",
-                "Minimize fruit contact with the ground by gently pulling up strawberries.",
-                "Dispose of overripe strawberries by composting or allowing pests to consume them.",
-                "Ensure area is free of pesticides (maintaining organic standards).",
-                "Enjoy freshly picked strawberries immediately after harvesting."
+                "Inspecting strawberry bed for ripe fruit",
+                "Picking ripe strawberries while avoiding overripe ones",
+                "Removing unripe strawberries by pulling them up",
+                "Managing sow bugs and other pests",
+                "Eating freshly picked strawberries"
+            ]
+        },
+        {
+            "task": "Maintaining strawberry bed",
+            "subtasks": [
+                "Monitoring crop maturity to prevent pest damage",
+                "Ensuring proper spacing by removing unripe strawberries"
+            ]
+        },
+        {
+            "task": "Counting harvest yields",
+            "subtasks": [
+                "Estimating daily pick amount from bed dimensions",
+                "Tracking total harvested strawberries",
+                "Assessing personal consumption rate",
+                "The video transcript is directly related to the physical tasks involved in harvesting and maintaining an organic strawberry patch. Tasks includeInspecting the strawberry bed (MAINTASK), picking ripe strawberries (SUBTASK) while removing unripe ones to prevent pest damage (SUBTASK), managing sow bugs and other pests (SUBTASK), and eating the freshly picked berries (SUBTASK). Additionally, maintaining the patch involves monitoring crop maturity (SUBTASK) and tracking yields (MAINTASK). While personal consumption is noted, it's a consequence of the harvesting process. These tasks do not involve machinery or large-scale agricultural practices, focusing instead on small-scale, labor-intensive farming activities."
             ]
         }
     ]

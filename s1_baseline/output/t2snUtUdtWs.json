@@ -5,85 +5,207 @@
     "category": "Unknown Category",
     "tasks": [
         {
-            "task": "Drive a 4-wheeled articulated wagon behind a tractor to cart hay from the field.",
+            "task": "Unloading a combine machine from a truck",
             "subtasks": [
-                "Sit in the tractor seat and engage the transmission.",
-                "Operate the tractor to tow the 4-wheeled articulated wagon.",
-                "Guide the tractor and wagon as they travel from the field to the storage area.",
-                "Ensure that the hay is loaded properly onto the wagon.",
-                "Secure the hay load on the wagon to prevent shifting during transport.",
-                "Transfer control of the wagon's brakes and steering to the helper via a wheel or lever.",
-                "Monitor the helper\u2019s (who is sitting in the wagon) operation of the hay lift.",
-                "Adjust the tractor's speed as necessary based on the helper's need to raise or lower the hay fork.",
-                "Drive the tractor and wagon back to the farmyard or storage area."
+                "Drive the truck to the farm",
+                "Position the truck next to the storage area",
+                "Open the combine machine's protective cover",
+                "Carefully lower the combine machine from the cargo hold",
+                "Secure the combine machine in the storage area"
             ]
         },
         {
-            "task": "Hand guide a hay fork with a helper.",
+            "task": "Preparing combine machine for use",
             "subtasks": [
-                "Sit on the front seat of the 4-wheeled articulated wagon.",
-                "Hold the hay fork while the tractor pulls the wagon across the field.",
-                "Position the hay fork between rows of standing hay.",
-                "Push or pull the hay fork to lift the hay into the air.",
-                "Guide the fork to direct the hay onto the wagon bed.",
-                "Release the hay on the wagon bed and reset the fork for the next load.",
-                "Communicate with the tractor driver to coordinate the timing of raising and lowering the fork.",
-                "Ensure that the hay is placed safely and efficiently on the wagon."
+                "Remove any protective covers or gear",
+                "Check functionality of machine components",
+                "Lubricate or adjust moving parts",
+                "Inspect for any damages or issues"
             ]
         },
         {
-            "task": "Load hay onto the tractor-drawn wagon.",
+            "task": "DM Vanderbilt leaves peppers pile on ground after combine",
             "subtasks": [
-                "Wait for the wagon to be positioned below the raised hay fork.",
-                "Grasp the hay as it is deposited from the fork.",
-                "Arrange the hay on the wagon bed in a stable, secure pile.",
-                "Stomp or pack down the hay to optimize storage space and prevent sifting during transport.",
-                "Remove any loose debris or pieces not suitable for storage.",
-                "Stand clear of moving parts when the hay is being lifted or placed.",
-                "Load hay in a manner that allows safe transportation to the storage area."
+                "Identify the need to discard some produce",
+                "Decide on the quality of produce as it falls from the combine",
+                "Separate damaged or unsuitable peppers from the pile",
+                "Possibly report issues with the combine's collection system"
             ]
         },
         {
-            "task": "Secure hay onto the wagon bed.",
+            "task": "Driving the combine through a pepper patch",
             "subtasks": [
-                "Once the hay is loaded, spread it evenly across the wagon's flatbed.",
-                "Use baling twine, straps, or bungee cords to tie down the hay load.",
-                "Check the security of the bindings to prevent hay from shifting during transport.",
-                "Adjust any overhanging hay to ensure balance and safety.",
-                "Cover the load if necessary to protect from weather elements during transport."
+                "Adjust the combine's height to match the crop's growth",
+                "Start the combine's engine",
+                "Operate the combine's machinery to harvest peppers",
+                "Monitor the operation of the combine's collecting drum",
+                "Navigate through the rows of peppers without damaging plants"
             ]
         },
         {
-            "task": "Unload hay from the wagon onto a designated storage area.",
+            "task": "Removing harvested peppers from the combine",
             "subtasks": [
-                "Position the wagon at the designated unloading spot.",
-                "Release the hay from the bindings or wrap.",
-                "Push or hand unload the hay from the wagon bed.",
-                "Stack the hay in an organized,\u7a33\u56fa\u65b9\u5f0f to maximize storage capacity.",
-                "Ensure that the stacking is stable to prevent collapse.",
-                "Control any loose ends or edges of the hay pile to prevent injury."
+                "Stand beside the combine to receive the harvested peppers",
+                "Catch the peppers as they fall from the combine",
+                "Possibly sort the peppers as they are unloaded"
             ]
         },
         {
-            "task": "Operate a forklift to transport hay.",
+            "task": "Storing harvested peppers",
             "subtasks": [
-                "Drive the forklift to the field where hay is baled.",
-                "Select the appropriate forks for picking up the hay bales.",
-                "Approach a hay bale and lift it using the forklift.",
-                "Transport the hay bale to a designated unloading area.",
-                "Lower the bale onto the ground at the unloading area.",
-                "Repeat the process until all hay bales are moved."
+                "Tamper-resistant pile on a flat ground",
+                "Possibly cover the pile with a tarp"
             ]
         },
         {
-            "task": "Help on a hay fork.",
+            "task": "Playing with a pineweed",
             "subtasks": [
-                "Sit on the front seat of the hay wagon.",
-                "Assist in lifting the hay by using the hay fork.",
-                "Instruct the tractor driver regarding the right alignment for hay placement.",
-                "Communicate when the hay needs to be released at the optimal spot on the wagon.",
-                "Ensure that the hay is deposited in a manner that optimizes loading efficiency.",
-                "Adjust the fork's angle or position as needed during the loading process."
+                "Lifting and squeezing the pineweed",
+                "Possibly dropping or throwing the pineweed"
+            ]
+        },
+        {
+            "task": "Observing the field conditions",
+            "subtasks": [
+                "Walking between rows to check soil moisture",
+                "Inspecting for pest or disease issues",
+                "Noting weather conditions that might affect the crops"
+            ]
+        },
+        {
+            "task": "Applying fertilizer",
+            "subtasks": [
+                "Determining the need for fertilizer based on soil test results",
+                "Mixing the fertilizer with water or dry application",
+                "Distributing the fertilizer evenly across the fields",
+                "Monitoring the effect of the fertilizer on crop growth"
+            ]
+        },
+        {
+            "task": "Irrigation system setup",
+            "subtasks": [
+                "Checking the irrigation pipes for leaks or damage",
+                "Adjusting sprinklerheads or nozzles",
+                "Starting the irrigation system",
+                "Monitoring water distribution across the fields"
+            ]
+        },
+        {
+            "task": "Checking combine for leaks",
+            "subtasks": [
+                "Inspecting the combine's hoses and connections",
+                "Tightening any loose connections",
+                "Ensuring proper sealing of all components"
+            ]
+        },
+        {
+            "task": "Attaching the combine's grain cart",
+            "subtasks": [
+                "Position the grain cart near the combine",
+                "Connecting the grain cart to the combine",
+                "Secure the connection to prevent accidental disconnection"
+            ]
+        },
+        {
+            "task": "Unloading a combine machine from a truck",
+            "subtasks": [
+                "Drive the truck to the farm",
+                "Position the truck next to the storage area",
+                "Open the combine machine's protective cover",
+                "Carefully lower the combine machine from the cargo hold",
+                "Secure the combine machine in the storage area"
+            ]
+        },
+        {
+            "task": "Preparing combine machine for use",
+            "subtasks": [
+                "Remove any protective covers or gear",
+                "Check functionality of machine components",
+                "Lubricate or adjust moving parts",
+                "Inspect for any damages or issues"
+            ]
+        },
+        {
+            "task": "DM Vanderbilt leaves peppers pile on ground after combine",
+            "subtasks": [
+                "Identify the need to discard some produce",
+                "Decide on the quality of produce as it falls from the combine",
+                "Separate damaged or unsuitable peppers from the pile",
+                "Possibly report issues with the combine's collection system"
+            ]
+        },
+        {
+            "task": "Driving the combine through a pepper patch",
+            "subtasks": [
+                "Adjust the combine's height to match the crop's growth",
+                "Start the combine's engine",
+                "Operate the combine's machinery to harvest peppers",
+                "Monitor the operation of the combine's collecting drum",
+                "Navigate through the rows of peppers without damaging plants"
+            ]
+        },
+        {
+            "task": "Removing harvested peppers from the combine",
+            "subtasks": [
+                "Stand beside the combine to receive the harvested peppers",
+                "Catch the peppers as they fall from the combine",
+                "Possibly sort the peppers as they are unloaded"
+            ]
+        },
+        {
+            "task": "Storing harvested peppers",
+            "subtasks": [
+                "Tamper-resistant pile on a flat ground",
+                "Possibly cover the pile with a tarp"
+            ]
+        },
+        {
+            "task": "Playing with a pineweed",
+            "subtasks": [
+                "Lifting and squeezing the pineweed",
+                "Possibly dropping or throwing the pineweed"
+            ]
+        },
+        {
+            "task": "Observing the field conditions",
+            "subtasks": [
+                "Walking between rows to check soil moisture",
+                "Inspecting for pest or disease issues",
+                "Noting weather conditions that might affect the crops"
+            ]
+        },
+        {
+            "task": "Applying fertilizer",
+            "subtasks": [
+                "Determining the need for fertilizer based on soil test results",
+                "Mixing the fertilizer with water or dry application",
+                "Distributing the fertilizer evenly across the fields",
+                "Monitoring the effect of the fertilizer on crop growth"
+            ]
+        },
+        {
+            "task": "Irrigation system setup",
+            "subtasks": [
+                "Checking the irrigation pipes for leaks or damage",
+                "Adjusting sprinklerheads or nozzles",
+                "Starting the irrigation system",
+                "Monitoring water distribution across the fields"
+            ]
+        },
+        {
+            "task": "Checking combine for leaks",
+            "subtasks": [
+                "Inspecting the combine's hoses and connections",
+                "Tightening any loose connections",
+                "Ensuring proper sealing of all components"
+            ]
+        },
+        {
+            "task": "Attaching the combine's grain cart",
+            "subtasks": [
+                "Position the grain cart near the combine",
+                "Connecting the grain cart to the combine",
+                "Secure the connection to prevent accidental disconnection"
             ]
         }
     ]

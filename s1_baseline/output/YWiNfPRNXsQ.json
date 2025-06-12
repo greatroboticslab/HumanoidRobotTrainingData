@@ -5,19 +5,22 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Evaluate used tractor for agricultural use.",
+            "task": "Evaluate a used tractor for agricultural purposes.",
             "subtasks": [
-                "Check engine oil condition.",
-                "Inspect tires for wear and leaks.",
-                "Assess steering mechanism for tightness.",
-                "Check power steering presence.",
-                "Determine four-wheel drive necessity.",
-                "Verify hydraulic system functionality.",
-                "Test power takeoff (PTO) operation.",
-                "Confirm compatibility between tractor and equipment.",
-                "Consider horsepower and cutter size for acreage needs.",
-                "Verify market value trends for used tractors.",
-                "Consider long-term financial implications."
+                "Inspect engine oil condition.",
+                "Check tire wear and fluid leaks.",
+                "Test steering responsiveness and power steering functionality.",
+                "Assess hydraulic system operation and potential leaks.",
+                "Verify power takeoff (PTO) functionality and compatibility.",
+                "Consider tractor's power and size relative to farm needs."
+            ]
+        },
+        {
+            "task": "Determine the suitability of a tractor for specific acreage.",
+            "subtasks": [
+                "Evaluate necessary tractor size for varying acreage ranges.",
+                "Assess the impact of different tractor components (e.g., PTO shaft, hydraulics) on implement compatibility.",
+                "Recommend appropriate tractors based on budget and features."
             ]
         }
     ]

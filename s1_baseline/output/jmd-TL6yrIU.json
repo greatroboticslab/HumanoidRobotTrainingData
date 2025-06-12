@@ -5,92 +5,45 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Designate secure entry point for vehicles and inspect them upon arrival.",
+            "task": "Receive and manage transported livestock and poultry to prevent disease spread",
             "subtasks": [
-                "Post phone number for admittance at secure entry point.",
-                "Admit only trusted vehicles or examine others before entry.",
-                "Prior to entry, inspect trucks and trailers for dirt, manure, mud.",
-                "If contaminated, either ask driver to clean or provide cleaning facilities outside.",
-                "Keep log of haulers' entry and exit, vehicle condition, and contact information."
+                "Designate a secure entry point for incoming trucks",
+                "Post admittance instructions and contact information",
+                "Inspect trucks and trailers prior to entry",
+                "Log vehicle entry details, including cleaning status",
+                "Instruct haulers on vehicle routes and loading areas",
+                "Verify transportation paperwork, including CVI, bill of lading, and brand inspection certificates",
+                "Ensure truckers wear clean footwear and coveralls during loading and animal contact",
+                "Confirm trailer cleanliness and proper bedding during loading",
+                "Inspect animals for signs of sickness or injury before loading",
+                "Double-check paperwork and secure gates after loading",
+                "Prepare unloading area, including quarantine facilities, for incoming animals",
+                "Examine transport paperwork upon arrival, including CVI and brand inspection",
+                "Verify and document animal numbers and classes upon unloading",
+                "Quarantine new animals and monitor for signs of illness",
+                "Provide fresh water and feed to new arrivals",
+                "Encourage truck clean-out after unloading for pathogen removal"
             ]
         },
         {
-            "task": "Examine transport-related documents before and after loading/unloading.",
+            "task": "Prepare and disinfect transportation equipment",
             "subtasks": [
-                "Check certificate of veterinary inspection (CVI) or health certificate.",
-                "Confirm certificate of brand inspection (CBI) for cattle.",
-                "Verify bill of lading (list of animals on truck).",
-                "Check bill of sale (proof of ownership if applicable).",
-                "Before loading/unloading, ensure transporter has clean footwear/coveralls.",
-                "Before loading, inspect cleanout gates on trailers for closure.",
-                "Before loading animals, check for sickness or injury; remove affected animals.",
-                "During loading/unloading, confirm numbers and classes of animals per paperwork.",
-                "Check and correct any discrepancies in paperwork immediately."
+                "Move transporter to a cleaning area post-unloading",
+                "Thoroughly hose down trucks and trailers to remove manure and pathogens"
             ]
         },
         {
-            "task": "Quarantine new animals upon arrival and maintain proper hygiene.",
+            "task": "Animal handling and health protocol",
             "subtasks": [
-                "Set up clean unloading area and quarantine pens before arrival.",
-                "Examine new animals for signs of sickness, disease, or injury upon arrival.",
-                "Isolate sick animals immediately and contact veterinarian.",
-                "Provide fresh water and feed for new animals in quarantine.",
-                "Follow veterinarian\u2019s recommendations for health protocols (examinations, vaccinations).",
-                "After settling period, inspect transportation equipment (trailers) for cleaning needs."
+                "Sort out sick or injured animals before unloading",
+                "Examine arriving animals for health issues promptly",
+                "Implement quarantine procedures as per veterinary advice",
+                "Follow animal health protocols including examinations and vaccinations"
             ]
         },
         {
-            "task": "Document and maintain accurate records for transport operations.",
-            "subtasks": [
-                "Keep log of truck entry times, exit times, and equipment condition.",
-                "Document what paperwork was submitted with each load.",
-                "Record any issues found during examination or during transport.",
-                "Note unloading counts, confirm accuracy against paperwork, and log properly."
-            ]
-        },
-        {
-            "task": "Designate secure entry point for vehicles and inspect them upon arrival.",
-            "subtasks": [
-                "Post phone number for admittance at secure entry point.",
-                "Admit only trusted vehicles or examine others before entry.",
-                "Prior to entry, inspect trucks and trailers for dirt, manure, mud.",
-                "If contaminated, either ask driver to clean or provide cleaning facilities outside.",
-                "Keep log of haulers' entry and exit, vehicle condition, and contact information."
-            ]
-        },
-        {
-            "task": "Examine transport-related documents before and after loading/unloading.",
-            "subtasks": [
-                "Check certificate of veterinary inspection (CVI) or health certificate.",
-                "Confirm certificate of brand inspection (CBI) for cattle.",
-                "Verify bill of lading (list of animals on truck).",
-                "Check bill of sale (proof of ownership if applicable).",
-                "Before loading/unloading, ensure transporter has clean footwear/coveralls.",
-                "Before loading, inspect cleanout gates on trailers for closure.",
-                "Before loading animals, check for sickness or injury; remove affected animals.",
-                "During loading/unloading, confirm numbers and classes of animals per paperwork.",
-                "Check and correct any discrepancies in paperwork immediately."
-            ]
-        },
-        {
-            "task": "Quarantine new animals upon arrival and maintain proper hygiene.",
-            "subtasks": [
-                "Set up clean unloading area and quarantine pens before arrival.",
-                "Examine new animals for signs of sickness, disease, or injury upon arrival.",
-                "Isolate sick animals immediately and contact veterinarian.",
-                "Provide fresh water and feed for new animals in quarantine.",
-                "Follow veterinarian\u2019s recommendations for health protocols (examinations, vaccinations).",
-                "After settling period, inspect transportation equipment (trailers) for cleaning needs."
-            ]
-        },
-        {
-            "task": "Document and maintain accurate records for transport operations.",
-            "subtasks": [
-                "Keep log of truck entry times, exit times, and equipment condition.",
-                "Document what paperwork was submitted with each load.",
-                "Record any issues found during examination or during transport.",
-                "Note unloading counts, confirm accuracy against paperwork, and log properly."
-            ]
+            "task": "Receive and manage transported livestock and poultry**",
+            "subtasks": []
         }
     ]
 }

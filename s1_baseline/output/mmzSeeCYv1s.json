@@ -5,57 +5,50 @@
     "category": "People & Blogs",
     "tasks": [
         {
-            "task": "Operating a tractor to increase farming efficiency",
+            "task": "Operating a new agricultural tractor",
             "subtasks": [
-                "Starting the tractor engine",
-                "Navigating the tractor around the farm fields",
-                "Adjusting the tractor's speed to match the harvesting process",
-                "Overseeing the yield improvement in comparison to manual labor",
-                "Contributing to increased food production for school meal programs"
+                "Preparing to use the tractor (e.g., fueling, checking equipment)",
+                "Guiding the tractor across the field",
+                "Monitoring the tractor's operation to ensure efficient crop harvesting",
+                "Adjusting tractor settings for optimal performance (e.g., speed, attachment adjustments)"
             ]
         },
         {
-            "task": "Operating a tractor to increase farming efficiency",
+            "task": "Supporting school meal programs",
             "subtasks": [
-                "Starting the tractor engine",
-                "Navigating the tractor through the fields",
-                "Adjusting the tractor's speed to match the optimal harvesting/working speed",
-                "Overseeing the yield improvement in comparison to manual labor"
+                "Understanding the connection between agricultural production and food aid",
+                "Donating money to school meal programs through video views"
             ]
         },
         {
-            "task": "Operating a tractor to increase farming efficiency is reasonable. The details can be in the subtasks.",
+            "task": "Operating a new agricultural tractor",
+            "subtasks": [
+                "** Preparing to use the tractor (e.g., fueling, checking equipment)",
+                "** Guiding the tractor across the field",
+                "** Monitoring the tractor\u2019s operation to ensure efficient crop harvesting",
+                "** Adjusting tractor settings for optimal performance (e.g., speed, attachment adjustments)"
+            ]
+        },
+        {
+            "task": "Supporting school meal programs",
             "subtasks": []
         },
         {
-            "task": "Operating a tractor to increase farming efficiency",
+            "task": "Operating a new agricultural tractor} \\\\",
             "subtasks": [
-                "Starting the tractor engine",
-                "Navigating the tractor through the fields",
-                "Adjusting the tractor's speed for optimal efficiency",
-                "Verifying the yield improvement over manual labor",
-                "Contributing to increased food production for school meal programs"
+                "Preparing to use the tractor (e.g., fueling, checking equipment)} \\\\",
+                "Guiding the tractor across the field} \\\\",
+                "Monitoring the tractor's operation to ensure efficient crop harvesting} \\\\",
+                "Adjusting tractor settings for optimal performance (e.g., speed, attachment adjustments)} \\\\"
             ]
         },
         {
-            "task": "Operating a tractor to increase farming efficiency and support school meal programs",
+            "task": "Supporting school meal programs} \\\\",
             "subtasks": []
         },
         {
-            "task": "Operating a tractor to increase farming efficiency",
-            "subtasks": [
-                "Starting the tractor engine",
-                "Navigating the tractor through the fields",
-                "Adjusting the tractor's speed to optimize time and yield"
-            ]
-        },
-        {
-            "task": "MAINTASK: Operating a tractor to increase farming efficiency",
-            "subtasks": [
-                "Starting the tractor engine",
-                "Navigating the tractor through the fields",
-                "Adjusting the tractor's speed for optimal efficiency"
-            ]
+            "task": "\\text{(Although this is recognized, the donation aspect is unrelated to physical tasks. The first MAINTASK remains the primary focus.)}}",
+            "subtasks": []
         }
     ]
 }
