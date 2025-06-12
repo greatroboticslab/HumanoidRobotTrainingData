@@ -23,7 +23,7 @@ while [ $f -lt $MAX ]; do
     f=$((s + 100))
     echo "Submitting Jobs: $s - $f"
     sbatch generate_motions.slurm "$s" "$f"
-    sbatch minicpm_baseline/scripts/generate_captions.slurm "$s" "$f"
     sbatch depth_anything_baseline/scripts/generate_depths.slurm "$s" "$f"
+    sbatch minicpm_baseline/scripts/generate_captions.slurm "$s" "$f"
     s=$((s + 100))
 done

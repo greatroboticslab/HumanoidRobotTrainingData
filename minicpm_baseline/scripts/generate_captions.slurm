@@ -10,7 +10,7 @@
 source ${PROJECT}/miniconda3/etc/profile.d/conda.sh
 
 set -x
-cd ${PROJECT}/PSCCode/minicpm_baseline/scripts
+cd ${PROJECT}/HumanoidRobotTrainingData/minicpm_baseline/scripts
 
 echo "Generating captions..."
 conda run -n minicpm python generate_captions.py --start $1 --end $2

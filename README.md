@@ -11,7 +11,11 @@ This repo contains the code we execute on the PSC server to obtain animation dat
 
 To run the motion generation jobs, run:
 
-	bash generate_all.sh
+	sbatch generate_all.slurm
+
+You can also test the entire workflow for just 1 file:
+
+	sbatch test_one.slurm
 
 There are also two scrips in the root of the repo:
 

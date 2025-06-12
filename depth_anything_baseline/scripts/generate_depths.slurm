@@ -10,7 +10,7 @@
 source ${PROJECT}/miniconda3/etc/profile.d/conda.sh
 
 set -x
-cd ${PROJECT}/PSCCode/depth_anything_baseline/scripts
+cd ${PROJECT}/HumanoidRobotTrainingData/depth_anything_baseline/scripts
 
 echo "Generating depth frames..."
 conda run -n depthanything python Video_YTB_text.py --start $1 --end $2 > ../logs/depth_frames.log
