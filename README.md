@@ -78,6 +78,14 @@ You can also generate depth frames (pictures of 3d depth) from the relevant vide
 	conda activate depthanything
 	pip install -r requirements.txt
 
+### For MiniCPM
+
+Captions for video frames can also be generated using MiniCPM, but you must set up the environment:
+
+	conda create --name minicpm python=3.10
+	conda activate minicpm
+	pip install -r requirements.txt
+
 ### Getting Dataset
 
 Step 1: Video Downloading: 
@@ -166,6 +174,24 @@ Once the tasks are generated, navigate to the momask_baseline/ folder, and run:
 	generate_motions.py
 
 The outputs are stored in momask_baseline/generation/batch_motions/
+
+### Generating Depth Frames
+
+Depth Anything v2 can estimate depth and give a depth map of frames from a video. Navigate to the depth_anything_baseline folder, and run:
+
+	conda activate depthanything
+	python scripts/Video_YTB_text.py --start <start_index> --end <end_index>
+
+Which will begin creating raw frames and depth frames in the video_processing folder.
+
+### Generating Captions
+
+Once you have frames generated, you can generate captions. Navigate to the minicpm_baseline/ folder and run:
+
+	conda activate minicpm
+	python scripts/generate_captions.py --start <start_index> --end <end_index>
+
+The captions will be stored alonside frames in the raw frames folders from the videos in the video_processing folder. 
 
 ## Workflow of the Project
 
