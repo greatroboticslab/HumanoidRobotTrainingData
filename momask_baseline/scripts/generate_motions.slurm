@@ -8,7 +8,7 @@
 #SBATCH --error=momask_example_s.err # Standard error
 
 set -x
-cd ${PROJECT}/HumanoidRobotTrainingData/momask-codes/
+cd ../../momask-codes/
 
 pip install git+https://github.com/openai/CLIP.git
 

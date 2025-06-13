@@ -8,7 +8,6 @@
 #SBATCH --error=s1_task_generation.err # Standard error
 
 set -x
-cd ${PROJECT}
 
-cd PSCCode/s1_baseline/
+cd ../s1_baseline/
 conda run -n s1 python s1.py --gpus 4

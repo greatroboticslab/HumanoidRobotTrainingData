@@ -7,10 +7,10 @@
 #SBATCH --output=../logs/generate_captions.out # Standard output
 #SBATCH --error=../logs/generate_captions.err # Standard error
 
-source ${PROJECT}/miniconda3/etc/profile.d/conda.sh
+source ../../../miniconda3/etc/profile.d/conda.sh
 
 set -x
-cd ${PROJECT}/HumanoidRobotTrainingData/minicpm_baseline/scripts
+cd ../../minicpm_baseline/scripts
 
 echo "Generating captions..."
 conda run -n minicpm python generate_captions.py --start $1 --end $2

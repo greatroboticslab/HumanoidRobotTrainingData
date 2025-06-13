@@ -1,5 +1,6 @@
-+ cd /ocean/projects/cis240145p/byler/PSCCode/depth_anything_baseline/scripts
-/var/spool/slurm/d/job32824109/slurm_script: line 13: cd: /ocean/projects/cis240145p/byler/PSCCode/depth_anything_baseline/scripts: No such file or directory
+/var/spool/slurm/d/job32836544/slurm_script: line 10: ../../../miniconda3/etc/profile.d/conda.sh: No such file or directory
++ cd ../../depth_anything_baseline/scripts
+/var/spool/slurm/d/job32836544/slurm_script: line 13: cd: ../../depth_anything_baseline/scripts: No such file or directory
 + echo 'Generating depth frames...'
 + conda run -n depthanything python Video_YTB_text.py --start 0 --end 1
-/var/spool/slurm/d/job32824109/slurm_script: line 16: ../logs/depth_frames.log: No such file or directory
+/var/spool/slurm/d/job32836544/slurm_script: line 16: ../logs/depth_frames.log: No such file or directory

@@ -7,10 +7,10 @@
 #SBATCH --output=depth_frames.out # Standard output
 #SBATCH --error=depth_frames.err # Standard error
 
-source ${PROJECT}/miniconda3/etc/profile.d/conda.sh
+source ../../../miniconda3/etc/profile.d/conda.sh
 
 set -x
-cd ${PROJECT}/HumanoidRobotTrainingData/depth_anything_baseline/scripts
+cd ../../depth_anything_baseline/scripts
 
 echo "Generating depth frames..."
 conda run -n depthanything python Video_YTB_text.py --start $1 --end $2 > ../logs/depth_frames.log

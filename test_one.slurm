@@ -9,5 +9,9 @@
 
 echo "Submitting 1 Job..."
 sbatch generate_motions.slurm 0 1
-sbatch depth_anything_baseline/scripts/generate_depths.slurm 0 1
-sbatch minicpm_baseline/scripts/generate_captions.slurm 0 1
+cd depth_anything_baseline/scripts/
+sbatch generate_depths.slurm 0 1
+cd ../../
+cd minicpm_baseline/scripts/
+sbatch generate_captions.slurm 0 1
+cd ../../

@@ -1,19 +1,19 @@
 + cd /ocean/projects/cis240145p/byler/PSCCode/video_processing
-/var/spool/slurm/d/job32824108/slurm_script: line 11: cd: /ocean/projects/cis240145p/byler/PSCCode/video_processing: No such file or directory
+/var/spool/slurm/d/job32836837/slurm_script: line 11: cd: /ocean/projects/cis240145p/byler/PSCCode/video_processing: No such file or directory
 + echo 'Transcribing videos...'
 + conda run -n whisper python masswhisper.py
 python: can't open file '/ocean/projects/cis240145p/byler/HumanoidRobotTrainingData/masswhisper.py': [Errno 2] No such file or directory
 
 ERROR conda.cli.main_run:execute(125): `conda run python masswhisper.py` failed. (See above for error)
 + cd /ocean/projects/cis240145p/byler/PSCCode/s1_baseline
-/var/spool/slurm/d/job32824108/slurm_script: line 16: cd: /ocean/projects/cis240145p/byler/PSCCode/s1_baseline: No such file or directory
+/var/spool/slurm/d/job32836837/slurm_script: line 16: cd: /ocean/projects/cis240145p/byler/PSCCode/s1_baseline: No such file or directory
 + echo 'Generating tasks...'
 + conda run -n s1 python s1.py --start 0 --end 1
 python: can't open file '/ocean/projects/cis240145p/byler/HumanoidRobotTrainingData/s1.py': [Errno 2] No such file or directory
 
 ERROR conda.cli.main_run:execute(125): `conda run python s1.py --start 0 --end 1` failed. (See above for error)
 + cd /ocean/projects/cis240145p/byler/PSCCode/momask_baseline
-/var/spool/slurm/d/job32824108/slurm_script: line 21: cd: /ocean/projects/cis240145p/byler/PSCCode/momask_baseline: No such file or directory
+/var/spool/slurm/d/job32836837/slurm_script: line 21: cd: /ocean/projects/cis240145p/byler/PSCCode/momask_baseline: No such file or directory
 + echo 'Generating motions...'
 + conda run -n momask python generate_motions.py --start 0 --end 1
 python: can't open file 'generate_motions.py': [Errno 2] No such file or directory

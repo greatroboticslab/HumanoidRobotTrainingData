@@ -15,7 +15,7 @@ SLEEP_BETWEEN_BATCHES=300                   # Seconds between batches
 MAX_DOWNLOADS=500                      # <-- Set your max video downloads here
 
 set -x
-cd ${PROJECT}/PSCCode
+cd ../../
 cd video_processing
 cd rawvideos
 
