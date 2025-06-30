@@ -96,7 +96,7 @@ Segmenting/masking can be done for video frames. To set up the environment:
 
 	module load cuda/12.4.0
 	module load gcc/13.2.1-p20240113
-	conda create -n sam python=3.9 -y
+	conda create -n sam python=3.11
 	conda activate sam
 	conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
 	pip install -e .
@@ -208,6 +208,17 @@ Once you have frames generated, you can generate captions. Navigate to the minic
 	python scripts/generate_captions.py --start <start_index> --end <end_index>
 
 The captions will be stored alonside frames in the raw frames folders from the videos in the video_processing folder. 
+
+### Generating Segments / Masks
+
+After the frames are generated, you can also generate masks or segments from the frames, seperating the image into similar areas, almost like object detection. Go to the segmentation_baseline/sam1_baseline/scripts/ folder and run:
+
+	conda activate sam
+	module load cuda/12.4.0
+	module load gcc/13.2.1-p20240113
+	python segment.py
+
+The frames will be seperated into folders in the contained output/ folder in folders named after the video id.
 
 ## Workflow of the Project
 
