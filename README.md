@@ -90,6 +90,18 @@ Captions for video frames can also be generated using MiniCPM, but you must set 
 	conda activate minicpm
 	pip install -r requirements.txt
 
+### For SAM
+
+Segmenting/masking can be done for video frames. To set up the environment:
+
+	module load cuda/12.4.0
+	module load gcc/13.2.1-p20240113
+	conda create -n sam python=3.9 -y
+	conda activate sam
+	conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
+	pip install -e .
+	pip install opencv-python pycocotools matplotlib
+
 ### Getting Dataset
 
 Step 1: Video Downloading: 

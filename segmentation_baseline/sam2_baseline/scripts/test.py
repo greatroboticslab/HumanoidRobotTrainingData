@@ -1,0 +1,42 @@
+import numpy as np
+from PIL import Image
+import torch
+from sam2.build_sam import build_sam2
+from sam2.sam2_image_predictor import SAM2ImagePredictor
+
+checkpoint = "../checkpoints/sam2.1_hiera_large.pt"
+model_cfg = "../sam2/configs/sam2.1/sam2.1_hiera_l.yaml"
+predictor = SAM2ImagePredictor(build_sam2(model_cfg, checkpoint))
+
+
+image = Image.open('cat.jpg')
+image = np.array(image.convert("RGB"))
+
+
+with torch.inference_mode(), torch.autocast("cuda", dtype=torch.bfloat16):
+    predictor.set_image(image)
+    masks, _, _ = predictor.predict()
+
+print(masks)
+
+#maskImg = Image.fromarray(masks, mode='RGB')
+
+#maskImg.save('output.png')
+
+m = masks[0]
+i = 1
+
+for m in masks:
+    height, width = m.shape
+    red = np.full((height, width), 255, dtype=np.uint8)
+    green = np.zeros((height, width), dtype=np.uint8)
+    blue = np.zeros((height, width), dtype=np.uint8)
+    alpha = (m * 255).astype(np.uint8)  # Alpha from 0 to 255
+
+    # Stack into RGBA image
+    rgba = np.stack((red, green, blue, alpha), axis=-1)
+
+    # Convert to image and save
+    img = Image.fromarray(rgba, mode='RGBA')
+    img.save("output/"+str(i)+".png")
+    i += 1
