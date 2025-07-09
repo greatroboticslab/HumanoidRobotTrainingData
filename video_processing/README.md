@@ -10,7 +10,7 @@ Run the command:
 
 	sbatch batchvideos.slurm
 
-This will download all the videos using both videos.txt (handcrafted dataset) and videos_s1.txt (automatatically generated), and then transcribe them into the transcripts/ folder. You can edit the .slurm file to change parameters, as currently it will download only 100 videos, 15 at a time, seperated by 5 minute intervals.
+This will download all the videos using both **videos.txt (handcrafted dataset) and videos_s1.txt (automatatically generated)**, and then transcribe them into the transcripts/ folder. You can edit the .slurm file to change parameters, as currently it will download only 100 videos, 15 at a time, seperated by 5 minute intervals.
 
 ### Cookies
 
@@ -61,9 +61,22 @@ There is a script in the s1_baseline/ folder that generates a list of search ter
 identify_videos.py can be called to generate a .csv list of videos, ids, and urls. This is useful for finding out what video belongs to what url and vice-versa.
 
 	python identify_videos.py
+
+ The command will generate the file
+
+ https://github.com/greatroboticslab/HumanoidRobotTrainingData/blob/main/video_processing/output/video_data.csv
  
+The last column of the file is editable by human so that we can change the relavance of the video. The reason we do this is becuase S1 is not able to precisely identify the relavance of the video. 
+
+### Video Relavance Generation 
+
+In order to generate title, category, and relavance columns of the  **video_data.csv**, you need to use S1. The detailed readme for how to use S1 can be found here. 
+
+https://github.com/greatroboticslab/HumanoidRobotTrainingData/tree/main/s1_baseline
 
 ### Local Download
+
+In order to download videos from PSC, you need to run this:
 
 You can use this command:
 
