@@ -153,6 +153,10 @@ The downloaded videos will be saved to video_processing/rawvideos/
 The script will then attempt to identify and transcribe the videos. If this fails, the videos will still be saved. The script that does this is identify_videos, and it will generate video_data.csv in video_processing/output/. The last column will be used to record if a video is relevant or not, but this is currently not used by the other scripts, rather a whitelist .csv is generated for the scripts.
 
 
+**For the more detailed steps of dataset gathering, please visit the video_processing_folder_readme.**
+
+https://github.com/greatroboticslab/HumanoidRobotTrainingData/tree/main/video_processing
+
 
 Step 2: Depth-anythingv2 data generation 
 
