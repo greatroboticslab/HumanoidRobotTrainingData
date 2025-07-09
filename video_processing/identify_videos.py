@@ -31,12 +31,12 @@ def main():
 
     with open(OUTPUT_CSV, "w", newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["index", "url", "video title", "category"])
+        writer.writerow(["index", "url", "video title", "category", "relevant"])
 
         for index, video_id in enumerate(video_ids, start=1):
             url = f"{YOUTUBE_PREFIX}{video_id}"
             title, category = get_video_data(video_id)
-            writer.writerow([video_id, url, title, category])
+            writer.writerow([video_id, url, title, category, "no"])
             print(f"[{index}] {video_id} → {title}")
 
 if __name__ == "__main__":

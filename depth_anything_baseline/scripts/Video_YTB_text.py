@@ -114,8 +114,10 @@ def main():
         'vitg': {'encoder': 'vitg', 'features': 384, 'out_channels': [1536, 1536, 1536, 1536]}
     }
 
+    max_depth = 80
+
     encoder = "vitl"
-    model = DepthAnythingV2(**model_configs[encoder])
+    model = DepthAnythingV2(**{**model_configs[encoder], 'max_depth': max_depth})
     model.load_state_dict(torch.load(f'../checkpoints/depth_anything_v2_{encoder}.pth', map_location='cpu'))
     model = model.to(device).eval()
 

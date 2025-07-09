@@ -29,5 +29,8 @@ while [ $f -lt $MAX ]; do
     cd minicpm_baseline/scripts/
     sbatch generate_captions.slurm "$s" "$f"
     cd ../../
+    cd segmentation_baseline/sam1_baseline/scripts/
+    sbatch generate_segments.slurm "$s" "$f"
+    cd ../../../
     s=$((s + 100))
 done

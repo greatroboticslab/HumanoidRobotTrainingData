@@ -10,9 +10,11 @@ import matplotlib.pyplot as plt
 import cv2
 from segment_anything import SamAutomaticMaskGenerator, sam_model_registry
 
-#parser = argparse.ArgumentParser(description="Parse model argument")
+parser = argparse.ArgumentParser(description="Parse model argument")
 #parser.add_argument('--file', type=str, default="", help='Create segments this single image file')
-#args = parser.parse_args()
+parser.add_argument('--start', type=int, default=0, help='Start from this file #')
+parser.add_argument('--end', type=int, default=-1, help='Stop processing at this file, set to -1 for all files from start.')
+args = parser.parse_args()
 
 _checkpoint = "../checkpoints/sam_vit_h_4b8939.pth"
 model_type = "vit_h"
@@ -48,8 +50,19 @@ def overlay_image_alpha(base_img, overlay_img, position):
     return base_img
 
 
+vids = os.listdir(base_path)
+
+_from = args.start
+if _from > len(vids):
+    _from = len(vids)
+_to = args.end
+if _to > len(vids):
+    _to = len(vids)
+
+vids = vids[_from:_to]
+
 # Loop through each video_id folder
-for video_id in os.listdir(base_path):
+for video_id in vids:
     video_path = os.path.join(base_path, video_id, 'raw_frames')
 
     os.makedirs("output/"+video_id, exist_ok=True)

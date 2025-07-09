@@ -251,3 +251,36 @@ for i in range(len(whitelist)):
     cLines += str(whitelist[i]) + ", https://www.youtube.com/watch?v=" + whitelist[i] + ", " + whitelist_titles[i] + ", " + whitelist_categories[i] + ", " + whitelist_reasons[i] + "\n"
 csvFile.write(cLines)
 csvFile.close()
+
+
+
+
+# Edit Video Data CSV
+
+csv_file = '../video_processing/output/video_data.csv'
+
+# Read all rows from the CSV
+with open(csv_file, mode='r', newline='') as infile:
+    reader = csv.reader(infile)
+    rows = list(reader)
+
+# Find the index of the "relevant" column (should be the last column)
+header = rows[0]
+relevant_col_index = len(header) - 1
+if header[relevant_col_index].strip().lower() != 'relevant':
+    raise ValueError('Last column must be named "relevant".')
+
+# Modify the "relevant" column in-place
+for i in range(1, len(rows)):
+    row = rows[i]
+    if row and row[0] in whitelist:
+        row[relevant_col_index] = 'yes'
+    else:
+        row[relevant_col_index] = 'no'
+
+# Write the modified rows back to the same file
+with open(csv_file, mode='w', newline='') as outfile:
+    writer = csv.writer(outfile)
+    writer.writerows(rows)
+
+print(f'Updated "{csv_file}" successfully.')

@@ -15,3 +15,6 @@ cd ../../
 cd minicpm_baseline/scripts/
 sbatch generate_captions.slurm 0 1
 cd ../../
+cd segmentation_baseline/sam1_baseline/scripts/
+sbatch generate_segments.slurm 0 1
+cd ../../../
