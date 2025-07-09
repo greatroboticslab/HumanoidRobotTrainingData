@@ -68,7 +68,7 @@ identify_videos.py can be called to generate a .csv list of videos, ids, and url
  
 The last column of the file is editable by human so that we can change the relavance of the video. The reason we do this is becuase S1 is not able to precisely identify the relavance of the video. 
 
-### Video Relavance Generation 
+### Video File (video_data.csv) Generation 
 
 In order to generate title, category, and relavance columns of the  **video_data.csv**, you need to use S1. The detailed readme for how to use S1 can be found here. 
 
