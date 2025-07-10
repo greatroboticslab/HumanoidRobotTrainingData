@@ -6,3 +6,13 @@
 + __conda_exe run -n minicpm python generate_captions.py --start 900 --end 1000
 + '[' -n '' ']'
 + /jet/home/byler/miniconda3/bin/conda run -n minicpm python generate_captions.py --start 900 --end 1000
+slurmstepd: error: *** JOB 33416554 ON v011 CANCELLED AT 2025-07-10T04:54:54 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416559 ON v024 CANCELLED AT 2025-07-10T04:54:54 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416567 ON v011 CANCELLED AT 2025-07-10T05:02:39 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416572 ON v006 CANCELLED AT 2025-07-10T05:10:48 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416576 ON v034 CANCELLED AT 2025-07-10T05:26:38 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416580 ON v034 CANCELLED AT 2025-07-10T05:30:46 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416589 ON v006 CANCELLED AT 2025-07-10T05:38:34 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416584 ON v006 CANCELLED AT 2025-07-10T05:38:34 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416593 ON v010 CANCELLED AT 2025-07-10T05:42:47 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416597 ON v010 CANCELLED AT 2025-07-10T05:46:52 DUE TO TIME LIMIT ***

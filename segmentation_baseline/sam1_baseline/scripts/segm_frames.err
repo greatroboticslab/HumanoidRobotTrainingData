@@ -306,3 +306,13 @@
 + __conda_exe run -n sam python segment.py --start 800 --end 900
 + '[' -n '' ']'
 + /jet/home/byler/miniconda3/bin/conda run -n sam python segment.py --start 800 --end 900
+slurmstepd: error: *** JOB 33416555 ON v033 CANCELLED AT 2025-07-10T04:38:56 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416560 ON v028 CANCELLED AT 2025-07-10T09:34:03 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416568 ON v030 CANCELLED AT 2025-07-10T09:37:37 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416573 ON v028 CANCELLED AT 2025-07-10T09:41:41 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416590 ON v028 CANCELLED AT 2025-07-10T09:45:47 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416577 ON v031 CANCELLED AT 2025-07-10T09:45:47 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416581 ON v027 CANCELLED AT 2025-07-10T09:45:47 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416585 ON v028 CANCELLED AT 2025-07-10T09:45:47 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416598 ON v031 CANCELLED AT 2025-07-10T09:49:52 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 33416594 ON v027 CANCELLED AT 2025-07-10T09:49:52 DUE TO TIME LIMIT ***

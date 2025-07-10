@@ -5,35 +5,60 @@
     "category": "Education",
     "tasks": [
         {
-            "task": "Agricultural Machinery Operation Adjustment",
+            "task": "Operating a tractor's throttle to adjust RPMs.",
             "subtasks": [
-                "Adjusting tractor throttle lever for optimal operation",
-                "Understanding the impact of throttle position on ground speed",
-                "Managing hydraulic system responsiveness through throttle adjustment",
-                "Regulating engine RPM for PTO-driven attachments",
-                "Maximizing engine power output at full throttle for high-demand tasks",
-                "Fine-tuning throttle position for efficient loader and backhoe operations",
-                "Optimizing engine cooling by adjusting throttle during warm-up and shutdown",
-                "Using throttle lever to balance performance and fuel efficiency in various terrains"
+                "Determine appropriate throttle position based on task.",
+                "Adjust throttle to achieve proper speed for moving between tasks.",
+                "Modify throttle to optimize power output for PTO-driven equipment.",
+                "Use throttle to manage heat and RPM during engine warm-up.",
+                "Adapt throttle settings for varying terrain and load conditions.",
+                "Utilize auto-throttle function for variable-speed operation."
             ]
         },
         {
-            "task": "Agricultural Machinery Attachment Operation",
+            "task": "Running PTO-powered equipment at the correct RPM.",
             "subtasks": [
-                "Selecting appropriate gears for different PTO speeds",
-                "Adjusting rear PTO spin rates using ePTO or manual settings",
-                "Configuring autotrottle function for variable speed control",
-                "Aligning engine RPM with attachment requirements for optimal performance"
+                "Align engine RPM with PTO symbol on the instrument cluster.",
+                "Monitor RPM gauge for discrepancies when using heavy attachments.",
+                "Adjust throttle to maintain proper RPM when starting and stopping PTO-driven equipment."
             ]
         },
         {
-            "task": "Agricultural Machinery Maintenance and Safety",
+            "task": "Maintaining the correct speed during loader operations.",
             "subtasks": [
-                "Following manufacturer's recommendations for startup and shutdown procedures",
-                "Monitoring engine temperature and adjusting throttle to prevent overheating",
-                "Recognizing signs of mechanical strain and adjusting throttle accordingly",
-                "Practicing responsible use of fuel by managing engine RPM",
-                "Ensuring safety during hill climbs by avoiding excessive throttle in low torque ranges"
+                "Adjust throttle for optimal hydraulic fluid flow and power.",
+                "Slow the tractor when using the loader for precise tasks.",
+                "Maximize loader performance by using higher RPMs for heavy lifting."
+            ]
+        },
+        {
+            "task": "Managing engine RPMs during cooldown.",
+            "subtasks": [
+                "Decrease engine speed to prevent overheating during cooling cycles.",
+                "Monitor engine temperature and adjust RPMs accordingly."
+            ]
+        },
+        {
+            "task": "Operating rear and mid-PTO attachments efficiently.",
+            "subtasks": [
+                "Set engine RPM to minimum required for PTO attachments.",
+                "Recognize the impact on PTO output speed when reducing engine RPMs.",
+                "Adjust throttle for optimal power delivery during transport."
+            ]
+        },
+        {
+            "task": "Engaging in variable-speed driving for fuel efficiency and comfort.",
+            "subtasks": [
+                "Utilize manual throttle adjustment for various driving scenarios.",
+                "Balance speed, fuel consumption, and comfort using different RPM settings."
+            ]
+        },
+        {
+            "task": "Understanding the impact of throttle on regen cycles.",
+            "subtasks": [
+                "Recognize the potential for decreased regen frequency at higher RPMs.",
+                "Consider engine maintenance procedures when adjusting RPMs.",
+                "Acknowledge differences in engine manufacturers' recommendations."
             ]
         }
     ]

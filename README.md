@@ -115,7 +115,7 @@ Through this process, we need to execute the generation of search terms:
 Next we will need to get URLs from these search terms:
 
 	cd video_processing
-	python **youtube_search.py** --input_file output/video_downloading/search_terms.txt --api_key <youtube_v3_api_key> --files <split_into_how_many_files> --max_urls <max_grabbed_urls>
+	python youtube_search.py --input_file output/video_downloading/search_terms.txt --api_key <youtube_v3_api_key> --files <split_into_how_many_files> --max_urls <max_grabbed_urls>
 
 This will generate text files containing a list of URLs in the video_processing/output/video_downloading/ folder, names videos_s1_<id>.txt. You will need a YouTube V3 API key. If you are part of Great Robotics Lab then we already have one. Keep in mind you only get about 1,000 video searches in the API quota, including checking for duplicate videos.
 Next you will need to download the videos. It recommended to create a cookies.txt file in the video_processing/ directory. Then you will need to pass cookies to it.
@@ -139,7 +139,7 @@ The cookies file needs to be under the video_processing folder.
 
 After generation of these cookies, you can run **batchvideos.slurm** in the video_processing folder (note, this one will use both generated search terms and hardcoded links):
 
-	sbatch **batchvideos.slurm** <url_file_number>
+	sbatch batchvideos.slurm <url_file_number>
 
 This will submit a job that will download the YouTube videos (stored in rawvideos), extract the audio, and then generate text transcripts of the videos (stored in transcripts), as well as a .csv file called video_data.csv in video_processing/output/
 

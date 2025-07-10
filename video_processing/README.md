@@ -70,13 +70,16 @@ identify_videos.py can be called to generate a .csv list of videos, ids, and url
 
  https://github.com/greatroboticslab/HumanoidRobotTrainingData/blob/main/video_processing/output/video_data.csv
  
-The last column of the file is editable by human so that we can change the relavance of the video. The reason we do this is becuase S1 is not able to precisely identify the relavance of the video. 
+The last column of the file is editable by human so that we can change the relavance of the video. The reason we do this is becuase S1 is not able to precisely identify the relavance of the video. S1 will then be used to update this file accordingly.
 
-### Video File (video_data.csv) Generation 
+### Transcription
 
-In order to generate title, category, and relavance columns of the  **video_data.csv**, you need to use S1. The detailed readme for how to use S1 can be found here. 
+After all videos are downloaded and identified, you will need to generate transcripts.
 
-https://github.com/greatroboticslab/HumanoidRobotTrainingData/tree/main/s1_baseline
+	conda activate whisper
+	python masswhisper.py
+
+This will generate text transcripts of the videos. If a transcript already exists, then it will be skipped to save computer resources and time.
 
 ### Local Download
 

@@ -2,6 +2,7 @@ import argparse
 from vllm import LLM, SamplingParams
 from transformers import AutoTokenizer
 import shutil
+import csv
 
 import os
 import json
@@ -260,7 +261,7 @@ csvFile.close()
 csv_file = '../video_processing/output/video_data.csv'
 
 # Read all rows from the CSV
-with open(csv_file, mode='r', newline='') as infile:
+with open(csv_file, mode='r', encoding='utf-8', newline='') as infile:
     reader = csv.reader(infile)
     rows = list(reader)
 
@@ -272,14 +273,16 @@ if header[relevant_col_index].strip().lower() != 'relevant':
 
 # Modify the "relevant" column in-place
 for i in range(1, len(rows)):
-    row = rows[i]
-    if row and row[0] in whitelist:
-        row[relevant_col_index] = 'yes'
-    else:
-        row[relevant_col_index] = 'no'
+    if len(rows[i]) > 0:
+        row = rows[i]
+        print(row)
+        if row and row[0] in whitelist:
+            row[relevant_col_index] = 'yes'
+        else:
+            row[relevant_col_index] = 'no'
 
 # Write the modified rows back to the same file
-with open(csv_file, mode='w', newline='') as outfile:
+with open(csv_file, mode='w', encoding='utf-8', newline='') as outfile:
     writer = csv.writer(outfile)
     writer.writerows(rows)
 
