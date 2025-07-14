@@ -4,8 +4,8 @@
 #SBATCH --gres=gpu:v100-16:1 # Request 1 A100 GPU
 #SBATCH -N 1
 #SBATCH --time=24:00:00 # Time limit (hh:mm:ss)
-#SBATCH --output=videos_whisper_batch.out # Standard output
-#SBATCH --error=videos_whisper_batch.err # Standard error
+#SBATCH --output=transcribe_batch.out # Standard output
+#SBATCH --error=transcribe_batch.err # Standard error
 
 # CONFIGURATION
 ENV_NAME="whisper"
@@ -15,7 +15,7 @@ SLEEP_BETWEEN_BATCHES=300                   # Seconds between batches
 MAX_DOWNLOADS=100                      # <-- Set your max video downloads here
 
 set -x
-cd ${PROJECT}/PSCCode
+cd ${PROJECT}/HumanoidRobotTrainingData
 cd video_processing
 
 echo "Beginning transcription..."
