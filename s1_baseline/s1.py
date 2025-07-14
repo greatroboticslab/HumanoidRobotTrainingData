@@ -15,6 +15,7 @@ parser.add_argument('--gpus', type=int, default=4, help='Number of GPUs to use.'
 parser.add_argument('--tokens', type=int, default=32768, help='Max number of tokens.')
 parser.add_argument('--start', type=int, default=0, help='Start from this file #')
 parser.add_argument('--end', type=int, default=-1, help='Stop processing at this file, set to -1 for all files from start.')
+parser.add_argument('--debug', action='store_true', help='Enable debug mode')
 
 args = parser.parse_args()
 model_name = args.model
@@ -94,6 +95,17 @@ whitelist = []
 whitelist_titles = []
 whitelist_categories = []
 whitelist_reasons = []
+
+#print(onlyfiles)
+
+if args.debug:
+    dFile = open("..//debug/testdata/videorelevancetest.txt", "r")
+    dLines = dFile.readlines()
+    for l in range(len(dLines)):
+        dLines[l] = dLines[l][:-1]+".txt"
+    print(dLines)
+
+    onlyfiles = dLines
 
 for file in onlyfiles:
 
