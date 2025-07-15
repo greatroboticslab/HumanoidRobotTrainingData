@@ -57,6 +57,8 @@ def TaskToMoMask(line):
         return line.split(':', 1)[1].strip()
     return line.strip()
 
+def SubstituteTokens(text: str) -> str:
+    return text.replace('relevantToken', relevantToken).replace('irrelevantToken', irrelevantToken)
 
 filenames = []
 blacklist = ""
@@ -132,24 +134,28 @@ for file in onlyfiles:
                 for i in range(3, len(transcriptLines)):
                     transcript += transcriptLines[i] + "\n"
 
-                prompt = "<|im_start|>system\nYou are Qwen, a helful assistant. "
-                prompt += "You will be given a video transcript and asked to generate a series of tasks "
-                prompt += "based on the transcript that a person would have to perform. "
-                prompt += "A task should be a generalization, and made up of smaller sub-tasks. "
-                prompt += "Give one task per line. Write MAINTASK: before every task. "
-                prompt += "After writing MAINTASK: give a list of subtasks, one per line. "
-                prompt += "A for each subtask, write SUBTASK: before every subtask. "
-                prompt += "When you are finished with the subtasks for a task, you can start "
-                prompt += "a new task by writing MAINTASK: and then the new general task. "
-                prompt += "Give only tasks and subtasks, do not discuss or talk about anything else. "
-                prompt += "Do not go into detail on how you made each task, just give the tasks. "
-                prompt += "Only include tasks and subtasks that are related to farming, agriculture, or operating farming equiptment."
-                prompt += "However, if you feel that the transcript has nothing to do with the tasks of performing physical farming, husbandry, or agricultural tasks, then simply say " + irrelevantToken + " all caps, with 3 exclamation points at the beginning, followed by the reason for the video being irrelevant. "
-                prompt += "Do not forget to include the reason after the colon if the video transcript is irrelevant. "
-                prompt += "The entire transcript must be irrelevant. Otherwise, if it is still somewhat relevant, just save the tasks of the relevant actions, and do not write " + irrelevantToken + ". "
-                prompt += "At the end, if the video transcript is relevant (you have not said " + irrelevantToken + "), put " + relevantToken + " followed by the reason the video is relevant."
-                prompt += "<|im_end|>\n"
-                prompt += "<|im_start|>user\nGiven this transcript, please generate a list of physical tasks a person would have to perform with their body in relation to the transcript. Separate the tasks by a new line character:"
+                promptFile = open("prompt.txt", "r")
+                prompt = SubstituteTokens(promptFile.read())
+                promptFile.close()
+
+                #prompt = "<|im_start|>system\nYou are Qwen, a helful assistant. "
+                #prompt += "You will be given a video transcript and asked to generate a series of tasks "
+                #prompt += "based on the transcript that a person would have to perform. "
+                #prompt += "A task should be a generalization, and made up of smaller sub-tasks. "
+                #prompt += "Give one task per line. Write MAINTASK: before every task. "
+                #prompt += "After writing MAINTASK: give a list of subtasks, one per line. "
+                #prompt += "A for each subtask, write SUBTASK: before every subtask. "
+                #prompt += "When you are finished with the subtasks for a task, you can start "
+                #prompt += "a new task by writing MAINTASK: and then the new general task. "
+                #prompt += "Give only tasks and subtasks, do not discuss or talk about anything else. "
+                #prompt += "Do not go into detail on how you made each task, just give the tasks. "
+                #prompt += "Only include tasks and subtasks that are related to farming, agriculture, or operating farming equiptment."
+                #prompt += "However, if you feel that the transcript has nothing to do with the tasks of performing physical farming, husbandry, or agricultural tasks, then simply say " + irrelevantToken + " all caps, with 3 exclamation points at the beginning, followed by the reason for the video being irrelevant. "
+                #prompt += "Do not forget to include the reason after the colon if the video transcript is irrelevant. "
+                #prompt += "The entire transcript must be irrelevant. Otherwise, if it is still somewhat relevant, just save the tasks of the relevant actions, and do not write " + irrelevantToken + ". "
+                #prompt += "At the end, if the video transcript is relevant (you have not said " + irrelevantToken + "), put " + relevantToken + " followed by the reason the video is relevant."
+                #prompt += "<|im_end|>\n"
+                #prompt += "<|im_start|>user\nGiven this transcript, please generate a list of physical tasks a person would have to perform with their body in relation to the transcript. Separate the tasks by a new line character:"
             
                 prompt += transcript
 
@@ -157,7 +163,7 @@ for file in onlyfiles:
                 #prompt = "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\n" + prompt + "<|im_end|>\n<|im_start|>assistant\n"
 
                 o = model.generate(prompt, sampling_params=sampling_params)
-                #print(o[0].outputs[0].text)
+                print(o[0].outputs[0].text)
                 lines = o[0].outputs[0].text.splitlines()
                 
                 curTask = -1
@@ -287,7 +293,7 @@ if header[relevant_col_index].strip().lower() != 'relevant':
 for i in range(1, len(rows)):
     if len(rows[i]) > 0:
         row = rows[i]
-        print(row)
+        #print(row)
         if row and row[0] in whitelist:
             row[relevant_col_index] = 'yes'
         else:

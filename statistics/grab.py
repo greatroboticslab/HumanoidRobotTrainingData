@@ -9,11 +9,14 @@ parser.add_argument('--frame', type=int, default=0, help='Copy from this frame.'
 args = parser.parse_args()
 
 os.makedirs("validation/" + args.index, exist_ok=True)
+os.makedirs("validation/transcripts", exist_ok=True)
 
 src_path = "../video_processing/frames/"+args.index+"/raw_frames/frame_"+str(args.frame).zfill(4)+".jpg"
 
 dst_dir = os.getcwd()
 dst_dir = os.path.join(dst_dir, "validation/" + args.index)
+trt_dir = os.path.join(os.getcwd(), "validation/transcripts/")
+
 dst_path = os.path.join(dst_dir, "frame_"+str(args.frame).zfill(4)+".jpg")
 
 # Check if it's a file before copying
@@ -36,3 +39,8 @@ caption_path = "../minicpm_baseline/captions/"+args.index+"/frame_"+str(args.fra
 dst_path = os.path.join(dst_dir, "frame_"+str(args.frame).zfill(4)+".txt")
 if os.path.isfile(caption_path):
     shutil.copy2(caption_path, dst_path)
+
+transcript_path = "../video_processing/transcripts/"+args.index+".txt"
+dst_path = os.path.join(trt_dir, args.index+".txt")
+if os.path.isfile(transcript_path):
+    shutil.copy2(transcript_path, dst_path)
