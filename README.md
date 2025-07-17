@@ -102,6 +102,15 @@ Segmenting/masking can be done for video frames. To set up the environment:
 	pip install -e .
 	pip install opencv-python pycocotools matplotlib
 
+### For Blip3o
+
+Images can be both captioned and generated with Blip3o. To set up the environment:
+
+	conda create -n blip3o python=3.11 -y
+	conda activate blip3o
+	pip install --upgrade pip  setuptools
+	pip install -r requirements.txt
+
 ### Getting Dataset
 
 Step 1: Video Downloading: 
