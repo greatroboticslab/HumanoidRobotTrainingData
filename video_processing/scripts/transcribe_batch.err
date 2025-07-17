@@ -2,7 +2,7 @@
 + cd video_processing
 + echo 'Beginning transcription...'
 + conda run -n whisper python masswhisper.py
-/var/tmp/tmp52xad746: line 3: 19946 Killed                  python masswhisper.py
+/var/tmp/tmpyiep4wd5: line 3: 95116 Killed                  python masswhisper.py
 
 ERROR conda.cli.main_run:execute(125): `conda run python masswhisper.py` failed. (See above for error)
-slurmstepd: error: Detected 1 oom-kill event(s) in StepId=33512711.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=33535332.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.

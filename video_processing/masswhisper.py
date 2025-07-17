@@ -4,6 +4,14 @@ import csv
 import os
 import whisper
 
+import argparse
+
+parser = argparse.ArgumentParser(description="Parse model argument")
+parser.add_argument('--start', type=int, default=0, help='Start from this file #')
+parser.add_argument('--end', type=int, default=-1, help='Stop processing at this file, set to -1 for all files from start.')
+
+args = parser.parse_args()
+
 def get_video_csv_info(mp3_filename, column_index, csv_file="output/video_data.csv"):
     # Strip the extension to get the video ID
     video_id = os.path.splitext(mp3_filename)[0]
@@ -27,6 +35,14 @@ def get_video_csv_info(mp3_filename, column_index, csv_file="output/video_data.c
 
 mypath = "rawvideos/"
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+
+_from = args.start
+if _from > len(onlyfiles):
+    _from = len(onlyfiles)
+_to = args.end
+if _to > len(onlyfiles):
+    _to = len(onlyfiles)
+onlyfiles = onlyfiles[_from:_to]
 
 id = 1
 model = whisper.load_model("turbo")

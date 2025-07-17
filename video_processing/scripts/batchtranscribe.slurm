@@ -20,4 +20,4 @@ cd video_processing
 
 echo "Beginning transcription..."
 
-conda run -n whisper python masswhisper.py
+conda run -n whisper python masswhisper.py "$1" "$2"
