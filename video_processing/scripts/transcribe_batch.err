@@ -1,8 +1,8 @@
 + cd /ocean/projects/cis240145p/byler/HumanoidRobotTrainingData
 + cd video_processing
 + echo 'Beginning transcription...'
-+ conda run -n whisper python masswhisper.py
-/var/tmp/tmpyiep4wd5: line 3: 95116 Killed                  python masswhisper.py
++ conda run -n whisper python masswhisper.py 8900 9000
+usage: masswhisper.py [-h] [--start START] [--end END]
+masswhisper.py: error: unrecognized arguments: 8900 9000
 
-ERROR conda.cli.main_run:execute(125): `conda run python masswhisper.py` failed. (See above for error)
-slurmstepd: error: Detected 1 oom-kill event(s) in StepId=33535332.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
+ERROR conda.cli.main_run:execute(125): `conda run python masswhisper.py 8900 9000` failed. (See above for error)
