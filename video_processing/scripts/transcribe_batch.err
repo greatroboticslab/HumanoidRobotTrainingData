@@ -1,8 +1,32 @@
 + cd /ocean/projects/cis240145p/byler/HumanoidRobotTrainingData
 + cd video_processing
 + echo 'Beginning transcription...'
-+ conda run -n whisper python masswhisper.py 8900 9000
-usage: masswhisper.py [-h] [--start START] [--end END]
-masswhisper.py: error: unrecognized arguments: 8900 9000
++ conda run -n whisper python masswhisper.py --start 8000 --end 8100
++ cd /ocean/projects/cis240145p/byler/HumanoidRobotTrainingData
++ cd video_processing
++ echo 'Beginning transcription...'
++ conda run -n whisper python masswhisper.py --start 7900 --end 8000
++ cd /ocean/projects/cis240145p/byler/HumanoidRobotTrainingData
++ cd video_processing
++ echo 'Beginning transcription...'
++ conda run -n whisper python masswhisper.py --start 8400 --end 8500
++ cd /ocean/projects/cis240145p/byler/HumanoidRobotTrainingData
++ cd video_processing
++ echo 'Beginning transcription...'
++ conda run -n whisper python masswhisper.py --start 8300 --end 8400
++ cd /ocean/projects/cis240145p/byler/HumanoidRobotTrainingData
++ cd video_processing
++ echo 'Beginning transcription...'
++ conda run -n whisper python masswhisper.py --start 8200 --end 8300
++ cd /ocean/projects/cis240145p/byler/HumanoidRobotTrainingData
++ cd video_processing
++ echo 'Beginning transcription...'
++ conda run -n whisper python masswhisper.py --start 8100 --end 8200
+/var/tmp/tmpx9ow6dxj: line 3: 86881 Killed                  python masswhisper.py --start 9000 --end 9100
 
-ERROR conda.cli.main_run:execute(125): `conda run python masswhisper.py 8900 9000` failed. (See above for error)
+ERROR conda.cli.main_run:execute(125): `conda run python masswhisper.py --start 9000 --end 9100` failed. (See above for error)
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=33598942.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
+/var/tmp/tmph8w1ata5: line 3: 72761 Killed                  python masswhisper.py --start 7700 --end 7800
+
+ERROR conda.cli.main_run:execute(125): `conda run python masswhisper.py --start 7700 --end 7800` failed. (See above for error)
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=33598929.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.

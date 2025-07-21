@@ -1,3 +1,13 @@
+## Scripts
+
+generate.py is used to generate a series of images from a given prompt file. The format for the command is:
+
+	python generate.py model_path prompt_file
+
+The prompt file is a .txt file seperated by newlines for each prompt.
+
+# Original README
+
 # 🌌 BLIP3-o
 
 BLIP3-o is a unified multimodal model that combines the reasoning and instruction following strength of autoregressive models with the generative power of diffusion models. Unlike prior works that diffuse VAE features or raw pixels, BLIP3-o diffuses semantically rich **CLIP image features**, enabling a powerful and efficient architecture for both image understanding and generation.
