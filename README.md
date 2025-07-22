@@ -9,7 +9,7 @@ This repo contains the code we execute on the PSC server to obtain animation dat
 
 ### Main Scripts.
 
-To run the motion generation jobs, run:
+To generate everything, including motions, captions, and image segments, run:
 
 	sbatch generate_all.slurm
 
@@ -17,7 +17,7 @@ You can also test the entire workflow for just 1 file:
 
 	sbatch test_one.slurm
 
-There are also two scrips in the root of the repo:
+There are also two scripts in the root of the repo:
 
 	generate_motions.slurm
 	setup.sh
@@ -167,20 +167,9 @@ The script will then attempt to identify and transcribe the videos. If this fail
 https://github.com/greatroboticslab/HumanoidRobotTrainingData/tree/main/video_processing
 
 
-Step 2: Depth-anythingv2 data generation 
+Step 2: Depth Frame Generation
 
-You can now generate depth frames from the videos. Navigate to depth_anything_baseline/scripts/ and run either:
-
-	bash generate_all.sh
-or
-	sbatch generate_depths.slurm <start> <end>
-
-for PSC, or
-
-	conda activate depthanything
-	python Video_YTB_text.py --start <start> --end <end>
-
-The <start> and <end> parameters determine the range of files to process. For instance, 0 and 100 will process the first 100 files. The raw frames will be saved in video_processing/output/ and the depth frames will be saved in depth_anything_baseline/output/
+Now that you have videos, you can now generate depth frames from them. See [the Depth Anything readme](https://github.com/greatroboticslab/HumanoidRobotTrainingData/tree/main/depth_anything_baseline) for more details.
 
 ### Generating Tasks
 

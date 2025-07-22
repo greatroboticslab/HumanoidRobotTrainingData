@@ -1,15 +1,17 @@
 # Output
 
-After running the Depth Anything job by doing:
+You can generate depth frames from downloaded videos. Navigate to depth_anything_baseline/scripts/ and run either:
 
-	bash scripts/generate_all.sh
+	bash generate_all.sh
+or
+	sbatch generate_depths.slurm <start> <end>
 
-or by doing:
+for PSC, or
 
 	conda activate depthanything
 	python Video_YTB_text.py --start <start> --end <end>
 
-the raw frames will be saved in ../video_processing/frames, and the depth frames will be saved in depth_anything_baseline/output/
+The <start> and <end> parameters determine the range of files to process. For instance, 0 and 100 will process the first 100 files. The raw frames will be saved in video_processing/output/ and the depth frames will be saved in depth_anything_baseline/output/
 
 ---
 title: Depth Anything V2

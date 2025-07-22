@@ -90,3 +90,12 @@ You can use this command:
 	scp username@bridges2.psc.edu:"<DIRECTORY_CONTAINING_REPO>/PSCCode/video_processing/rawvideos/*" .
 
 To locally download all the videos into your current local directory. This may take a while, as depending on how many videos you have, there could be several gigabytes of data.
+
+### Frame extraction
+
+Frames can be extracted using the Depth Anything v2 script in the depth_anything_baseline/ folder. 
+
+        conda activate depthanything
+        python scripts/Video_YTB_text.py --start <start_index> --end <end_index>
+
+This will create both raw frames, and depth frames. The regular (raw) frames will be stored in video_processing/frames/
