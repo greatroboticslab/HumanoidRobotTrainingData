@@ -193,14 +193,21 @@ Once the tasks are generated, navigate to the momask_baseline/ folder, and run:
 
 The outputs are stored in momask_baseline/generation/batch_motions/
 
-### Generating Depth Frames
+### Extracting Frames
 
-Depth Anything v2 can estimate depth and give a depth map of frames from a video. Navigate to the depth_anything_baseline folder, and run:
+After videos are downloaded and analyzed for relevance, the extract_frames.py script in video_processing/scripts/ can extract frames from the videos. Navigate to the folder, and run:
 
 	conda activate depthanything
-	python scripts/Video_YTB_text.py --start <start_index> --end <end_index>
+	python extract_frames.py --start <start_index> --end <end_index>	
 
-Which will begin creating raw frames and depth frames in the video_processing folder.
+### Generating Depth Frames
+
+After extracting frames from videos, Depth Anything v2 can estimate depth and give a depth map of frames from a video. Navigate to the depth_anything_baseline/script/ folder, and run:
+
+	conda activate depthanything
+	python extract_frames.py --start <start_index> --end <end_index>
+
+Which will begin creating depth frames in the video_processing folder. You need to extract regular frames beforehand (previous step).
 
 ### Generating Captions
 

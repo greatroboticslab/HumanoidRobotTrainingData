@@ -1,0 +1,22 @@
+import argparse
+
+parser = argparse.ArgumentParser(description="Parse model argument")
+parser.add_argument('--start', type=int, default=0, help='Start from this file #')
+parser.add_argument('--end', type=int, default=-1, help='Stop processing at this file, set to -1 for all files from start.')
+parser.add_argument('--dir', type=str, default='./', help='Directory where all files to be proccessed are located.')
+
+args = parser.parse_args()
+
+frameDir = args.dir
+
+onlyFolders = [name for name in os.listdir(frameDir) if os.path.isdir(os.path.join(frameDir, name))]
+
+
+_from = args.start
+if _from > len(onlyFolders):
+    _from = len(onlyFolders)
+_to = args.end
+if _to > len(onlyFolders):
+    _to = len(onlyFolders)
+onlyFolders = onlyFolders[_from:_to]
+

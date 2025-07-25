@@ -2,6 +2,8 @@ import argparse
 import os
 import subprocess
 import caption_cpm
+import shutil
+
 
 parser = argparse.ArgumentParser(description="Parse model argument")
 parser.add_argument('--start', type=int, default=0, help='Start from this file #')
@@ -35,3 +37,4 @@ for f in onlyFolders:
     #)
 
     caption_cpm.MakeCaptionsFromFolder(_folder, "../captions/" + f + "/")
+    shutil.copytree("../captions/"+f+"/", "../../video_processing/minicpm_captions/"+f+"/", dirs_exist_ok=True)

@@ -8,6 +8,7 @@ import torch
 import pdb
 import copy
 import sys
+sys.path.append("../")
 import argparse
 import os
 import json
@@ -32,8 +33,9 @@ import re, random
 model_path = sys.argv[1]
 diffusion_path = model_path + "/diffusion-decoder"
 
+# Name of the prompt directory
 prompt_path = sys.argv[2]
-
+vIndex = os.path.basename(os.path.normpath(prompt_path))
 
 processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct")
 
@@ -102,13 +104,15 @@ def set_global_seed(seed=42):
     torch.cuda.manual_seed(seed)
     torch.cuda.manual_seed_all(seed)
 
+files = [f for f in os.listdir(prompt_path) if os.path.isfile(os.path.join(prompt_path, f))]
 
+for f in files:
 
-promptFile = open(prompt_path, "r")
-prompts = promptFile.readlines()
-promptFile.close()
+    promptFile = open(prompt_path + f, "r")
+    prompt = promptFile.read()
+    promptFile.close()
 
-for prompt in prompts:
+    os.makedirs("output/"+vIndex+"/", exist_ok=True)
 
     #prompt = "A photo of cute cat"
     set_global_seed(seed=42)
@@ -121,7 +125,7 @@ for prompt in prompts:
 
 
     grid_image = create_image_grid(gen_images, 2, 2)
-    grid_image.save(f"{prompt[:100]}.png")
+    grid_image.save("output/"+vIndex+"/"+prompt[:100]+".png")
 
 
 
