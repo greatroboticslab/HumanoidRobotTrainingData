@@ -93,9 +93,7 @@ To locally download all the videos into your current local directory. This may t
 
 ### Frame extraction
 
-Frames can be extracted using the Depth Anything v2 script in the depth_anything_baseline/ folder. 
+After videos are downloaded and analyzed for relevance, the extract_frames.py script can be run to extract frames:
 
-        conda activate depthanything
-        python scripts/Video_YTB_text.py --start <start_index> --end <end_index>
-
-This will create both raw frames, and depth frames. The regular (raw) frames will be stored in video_processing/frames/
+	conda activate depthanything
+	python extract_frames.py --start <start_index> --end <end_index>
