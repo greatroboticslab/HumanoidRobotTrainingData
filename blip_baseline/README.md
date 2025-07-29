@@ -1,7 +1,8 @@
 ## Scripts
 
-generate.py is used to generate a series of images from a given prompt file. The format for the command is:
+generate.py (located in the scripts/ folder)  is used to generate a series of images from a given prompt file. The format for the command is:
 
+	conda activate blip3o
 	python generate.py model_path prompt_file
 
 The prompt file is a .txt file seperated by newlines for each prompt.

@@ -229,7 +229,8 @@ for file in onlyfiles:
                 }
                 # jsonData.append(entry)
                 # Generate a .json for this video
-                jsonFile = open("output/" + str(vID) + ".json", "w")
+                os.makedirs("output/tasks/", exist_ok=True)
+                jsonFile = open("output/tasks/" + str(vID) + ".json", "w")
                 json.dump(entry, jsonFile, indent=4)
                 jsonFile.close()
 
