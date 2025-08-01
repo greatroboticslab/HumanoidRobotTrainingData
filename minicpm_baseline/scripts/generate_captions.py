@@ -36,5 +36,5 @@ for f in onlyFolders:
     #    capture_output=True, text=True, check=True
     #)
 
-    caption_cpm.MakeCaptionsFromFolder(_folder, "../captions/" + f + "/")
-    shutil.copytree("../captions/"+f+"/", "../../video_processing/minicpm_captions/"+f+"/", dirs_exist_ok=True)
+    caption_cpm.MakeCaptionsFromFolder(_folder, "../output/" + f + "/")
+    shutil.copytree("../output/"+f+"/", "../../video_processing/minicpm_captions/"+f+"/", dirs_exist_ok=True)

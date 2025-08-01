@@ -112,7 +112,7 @@ for f in files:
     prompt = promptFile.read()
     promptFile.close()
 
-    os.makedirs("output/"+vIndex+"/", exist_ok=True)
+    os.makedirs("../output/"+vIndex+"/", exist_ok=True)
 
     #prompt = "A photo of cute cat"
     set_global_seed(seed=42)
@@ -125,7 +125,7 @@ for f in files:
 
 
     grid_image = create_image_grid(gen_images, 2, 2)
-    grid_image.save("output/"+vIndex+"/"+prompt[:100]+".png")
+    grid_image.save("../output/"+vIndex+"/"+prompt[:100]+".png")
 
 
 

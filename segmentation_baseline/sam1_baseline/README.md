@@ -1,3 +1,10 @@
+# Generating Segments
+
+After you have extracted frames from relevant videos, you can create segmentations of them. Navigate to the scripts/ folder and run:
+
+	conda activate sam1
+	python generate.py --start <startfrom> --end <endat>
+
 ## Latest updates -- SAM 2: Segment Anything in Images and Videos
 
 Please check out our new release on [**Segment Anything Model 2 (SAM 2)**](https://github.com/facebookresearch/segment-anything-2).

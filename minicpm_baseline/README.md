@@ -1,3 +1,12 @@
+# Generating Captions
+
+To generate captions, navigate to the scripts/ folder, and run:
+
+	conda activte minicpm
+	generate_captions.py --start <startfrom> --end <endat>
+
+There is optionally a slurm file, generate_all.sh, that will split up the jobs into chunks.
+
 <div align="center">
 
 <img src="./assets/MiniCPM-o.png" width="300em" ></img> 

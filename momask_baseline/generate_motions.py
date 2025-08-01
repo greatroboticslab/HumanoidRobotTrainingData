@@ -35,7 +35,7 @@ def sanitize_folder_name(name: str) -> str:
 
 # Extract tasks
 
-mypath = "../s1_baseline/output/"
+mypath = "../s1_baseline/output/tasks/"
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
 _from = args.start

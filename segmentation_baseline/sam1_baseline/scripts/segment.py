@@ -65,7 +65,7 @@ vids = vids[_from:_to]
 for video_id in vids:
     video_path = os.path.join(base_path, video_id, 'raw_frames')
 
-    os.makedirs("output/"+video_id, exist_ok=True)
+    os.makedirs("../output/"+video_id, exist_ok=True)
 
     if not os.path.isdir(video_path):
         continue  # Skip if raw_frames doesn't exist
@@ -115,5 +115,5 @@ for video_id in vids:
         frame_name = os.path.splitext(os.path.basename(jpg_path))[0]
 
         final_img = Image.fromarray(image, mode='RGBA')
-        final_img.save("output/" + video_id + "/" + frame_name + ".png")
+        final_img.save("../output/" + video_id + "/" + frame_name + ".png")
         #shutil.copy(jpg_path, "./"+frame_name+".jpg")
