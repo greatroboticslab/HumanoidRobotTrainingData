@@ -24,7 +24,7 @@ gpu_count = args.gpus
 
 irrelevantToken = "!!!TRANSCRIPT_IRRELEVANT:"
 relevantToken = ">>>ACCEPT:"
-finalToken = "FINAL ANSWER:"
+finalToken = ">>>FINAL_ANSWER:"
 YOUTUBE_PREFIX = "https://www.youtube.com/watch?v="
 
 def IsSubtask(line):
@@ -180,12 +180,18 @@ for _folder in onlyfiles:
                     #print(o[0].outputs[0].text)
                     lines = o[0].outputs[0].text.splitlines()
                     caption = ""
+                    found = False
                     for l in lines:
+                        #Fix for if caption is on the next line
+                        if found and caption == "":
+                            caption = l
+                        print(l)
                         if finalToken in l:
+                            print("IN LINE!!!")
                             caption = l.split(finalToken, 1)[1].strip()
 
                     if caption != "":
-                        print(caption)
+                        print("Final Caption: " + caption)
                     else:
                         print("No caption generated!")
 

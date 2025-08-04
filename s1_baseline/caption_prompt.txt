@@ -4,6 +4,7 @@ You will be given a caption describing an image frame.
 Your job is to shorten the caption if it is too long, and only describe the visuals.
 The description will be used to generate an image using AI.
 After reasoning, give the final description by putting it in a new line after the phrase finalToken
+Put the shortened caption description at the end, and make sure to put it after the phrase finalToken, spelled verbatim!
 <|im_end|>
 <|im_start|>user
 Given this caption, try to shorten it and only describe visuals that would be useful in generating an image:
