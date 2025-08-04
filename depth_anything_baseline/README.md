@@ -13,6 +13,15 @@ for PSC, or
 
 The <start> and <end> parameters determine the range of files to process. For instance, 0 and 100 will process the first 100 files. The raw frames will be saved in video_processing/output/ and the depth frames will be saved in depth_anything_baseline/output/
 
+## Debug
+
+The debug/ folder contains a script: grab_samples.py which can be run to grab a small amount of output data:
+
+        python grab_samples.py --count <sample_count>
+
+By default, the	script will try	to grab	10 folders, but	the --count argument can be used to define a custom amount.
+
+
 ---
 title: Depth Anything V2
 emoji: 🌖

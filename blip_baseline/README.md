@@ -7,6 +7,14 @@ generate.py (located in the scripts/ folder)  is used to generate a series of im
 
 The prompt file is a .txt file seperated by newlines for each prompt.
 
+## Debug
+
+The debug/ folder contains a script: grab_samples.py which can be run to grab a small amount of output data:
+
+	python grab_samples.py --count <sample_count>
+
+By default, the script will try to grab 10 folders, but the --count argument can be used to define a custom amount.
+
 # Original README
 
 # 🌌 BLIP3-o

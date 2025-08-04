@@ -1,3 +1,13 @@
+## Debug
+
+The debug/ folder contains a script: grab_samples.py which can be run to grab a small amount of output data:
+
+        python grab_samples.py --count <sample_count>
+
+By default, the	script will try	to grab	10 folders, but	the --count argument can be used to define a custom amount.
+
+# Original Readme:
+
 # Generating Segments
 
 After you have extracted frames from relevant videos, you can create segmentations of them. Navigate to the scripts/ folder and run:
