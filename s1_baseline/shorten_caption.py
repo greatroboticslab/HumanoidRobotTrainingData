@@ -183,12 +183,15 @@ for _folder in onlyfiles:
                     found = False
                     for l in lines:
                         #Fix for if caption is on the next line
-                        if found and caption == "":
+                        if found and len(caption) < 3:
                             caption = l
+                            print("--Updating caption to: " + l)
                         print(l)
                         if finalToken in l:
                             print("IN LINE!!!")
                             caption = l.split(finalToken, 1)[1].strip()
+                            print("--Caption is currently: " + caption + " | (" + str(len(caption)) + ")")
+                            found = True
 
                     if caption != "":
                         print("Final Caption: " + caption)

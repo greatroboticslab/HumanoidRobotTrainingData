@@ -8,11 +8,11 @@ parser.add_argument('--count', type=int, default=10, help='Amount of sample fold
 
 args = parser.parse_args()
 
-source_dir = os.path.abspath("../output")
+source_dir = os.path.abspath("../output/tasks/")
 dest_dir = os.getcwd()
 
 # Get all folders in source_dir
-folders = [f for f in os.listdir(source_dir) if os.path.isdir(os.path.join(source_dir, f))]
+folders = [f for f in os.listdir(source_dir) if os.path.isfile(os.path.join(source_dir, f))]
 #folders.sort()  # Optional: deterministic order
 
 smallest = args.count
@@ -29,4 +29,4 @@ for i in range(smallest):
     dst_path = os.path.join(dest_dir, folders[i])
     if i < len(folders):
         print(f"Copying '{src_path}' to '{dst_path}'")
-        shutil.copytree(src_path, dst_path)
+        shutil.copy(src_path, dst_path)

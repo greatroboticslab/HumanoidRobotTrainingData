@@ -125,7 +125,8 @@ for f in files:
 
 
     grid_image = create_image_grid(gen_images, 2, 2)
-    grid_image.save("../output/"+vIndex+"/"+prompt[:100]+".png")
 
+    fileName = re.sub(r'[<>:"/\\|?*\.\s]+', '_', prompt[:100]).strip('_')
 
+    grid_image.save("../output/"+vIndex+"/"+fileName+".png")
 
