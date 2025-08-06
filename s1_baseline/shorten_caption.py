@@ -24,7 +24,7 @@ gpu_count = args.gpus
 
 irrelevantToken = "!!!TRANSCRIPT_IRRELEVANT:"
 relevantToken = ">>>ACCEPT:"
-finalToken = ">>>FINAL_ANSWER:"
+finalToken = ">>>FINAL_CAPTION:"
 YOUTUBE_PREFIX = "https://www.youtube.com/watch?v="
 
 def IsSubtask(line):
@@ -140,16 +140,20 @@ for _folder in onlyfiles:
                 relevant = True
                 transcriptLines = []
                 try:
+                    print(file)
                     transcriptLines = fi.readlines()
-                    videoTitle = transcriptLines[0].replace('\n', '').replace('\r', '')
-                    videoCategory = transcriptLines[2].replace('\n', '').replace('\r', '')
+                    #print(transcriptLines)
+                    #videoTitle = transcriptLines[0].replace('\n', '').replace('\r', '')
+                    #videoCategory = transcriptLines[2].replace('\n', '').replace('\r', '')
                     transcript = ""
-                    for i in range(3, len(transcriptLines)):
+                    for i in range(0, len(transcriptLines)):
                         transcript += transcriptLines[i] + "\n"
 
                     promptFile = open("caption_prompt.txt", "r")
                     prompt = SubstituteTokens(promptFile.read())
                     promptFile.close()
+
+                    #print("!! 1")
 
                     #prompt = "<|im_start|>system\nYou are Qwen, a helful assistant. "
                     #prompt += "You will be given a video transcript and asked to generate a series of tasks "
@@ -176,27 +180,32 @@ for _folder in onlyfiles:
                     #prompt = "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\n" + prompt + "<|im_end|>\n<|im_start|>assistant\n"
 
                     o = model.generate(prompt, sampling_params=sampling_params)
-                    print("Output: ")
+                    #print("Output: ")
                     #print(o[0].outputs[0].text)
                     lines = o[0].outputs[0].text.splitlines()
                     caption = ""
                     found = False
+
+                    #print("!! 2")
+
                     for l in lines:
                         #Fix for if caption is on the next line
                         if found and len(caption) < 3:
                             caption = l
-                            print("--Updating caption to: " + l)
-                        print(l)
+                            #print("--Updating caption to: " + l)
+                        #print(l)
                         if finalToken in l:
-                            print("IN LINE!!!")
+                            #print("IN LINE!!!")
+                            #print("!! 3")
                             caption = l.split(finalToken, 1)[1].strip()
-                            print("--Caption is currently: " + caption + " | (" + str(len(caption)) + ")")
+                            #print("--Caption is currently: " + caption + " | (" + str(len(caption)) + ")")
                             found = True
 
                     if caption != "":
                         print("Final Caption: " + caption)
                     else:
-                        print("No caption generated!")
+                        caption = o[0].outputs[0].text
+                        print("No caption generated! Using original: " + transcript)
 
                 except Exception as e:
                     relevant = False
