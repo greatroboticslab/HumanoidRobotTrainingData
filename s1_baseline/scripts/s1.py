@@ -18,7 +18,7 @@ parser.add_argument('--end', type=int, default=-1, help='Stop processing at this
 parser.add_argument('--debug', action='store_true', help='Enable debug mode')
 
 args = parser.parse_args()
-model_name = args.model
+model_name = "../" + args.model
 _token_count = args.tokens
 gpu_count = args.gpus
 
@@ -79,7 +79,7 @@ sampling_params = SamplingParams(
     stop_token_ids=stop_token_ids,
 )
 
-mypath = "../video_processing/transcripts/"
+mypath = "../../video_processing/transcripts/"
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 _from = args.start
 if _from > len(onlyfiles):
@@ -101,7 +101,7 @@ whitelist_reasons = []
 #print(onlyfiles)
 
 if args.debug:
-    dFile = open("..//debug/testdata/videorelevancetest.txt", "r")
+    dFile = open("../../debug/testdata/videorelevancetest.txt", "r")
     dLines = dFile.readlines()
     for l in range(len(dLines)):
         dLines[l] = dLines[l][:-1]+".txt"
@@ -229,8 +229,8 @@ for file in onlyfiles:
                 }
                 # jsonData.append(entry)
                 # Generate a .json for this video
-                os.makedirs("output/tasks/", exist_ok=True)
-                jsonFile = open("output/tasks/" + str(vID) + ".json", "w")
+                os.makedirs("../output/tasks/", exist_ok=True)
+                jsonFile = open("../output/tasks/" + str(vID) + ".json", "w")
                 json.dump(entry, jsonFile, indent=4)
                 jsonFile.close()
 
@@ -250,7 +250,7 @@ for file in onlyfiles:
 # outputFile.write(outputString)
 # outputFile.close()
 
-blacklistFile = open("../video_processing/blacklist.txt", "w", encoding="ascii", errors="ignore")
+blacklistFile = open("../../video_processing/blacklist.txt", "w", encoding="ascii", errors="ignore")
 blacklistFile.write(blacklist)
 blacklistFile.close()
 
@@ -260,13 +260,13 @@ print("Ignoring " + str(irrelevantCount) + " irrelevant videos.")
 # Copy over videos
 print("Copying relevant videos to relevant_videos/")
 for w in whitelist:
-    shutil.copy("../video_processing/rawvideos/" + w + ".mp4", "../video_processing/relevant_videos/"+w+".mp4")
+    shutil.copy("../../video_processing/rawvideos/" + w + ".mp4", "../../video_processing/relevant_videos/"+w+".mp4")
 
-os.makedirs("../video_processing/relevant_videos/data/", exist_ok=True)
+os.makedirs("../../video_processing/relevant_videos/data/", exist_ok=True)
 
 # Save CSV Files
 for i in range(len(whitelist)):
-    csvFile = open("../video_processing/relevant_videos/data/"+str(whitelist[i])+".csv", "w", encoding="ascii", errors="ignore")
+    csvFile = open("../../video_processing/relevant_videos/data/"+str(whitelist[i])+".csv", "w", encoding="ascii", errors="ignore")
     cLines = "index, url, video title, category, reason\n"
     cLines += str(whitelist[i]) + ", https://www.youtube.com/watch?v=" + whitelist[i] + ", " + whitelist_titles[i] + ", " + whitelist_categories[i] + ", " + whitelist_reasons[i] + "\n"
 csvFile.write(cLines)
@@ -277,7 +277,7 @@ csvFile.close()
 
 # Edit Video Data CSV
 
-csv_file = '../video_processing/output/video_data.csv'
+csv_file = '../../video_processing/output/video_data.csv'
 
 # Read all rows from the CSV
 with open(csv_file, mode='r', encoding='utf-8', newline='') as infile:

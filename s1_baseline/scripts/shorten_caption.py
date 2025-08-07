@@ -18,7 +18,7 @@ parser.add_argument('--end', type=int, default=-1, help='Stop processing at this
 parser.add_argument('--debug', action='store_true', help='Enable debug mode')
 
 args = parser.parse_args()
-model_name = args.model
+model_name = "../" + args.model
 _token_count = args.tokens
 gpu_count = args.gpus
 
@@ -80,7 +80,7 @@ sampling_params = SamplingParams(
     stop_token_ids=stop_token_ids,
 )
 
-mypath = "../video_processing/minicpm_captions/"
+mypath = "../../video_processing/minicpm_captions/"
 onlyfiles = [f for f in os.listdir(mypath) if os.path.isdir(os.path.join(mypath, f))]
 print(onlyfiles)
 _from = args.start
@@ -103,7 +103,7 @@ whitelist_reasons = []
 #print(onlyfiles)
 
 if args.debug:
-    dFile = open("..//debug/testdata/videorelevancetest.txt", "r")
+    dFile = open("../../debug/testdata/videorelevancetest.txt", "r")
     dLines = dFile.readlines()
     for l in range(len(dLines)):
         dLines[l] = dLines[l][:-1]+".txt"
@@ -207,8 +207,8 @@ for _folder in onlyfiles:
                         caption = transcript
                         print("No caption generated! Using original: " + transcript)
 
-                    os.makedirs("../minicpm_baseline/output/shortencaptions/" + vID + "/", exist_ok=True)
-                    outFile = open("../minicpm_baseline/output/shortencaptions/" + vID + "/" + file, "w")
+                    os.makedirs("../../minicpm_baseline/output/shortencaptions/" + vID + "/", exist_ok=True)
+                    outFile = open("../../minicpm_baseline/output/shortencaptions/" + vID + "/" + file, "w")
                     outFile.write(caption)
                     outFile.close()
 
