@@ -131,7 +131,7 @@ for _folder in onlyfiles:
                 #print(str(file))
                 fi = open(folder + "/" + file, "r", encoding="ascii", errors="ignore")
 
-                vID = os.path.splitext(file)[0]
+                vID = os.path.basename(os.path.normpath(folder))
                 url = YOUTUBE_PREFIX + vID
                 videoTitle = "Unknown Title"
                 videoCategory = "Unknown Category"
@@ -201,11 +201,16 @@ for _folder in onlyfiles:
                             #print("--Caption is currently: " + caption + " | (" + str(len(caption)) + ")")
                             found = True
 
-                    if caption != "":
+                    if caption != "" and len(caption) < len(transcript):
                         print("Final Caption: " + caption)
                     else:
-                        caption = o[0].outputs[0].text
+                        caption = transcript
                         print("No caption generated! Using original: " + transcript)
+
+                    os.makedirs("../minicpm_baseline/output/shortencaptions/" + vID + "/", exist_ok=True)
+                    outFile = open("../minicpm_baseline/output/shortencaptions/" + vID + "/" + file, "w")
+                    outFile.write(caption)
+                    outFile.close()
 
                 except Exception as e:
                     relevant = False

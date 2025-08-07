@@ -8,7 +8,7 @@ parser.add_argument('--count', type=int, default=10, help='Amount of sample fold
 
 args = parser.parse_args()
 
-source_dir = os.path.abspath("../output")
+source_dir = os.path.abspath("../output/shortencaptions/")
 dest_dir = os.getcwd()
 
 # Get all folders in source_dir
@@ -24,9 +24,13 @@ folders = random.sample(folders, smallest)
 if args.count > len(folders):
     print(f"Requested {args.count} folders, but only found {len(folders)}.")
 
+os.makedirs("shortencaptions", exist_ok=True)
+
 for i in range(smallest):
     src_path = os.path.join(source_dir, folders[i])
-    dst_path = os.path.join(dest_dir, folders[i])
+    dst_path = os.path.join(dest_dir + "/shortencaptions", folders[i])
     if i < len(folders):
         print(f"Copying '{src_path}' to '{dst_path}'")
         shutil.copytree(src_path, dst_path)
+
+
