@@ -35,7 +35,7 @@ diffusion_path = model_path + "/diffusion-decoder"
 
 # Name of the prompt directory
 prompt_path = sys.argv[2]
-vIndex = os.path.basename(os.path.normpath(prompt_path))
+#vIndex = os.path.basename(os.path.normpath(prompt_path))
 
 processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct")
 
@@ -104,29 +104,38 @@ def set_global_seed(seed=42):
     torch.cuda.manual_seed(seed)
     torch.cuda.manual_seed_all(seed)
 
-files = [f for f in os.listdir(prompt_path) if os.path.isfile(os.path.join(prompt_path, f))]
+folders = [f for f in os.listdir(prompt_path) if os.path.isdir(os.path.join(prompt_path, f))]
 
-for f in files:
+for fo in folders:
 
-    promptFile = open(prompt_path + f, "r")
-    prompt = promptFile.read()
-    promptFile.close()
+    files = [f for f in os.listdir(prompt_path + "/" + fo) if os.path.isfile(os.path.join(prompt_path + "/" + fo, f))]
 
-    os.makedirs("../output/"+vIndex+"/", exist_ok=True)
+    print(fo)
+    for f in files:
 
-    #prompt = "A photo of cute cat"
-    set_global_seed(seed=42)
-    gen_images = []
-    for i in range(4):
-        gen_img = pipe(add_template([f"Please generate image based on the following caption: {prompt}"]), guidance_scale=3.0)
-        gen_images.append(gen_img.image)
-    print(f"finish {prompt}")
+        fPath = prompt_path + "/" + fo + "/" + f
+        print(fPath)
+        vIndex = os.path.basename(os.path.normpath(fo))
+
+        promptFile = open(fPath, "r")
+        prompt = promptFile.read()
+        promptFile.close()
+
+        os.makedirs("../output/"+vIndex+"/", exist_ok=True)
+
+        #prompt = "A photo of cute cat"
+        set_global_seed(seed=42)
+        gen_images = []
+        for i in range(4):
+            gen_img = pipe(add_template([f"Please generate image based on the following caption: {prompt}"]), guidance_scale=3.0)
+            gen_images.append(gen_img.image)
+        print(f"finish {prompt}")
 
 
 
-    grid_image = create_image_grid(gen_images, 2, 2)
+        grid_image = create_image_grid(gen_images, 2, 2)
 
-    fileName = re.sub(r'[<>:"/\\|?*\.\s]+', '_', prompt[:100]).strip('_')
+        fileName = f[:10] # + re.sub(r'[<>:"/\\|?*\.\s]+', '_', prompt[:100]).strip('_')
 
-    grid_image.save("../output/"+vIndex+"/"+fileName+".png")
+        grid_image.save("../output/"+vIndex+"/"+fileName+".png")
 
