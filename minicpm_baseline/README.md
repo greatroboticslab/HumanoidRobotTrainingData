@@ -1,4 +1,8 @@
+# All Scripts should be located under scripts folder.
+
 # Generating Captions
+## Shortend caption uses S1 project. The Shortend caption script used to generate both long and short captions are located in the S1/scripts folder. Please go there to checkout the scripts.
+
 
 To generate captions, navigate to the scripts/ folder, and run:
 

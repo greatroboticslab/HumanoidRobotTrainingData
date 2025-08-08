@@ -30,11 +30,20 @@ from qwen_vl_utils import process_vision_info
 import re, random
 
 # Model path is first argument, the input prompt.txt is the second argument
-model_path = sys.argv[1]
+
+parser = argparse.ArgumentParser(description="Parse model argument")
+parser.add_argument('--start', type=int, default=0, help='Start from this file #')
+parser.add_argument('--end', type=int, default=-1, help='Stop processing at this file, set to -1 for all files from start.')
+parser.add_argument('--model', type=str, default='../../../hf_cache/hub/models--BLIP3o--BLIP3o-Model-8B/snapshots/c2edfc20814d4624c8d73ca3de351ebc3fa86508/', help='Directory where the model is located.')
+parser.add_argument('--dir', type=str, default='../../minicpm_baseline/output/shortencaptions/', help='Directory where all folders to be proccessed are located.')
+
+args = parser.parse_args()
+
+model_path = args.model
 diffusion_path = model_path + "/diffusion-decoder"
 
 # Name of the prompt directory
-prompt_path = sys.argv[2]
+prompt_path = args.dir
 #vIndex = os.path.basename(os.path.normpath(prompt_path))
 
 processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct")
@@ -104,9 +113,18 @@ def set_global_seed(seed=42):
     torch.cuda.manual_seed(seed)
     torch.cuda.manual_seed_all(seed)
 
-folders = [f for f in os.listdir(prompt_path) if os.path.isdir(os.path.join(prompt_path, f))]
+onlyFolders = [name for name in os.listdir(prompt_path) if os.path.isdir(os.path.join(prompt_path, name))]
 
-for fo in folders:
+
+_from = args.start
+if _from > len(onlyFolders):
+    _from = len(onlyFolders)
+_to = args.end
+if _to > len(onlyFolders):
+    _to = len(onlyFolders)
+onlyFolders = onlyFolders[_from:_to]
+
+for fo in onlyFolders:
 
     files = [f for f in os.listdir(prompt_path + "/" + fo) if os.path.isfile(os.path.join(prompt_path + "/" + fo, f))]
 
