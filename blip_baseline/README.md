@@ -4,7 +4,7 @@ You can generate images from image captions using the slurm file:
 
 	sbatch generate_images.slurm <start> <end>
 
-Alternatively, you can run the Python file: generate.py (located in the scripts/ folder), which is used to generate a series of images from a given prompt file. The format for the command is:
+This will generate imaged into the output/ folder, along with their prompts, which share the same frame name. Alternatively, you can run the Python file: generate.py (located in the scripts/ folder), which is used to generate a series of images from a given prompt file. The format for the command is:
 
 	conda activate blip3o
 	python generate.py --start <start> --end <end> --model <path to model>

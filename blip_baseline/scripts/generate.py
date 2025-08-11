@@ -156,4 +156,6 @@ for fo in onlyFolders:
         fileName = f[:10] # + re.sub(r'[<>:"/\\|?*\.\s]+', '_', prompt[:100]).strip('_')
 
         grid_image.save("../output/"+vIndex+"/"+fileName+".png")
-
+        outputPrompt = open("../output"+vIndex+"/"+fileName+".txt", "w")
+        outputPrompt.write(prompt)
+        outputPrompt.close()
