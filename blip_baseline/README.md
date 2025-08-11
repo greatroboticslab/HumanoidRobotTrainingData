@@ -1,9 +1,13 @@
 ## Scripts
 
-generate.py (located in the scripts/ folder)  is used to generate a series of images from a given prompt file. The format for the command is:
+You can generate images from image captions using the slurm file:
+
+	sbatch generate_images.slurm <start> <end>
+
+Alternatively, you can run the Python file: generate.py (located in the scripts/ folder), which is used to generate a series of images from a given prompt file. The format for the command is:
 
 	conda activate blip3o
-	python generate.py model_path prompt_file
+	python generate.py --start <start> --end <end> --model <path to model>
 
 The prompt file is a .txt file seperated by newlines for each prompt.
 

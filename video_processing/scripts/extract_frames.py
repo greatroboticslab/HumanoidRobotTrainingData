@@ -102,13 +102,16 @@ def main():
         # original_video_name = download_youtube_video(url, "Video_input")
         
         if video:
-            safe_folder_name = create_folder(videoIndex, False)
-            frames_dir = os.path.join(safe_folder_name, "raw_frames")
+            if os.path.isdir("../frames/" + os.path.splitext(os.path.basename(path))[0]):
+                print("Frames alredy extracted for this video, skipping...")
+            else:
+                safe_folder_name = create_folder(videoIndex, False)
+                frames_dir = os.path.join(safe_folder_name, "raw_frames")
 
-            os.makedirs(frames_dir, exist_ok=True)
+                os.makedirs(frames_dir, exist_ok=True)
 
-            print(frames_dir)
-            frame_paths = video_to_frames("../relevant_videos", frames_dir, video, skip_frames=100)
+                print(frames_dir)
+                frame_paths = video_to_frames("../relevant_videos", frames_dir, video, skip_frames=100)
 
     print("Processing completed.")
 

@@ -93,7 +93,15 @@ To locally download all the videos into your current local directory. This may t
 
 ### Frame extraction
 
-After videos are downloaded and analyzed for relevance, the extract_frames.py script can be run to extract frames:
+After videos are downloaded and analyzed for relevance, to extract frames from all videos, run the bash script:
+
+	bash extract_all_frames.sh
+
+Alternatively, the extract_frames.py script can be run to extract frames:
 
 	conda activate depthanything
 	python extract_frames.py --start <start_index> --end <end_index>
+
+Or use the extract_frames.slurm script:
+
+	sbatch extract_frames.slurm <start> <end>
