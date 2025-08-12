@@ -1,0 +1,6 @@
++ cd ../
++ echo 'Beginning transcription...'
++ conda run -n whisper python extract_frames.py --start 0 --end 2
+python: can't open file '/ocean/projects/cis240145p/byler/HumanoidRobotTrainingData/video_processing/extract_frames.py': [Errno 2] No such file or directory
+
+ERROR conda.cli.main_run:execute(125): `conda run python extract_frames.py --start 0 --end 2` failed. (See above for error)

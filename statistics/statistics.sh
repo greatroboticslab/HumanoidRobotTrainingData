@@ -15,13 +15,19 @@ echo "Total frames processed: $count"
 count=$(find ../video_processing/frames/ -mindepth 1 -maxdepth 1 -type d | wc -l)
 echo "Total frame videos processed: $count"
 
-count=$(find ../minicpm_baseline/captions/ -mindepth 2 -maxdepth 2  | wc -l)
+count=$(find ../minicpm_baseline/output/fullcaptions/ -mindepth 2 -maxdepth 2  | wc -l)
 echo "Total captions: $count"
 
-count=$(find ../minicpm_baseline/captions/ -mindepth 1 -maxdepth 1 -type d | wc -l)
+count=$(find ../minicpm_baseline/output/fullcaptions/ -mindepth 1 -maxdepth 1 -type d | wc -l)
 echo "Total caption videos processed: $count"
 
-count=$(find ../s1_baseline/output/ -mindepth 1 -maxdepth 1 -type f -name "*.json"  | wc -l)
+count=$(find ../minicpm_baseline/output/shortencaptions/ -mindepth 2 -maxdepth 2  | wc -l)
+echo "Total shortened captions: $count"
+
+count=$(find ../minicpm_baseline/output/shortencaptions/ -mindepth 1 -maxdepth 1 -type d | wc -l)
+echo "Total shortened caption videos processed: $count"
+
+count=$(find ../s1_baseline/output/tasks/ -mindepth 1 -maxdepth 1 -type f -name "*.json"  | wc -l)
 echo "Total JSON files made for actions from videos: $count"
 
 python ../statistics/count_actions.py

@@ -22,5 +22,4 @@ def count_tasks_and_subtasks(directory):
     print("Total tasks:", total_tasks)
     print("Total subtasks:", total_subtasks)
 
-# Example usage:
-count_tasks_and_subtasks("../s1_baseline/output/")
+count_tasks_and_subtasks("../s1_baseline/output/tasks/")
