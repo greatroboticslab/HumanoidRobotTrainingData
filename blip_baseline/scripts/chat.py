@@ -121,7 +121,7 @@ while(True):
     set_global_seed(seed=42)
     gen_images = []
 
-    output = add_template([input("Enter Text: "])
+    output = pipe(add_template([input("Enter Text: ")]), guidance_scale=3.0)
     print(output)
 
     #for i in range(4):

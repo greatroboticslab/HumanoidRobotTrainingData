@@ -1,3 +1,12 @@
+## Setup
+
+Images can be both captioned and generated with Blip3o. To set up the environment:
+
+	conda create -n blip3o python=3.11 -y
+	conda activate blip3o
+	pip install --upgrade pip  setuptools
+	pip install -r requirements.txt
+
 ## Scripts
 
 You can generate images from image captions using the slurm file:
