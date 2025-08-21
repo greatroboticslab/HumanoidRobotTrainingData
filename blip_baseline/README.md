@@ -7,6 +7,10 @@ Images can be both captioned and generated with Blip3o. To set up the environmen
 	pip install --upgrade pip  setuptools
 	pip install -r requirements.txt
 
+For some computers, you may run into issues with the diffusers library. To fix this, you can simply uninstall it:
+
+	pip uninstall diffusers
+
 ## Scripts
 
 You can generate images from image captions using the slurm file:

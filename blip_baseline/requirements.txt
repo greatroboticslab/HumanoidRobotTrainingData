@@ -29,7 +29,7 @@ git+https://github.com/JiuhaiChen/diffusers.git
 deepspeed
 datasets
 tabulate
-flash_attn==2.6.2
+# flash_attn==2.6.2
 ninja
 qwen_vl_utils
 huggingface_hub
