@@ -1,0 +1,10 @@
+<!DOCTYPE FilterScript>
+<FilterScript>
+  <filter name="Surface Reconstruction: Ball Pivoting">
+    <Param type="RichFloat" name="BallRadius1" value="0.05"/>
+    <Param type="RichFloat" name="BallRadius2" value="0.10"/>
+    <Param type="RichFloat" name="BallRadius3" value="0.20"/>
+    <Param type="RichBool"  name="DeleteFaces" value="false"/>
+  </filter>
+  <filter name="Remove Unreferenced Vertices"/>
+</FilterScript>
