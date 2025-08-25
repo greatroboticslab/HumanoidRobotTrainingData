@@ -120,4 +120,5 @@ with torch.no_grad():
 
         
         world_points = predictions["world_points"]
-        ball_pivot_mesh(world_points, "tomato.obj")
+        world_points_to_obj(world_points)
+#        ball_pivot_mesh(world_points, "tomato.obj")

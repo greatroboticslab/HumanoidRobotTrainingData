@@ -1,0 +1,16 @@
++ conda run -n vggt python generate.py
+Traceback (most recent call last):
+  File "/ocean/projects/cis240145p/byler/HumanoidRobotTrainingData/vggt_baseline/scripts/generate.py", line 102, in <module>
+    dtype = torch.bfloat16 if torch.cuda.get_device_capability()[0] >= 8 else torch.float16
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/jet/home/byler/miniconda3/envs/vggt/lib/python3.11/site-packages/torch/cuda/__init__.py", line 430, in get_device_capability
+    prop = get_device_properties(device)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/jet/home/byler/miniconda3/envs/vggt/lib/python3.11/site-packages/torch/cuda/__init__.py", line 444, in get_device_properties
+    _lazy_init()  # will define _get_device_properties
+    ^^^^^^^^^^^^
+  File "/jet/home/byler/miniconda3/envs/vggt/lib/python3.11/site-packages/torch/cuda/__init__.py", line 293, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py` failed. (See above for error)
