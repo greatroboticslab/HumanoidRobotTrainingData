@@ -1,3 +1,14 @@
+## Pointcloud Generation
+VGGT can be used to generate a 3D pointcloud from an image. The result will be saved as an .obj.
+
+	python generate.py
+
+## Remeshing
+
+To convert the pointcloud to a solid mesh, you will need to run the .mlx script with meshlabserver:
+
+	meshlabserver -i input.obj -o output.obj -s remesh.mlx
+
 <div align="center">
 <h1>VGGT: Visual Geometry Grounded Transformer</h1>
 
