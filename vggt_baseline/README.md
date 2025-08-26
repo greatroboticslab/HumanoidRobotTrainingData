@@ -1,3 +1,11 @@
+
+## Installation
+
+Simply follow the installation process below in	the original readme.
+
+# Original ReadMe
+
+
 ## Pointcloud Generation
 VGGT can be used to generate a 3D pointcloud from an image. The result will be saved as an .obj.
 
