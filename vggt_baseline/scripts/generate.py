@@ -7,6 +7,14 @@ from vggt.models.vggt import VGGT
 from vggt.utils.load_fn import load_and_preprocess_images
 from visual_util import predictions_to_glb
 
+import argparse
+
+parser = argparse.ArgumentParser(description="Parse model argument")
+parser.add_argument('--downsample', type=int, default=1, help='Downsample the mesh/pointcloud by this much. Higher value = less verticies. Reccommended value for games/simulations = 96.')
+
+args = parser.parse_args()
+
+
 def world_points_to_obj(world_points, filename="output.obj", sample_stride=1):
     """
     Convert VGGT world_points tensor to an OBJ point cloud.
@@ -120,5 +128,5 @@ with torch.no_grad():
 
         
         world_points = predictions["world_points"]
-        world_points_to_obj(world_points)
+        world_points_to_obj(world_points, sample_stride=args.downsample)
 #        ball_pivot_mesh(world_points, "tomato.obj")
