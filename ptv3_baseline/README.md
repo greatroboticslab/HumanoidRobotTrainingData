@@ -3,6 +3,12 @@
 
 Simply follow the installation process below in	the original readme.
 
+## Segment .obj file
+
+The file scripts/obj_segment_ptv3.py is intended to create segmentations from an .obj file. It is currently unfinished, due to channel size mismatches. Here is an example command to run it:
+
+	python obj_segment_ptv3.py --checkpoint ../PointTransformerV3/scannet-semseg-pt-v3m1-0-base/model/model_best.pth --obj ../../vggt_baseline/output/tomato_mesh.obj
+
 # Original ReadMe
 
 

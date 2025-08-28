@@ -1,3 +1,8 @@
+## Segmentation
+
+The python script scripts/segment_obj_with_octformer.py is intended to create segmentations of a 3D .obj file. It is currently unfinished, but here is an example run of the script:
+
+	python segment_obj_with_octformer.py --obj ../../vggt_baseline/output/tomato_mesh.obj --checkpoint ../models/scannet/best_model.pth --config ../octformer/configs/seg_scannet.yaml --out ../out/my_mesh_segmented --num-points 200000 --device cuda --octformer-root ../octformer
 
 ## Installation
 
