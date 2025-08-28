@@ -17,4 +17,10 @@ sbatch generate_captions.slurm 0 1
 cd ../../
 cd segmentation_baseline/sam1_baseline/scripts/
 sbatch generate_segments.slurm 0 1
+cd ../../
+cd depth_anything_baseline/scripts/
+sbatch generate_depths.slurm 0 1
+cd ../../
+cd blip_baseline/scripts/
+sbatch generate_images 0 1
 cd ../../../

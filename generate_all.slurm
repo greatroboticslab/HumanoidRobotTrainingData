@@ -31,6 +31,9 @@ while [ $f -lt $MAX ]; do
     cd ../../
     cd segmentation_baseline/sam1_baseline/scripts/
     sbatch generate_segments.slurm "$s" "$f"
+    cd ../../
+    cd depth_anything_baseline/scripts/
+    sbatch generate_depths.slurm "$s" "$f"
     cd ../../../
     s=$((s + 100))
 done

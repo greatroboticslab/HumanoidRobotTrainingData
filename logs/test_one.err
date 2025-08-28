@@ -1,0 +1,4 @@
+/var/spool/slurm/d/job34499189/slurm_script: line 21: cd: depth_anything_baseline/scripts/: No such file or directory
+sbatch: error: Unable to open file generate_depths.slurm
+/var/spool/slurm/d/job34499189/slurm_script: line 24: cd: blip_baseline/scripts/: No such file or directory
+sbatch: error: Unable to open file generate_images
