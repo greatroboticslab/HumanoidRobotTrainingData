@@ -1,18 +1,18 @@
 + cd ../../minicpm_baseline/scripts
 + echo 'Generating captions...'
-+ conda run -n minicpm python generate_captions.py --start 900 --end 1000
++ conda run -n minicpm python generate_captions.py --start 0 --end 1
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n minicpm python generate_captions.py --start 900 --end 1000
++ __conda_exe run -n minicpm python generate_captions.py --start 0 --end 1
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n minicpm python generate_captions.py --start 900 --end 1000
-slurmstepd: error: *** JOB 33416554 ON v011 CANCELLED AT 2025-07-10T04:54:54 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 33416559 ON v024 CANCELLED AT 2025-07-10T04:54:54 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 33416567 ON v011 CANCELLED AT 2025-07-10T05:02:39 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 33416572 ON v006 CANCELLED AT 2025-07-10T05:10:48 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 33416576 ON v034 CANCELLED AT 2025-07-10T05:26:38 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 33416580 ON v034 CANCELLED AT 2025-07-10T05:30:46 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 33416589 ON v006 CANCELLED AT 2025-07-10T05:38:34 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 33416584 ON v006 CANCELLED AT 2025-07-10T05:38:34 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 33416593 ON v010 CANCELLED AT 2025-07-10T05:42:47 DUE TO TIME LIMIT ***
-slurmstepd: error: *** JOB 33416597 ON v010 CANCELLED AT 2025-07-10T05:46:52 DUE TO TIME LIMIT ***
++ /jet/home/byler/miniconda3/bin/conda run -n minicpm python generate_captions.py --start 0 --end 1
+The cache for model files in Transformers v4.22.0 has been updated. Migrating your old cache. This is a one-time only operation. You can interrupt this and resume the migration later on by calling `transformers.utils.move_cache()`.
+
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+Traceback (most recent call last):
+  File "/ocean/projects/cis240145p/byler/HumanoidRobotTrainingData/minicpm_baseline/scripts/generate_captions.py", line 16, in <module>
+    onlyFolders = [name for name in os.listdir(frameDir) if os.path.isdir(os.path.join(frameDir, name))]
+FileNotFoundError: [Errno 2] No such file or directory: '../../video_processing/frames/'
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate_captions.py --start 0 --end 1` failed. (See above for error)

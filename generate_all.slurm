@@ -34,6 +34,9 @@ while [ $f -lt $MAX ]; do
     cd ../../
     cd depth_anything_baseline/scripts/
     sbatch generate_depths.slurm "$s" "$f"
+    cd ../../
+    cd blip_baseline/scripts/
+    sbatch generate_images "$s" "$f"
     cd ../../../
     s=$((s + 100))
 done
