@@ -7,6 +7,7 @@ import torch
 from vggt.models.vggt import VGGT
 from vggt.utils.load_fn import load_and_preprocess_images
 from visual_util import predictions_to_glb
+import pymeshlab
 
 import argparse
 
@@ -93,24 +94,12 @@ def pointcloud_to_mesh(world_points, obj_filename="mesh.obj", img=None):
     return mesh
 
 
-def ball_pivot_mesh(world_points, obj_filename="mesh.obj", radius=0.01):
+def ball_pivot_mesh(obj_filename, radius=0.01):
 
-    pts = world_points.squeeze().detach().cpu().numpy()
-    pts = pts.reshape(-1, 3)
+    print(obj_filename)
 
-    pcd = o3d.geometry.PointCloud()
-    pcd.points = o3d.utility.Vector3dVector(pts)
-    pcd.estimate_normals()
-
-    # Radii for ball pivot (try a few multiples of average spacing)
-    radii = [radius, radius * 2, radius * 4]
-    mesh = o3d.geometry.TriangleMesh.create_from_point_cloud_ball_pivoting(
-        pcd, o3d.utility.DoubleVector(radii)
-    )
-
-    o3d.io.write_triangle_mesh(obj_filename, mesh)
-    print(f"Saved Ball Pivoting mesh to {obj_filename}")
-    return mesh
+    ms = pymeshlab.MeshSet()
+    ms.load_new_mesh(obj_filename)
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 # bfloat16 is supported on Ampere GPUs (Compute Capability 8.0+) 
@@ -152,6 +141,7 @@ if args.input == "":
                 fldName = os.path.basename(os.path.dirname(args.dir+ file))
                 print(fldName)
                 world_points_to_obj(world_points, filename=os.path.splitext(os.path.basename(file))[0], foldername=fldName, sample_stride=args.downsample)
+                ball_pivot_mesh(fldName + "/" + os.path.splitext(os.path.basename(file)))
 
 else:
 
