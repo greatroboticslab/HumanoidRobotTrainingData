@@ -11,9 +11,9 @@ The --downsample argument is an int value, where the higher the value, the lower
 
 ## Remeshing
 
-To convert the pointcloud to a solid mesh, you will need to run the .mlx script with meshlabserver:
+To convert the pointclous to a solid mesh, the below script can be used to remesh all the pointclouds in output/ into .objs in meshes/
 
-	meshlabserver -i input.obj -o output.obj -s remesh.mlx
+	python convert_all.py
 
 # Original Readme
 
