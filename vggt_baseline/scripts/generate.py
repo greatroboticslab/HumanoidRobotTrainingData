@@ -7,7 +7,7 @@ import torch
 from vggt.models.vggt import VGGT
 from vggt.utils.load_fn import load_and_preprocess_images
 from visual_util import predictions_to_glb
-import pymeshlab
+#import pymeshlab
 
 import argparse
 

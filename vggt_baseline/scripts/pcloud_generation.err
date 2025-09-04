@@ -1,0 +1,14 @@
++ conda run -n vggt python generate.py --dir ../../image_processing/strawberryfield/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/strawberryfield/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/strawberryfield/
+Traceback (most recent call last):
+  File "/ocean/projects/cis240145p/byler/HumanoidRobotTrainingData/vggt_baseline/scripts/generate.py", line 10, in <module>
+    import pymeshlab
+  File "/jet/home/byler/miniconda3/envs/vggt/lib/python3.11/site-packages/pymeshlab/__init__.py", line 11, in <module>
+    from .pmeshlab import *
+ImportError: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.29' not found (required by /jet/home/byler/miniconda3/envs/vggt/lib/python3.11/site-packages/pymeshlab/pmeshlab.cpython-311-x86_64-linux-gnu.so)
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/strawberryfield/` failed. (See above for error)
