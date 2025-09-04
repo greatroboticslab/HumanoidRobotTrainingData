@@ -141,7 +141,8 @@ if args.input == "":
                 fldName = os.path.basename(os.path.dirname(args.dir+ file))
                 print(fldName)
                 world_points_to_obj(world_points, filename=os.path.splitext(os.path.basename(file))[0], foldername=fldName, sample_stride=args.downsample)
-                ball_pivot_mesh(fldName + "/" + os.path.splitext(os.path.basename(file)))
+                #print(os.path.splitext(os.path.basename(file)))
+                #ball_pivot_mesh(fldName + "/" + os.path.splitext(os.path.basename(file)))
 
 else:
 
