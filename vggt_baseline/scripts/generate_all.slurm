@@ -12,8 +12,9 @@ source ../../../miniconda3/etc/profile.d/conda.sh
 set -x
 
 
-for dir in "../../image_processing"/*/; do
+for dir in "../../image_processing/vegetablesandfruits"/*/; do
     if [ -d "$dir" ]; then
         conda run -n vggt python generate.py --dir "$dir"
+        echo "$dir"
     fi
 done

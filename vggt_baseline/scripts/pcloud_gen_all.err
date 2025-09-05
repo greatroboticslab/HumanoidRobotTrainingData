@@ -1,0 +1,8 @@
++ for dir in "../../image_processing"/*/
++ '[' -d ../../image_processing/vegetablesandfruits/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vegetablesandfruits/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vegetablesandfruits/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vegetablesandfruits/
