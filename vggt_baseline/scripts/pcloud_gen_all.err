@@ -1,8 +1,207 @@
-+ for dir in "../../image_processing"/*/
-+ '[' -d ../../image_processing/vegetablesandfruits/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vegetablesandfruits/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/apple/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/apple/
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vegetablesandfruits/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/apple/
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vegetablesandfruits/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/apple/
++ echo ../../image_processing/vggt_images/apple/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/banana/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/banana/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/banana/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/banana/
++ echo ../../image_processing/vggt_images/banana/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/barns/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/barns/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/barns/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/barns/
++ echo ../../image_processing/vggt_images/barns/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/bellpepper/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/bellpepper/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/bellpepper/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/bellpepper/
++ echo ../../image_processing/vggt_images/bellpepper/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/broccoli/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/broccoli/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/broccoli/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/broccoli/
++ echo ../../image_processing/vggt_images/broccoli/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/cabbage/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cabbage/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/cabbage/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cabbage/
++ echo ../../image_processing/vggt_images/cabbage/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/carrots/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/carrots/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/carrots/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/carrots/
++ echo ../../image_processing/vggt_images/carrots/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/cauliflower/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cauliflower/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/cauliflower/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cauliflower/
++ echo ../../image_processing/vggt_images/cauliflower/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/combine/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/combine/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/combine/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/combine/
++ echo ../../image_processing/vggt_images/combine/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/cucumber/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cucumber/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/cucumber/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cucumber/
++ echo ../../image_processing/vggt_images/cucumber/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/grapes/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/grapes/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/grapes/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/grapes/
++ echo ../../image_processing/vggt_images/grapes/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/kale/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/kale/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/kale/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/kale/
++ echo ../../image_processing/vggt_images/kale/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/lettuce/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/lettuce/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/lettuce/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/lettuce/
++ echo ../../image_processing/vggt_images/lettuce/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/mango/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/mango/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/mango/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/mango/
++ echo ../../image_processing/vggt_images/mango/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/orange/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/orange/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/orange/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/orange/
++ echo ../../image_processing/vggt_images/orange/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/pineapples/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/pineapples/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/pineapples/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/pineapples/
++ echo ../../image_processing/vggt_images/pineapples/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/potato/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/potato/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/potato/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/potato/
++ echo ../../image_processing/vggt_images/potato/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/spinach/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/spinach/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/spinach/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/spinach/
++ echo ../../image_processing/vggt_images/spinach/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/strawberryfield/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryfield/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryfield/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryfield/
++ echo ../../image_processing/vggt_images/strawberryfield/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/strawberryplants/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryplants/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryplants/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryplants/
++ echo ../../image_processing/vggt_images/strawberryplants/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/tomatoes/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tomatoes/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/tomatoes/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tomatoes/
++ echo ../../image_processing/vggt_images/tomatoes/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/tractors/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tractors/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/tractors/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tractors/
++ echo ../../image_processing/vggt_images/tractors/
++ for dir in "../../image_processing/vggt_images"/*/
++ '[' -d ../../image_processing/vggt_images/zucchini/ ']'
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/zucchini/
++ local cmd=run
++ case "$cmd" in
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/zucchini/
++ '[' -n '' ']'
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/zucchini/
++ echo ../../image_processing/vggt_images/zucchini/
