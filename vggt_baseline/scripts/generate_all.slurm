@@ -14,7 +14,7 @@ set -x
 
 for dir in "../../image_processing/vggt_images"/*/; do
     if [ -d "$dir" ]; then
-        conda run -n vggt python generate.py --dir "$dir"
+        conda run -n vggt python generate.py --dir "$dir" ----downsample 96
         echo "$dir"
     fi
 done

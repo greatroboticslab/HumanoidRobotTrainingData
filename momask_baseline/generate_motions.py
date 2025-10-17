@@ -53,7 +53,7 @@ for vid in onlyfiles:
 
     # Load the JSON file
     print("Loading " + str(vid) + "...")
-    with open("../s1_baseline/output/" + str(vid), 'r', encoding='utf-8') as f:
+    with open("../s1_baseline/output/tasks/" + str(vid), 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     item = data

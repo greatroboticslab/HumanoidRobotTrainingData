@@ -1,207 +1,322 @@
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/apple/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/apple/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/apple/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/apple/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/apple/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/apple/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/apple/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/apple/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/apple/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/banana/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/banana/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/banana/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/banana/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/banana/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/banana/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/banana/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/banana/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/banana/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/barns/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/barns/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/barns/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/barns/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/barns/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/barns/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/barns/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/barns/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/barns/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/bellpepper/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/bellpepper/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/bellpepper/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/bellpepper/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/bellpepper/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/bellpepper/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/bellpepper/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/bellpepper/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/bellpepper/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/broccoli/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/broccoli/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/broccoli/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/broccoli/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/broccoli/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/broccoli/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/broccoli/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/broccoli/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/broccoli/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/cabbage/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cabbage/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cabbage/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/cabbage/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/cabbage/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cabbage/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cabbage/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/cabbage/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/cabbage/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/carrots/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/carrots/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/carrots/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/carrots/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/carrots/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/carrots/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/carrots/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/carrots/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/carrots/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/cauliflower/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cauliflower/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cauliflower/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/cauliflower/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/cauliflower/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cauliflower/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cauliflower/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/cauliflower/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/cauliflower/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/combine/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/combine/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/combine/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/combine/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/combine/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/combine/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/combine/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/combine/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/combine/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/cucumber/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cucumber/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cucumber/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/cucumber/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/cucumber/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cucumber/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/cucumber/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/cucumber/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/cucumber/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/grapes/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/grapes/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/grapes/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/grapes/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/grapes/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/grapes/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/grapes/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/grapes/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/grapes/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/kale/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/kale/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/kale/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/kale/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/kale/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/kale/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/kale/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/kale/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/kale/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/lettuce/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/lettuce/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/lettuce/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/lettuce/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/lettuce/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/lettuce/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/lettuce/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/lettuce/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/lettuce/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/mango/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/mango/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/mango/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/mango/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/mango/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/mango/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/mango/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/mango/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/mango/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/orange/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/orange/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/orange/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/orange/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/orange/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/orange/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/orange/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/orange/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/orange/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/pineapples/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/pineapples/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/pineapples/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/pineapples/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/pineapples/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/pineapples/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/pineapples/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/pineapples/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/pineapples/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/potato/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/potato/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/potato/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/potato/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/potato/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/potato/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/potato/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/potato/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/potato/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/spinach/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/spinach/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/spinach/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/spinach/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/spinach/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/spinach/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/spinach/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/spinach/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/spinach/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/strawberryfield/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryfield/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryfield/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryfield/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryfield/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryfield/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryfield/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/strawberryfield/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/strawberryfield/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/strawberryplants/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryplants/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryplants/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryplants/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryplants/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryplants/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/strawberryplants/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/strawberryplants/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/strawberryplants/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/tomatoes/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tomatoes/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tomatoes/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/tomatoes/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/tomatoes/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tomatoes/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tomatoes/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/tomatoes/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/tomatoes/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/tractors/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tractors/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tractors/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/tractors/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/tractors/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tractors/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/tractors/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/tractors/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/tractors/
 + for dir in "../../image_processing/vggt_images"/*/
 + '[' -d ../../image_processing/vggt_images/zucchini/ ']'
-+ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/zucchini/
++ conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/zucchini/ ----downsample 96
 + local cmd=run
 + case "$cmd" in
-+ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/zucchini/
++ __conda_exe run -n vggt python generate.py --dir ../../image_processing/vggt_images/zucchini/ ----downsample 96
 + '[' -n '' ']'
-+ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/zucchini/
++ /jet/home/byler/miniconda3/bin/conda run -n vggt python generate.py --dir ../../image_processing/vggt_images/zucchini/ ----downsample 96
+usage: generate.py [-h] [--downsample DOWNSAMPLE] [--input INPUT] [--dir DIR]
+                   [--start START] [--end END]
+generate.py: error: unrecognized arguments: ----downsample 96
+
+ERROR conda.cli.main_run:execute(125): `conda run python generate.py --dir ../../image_processing/vggt_images/zucchini/ ----downsample 96` failed. (See above for error)
 + echo ../../image_processing/vggt_images/zucchini/
