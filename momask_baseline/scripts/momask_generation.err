@@ -1,30 +1,15 @@
 + cd ../
 + pip install git+https://github.com/openai/CLIP.git
-  Running command git clone --filter=blob:none --quiet https://github.com/openai/CLIP.git /var/tmp/pip-req-build-penu1bxf
-  Running command git clone --filter=blob:none --quiet https://github.com/openai/CLIP.git /var/tmp/pip-req-build-wzf3n9lr
-  Running command git clone --filter=blob:none --quiet https://github.com/openai/CLIP.git /var/tmp/pip-req-build-g0iyc_l2
-  Running command git clone --filter=blob:none --quiet https://github.com/openai/CLIP.git /var/tmp/pip-req-build-jlbbtjm1
+  Running command git clone --filter=blob:none --quiet https://github.com/openai/CLIP.git /var/tmp/pip-req-build-5tcl4rzx
 + pip install --upgrade --no-cache-dir gdown
-+ pip install --upgrade --no-cache-dir gdown
-+ pip install --upgrade --no-cache-dir gdown
-+ pip install --upgrade --no-cache-dir gdown
-+ conda run -n momask python generate_motions.py --start s --end f
-+ conda run -n momask python generate_motions.py --start s --end f
-+ conda run -n momask python generate_motions.py --start s --end f
-+ conda run -n momask python generate_motions.py --start s --end f
-usage: generate_motions.py [-h] [--start START] [--end END]
-generate_motions.py: error: argument --start: invalid int value: 's'
-
-ERROR conda.cli.main_run:execute(125): `conda run python generate_motions.py --start s --end f` failed. (See above for error)
-usage: generate_motions.py [-h] [--start START] [--end END]
-generate_motions.py: error: argument --start: invalid int value: 's'
-
-ERROR conda.cli.main_run:execute(125): `conda run python generate_motions.py --start s --end f` failed. (See above for error)
-usage: generate_motions.py [-h] [--start START] [--end END]
-generate_motions.py: error: argument --start: invalid int value: 's'
-
-ERROR conda.cli.main_run:execute(125): `conda run python generate_motions.py --start s --end f` failed. (See above for error)
-usage: generate_motions.py [-h] [--start START] [--end END]
-generate_motions.py: error: argument --start: invalid int value: 's'
-
-ERROR conda.cli.main_run:execute(125): `conda run python generate_motions.py --start s --end f` failed. (See above for error)
++ conda run -n momask python generate_motions.py --start 900 --end 1000
+slurmstepd: error: *** JOB 35498658 ON v027 CANCELLED AT 2025-10-18T12:56:44 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 35498659 ON v025 CANCELLED AT 2025-10-18T13:08:42 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 35498660 ON v026 CANCELLED AT 2025-10-18T13:08:42 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 35498661 ON v027 CANCELLED AT 2025-10-18T13:08:42 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 35498665 ON v032 CANCELLED AT 2025-10-18T13:08:42 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 35498666 ON v033 CANCELLED AT 2025-10-18T13:08:42 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 35498663 ON v027 CANCELLED AT 2025-10-18T13:08:42 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 35498664 ON v032 CANCELLED AT 2025-10-18T13:08:42 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 35498667 ON v030 CANCELLED AT 2025-10-18T13:12:15 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 35498668 ON v025 CANCELLED AT 2025-10-19T00:29:41 DUE TO TIME LIMIT ***
